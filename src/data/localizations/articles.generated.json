@@ -21780,6 +21780,345 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/android-google-changed-mobile-2007-announcement/",
+    "path": "/ar/articles/android-google-changed-mobile-2007-announcement/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "أندرويد: اليوم الذي غيّرت فيه غوغل عالم الهواتف إلى الأبد",
+    "seoTitle": "أندرويد: إعلان 2007 الذي غيّر عالم الهواتف",
+    "description": "استعد قصة إعلان أندرويد في نوفمبر 2007، وأول هاتف عام 2008، والتحالف الذي ساعد على تحويل منصة برمجية إلى منظومة للهواتف.",
+    "excerpt": "استعد قصة إعلان أندرويد في نوفمبر 2007، وأول هاتف عام 2008، والتحالف الذي ساعد على تحويل منصة برمجية إلى منظومة للهواتف.",
+    "headlineHighlights": {
+      "red": "أندرويد",
+      "gold": "غيّرت فيه غوغل عالم الهواتف إلى الأبد"
+    },
+    "keywords": [
+      "أندرويد",
+      "غيّرت فيه غوغل عالم الهواتف إلى الأبد"
+    ],
+    "searchIntent": "استعد قصة إعلان أندرويد في نوفمبر 2007، وأول هاتف عام 2008، والتحالف الذي ساعد على تحويل منصة برمجية إلى منظومة للهواتف.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/android-google-mobile-platform-history-editorial.jpg",
+      "alt": "رسم تحريري تصوري لتميمة خضراء شبيهة بأندرويد إلى جانب هاتف غير محدد الطراز.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "لم يكشف الإعلان الذي غيّر مكانة غوغل في الهواتف عن جهاز. ففي 5 نوفمبر 2007 قدمت الشركة أندرويد وتحالفاً من الشركاء الذين أرادوا البناء حوله. كان هذا التمييز جوهرياً. يستطيع هاتف واحد جذب الانتباه، لكن منصة مشتركة تمنح مصنّعين ومطورين كثيرين نقطة بداية. امتدت النتائج عبر سنوات، غير أن الفكرة المعلنة كانت واضحة: يمكن تنظيم الحوسبة المحمولة حول منظومة متكاملة."
+      },
+      {
+        "type": "heading",
+        "text": "5 نوفمبر 2007: منصة تدخل المشهد"
+      },
+      {
+        "type": "paragraph",
+        "text": "في تدوينة غوغل الأصلية ميّز آندي روبين، مدير منصات الهواتف، الإعلان عن هاتف جي فون الذي دارت حوله الشائعات. قُدم أندرويد حزمة تضم نظام التشغيل والواجهة والتطبيقات، طُورت مع شركاء في القطاع. وأوضح النص أيضاً أن الهواتف ستأتي لاحقاً. اعتبار ذلك اليوم بداية شراء هاتف أندرويد يخلط إعلان المنصة بالإطلاق التجاري. [المصدر: Google](https://googleblog.blogspot.com/2007/11/wheres-my-gphone.html)"
+      },
+      {
+        "type": "heading",
+        "text": "التحالف خلف الطموح"
+      },
+      {
+        "type": "paragraph",
+        "text": "سمى بيان تحالف الهواتف المفتوحة 34 شركة مؤسسة، شملت مصنعين ومشغلين وموردي تقنيات، منهم إتش تي سي وتي موبايل وكوالكوم وموتورولا. عالجت الاستراتيجية مشكلة تنسيق: تحتاج المنصة إلى تكامل الأجهزة والشبكات وأدوات البرمجة والتطبيقات. وكان وعد الانفتاح أيضاً طرحاً تجارياً لتقليل عوائق تطوير الأجهزة والخدمات. هذه أهداف الشركاء المعلنة، وليست دليلاً على تماثل كل منتجات أندرويد اللاحقة أو تساوي انفتاحها. [المصدر: Open Handset Alliance](https://www.openhandsetalliance.com/press_110507.html)"
+      },
+      {
+        "type": "heading",
+        "text": "2008: ظهور الهاتف الأول"
+      },
+      {
+        "type": "paragraph",
+        "text": "في 23 سبتمبر 2008 قدمت غوغل أول هاتف يعمل بأندرويد، تي موبايل جي 1، المطور مع إتش تي سي وتي موبايل. منح الإعلان خطة المنصة السابقة جسماً استهلاكياً واضحاً، ووضع المطورين والتطبيقات في قلب القصة. لكن أهمية أندرويد التاريخية تتجاوز شكل الجهاز الأول: كان الرهان الأوسع أن تدعم قاعدة مشتركة هواتف وتجارب مختلفة. [المصدر: Google](https://googleblog.blogspot.com/2008/09/first-android-powered-phone.html)"
+      },
+      {
+        "type": "heading",
+        "text": "محطة الشفرة المصدرية"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتكمل الخط الزمني محطة 21 أكتوبر 2008، حين أعلنت غوغل والتحالف إتاحة شفرة المنصة للجمهور عبر مشروع أندرويد مفتوح المصدر. كان الإعلان والهاتف الأول ونشر الشفرة محطات منفصلة. كما لا تعني البرمجيات المفتوحة أن كل خدمة أو ترتيب تجاري أو تطبيق في الهاتف النهائي جزء من الشفرة المفتوحة نفسها. توضح هذه الفروق الإنجاز بدقة أكبر من حكاية يوم إطلاق سحري واحد. [المصدر: Open Handset Alliance](https://www.openhandsetalliance.com/press_102108.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعلق التحول بطريقة بناء الهاتف وتوسيع إمكاناته. أصبح الجهاز مدخلاً إلى علاقة أوسع بين المصنعين والمطورين والمشغلين والمستخدمين. لم يخترع أندرويد الهاتف الذكي، لكن نهج المنصة المشتركة ساعد على إعادة تشكيل الخيارات المحيطة به. اكتسب اليوم أهميته مما سيبنيه بعده كثيرون."
+      },
+      {
+        "type": "paragraph",
+        "text": "اقرأ أيضاً: [كيف أصبح رمز QR واجهة يومية](/articles/qr-code-history-simple-square-digital-world/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: Google",
+        "url": "https://googleblog.blogspot.com/2007/11/wheres-my-gphone.html"
+      },
+      {
+        "label": "المصدر: Open Handset Alliance",
+        "url": "https://www.openhandsetalliance.com/press_110507.html"
+      },
+      {
+        "label": "المصدر: Google",
+        "url": "https://googleblog.blogspot.com/2008/09/first-android-powered-phone.html"
+      },
+      {
+        "label": "المصدر: Open Handset Alliance",
+        "url": "https://www.openhandsetalliance.com/press_102108.html"
+      }
+    ],
+    "faq": [
+      {
+        "question": "متى أُعلن أندرويد؟",
+        "answer": "أعلنت غوغل وتحالف الهواتف المفتوحة المنصة في 5 نوفمبر 2007."
+      },
+      {
+        "question": "هل ظهر أول هاتف في اليوم نفسه؟",
+        "answer": "لا. أُعلن أول جهاز بأندرويد، تي موبايل جي 1، في 23 سبتمبر 2008."
+      },
+      {
+        "question": "متى أُتيحت شفرة المنصة للجمهور؟",
+        "answer": "أعلنت غوغل والتحالف إتاحتها عبر المشروع المفتوح المصدر في 21 أكتوبر 2008."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/android-google-changed-mobile-2007-announcement/",
+    "path": "/es/articles/android-google-changed-mobile-2007-announcement/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "ANDROID: EL DÍA QUE GOOGLE CAMBIÓ EL MÓVIL PARA SIEMPRE",
+    "seoTitle": "Android: el anuncio de 2007 que cambió el móvil",
+    "description": "Revive el anuncio de Android en noviembre de 2007, el primer teléfono de 2008 y la alianza que convirtió una plataforma de software en un ecosistema móvil.",
+    "excerpt": "Revive el anuncio de Android en noviembre de 2007, el primer teléfono de 2008 y la alianza que convirtió una plataforma de software en un ecosistema móvil.",
+    "headlineHighlights": {
+      "red": "ANDROID",
+      "gold": "CAMBIÓ EL MÓVIL PARA SIEMPRE"
+    },
+    "keywords": [
+      "ANDROID",
+      "CAMBIÓ EL MÓVIL PARA SIEMPRE"
+    ],
+    "searchIntent": "Revive el anuncio de Android en noviembre de 2007, el primer teléfono de 2008 y la alianza que convirtió una plataforma de software en un ecosistema móvil.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/android-google-mobile-platform-history-editorial.jpg",
+      "alt": "Ilustración editorial conceptual de una mascota verde de estilo Android junto a un teléfono de modelo no identificado.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "El anuncio que cambió el lugar de Google en el móvil no presentó un teléfono. El 5 de noviembre de 2007, la empresa mostró Android y una coalición de socios dispuestos a construir sobre él. La diferencia era esencial. Un aparato podía atraer atención; una plataforma compartida ofrecía un punto de partida a muchos fabricantes y desarrolladores. Las consecuencias tardaron años, pero la propuesta era clara: organizar la informática móvil alrededor de un ecosistema."
+      },
+      {
+        "type": "heading",
+        "text": "5 de noviembre de 2007: una plataforma sale a escena"
+      },
+      {
+        "type": "paragraph",
+        "text": "En la entrada original de Google, Andy Rubin, responsable de plataformas móviles, diferenció expresamente el anuncio del rumoreado Gphone. Android se presentó como un conjunto de sistema operativo, interfaz y aplicaciones desarrollado con socios. El texto avisaba de que los teléfonos llegarían después. Confundir esa fecha con el primer día de venta de un Android mezcla anuncio de plataforma y lanzamiento comercial. [Fuente: Google](https://googleblog.blogspot.com/2007/11/wheres-my-gphone.html)"
+      },
+      {
+        "type": "heading",
+        "text": "La alianza detrás de la ambición"
+      },
+      {
+        "type": "paragraph",
+        "text": "El comunicado de la Open Handset Alliance nombró 34 empresas fundadoras: fabricantes, operadoras y proveedores tecnológicos, entre ellos HTC, T-Mobile, Qualcomm y Motorola. La estrategia afrontaba un problema de coordinación entre hardware, redes, herramientas y aplicaciones. La apertura era también una propuesta comercial para reducir barreras de desarrollo. Eran objetivos declarados, no garantía de que todos los futuros dispositivos fueran idénticos o igualmente abiertos. [Fuente: Open Handset Alliance](https://www.openhandsetalliance.com/press_110507.html)"
+      },
+      {
+        "type": "heading",
+        "text": "2008: el primer teléfono se hace tangible"
+      },
+      {
+        "type": "paragraph",
+        "text": "El 23 de septiembre de 2008, Google presentó el primer teléfono Android, el T-Mobile G1, desarrollado con HTC y T-Mobile. El proyecto previo adquiría un objeto reconocible para el consumidor, con desarrolladores y aplicaciones en el centro. La importancia histórica de Android supera el aspecto de ese primer aparato: la apuesta era que una base común pudiera sostener teléfonos y experiencias diferentes. [Fuente: Google](https://googleblog.blogspot.com/2008/09/first-android-powered-phone.html)"
+      },
+      {
+        "type": "heading",
+        "text": "El hito del código fuente"
+      },
+      {
+        "type": "paragraph",
+        "text": "Otra fecha completa la cronología: el 21 de octubre de 2008, Google y la alianza anunciaron la disponibilidad pública del código mediante Android Open Source Project. Anuncio, primer teléfono y publicación del código fueron hitos separados. El software abierto tampoco significa que cada servicio, acuerdo comercial o aplicación del aparato forme parte del mismo código. Distinguir esas etapas explica mejor el logro que un único día milagroso. [Fuente: Open Handset Alliance](https://www.openhandsetalliance.com/press_102108.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El giro estaba en cómo construir y ampliar un teléfono. El aparato se convertía en entrada a una relación entre fabricantes, desarrolladores, operadoras y usuarios. Android no inventó el teléfono inteligente, pero su plataforma compartida ayudó a transformar las opciones disponibles. La fecha importó por todo lo que otros construirían después."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lectura relacionada: [Cómo el QR se convirtió en una interfaz cotidiana](/articles/qr-code-history-simple-square-digital-world/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: Google",
+        "url": "https://googleblog.blogspot.com/2007/11/wheres-my-gphone.html"
+      },
+      {
+        "label": "Fuente: Open Handset Alliance",
+        "url": "https://www.openhandsetalliance.com/press_110507.html"
+      },
+      {
+        "label": "Fuente: Google",
+        "url": "https://googleblog.blogspot.com/2008/09/first-android-powered-phone.html"
+      },
+      {
+        "label": "Fuente: Open Handset Alliance",
+        "url": "https://www.openhandsetalliance.com/press_102108.html"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Cuándo se anunció Android?",
+        "answer": "Google y la Open Handset Alliance anunciaron la plataforma el 5 de noviembre de 2007."
+      },
+      {
+        "question": "¿Salió el primer teléfono ese mismo día?",
+        "answer": "No. El primer dispositivo Android, el T-Mobile G1, se anunció el 23 de septiembre de 2008."
+      },
+      {
+        "question": "¿Cuándo se hizo público el código?",
+        "answer": "Google y la alianza anunciaron su disponibilidad mediante AOSP el 21 de octubre de 2008."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/android-google-changed-mobile-2007-announcement/",
+    "path": "/fr/articles/android-google-changed-mobile-2007-announcement/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "ANDROID : LE JOUR OÙ GOOGLE A CHANGÉ LE MOBILE POUR TOUJOURS",
+    "seoTitle": "Android : l’annonce de 2007 qui a changé le mobile",
+    "description": "Retour sur l’annonce d’Android en novembre 2007, le premier téléphone en 2008 et l’alliance qui a transformé une plateforme en écosystème mobile.",
+    "excerpt": "Retour sur l’annonce d’Android en novembre 2007, le premier téléphone en 2008 et l’alliance qui a transformé une plateforme en écosystème mobile.",
+    "headlineHighlights": {
+      "red": "ANDROID",
+      "gold": "CHANGÉ LE MOBILE POUR TOUJOURS"
+    },
+    "keywords": [
+      "ANDROID",
+      "CHANGÉ LE MOBILE POUR TOUJOURS"
+    ],
+    "searchIntent": "Retour sur l’annonce d’Android en novembre 2007, le premier téléphone en 2008 et l’alliance qui a transformé une plateforme en écosystème mobile.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/android-google-mobile-platform-history-editorial.jpg",
+      "alt": "Illustration éditoriale conceptuelle d’une mascotte verte de type Android près d’un téléphone non identifié.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "L’annonce qui changea la place de Google dans le mobile ne dévoilait pas un téléphone. Le 5 novembre 2007, l’entreprise présenta Android et une coalition de partenaires prêts à le développer. La distinction était essentielle. Un appareil pouvait attirer l’attention ; une plateforme partagée pouvait offrir un point de départ à de nombreux fabricants et développeurs. Les conséquences prirent des années, mais la proposition publique était claire : organiser le mobile autour d’un écosystème."
+      },
+      {
+        "type": "heading",
+        "text": "5 novembre 2007 : une plateforme entre en scène"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans le billet original de Google, Andy Rubin, responsable des plateformes mobiles, distinguait explicitement l’annonce du Gphone attendu par les rumeurs. Android était présenté comme un ensemble comprenant système, interface et applications, développé avec des partenaires. Le texte précisait aussi que les téléphones arriveraient plus tard. Faire de cette date le premier jour d’achat d’un appareil Android confond annonce de plateforme et lancement commercial. [Source: Google](https://googleblog.blogspot.com/2007/11/wheres-my-gphone.html)"
+      },
+      {
+        "type": "heading",
+        "text": "L’alliance derrière l’ambition"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le communiqué de l’Open Handset Alliance mentionnait 34 entreprises fondatrices : fabricants, opérateurs et fournisseurs de technologies, dont HTC, T-Mobile, Qualcomm et Motorola. La stratégie répondait à un problème de coordination : matériel, réseaux, outils et applications devaient fonctionner ensemble. L’ouverture promise était aussi une proposition commerciale visant à faciliter le développement. C’étaient les ambitions annoncées, pas la garantie que tous les appareils futurs seraient identiques ou également ouverts. [Source: Open Handset Alliance](https://www.openhandsetalliance.com/press_110507.html)"
+      },
+      {
+        "type": "heading",
+        "text": "2008 : le premier téléphone devient concret"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le 23 septembre 2008, Google présenta le premier téléphone Android, le T-Mobile G1, développé avec HTC et T-Mobile. Le projet de plateforme prenait la forme d’un objet destiné au public. L’annonce plaçait aussi les développeurs et les applications au cœur du récit. L’importance historique d’Android dépasse pourtant l’apparence de ce premier appareil : le pari consistait à faire d’une base commune le support de téléphones et d’expériences variés. [Source: Google](https://googleblog.blogspot.com/2008/09/first-android-powered-phone.html)"
+      },
+      {
+        "type": "heading",
+        "text": "L’étape du code source"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une autre date complète la chronologie : le 21 octobre 2008, lorsque Google et l’alliance annoncèrent la disponibilité publique du code via l’Android Open Source Project. Annonce, premier téléphone et publication du code étaient trois étapes distinctes. Un système ouvert ne signifie pas non plus que chaque service, accord commercial ou application d’un appareil fini appartient au même code ouvert. Ces distinctions expliquent mieux le changement qu’un lancement miraculeux unique. [Source: Open Handset Alliance](https://www.openhandsetalliance.com/press_102108.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le tournant concernait la manière de construire et d’enrichir un téléphone. L’appareil ouvrait une relation plus large entre fabricants, développeurs, opérateurs et utilisateurs. Android n’a pas inventé le smartphone, mais sa logique de plateforme partagée a contribué à transformer les choix qui l’entouraient. Cette journée comptait pour ce que tant d’acteurs allaient ensuite créer."
+      },
+      {
+        "type": "paragraph",
+        "text": "À lire également: [Comment le QR code est devenu une interface quotidienne](/articles/qr-code-history-simple-square-digital-world/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: Google",
+        "url": "https://googleblog.blogspot.com/2007/11/wheres-my-gphone.html"
+      },
+      {
+        "label": "Source: Open Handset Alliance",
+        "url": "https://www.openhandsetalliance.com/press_110507.html"
+      },
+      {
+        "label": "Source: Google",
+        "url": "https://googleblog.blogspot.com/2008/09/first-android-powered-phone.html"
+      },
+      {
+        "label": "Source: Open Handset Alliance",
+        "url": "https://www.openhandsetalliance.com/press_102108.html"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quand Android a-t-il été annoncé ?",
+        "answer": "Google et l’Open Handset Alliance ont annoncé la plateforme le 5 novembre 2007."
+      },
+      {
+        "question": "Le premier téléphone est-il sorti ce jour-là ?",
+        "answer": "Non. Le premier appareil Android, le T-Mobile G1, a été présenté le 23 septembre 2008."
+      },
+      {
+        "question": "Quand le code est-il devenu public ?",
+        "answer": "Google et l’alliance ont annoncé sa disponibilité via AOSP le 21 octobre 2008."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/angela-merkel-freedom-memoir-million-copies/",
     "path": "/ar/articles/angela-merkel-freedom-memoir-million-copies/",
     "kind": "article",
@@ -116811,6 +117150,333 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/el-dorado-golden-ritual-lost-city-legend/",
+    "path": "/ar/articles/el-dorado-golden-ritual-lost-city-legend/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "إل دورادو: الطقس الذهبي خلف أسطورة المدينة المفقودة",
+    "seoTitle": "إل دورادو: طقوس المويسكا خلف أسطورة مدينة الذهب",
+    "description": "استكشف صلة إل دورادو بقرابين المويسكا وبحيرة غواتافيتا وطوف ذهبي مدهش، مع فصل الدليل المتحفي عن أسطورة المدينة الذهبية.",
+    "excerpt": "استكشف صلة إل دورادو بقرابين المويسكا وبحيرة غواتافيتا وطوف ذهبي مدهش، مع فصل الدليل المتحفي عن أسطورة المدينة الذهبية.",
+    "headlineHighlights": {
+      "red": "إل دورادو",
+      "gold": "الطقس الذهبي"
+    },
+    "keywords": [
+      "إل دورادو",
+      "الطقس الذهبي"
+    ],
+    "searchIntent": "استكشف صلة إل دورادو بقرابين المويسكا وبحيرة غواتافيتا وطوف ذهبي مدهش، مع فصل الدليل المتحفي عن أسطورة المدينة الذهبية.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/el-dorado-muisca-ritual-raft-conceptual-illustration.jpg",
+      "alt": "مشهد متخيل مستوحى من المويسكا لطوف ذهبي على بحيرة جبلية وشخصيات ضخمة ومعبد مبتكر في الخلفية.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تبدو مدينة من الذهب صورة قادرة على النجاة من خيبة الأمل. فإذا فشلت بعثة، أمكن دفع الوجهة المتخيلة إلى مكان أبعد. صار إل دورادو وعداً من هذا النوع. لكن أحد أكثر الأشياء إضاءة للقصة صغير بما يكفي لوضعه على طاولة: طوف مويسكي ذهبي يعيد الانتباه إلى الطقس وبراعة الصياغة وفهم مختلف لوظيفة الذهب."
+      },
+      {
+        "type": "heading",
+        "text": "الحاكم المذهب في الروايات"
+      },
+      {
+        "type": "paragraph",
+        "text": "يربط عرض متحف الذهب التقليد بحاكم مرتبط بغواتافيتا، في كولومبيا الحالية، غُطي جسمه بمسحوق الذهب وانتقل على طوف ليقدم قرابين في بحيرة مقدسة. تصل هذه الأوصاف عبر روايات تاريخية وتفسيرها، ولا ينبغي سردها كما لو أن كاميرا حديثة سجلت كل خطوة. وأصبح إل دورادو، أي المذهب، مرتبطاً بمكان ذي ثروات استثنائية مع اتساع التوقعات الأوروبية حوله. [المصدر: Museo del Oro](https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es)"
+      },
+      {
+        "type": "heading",
+        "text": "قطعة حقيقية عُثر عليها بعيداً عن البحيرة"
+      },
+      {
+        "type": "paragraph",
+        "text": "عُثر على طوف المويسكا الشهير عام 1969 داخل وعاء خزفي في كهف قرب باسكا جنوب بوغوتا، ولم يُستخرج من قاع بحيرة غواتافيتا. يسجل فهرس بنك الجمهورية طولاً يبلغ 19.5 سنتيمتراً ويحدده قطعة نذرية. يهم الحجم هنا؛ فالعمل يمثل مشهداً احتفالياً مصغراً، وليس بقايا قارب ذهبي بالحجم الطبيعي أو دليلاً على مبان ذهبية ضخمة. [المصدر: Banco de la República](https://enciclopedia.banrepcultural.org/index.php?title=Balsa_muisca)"
+      },
+      {
+        "type": "heading",
+        "text": "الذهب قرباناً"
+      },
+      {
+        "type": "paragraph",
+        "text": "يضع عرض المتحف للقرابين الأشياء المعدنية في علاقات دينية، منها الهدايا المودعة في البحيرات والكهوف. لا يختزل معناها في السعر الذي قد يمنحه لها باحث لاحق عن الكنوز. أمكن لقطعة متقنة أن تشارك في التزامات ومعتقدات تتعلق بتوازن العالم. هذا التحول هو ما تحجبه حكاية المدينة المفقودة أحياناً: كانت للذهب وظائف في المجتمع الذي صاغه قبل أن يعيد الآخرون تعريفه غنيمة للاستخراج. [المصدر: Banco de la República](https://enciclopedia.banrepcultural.org/index.php?title=La_Ofrenda)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي يثبته الطوف؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمثل الطوف دليلاً مادياً مهماً على حرفية المويسكا وتمثيلهم الاحتفالي. ويصف متحف الذهب تقنية السبك المعقدة بالشمع المفقود التي أنتجت الشخصيات والمنصة. قد تضيء القطعة تقليداً دون إثبات كل تفصيل في رواية، ولا يحدد التمثيل الاحتفالي موقع مدينة ذهبية. أما الصورة المقدمة فهي مشهد متخيل مستوحى من هذه الصلات، ولا يوثق معبدها وشخصياتها الضخمة ومشهدها اكتشافاً أثرياً. [المصدر: Museo del Oro](https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يصبح إل دورادو أكثر كشفاً حين يتحول السؤال من مكان اختباء المدينة إلى كيفية نمو الحكاية. عندها تصير المغامرة تاريخاً للتفسير: قرابين مجتمع، وجوع مجتمع آخر إلى الثروة، وخيالاً باقياً قد يحجب رؤية قطعة صغيرة واستثنائية بوضوح."
+      },
+      {
+        "type": "paragraph",
+        "text": "اقرأ أيضاً: [كيف أصبح التاريخ أسطورة النينجا](/articles/ninja-real-spies-japan-history-myths/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: Museo del Oro",
+        "url": "https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es"
+      },
+      {
+        "label": "المصدر: Banco de la República",
+        "url": "https://enciclopedia.banrepcultural.org/index.php?title=Balsa_muisca"
+      },
+      {
+        "label": "المصدر: Banco de la República",
+        "url": "https://enciclopedia.banrepcultural.org/index.php?title=La_Ofrenda"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل كان إل دورادو مدينة في الأصل؟",
+        "answer": "يتضمن التقليد حاكماً مذهباً مرتبطاً بغواتافيتا. ووسعت روايات لاحقة الاسم ليشمل أماكن متخيلة ذات ثروات استثنائية."
+      },
+      {
+        "question": "هل عُثر على الطوف في بحيرة غواتافيتا؟",
+        "answer": "لا. عُثر على القطعة الشهيرة في كهف قرب باسكا عام 1969."
+      },
+      {
+        "question": "هل يثبت الطوف وجود مدينة ذهبية؟",
+        "answer": "لا. إنه أثر نذري وتمثيل احتفالي، وليس دليلاً يحدد مدينة مبنية من الذهب."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/el-dorado-golden-ritual-lost-city-legend/",
+    "path": "/es/articles/el-dorado-golden-ritual-lost-city-legend/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "EL DORADO: EL RITUAL DE ORO TRAS LA LEYENDA DE LA CIUDAD PERDIDA",
+    "seoTitle": "El Dorado: el ritual muisca detrás de la ciudad de oro",
+    "description": "Explora las ofrendas muiscas, Guatavita y una extraordinaria balsa de oro, separando la evidencia del museo de la leyenda de una ciudad dorada.",
+    "excerpt": "Explora las ofrendas muiscas, Guatavita y una extraordinaria balsa de oro, separando la evidencia del museo de la leyenda de una ciudad dorada.",
+    "headlineHighlights": {
+      "red": "EL DORADO",
+      "gold": "RITUAL DE ORO"
+    },
+    "keywords": [
+      "EL DORADO",
+      "RITUAL DE ORO"
+    ],
+    "searchIntent": "Explora las ofrendas muiscas, Guatavita y una extraordinaria balsa de oro, separando la evidencia del museo de la leyenda de una ciudad dorada.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/el-dorado-muisca-ritual-raft-conceptual-illustration.jpg",
+      "alt": "Escena imaginada de inspiración muisca con balsa dorada, figuras monumentales y templo inventado junto a un lago de montaña.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Una ciudad de oro parece diseñada para sobrevivir a la decepción. Cuando fracasa una expedición, el destino imaginado puede alejarse un poco más. El Dorado se convirtió en esa promesa. Pero uno de los objetos que mejor ilumina la historia cabe sobre una mesa: una balsa muisca de oro que devuelve la atención al ritual, la orfebrería y otra manera de entender para qué servía el metal."
+      },
+      {
+        "type": "heading",
+        "text": "El gobernante dorado de los relatos"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Museo del Oro vincula la tradición con un gobernante de Guatavita, en la actual Colombia, cubierto de polvo de oro y llevado en balsa para ofrecer objetos en una laguna sagrada. Son descripciones transmitidas por relatos históricos e interpretaciones, no una ceremonia filmada paso a paso. El Dorado, el hombre dorado, acabó asociado a un lugar de riquezas extraordinarias al crecer las expectativas europeas. [Fuente: Museo del Oro](https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es)"
+      },
+      {
+        "type": "heading",
+        "text": "Un objeto real hallado fuera de la laguna"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Balsa Muisca apareció en 1969 dentro de una vasija cerámica en una cueva cerca de Pasca, al sur de Bogotá. No se recuperó del fondo de Guatavita. El catálogo del Banco de la República registra 19,5 centímetros de largo y función votiva. La escala importa: representa una ceremonia en miniatura, no los restos de una embarcación de oro de tamaño real ni pruebas de edificios dorados monumentales. [Fuente: Banco de la República](https://enciclopedia.banrepcultural.org/index.php?title=Balsa_muisca)"
+      },
+      {
+        "type": "heading",
+        "text": "El oro como ofrenda"
+      },
+      {
+        "type": "paragraph",
+        "text": "La explicación del museo sitúa los objetos metálicos dentro de relaciones religiosas, incluidas ofrendas en lagunas y cuevas. Su sentido supera el precio que les daría un buscador de tesoros. Una pieza cuidadosamente elaborada podía participar en obligaciones y creencias sobre el equilibrio del mundo. La ciudad perdida suele ocultar ese cambio: el oro tenía funciones en la sociedad que lo trabajaba antes de convertirse, para otros, en botín. [Fuente: Banco de la República](https://enciclopedia.banrepcultural.org/index.php?title=La_Ofrenda)"
+      },
+      {
+        "type": "heading",
+        "text": "Lo que la balsa permite establecer"
+      },
+      {
+        "type": "paragraph",
+        "text": "La balsa es una evidencia material extraordinaria de la orfebrería muisca y de su representación ceremonial. El Museo del Oro explica la compleja fundición a la cera perdida de figuras y plataforma. Un objeto ilumina una tradición sin verificar cada detalle de una crónica; una ceremonia representada no localiza una metrópoli de oro. La imagen suministrada es imaginaria: templo, figuras gigantes y paisaje no documentan un hallazgo arqueológico. [Fuente: Museo del Oro](https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Dorado resulta más revelador cuando preguntamos cómo creció el relato, en vez de dónde se esconde la ciudad. La aventura se convierte en historia de interpretación: ofrendas de una sociedad, hambre de riqueza de otra y una fantasía persistente que puede ocultar un pequeño objeto extraordinario."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lectura relacionada: [Cómo la historia se convirtió en leyenda ninja](/articles/ninja-real-spies-japan-history-myths/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: Museo del Oro",
+        "url": "https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es"
+      },
+      {
+        "label": "Fuente: Banco de la República",
+        "url": "https://enciclopedia.banrepcultural.org/index.php?title=Balsa_muisca"
+      },
+      {
+        "label": "Fuente: Banco de la República",
+        "url": "https://enciclopedia.banrepcultural.org/index.php?title=La_Ofrenda"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿El Dorado era originalmente una ciudad?",
+        "answer": "La tradición incluye un gobernante dorado de Guatavita. Relatos posteriores ampliaron el nombre a lugares imaginados de riqueza extraordinaria."
+      },
+      {
+        "question": "¿Se encontró la balsa en Guatavita?",
+        "answer": "No. El objeto famoso apareció en una cueva cerca de Pasca en 1969."
+      },
+      {
+        "question": "¿Demuestra que existió una ciudad de oro?",
+        "answer": "No. Es un objeto votivo y representación ceremonial, no una prueba que sitúe una ciudad construida en oro."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/el-dorado-golden-ritual-lost-city-legend/",
+    "path": "/fr/articles/el-dorado-golden-ritual-lost-city-legend/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "EL DORADO : LE RITUEL D’OR DERRIÈRE LA LÉGENDE DE LA CITÉ PERDUE",
+    "seoTitle": "El Dorado : le rituel muisca derrière la cité d’or",
+    "description": "Découvrez les offrandes muiscas, Guatavita et une étonnante petite barque en or, en distinguant les objets documentés de la légende d’une cité dorée.",
+    "excerpt": "Découvrez les offrandes muiscas, Guatavita et une étonnante petite barque en or, en distinguant les objets documentés de la légende d’une cité dorée.",
+    "headlineHighlights": {
+      "red": "EL DORADO",
+      "gold": "RITUEL D’OR"
+    },
+    "keywords": [
+      "EL DORADO",
+      "RITUEL D’OR"
+    ],
+    "searchIntent": "Découvrez les offrandes muiscas, Guatavita et une étonnante petite barque en or, en distinguant les objets documentés de la légende d’une cité dorée.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/el-dorado-muisca-ritual-raft-conceptual-illustration.jpg",
+      "alt": "Scène imaginaire inspirée des Muiscas : radeau doré, personnages monumentaux et temple inventé près d’un lac de montagne.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Une cité d’or semble conçue pour résister aux déceptions. Lorsqu’une expédition échoue, la destination imaginée peut reculer davantage. El Dorado devint une telle promesse. Pourtant, l’un des objets les plus éclairants tient sur une table : une petite barque muisca en or qui ramène vers le rituel, l’orfèvrerie et une autre conception du rôle de l’or."
+      },
+      {
+        "type": "heading",
+        "text": "Le dirigeant doré des récits"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le Museo del Oro relie la tradition à un dirigeant de Guatavita, dans l’actuelle Colombie, couvert de poudre d’or et transporté sur une embarcation pour déposer des offrandes dans un lac sacré. Ces descriptions passent par des récits historiques et leur interprétation. Il ne faut pas les raconter comme une cérémonie filmée dans ses moindres détails. Le personnage doré d’El Dorado fut progressivement associé à un lieu de richesses extraordinaires dans l’imaginaire européen. [Source: Museo del Oro](https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es)"
+      },
+      {
+        "type": "heading",
+        "text": "Un objet réel, trouvé loin du lac"
+      },
+      {
+        "type": "paragraph",
+        "text": "La célèbre Balsa Muisca fut découverte en 1969 dans un récipient en céramique, à l’intérieur d’une grotte près de Pasca, au sud de Bogotá. Elle ne vient pas du fond de Guatavita. Le catalogue du Banco de la República indique 19,5 centimètres de longueur et une fonction votive. L’échelle compte : c’est une scène cérémonielle miniature, pas le vestige d’un bateau grandeur nature ni la preuve de bâtiments monumentaux en or. [Source: Banco de la República](https://enciclopedia.banrepcultural.org/index.php?title=Balsa_muisca)"
+      },
+      {
+        "type": "heading",
+        "text": "L’or comme offrande"
+      },
+      {
+        "type": "paragraph",
+        "text": "La présentation des offrandes au musée replace les objets métalliques dans des relations religieuses, notamment les dépôts dans les lacs et grottes. Leur sens dépasse le prix qu’un chercheur de trésor leur donnerait. Un objet soigneusement fabriqué pouvait participer à des obligations et à des croyances sur l’équilibre du monde. L’histoire de cité perdue masque souvent ce déplacement : l’or avait des fonctions sociales avant de devenir, pour d’autres, un butin à extraire. [Source: Banco de la República](https://enciclopedia.banrepcultural.org/index.php?title=La_Ofrenda)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que la barque permet d’établir"
+      },
+      {
+        "type": "paragraph",
+        "text": "La barque témoigne puissamment de l’orfèvrerie muisca et de la représentation cérémonielle. Le Museo del Oro décrit la fonte complexe à cire perdue de ses personnages et de sa plateforme. Un objet éclaire une tradition sans vérifier chaque détail d’une chronique ; une scène rituelle ne localise pas une métropole d’or. L’image fournie est une évocation imaginée : temple, figures géantes et paysage ne documentent aucune découverte archéologique. [Source: Museo del Oro](https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Dorado devient plus éclairant lorsqu’on demande comment le récit s’est développé plutôt qu’où se cache la ville. L’aventure devient une histoire d’interprétation : les offrandes d’une société, la soif de richesse d’une autre et une fantaisie persistante qui risque de masquer un petit objet exceptionnel."
+      },
+      {
+        "type": "paragraph",
+        "text": "À lire également: [Comment l’histoire est devenue légende ninja](/articles/ninja-real-spies-japan-history-myths/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: Museo del Oro",
+        "url": "https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es"
+      },
+      {
+        "label": "Source: Banco de la República",
+        "url": "https://enciclopedia.banrepcultural.org/index.php?title=Balsa_muisca"
+      },
+      {
+        "label": "Source: Banco de la República",
+        "url": "https://enciclopedia.banrepcultural.org/index.php?title=La_Ofrenda"
+      }
+    ],
+    "faq": [
+      {
+        "question": "El Dorado était-il d’abord une ville ?",
+        "answer": "La tradition comprend un dirigeant doré associé à Guatavita. Des récits ultérieurs ont étendu le nom à des lieux imaginés de richesse extraordinaire."
+      },
+      {
+        "question": "La barque fut-elle trouvée à Guatavita ?",
+        "answer": "Non. L’objet célèbre a été trouvé dans une grotte près de Pasca en 1969."
+      },
+      {
+        "question": "Prouve-t-elle l’existence d’une cité d’or ?",
+        "answer": "Non. C’est un objet votif représentant une cérémonie, pas une preuve localisant une ville construite en or."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/electric-cars-global-shift-future-gasoline-diesel/",
     "path": "/ar/articles/electric-cars-global-shift-future-gasoline-diesel/",
     "kind": "article",
@@ -129286,6 +129952,672 @@
       {
         "question": "Le tableau du musée a-t-il été peint en 1414 ?",
         "answer": "Non. Girafe avec deux gardiens, au Met, est une peinture Qing ultérieure d’un artiste non identifié, du XVIIe siècle ou après. L’image principale est une reconstitution artistique par IA."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/flamingos-why-pink-birds-hatch-gray/",
+    "path": "/ar/articles/flamingos-why-pink-birds-hatch-gray/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "الفلامنغو: لماذا تولد الطيور الوردية رمادية؟",
+    "seoTitle": "لماذا يفقس الفلامنغو رمادياً ثم يصبح وردياً؟",
+    "description": "تفقس فراخ الفلامنغو بزغب رمادي أو باهت. اكتشف دور الغذاء والأصباغ والريش النامي ورعاية الأبوين في ظهور اللون الوردي الشهير.",
+    "excerpt": "تفقس فراخ الفلامنغو بزغب رمادي أو باهت. اكتشف دور الغذاء والأصباغ والريش النامي ورعاية الأبوين في ظهور اللون الوردي الشهير.",
+    "headlineHighlights": {
+      "red": "الفلامنغو",
+      "gold": "تولد الطيور الوردية رمادية"
+    },
+    "keywords": [
+      "الفلامنغو",
+      "تولد الطيور الوردية رمادية"
+    ],
+    "searchIntent": "تفقس فراخ الفلامنغو بزغب رمادي أو باهت. اكتشف دور الغذاء والأصباغ والريش النامي ورعاية الأبوين في ظهور اللون الوردي الشهير.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/flamingo-pink-adult-gray-chick-editorial.jpg",
+      "alt": "رسم تحريري تصوري لفرخ فلامنغو رمادي قرب طائر بالغ وردي في أرض رطبة ضحلة.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "يبدو الفرخ الرمادي بجوار بالغ وردي تناقضاً صغيراً. إذا كان الفلامنغو طائراً وردياً، فلماذا ينتمي صغيره ظاهرياً إلى لوحة ألوان أخرى؟ تذكرنا الإجابة بأن مظهر الحيوان قد يسجل عملية نمو، لا أن يصل مكتملاً عند البداية. يفقس الفلامنغو من البيض، ويختلف زغبه المبكر كثيراً عن الريش الذي يجعل سرب البالغين مميزاً."
+      },
+      {
+        "type": "heading",
+        "text": "البداية الرمادية"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف حديقة سان دييغو زغب الفلامنغو عند الفقس بأنه رمادي. والريش المبكر الباهت أو الرمادي طبيعي؛ فلا يدل على نوع مختلف أو طائر وردي تغطيه الطين. يغير النمو مظهر الطائر. وعبارة يولد رمادياً اختصار لحالته عند الفقس، مع تذكر أنه طائر يبيض لا ثديي يلد. [المصدر: San Diego Zoo](https://animals.sandiegozoo.org/animals/flamingo)"
+      },
+      {
+        "type": "heading",
+        "text": "الوردي يمر عبر السلسلة الغذائية"
+      },
+      {
+        "type": "paragraph",
+        "text": "توضح حديقة لوس أنجلوس أن درجات الريش الوردية والحمراء تأتي من أصباغ الكاروتينويد في الغذاء. وتتيح الطحالب والحيوانات المائية الصغيرة انتقال هذه الأصباغ عبر الشبكة الغذائية. يختزل التفسير الشائع، بأن الفلامنغو يصير وردياً لأنه يأكل الروبيان، جزءاً من الصورة فقط. ترشح الأنواع أغذية مختلفة، ويتعلق اللون بالأصباغ التي يحصل عليها الجسم ويعالجها، لا بطعام واحد إلزامي لجميعها. [المصدر: Los Angeles Zoo](https://lazoo.org/explore-your-zoo/our-animals/birds/flamingos/)"
+      },
+      {
+        "type": "heading",
+        "text": "رعاية الأبوين أكثر من لون"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعتمد الفراخ على إفراز غني من الجزء العلوي للجهاز الهضمي للأبوين، يسمى شائعاً حليب الحوصلة. يستطيع الذكر والأنثى إنتاجه، وهو إفراز تغذية متخصص لدى الطيور يختلف عن حليب الثدييات. ويصف مربو سميثسونيان متطلبات رعاية الفراخ والتحول التدريجي من الرمادي إلى الوردي. لا يجعل الغذاء المحتوي على أصباغ الفرخ حديث الفقس شبيهاً بالبالغ فوراً؛ فنمو الريش والتغذية المستمرة يحتاجان إلى وقت. [المصدر: Smithsonian](https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time)"
+      },
+      {
+        "type": "heading",
+        "text": "حتى لون البالغ قد يتغير"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تجعل تغذية الصغار البالغين أكثر شحوباً بوضوح، ثم يعود اللون مع تراجع متطلبات التكاثر وتغير حالتهم. فالريش ليس سطحاً مطلياً ثابتاً. يؤثر الغذاء ومرحلة الحياة وأعباء التكاثر في ما يراه المراقب. وليست درجات جميع الأنواع متطابقة؛ فهناك وردي باهت وآخر أقوى ودرجات محمرة. ولا تصلح صورة واحدة دليلاً لونياً للفصيلة بأكملها. [المصدر: San Diego Zoo](https://animals.sandiegozoo.org/animals/flamingo)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا ينقص الفرخ الرمادي ما يجعله فلامنغو؛ فهو يظهر مرحلة من حياته. ويصبح وردي البالغ أكثر إثارة بوصفه صلة مرئية بين الغذاء والنمو وجهد إبقاء جيل آخر حياً. اللون الشهير قصة بيولوجية تتشكل ريشة بعد أخرى."
+      },
+      {
+        "type": "paragraph",
+        "text": "اقرأ أيضاً: [البيولوجيا خلف ابتسامة الكوكا الشهيرة](/articles/quokkas-australia-famous-smiling-marsupials/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: San Diego Zoo",
+        "url": "https://animals.sandiegozoo.org/animals/flamingo"
+      },
+      {
+        "label": "المصدر: Los Angeles Zoo",
+        "url": "https://lazoo.org/explore-your-zoo/our-animals/birds/flamingos/"
+      },
+      {
+        "label": "المصدر: Smithsonian",
+        "url": "https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time"
+      }
+    ],
+    "faq": [
+      {
+        "question": "لماذا تفقس الفراخ رمادية؟",
+        "answer": "يختلف زغبها الأول عن ريش البالغ. ويظهر الوردي مع النمو والاستفادة من أصباغ الكاروتينويد الغذائية."
+      },
+      {
+        "question": "هل الروبيان المصدر الوحيد للون؟",
+        "answer": "لا. تنتقل الأصباغ عبر الطحالب وأغذية أخرى في الشبكات المائية، ويختلف الغذاء بين الأنواع."
+      },
+      {
+        "question": "هل يغذي كلا الأبوين الصغار بهذا الإفراز؟",
+        "answer": "نعم. يستطيع الذكر والأنثى إنتاج الإفراز الهضمي الغني بالمغذيات للفراخ."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/flamingos-why-pink-birds-hatch-gray/",
+    "path": "/es/articles/flamingos-why-pink-birds-hatch-gray/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "FLAMENCOS: POR QUÉ LAS AVES ROSADAS NACEN GRISES",
+    "seoTitle": "Por qué los flamencos nacen grises y se vuelven rosados",
+    "description": "Los polluelos de flamenco salen del huevo con plumón gris o pálido. Descubre el papel de los pigmentos, las plumas en desarrollo y los cuidados parentales.",
+    "excerpt": "Los polluelos de flamenco salen del huevo con plumón gris o pálido. Descubre el papel de los pigmentos, las plumas en desarrollo y los cuidados parentales.",
+    "headlineHighlights": {
+      "red": "FLAMENCOS",
+      "gold": "NACEN GRISES"
+    },
+    "keywords": [
+      "FLAMENCOS",
+      "NACEN GRISES"
+    ],
+    "searchIntent": "Los polluelos de flamenco salen del huevo con plumón gris o pálido. Descubre el papel de los pigmentos, las plumas en desarrollo y los cuidados parentales.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/flamingo-pink-adult-gray-chick-editorial.jpg",
+      "alt": "Ilustración editorial conceptual de un polluelo gris junto a un flamenco adulto rosado en un humedal poco profundo.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "El polluelo gris junto al adulto rosado parece una pequeña contradicción. Si los flamencos son aves rosas, ¿por qué el joven luce otros colores? La apariencia puede reflejar un proceso, no llegar completa al nacer. Los flamencos salen de huevos y su primer plumón es muy distinto del plumaje que hace tan reconocible a una bandada adulta."
+      },
+      {
+        "type": "heading",
+        "text": "El comienzo gris"
+      },
+      {
+        "type": "paragraph",
+        "text": "San Diego Zoo describe plumón gris en los flamencos recién nacidos. El aspecto pálido o gris es normal: no indica otra especie ni un ave rosa cubierta de barro. El desarrollo cambia su apariencia. Nacer gris es una manera abreviada de hablar de la eclosión, sin olvidar que se trata de un ave que pone huevos. [Fuente: San Diego Zoo](https://animals.sandiegozoo.org/animals/flamingo)"
+      },
+      {
+        "type": "heading",
+        "text": "El rosa llega por la alimentación"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los Angeles Zoo explica que los tonos rosas y rojizos proceden de carotenoides de la dieta. Algas y pequeños animales acuáticos permiten que esos pigmentos circulen por la red alimentaria. Decir que se vuelven rosas por comer camarones cuenta solo parte del proceso. Las especies filtran alimentos diferentes; importa qué pigmentos obtiene y procesa el ave, no un ingrediente obligatorio para todas. [Fuente: Los Angeles Zoo](https://lazoo.org/explore-your-zoo/our-animals/birds/flamingos/)"
+      },
+      {
+        "type": "heading",
+        "text": "Los padres aportan más que un color"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los polluelos dependen de una secreción rica del tramo superior del aparato digestivo parental, llamada habitualmente leche de buche. Machos y hembras pueden producirla. Es una secreción alimentaria de ave, distinta de la leche de mamíferos. Los cuidadores del Smithsonian describen la crianza y el cambio gradual de gris a rosa. Recibir pigmentos no da instantáneamente aspecto adulto: desarrollar plumas y mantener la nutrición requiere tiempo. [Fuente: Smithsonian](https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time)"
+      },
+      {
+        "type": "heading",
+        "text": "El color adulto también puede cambiar"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alimentar a los pequeños puede dejar a los adultos más pálidos, antes de que recuperen color al disminuir las exigencias reproductivas. El plumaje no es una superficie pintada inmutable. Dieta, edad y reproducción influyen en lo que vemos. Tampoco todas las especies tienen el mismo tono: hay rosas pálidos, intensos y rojizos. Una ilustración no es una carta de colores para toda la familia. [Fuente: San Diego Zoo](https://animals.sandiegozoo.org/animals/flamingo)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Al polluelo gris no le falta lo esencial para ser flamenco: muestra una etapa de su vida. El rosa adulto se vuelve una conexión visible entre alimentación, crecimiento y cuidado de la siguiente generación. El color famoso es una historia biológica que se desarrolla pluma a pluma."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lectura relacionada: [La biología detrás de la famosa sonrisa del quokka](/articles/quokkas-australia-famous-smiling-marsupials/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: San Diego Zoo",
+        "url": "https://animals.sandiegozoo.org/animals/flamingo"
+      },
+      {
+        "label": "Fuente: Los Angeles Zoo",
+        "url": "https://lazoo.org/explore-your-zoo/our-animals/birds/flamingos/"
+      },
+      {
+        "label": "Fuente: Smithsonian",
+        "url": "https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Por qué salen grises del huevo?",
+        "answer": "El plumón inicial difiere del plumaje adulto. El rosa aparece con el crecimiento y los carotenoides de la dieta."
+      },
+      {
+        "question": "¿Los camarones son la única fuente de color?",
+        "answer": "No. Los pigmentos pasan por algas y otros alimentos acuáticos; las dietas varían entre especies."
+      },
+      {
+        "question": "¿Ambos padres producen leche de buche?",
+        "answer": "Sí. Machos y hembras pueden producir esa secreción digestiva nutritiva para los polluelos."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/flamingos-why-pink-birds-hatch-gray/",
+    "path": "/fr/articles/flamingos-why-pink-birds-hatch-gray/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "LES FLAMANTS : POURQUOI CES OISEAUX ROSES NAISSENT GRIS",
+    "seoTitle": "Pourquoi les flamants naissent gris avant de devenir roses",
+    "description": "Les poussins de flamants éclosent avec un duvet gris ou pâle. Découvrez le rôle des pigments alimentaires, du plumage et des soins parentaux.",
+    "excerpt": "Les poussins de flamants éclosent avec un duvet gris ou pâle. Découvrez le rôle des pigments alimentaires, du plumage et des soins parentaux.",
+    "headlineHighlights": {
+      "red": "FLAMANTS",
+      "gold": "NAISSENT GRIS"
+    },
+    "keywords": [
+      "FLAMANTS",
+      "NAISSENT GRIS"
+    ],
+    "searchIntent": "Les poussins de flamants éclosent avec un duvet gris ou pâle. Découvrez le rôle des pigments alimentaires, du plumage et des soins parentaux.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/flamingo-pink-adult-gray-chick-editorial.jpg",
+      "alt": "Illustration éditoriale conceptuelle d’un poussin de flamant gris près d’un adulte rose dans une zone humide peu profonde.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Le poussin gris près d’un adulte rose semble une petite contradiction. Pourquoi le jeune d’un oiseau emblématiquement rose porte-t-il une autre couleur ? Parce que l’apparence d’un animal peut raconter un processus, au lieu d’être achevée dès la naissance. Les flamants sortent d’un œuf et leur premier duvet diffère beaucoup du plumage qui rend un groupe d’adultes si reconnaissable."
+      },
+      {
+        "type": "heading",
+        "text": "Le début gris"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le zoo de San Diego décrit le duvet gris des flamants à l’éclosion. Un plumage initial pâle ou gris est normal : il ne signale ni une autre espèce ni un oiseau rose couvert de boue. Le développement modifie l’apparence. Dire qu’il naît gris décrit donc l’éclosion, sans oublier qu’il s’agit d’un oiseau pondeur, pas d’un mammifère. [Source: San Diego Zoo](https://animals.sandiegozoo.org/animals/flamingo)"
+      },
+      {
+        "type": "heading",
+        "text": "Le rose passe par l’alimentation"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le zoo de Los Angeles explique que les teintes roses et rouges viennent des caroténoïdes alimentaires. Algues et petits animaux aquatiques font circuler ces pigments dans le réseau alimentaire. Dire que les flamants rosissent parce qu’ils mangent des crevettes ne résume qu’une partie du mécanisme. Les espèces filtrent des aliments différents, et la couleur dépend des pigments absorbés et transformés, pas d’un ingrédient obligatoire universel. [Source: Los Angeles Zoo](https://lazoo.org/explore-your-zoo/our-animals/birds/flamingos/)"
+      },
+      {
+        "type": "heading",
+        "text": "Les parents apportent bien plus qu’une couleur"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les petits dépendent d’une sécrétion riche issue du haut du tube digestif parental, couramment appelée lait de jabot. Mâles et femelles peuvent la produire. C’est une sécrétion nourricière d’oiseau, différente du lait des mammifères. Les soigneurs du Smithsonian décrivent les exigences de cet élevage et le passage progressif du gris au rose. Recevoir des aliments pigmentés ne donne pas instantanément un plumage adulte : développement et nutrition s’inscrivent dans le temps. [Source: Smithsonian](https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time)"
+      },
+      {
+        "type": "heading",
+        "text": "Même la couleur adulte peut évoluer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le nourrissage peut rendre les adultes sensiblement plus pâles, avant le retour de la couleur lorsque les contraintes de reproduction diminuent. Le plumage n’est donc pas une surface peinte immuable. Alimentation, âge et reproduction influencent ce que l’on voit. Les espèces n’ont pas non plus une teinte identique : rose pâle, rose plus intense et tons rougeâtres existent. Une illustration ne constitue pas un nuancier pour toute la famille. [Source: San Diego Zoo](https://animals.sandiegozoo.org/animals/flamingo)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le poussin gris possède déjà ce qui fait de lui un flamant. Il montre simplement un âge de sa vie. Le rose adulte devient alors un lien visible entre alimentation, croissance et soins à la génération suivante. Cette couleur célèbre est une histoire biologique qui se construit plume après plume."
+      },
+      {
+        "type": "paragraph",
+        "text": "À lire également: [La biologie derrière le célèbre sourire du quokka](/articles/quokkas-australia-famous-smiling-marsupials/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: San Diego Zoo",
+        "url": "https://animals.sandiegozoo.org/animals/flamingo"
+      },
+      {
+        "label": "Source: Los Angeles Zoo",
+        "url": "https://lazoo.org/explore-your-zoo/our-animals/birds/flamingos/"
+      },
+      {
+        "label": "Source: Smithsonian",
+        "url": "https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Pourquoi les poussins éclosent-ils gris ?",
+        "answer": "Leur duvet diffère du plumage adulte. Le rose apparaît avec la croissance et l’incorporation de caroténoïdes alimentaires."
+      },
+      {
+        "question": "Les crevettes sont-elles l’unique source de couleur ?",
+        "answer": "Non. Les pigments circulent via les algues et d’autres aliments aquatiques ; les régimes varient selon les espèces."
+      },
+      {
+        "question": "Les deux parents produisent-ils du lait de jabot ?",
+        "answer": "Oui. Mâles et femelles peuvent produire cette sécrétion digestive nutritive pour les poussins."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/flying-frogs-amphibians-glide-between-trees/",
+    "path": "/ar/articles/flying-frogs-amphibians-glide-between-trees/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "الضفادع الطائرة: البرمائيات التي تنزلق بين الأشجار",
+    "seoTitle": "الضفادع الطائرة: كيف تنزلق البرمائيات بين الأشجار؟",
+    "description": "اكتشف كيف تستخدم الضفادع الطائرة أغشية أطرافها ووضعية الجسم للتحكم في الهبوط، ولماذا تختلف حركتها عن الطيران بضربات الأجنحة.",
+    "excerpt": "اكتشف كيف تستخدم الضفادع الطائرة أغشية أطرافها ووضعية الجسم للتحكم في الهبوط، ولماذا تختلف حركتها عن الطيران بضربات الأجنحة.",
+    "headlineHighlights": {
+      "red": "الضفادع الطائرة",
+      "gold": "تنزلق بين الأشجار"
+    },
+    "keywords": [
+      "الضفادع الطائرة",
+      "تنزلق بين الأشجار"
+    ],
+    "searchIntent": "اكتشف كيف تستخدم الضفادع الطائرة أغشية أطرافها ووضعية الجسم للتحكم في الهبوط، ولماذا تختلف حركتها عن الطيران بضربات الأجنحة.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/flying-frog-webbed-feet-rainforest-gliding-editorial.jpg",
+      "alt": "رسم تصوري لضفدع أخضر في الهواء يفرد أطرافه ذات الأغشية الواسعة قرب شجرة في غابة مطيرة.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "يغادر ضفدع غصناً ويفرد أطرافه، فيجعل الفراغ تحته جزءاً من طريقه. يبدو المشهد مفاجئاً لأننا نتخيل الضفادع تقفز في أقواس قصيرة أو تسبح. لكن المسألة في تاج الغابة ثلاثية الأبعاد؛ فقد يتطلب بلوغ سطح آخر التعامل مع الهواء الفاصل. يصف اسم الضفدع الطائر هذه القدرة اللافتة، بينما تكشف الميكانيكا حركة أدق: هبوطاً متحكماً فيه دون دفع بالأجنحة."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يعني الطيران هنا؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ضفدع والاس الطائر، Rhacophorus nigropalmatus، مثال معروف من غابات ماليزيا وإندونيسيا. ويصف متحف التاريخ الطبيعي أطرافه الغشائية وقدرته على الانتقال في الهواء بين الأشجار أو نحو الأرض. لا يحافظ الحيوان على طيرانه بضرب أجنحة، بل يبدأ من ارتفاع ويستخدم جسمه وأطرافه الممدودة للتأثير في الهبوط. ويصف الانزلاق والهبوط المظلي جوانب مختلفة من هذه الحركة الجوية. [المصدر: Natural History Museum](https://www.nhm.ac.uk/discover/fantastic-flyers-animals-that-fly-in-surprising-ways.html)"
+      },
+      {
+        "type": "heading",
+        "text": "أهمية فرد الأطراف"
+      },
+      {
+        "type": "paragraph",
+        "text": "تزيد الأغشية الواسعة بين الأصابع المساحة المعرضة للهواء المتحرك، وتملك بعض الضفادع حواف جلدية تسهم في شكلها المتخصص. ويشدد مرجع ضفادع بورنيو على أن بعض أنواع Rhacophorus فقط تتمتع بقدرات جوية متطورة. لا يجعل العيش على الأشجار الحيوان خبير انزلاق تلقائياً، ولا يدل اسم الضفدع الطائر على نوع واحد. ويجب النظر إلى التشريح والسلوك معاً. [المصدر: Frogs of Borneo](https://www.frogsofborneo.org/frogs/rhacophoridae)"
+      },
+      {
+        "type": "heading",
+        "text": "مسألة هبوط لا مسافة فقط"
+      },
+      {
+        "type": "paragraph",
+        "text": "استخدمت دراسة تجريبية لشارون إيمرسون وميمي كول ملاحظات على حيوانات حية ونماذج لفحص الأداء الجوي، بما يشمل المسافة والمناورة والاستقرار. تهم هذه النظرة الأوسع؛ فلا تُقرأ كفاءة الحيوان من صورة مثيرة أو ادعاء بأقصى مسافة. قد يوازي التوجه نحو هدف وضبط اتجاه الجسم أهمية الانتقال بعيداً. الأطراف الغشائية أجزاء من منظومة متحركة، لا أجنحة طائرات مصغرة قابلة للفصل. [المصدر: Emerson & Koehl](https://academic.oup.com/evolut/article-abstract/44/8/1931/6869574)"
+      },
+      {
+        "type": "heading",
+        "text": "تستمر الحياة بعد الانزلاق"
+      },
+      {
+        "type": "paragraph",
+        "text": "بحثت دراسات تقارن Rhacophorus المتخصصة بضفادع Polypedates الأقل تخصصاً القفز والتشبث أيضاً. يذكرنا ذلك بأن البرمائي الشجري يحتاج إلى أكثر من حيلة جوية: ينطلق ويصل إلى سطح ويثبت عليه، ثم يواصل التغذي والتكاثر. السؤال المفيد هو كيف يعمل الحيوان بكامله داخل موئل صعب، لا أي صفة تجعله أشبه بآلة طيران. [المصدر: Journal of Zoology](https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.12725)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يبهر إنجازها لأنه يستخدم جسم الضفدع بطريقة غير معتادة. تصبح الأصابع والجلد ووضعية الجسم أدوات لإدارة رحلة قصيرة في الهواء. يفتح الاسم باب القصة، لكن فهم الهبوط والتوجيه والالتصاق هو بداية علم الأحياء."
+      },
+      {
+        "type": "paragraph",
+        "text": "اقرأ أيضاً: [كيف تنجو بعض الضفادع من التجمد](/articles/frogs-freeze-come-back-to-life-science/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: Natural History Museum",
+        "url": "https://www.nhm.ac.uk/discover/fantastic-flyers-animals-that-fly-in-surprising-ways.html"
+      },
+      {
+        "label": "المصدر: Frogs of Borneo",
+        "url": "https://www.frogsofborneo.org/frogs/rhacophoridae"
+      },
+      {
+        "label": "المصدر: Emerson & Koehl",
+        "url": "https://academic.oup.com/evolut/article-abstract/44/8/1931/6869574"
+      },
+      {
+        "label": "المصدر: Journal of Zoology",
+        "url": "https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.12725"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل تطير بقوة الدفع؟",
+        "answer": "لا. تتحكم في هبوط غير مدفوع بالأجنحة باستخدام الجسم والأطراف والأغشية."
+      },
+      {
+        "question": "هل تنزلق جميع الضفادع الشجرية؟",
+        "answer": "لا. تختلف القدرات الجوية، ويرتبط الانزلاق المتطور بأنواع وتكيفات محددة."
+      },
+      {
+        "question": "هل الصورة توثق ضفدع والاس؟",
+        "answer": "لا. إنها صورة تصورية لم يُتحقق فيها من النوع الدقيق أو التشريح أو السلوك الجوي."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/flying-frogs-amphibians-glide-between-trees/",
+    "path": "/es/articles/flying-frogs-amphibians-glide-between-trees/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "RANAS VOLADORAS: LOS ANFIBIOS QUE PLANEAN ENTRE LOS ÁRBOLES",
+    "seoTitle": "Ranas voladoras: cómo planean entre los árboles",
+    "description": "Descubre cómo las ranas voladoras controlan el descenso con sus membranas interdigitales y postura, y por qué no vuelan como las aves.",
+    "excerpt": "Descubre cómo las ranas voladoras controlan el descenso con sus membranas interdigitales y postura, y por qué no vuelan como las aves.",
+    "headlineHighlights": {
+      "red": "RANAS VOLADORAS",
+      "gold": "PLANEAN ENTRE LOS ÁRBOLES"
+    },
+    "keywords": [
+      "RANAS VOLADORAS",
+      "PLANEAN ENTRE LOS ÁRBOLES"
+    ],
+    "searchIntent": "Descubre cómo las ranas voladoras controlan el descenso con sus membranas interdigitales y postura, y por qué no vuelan como las aves.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/flying-frog-webbed-feet-rainforest-gliding-editorial.jpg",
+      "alt": "Ilustración conceptual de una rana verde en el aire con manos y pies ampliamente palmeados junto a un árbol tropical.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Una rana abandona una rama, extiende las extremidades y convierte el espacio inferior en parte de su recorrido. Sorprende porque solemos imaginar saltos cortos o natación. En la copa del bosque, el problema tiene tres dimensiones: llegar a otra superficie puede requerir aprovechar el aire entre ambas. El nombre rana voladora describe esa capacidad; la mecánica revela algo más preciso: un descenso controlado sin propulsión de alas."
+      },
+      {
+        "type": "heading",
+        "text": "Qué significa volar en este caso"
+      },
+      {
+        "type": "paragraph",
+        "text": "La rana voladora de Wallace, Rhacophorus nigropalmatus, es un ejemplo de las selvas de Malasia e Indonesia. El Natural History Museum describe sus pies palmeados y su desplazamiento aéreo entre árboles o hacia el suelo. No mantiene el vuelo batiendo alas. Parte de una altura y usa cuerpo y extremidades extendidos para modificar el descenso. Planeo y descenso en paracaídas describen distintos aspectos de ese movimiento. [Fuente: Natural History Museum](https://www.nhm.ac.uk/discover/fantastic-flyers-animals-that-fly-in-surprising-ways.html)"
+      },
+      {
+        "type": "heading",
+        "text": "La importancia de extenderse"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las membranas extensas entre los dedos aumentan la superficie expuesta al aire. Algunas ranas también tienen rebordes cutáneos vinculados a su forma especializada. Frogs of Borneo subraya que solo ciertas especies de Rhacophorus poseen capacidades aéreas muy desarrolladas. Vivir en árboles no convierte automáticamente a una rana en experta planeadora, y rana voladora no designa una única especie. Anatomía y conducta deben estudiarse juntas. [Fuente: Frogs of Borneo](https://www.frogsofborneo.org/frogs/rhacophoridae)"
+      },
+      {
+        "type": "heading",
+        "text": "Aterrizar importa tanto como recorrer distancia"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un estudio experimental de Sharon Emerson y Mimi Koehl empleó observaciones de animales y modelos para analizar distancia, maniobrabilidad y estabilidad. Esa mirada amplia importa: una foto espectacular o una distancia máxima no bastan para valorar el éxito. Girar hacia un objetivo y controlar la orientación pueden importar tanto como avanzar lejos. Las extremidades palmeadas son partes de un sistema móvil, no alas de avión en miniatura. [Fuente: Emerson & Koehl](https://academic.oup.com/evolut/article-abstract/44/8/1931/6869574)"
+      },
+      {
+        "type": "heading",
+        "text": "La vida sigue después del planeo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Investigaciones que comparan Rhacophorus especializadas con Polypedates menos especializadas también han estudiado salto y adherencia. Un anfibio arborícola necesita más que una habilidad aérea: despegar, alcanzar un soporte, sujetarse y seguir alimentándose y reproduciéndose. La pregunta útil es cómo funciona el animal entero en su hábitat, no qué rasgo lo hace parecer más una máquina voladora. [Fuente: Journal of Zoology](https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.12725)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Su logro sorprende porque usa el cuerpo de una rana de manera inusual. Dedos, piel y postura se vuelven herramientas para gestionar un breve trayecto aéreo. El nombre abre la historia; comprender descenso, dirección y aterrizaje es donde empieza la biología."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lectura relacionada: [Cómo sobreviven algunas ranas a la congelación](/articles/frogs-freeze-come-back-to-life-science/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: Natural History Museum",
+        "url": "https://www.nhm.ac.uk/discover/fantastic-flyers-animals-that-fly-in-surprising-ways.html"
+      },
+      {
+        "label": "Fuente: Frogs of Borneo",
+        "url": "https://www.frogsofborneo.org/frogs/rhacophoridae"
+      },
+      {
+        "label": "Fuente: Emerson & Koehl",
+        "url": "https://academic.oup.com/evolut/article-abstract/44/8/1931/6869574"
+      },
+      {
+        "label": "Fuente: Journal of Zoology",
+        "url": "https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.12725"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Tienen vuelo propulsado?",
+        "answer": "No. Controlan un descenso con cuerpo, extremidades y membranas, sin batir alas."
+      },
+      {
+        "question": "¿Todas las ranas arborícolas planean?",
+        "answer": "No. La capacidad varía y el planeo desarrollado depende de especies y adaptaciones concretas."
+      },
+      {
+        "question": "¿La imagen documenta una rana de Wallace?",
+        "answer": "No. Es una ilustración conceptual sin verificación de especie exacta, anatomía o comportamiento aéreo."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/flying-frogs-amphibians-glide-between-trees/",
+    "path": "/fr/articles/flying-frogs-amphibians-glide-between-trees/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "LES GRENOUILLES VOLANTES : LES AMPHIBIENS QUI PLANENT ENTRE LES ARBRES",
+    "seoTitle": "Grenouilles volantes : comment elles planent entre les arbres",
+    "description": "Découvrez comment les grenouilles volantes contrôlent leur descente avec leurs palmures et leur posture, et pourquoi elles ne volent pas comme les oiseaux.",
+    "excerpt": "Découvrez comment les grenouilles volantes contrôlent leur descente avec leurs palmures et leur posture, et pourquoi elles ne volent pas comme les oiseaux.",
+    "headlineHighlights": {
+      "red": "GRENOUILLES VOLANTES",
+      "gold": "PLANENT ENTRE LES ARBRES"
+    },
+    "keywords": [
+      "GRENOUILLES VOLANTES",
+      "PLANENT ENTRE LES ARBRES"
+    ],
+    "searchIntent": "Découvrez comment les grenouilles volantes contrôlent leur descente avec leurs palmures et leur posture, et pourquoi elles ne volent pas comme les oiseaux.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/flying-frog-webbed-feet-rainforest-gliding-editorial.jpg",
+      "alt": "Illustration conceptuelle d’une grenouille verte en l’air, mains et pieds palmés déployés près d’un arbre de forêt tropicale.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Une grenouille quitte une branche, ouvre les membres et fait de l’espace inférieur une partie de son trajet. Le spectacle surprend : on imagine plutôt une courte trajectoire de saut ou la nage. Dans la canopée, le problème se pose pourtant en trois dimensions. Atteindre une autre surface suppose parfois de gérer l’air qui les sépare. Le nom de grenouille volante évoque cette capacité ; la mécanique décrit une descente contrôlée, sans propulsion par les ailes."
+      },
+      {
+        "type": "heading",
+        "text": "Ce que signifie voler ici"
+      },
+      {
+        "type": "paragraph",
+        "text": "La grenouille volante de Wallace, Rhacophorus nigropalmatus, vit notamment dans les forêts de Malaisie et d’Indonésie. Le Musée d’histoire naturelle de Londres décrit ses pieds palmés et ses déplacements aériens entre les arbres ou vers le sol. Elle ne se maintient pas en vol par des battements d’ailes. Partant d’une hauteur, elle utilise corps et membres déployés pour modifier sa descente. Vol plané et parachutage décrivent différents aspects du mouvement. [Source: Natural History Museum](https://www.nhm.ac.uk/discover/fantastic-flyers-animals-that-fly-in-surprising-ways.html)"
+      },
+      {
+        "type": "heading",
+        "text": "L’importance de se déployer"
+      },
+      {
+        "type": "paragraph",
+        "text": "De grandes palmures entre les doigts augmentent la surface exposée à l’air. Certaines grenouilles possèdent aussi des replis cutanés associés à cette forme spécialisée. La référence Frogs of Borneo souligne que seules certaines espèces de Rhacophorus ont des capacités aériennes très développées. Une rainette n’est donc pas automatiquement experte du vol plané, et grenouille volante ne désigne pas une espèce unique. Anatomie et comportement doivent être étudiés ensemble. [Source: Frogs of Borneo](https://www.frogsofborneo.org/frogs/rhacophoridae)"
+      },
+      {
+        "type": "heading",
+        "text": "Atterrir compte autant que parcourir une distance"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une étude expérimentale de Sharon Emerson et Mimi Koehl a utilisé observations d’animaux vivants et modèles pour analyser distance, maniabilité et stabilité. Cette approche large est essentielle. Une photographie spectaculaire ou un record de distance ne suffit pas à juger la performance. Tourner vers une cible et contrôler l’orientation peuvent compter autant qu’aller loin. Les membres palmés appartiennent à un système en mouvement, pas à un ensemble d’ailes d’avion miniatures. [Source: Emerson & Koehl](https://academic.oup.com/evolut/article-abstract/44/8/1931/6869574)"
+      },
+      {
+        "type": "heading",
+        "text": "La vie continue après le vol plané"
+      },
+      {
+        "type": "paragraph",
+        "text": "Des recherches comparant des Rhacophorus spécialisés à des Polypedates moins spécialisés ont aussi examiné saut et adhérence. Un amphibien arboricole a besoin de davantage qu’une prouesse aérienne : se lancer, atteindre un support, y rester, puis continuer à se nourrir et se reproduire. La question utile est le fonctionnement de tout l’animal dans son habitat, plutôt que le caractère qui le rapproche le plus d’une machine volante. [Source: Journal of Zoology](https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.12725)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Leur prouesse frappe parce qu’elle utilise autrement un corps de grenouille. Doigts, peau et posture deviennent des outils pour gérer un bref trajet dans l’air. Le nom ouvre le récit ; comprendre descente, orientation et atterrissage fait entrer dans la biologie."
+      },
+      {
+        "type": "paragraph",
+        "text": "À lire également: [Comment certaines grenouilles survivent au gel](/articles/frogs-freeze-come-back-to-life-science/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: Natural History Museum",
+        "url": "https://www.nhm.ac.uk/discover/fantastic-flyers-animals-that-fly-in-surprising-ways.html"
+      },
+      {
+        "label": "Source: Frogs of Borneo",
+        "url": "https://www.frogsofborneo.org/frogs/rhacophoridae"
+      },
+      {
+        "label": "Source: Emerson & Koehl",
+        "url": "https://academic.oup.com/evolut/article-abstract/44/8/1931/6869574"
+      },
+      {
+        "label": "Source: Journal of Zoology",
+        "url": "https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.12725"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Volent-elles grâce à une propulsion ?",
+        "answer": "Non. Elles contrôlent une descente avec corps, membres et palmures, sans battre des ailes."
+      },
+      {
+        "question": "Toutes les rainettes peuvent-elles planer ?",
+        "answer": "Non. Les capacités varient ; un vol plané développé concerne des espèces et adaptations particulières."
+      },
+      {
+        "question": "L’image documente-t-elle une grenouille de Wallace ?",
+        "answer": "Non. C’est une illustration conceptuelle dont l’espèce exacte, l’anatomie et le comportement ne sont pas vérifiés."
       }
     ]
   },
@@ -308423,6 +309755,369 @@
       {
         "label": "NHS : traitement des psychoses",
         "url": "https://www.nhs.uk/mental-health/conditions/psychosis/treatment/"
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/pele-boy-football-first-global-superstar/",
+    "path": "/ar/articles/pele-boy-football-first-global-superstar/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "بيليه: الفتى الذي أصبح أول نجم عالمي خارق لكرة القدم",
+    "seoTitle": "بيليه: من بطل مراهق إلى أيقونة كرة القدم العالمية",
+    "description": "اكتشف صعود بيليه مع سانتوس والبرازيل وألقابه الثلاثة في كأس العالم، والمهارة والعمل الجماعي والانتشار وراء أسطورته.",
+    "excerpt": "اكتشف صعود بيليه مع سانتوس والبرازيل وألقابه الثلاثة في كأس العالم، والمهارة والعمل الجماعي والانتشار وراء أسطورته.",
+    "headlineHighlights": {
+      "red": "بيليه",
+      "gold": "أول نجم عالمي خارق لكرة القدم"
+    },
+    "keywords": [
+      "بيليه",
+      "أول نجم عالمي خارق لكرة القدم"
+    ],
+    "searchIntent": "اكتشف صعود بيليه مع سانتوس والبرازيل وألقابه الثلاثة في كأس العالم، والمهارة والعمل الجماعي والانتشار وراء أسطورته.",
+    "category": "Sport",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/pele-brazil-football-legacy-editorial-collage.jpg",
+      "alt": "كولاج تحريري مقدم يصور بيليه مع مجسمات تشبه الكأس الحديثة ومشاهد كروية متخيلة أو غير موثقة.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "يستطيع مراهق حسم مباراة بلحظة عبقرية. لكن تحول اسمه إلى كلمة معروفة خارج كرة القدم يتطلب أكثر: تفوقاً متكرراً ومسرحاً لا يُنسى وصوراً تنتقل بعيداً. جمع بيليه هذه العناصر. تبدأ قصته بفتى يتعلم اللعبة في البرازيل، ثم تتسع عبر سانتوس والمنتخب وحياة عامة صار فيها لقب قصير لغة قائمة بذاتها."
+      },
+      {
+        "type": "heading",
+        "text": "من إدسون إلى بيليه"
+      },
+      {
+        "type": "paragraph",
+        "text": "وُلد إدسون أرانتيس دو ناسيمنتو في 23 أكتوبر 1940 في تريس كوراسويس، ونشأ في باورو. ويسجل متحف فيفا بداية مسيرته مع سانتوس عام 1956 وظهوره مع البرازيل في السنة التالية وهو في السادسة عشرة. قصة الطفولة مؤثرة دون ملء كل فجوة بمشهد تدريب مختلق. والواضح سرعة انتقال لاعب ناد شاب إلى الساحة الدولية. [المصدر: FIFA Museum](https://www.fifamuseum.com/en/explore/fifamuseumplus/blog/Pel--a-life-in-his-o)"
+      },
+      {
+        "type": "heading",
+        "text": "1958: مراهق على أكبر مسرح"
+      },
+      {
+        "type": "paragraph",
+        "text": "في السابعة عشرة ساعد البرازيل على الفوز بمونديال 1958 في السويد، وسجل هدفين في الانتصار النهائي 5 مقابل 2 على أصحاب الأرض. لم يكن الانطباع مجرد قدرة شاب على التسجيل؛ فقد جمع التقنية والحركة والهدوء تحت اهتمام هائل. يصفه متحف فيفا بأنه أول نجم عالمي خارق للكرة. يعبر اللقب عن اتساع شهرته، مع وجود لاعبين دوليين مشهورين قبله. [المصدر: FIFA](https://publications.fifa.com/en/annual-report-2022/in-memoriam-2022/)"
+      },
+      {
+        "type": "heading",
+        "text": "ثلاثة ألقاب وثلاث تجارب مختلفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "فاز بيليه بكأس العالم للرجال مع البرازيل في 1958 و1962 و1970. ولا يصح اختزالها في ثلاثة انتصارات شخصية متماثلة. أنهت إصابته أمام تشيكوسلوفاكيا مشاركته مبكراً في بطولة 1962، وأكملت البرازيل الدفاع عن اللقب دون وجوده في النهائي. وشارك زملاء استثنائيون في نجاحه أيضاً. وبحلول 1970 كان ركناً مخضرماً في الفريق الذي هزم إيطاليا 4 مقابل 1 في النهائي، وأسهم بهدف في عرض جماعي بارز آخر. [المصدر: FIFA](https://www.fifa.com/en/tournaments/mens/worldcup/articles/pele-three-world-cup-titles-only-player)"
+      },
+      {
+        "type": "heading",
+        "text": "سانتوس والسفر واتساع الجمهور"
+      },
+      {
+        "type": "paragraph",
+        "text": "قدمت كأس العالم الفصول الأيقونية، بينما منح سانتوس المسيرة الطويلة والحضور الدولي خارج بطولة تقام كل أربعة أعوام. وخلق انتقال بيليه إلى نيويورك كوزموس عام 1975 مساحة أخرى لالتقاء الجمهور به. نمت مكانته من كرة الأندية والمنافسة الدولية والظهور العام معاً. يعرض مقطع المهارات لحظات موهبة، أما المسيرة فتشرح كيف استمر الناس في لقائها عبر الزمن والمسافات. [المصدر: FIFA](https://www.fifa.com/pt/articles/bases-santos-pele-menino-da-vila)"
+      },
+      {
+        "type": "heading",
+        "text": "قراءة الكؤوس بدقة"
+      },
+      {
+        "type": "paragraph",
+        "text": "أشكال الكؤوس الحديثة الثلاثة في الكولاج رمزية. تعود أعوام فوز بيليه إلى حقبة كأس جول ريميه، وأُدخلت كأس العالم الحالية لبطولة 1974. لذلك لا يوثق التركيب ثلاث قطع تسلمها في تلك النهائيات. يقوي هذا التمييز الإرث الحقيقي؛ فثلاث حملات بطولية وأدوار مختلفة واسم عالمي تكفي لتكون استثنائية دون مطالبة الرسم بأن يقوم مقام الدليل التاريخي. [المصدر: FIFA](https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/11-days-to-go-the-second-trophy)"
+      },
+      {
+        "type": "paragraph",
+        "text": "اقرأ أيضاً: [يوهان كرويف وتحول كرة القدم](/articles/johan-cruyff-man-changed-football-forever/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: FIFA Museum",
+        "url": "https://www.fifamuseum.com/en/explore/fifamuseumplus/blog/Pel--a-life-in-his-o"
+      },
+      {
+        "label": "المصدر: FIFA",
+        "url": "https://publications.fifa.com/en/annual-report-2022/in-memoriam-2022/"
+      },
+      {
+        "label": "المصدر: FIFA",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/pele-three-world-cup-titles-only-player"
+      },
+      {
+        "label": "المصدر: FIFA",
+        "url": "https://www.fifa.com/pt/articles/bases-santos-pele-menino-da-vila"
+      },
+      {
+        "label": "المصدر: FIFA",
+        "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/11-days-to-go-the-second-trophy"
+      }
+    ],
+    "faq": [
+      {
+        "question": "كم كان عمر بيليه عند أول لقب عالمي؟",
+        "answer": "كان في السابعة عشرة حين فازت البرازيل في السويد عام 1958."
+      },
+      {
+        "question": "ما البطولات التي فاز بها؟",
+        "answer": "بطولات الرجال في 1958 و1962 و1970. وأبعدته الإصابة عن نهائي 1962."
+      },
+      {
+        "question": "هل توافق الكؤوس المصورة أعوام فوزه؟",
+        "answer": "لا. الكولاج رمزي. ألقابه من حقبة جول ريميه، والكأس الحالية ظهرت لأول مرة عام 1974."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/pele-boy-football-first-global-superstar/",
+    "path": "/es/articles/pele-boy-football-first-global-superstar/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "PELÉ: EL NIÑO QUE SE CONVIRTIÓ EN LA PRIMERA SUPERESTRELLA GLOBAL DEL FÚTBOL",
+    "seoTitle": "Pelé: de campeón adolescente a icono mundial del fútbol",
+    "description": "Explora el ascenso de Pelé con Santos y Brasil, sus tres Mundiales y la habilidad, el juego colectivo y la visibilidad que construyeron su leyenda.",
+    "excerpt": "Explora el ascenso de Pelé con Santos y Brasil, sus tres Mundiales y la habilidad, el juego colectivo y la visibilidad que construyeron su leyenda.",
+    "headlineHighlights": {
+      "red": "PELÉ",
+      "gold": "PRIMERA SUPERESTRELLA GLOBAL"
+    },
+    "keywords": [
+      "PELÉ",
+      "PRIMERA SUPERESTRELLA GLOBAL"
+    ],
+    "searchIntent": "Explora el ascenso de Pelé con Santos y Brasil, sus tres Mundiales y la habilidad, el juego colectivo y la visibilidad que construyeron su leyenda.",
+    "category": "Sport",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/pele-brazil-football-legacy-editorial-collage.jpg",
+      "alt": "Collage editorial suministrado de Pelé con objetos de forma similar al trofeo moderno y escenas de fútbol imaginadas o no verificadas.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un adolescente puede ganar un partido con una genialidad. Convertirse en un nombre conocido más allá del fútbol exige excelencia repetida, un escenario inolvidable e imágenes que viajen. Pelé reunió esas fuerzas. Su historia empieza con un niño aprendiendo en Brasil y crece a través de Santos, la selección y una vida pública en la que un apodo breve se volvió casi un idioma propio."
+      },
+      {
+        "type": "heading",
+        "text": "De Edson a Pelé"
+      },
+      {
+        "type": "paragraph",
+        "text": "Edson Arantes do Nascimento nació el 23 de octubre de 1940 en Três Corações y creció en Bauru. El Museo de la FIFA sitúa el inicio en Santos en 1956 y el debut con Brasil al año siguiente, con dieciséis años. La infancia resulta fascinante sin inventar escenas para llenar cada laguna. Lo extraordinario es la velocidad con la que aquel joven llegó al escenario internacional. [Fuente: FIFA Museum](https://www.fifamuseum.com/en/explore/fifamuseumplus/blog/Pel--a-life-in-his-o)"
+      },
+      {
+        "type": "heading",
+        "text": "1958: un adolescente en el mayor escenario"
+      },
+      {
+        "type": "paragraph",
+        "text": "A los diecisiete ayudó a Brasil a ganar el Mundial de 1958 en Suecia, con dos goles en la final vencida por 5 a 2 ante la anfitriona. No impresionaba solo que un joven marcara: combinaba técnica, movimiento y serenidad bajo atención extraordinaria. El Museo de la FIFA lo llama la primera superestrella global del fútbol. La expresión describe su alcance sin borrar a las figuras internacionales anteriores. [Fuente: FIFA](https://publications.fifa.com/en/annual-report-2022/in-memoriam-2022/)"
+      },
+      {
+        "type": "heading",
+        "text": "Tres títulos, tres experiencias diferentes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pelé ganó el Mundial masculino con Brasil en 1958, 1962 y 1970, pero no fueron tres experiencias personales idénticas. Una lesión ante Checoslovaquia terminó pronto su participación en 1962 y Brasil defendió el título sin él en la final. Sus éxitos pertenecían también a compañeros extraordinarios. En 1970 era una figura veterana del equipo que venció 4 a 1 a Italia, aportando un gol a otra actuación colectiva inolvidable. [Fuente: FIFA](https://www.fifa.com/en/tournaments/mens/worldcup/articles/pele-three-world-cup-titles-only-player)"
+      },
+      {
+        "type": "heading",
+        "text": "Santos, viajes y un público más amplio"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Mundial aportó capítulos icónicos; Santos, una larga carrera y presencia internacional más allá de un torneo cada cuatro años. Su llegada al New York Cosmos en 1975 abrió otro espacio de encuentro con el público. La fama creció mediante clubes, competición internacional y visibilidad pública. Un vídeo muestra talento; una carrera explica cómo el público volvió a encontrarlo a través del tiempo y las fronteras. [Fuente: FIFA](https://www.fifa.com/pt/articles/bases-santos-pele-menino-da-vila)"
+      },
+      {
+        "type": "heading",
+        "text": "Mirar los trofeos con precisión"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las tres formas modernas del collage son simbólicas. Los triunfos de Pelé pertenecen a la época de la Copa Jules Rimet; el trofeo actual se introdujo para 1974. La imagen no documenta tres objetos recibidos en aquellas finales. La precisión fortalece el legado: tres campañas campeonas, papeles diferentes y un nombre mundial ya bastan, sin convertir una ilustración en prueba histórica. [Fuente: FIFA](https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/11-days-to-go-the-second-trophy)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lectura relacionada: [Johan Cruyff y la transformación del fútbol](/articles/johan-cruyff-man-changed-football-forever/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: FIFA Museum",
+        "url": "https://www.fifamuseum.com/en/explore/fifamuseumplus/blog/Pel--a-life-in-his-o"
+      },
+      {
+        "label": "Fuente: FIFA",
+        "url": "https://publications.fifa.com/en/annual-report-2022/in-memoriam-2022/"
+      },
+      {
+        "label": "Fuente: FIFA",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/pele-three-world-cup-titles-only-player"
+      },
+      {
+        "label": "Fuente: FIFA",
+        "url": "https://www.fifa.com/pt/articles/bases-santos-pele-menino-da-vila"
+      },
+      {
+        "label": "Fuente: FIFA",
+        "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/11-days-to-go-the-second-trophy"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Qué edad tenía en su primer título mundial?",
+        "answer": "Diecisiete años, cuando Brasil ganó en Suecia en 1958."
+      },
+      {
+        "question": "¿Qué Mundiales ganó?",
+        "answer": "Los torneos masculinos de 1958, 1962 y 1970. Una lesión le impidió disputar la final de 1962."
+      },
+      {
+        "question": "¿Los trofeos ilustrados corresponden a esos años?",
+        "answer": "No. El collage es simbólico. Sus títulos fueron de la época Jules Rimet; el trofeo actual apareció en 1974."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/pele-boy-football-first-global-superstar/",
+    "path": "/fr/articles/pele-boy-football-first-global-superstar/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-05",
+      "terminologyChecked": true
+    },
+    "title": "PELÉ : LE GARÇON DEVENU LA PREMIÈRE SUPERSTAR MONDIALE DU FOOTBALL",
+    "seoTitle": "Pelé : du jeune champion du monde à l’icône planétaire",
+    "description": "Découvrez l’ascension de Pelé avec Santos et le Brésil, ses trois Coupes du monde et les qualités qui ont donné une portée mondiale à sa légende.",
+    "excerpt": "Découvrez l’ascension de Pelé avec Santos et le Brésil, ses trois Coupes du monde et les qualités qui ont donné une portée mondiale à sa légende.",
+    "headlineHighlights": {
+      "red": "PELÉ",
+      "gold": "PREMIÈRE SUPERSTAR MONDIALE"
+    },
+    "keywords": [
+      "PELÉ",
+      "PREMIÈRE SUPERSTAR MONDIALE"
+    ],
+    "searchIntent": "Découvrez l’ascension de Pelé avec Santos et le Brésil, ses trois Coupes du monde et les qualités qui ont donné une portée mondiale à sa légende.",
+    "category": "Sport",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "image": {
+      "src": "/articles/pele-brazil-football-legacy-editorial-collage.jpg",
+      "alt": "Collage éditorial fourni représentant Pelé avec des objets évoquant le trophée moderne et des scènes de football imaginées ou non vérifiées.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un adolescent peut gagner un match grâce à un geste brillant. Devenir un nom connu bien au-delà du football demande davantage : l’excellence répétée, une scène inoubliable et des images qui circulent. Pelé réunit ces forces. Son histoire commence avec un garçon apprenant le jeu au Brésil, puis s’élargit à Santos, à la sélection et à une vie publique où un court surnom devient presque une langue."
+      },
+      {
+        "type": "heading",
+        "text": "D’Edson à Pelé"
+      },
+      {
+        "type": "paragraph",
+        "text": "Edson Arantes do Nascimento naquit le 23 octobre 1940 à Três Corações et grandit à Bauru. Le Musée de la FIFA situe ses débuts à Santos en 1956 et en sélection l’année suivante, à seize ans. L’enfance est déjà captivante sans combler chaque lacune par une scène d’entraînement inventée. La rapidité de son passage du club à la scène internationale demeure remarquable. [Source: FIFA Museum](https://www.fifamuseum.com/en/explore/fifamuseumplus/blog/Pel--a-life-in-his-o)"
+      },
+      {
+        "type": "heading",
+        "text": "1958 : un adolescent sur la plus grande scène"
+      },
+      {
+        "type": "paragraph",
+        "text": "À dix-sept ans, il contribua au titre brésilien en Suède en 1958, avec deux buts dans la finale gagnée 5 à 2 contre les hôtes. Il ne montrait pas seulement qu’un jeune pouvait marquer : technique, déplacements et sang-froid résistaient à une attention immense. Le Musée de la FIFA le présente comme la première superstar mondiale du football. La formule exprime son rayonnement, sans effacer les vedettes internationales qui l’avaient précédé. [Source: FIFA](https://publications.fifa.com/en/annual-report-2022/in-memoriam-2022/)"
+      },
+      {
+        "type": "heading",
+        "text": "Trois titres, trois expériences différentes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pelé remporta les Coupes du monde masculines de 1958, 1962 et 1970. Ces victoires ne furent pas trois expériences individuelles identiques. Blessé contre la Tchécoslovaquie en 1962, il ne put terminer le tournoi et le Brésil conserva le titre sans lui en finale. Ses succès appartenaient aussi à des partenaires exceptionnels. En 1970, devenu cadre, il marqua dans la finale gagnée 4 à 1 contre l’Italie, au cœur d’une nouvelle démonstration collective. [Source: FIFA](https://www.fifa.com/en/tournaments/mens/worldcup/articles/pele-three-world-cup-titles-only-player)"
+      },
+      {
+        "type": "heading",
+        "text": "Santos, les voyages et un public élargi"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Coupe du monde fournit les chapitres emblématiques ; Santos apporta une longue carrière et une présence internationale au-delà d’un tournoi quadriennal. Son arrivée au New York Cosmos en 1975 ouvrit un autre espace de rencontre avec le public. Sa stature se construisit par les clubs, les compétitions internationales et la visibilité publique. Un montage montre le talent ; une carrière explique comment on le retrouve à travers le temps et les frontières. [Source: FIFA](https://www.fifa.com/pt/articles/bases-santos-pele-menino-da-vila)"
+      },
+      {
+        "type": "heading",
+        "text": "Regarder les trophées avec précision"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les trois formes modernes du collage sont symboliques. Les années victorieuses de Pelé appartenaient à l’époque du trophée Jules Rimet ; le trophée actuel fut introduit pour 1974. L’image ne documente donc pas trois objets reçus lors de ces finales. Cette précision renforce l’héritage réel : trois campagnes victorieuses, des rôles différents et un nom mondial suffisent déjà, sans transformer une illustration en preuve historique. [Source: FIFA](https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/11-days-to-go-the-second-trophy)"
+      },
+      {
+        "type": "paragraph",
+        "text": "À lire également: [Johan Cruyff et la transformation du football](/articles/johan-cruyff-man-changed-football-forever/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: FIFA Museum",
+        "url": "https://www.fifamuseum.com/en/explore/fifamuseumplus/blog/Pel--a-life-in-his-o"
+      },
+      {
+        "label": "Source: FIFA",
+        "url": "https://publications.fifa.com/en/annual-report-2022/in-memoriam-2022/"
+      },
+      {
+        "label": "Source: FIFA",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/pele-three-world-cup-titles-only-player"
+      },
+      {
+        "label": "Source: FIFA",
+        "url": "https://www.fifa.com/pt/articles/bases-santos-pele-menino-da-vila"
+      },
+      {
+        "label": "Source: FIFA",
+        "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/11-days-to-go-the-second-trophy"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quel âge avait-il lors de son premier titre mondial ?",
+        "answer": "Dix-sept ans, lors de la victoire du Brésil en Suède en 1958."
+      },
+      {
+        "question": "Quelles Coupes du monde a-t-il gagnées ?",
+        "answer": "Les tournois masculins de 1958, 1962 et 1970. Une blessure le priva de la finale de 1962."
+      },
+      {
+        "question": "Les trophées illustrés correspondent-ils à ces années ?",
+        "answer": "Non. Le collage est symbolique. Ses titres appartiennent à l’époque Jules Rimet ; le trophée actuel apparut en 1974."
       }
     ]
   },

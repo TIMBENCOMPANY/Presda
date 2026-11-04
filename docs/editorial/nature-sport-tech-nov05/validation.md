@@ -1,0 +1,13 @@
+# Pre-publication validation
+
+- Optimized production build passed, including type checking and generation of all 1,672 pages. Existing ReaderPoll image lint advice and future Next.js image-quality notices remain unchanged.
+- All 1,604 server-rendered article editions and 401 decoded JPEG social heroes passed the global social-preview regression. No valid-hero logo fallback; existing SEO, schema and original artwork preserved.
+- Final browser run passed all 140 combinations: 5 articles, 4 languages and 7 viewport sizes (320×844, 390×844, 768×1024, 844×390, 1024×768, 1366×768, 1920×1080).
+- Verified localized H1 and H2 text, descriptions, canonicals, reciprocal hreflang, Article/ImageObject citations, alternative text, image disclosures, three FAQs per edition, internal links, category discovery, image sitemap mappings and crawl access.
+- Native dimensions and SHA-256 hashes match all five approved originals. Images have no transforms or horizontal zoom; both side edges remain visible. Desktop follows the bounded Bruno contract and mobile uses the natural full image. Title, subtitle, date, category and reading time fit inside the frame. Reading time is above the fold at standard desktop sizes and 390×844 mobile.
+- Visual review covers all 20 editions through 10 EN/FR/AR/ES contact sheets at desktop/mobile, plus direct comparisons with Bruno. White, red and gold accents, RTL and fully readable text were confirmed.
+- The first narrow-screen run identified an overflowing journal-domain source label in translated flying-frog pages. Readable publisher/journal names replaced raw domains in the new translations' inline and sidebar source labels. URLs and evidence are unchanged. The complete build and 140-case browser suite were repeated successfully. No hero CSS or source-image workaround was introduced.
+- Baseline preservation checks retain all 396 existing articles' image-rights output, 1,176 generated translation records, 1,188 routing records and 457 original-image dimensions against e52b76de56ec47c921aee2cea39204db3f81d75e. Additions are exactly 15 translations, 15 routes and 5 dimensions.
+- Headline colour/text, Arabic reading-time grammar, invariant blocks, translation completeness, multilingual routing, schema and publication rendering checks passed. New editorial content contains no literal or encoded em dashes.
+
+Run `npm run test:nature-sport-tech` with a built server on port 3056. BASE_URL selects production, where the suite covers all 20 editions at desktop/mobile sizes (40 cases). Separate raw-crawler checks verify localized social metadata and all 15 original, SEO and social image URLs. Deployment and production verification evidence is retained in the workspace outputs directory.

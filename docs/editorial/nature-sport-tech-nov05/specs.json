@@ -1,0 +1,1018 @@
+[
+  {
+    "key": "android",
+    "slug": "android-google-changed-mobile-2007-announcement",
+    "attachment": "4-1000088580.jpg",
+    "image": "android-google-mobile-platform-history-editorial.jpg",
+    "category": "AI",
+    "schemaType": "Article",
+    "tags": [
+      "Android",
+      "Google",
+      "Mobile history",
+      "Open Handset Alliance"
+    ],
+    "related": "qr-code-history-simple-square-digital-world",
+    "relatedLabel": [
+      "How the QR code became an everyday interface",
+      "Comment le QR code est devenu une interface quotidienne",
+      "كيف أصبح رمز QR واجهة يومية",
+      "Cómo el QR se convirtió en una interfaz cotidiana"
+    ],
+    "meta": {
+      "en": [
+        "ANDROID: THE DAY GOOGLE CHANGED MOBILE FOREVER",
+        "Android: The 2007 Announcement That Changed Mobile",
+        "Revisit Android’s November 2007 announcement, the first handset in 2008 and the alliance that helped turn a software platform into a mobile ecosystem.",
+        "ANDROID",
+        "CHANGED MOBILE FOREVER",
+        "Conceptual editorial illustration of a green Android-style mascot beside an unspecified mobile phone."
+      ],
+      "fr": [
+        "ANDROID : LE JOUR OÙ GOOGLE A CHANGÉ LE MOBILE POUR TOUJOURS",
+        "Android : l’annonce de 2007 qui a changé le mobile",
+        "Retour sur l’annonce d’Android en novembre 2007, le premier téléphone en 2008 et l’alliance qui a transformé une plateforme en écosystème mobile.",
+        "ANDROID",
+        "CHANGÉ LE MOBILE POUR TOUJOURS",
+        "Illustration éditoriale conceptuelle d’une mascotte verte de type Android près d’un téléphone non identifié."
+      ],
+      "ar": [
+        "أندرويد: اليوم الذي غيّرت فيه غوغل عالم الهواتف إلى الأبد",
+        "أندرويد: إعلان 2007 الذي غيّر عالم الهواتف",
+        "استعد قصة إعلان أندرويد في نوفمبر 2007، وأول هاتف عام 2008، والتحالف الذي ساعد على تحويل منصة برمجية إلى منظومة للهواتف.",
+        "أندرويد",
+        "غيّرت فيه غوغل عالم الهواتف إلى الأبد",
+        "رسم تحريري تصوري لتميمة خضراء شبيهة بأندرويد إلى جانب هاتف غير محدد الطراز."
+      ],
+      "es": [
+        "ANDROID: EL DÍA QUE GOOGLE CAMBIÓ EL MÓVIL PARA SIEMPRE",
+        "Android: el anuncio de 2007 que cambió el móvil",
+        "Revive el anuncio de Android en noviembre de 2007, el primer teléfono de 2008 y la alianza que convirtió una plataforma de software en un ecosistema móvil.",
+        "ANDROID",
+        "CAMBIÓ EL MÓVIL PARA SIEMPRE",
+        "Ilustración editorial conceptual de una mascota verde de estilo Android junto a un teléfono de modelo no identificado."
+      ]
+    },
+    "disclosure": [
+      "Conceptual technology illustration, not a photograph of the 2007 announcement or a verified T-Mobile G1. The mascot and handset are illustrative.",
+      "Illustration technologique conceptuelle, et non photographie de l’annonce de 2007 ou d’un T-Mobile G1 vérifié. Mascotte et appareil sont illustratifs.",
+      "رسم تقني تصوري وليس صورة لإعلان 2007 أو لهاتف تي موبايل جي 1 موثق. التميمة والجهاز عنصران توضيحيان.",
+      "Ilustración tecnológica conceptual, no fotografía del anuncio de 2007 ni de un T-Mobile G1 verificado. La mascota y el teléfono son ilustrativos."
+    ],
+    "blocks": [
+      {
+        "en": "The announcement that changed Google’s place in mobile did not unveil a phone. On 5 November 2007, the company presented Android and a coalition of partners who intended to build around it. That distinction was the point. A single handset could attract attention; a shared software platform could give many manufacturers and developers somewhere to begin. The consequences unfolded over years, but the public proposition was already clear: mobile computing could be organised around an ecosystem.",
+        "fr": "L’annonce qui changea la place de Google dans le mobile ne dévoilait pas un téléphone. Le 5 novembre 2007, l’entreprise présenta Android et une coalition de partenaires prêts à le développer. La distinction était essentielle. Un appareil pouvait attirer l’attention ; une plateforme partagée pouvait offrir un point de départ à de nombreux fabricants et développeurs. Les conséquences prirent des années, mais la proposition publique était claire : organiser le mobile autour d’un écosystème.",
+        "ar": "لم يكشف الإعلان الذي غيّر مكانة غوغل في الهواتف عن جهاز. ففي 5 نوفمبر 2007 قدمت الشركة أندرويد وتحالفاً من الشركاء الذين أرادوا البناء حوله. كان هذا التمييز جوهرياً. يستطيع هاتف واحد جذب الانتباه، لكن منصة مشتركة تمنح مصنّعين ومطورين كثيرين نقطة بداية. امتدت النتائج عبر سنوات، غير أن الفكرة المعلنة كانت واضحة: يمكن تنظيم الحوسبة المحمولة حول منظومة متكاملة.",
+        "es": "El anuncio que cambió el lugar de Google en el móvil no presentó un teléfono. El 5 de noviembre de 2007, la empresa mostró Android y una coalición de socios dispuestos a construir sobre él. La diferencia era esencial. Un aparato podía atraer atención; una plataforma compartida ofrecía un punto de partida a muchos fabricantes y desarrolladores. Las consecuencias tardaron años, pero la propuesta era clara: organizar la informática móvil alrededor de un ecosistema."
+      },
+      {
+        "en": "5 November 2007: a platform takes the stage",
+        "fr": "5 novembre 2007 : une plateforme entre en scène",
+        "ar": "5 نوفمبر 2007: منصة تدخل المشهد",
+        "es": "5 de noviembre de 2007: una plataforma sale a escena",
+        "heading": true
+      },
+      {
+        "en": "In Google’s original blog post, mobile-platforms director Andy Rubin explicitly distinguished the announcement from the much-rumoured Gphone. Android was presented as a package of operating system, interface and applications developed with industry partners. The post also cautioned readers that phones would come later. Treating this date as the first day a consumer could buy an Android handset confuses a platform announcement with a retail launch.",
+        "fr": "Dans le billet original de Google, Andy Rubin, responsable des plateformes mobiles, distinguait explicitement l’annonce du Gphone attendu par les rumeurs. Android était présenté comme un ensemble comprenant système, interface et applications, développé avec des partenaires. Le texte précisait aussi que les téléphones arriveraient plus tard. Faire de cette date le premier jour d’achat d’un appareil Android confond annonce de plateforme et lancement commercial.",
+        "ar": "في تدوينة غوغل الأصلية ميّز آندي روبين، مدير منصات الهواتف، الإعلان عن هاتف جي فون الذي دارت حوله الشائعات. قُدم أندرويد حزمة تضم نظام التشغيل والواجهة والتطبيقات، طُورت مع شركاء في القطاع. وأوضح النص أيضاً أن الهواتف ستأتي لاحقاً. اعتبار ذلك اليوم بداية شراء هاتف أندرويد يخلط إعلان المنصة بالإطلاق التجاري.",
+        "es": "En la entrada original de Google, Andy Rubin, responsable de plataformas móviles, diferenció expresamente el anuncio del rumoreado Gphone. Android se presentó como un conjunto de sistema operativo, interfaz y aplicaciones desarrollado con socios. El texto avisaba de que los teléfonos llegarían después. Confundir esa fecha con el primer día de venta de un Android mezcla anuncio de plataforma y lanzamiento comercial.",
+        "source": [
+          "Google: the Android announcement, 5 November 2007",
+          "https://googleblog.blogspot.com/2007/11/wheres-my-gphone.html"
+        ]
+      },
+      {
+        "en": "The alliance behind the ambition",
+        "fr": "L’alliance derrière l’ambition",
+        "ar": "التحالف خلف الطموح",
+        "es": "La alianza detrás de la ambición",
+        "heading": true
+      },
+      {
+        "en": "The Open Handset Alliance’s release named 34 founding companies, spanning manufacturers, carriers and technology suppliers. HTC, T-Mobile, Qualcomm and Motorola were among them. The strategy addressed a coordination problem: a mobile platform needed hardware, networks, software tools and applications to work together. Android’s promise of openness was also a commercial proposal, intended to reduce barriers to developing devices and services. These were the partners’ stated ambitions, not proof that every later Android product would be identical or equally open.",
+        "fr": "Le communiqué de l’Open Handset Alliance mentionnait 34 entreprises fondatrices : fabricants, opérateurs et fournisseurs de technologies, dont HTC, T-Mobile, Qualcomm et Motorola. La stratégie répondait à un problème de coordination : matériel, réseaux, outils et applications devaient fonctionner ensemble. L’ouverture promise était aussi une proposition commerciale visant à faciliter le développement. C’étaient les ambitions annoncées, pas la garantie que tous les appareils futurs seraient identiques ou également ouverts.",
+        "ar": "سمى بيان تحالف الهواتف المفتوحة 34 شركة مؤسسة، شملت مصنعين ومشغلين وموردي تقنيات، منهم إتش تي سي وتي موبايل وكوالكوم وموتورولا. عالجت الاستراتيجية مشكلة تنسيق: تحتاج المنصة إلى تكامل الأجهزة والشبكات وأدوات البرمجة والتطبيقات. وكان وعد الانفتاح أيضاً طرحاً تجارياً لتقليل عوائق تطوير الأجهزة والخدمات. هذه أهداف الشركاء المعلنة، وليست دليلاً على تماثل كل منتجات أندرويد اللاحقة أو تساوي انفتاحها.",
+        "es": "El comunicado de la Open Handset Alliance nombró 34 empresas fundadoras: fabricantes, operadoras y proveedores tecnológicos, entre ellos HTC, T-Mobile, Qualcomm y Motorola. La estrategia afrontaba un problema de coordinación entre hardware, redes, herramientas y aplicaciones. La apertura era también una propuesta comercial para reducir barreras de desarrollo. Eran objetivos declarados, no garantía de que todos los futuros dispositivos fueran idénticos o igualmente abiertos.",
+        "source": [
+          "Open Handset Alliance: the 2007 announcement",
+          "https://www.openhandsetalliance.com/press_110507.html"
+        ]
+      },
+      {
+        "en": "2008: the first phone becomes tangible",
+        "fr": "2008 : le premier téléphone devient concret",
+        "ar": "2008: ظهور الهاتف الأول",
+        "es": "2008: el primer teléfono se hace tangible",
+        "heading": true
+      },
+      {
+        "en": "On 23 September 2008, Google introduced the first Android-powered phone, the T-Mobile G1, developed with HTC and T-Mobile. The announcement gave the earlier platform plan a recognisable consumer object. It also put developers and applications at the centre of the story. Android’s historical significance cannot be reduced to the appearance of that first device: the larger wager was that a common foundation could support many different phones and experiences.",
+        "fr": "Le 23 septembre 2008, Google présenta le premier téléphone Android, le T-Mobile G1, développé avec HTC et T-Mobile. Le projet de plateforme prenait la forme d’un objet destiné au public. L’annonce plaçait aussi les développeurs et les applications au cœur du récit. L’importance historique d’Android dépasse pourtant l’apparence de ce premier appareil : le pari consistait à faire d’une base commune le support de téléphones et d’expériences variés.",
+        "ar": "في 23 سبتمبر 2008 قدمت غوغل أول هاتف يعمل بأندرويد، تي موبايل جي 1، المطور مع إتش تي سي وتي موبايل. منح الإعلان خطة المنصة السابقة جسماً استهلاكياً واضحاً، ووضع المطورين والتطبيقات في قلب القصة. لكن أهمية أندرويد التاريخية تتجاوز شكل الجهاز الأول: كان الرهان الأوسع أن تدعم قاعدة مشتركة هواتف وتجارب مختلفة.",
+        "es": "El 23 de septiembre de 2008, Google presentó el primer teléfono Android, el T-Mobile G1, desarrollado con HTC y T-Mobile. El proyecto previo adquiría un objeto reconocible para el consumidor, con desarrolladores y aplicaciones en el centro. La importancia histórica de Android supera el aspecto de ese primer aparato: la apuesta era que una base común pudiera sostener teléfonos y experiencias diferentes.",
+        "source": [
+          "Google: the first Android-powered phone",
+          "https://googleblog.blogspot.com/2008/09/first-android-powered-phone.html"
+        ]
+      },
+      {
+        "en": "The source-code milestone",
+        "fr": "L’étape du code source",
+        "ar": "محطة الشفرة المصدرية",
+        "es": "El hito del código fuente",
+        "heading": true
+      },
+      {
+        "en": "A further date belongs in the timeline: 21 October 2008, when Google and the alliance announced the platform’s public source-code availability through the Android Open Source Project. Announcement, first handset and source release were separate milestones. Open-source software also does not mean that every service, commercial arrangement or application on a finished phone is part of the same open code. Keeping those distinctions clear explains the achievement more accurately than a story about one miraculous launch day.",
+        "fr": "Une autre date complète la chronologie : le 21 octobre 2008, lorsque Google et l’alliance annoncèrent la disponibilité publique du code via l’Android Open Source Project. Annonce, premier téléphone et publication du code étaient trois étapes distinctes. Un système ouvert ne signifie pas non plus que chaque service, accord commercial ou application d’un appareil fini appartient au même code ouvert. Ces distinctions expliquent mieux le changement qu’un lancement miraculeux unique.",
+        "ar": "وتكمل الخط الزمني محطة 21 أكتوبر 2008، حين أعلنت غوغل والتحالف إتاحة شفرة المنصة للجمهور عبر مشروع أندرويد مفتوح المصدر. كان الإعلان والهاتف الأول ونشر الشفرة محطات منفصلة. كما لا تعني البرمجيات المفتوحة أن كل خدمة أو ترتيب تجاري أو تطبيق في الهاتف النهائي جزء من الشفرة المفتوحة نفسها. توضح هذه الفروق الإنجاز بدقة أكبر من حكاية يوم إطلاق سحري واحد.",
+        "es": "Otra fecha completa la cronología: el 21 de octubre de 2008, Google y la alianza anunciaron la disponibilidad pública del código mediante Android Open Source Project. Anuncio, primer teléfono y publicación del código fueron hitos separados. El software abierto tampoco significa que cada servicio, acuerdo comercial o aplicación del aparato forme parte del mismo código. Distinguir esas etapas explica mejor el logro que un único día milagroso.",
+        "source": [
+          "Open Handset Alliance: source-code release, October 2008",
+          "https://www.openhandsetalliance.com/press_102108.html"
+        ]
+      },
+      {
+        "en": "The turning point was a change in how a phone could be built and extended. A handset became an entry into a wider relationship between manufacturers, developers, network operators and users. Android did not invent the smartphone, but its shared-platform approach helped reshape the choices available around it. The day mattered because of what many people would subsequently build.",
+        "fr": "Le tournant concernait la manière de construire et d’enrichir un téléphone. L’appareil ouvrait une relation plus large entre fabricants, développeurs, opérateurs et utilisateurs. Android n’a pas inventé le smartphone, mais sa logique de plateforme partagée a contribué à transformer les choix qui l’entouraient. Cette journée comptait pour ce que tant d’acteurs allaient ensuite créer.",
+        "ar": "تعلق التحول بطريقة بناء الهاتف وتوسيع إمكاناته. أصبح الجهاز مدخلاً إلى علاقة أوسع بين المصنعين والمطورين والمشغلين والمستخدمين. لم يخترع أندرويد الهاتف الذكي، لكن نهج المنصة المشتركة ساعد على إعادة تشكيل الخيارات المحيطة به. اكتسب اليوم أهميته مما سيبنيه بعده كثيرون.",
+        "es": "El giro estaba en cómo construir y ampliar un teléfono. El aparato se convertía en entrada a una relación entre fabricantes, desarrolladores, operadoras y usuarios. Android no inventó el teléfono inteligente, pero su plataforma compartida ayudó a transformar las opciones disponibles. La fecha importó por todo lo que otros construirían después."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "When was Android announced?",
+          "Google and the Open Handset Alliance announced the platform on 5 November 2007."
+        ],
+        [
+          "Was the first Android phone released that day?",
+          "No. The first Android-powered handset, the T-Mobile G1, was announced on 23 September 2008."
+        ],
+        [
+          "When did the platform’s source code become publicly available?",
+          "Google and the alliance announced public availability through AOSP on 21 October 2008."
+        ]
+      ],
+      "fr": [
+        [
+          "Quand Android a-t-il été annoncé ?",
+          "Google et l’Open Handset Alliance ont annoncé la plateforme le 5 novembre 2007."
+        ],
+        [
+          "Le premier téléphone est-il sorti ce jour-là ?",
+          "Non. Le premier appareil Android, le T-Mobile G1, a été présenté le 23 septembre 2008."
+        ],
+        [
+          "Quand le code est-il devenu public ?",
+          "Google et l’alliance ont annoncé sa disponibilité via AOSP le 21 octobre 2008."
+        ]
+      ],
+      "ar": [
+        [
+          "متى أُعلن أندرويد؟",
+          "أعلنت غوغل وتحالف الهواتف المفتوحة المنصة في 5 نوفمبر 2007."
+        ],
+        [
+          "هل ظهر أول هاتف في اليوم نفسه؟",
+          "لا. أُعلن أول جهاز بأندرويد، تي موبايل جي 1، في 23 سبتمبر 2008."
+        ],
+        [
+          "متى أُتيحت شفرة المنصة للجمهور؟",
+          "أعلنت غوغل والتحالف إتاحتها عبر المشروع المفتوح المصدر في 21 أكتوبر 2008."
+        ]
+      ],
+      "es": [
+        [
+          "¿Cuándo se anunció Android?",
+          "Google y la Open Handset Alliance anunciaron la plataforma el 5 de noviembre de 2007."
+        ],
+        [
+          "¿Salió el primer teléfono ese mismo día?",
+          "No. El primer dispositivo Android, el T-Mobile G1, se anunció el 23 de septiembre de 2008."
+        ],
+        [
+          "¿Cuándo se hizo público el código?",
+          "Google y la alianza anunciaron su disponibilidad mediante AOSP el 21 de octubre de 2008."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "frogs",
+    "slug": "flying-frogs-amphibians-glide-between-trees",
+    "attachment": "5-1000088583.jpg",
+    "image": "flying-frog-webbed-feet-rainforest-gliding-editorial.jpg",
+    "category": "Science",
+    "schemaType": "Article",
+    "tags": [
+      "Flying frogs",
+      "Gliding",
+      "Amphibians",
+      "Biomechanics"
+    ],
+    "related": "frogs-freeze-come-back-to-life-science",
+    "relatedLabel": [
+      "How some frogs survive freezing",
+      "Comment certaines grenouilles survivent au gel",
+      "كيف تنجو بعض الضفادع من التجمد",
+      "Cómo sobreviven algunas ranas a la congelación"
+    ],
+    "meta": {
+      "en": [
+        "FLYING FROGS: THE AMPHIBIANS THAT GLIDE BETWEEN TREES",
+        "Flying Frogs: How Amphibians Glide Between Trees",
+        "Discover how flying frogs use webbed hands, feet and body posture to control a descent, and why their aerial movement differs from powered flight.",
+        "FLYING FROGS",
+        "GLIDE BETWEEN TREES",
+        "Conceptual illustration of a green frog in the air with extensively webbed hands and feet spread beside a rainforest tree."
+      ],
+      "fr": [
+        "LES GRENOUILLES VOLANTES : LES AMPHIBIENS QUI PLANENT ENTRE LES ARBRES",
+        "Grenouilles volantes : comment elles planent entre les arbres",
+        "Découvrez comment les grenouilles volantes contrôlent leur descente avec leurs palmures et leur posture, et pourquoi elles ne volent pas comme les oiseaux.",
+        "GRENOUILLES VOLANTES",
+        "PLANENT ENTRE LES ARBRES",
+        "Illustration conceptuelle d’une grenouille verte en l’air, mains et pieds palmés déployés près d’un arbre de forêt tropicale."
+      ],
+      "ar": [
+        "الضفادع الطائرة: البرمائيات التي تنزلق بين الأشجار",
+        "الضفادع الطائرة: كيف تنزلق البرمائيات بين الأشجار؟",
+        "اكتشف كيف تستخدم الضفادع الطائرة أغشية أطرافها ووضعية الجسم للتحكم في الهبوط، ولماذا تختلف حركتها عن الطيران بضربات الأجنحة.",
+        "الضفادع الطائرة",
+        "تنزلق بين الأشجار",
+        "رسم تصوري لضفدع أخضر في الهواء يفرد أطرافه ذات الأغشية الواسعة قرب شجرة في غابة مطيرة."
+      ],
+      "es": [
+        "RANAS VOLADORAS: LOS ANFIBIOS QUE PLANEAN ENTRE LOS ÁRBOLES",
+        "Ranas voladoras: cómo planean entre los árboles",
+        "Descubre cómo las ranas voladoras controlan el descenso con sus membranas interdigitales y postura, y por qué no vuelan como las aves.",
+        "RANAS VOLADORAS",
+        "PLANEAN ENTRE LOS ÁRBOLES",
+        "Ilustración conceptual de una rana verde en el aire con manos y pies ampliamente palmeados junto a un árbol tropical."
+      ]
+    },
+    "disclosure": [
+      "Conceptual wildlife illustration, not a documented glide or verified species identification. Webbing, anatomy and posture are illustrative.",
+      "Illustration animalière conceptuelle, et non vol plané documenté ou identification vérifiée d’une espèce. Palmures, anatomie et posture sont illustratives.",
+      "رسم تصوري للحياة البرية، وليس انزلاقاً موثقاً أو تحديداً مؤكداً للنوع. الأغشية والتشريح ووضعية الجسم عناصر توضيحية.",
+      "Ilustración conceptual de fauna, no planeo documentado ni identificación verificada de especie. Membranas, anatomía y postura son ilustrativas."
+    ],
+    "blocks": [
+      {
+        "en": "A frog leaves a branch, opens its limbs and turns the space below into part of its route. It is a surprising sight because we usually imagine frogs jumping through a short arc or swimming. In a forest canopy, however, the problem is three-dimensional. Reaching another surface can involve managing the air between them. The familiar name flying frog describes that striking ability, while the mechanics reveal something more specific: a controlled, unpowered descent.",
+        "fr": "Une grenouille quitte une branche, ouvre les membres et fait de l’espace inférieur une partie de son trajet. Le spectacle surprend : on imagine plutôt une courte trajectoire de saut ou la nage. Dans la canopée, le problème se pose pourtant en trois dimensions. Atteindre une autre surface suppose parfois de gérer l’air qui les sépare. Le nom de grenouille volante évoque cette capacité ; la mécanique décrit une descente contrôlée, sans propulsion par les ailes.",
+        "ar": "يغادر ضفدع غصناً ويفرد أطرافه، فيجعل الفراغ تحته جزءاً من طريقه. يبدو المشهد مفاجئاً لأننا نتخيل الضفادع تقفز في أقواس قصيرة أو تسبح. لكن المسألة في تاج الغابة ثلاثية الأبعاد؛ فقد يتطلب بلوغ سطح آخر التعامل مع الهواء الفاصل. يصف اسم الضفدع الطائر هذه القدرة اللافتة، بينما تكشف الميكانيكا حركة أدق: هبوطاً متحكماً فيه دون دفع بالأجنحة.",
+        "es": "Una rana abandona una rama, extiende las extremidades y convierte el espacio inferior en parte de su recorrido. Sorprende porque solemos imaginar saltos cortos o natación. En la copa del bosque, el problema tiene tres dimensiones: llegar a otra superficie puede requerir aprovechar el aire entre ambas. El nombre rana voladora describe esa capacidad; la mecánica revela algo más preciso: un descenso controlado sin propulsión de alas."
+      },
+      {
+        "en": "What flying means here",
+        "fr": "Ce que signifie voler ici",
+        "ar": "ماذا يعني الطيران هنا؟",
+        "es": "Qué significa volar en este caso",
+        "heading": true
+      },
+      {
+        "en": "Wallace’s flying frog, Rhacophorus nigropalmatus, is a well-known example from the rainforests of Malaysia and Indonesia. The Natural History Museum describes its webbed feet and its ability to move through the air between trees or down to the ground. The animal does not sustain flight by beating wings. It begins with height and uses its spread body and limbs to influence the descent. Gliding and parachuting are useful descriptions of different aspects of that aerial movement.",
+        "fr": "La grenouille volante de Wallace, Rhacophorus nigropalmatus, vit notamment dans les forêts de Malaisie et d’Indonésie. Le Musée d’histoire naturelle de Londres décrit ses pieds palmés et ses déplacements aériens entre les arbres ou vers le sol. Elle ne se maintient pas en vol par des battements d’ailes. Partant d’une hauteur, elle utilise corps et membres déployés pour modifier sa descente. Vol plané et parachutage décrivent différents aspects du mouvement.",
+        "ar": "ضفدع والاس الطائر، Rhacophorus nigropalmatus، مثال معروف من غابات ماليزيا وإندونيسيا. ويصف متحف التاريخ الطبيعي أطرافه الغشائية وقدرته على الانتقال في الهواء بين الأشجار أو نحو الأرض. لا يحافظ الحيوان على طيرانه بضرب أجنحة، بل يبدأ من ارتفاع ويستخدم جسمه وأطرافه الممدودة للتأثير في الهبوط. ويصف الانزلاق والهبوط المظلي جوانب مختلفة من هذه الحركة الجوية.",
+        "es": "La rana voladora de Wallace, Rhacophorus nigropalmatus, es un ejemplo de las selvas de Malasia e Indonesia. El Natural History Museum describe sus pies palmeados y su desplazamiento aéreo entre árboles o hacia el suelo. No mantiene el vuelo batiendo alas. Parte de una altura y usa cuerpo y extremidades extendidos para modificar el descenso. Planeo y descenso en paracaídas describen distintos aspectos de ese movimiento.",
+        "source": [
+          "Natural History Museum: Wallace’s flying frog",
+          "https://www.nhm.ac.uk/discover/fantastic-flyers-animals-that-fly-in-surprising-ways.html"
+        ]
+      },
+      {
+        "en": "The importance of spreading out",
+        "fr": "L’importance de se déployer",
+        "ar": "أهمية فرد الأطراف",
+        "es": "La importancia de extenderse",
+        "heading": true
+      },
+      {
+        "en": "Extensive webbing between the digits increases the area presented to moving air. Some flying frogs also have skin fringes that contribute to their specialised shape. The Frogs of Borneo reference stresses that only some members of Rhacophorus have strongly developed aerial abilities. Being a tree frog does not automatically make an animal an expert glider, and the label flying frog is not a single species name. Anatomy and behaviour have to be considered together.",
+        "fr": "De grandes palmures entre les doigts augmentent la surface exposée à l’air. Certaines grenouilles possèdent aussi des replis cutanés associés à cette forme spécialisée. La référence Frogs of Borneo souligne que seules certaines espèces de Rhacophorus ont des capacités aériennes très développées. Une rainette n’est donc pas automatiquement experte du vol plané, et grenouille volante ne désigne pas une espèce unique. Anatomie et comportement doivent être étudiés ensemble.",
+        "ar": "تزيد الأغشية الواسعة بين الأصابع المساحة المعرضة للهواء المتحرك، وتملك بعض الضفادع حواف جلدية تسهم في شكلها المتخصص. ويشدد مرجع ضفادع بورنيو على أن بعض أنواع Rhacophorus فقط تتمتع بقدرات جوية متطورة. لا يجعل العيش على الأشجار الحيوان خبير انزلاق تلقائياً، ولا يدل اسم الضفدع الطائر على نوع واحد. ويجب النظر إلى التشريح والسلوك معاً.",
+        "es": "Las membranas extensas entre los dedos aumentan la superficie expuesta al aire. Algunas ranas también tienen rebordes cutáneos vinculados a su forma especializada. Frogs of Borneo subraya que solo ciertas especies de Rhacophorus poseen capacidades aéreas muy desarrolladas. Vivir en árboles no convierte automáticamente a una rana en experta planeadora, y rana voladora no designa una única especie. Anatomía y conducta deben estudiarse juntas.",
+        "source": [
+          "Frogs of Borneo: Rhacophoridae",
+          "https://www.frogsofborneo.org/frogs/rhacophoridae"
+        ]
+      },
+      {
+        "en": "A landing problem as well as a distance problem",
+        "fr": "Atterrir compte autant que parcourir une distance",
+        "ar": "مسألة هبوط لا مسافة فقط",
+        "es": "Aterrizar importa tanto como recorrer distancia",
+        "heading": true
+      },
+      {
+        "en": "A classic experimental study by Sharon Emerson and Mimi Koehl used live-animal observations and models to examine aerial performance, including distance, manoeuvrability and stability. This broader approach matters. An animal’s success cannot be read from one dramatic photograph or a maximum-distance claim. Turning toward a target and controlling orientation may matter as much as travelling far. The webbed limbs are parts of a moving system, not detachable miniature aircraft wings.",
+        "fr": "Une étude expérimentale de Sharon Emerson et Mimi Koehl a utilisé observations d’animaux vivants et modèles pour analyser distance, maniabilité et stabilité. Cette approche large est essentielle. Une photographie spectaculaire ou un record de distance ne suffit pas à juger la performance. Tourner vers une cible et contrôler l’orientation peuvent compter autant qu’aller loin. Les membres palmés appartiennent à un système en mouvement, pas à un ensemble d’ailes d’avion miniatures.",
+        "ar": "استخدمت دراسة تجريبية لشارون إيمرسون وميمي كول ملاحظات على حيوانات حية ونماذج لفحص الأداء الجوي، بما يشمل المسافة والمناورة والاستقرار. تهم هذه النظرة الأوسع؛ فلا تُقرأ كفاءة الحيوان من صورة مثيرة أو ادعاء بأقصى مسافة. قد يوازي التوجه نحو هدف وضبط اتجاه الجسم أهمية الانتقال بعيداً. الأطراف الغشائية أجزاء من منظومة متحركة، لا أجنحة طائرات مصغرة قابلة للفصل.",
+        "es": "Un estudio experimental de Sharon Emerson y Mimi Koehl empleó observaciones de animales y modelos para analizar distancia, maniobrabilidad y estabilidad. Esa mirada amplia importa: una foto espectacular o una distancia máxima no bastan para valorar el éxito. Girar hacia un objetivo y controlar la orientación pueden importar tanto como avanzar lejos. Las extremidades palmeadas son partes de un sistema móvil, no alas de avión en miniatura.",
+        "source": [
+          "Emerson and Koehl: morphology and behaviour in flying frogs",
+          "https://academic.oup.com/evolut/article-abstract/44/8/1931/6869574"
+        ]
+      },
+      {
+        "en": "Life continues after the glide",
+        "fr": "La vie continue après le vol plané",
+        "ar": "تستمر الحياة بعد الانزلاق",
+        "es": "La vida sigue después del planeo",
+        "heading": true
+      },
+      {
+        "en": "Research comparing specialised Rhacophorus with less specialised Polypedates has also examined jumping and clinging. That reminds us that an arboreal amphibian needs more than an aerial trick. It must launch, reach a surface and maintain contact there, then continue feeding and breeding. The useful question is how a whole animal functions in a demanding habitat, rather than which single feature makes it look most like a flying machine.",
+        "fr": "Des recherches comparant des Rhacophorus spécialisés à des Polypedates moins spécialisés ont aussi examiné saut et adhérence. Un amphibien arboricole a besoin de davantage qu’une prouesse aérienne : se lancer, atteindre un support, y rester, puis continuer à se nourrir et se reproduire. La question utile est le fonctionnement de tout l’animal dans son habitat, plutôt que le caractère qui le rapproche le plus d’une machine volante.",
+        "ar": "بحثت دراسات تقارن Rhacophorus المتخصصة بضفادع Polypedates الأقل تخصصاً القفز والتشبث أيضاً. يذكرنا ذلك بأن البرمائي الشجري يحتاج إلى أكثر من حيلة جوية: ينطلق ويصل إلى سطح ويثبت عليه، ثم يواصل التغذي والتكاثر. السؤال المفيد هو كيف يعمل الحيوان بكامله داخل موئل صعب، لا أي صفة تجعله أشبه بآلة طيران.",
+        "es": "Investigaciones que comparan Rhacophorus especializadas con Polypedates menos especializadas también han estudiado salto y adherencia. Un anfibio arborícola necesita más que una habilidad aérea: despegar, alcanzar un soporte, sujetarse y seguir alimentándose y reproduciéndose. La pregunta útil es cómo funciona el animal entero en su hábitat, no qué rasgo lo hace parecer más una máquina voladora.",
+        "source": [
+          "McKnight and colleagues: gliding, jumping and clinging",
+          "https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.12725"
+        ]
+      },
+      {
+        "en": "Their achievement is striking precisely because it uses a frog’s existing body in an unusual way. Fingers, toes, skin and posture become tools for managing a brief journey through air. Calling them flying frogs opens the door to the story. Watching how they descend, steer and land is where the biology begins.",
+        "fr": "Leur prouesse frappe parce qu’elle utilise autrement un corps de grenouille. Doigts, peau et posture deviennent des outils pour gérer un bref trajet dans l’air. Le nom ouvre le récit ; comprendre descente, orientation et atterrissage fait entrer dans la biologie.",
+        "ar": "يبهر إنجازها لأنه يستخدم جسم الضفدع بطريقة غير معتادة. تصبح الأصابع والجلد ووضعية الجسم أدوات لإدارة رحلة قصيرة في الهواء. يفتح الاسم باب القصة، لكن فهم الهبوط والتوجيه والالتصاق هو بداية علم الأحياء.",
+        "es": "Su logro sorprende porque usa el cuerpo de una rana de manera inusual. Dedos, piel y postura se vuelven herramientas para gestionar un breve trayecto aéreo. El nombre abre la historia; comprender descenso, dirección y aterrizaje es donde empieza la biología."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "Do flying frogs have powered flight?",
+          "No. They control an unpowered descent using their bodies, limbs and webbing rather than beating wings."
+        ],
+        [
+          "Are all tree frogs able to glide?",
+          "No. Aerial abilities vary, and well-developed gliding is associated with particular species and adaptations."
+        ],
+        [
+          "Is the hero a documented Wallace’s flying frog?",
+          "No. It is a conceptual illustration; the exact species, anatomy and airborne behaviour are not verified."
+        ]
+      ],
+      "fr": [
+        [
+          "Volent-elles grâce à une propulsion ?",
+          "Non. Elles contrôlent une descente avec corps, membres et palmures, sans battre des ailes."
+        ],
+        [
+          "Toutes les rainettes peuvent-elles planer ?",
+          "Non. Les capacités varient ; un vol plané développé concerne des espèces et adaptations particulières."
+        ],
+        [
+          "L’image documente-t-elle une grenouille de Wallace ?",
+          "Non. C’est une illustration conceptuelle dont l’espèce exacte, l’anatomie et le comportement ne sont pas vérifiés."
+        ]
+      ],
+      "ar": [
+        [
+          "هل تطير بقوة الدفع؟",
+          "لا. تتحكم في هبوط غير مدفوع بالأجنحة باستخدام الجسم والأطراف والأغشية."
+        ],
+        [
+          "هل تنزلق جميع الضفادع الشجرية؟",
+          "لا. تختلف القدرات الجوية، ويرتبط الانزلاق المتطور بأنواع وتكيفات محددة."
+        ],
+        [
+          "هل الصورة توثق ضفدع والاس؟",
+          "لا. إنها صورة تصورية لم يُتحقق فيها من النوع الدقيق أو التشريح أو السلوك الجوي."
+        ]
+      ],
+      "es": [
+        [
+          "¿Tienen vuelo propulsado?",
+          "No. Controlan un descenso con cuerpo, extremidades y membranas, sin batir alas."
+        ],
+        [
+          "¿Todas las ranas arborícolas planean?",
+          "No. La capacidad varía y el planeo desarrollado depende de especies y adaptaciones concretas."
+        ],
+        [
+          "¿La imagen documenta una rana de Wallace?",
+          "No. Es una ilustración conceptual sin verificación de especie exacta, anatomía o comportamiento aéreo."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "flamingos",
+    "slug": "flamingos-why-pink-birds-hatch-gray",
+    "attachment": "1-1000088585.jpg",
+    "image": "flamingo-pink-adult-gray-chick-editorial.jpg",
+    "category": "Science",
+    "schemaType": "Article",
+    "tags": [
+      "Flamingos",
+      "Birds",
+      "Carotenoids",
+      "Animal development"
+    ],
+    "related": "quokkas-australia-famous-smiling-marsupials",
+    "relatedLabel": [
+      "The biology behind the quokka’s famous smile",
+      "La biologie derrière le célèbre sourire du quokka",
+      "البيولوجيا خلف ابتسامة الكوكا الشهيرة",
+      "La biología detrás de la famosa sonrisa del quokka"
+    ],
+    "meta": {
+      "en": [
+        "FLAMINGOS: WHY THE WORLD’S PINK BIRDS ARE BORN GRAY",
+        "Why Flamingos Hatch Gray and Turn Pink",
+        "Flamingo chicks hatch with gray or pale down. Discover how diet, carotenoid pigments, developing feathers and parental care create their famous pink plumage.",
+        "FLAMINGOS",
+        "BORN GRAY",
+        "Conceptual editorial illustration of a gray flamingo chick beside a pink adult in a shallow wetland."
+      ],
+      "fr": [
+        "LES FLAMANTS : POURQUOI CES OISEAUX ROSES NAISSENT GRIS",
+        "Pourquoi les flamants naissent gris avant de devenir roses",
+        "Les poussins de flamants éclosent avec un duvet gris ou pâle. Découvrez le rôle des pigments alimentaires, du plumage et des soins parentaux.",
+        "FLAMANTS",
+        "NAISSENT GRIS",
+        "Illustration éditoriale conceptuelle d’un poussin de flamant gris près d’un adulte rose dans une zone humide peu profonde."
+      ],
+      "ar": [
+        "الفلامنغو: لماذا تولد الطيور الوردية رمادية؟",
+        "لماذا يفقس الفلامنغو رمادياً ثم يصبح وردياً؟",
+        "تفقس فراخ الفلامنغو بزغب رمادي أو باهت. اكتشف دور الغذاء والأصباغ والريش النامي ورعاية الأبوين في ظهور اللون الوردي الشهير.",
+        "الفلامنغو",
+        "تولد الطيور الوردية رمادية",
+        "رسم تحريري تصوري لفرخ فلامنغو رمادي قرب طائر بالغ وردي في أرض رطبة ضحلة."
+      ],
+      "es": [
+        "FLAMENCOS: POR QUÉ LAS AVES ROSADAS NACEN GRISES",
+        "Por qué los flamencos nacen grises y se vuelven rosados",
+        "Los polluelos de flamenco salen del huevo con plumón gris o pálido. Descubre el papel de los pigmentos, las plumas en desarrollo y los cuidados parentales.",
+        "FLAMENCOS",
+        "NACEN GRISES",
+        "Ilustración editorial conceptual de un polluelo gris junto a un flamenco adulto rosado en un humedal poco profundo."
+      ]
+    },
+    "disclosure": [
+      "Conceptual wildlife illustration, not a documented family encounter or verified species record. Colour, proportions and setting are illustrative.",
+      "Illustration animalière conceptuelle, et non rencontre familiale documentée ou identification vérifiée d’espèce. Couleurs, proportions et décor sont illustratifs.",
+      "رسم تصوري للحياة البرية، وليس لقاء عائلياً موثقاً أو سجلاً مؤكداً للنوع. الألوان والنسب والمكان عناصر توضيحية.",
+      "Ilustración conceptual de fauna, no encuentro familiar documentado ni registro verificado de especie. Colores, proporciones y entorno son ilustrativos."
+    ],
+    "blocks": [
+      {
+        "en": "The gray chick beside a pink adult looks like a small contradiction. If flamingos are the pink birds, why does a young one seem to belong to a different colour scheme? The answer is a reminder that an animal’s appearance can record a process rather than arrive complete at birth. Flamingos hatch from eggs, and their soft early down is very different from the plumage that makes an adult flock so recognisable.",
+        "fr": "Le poussin gris près d’un adulte rose semble une petite contradiction. Pourquoi le jeune d’un oiseau emblématiquement rose porte-t-il une autre couleur ? Parce que l’apparence d’un animal peut raconter un processus, au lieu d’être achevée dès la naissance. Les flamants sortent d’un œuf et leur premier duvet diffère beaucoup du plumage qui rend un groupe d’adultes si reconnaissable.",
+        "ar": "يبدو الفرخ الرمادي بجوار بالغ وردي تناقضاً صغيراً. إذا كان الفلامنغو طائراً وردياً، فلماذا ينتمي صغيره ظاهرياً إلى لوحة ألوان أخرى؟ تذكرنا الإجابة بأن مظهر الحيوان قد يسجل عملية نمو، لا أن يصل مكتملاً عند البداية. يفقس الفلامنغو من البيض، ويختلف زغبه المبكر كثيراً عن الريش الذي يجعل سرب البالغين مميزاً.",
+        "es": "El polluelo gris junto al adulto rosado parece una pequeña contradicción. Si los flamencos son aves rosas, ¿por qué el joven luce otros colores? La apariencia puede reflejar un proceso, no llegar completa al nacer. Los flamencos salen de huevos y su primer plumón es muy distinto del plumaje que hace tan reconocible a una bandada adulta."
+      },
+      {
+        "en": "The gray beginning",
+        "fr": "Le début gris",
+        "ar": "البداية الرمادية",
+        "es": "El comienzo gris",
+        "heading": true
+      },
+      {
+        "en": "San Diego Zoo describes newly hatched flamingos as having gray down. Pale or gray early plumage is normal, not evidence that a chick is the wrong species or is simply a pink bird covered in mud. Development changes the bird’s appearance. The familiar phrase born gray is shorthand for the condition at hatching; it should not turn an egg-laying bird into a mammal in the telling.",
+        "fr": "Le zoo de San Diego décrit le duvet gris des flamants à l’éclosion. Un plumage initial pâle ou gris est normal : il ne signale ni une autre espèce ni un oiseau rose couvert de boue. Le développement modifie l’apparence. Dire qu’il naît gris décrit donc l’éclosion, sans oublier qu’il s’agit d’un oiseau pondeur, pas d’un mammifère.",
+        "ar": "تصف حديقة سان دييغو زغب الفلامنغو عند الفقس بأنه رمادي. والريش المبكر الباهت أو الرمادي طبيعي؛ فلا يدل على نوع مختلف أو طائر وردي تغطيه الطين. يغير النمو مظهر الطائر. وعبارة يولد رمادياً اختصار لحالته عند الفقس، مع تذكر أنه طائر يبيض لا ثديي يلد.",
+        "es": "San Diego Zoo describe plumón gris en los flamencos recién nacidos. El aspecto pálido o gris es normal: no indica otra especie ni un ave rosa cubierta de barro. El desarrollo cambia su apariencia. Nacer gris es una manera abreviada de hablar de la eclosión, sin olvidar que se trata de un ave que pone huevos.",
+        "source": [
+          "San Diego Zoo: flamingo biology",
+          "https://animals.sandiegozoo.org/animals/flamingo"
+        ]
+      },
+      {
+        "en": "Pink comes through the food chain",
+        "fr": "Le rose passe par l’alimentation",
+        "ar": "الوردي يمر عبر السلسلة الغذائية",
+        "es": "El rosa llega por la alimentación",
+        "heading": true
+      },
+      {
+        "en": "Los Angeles Zoo explains that pink and reddish feather colours come from carotenoid pigments in the diet. Algae and small aquatic animals provide routes for these pigments through the food web. The popular explanation that flamingos turn pink because they eat shrimp captures only part of the picture. Different species filter different foods, and the colour depends on the pigments obtained and processed by the bird, not on one universally required menu item.",
+        "fr": "Le zoo de Los Angeles explique que les teintes roses et rouges viennent des caroténoïdes alimentaires. Algues et petits animaux aquatiques font circuler ces pigments dans le réseau alimentaire. Dire que les flamants rosissent parce qu’ils mangent des crevettes ne résume qu’une partie du mécanisme. Les espèces filtrent des aliments différents, et la couleur dépend des pigments absorbés et transformés, pas d’un ingrédient obligatoire universel.",
+        "ar": "توضح حديقة لوس أنجلوس أن درجات الريش الوردية والحمراء تأتي من أصباغ الكاروتينويد في الغذاء. وتتيح الطحالب والحيوانات المائية الصغيرة انتقال هذه الأصباغ عبر الشبكة الغذائية. يختزل التفسير الشائع، بأن الفلامنغو يصير وردياً لأنه يأكل الروبيان، جزءاً من الصورة فقط. ترشح الأنواع أغذية مختلفة، ويتعلق اللون بالأصباغ التي يحصل عليها الجسم ويعالجها، لا بطعام واحد إلزامي لجميعها.",
+        "es": "Los Angeles Zoo explica que los tonos rosas y rojizos proceden de carotenoides de la dieta. Algas y pequeños animales acuáticos permiten que esos pigmentos circulen por la red alimentaria. Decir que se vuelven rosas por comer camarones cuenta solo parte del proceso. Las especies filtran alimentos diferentes; importa qué pigmentos obtiene y procesa el ave, no un ingrediente obligatorio para todas.",
+        "source": [
+          "Los Angeles Zoo: flamingos and dietary pigments",
+          "https://lazoo.org/explore-your-zoo/our-animals/birds/flamingos/"
+        ]
+      },
+      {
+        "en": "Parents feed more than a colour",
+        "fr": "Les parents apportent bien plus qu’une couleur",
+        "ar": "رعاية الأبوين أكثر من لون",
+        "es": "Los padres aportan más que un color",
+        "heading": true
+      },
+      {
+        "en": "Young chicks depend on a rich secretion from the parents’ upper digestive tract, commonly called crop milk. Both male and female flamingos can produce it. It is a bird’s specialised feeding secretion, rather than mammalian milk. Smithsonian keepers describe the demanding work of raising chicks and the gradual change from baby-gray to pink. Receiving food containing pigments does not make a newly hatched chick instantly look like an adult; feather development and sustained nutrition still take time.",
+        "fr": "Les petits dépendent d’une sécrétion riche issue du haut du tube digestif parental, couramment appelée lait de jabot. Mâles et femelles peuvent la produire. C’est une sécrétion nourricière d’oiseau, différente du lait des mammifères. Les soigneurs du Smithsonian décrivent les exigences de cet élevage et le passage progressif du gris au rose. Recevoir des aliments pigmentés ne donne pas instantanément un plumage adulte : développement et nutrition s’inscrivent dans le temps.",
+        "ar": "تعتمد الفراخ على إفراز غني من الجزء العلوي للجهاز الهضمي للأبوين، يسمى شائعاً حليب الحوصلة. يستطيع الذكر والأنثى إنتاجه، وهو إفراز تغذية متخصص لدى الطيور يختلف عن حليب الثدييات. ويصف مربو سميثسونيان متطلبات رعاية الفراخ والتحول التدريجي من الرمادي إلى الوردي. لا يجعل الغذاء المحتوي على أصباغ الفرخ حديث الفقس شبيهاً بالبالغ فوراً؛ فنمو الريش والتغذية المستمرة يحتاجان إلى وقت.",
+        "es": "Los polluelos dependen de una secreción rica del tramo superior del aparato digestivo parental, llamada habitualmente leche de buche. Machos y hembras pueden producirla. Es una secreción alimentaria de ave, distinta de la leche de mamíferos. Los cuidadores del Smithsonian describen la crianza y el cambio gradual de gris a rosa. Recibir pigmentos no da instantáneamente aspecto adulto: desarrollar plumas y mantener la nutrición requiere tiempo.",
+        "source": [
+          "Smithsonian National Zoo: raising flamingo chicks",
+          "https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time"
+        ]
+      },
+      {
+        "en": "Even an adult’s colour can change",
+        "fr": "Même la couleur adulte peut évoluer",
+        "ar": "حتى لون البالغ قد يتغير",
+        "es": "El color adulto también puede cambiar",
+        "heading": true
+      },
+      {
+        "en": "Parental feeding can leave adults noticeably paler, with colour returning as the breeding demands ease and their condition changes. Plumage is therefore not a permanent painted surface. Diet, life stage and the demands of reproduction can all influence what an observer sees. Nor does every flamingo species have exactly the same shade: adult birds range across paler pinks, stronger pinks and reddish tones. A single illustration cannot serve as a colour chart for the whole family.",
+        "fr": "Le nourrissage peut rendre les adultes sensiblement plus pâles, avant le retour de la couleur lorsque les contraintes de reproduction diminuent. Le plumage n’est donc pas une surface peinte immuable. Alimentation, âge et reproduction influencent ce que l’on voit. Les espèces n’ont pas non plus une teinte identique : rose pâle, rose plus intense et tons rougeâtres existent. Une illustration ne constitue pas un nuancier pour toute la famille.",
+        "ar": "قد تجعل تغذية الصغار البالغين أكثر شحوباً بوضوح، ثم يعود اللون مع تراجع متطلبات التكاثر وتغير حالتهم. فالريش ليس سطحاً مطلياً ثابتاً. يؤثر الغذاء ومرحلة الحياة وأعباء التكاثر في ما يراه المراقب. وليست درجات جميع الأنواع متطابقة؛ فهناك وردي باهت وآخر أقوى ودرجات محمرة. ولا تصلح صورة واحدة دليلاً لونياً للفصيلة بأكملها.",
+        "es": "Alimentar a los pequeños puede dejar a los adultos más pálidos, antes de que recuperen color al disminuir las exigencias reproductivas. El plumaje no es una superficie pintada inmutable. Dieta, edad y reproducción influyen en lo que vemos. Tampoco todas las especies tienen el mismo tono: hay rosas pálidos, intensos y rojizos. Una ilustración no es una carta de colores para toda la familia.",
+        "source": [
+          "San Diego Zoo: flamingo biology",
+          "https://animals.sandiegozoo.org/animals/flamingo"
+        ]
+      },
+      {
+        "en": "The gray chick is not missing the essential ingredient that makes it a flamingo. It is showing one stage of the animal’s life. That makes the adult’s pink more interesting: a visible connection between food, growth and the work of keeping another generation alive. The famous colour is a biological story that develops, feather by feather.",
+        "fr": "Le poussin gris possède déjà ce qui fait de lui un flamant. Il montre simplement un âge de sa vie. Le rose adulte devient alors un lien visible entre alimentation, croissance et soins à la génération suivante. Cette couleur célèbre est une histoire biologique qui se construit plume après plume.",
+        "ar": "لا ينقص الفرخ الرمادي ما يجعله فلامنغو؛ فهو يظهر مرحلة من حياته. ويصبح وردي البالغ أكثر إثارة بوصفه صلة مرئية بين الغذاء والنمو وجهد إبقاء جيل آخر حياً. اللون الشهير قصة بيولوجية تتشكل ريشة بعد أخرى.",
+        "es": "Al polluelo gris no le falta lo esencial para ser flamenco: muestra una etapa de su vida. El rosa adulto se vuelve una conexión visible entre alimentación, crecimiento y cuidado de la siguiente generación. El color famoso es una historia biológica que se desarrolla pluma a pluma."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "Why do flamingo chicks hatch gray?",
+          "Their early down differs from adult plumage. Pink develops as the bird grows and incorporates dietary carotenoid pigments."
+        ],
+        [
+          "Do flamingos only get their colour from shrimp?",
+          "No. Pigments move through algae and other foods in aquatic food webs; diets vary among species."
+        ],
+        [
+          "Do both parents feed crop milk?",
+          "Yes. Both male and female flamingos can produce this nutrient-rich digestive secretion for chicks."
+        ]
+      ],
+      "fr": [
+        [
+          "Pourquoi les poussins éclosent-ils gris ?",
+          "Leur duvet diffère du plumage adulte. Le rose apparaît avec la croissance et l’incorporation de caroténoïdes alimentaires."
+        ],
+        [
+          "Les crevettes sont-elles l’unique source de couleur ?",
+          "Non. Les pigments circulent via les algues et d’autres aliments aquatiques ; les régimes varient selon les espèces."
+        ],
+        [
+          "Les deux parents produisent-ils du lait de jabot ?",
+          "Oui. Mâles et femelles peuvent produire cette sécrétion digestive nutritive pour les poussins."
+        ]
+      ],
+      "ar": [
+        [
+          "لماذا تفقس الفراخ رمادية؟",
+          "يختلف زغبها الأول عن ريش البالغ. ويظهر الوردي مع النمو والاستفادة من أصباغ الكاروتينويد الغذائية."
+        ],
+        [
+          "هل الروبيان المصدر الوحيد للون؟",
+          "لا. تنتقل الأصباغ عبر الطحالب وأغذية أخرى في الشبكات المائية، ويختلف الغذاء بين الأنواع."
+        ],
+        [
+          "هل يغذي كلا الأبوين الصغار بهذا الإفراز؟",
+          "نعم. يستطيع الذكر والأنثى إنتاج الإفراز الهضمي الغني بالمغذيات للفراخ."
+        ]
+      ],
+      "es": [
+        [
+          "¿Por qué salen grises del huevo?",
+          "El plumón inicial difiere del plumaje adulto. El rosa aparece con el crecimiento y los carotenoides de la dieta."
+        ],
+        [
+          "¿Los camarones son la única fuente de color?",
+          "No. Los pigmentos pasan por algas y otros alimentos acuáticos; las dietas varían entre especies."
+        ],
+        [
+          "¿Ambos padres producen leche de buche?",
+          "Sí. Machos y hembras pueden producir esa secreción digestiva nutritiva para los polluelos."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "dorado",
+    "slug": "el-dorado-golden-ritual-lost-city-legend",
+    "attachment": "2-1000088584.jpg",
+    "image": "el-dorado-muisca-ritual-raft-conceptual-illustration.jpg",
+    "category": "World",
+    "schemaType": "Article",
+    "tags": [
+      "El Dorado",
+      "Muisca",
+      "Colombia",
+      "Archaeology"
+    ],
+    "related": "ninja-real-spies-japan-history-myths",
+    "relatedLabel": [
+      "How history became the ninja legend",
+      "Comment l’histoire est devenue légende ninja",
+      "كيف أصبح التاريخ أسطورة النينجا",
+      "Cómo la historia se convirtió en leyenda ninja"
+    ],
+    "meta": {
+      "en": [
+        "EL DORADO: THE GOLDEN RITUAL BEHIND THE LOST CITY LEGEND",
+        "El Dorado: The Muisca Ritual Behind the Golden Legend",
+        "Explore El Dorado’s link to Muisca offerings, Lake Guatavita and a remarkable gold raft, while separating museum evidence from the legend of a golden city.",
+        "EL DORADO",
+        "GOLDEN RITUAL",
+        "Imagined Muisca-inspired golden raft scene on a mountain lake, with monumental figures and an invented temple in the background."
+      ],
+      "fr": [
+        "EL DORADO : LE RITUEL D’OR DERRIÈRE LA LÉGENDE DE LA CITÉ PERDUE",
+        "El Dorado : le rituel muisca derrière la cité d’or",
+        "Découvrez les offrandes muiscas, Guatavita et une étonnante petite barque en or, en distinguant les objets documentés de la légende d’une cité dorée.",
+        "EL DORADO",
+        "RITUEL D’OR",
+        "Scène imaginaire inspirée des Muiscas : radeau doré, personnages monumentaux et temple inventé près d’un lac de montagne."
+      ],
+      "ar": [
+        "إل دورادو: الطقس الذهبي خلف أسطورة المدينة المفقودة",
+        "إل دورادو: طقوس المويسكا خلف أسطورة مدينة الذهب",
+        "استكشف صلة إل دورادو بقرابين المويسكا وبحيرة غواتافيتا وطوف ذهبي مدهش، مع فصل الدليل المتحفي عن أسطورة المدينة الذهبية.",
+        "إل دورادو",
+        "الطقس الذهبي",
+        "مشهد متخيل مستوحى من المويسكا لطوف ذهبي على بحيرة جبلية وشخصيات ضخمة ومعبد مبتكر في الخلفية."
+      ],
+      "es": [
+        "EL DORADO: EL RITUAL DE ORO TRAS LA LEYENDA DE LA CIUDAD PERDIDA",
+        "El Dorado: el ritual muisca detrás de la ciudad de oro",
+        "Explora las ofrendas muiscas, Guatavita y una extraordinaria balsa de oro, separando la evidencia del museo de la leyenda de una ciudad dorada.",
+        "EL DORADO",
+        "RITUAL DE ORO",
+        "Escena imaginada de inspiración muisca con balsa dorada, figuras monumentales y templo inventado junto a un lago de montaña."
+      ]
+    },
+    "disclosure": [
+      "Historical fantasy illustration, not a photograph of the Muisca raft, a documented ceremony or a discovered golden city. The monumental figures, vessel and temple are invented.",
+      "Illustration historique de fantaisie, et non photographie de la Balsa Muisca, cérémonie documentée ou découverte d’une cité d’or. Figures monumentales, embarcation et temple sont inventés.",
+      "رسم تاريخي خيالي وليس صورة لطوف المويسكا الأثري أو لاحتفال موثق أو لمدينة ذهبية مكتشفة. الشخصيات الضخمة والمركب والمعبد عناصر مبتكرة.",
+      "Ilustración de fantasía histórica, no fotografía de la Balsa Muisca, ceremonia documentada ni ciudad de oro descubierta. Las figuras monumentales, embarcación y templo son inventados."
+    ],
+    "blocks": [
+      {
+        "en": "A city made of gold is an image almost designed to survive disappointment. When one expedition fails, the imagined destination can move farther away. El Dorado became that kind of promise. Yet one of the most illuminating objects connected with the story is small enough to fit on a table: a Muisca gold raft that directs attention toward ritual, skilled metalwork and a different understanding of what gold was for.",
+        "fr": "Une cité d’or semble conçue pour résister aux déceptions. Lorsqu’une expédition échoue, la destination imaginée peut reculer davantage. El Dorado devint une telle promesse. Pourtant, l’un des objets les plus éclairants tient sur une table : une petite barque muisca en or qui ramène vers le rituel, l’orfèvrerie et une autre conception du rôle de l’or.",
+        "ar": "تبدو مدينة من الذهب صورة قادرة على النجاة من خيبة الأمل. فإذا فشلت بعثة، أمكن دفع الوجهة المتخيلة إلى مكان أبعد. صار إل دورادو وعداً من هذا النوع. لكن أحد أكثر الأشياء إضاءة للقصة صغير بما يكفي لوضعه على طاولة: طوف مويسكي ذهبي يعيد الانتباه إلى الطقس وبراعة الصياغة وفهم مختلف لوظيفة الذهب.",
+        "es": "Una ciudad de oro parece diseñada para sobrevivir a la decepción. Cuando fracasa una expedición, el destino imaginado puede alejarse un poco más. El Dorado se convirtió en esa promesa. Pero uno de los objetos que mejor ilumina la historia cabe sobre una mesa: una balsa muisca de oro que devuelve la atención al ritual, la orfebrería y otra manera de entender para qué servía el metal."
+      },
+      {
+        "en": "The gilded ruler in the accounts",
+        "fr": "Le dirigeant doré des récits",
+        "ar": "الحاكم المذهب في الروايات",
+        "es": "El gobernante dorado de los relatos",
+        "heading": true
+      },
+      {
+        "en": "The Museo del Oro’s account links the tradition with a ruler associated with Guatavita, in what is now Colombia, whose body was covered in gold dust and who travelled on a raft to make offerings in a sacred lake. These descriptions come through historical accounts and their interpretation. They should not be narrated as though a modern camera recorded every step. El Dorado, the gilded one, became associated with a place of extraordinary riches as European expectations expanded around it.",
+        "fr": "Le Museo del Oro relie la tradition à un dirigeant de Guatavita, dans l’actuelle Colombie, couvert de poudre d’or et transporté sur une embarcation pour déposer des offrandes dans un lac sacré. Ces descriptions passent par des récits historiques et leur interprétation. Il ne faut pas les raconter comme une cérémonie filmée dans ses moindres détails. Le personnage doré d’El Dorado fut progressivement associé à un lieu de richesses extraordinaires dans l’imaginaire européen.",
+        "ar": "يربط عرض متحف الذهب التقليد بحاكم مرتبط بغواتافيتا، في كولومبيا الحالية، غُطي جسمه بمسحوق الذهب وانتقل على طوف ليقدم قرابين في بحيرة مقدسة. تصل هذه الأوصاف عبر روايات تاريخية وتفسيرها، ولا ينبغي سردها كما لو أن كاميرا حديثة سجلت كل خطوة. وأصبح إل دورادو، أي المذهب، مرتبطاً بمكان ذي ثروات استثنائية مع اتساع التوقعات الأوروبية حوله.",
+        "es": "El Museo del Oro vincula la tradición con un gobernante de Guatavita, en la actual Colombia, cubierto de polvo de oro y llevado en balsa para ofrecer objetos en una laguna sagrada. Son descripciones transmitidas por relatos históricos e interpretaciones, no una ceremonia filmada paso a paso. El Dorado, el hombre dorado, acabó asociado a un lugar de riquezas extraordinarias al crecer las expectativas europeas.",
+        "source": [
+          "Museo del Oro: ceremonial votive figure",
+          "https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es"
+        ]
+      },
+      {
+        "en": "A real object, found away from the lake",
+        "fr": "Un objet réel, trouvé loin du lac",
+        "ar": "قطعة حقيقية عُثر عليها بعيداً عن البحيرة",
+        "es": "Un objeto real hallado fuera de la laguna",
+        "heading": true
+      },
+      {
+        "en": "The famous Balsa Muisca was found in 1969 inside a ceramic vessel in a cave near Pasca, south of Bogotá. It was not recovered from the bottom of Lake Guatavita. The Banco de la República catalogue records a length of 19.5 centimetres and identifies it as a votive object. That scale matters: the work represents a ceremonial scene in miniature. It is not the remains of a life-size golden boat or evidence for monumental gold buildings.",
+        "fr": "La célèbre Balsa Muisca fut découverte en 1969 dans un récipient en céramique, à l’intérieur d’une grotte près de Pasca, au sud de Bogotá. Elle ne vient pas du fond de Guatavita. Le catalogue du Banco de la República indique 19,5 centimètres de longueur et une fonction votive. L’échelle compte : c’est une scène cérémonielle miniature, pas le vestige d’un bateau grandeur nature ni la preuve de bâtiments monumentaux en or.",
+        "ar": "عُثر على طوف المويسكا الشهير عام 1969 داخل وعاء خزفي في كهف قرب باسكا جنوب بوغوتا، ولم يُستخرج من قاع بحيرة غواتافيتا. يسجل فهرس بنك الجمهورية طولاً يبلغ 19.5 سنتيمتراً ويحدده قطعة نذرية. يهم الحجم هنا؛ فالعمل يمثل مشهداً احتفالياً مصغراً، وليس بقايا قارب ذهبي بالحجم الطبيعي أو دليلاً على مبان ذهبية ضخمة.",
+        "es": "La Balsa Muisca apareció en 1969 dentro de una vasija cerámica en una cueva cerca de Pasca, al sur de Bogotá. No se recuperó del fondo de Guatavita. El catálogo del Banco de la República registra 19,5 centímetros de largo y función votiva. La escala importa: representa una ceremonia en miniatura, no los restos de una embarcación de oro de tamaño real ni pruebas de edificios dorados monumentales.",
+        "source": [
+          "Banco de la República: the Muisca raft",
+          "https://enciclopedia.banrepcultural.org/index.php?title=Balsa_muisca"
+        ]
+      },
+      {
+        "en": "Gold as an offering",
+        "fr": "L’or comme offrande",
+        "ar": "الذهب قرباناً",
+        "es": "El oro como ofrenda",
+        "heading": true
+      },
+      {
+        "en": "The museum’s treatment of offerings places metal objects within religious relationships, including gifts deposited in lakes and caves. Their meaning cannot be reduced to the price a later treasure seeker might assign them. A carefully made object could participate in obligations and beliefs about maintaining the world’s balance. This is the historical shift the lost-city story often obscures: gold had purposes within the society that made it before outsiders recast it as a prize to extract.",
+        "fr": "La présentation des offrandes au musée replace les objets métalliques dans des relations religieuses, notamment les dépôts dans les lacs et grottes. Leur sens dépasse le prix qu’un chercheur de trésor leur donnerait. Un objet soigneusement fabriqué pouvait participer à des obligations et à des croyances sur l’équilibre du monde. L’histoire de cité perdue masque souvent ce déplacement : l’or avait des fonctions sociales avant de devenir, pour d’autres, un butin à extraire.",
+        "ar": "يضع عرض المتحف للقرابين الأشياء المعدنية في علاقات دينية، منها الهدايا المودعة في البحيرات والكهوف. لا يختزل معناها في السعر الذي قد يمنحه لها باحث لاحق عن الكنوز. أمكن لقطعة متقنة أن تشارك في التزامات ومعتقدات تتعلق بتوازن العالم. هذا التحول هو ما تحجبه حكاية المدينة المفقودة أحياناً: كانت للذهب وظائف في المجتمع الذي صاغه قبل أن يعيد الآخرون تعريفه غنيمة للاستخراج.",
+        "es": "La explicación del museo sitúa los objetos metálicos dentro de relaciones religiosas, incluidas ofrendas en lagunas y cuevas. Su sentido supera el precio que les daría un buscador de tesoros. Una pieza cuidadosamente elaborada podía participar en obligaciones y creencias sobre el equilibrio del mundo. La ciudad perdida suele ocultar ese cambio: el oro tenía funciones en la sociedad que lo trabajaba antes de convertirse, para otros, en botín.",
+        "source": [
+          "Museo del Oro: the offering tradition",
+          "https://enciclopedia.banrepcultural.org/index.php?title=La_Ofrenda"
+        ]
+      },
+      {
+        "en": "What the raft can and cannot establish",
+        "fr": "Ce que la barque permet d’établir",
+        "ar": "ما الذي يثبته الطوف؟",
+        "es": "Lo que la balsa permite establecer",
+        "heading": true
+      },
+      {
+        "en": "The raft is powerful material evidence of Muisca craftsmanship and ceremonial representation. The Museo del Oro describes the complex lost-wax casting that produced its figures and platform. An artefact can illuminate a tradition without verifying every detail of a chronicle, and a ceremonial representation cannot locate a golden metropolis. The image supplied above is an imagined scene inspired by these associations. Its temple, giant figures and landscape should not be mistaken for an archaeological discovery.",
+        "fr": "La barque témoigne puissamment de l’orfèvrerie muisca et de la représentation cérémonielle. Le Museo del Oro décrit la fonte complexe à cire perdue de ses personnages et de sa plateforme. Un objet éclaire une tradition sans vérifier chaque détail d’une chronique ; une scène rituelle ne localise pas une métropole d’or. L’image fournie est une évocation imaginée : temple, figures géantes et paysage ne documentent aucune découverte archéologique.",
+        "ar": "يمثل الطوف دليلاً مادياً مهماً على حرفية المويسكا وتمثيلهم الاحتفالي. ويصف متحف الذهب تقنية السبك المعقدة بالشمع المفقود التي أنتجت الشخصيات والمنصة. قد تضيء القطعة تقليداً دون إثبات كل تفصيل في رواية، ولا يحدد التمثيل الاحتفالي موقع مدينة ذهبية. أما الصورة المقدمة فهي مشهد متخيل مستوحى من هذه الصلات، ولا يوثق معبدها وشخصياتها الضخمة ومشهدها اكتشافاً أثرياً.",
+        "es": "La balsa es una evidencia material extraordinaria de la orfebrería muisca y de su representación ceremonial. El Museo del Oro explica la compleja fundición a la cera perdida de figuras y plataforma. Un objeto ilumina una tradición sin verificar cada detalle de una crónica; una ceremonia representada no localiza una metrópoli de oro. La imagen suministrada es imaginaria: templo, figuras gigantes y paisaje no documentan un hallazgo arqueológico.",
+        "source": [
+          "Museo del Oro: ceremonial votive figure",
+          "https://artsandculture.google.com/asset/figura-votiva-en-forma-de-ceremonia/LQEc8oIOPSDRcQ?hl=es"
+        ]
+      },
+      {
+        "en": "El Dorado is most revealing when the question changes from where the city is hidden to how the story grew. Then a familiar adventure becomes a history of interpretation: one society’s offerings, another society’s hunger for wealth, and an enduring fantasy that can make a small, remarkable object harder to see clearly.",
+        "fr": "El Dorado devient plus éclairant lorsqu’on demande comment le récit s’est développé plutôt qu’où se cache la ville. L’aventure devient une histoire d’interprétation : les offrandes d’une société, la soif de richesse d’une autre et une fantaisie persistante qui risque de masquer un petit objet exceptionnel.",
+        "ar": "يصبح إل دورادو أكثر كشفاً حين يتحول السؤال من مكان اختباء المدينة إلى كيفية نمو الحكاية. عندها تصير المغامرة تاريخاً للتفسير: قرابين مجتمع، وجوع مجتمع آخر إلى الثروة، وخيالاً باقياً قد يحجب رؤية قطعة صغيرة واستثنائية بوضوح.",
+        "es": "El Dorado resulta más revelador cuando preguntamos cómo creció el relato, en vez de dónde se esconde la ciudad. La aventura se convierte en historia de interpretación: ofrendas de una sociedad, hambre de riqueza de otra y una fantasía persistente que puede ocultar un pequeño objeto extraordinario."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "Was El Dorado originally a city?",
+          "The tradition includes a gilded ruler associated with Guatavita. Later stories expanded the name into imagined places of extraordinary wealth."
+        ],
+        [
+          "Was the Muisca raft found in Lake Guatavita?",
+          "No. The famous object was found in a cave near Pasca in 1969."
+        ],
+        [
+          "Does the raft prove that a golden city existed?",
+          "No. It is a votive artefact and ceremonial representation, not evidence locating a city built of gold."
+        ]
+      ],
+      "fr": [
+        [
+          "El Dorado était-il d’abord une ville ?",
+          "La tradition comprend un dirigeant doré associé à Guatavita. Des récits ultérieurs ont étendu le nom à des lieux imaginés de richesse extraordinaire."
+        ],
+        [
+          "La barque fut-elle trouvée à Guatavita ?",
+          "Non. L’objet célèbre a été trouvé dans une grotte près de Pasca en 1969."
+        ],
+        [
+          "Prouve-t-elle l’existence d’une cité d’or ?",
+          "Non. C’est un objet votif représentant une cérémonie, pas une preuve localisant une ville construite en or."
+        ]
+      ],
+      "ar": [
+        [
+          "هل كان إل دورادو مدينة في الأصل؟",
+          "يتضمن التقليد حاكماً مذهباً مرتبطاً بغواتافيتا. ووسعت روايات لاحقة الاسم ليشمل أماكن متخيلة ذات ثروات استثنائية."
+        ],
+        [
+          "هل عُثر على الطوف في بحيرة غواتافيتا؟",
+          "لا. عُثر على القطعة الشهيرة في كهف قرب باسكا عام 1969."
+        ],
+        [
+          "هل يثبت الطوف وجود مدينة ذهبية؟",
+          "لا. إنه أثر نذري وتمثيل احتفالي، وليس دليلاً يحدد مدينة مبنية من الذهب."
+        ]
+      ],
+      "es": [
+        [
+          "¿El Dorado era originalmente una ciudad?",
+          "La tradición incluye un gobernante dorado de Guatavita. Relatos posteriores ampliaron el nombre a lugares imaginados de riqueza extraordinaria."
+        ],
+        [
+          "¿Se encontró la balsa en Guatavita?",
+          "No. El objeto famoso apareció en una cueva cerca de Pasca en 1969."
+        ],
+        [
+          "¿Demuestra que existió una ciudad de oro?",
+          "No. Es un objeto votivo y representación ceremonial, no una prueba que sitúe una ciudad construida en oro."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "pele",
+    "slug": "pele-boy-football-first-global-superstar",
+    "attachment": "3-1000088582.jpg",
+    "image": "pele-brazil-football-legacy-editorial-collage.jpg",
+    "category": "Sport",
+    "schemaType": "Article",
+    "tags": [
+      "Pelé",
+      "Brazil",
+      "Santos",
+      "World Cup"
+    ],
+    "related": "johan-cruyff-man-changed-football-forever",
+    "relatedLabel": [
+      "Johan Cruyff and the transformation of football",
+      "Johan Cruyff et la transformation du football",
+      "يوهان كرويف وتحول كرة القدم",
+      "Johan Cruyff y la transformación del fútbol"
+    ],
+    "meta": {
+      "en": [
+        "PELÉ: THE BOY WHO BECAME FOOTBALL’S FIRST GLOBAL SUPERSTAR",
+        "Pelé: From Teenage World Cup Winner to Global Icon",
+        "Explore Pelé’s rise with Santos and Brazil, his three World Cup titles and the skill, teamwork and worldwide visibility behind a football legend.",
+        "PELÉ",
+        "FIRST GLOBAL SUPERSTAR",
+        "Supplied editorial collage depicting Pelé with modern trophy-shaped objects and imagined or unverified football scenes."
+      ],
+      "fr": [
+        "PELÉ : LE GARÇON DEVENU LA PREMIÈRE SUPERSTAR MONDIALE DU FOOTBALL",
+        "Pelé : du jeune champion du monde à l’icône planétaire",
+        "Découvrez l’ascension de Pelé avec Santos et le Brésil, ses trois Coupes du monde et les qualités qui ont donné une portée mondiale à sa légende.",
+        "PELÉ",
+        "PREMIÈRE SUPERSTAR MONDIALE",
+        "Collage éditorial fourni représentant Pelé avec des objets évoquant le trophée moderne et des scènes de football imaginées ou non vérifiées."
+      ],
+      "ar": [
+        "بيليه: الفتى الذي أصبح أول نجم عالمي خارق لكرة القدم",
+        "بيليه: من بطل مراهق إلى أيقونة كرة القدم العالمية",
+        "اكتشف صعود بيليه مع سانتوس والبرازيل وألقابه الثلاثة في كأس العالم، والمهارة والعمل الجماعي والانتشار وراء أسطورته.",
+        "بيليه",
+        "أول نجم عالمي خارق لكرة القدم",
+        "كولاج تحريري مقدم يصور بيليه مع مجسمات تشبه الكأس الحديثة ومشاهد كروية متخيلة أو غير موثقة."
+      ],
+      "es": [
+        "PELÉ: EL NIÑO QUE SE CONVIRTIÓ EN LA PRIMERA SUPERESTRELLA GLOBAL DEL FÚTBOL",
+        "Pelé: de campeón adolescente a icono mundial del fútbol",
+        "Explora el ascenso de Pelé con Santos y Brasil, sus tres Mundiales y la habilidad, el juego colectivo y la visibilidad que construyeron su leyenda.",
+        "PELÉ",
+        "PRIMERA SUPERESTRELLA GLOBAL",
+        "Collage editorial suministrado de Pelé con objetos de forma similar al trofeo moderno y escenas de fútbol imaginadas o no verificadas."
+      ]
+    },
+    "disclosure": [
+      "Editorial composite, not a single historical photograph. The modern trophy shapes are illustrative: Pelé’s 1958, 1962 and 1970 World Cup titles belonged to the Jules Rimet Trophy era. Background scenes are not individually authenticated.",
+      "Composition éditoriale, et non photographie historique unique. Les formes du trophée moderne sont illustratives : les titres de 1958, 1962 et 1970 appartiennent à l’époque du trophée Jules Rimet. Les scènes ne sont pas authentifiées individuellement.",
+      "تركيب تحريري وليس صورة تاريخية واحدة. أشكال الكأس الحديثة توضيحية؛ فألقاب بيليه في 1958 و1962 و1970 تعود إلى حقبة كأس جول ريميه. لم تُوثق مشاهد الخلفية كل على حدة.",
+      "Composición editorial, no fotografía histórica única. Las formas del trofeo moderno son ilustrativas: los títulos de 1958, 1962 y 1970 pertenecen a la época de la Copa Jules Rimet. Las escenas del fondo no están autenticadas individualmente."
+    ],
+    "blocks": [
+      {
+        "en": "A teenager can win a match with a brilliant moment. Becoming a name recognised far beyond football requires something larger: repeated excellence, an unforgettable stage and images that travel. Pelé brought those forces together. His story begins with a boy learning the game in Brazil and expands through Santos, the national team and a public life in which a short nickname became a language of its own.",
+        "fr": "Un adolescent peut gagner un match grâce à un geste brillant. Devenir un nom connu bien au-delà du football demande davantage : l’excellence répétée, une scène inoubliable et des images qui circulent. Pelé réunit ces forces. Son histoire commence avec un garçon apprenant le jeu au Brésil, puis s’élargit à Santos, à la sélection et à une vie publique où un court surnom devient presque une langue.",
+        "ar": "يستطيع مراهق حسم مباراة بلحظة عبقرية. لكن تحول اسمه إلى كلمة معروفة خارج كرة القدم يتطلب أكثر: تفوقاً متكرراً ومسرحاً لا يُنسى وصوراً تنتقل بعيداً. جمع بيليه هذه العناصر. تبدأ قصته بفتى يتعلم اللعبة في البرازيل، ثم تتسع عبر سانتوس والمنتخب وحياة عامة صار فيها لقب قصير لغة قائمة بذاتها.",
+        "es": "Un adolescente puede ganar un partido con una genialidad. Convertirse en un nombre conocido más allá del fútbol exige excelencia repetida, un escenario inolvidable e imágenes que viajen. Pelé reunió esas fuerzas. Su historia empieza con un niño aprendiendo en Brasil y crece a través de Santos, la selección y una vida pública en la que un apodo breve se volvió casi un idioma propio."
+      },
+      {
+        "en": "From Edson to Pelé",
+        "fr": "D’Edson à Pelé",
+        "ar": "من إدسون إلى بيليه",
+        "es": "De Edson a Pelé",
+        "heading": true
+      },
+      {
+        "en": "Edson Arantes do Nascimento was born on 23 October 1940 in Três Corações and grew up in Bauru. The FIFA Museum records his Santos career beginning in 1956 and his Brazil debut the following year, at sixteen. The childhood story is compelling without adding an invented training scene to every gap. What is clear is the astonishing speed with which a young club player reached the international stage.",
+        "fr": "Edson Arantes do Nascimento naquit le 23 octobre 1940 à Três Corações et grandit à Bauru. Le Musée de la FIFA situe ses débuts à Santos en 1956 et en sélection l’année suivante, à seize ans. L’enfance est déjà captivante sans combler chaque lacune par une scène d’entraînement inventée. La rapidité de son passage du club à la scène internationale demeure remarquable.",
+        "ar": "وُلد إدسون أرانتيس دو ناسيمنتو في 23 أكتوبر 1940 في تريس كوراسويس، ونشأ في باورو. ويسجل متحف فيفا بداية مسيرته مع سانتوس عام 1956 وظهوره مع البرازيل في السنة التالية وهو في السادسة عشرة. قصة الطفولة مؤثرة دون ملء كل فجوة بمشهد تدريب مختلق. والواضح سرعة انتقال لاعب ناد شاب إلى الساحة الدولية.",
+        "es": "Edson Arantes do Nascimento nació el 23 de octubre de 1940 en Três Corações y creció en Bauru. El Museo de la FIFA sitúa el inicio en Santos en 1956 y el debut con Brasil al año siguiente, con dieciséis años. La infancia resulta fascinante sin inventar escenas para llenar cada laguna. Lo extraordinario es la velocidad con la que aquel joven llegó al escenario internacional.",
+        "source": [
+          "FIFA Museum: Pelé’s life and recollections",
+          "https://www.fifamuseum.com/en/explore/fifamuseumplus/blog/Pel--a-life-in-his-o"
+        ]
+      },
+      {
+        "en": "1958: a teenager on the biggest stage",
+        "fr": "1958 : un adolescent sur la plus grande scène",
+        "ar": "1958: مراهق على أكبر مسرح",
+        "es": "1958: un adolescente en el mayor escenario",
+        "heading": true
+      },
+      {
+        "en": "At seventeen, he helped Brazil win the 1958 World Cup in Sweden, scoring twice in the 5–2 final victory over the hosts. The impression was not simply that a young player could score. He combined technique, movement and composure under extraordinary attention. The FIFA Museum describes him as football’s first global superstar. That label captures the scale of his recognition; the game already had celebrated international players before his arrival.",
+        "fr": "À dix-sept ans, il contribua au titre brésilien en Suède en 1958, avec deux buts dans la finale gagnée 5 à 2 contre les hôtes. Il ne montrait pas seulement qu’un jeune pouvait marquer : technique, déplacements et sang-froid résistaient à une attention immense. Le Musée de la FIFA le présente comme la première superstar mondiale du football. La formule exprime son rayonnement, sans effacer les vedettes internationales qui l’avaient précédé.",
+        "ar": "في السابعة عشرة ساعد البرازيل على الفوز بمونديال 1958 في السويد، وسجل هدفين في الانتصار النهائي 5 مقابل 2 على أصحاب الأرض. لم يكن الانطباع مجرد قدرة شاب على التسجيل؛ فقد جمع التقنية والحركة والهدوء تحت اهتمام هائل. يصفه متحف فيفا بأنه أول نجم عالمي خارق للكرة. يعبر اللقب عن اتساع شهرته، مع وجود لاعبين دوليين مشهورين قبله.",
+        "es": "A los diecisiete ayudó a Brasil a ganar el Mundial de 1958 en Suecia, con dos goles en la final vencida por 5 a 2 ante la anfitriona. No impresionaba solo que un joven marcara: combinaba técnica, movimiento y serenidad bajo atención extraordinaria. El Museo de la FIFA lo llama la primera superestrella global del fútbol. La expresión describe su alcance sin borrar a las figuras internacionales anteriores.",
+        "source": [
+          "FIFA Annual Report 2022: Pelé",
+          "https://publications.fifa.com/en/annual-report-2022/in-memoriam-2022/"
+        ]
+      },
+      {
+        "en": "Three titles, three different experiences",
+        "fr": "Trois titres, trois expériences différentes",
+        "ar": "ثلاثة ألقاب وثلاث تجارب مختلفة",
+        "es": "Tres títulos, tres experiencias diferentes",
+        "heading": true
+      },
+      {
+        "en": "Pelé won the men’s World Cup with Brazil in 1958, 1962 and 1970. Those victories should not be compressed into three identical personal triumphs. An injury against Czechoslovakia ended his involvement early in the 1962 tournament, and Brazil completed the defence of its title without him in the final. His success also belonged to remarkable teammates. By 1970, he was a senior figure in the side that beat Italy 4–1 in the final, contributing a goal to another defining collective performance.",
+        "fr": "Pelé remporta les Coupes du monde masculines de 1958, 1962 et 1970. Ces victoires ne furent pas trois expériences individuelles identiques. Blessé contre la Tchécoslovaquie en 1962, il ne put terminer le tournoi et le Brésil conserva le titre sans lui en finale. Ses succès appartenaient aussi à des partenaires exceptionnels. En 1970, devenu cadre, il marqua dans la finale gagnée 4 à 1 contre l’Italie, au cœur d’une nouvelle démonstration collective.",
+        "ar": "فاز بيليه بكأس العالم للرجال مع البرازيل في 1958 و1962 و1970. ولا يصح اختزالها في ثلاثة انتصارات شخصية متماثلة. أنهت إصابته أمام تشيكوسلوفاكيا مشاركته مبكراً في بطولة 1962، وأكملت البرازيل الدفاع عن اللقب دون وجوده في النهائي. وشارك زملاء استثنائيون في نجاحه أيضاً. وبحلول 1970 كان ركناً مخضرماً في الفريق الذي هزم إيطاليا 4 مقابل 1 في النهائي، وأسهم بهدف في عرض جماعي بارز آخر.",
+        "es": "Pelé ganó el Mundial masculino con Brasil en 1958, 1962 y 1970, pero no fueron tres experiencias personales idénticas. Una lesión ante Checoslovaquia terminó pronto su participación en 1962 y Brasil defendió el título sin él en la final. Sus éxitos pertenecían también a compañeros extraordinarios. En 1970 era una figura veterana del equipo que venció 4 a 1 a Italia, aportando un gol a otra actuación colectiva inolvidable.",
+        "source": [
+          "FIFA: Pelé’s three World Cup titles",
+          "https://www.fifa.com/en/tournaments/mens/worldcup/articles/pele-three-world-cup-titles-only-player"
+        ]
+      },
+      {
+        "en": "Santos, travel and a widening audience",
+        "fr": "Santos, les voyages et un public élargi",
+        "ar": "سانتوس والسفر واتساع الجمهور",
+        "es": "Santos, viajes y un público más amplio",
+        "heading": true
+      },
+      {
+        "en": "The World Cup supplied iconic chapters, while Santos supplied the long club career and an international presence beyond a tournament every four years. Pelé’s later move to the New York Cosmos in 1975 created another setting in which audiences could encounter him. His global status grew through club football, international competition and public visibility together. A highlight reel shows moments of talent; a career explains how people kept meeting that talent across time and distance.",
+        "fr": "La Coupe du monde fournit les chapitres emblématiques ; Santos apporta une longue carrière et une présence internationale au-delà d’un tournoi quadriennal. Son arrivée au New York Cosmos en 1975 ouvrit un autre espace de rencontre avec le public. Sa stature se construisit par les clubs, les compétitions internationales et la visibilité publique. Un montage montre le talent ; une carrière explique comment on le retrouve à travers le temps et les frontières.",
+        "ar": "قدمت كأس العالم الفصول الأيقونية، بينما منح سانتوس المسيرة الطويلة والحضور الدولي خارج بطولة تقام كل أربعة أعوام. وخلق انتقال بيليه إلى نيويورك كوزموس عام 1975 مساحة أخرى لالتقاء الجمهور به. نمت مكانته من كرة الأندية والمنافسة الدولية والظهور العام معاً. يعرض مقطع المهارات لحظات موهبة، أما المسيرة فتشرح كيف استمر الناس في لقائها عبر الزمن والمسافات.",
+        "es": "El Mundial aportó capítulos icónicos; Santos, una larga carrera y presencia internacional más allá de un torneo cada cuatro años. Su llegada al New York Cosmos en 1975 abrió otro espacio de encuentro con el público. La fama creció mediante clubes, competición internacional y visibilidad pública. Un vídeo muestra talento; una carrera explica cómo el público volvió a encontrarlo a través del tiempo y las fronteras.",
+        "source": [
+          "FIFA: Pelé and Santos",
+          "https://www.fifa.com/pt/articles/bases-santos-pele-menino-da-vila"
+        ]
+      },
+      {
+        "en": "Read the trophies carefully",
+        "fr": "Regarder les trophées avec précision",
+        "ar": "قراءة الكؤوس بدقة",
+        "es": "Mirar los trofeos con precisión",
+        "heading": true
+      },
+      {
+        "en": "The three modern trophy shapes in the supplied collage are symbolic. Pelé’s winning years belonged to the Jules Rimet Trophy era; the current World Cup Trophy was introduced for 1974. The collage should therefore not be read as a photograph documenting three objects he received at those finals. That distinction strengthens the real legacy. Three championship campaigns, different roles and a worldwide name are already extraordinary enough without asking an illustration to serve as historical proof.",
+        "fr": "Les trois formes modernes du collage sont symboliques. Les années victorieuses de Pelé appartenaient à l’époque du trophée Jules Rimet ; le trophée actuel fut introduit pour 1974. L’image ne documente donc pas trois objets reçus lors de ces finales. Cette précision renforce l’héritage réel : trois campagnes victorieuses, des rôles différents et un nom mondial suffisent déjà, sans transformer une illustration en preuve historique.",
+        "ar": "أشكال الكؤوس الحديثة الثلاثة في الكولاج رمزية. تعود أعوام فوز بيليه إلى حقبة كأس جول ريميه، وأُدخلت كأس العالم الحالية لبطولة 1974. لذلك لا يوثق التركيب ثلاث قطع تسلمها في تلك النهائيات. يقوي هذا التمييز الإرث الحقيقي؛ فثلاث حملات بطولية وأدوار مختلفة واسم عالمي تكفي لتكون استثنائية دون مطالبة الرسم بأن يقوم مقام الدليل التاريخي.",
+        "es": "Las tres formas modernas del collage son simbólicas. Los triunfos de Pelé pertenecen a la época de la Copa Jules Rimet; el trofeo actual se introdujo para 1974. La imagen no documenta tres objetos recibidos en aquellas finales. La precisión fortalece el legado: tres campañas campeonas, papeles diferentes y un nombre mundial ya bastan, sin convertir una ilustración en prueba histórica.",
+        "source": [
+          "FIFA: the trophy introduced in 1974",
+          "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/11-days-to-go-the-second-trophy"
+        ]
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "How old was Pelé when he won his first World Cup?",
+          "He was seventeen when Brazil won in Sweden in 1958."
+        ],
+        [
+          "Which World Cups did he win?",
+          "The men’s tournaments of 1958, 1962 and 1970. Injury kept him out of the 1962 final."
+        ],
+        [
+          "Do the modern trophies in the hero match those winning years?",
+          "No. The collage is symbolic. Pelé’s titles belonged to the Jules Rimet era; the current trophy debuted in 1974."
+        ]
+      ],
+      "fr": [
+        [
+          "Quel âge avait-il lors de son premier titre mondial ?",
+          "Dix-sept ans, lors de la victoire du Brésil en Suède en 1958."
+        ],
+        [
+          "Quelles Coupes du monde a-t-il gagnées ?",
+          "Les tournois masculins de 1958, 1962 et 1970. Une blessure le priva de la finale de 1962."
+        ],
+        [
+          "Les trophées illustrés correspondent-ils à ces années ?",
+          "Non. Le collage est symbolique. Ses titres appartiennent à l’époque Jules Rimet ; le trophée actuel apparut en 1974."
+        ]
+      ],
+      "ar": [
+        [
+          "كم كان عمر بيليه عند أول لقب عالمي؟",
+          "كان في السابعة عشرة حين فازت البرازيل في السويد عام 1958."
+        ],
+        [
+          "ما البطولات التي فاز بها؟",
+          "بطولات الرجال في 1958 و1962 و1970. وأبعدته الإصابة عن نهائي 1962."
+        ],
+        [
+          "هل توافق الكؤوس المصورة أعوام فوزه؟",
+          "لا. الكولاج رمزي. ألقابه من حقبة جول ريميه، والكأس الحالية ظهرت لأول مرة عام 1974."
+        ]
+      ],
+      "es": [
+        [
+          "¿Qué edad tenía en su primer título mundial?",
+          "Diecisiete años, cuando Brasil ganó en Suecia en 1958."
+        ],
+        [
+          "¿Qué Mundiales ganó?",
+          "Los torneos masculinos de 1958, 1962 y 1970. Una lesión le impidió disputar la final de 1962."
+        ],
+        [
+          "¿Los trofeos ilustrados corresponden a esos años?",
+          "No. El collage es simbólico. Sus títulos fueron de la época Jules Rimet; el trofeo actual apareció en 1974."
+        ]
+      ]
+    }
+  }
+]

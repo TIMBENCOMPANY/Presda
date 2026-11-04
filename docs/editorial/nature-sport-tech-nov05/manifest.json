@@ -1,0 +1,107 @@
+[
+  {
+    "key": "android",
+    "slug": "android-google-changed-mobile-2007-announcement",
+    "original": "4-1000088580.jpg",
+    "sourceSha256": "cad09d8c038ade2d841b2d56aa592f411b3f570edfb7ea74dc9dc11f21fe6a1b",
+    "sha256": "cad09d8c038ade2d841b2d56aa592f411b3f570edfb7ea74dc9dc11f21fe6a1b",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 35994,
+    "image": "/articles/android-google-mobile-platform-history-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "frogs",
+    "slug": "flying-frogs-amphibians-glide-between-trees",
+    "original": "5-1000088583.jpg",
+    "sourceSha256": "cd60f0bec3fb443f514cc2fd4909813c27994f73badfcca7a4cfb1e064109859",
+    "sha256": "cd60f0bec3fb443f514cc2fd4909813c27994f73badfcca7a4cfb1e064109859",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 102782,
+    "image": "/articles/flying-frog-webbed-feet-rainforest-gliding-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "flamingos",
+    "slug": "flamingos-why-pink-birds-hatch-gray",
+    "original": "1-1000088585.jpg",
+    "sourceSha256": "c342754235a01d3c8d234b883d1be72dde8ca70864d8bc044ecac4f9f250dc3b",
+    "sha256": "c342754235a01d3c8d234b883d1be72dde8ca70864d8bc044ecac4f9f250dc3b",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 123170,
+    "image": "/articles/flamingo-pink-adult-gray-chick-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "dorado",
+    "slug": "el-dorado-golden-ritual-lost-city-legend",
+    "original": "2-1000088584.jpg",
+    "sourceSha256": "49db78cea5ad0a1e629193f925503b5bd11b9a15e818b3a276ec96286e4925a8",
+    "sha256": "49db78cea5ad0a1e629193f925503b5bd11b9a15e818b3a276ec96286e4925a8",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 165267,
+    "image": "/articles/el-dorado-muisca-ritual-raft-conceptual-illustration.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "pele",
+    "slug": "pele-boy-football-first-global-superstar",
+    "original": "3-1000088582.jpg",
+    "sourceSha256": "27d205c56751fb7088a13d015fdef66473cd8349f988e532b335192ef5100539",
+    "sha256": "27d205c56751fb7088a13d015fdef66473cd8349f988e532b335192ef5100539",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 164990,
+    "image": "/articles/pele-brazil-football-legacy-editorial-collage.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  }
+]

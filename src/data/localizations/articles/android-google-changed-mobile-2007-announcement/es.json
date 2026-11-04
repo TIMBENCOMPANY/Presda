@@ -1,0 +1,113 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/android-google-changed-mobile-2007-announcement/",
+  "path": "/es/articles/android-google-changed-mobile-2007-announcement/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-05",
+    "terminologyChecked": true
+  },
+  "title": "ANDROID: EL DÍA QUE GOOGLE CAMBIÓ EL MÓVIL PARA SIEMPRE",
+  "seoTitle": "Android: el anuncio de 2007 que cambió el móvil",
+  "description": "Revive el anuncio de Android en noviembre de 2007, el primer teléfono de 2008 y la alianza que convirtió una plataforma de software en un ecosistema móvil.",
+  "excerpt": "Revive el anuncio de Android en noviembre de 2007, el primer teléfono de 2008 y la alianza que convirtió una plataforma de software en un ecosistema móvil.",
+  "headlineHighlights": {
+    "red": "ANDROID",
+    "gold": "CAMBIÓ EL MÓVIL PARA SIEMPRE"
+  },
+  "keywords": [
+    "ANDROID",
+    "CAMBIÓ EL MÓVIL PARA SIEMPRE"
+  ],
+  "searchIntent": "Revive el anuncio de Android en noviembre de 2007, el primer teléfono de 2008 y la alianza que convirtió una plataforma de software en un ecosistema móvil.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "image": {
+    "src": "/articles/android-google-mobile-platform-history-editorial.jpg",
+    "alt": "Ilustración editorial conceptual de una mascota verde de estilo Android junto a un teléfono de modelo no identificado.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El anuncio que cambió el lugar de Google en el móvil no presentó un teléfono. El 5 de noviembre de 2007, la empresa mostró Android y una coalición de socios dispuestos a construir sobre él. La diferencia era esencial. Un aparato podía atraer atención; una plataforma compartida ofrecía un punto de partida a muchos fabricantes y desarrolladores. Las consecuencias tardaron años, pero la propuesta era clara: organizar la informática móvil alrededor de un ecosistema."
+    },
+    {
+      "type": "heading",
+      "text": "5 de noviembre de 2007: una plataforma sale a escena"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la entrada original de Google, Andy Rubin, responsable de plataformas móviles, diferenció expresamente el anuncio del rumoreado Gphone. Android se presentó como un conjunto de sistema operativo, interfaz y aplicaciones desarrollado con socios. El texto avisaba de que los teléfonos llegarían después. Confundir esa fecha con el primer día de venta de un Android mezcla anuncio de plataforma y lanzamiento comercial. [Fuente: Google](https://googleblog.blogspot.com/2007/11/wheres-my-gphone.html)"
+    },
+    {
+      "type": "heading",
+      "text": "La alianza detrás de la ambición"
+    },
+    {
+      "type": "paragraph",
+      "text": "El comunicado de la Open Handset Alliance nombró 34 empresas fundadoras: fabricantes, operadoras y proveedores tecnológicos, entre ellos HTC, T-Mobile, Qualcomm y Motorola. La estrategia afrontaba un problema de coordinación entre hardware, redes, herramientas y aplicaciones. La apertura era también una propuesta comercial para reducir barreras de desarrollo. Eran objetivos declarados, no garantía de que todos los futuros dispositivos fueran idénticos o igualmente abiertos. [Fuente: Open Handset Alliance](https://www.openhandsetalliance.com/press_110507.html)"
+    },
+    {
+      "type": "heading",
+      "text": "2008: el primer teléfono se hace tangible"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 23 de septiembre de 2008, Google presentó el primer teléfono Android, el T-Mobile G1, desarrollado con HTC y T-Mobile. El proyecto previo adquiría un objeto reconocible para el consumidor, con desarrolladores y aplicaciones en el centro. La importancia histórica de Android supera el aspecto de ese primer aparato: la apuesta era que una base común pudiera sostener teléfonos y experiencias diferentes. [Fuente: Google](https://googleblog.blogspot.com/2008/09/first-android-powered-phone.html)"
+    },
+    {
+      "type": "heading",
+      "text": "El hito del código fuente"
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra fecha completa la cronología: el 21 de octubre de 2008, Google y la alianza anunciaron la disponibilidad pública del código mediante Android Open Source Project. Anuncio, primer teléfono y publicación del código fueron hitos separados. El software abierto tampoco significa que cada servicio, acuerdo comercial o aplicación del aparato forme parte del mismo código. Distinguir esas etapas explica mejor el logro que un único día milagroso. [Fuente: Open Handset Alliance](https://www.openhandsetalliance.com/press_102108.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El giro estaba en cómo construir y ampliar un teléfono. El aparato se convertía en entrada a una relación entre fabricantes, desarrolladores, operadoras y usuarios. Android no inventó el teléfono inteligente, pero su plataforma compartida ayudó a transformar las opciones disponibles. La fecha importó por todo lo que otros construirían después."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [Cómo el QR se convirtió en una interfaz cotidiana](/articles/qr-code-history-simple-square-digital-world/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: Google",
+      "url": "https://googleblog.blogspot.com/2007/11/wheres-my-gphone.html"
+    },
+    {
+      "label": "Fuente: Open Handset Alliance",
+      "url": "https://www.openhandsetalliance.com/press_110507.html"
+    },
+    {
+      "label": "Fuente: Google",
+      "url": "https://googleblog.blogspot.com/2008/09/first-android-powered-phone.html"
+    },
+    {
+      "label": "Fuente: Open Handset Alliance",
+      "url": "https://www.openhandsetalliance.com/press_102108.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo se anunció Android?",
+      "answer": "Google y la Open Handset Alliance anunciaron la plataforma el 5 de noviembre de 2007."
+    },
+    {
+      "question": "¿Salió el primer teléfono ese mismo día?",
+      "answer": "No. El primer dispositivo Android, el T-Mobile G1, se anunció el 23 de septiembre de 2008."
+    },
+    {
+      "question": "¿Cuándo se hizo público el código?",
+      "answer": "Google y la alianza anunciaron su disponibilidad mediante AOSP el 21 de octubre de 2008."
+    }
+  ]
+}

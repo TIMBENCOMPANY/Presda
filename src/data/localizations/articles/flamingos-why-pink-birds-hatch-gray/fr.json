@@ -1,0 +1,109 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/flamingos-why-pink-birds-hatch-gray/",
+  "path": "/fr/articles/flamingos-why-pink-birds-hatch-gray/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-05",
+    "terminologyChecked": true
+  },
+  "title": "LES FLAMANTS : POURQUOI CES OISEAUX ROSES NAISSENT GRIS",
+  "seoTitle": "Pourquoi les flamants naissent gris avant de devenir roses",
+  "description": "Les poussins de flamants éclosent avec un duvet gris ou pâle. Découvrez le rôle des pigments alimentaires, du plumage et des soins parentaux.",
+  "excerpt": "Les poussins de flamants éclosent avec un duvet gris ou pâle. Découvrez le rôle des pigments alimentaires, du plumage et des soins parentaux.",
+  "headlineHighlights": {
+    "red": "FLAMANTS",
+    "gold": "NAISSENT GRIS"
+  },
+  "keywords": [
+    "FLAMANTS",
+    "NAISSENT GRIS"
+  ],
+  "searchIntent": "Les poussins de flamants éclosent avec un duvet gris ou pâle. Découvrez le rôle des pigments alimentaires, du plumage et des soins parentaux.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "image": {
+    "src": "/articles/flamingo-pink-adult-gray-chick-editorial.jpg",
+    "alt": "Illustration éditoriale conceptuelle d’un poussin de flamant gris près d’un adulte rose dans une zone humide peu profonde.",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le poussin gris près d’un adulte rose semble une petite contradiction. Pourquoi le jeune d’un oiseau emblématiquement rose porte-t-il une autre couleur ? Parce que l’apparence d’un animal peut raconter un processus, au lieu d’être achevée dès la naissance. Les flamants sortent d’un œuf et leur premier duvet diffère beaucoup du plumage qui rend un groupe d’adultes si reconnaissable."
+    },
+    {
+      "type": "heading",
+      "text": "Le début gris"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le zoo de San Diego décrit le duvet gris des flamants à l’éclosion. Un plumage initial pâle ou gris est normal : il ne signale ni une autre espèce ni un oiseau rose couvert de boue. Le développement modifie l’apparence. Dire qu’il naît gris décrit donc l’éclosion, sans oublier qu’il s’agit d’un oiseau pondeur, pas d’un mammifère. [Source: San Diego Zoo](https://animals.sandiegozoo.org/animals/flamingo)"
+    },
+    {
+      "type": "heading",
+      "text": "Le rose passe par l’alimentation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le zoo de Los Angeles explique que les teintes roses et rouges viennent des caroténoïdes alimentaires. Algues et petits animaux aquatiques font circuler ces pigments dans le réseau alimentaire. Dire que les flamants rosissent parce qu’ils mangent des crevettes ne résume qu’une partie du mécanisme. Les espèces filtrent des aliments différents, et la couleur dépend des pigments absorbés et transformés, pas d’un ingrédient obligatoire universel. [Source: Los Angeles Zoo](https://lazoo.org/explore-your-zoo/our-animals/birds/flamingos/)"
+    },
+    {
+      "type": "heading",
+      "text": "Les parents apportent bien plus qu’une couleur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les petits dépendent d’une sécrétion riche issue du haut du tube digestif parental, couramment appelée lait de jabot. Mâles et femelles peuvent la produire. C’est une sécrétion nourricière d’oiseau, différente du lait des mammifères. Les soigneurs du Smithsonian décrivent les exigences de cet élevage et le passage progressif du gris au rose. Recevoir des aliments pigmentés ne donne pas instantanément un plumage adulte : développement et nutrition s’inscrivent dans le temps. [Source: Smithsonian](https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time)"
+    },
+    {
+      "type": "heading",
+      "text": "Même la couleur adulte peut évoluer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nourrissage peut rendre les adultes sensiblement plus pâles, avant le retour de la couleur lorsque les contraintes de reproduction diminuent. Le plumage n’est donc pas une surface peinte immuable. Alimentation, âge et reproduction influencent ce que l’on voit. Les espèces n’ont pas non plus une teinte identique : rose pâle, rose plus intense et tons rougeâtres existent. Une illustration ne constitue pas un nuancier pour toute la famille. [Source: San Diego Zoo](https://animals.sandiegozoo.org/animals/flamingo)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le poussin gris possède déjà ce qui fait de lui un flamant. Il montre simplement un âge de sa vie. Le rose adulte devient alors un lien visible entre alimentation, croissance et soins à la génération suivante. Cette couleur célèbre est une histoire biologique qui se construit plume après plume."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [La biologie derrière le célèbre sourire du quokka](/articles/quokkas-australia-famous-smiling-marsupials/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: San Diego Zoo",
+      "url": "https://animals.sandiegozoo.org/animals/flamingo"
+    },
+    {
+      "label": "Source: Los Angeles Zoo",
+      "url": "https://lazoo.org/explore-your-zoo/our-animals/birds/flamingos/"
+    },
+    {
+      "label": "Source: Smithsonian",
+      "url": "https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Pourquoi les poussins éclosent-ils gris ?",
+      "answer": "Leur duvet diffère du plumage adulte. Le rose apparaît avec la croissance et l’incorporation de caroténoïdes alimentaires."
+    },
+    {
+      "question": "Les crevettes sont-elles l’unique source de couleur ?",
+      "answer": "Non. Les pigments circulent via les algues et d’autres aliments aquatiques ; les régimes varient selon les espèces."
+    },
+    {
+      "question": "Les deux parents produisent-ils du lait de jabot ?",
+      "answer": "Oui. Mâles et femelles peuvent produire cette sécrétion digestive nutritive pour les poussins."
+    }
+  ]
+}

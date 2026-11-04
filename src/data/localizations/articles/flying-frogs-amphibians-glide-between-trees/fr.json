@@ -1,0 +1,113 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/flying-frogs-amphibians-glide-between-trees/",
+  "path": "/fr/articles/flying-frogs-amphibians-glide-between-trees/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-05",
+    "terminologyChecked": true
+  },
+  "title": "LES GRENOUILLES VOLANTES : LES AMPHIBIENS QUI PLANENT ENTRE LES ARBRES",
+  "seoTitle": "Grenouilles volantes : comment elles planent entre les arbres",
+  "description": "Découvrez comment les grenouilles volantes contrôlent leur descente avec leurs palmures et leur posture, et pourquoi elles ne volent pas comme les oiseaux.",
+  "excerpt": "Découvrez comment les grenouilles volantes contrôlent leur descente avec leurs palmures et leur posture, et pourquoi elles ne volent pas comme les oiseaux.",
+  "headlineHighlights": {
+    "red": "GRENOUILLES VOLANTES",
+    "gold": "PLANENT ENTRE LES ARBRES"
+  },
+  "keywords": [
+    "GRENOUILLES VOLANTES",
+    "PLANENT ENTRE LES ARBRES"
+  ],
+  "searchIntent": "Découvrez comment les grenouilles volantes contrôlent leur descente avec leurs palmures et leur posture, et pourquoi elles ne volent pas comme les oiseaux.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "image": {
+    "src": "/articles/flying-frog-webbed-feet-rainforest-gliding-editorial.jpg",
+    "alt": "Illustration conceptuelle d’une grenouille verte en l’air, mains et pieds palmés déployés près d’un arbre de forêt tropicale.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une grenouille quitte une branche, ouvre les membres et fait de l’espace inférieur une partie de son trajet. Le spectacle surprend : on imagine plutôt une courte trajectoire de saut ou la nage. Dans la canopée, le problème se pose pourtant en trois dimensions. Atteindre une autre surface suppose parfois de gérer l’air qui les sépare. Le nom de grenouille volante évoque cette capacité ; la mécanique décrit une descente contrôlée, sans propulsion par les ailes."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que signifie voler ici"
+    },
+    {
+      "type": "paragraph",
+      "text": "La grenouille volante de Wallace, Rhacophorus nigropalmatus, vit notamment dans les forêts de Malaisie et d’Indonésie. Le Musée d’histoire naturelle de Londres décrit ses pieds palmés et ses déplacements aériens entre les arbres ou vers le sol. Elle ne se maintient pas en vol par des battements d’ailes. Partant d’une hauteur, elle utilise corps et membres déployés pour modifier sa descente. Vol plané et parachutage décrivent différents aspects du mouvement. [Source: Natural History Museum](https://www.nhm.ac.uk/discover/fantastic-flyers-animals-that-fly-in-surprising-ways.html)"
+    },
+    {
+      "type": "heading",
+      "text": "L’importance de se déployer"
+    },
+    {
+      "type": "paragraph",
+      "text": "De grandes palmures entre les doigts augmentent la surface exposée à l’air. Certaines grenouilles possèdent aussi des replis cutanés associés à cette forme spécialisée. La référence Frogs of Borneo souligne que seules certaines espèces de Rhacophorus ont des capacités aériennes très développées. Une rainette n’est donc pas automatiquement experte du vol plané, et grenouille volante ne désigne pas une espèce unique. Anatomie et comportement doivent être étudiés ensemble. [Source: Frogs of Borneo](https://www.frogsofborneo.org/frogs/rhacophoridae)"
+    },
+    {
+      "type": "heading",
+      "text": "Atterrir compte autant que parcourir une distance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude expérimentale de Sharon Emerson et Mimi Koehl a utilisé observations d’animaux vivants et modèles pour analyser distance, maniabilité et stabilité. Cette approche large est essentielle. Une photographie spectaculaire ou un record de distance ne suffit pas à juger la performance. Tourner vers une cible et contrôler l’orientation peuvent compter autant qu’aller loin. Les membres palmés appartiennent à un système en mouvement, pas à un ensemble d’ailes d’avion miniatures. [Source: Emerson & Koehl](https://academic.oup.com/evolut/article-abstract/44/8/1931/6869574)"
+    },
+    {
+      "type": "heading",
+      "text": "La vie continue après le vol plané"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des recherches comparant des Rhacophorus spécialisés à des Polypedates moins spécialisés ont aussi examiné saut et adhérence. Un amphibien arboricole a besoin de davantage qu’une prouesse aérienne : se lancer, atteindre un support, y rester, puis continuer à se nourrir et se reproduire. La question utile est le fonctionnement de tout l’animal dans son habitat, plutôt que le caractère qui le rapproche le plus d’une machine volante. [Source: Journal of Zoology](https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.12725)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Leur prouesse frappe parce qu’elle utilise autrement un corps de grenouille. Doigts, peau et posture deviennent des outils pour gérer un bref trajet dans l’air. Le nom ouvre le récit ; comprendre descente, orientation et atterrissage fait entrer dans la biologie."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [Comment certaines grenouilles survivent au gel](/articles/frogs-freeze-come-back-to-life-science/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: Natural History Museum",
+      "url": "https://www.nhm.ac.uk/discover/fantastic-flyers-animals-that-fly-in-surprising-ways.html"
+    },
+    {
+      "label": "Source: Frogs of Borneo",
+      "url": "https://www.frogsofborneo.org/frogs/rhacophoridae"
+    },
+    {
+      "label": "Source: Emerson & Koehl",
+      "url": "https://academic.oup.com/evolut/article-abstract/44/8/1931/6869574"
+    },
+    {
+      "label": "Source: Journal of Zoology",
+      "url": "https://zslpublications.onlinelibrary.wiley.com/doi/10.1111/jzo.12725"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Volent-elles grâce à une propulsion ?",
+      "answer": "Non. Elles contrôlent une descente avec corps, membres et palmures, sans battre des ailes."
+    },
+    {
+      "question": "Toutes les rainettes peuvent-elles planer ?",
+      "answer": "Non. Les capacités varient ; un vol plané développé concerne des espèces et adaptations particulières."
+    },
+    {
+      "question": "L’image documente-t-elle une grenouille de Wallace ?",
+      "answer": "Non. C’est une illustration conceptuelle dont l’espèce exacte, l’anatomie et le comportement ne sont pas vérifiés."
+    }
+  ]
+}

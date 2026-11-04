@@ -102,6 +102,8 @@ const publishedPresdaCredits = new Set([
 
 export function getImageRights(source: string): ImageRights {
   // User-approved editorial images; original creator and licence were not supplied.
+  if (["/articles/android-google-mobile-platform-history-editorial.jpg","/articles/flying-frog-webbed-feet-rainforest-gliding-editorial.jpg","/articles/flamingo-pink-adult-gray-chick-editorial.jpg","/articles/el-dorado-muisca-ritual-raft-conceptual-illustration.jpg","/articles/pele-brazil-football-legacy-editorial-collage.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
+  // User-approved editorial images; original creator and licence were not supplied.
   if (["/articles/cappadocia-fairy-chimneys-balloons-turkey-editorial.jpg","/articles/ninja-shinobi-castle-historical-illustration.jpg","/articles/samurai-armour-japan-historical-editorial-illustration.jpg","/articles/quokka-australia-smiling-marsupial-editorial.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // User-approved editorial images; original creator and licence were not supplied.
   if (["/articles/red-lipped-batfish-walking-seafloor-editorial.jpg","/articles/giant-flying-fox-philippines-spread-wings-editorial.jpg","/articles/hypatia-alexandria-teaching-historical-reconstruction.jpg","/articles/zheng-he-ming-fleet-historical-reconstruction.jpg","/articles/qr-code-history-phone-scanning-editorial.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
