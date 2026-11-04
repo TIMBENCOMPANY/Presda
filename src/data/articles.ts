@@ -1,3 +1,4 @@
+import { worldWildlifeNov04Articles } from "@/data/worldWildlifeNov04Articles";
 import { natureHistoryNov04Articles } from "@/data/natureHistoryNov04Articles";
 import { travelCultureNov03Articles } from "@/data/travelCultureNov03Articles";
 import { worldBusinessNov02Articles } from "@/data/worldBusinessNov02Articles";
@@ -231,6 +232,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  ...worldWildlifeNov04Articles,
   ...natureHistoryNov04Articles,
   ...travelCultureNov03Articles,
   ...worldBusinessNov02Articles,

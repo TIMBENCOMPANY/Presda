@@ -20,7 +20,8 @@
     "test:heroes": "node tools/test-world-business-nov02.cjs",
     "test:social": "node tools/test-social-previews.cjs",
     "test:travel-culture": "node tools/test-travel-culture-nov03.cjs",
-    "test:nature-history": "node tools/test-nature-history-nov04.cjs"
+    "test:nature-history": "node tools/test-nature-history-nov04.cjs",
+    "test:world-wildlife": "node tools/test-world-wildlife-nov04.cjs"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",

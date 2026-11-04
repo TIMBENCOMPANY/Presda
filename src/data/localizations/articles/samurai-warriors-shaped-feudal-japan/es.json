@@ -1,0 +1,113 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/samurai-warriors-shaped-feudal-japan/",
+  "path": "/es/articles/samurai-warriors-shaped-feudal-japan/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-04",
+    "terminologyChecked": true
+  },
+  "title": "SAMURÁIS: LOS GUERREROS QUE MOLDEARON EL JAPÓN FEUDAL",
+  "seoTitle": "Samuráis: guerreros, funcionarios y el poder en Japón",
+  "description": "Explora a los samuráis más allá de la espada: sus cambios militares y políticos, el mecenazgo artístico y los mitos de un código guerrero eterno.",
+  "excerpt": "Explora a los samuráis más allá de la espada: sus cambios militares y políticos, el mecenazgo artístico y los mitos de un código guerrero eterno.",
+  "headlineHighlights": {
+    "red": "SAMURÁIS",
+    "gold": "MOLDEARON EL JAPÓN FEUDAL"
+  },
+  "keywords": [
+    "SAMURÁIS",
+    "MOLDEARON EL JAPÓN FEUDAL"
+  ],
+  "searchIntent": "Explora a los samuráis más allá de la espada: sus cambios militares y políticos, el mecenazgo artístico y los mitos de un código guerrero eterno.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "image": {
+    "src": "/articles/samurai-armour-japan-historical-editorial-illustration.jpg",
+    "alt": "Ilustración histórica suministrada de un samurái con armadura y espada, estandartes, monte Fuji y flores de cerezo.",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Una espada, un casco y una silueta disciplinada hacen que el samurái parezca familiar. Esa familiaridad engaña. El término reúne personas separadas por siglos, riqueza, regiones y trabajos reales. Un guerrero montado medieval, un alto vasallo y un funcionario de Edo pertenecían a mundos cambiantes. La pregunta reveladora es cómo el servicio guerrero se convirtió en poder político y después en una memoria cultural duradera."
+    },
+    {
+      "type": "heading",
+      "text": "Servicio, tierras y autoridad"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Victoria and Albert Museum relaciona el nombre samurái con el servicio y el surgimiento de grupos guerreros con la protección y expansión de dominios provinciales. Las élites militares ejercieron gran autoridad mediante shogunatos y señores regionales. Japón feudal es una etiqueta general útil, no la descripción exacta de un sistema inmutable. Las relaciones entre corte imperial, shogunes, poder local y vasallos cambiaron repetidamente. [Fuente: www.vam.ac.uk](https://www.vam.ac.uk/articles/samurai-japanese-arms-armour)"
+    },
+    {
+      "type": "heading",
+      "text": "La espada era solo parte del arsenal"
+    },
+    {
+      "type": "paragraph",
+      "text": "La exposición Art of the Samurai del Metropolitan Museum reunió armaduras, espadas, equipos de arquería, armas de fuego y material ecuestre. Esa variedad corrige el duelo de espada interminable del cine. Los guerreros dependían de ejércitos, logística y tecnologías cambiantes. Un objeto puede ser simbólico sin ser la única herramienta eficaz en batalla. Las dos espadas del estatus samurái no deben borrar arcos, armas de asta o fusiles. [Fuente: www.metmuseum.org](https://www.metmuseum.org/exhibitions/listings/2009/art-of-the-samurai)"
+    },
+    {
+      "type": "heading",
+      "text": "Lo que hacían en tiempos de paz"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una armadura ceremonial de Edo en el Ashmolean revela otra dimensión. Podía mostrar rango y riqueza aunque la guerra a gran escala ya no fuera una ocupación cotidiana. Bajo los Tokugawa, muchos samuráis trabajaban en administración. Los objetos conservados invitan a ver, junto al entrenamiento marcial, obligaciones, expectativas sociales y el coste de mantener una identidad privilegiada. [Fuente: www.ashmolean.org](https://www.ashmolean.org/ceremonial-suit-armour-samurai)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El V&A destaca también habilidades literarias y administrativas y el mecenazgo de pintura, escultura y poesía. La cultura no era un adorno: ayudaba a crear relaciones, demostrar formación y representar autoridad. Recordarlo no vuelve menos violenta la guerra, pero impide reducir a quienes ejercían el poder a una sola arma. [Fuente: www.vam.ac.uk](https://www.vam.ac.uk/articles/samurai-japanese-arms-armour)"
+    },
+    {
+      "type": "heading",
+      "text": "Bushidō y la tentación de un código eterno"
+    },
+    {
+      "type": "paragraph",
+      "text": "El historiador Oleg Benesch advierte contra proyectar una ética guerrera única e inmutable sobre el Japón premoderno. Existían ideales de lealtad y deber, pero se interpretaban de distintas formas; el bushidō fue reinventado y popularizado en la época moderna. Las prescripciones morales no registran todo el comportamiento. Conviene distinguir hechos, exhortaciones de escritores y expectativas de generaciones posteriores. [Fuente: www.japanhouselondon.uk](https://www.japanhouselondon.uk/read-and-watch/bushido-the-way-of-the-samurai-warrior-between-history-and-myth/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [Los espías reales detrás de las leyendas ninja](/articles/ninja-real-spies-japan-history-myths/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/samurai-japanese-arms-armour"
+    },
+    {
+      "label": "Fuente: www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2009/art-of-the-samurai"
+    },
+    {
+      "label": "Fuente: www.ashmolean.org",
+      "url": "https://www.ashmolean.org/ceremonial-suit-armour-samurai"
+    },
+    {
+      "label": "Fuente: www.japanhouselondon.uk",
+      "url": "https://www.japanhouselondon.uk/read-and-watch/bushido-the-way-of-the-samurai-warrior-between-history-and-myth/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Todos eran combatientes a tiempo completo?",
+      "answer": "No. Sus funciones variaban según época y rango. Muchos samuráis de Edo trabajaban en administración y otros servicios."
+    },
+    {
+      "question": "¿Usaban armas de fuego?",
+      "answer": "Sí. Forman parte de la historia militar japonesa junto a arcos, armas de asta y espadas."
+    },
+    {
+      "question": "¿Era el bushidō un reglamento medieval inmutable?",
+      "answer": "No. Los ideales variaron y su interpretación popular moderna no debe proyectarse sin cambios sobre todos los siglos."
+    }
+  ]
+}

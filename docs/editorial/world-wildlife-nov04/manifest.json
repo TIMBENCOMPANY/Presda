@@ -1,0 +1,86 @@
+[
+  {
+    "key": "cappadocia",
+    "slug": "cappadocia-turkey-land-fairy-chimneys",
+    "original": "1-1000088337.jpg",
+    "sourceSha256": "c6ca901f6f5c3e93270c5bb2b8d9ea3faca91fc82695a1817027c51e512ed43a",
+    "sha256": "c6ca901f6f5c3e93270c5bb2b8d9ea3faca91fc82695a1817027c51e512ed43a",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 203425,
+    "image": "/articles/cappadocia-fairy-chimneys-balloons-turkey-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "ninja",
+    "slug": "ninja-real-spies-japan-history-myths",
+    "original": "3-1000088333.jpg",
+    "sourceSha256": "98262d0ce6a824d74e34c512b4ecf31fd549ee8832a8dd36f8584d12de1983e4",
+    "sha256": "98262d0ce6a824d74e34c512b4ecf31fd549ee8832a8dd36f8584d12de1983e4",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 154889,
+    "image": "/articles/ninja-shinobi-castle-historical-illustration.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "samurai",
+    "slug": "samurai-warriors-shaped-feudal-japan",
+    "original": "4-1000088330.jpg",
+    "sourceSha256": "1afcd61b70fedb129bd074a2b1a84800f7892822e8efbb01e1e1d534c64dffa5",
+    "sha256": "1afcd61b70fedb129bd074a2b1a84800f7892822e8efbb01e1e1d534c64dffa5",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 244562,
+    "image": "/articles/samurai-armour-japan-historical-editorial-illustration.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "quokkas",
+    "slug": "quokkas-australia-famous-smiling-marsupials",
+    "original": "2-1000088336.jpg",
+    "sourceSha256": "d8948891ab83ef57091b886de839ef168f5757c8d5a803de4eb8debd0f5f3e52",
+    "sha256": "d8948891ab83ef57091b886de839ef168f5757c8d5a803de4eb8debd0f5f3e52",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 129511,
+    "image": "/articles/quokka-australia-smiling-marsupial-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  }
+]
