@@ -1141,6 +1141,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/can-artificial-intelligence-ever-become-conscious/",
+    "path": "/ar/articles/can-artificial-intelligence-ever-become-conscious/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/can-artificial-intelligence-ever-become-conscious/",
+    "path": "/es/articles/can-artificial-intelligence-ever-become-conscious/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/can-artificial-intelligence-ever-become-conscious/",
+    "path": "/fr/articles/can-artificial-intelligence-ever-become-conscious/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/can-hypnosis-really-control-your-mind/",
     "path": "/ar/articles/can-hypnosis-really-control-your-mind/"
   },
@@ -2188,6 +2203,21 @@
     "locale": "fr",
     "englishPath": "/articles/frb-20240304b-ten-billion-year-signal-cosmic-record/",
     "path": "/fr/articles/frb-20240304b-ten-billion-year-signal-cosmic-record/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/free-will-control-decisions-neuroscience/",
+    "path": "/ar/articles/free-will-control-decisions-neuroscience/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/free-will-control-decisions-neuroscience/",
+    "path": "/es/articles/free-will-control-decisions-neuroscience/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/free-will-control-decisions-neuroscience/",
+    "path": "/fr/articles/free-will-control-decisions-neuroscience/"
   },
   {
     "locale": "ar",
@@ -5698,6 +5728,21 @@
     "locale": "fr",
     "englishPath": "/articles/why-do-we-dream/",
     "path": "/fr/articles/why-do-we-dream/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/why-does-anything-exist-science-philosophy/",
+    "path": "/ar/articles/why-does-anything-exist-science-philosophy/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/why-does-anything-exist-science-philosophy/",
+    "path": "/es/articles/why-does-anything-exist-science-philosophy/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/why-does-anything-exist-science-philosophy/",
+    "path": "/fr/articles/why-does-anything-exist-science-philosophy/"
   },
   {
     "locale": "ar",

@@ -1,0 +1,65 @@
+[
+  {
+    "key": "consciousness",
+    "slug": "can-artificial-intelligence-ever-become-conscious",
+    "original": "1-1000088598.jpg",
+    "sourceSha256": "1fe0976249c721cc4a76f5f3d707b28bd002bcdc2d55ed9b6d83cda65abff1e5",
+    "sha256": "1fe0976249c721cc4a76f5f3d707b28bd002bcdc2d55ed9b6d83cda65abff1e5",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 65960,
+    "image": "/articles/ai-consciousness-human-robot-conceptual-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "freewill",
+    "slug": "free-will-control-decisions-neuroscience",
+    "original": "2-1000088603.jpg",
+    "sourceSha256": "57a3388967c41cc229a40bca6860a44f8234ccd6cce3752b225da63e3c88d472",
+    "sha256": "57a3388967c41cc229a40bca6860a44f8234ccd6cce3752b225da63e3c88d472",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 49964,
+    "image": "/articles/free-will-decisions-diverging-paths-conceptual-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "existence",
+    "slug": "why-does-anything-exist-science-philosophy",
+    "original": "3-1000088604.jpg",
+    "sourceSha256": "484832bbb3bd596164fb3268ecdebb891288ad4d28749f2f348048f5b87b6f41",
+    "sha256": "484832bbb3bd596164fb3268ecdebb891288ad4d28749f2f348048f5b87b6f41",
+    "sourceDimensions": [
+      1280,
+      722
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 126485,
+    "image": "/articles/why-anything-exists-cosmos-human-conceptual-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  }
+]

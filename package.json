@@ -22,7 +22,8 @@
     "test:travel-culture": "node tools/test-travel-culture-nov03.cjs",
     "test:nature-history": "node tools/test-nature-history-nov04.cjs",
     "test:world-wildlife": "node tools/test-world-wildlife-nov04.cjs",
-    "test:nature-sport-tech": "node tools/test-nature-sport-tech-nov05.cjs"
+    "test:nature-sport-tech": "node tools/test-nature-sport-tech-nov05.cjs",
+    "test:mind-existence": "node tools/test-mind-existence-nov05.cjs"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",
