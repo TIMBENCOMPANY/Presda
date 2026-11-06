@@ -22088,9 +22088,10 @@ export const articles: Article[] = [
     date: "2026-09-10",
     lastUpdated: "2026-09-10",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/peter-margaret-dolphin-experiment.webp",
+    coverImage: "/articles/peter-margaret-dolphin-pool-telephone-approved.jpg",
+    heroPreserveAspect: true,
     coverAlt:
-      "PRESDA editorial illustration inspired by the 1960s dolphin communication experiment, showing Margaret Howe Lovatt with Peter the dolphin inside Dolphin House",
+      "Black-and-white editorial image of a woman using a telephone beside an indoor pool with a surfacing dolphin.",
     homepageImagePosition: "50% 48%",
     content: [
       "In 1965, inside a partly flooded laboratory on St. Thomas in the U.S. Virgin Islands, a young woman was living beside a bottlenose dolphin.",
@@ -23003,9 +23004,10 @@ export const articles: Article[] = [
     date: "2026-09-10",
     lastUpdated: "2026-09-10",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/history-of-gold.webp",
+    coverImage: "/articles/history-of-gold-open-vault-gold-bars-approved.jpg",
+    heroPreserveAspect: true,
     coverAlt:
-      "Cinematic gold history scene showing ancient Egyptian gold, West African trade, gold coins, bullion and a modern central bank vault",
+      "Open round gold vault filled with stacked gold bars against a black background.",
     homepageImagePosition: "50% 50%",
     content: [
       "Gold is not useful because humans agreed to pretend it was useful.",

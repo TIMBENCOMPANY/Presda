@@ -803,6 +803,21 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
 /* Shared category-badge contract: design-system/category-badge.json. */
 .category-badge { display: inline-flex; align-items: center; justify-content: center; max-inline-size: 100%; vertical-align: middle; text-transform: uppercase; text-align: start; white-space: normal; overflow-wrap: normal; }
 .category-badge-on-image { position: absolute; z-index: 2; top: 8px; inset-inline-start: 8px; max-inline-size: calc(100% - 16px); pointer-events: none; }
+@media (max-width: 767px) {
+  .category-badge {
+    --category-badge-font-size: 10px;
+    --category-badge-line-height: 14px;
+    --category-badge-padding-inline: 8px;
+    --category-badge-padding-block: 4px;
+    --category-badge-radius: 4px;
+  }
+  /* Compact portraits usually place faces near the top of the thumbnail. */
+  .category-supporting-media > .category-badge-on-image,
+  .home-latest-media > .category-badge-on-image {
+    top: auto;
+    bottom: 8px;
+  }
+}
 .category-badge-link { display: inline-flex; align-items: center; min-height: 44px; flex-shrink: 0; }
 .article-hero .article-hero-header { position: absolute; z-index: 20; top: 20px; inset-inline: 20px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .article-hero .article-hero-header-date { font-family: var(--font-article-display), var(--font-inter), Arial, sans-serif; font-size: 11px; font-weight: 800; text-transform: uppercase; text-align: end; color: white; background: rgb(0 0 0 / 40%); border-radius: 4px; padding: 4px 8px; }

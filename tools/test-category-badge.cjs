@@ -11,7 +11,7 @@ for (const locale of ['en', 'fr', 'ar', 'es']) for (const label of Object.values
   assert.equal((html.match(/data-category-badge/g) || []).length, 1);
   assert(html.includes('var(--home-red-deep, #c40019)'));
   assert(html.includes('color:#ffffff'));
-  assert(html.includes(`font-size:${spec.fontSize}px`));
+  assert(html.includes(`font-size:var(--category-badge-font-size, ${spec.fontSize}px)`));
   assert(html.includes(`font-weight:${spec.fontWeight}`));
 }
 const escaped = renderToStaticMarkup(React.createElement(CategoryBadge, null, '<SCIENCE>'));

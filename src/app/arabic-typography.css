@@ -33,4 +33,4 @@ html[lang="ar"] .article-hero-heading > div:last-child { font-weight: 600; }
 html[lang="ar"] :is(.article-hero-meta, .article-hero-header-date) { font-weight: 600; line-height: 1.8; }
 html[lang="ar"] .article-hero .article-hero-title { font-weight: 900; line-height: 1.45; letter-spacing: 0; }
 /* The shared badge uses inline Latin metrics. Arabic needs room for its marks. */
-html[lang="ar"] .category-badge { font-weight: 700 !important; line-height: 1.8 !important; }
+html[lang="ar"] .category-badge { font-weight: 700 !important; line-height: var(--category-badge-line-height, 1.8) !important; }
