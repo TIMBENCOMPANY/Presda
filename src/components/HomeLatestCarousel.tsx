@@ -1,4 +1,5 @@
 "use client";
+import { CategoryBadge } from "@/components/CategoryBadge";
 
 import { ArabicCardMetadata } from "@/components/ArabicCardMetadata";
 import type { Locale } from "@/lib/i18n/routing";
@@ -44,9 +45,9 @@ export function HomeLatestCarousel({ articles, locale = "en" }: { articles: Arti
             <Link prefetch={false} href={article.href ?? `/articles/${article.slug}/`} className="home-latest-story group">
               <div className="home-latest-media presda-card-media relative overflow-hidden">
                 <HomeImage src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={72} sizes="(max-width: 639px) 112px, (max-width: 1023px) 120px, 160px" className="object-cover" style={{ objectPosition: getArticleCardImagePosition(article) }} />
+                <CategoryBadge className="category-badge-on-image">{categoryLabels[article.category]}</CategoryBadge>
               </div>
               <div className="home-latest-copy">
-                <span className="font-display text-[10px] font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</span>
                 <h3 className="font-display font-extrabold uppercase"><HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} /></h3>
                 <p className="home-latest-meta">{locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} /> : <><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime ?? "3 min read"}</span></>}</p>
               </div>

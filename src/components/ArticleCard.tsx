@@ -1,3 +1,4 @@
+import { CategoryBadge } from "@/components/CategoryBadge";
 import { ArabicCardMetadata } from "@/components/ArabicCardMetadata";
 import type { Locale } from "@/lib/i18n/routing";
 import { listingMessages, listingDate } from "@/lib/i18n/listing-messages";
@@ -44,9 +45,7 @@ export function ArticleCard({ article, locale = "en", priority = false, showImag
         ) : (
           <div className="absolute inset-0 bg-[color:var(--home-panel-strong)]" aria-hidden="true" />
         )}
-        <span className="absolute left-4 top-4 rounded-lg bg-[color:var(--home-red-deep)] px-3 py-1 font-display text-[10px] font-extrabold uppercase text-white">
-          {categoryLabels[article.category]}
-        </span>
+        <CategoryBadge className="category-badge-on-image">{categoryLabels[article.category]}</CategoryBadge>
       </div>
       <div className="p-5">
         <div className="flex flex-wrap items-center gap-3 text-xs text-[color:var(--muted)]">

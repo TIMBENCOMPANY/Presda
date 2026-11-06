@@ -1,4 +1,5 @@
 "use client";
+import { CategoryBadge } from "@/components/CategoryBadge";
 
 import { Info, Mail, Menu, Newspaper, Search, UserPlus, X } from "lucide-react";
 import Image from "next/image";
@@ -178,7 +179,7 @@ export function Header({ locale = "en" }: { locale?: Locale }) {
                 onClick={closeSearch}
                 className="block rounded-lg px-3 py-2.5 transition hover:bg-[color:var(--home-control-bg)]"
               >
-                <span className="font-display text-[10px] font-extrabold uppercase tracking-wide text-[#FF1A1A]">{categoryLabels[article.category]}</span>
+                <CategoryBadge>{categoryLabels[article.category]}</CategoryBadge>
                 <span className="mt-1 line-clamp-2 block font-display text-sm font-extrabold uppercase leading-tight text-[color:var(--home-text)]">
                   {article.title}
                 </span>

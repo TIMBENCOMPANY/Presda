@@ -1,4 +1,5 @@
 "use client";
+import { CategoryBadge } from "@/components/CategoryBadge";
 
 import { ArabicCardMetadata } from "@/components/ArabicCardMetadata";
 import type { Locale } from "@/lib/i18n/routing";
@@ -125,7 +126,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
             <article key={article.slug} aria-hidden={index !== active} aria-label={`${index + 1} ${t.of} ${slides.length}`} aria-roledescription={t.slide}
               className={`relative col-start-1 row-start-1 transition-opacity duration-700 motion-reduce:transition-none ${index === active ? "z-10 opacity-100" : "pointer-events-none opacity-0"}`}>
               <Link prefetch={index === active ? undefined : false} href={article.href ?? `/articles/${article.slug}/`} tabIndex={index === active ? 0 : -1} className="group block h-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-[#FF1A1A]">
-                <div className="category-featured-media presda-featured-media relative">
+                <div className="category-featured-media presda-featured-media relative"><CategoryBadge className="category-badge-on-image">{categoryLabels[article.category]}</CategoryBadge>
                   {(index === active || visited.includes(index) || preload || (isHome && readyImages.includes(index))) && <StoryImage src={article.coverImage} alt={article.coverAlt} fill priority={index === 0} quality={76}
                     loading={isHome && index !== 0 ? "eager" : undefined}
                     onLoad={isHome ? () => setReadyImages(indices => indices.includes(index) ? indices : [...indices, index]) : undefined}
@@ -137,7 +138,6 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
                 </div>
                 <div className="pointer-events-none absolute inset-0 hidden bg-gradient-to-t from-black via-black/35 to-transparent lg:block" />
                 <div className={`category-featured-copy relative flex flex-col justify-end p-5 sm:p-7 lg:p-8 ${isHome ? "lg:pb-14" : ""}`}>
-                  <p className="mb-3 hidden font-display text-xs font-extrabold uppercase text-[#FF1A1A] sm:block">{categoryLabels[article.category]}</p>
                   <Title className="max-w-[28ch] text-balance font-display text-2xl font-extrabold uppercase leading-tight sm:text-3xl lg:text-4xl">
                     {heroHighlights
                       ? <PremiumHeroHeadline title={article.title} highlights={heroHighlights} yellowSecondary={article.slug === "megan-fox-subs-co-owner-tim-stokely"} />
@@ -169,12 +169,11 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
       </div>
       {sideStories.length > 0 && <div className="category-supporting grid min-w-0 gap-4 sm:grid-cols-2 lg:grid-cols-1">
         {supportingStories.map(article => <Link key={article.slug} href={article.href ?? `/articles/${article.slug}/`} className="category-supporting-card group relative overflow-hidden rounded-xl border border-[color:var(--border)] bg-black text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
-          <div className="category-supporting-media presda-card-media relative">
+          <div className="category-supporting-media presda-card-media relative"><CategoryBadge className="category-badge-on-image">{categoryLabels[article.category]}</CategoryBadge>
             <StoryImage src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={76} sizes={isHome ? "(max-width: 639px) 112px, (max-width: 1023px) 144px, (max-width: 1535px) 33vw, 500px" : "(max-width: 639px) 112px, (max-width: 1023px) 50vw, 500px"} className="object-cover" style={{ objectPosition: getArticleCardImagePosition(article) ?? "50% 50%" }} />
           </div>
           <div className={`category-supporting-shade absolute inset-0 hidden bg-gradient-to-t from-black via-black/40 to-transparent ${isHome ? "" : "lg:block"}`} />
           <div className="category-supporting-copy relative flex flex-col justify-end p-5 lg:h-full ">
-            <p className="category-supporting-label mb-2 font-display text-[10px] font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</p>
             <h2 className="text-balance font-display text-xl font-extrabold uppercase leading-tight"><HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} /></h2>
             <p className="category-supporting-meta mt-3 text-xs text-white/80">{locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} timeClassName="sm:hidden" readingClassName={isHome ? "home-supporting-reading-time" : undefined} separatorClassName={isHome ? undefined : "sm:hidden"} /> : <><time className="mr-2 sm:hidden" dateTime={article.date}>{listingDate(article.date, locale)}</time>{isHome ? <span className="home-supporting-reading-time">{article.readingTime}</span> : article.readingTime}</>}</p>
           </div>

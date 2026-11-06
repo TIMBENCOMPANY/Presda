@@ -681,6 +681,7 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
   .article-hero.article-hero--standalone .article-hero-shade,
   .article-hero.article-hero--standalone .article-hero-shade + div { display: none; }
   .article-hero.article-hero--standalone .article-hero-content { min-height: 0; }
+  .article-hero.article-hero--standalone .article-hero-header { position: relative; inset: auto; padding: 12px 20px 0; }
 }
 
 /* Existing article-specific mobile layouts remain unchanged. */
@@ -797,4 +798,15 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
     position: absolute;
     inset: 0;
   }
+
+}
+/* Shared category-badge contract: design-system/category-badge.json. */
+.category-badge { display: inline-flex; align-items: center; justify-content: center; max-inline-size: 100%; vertical-align: middle; text-transform: uppercase; text-align: start; white-space: normal; overflow-wrap: normal; }
+.category-badge-on-image { position: absolute; z-index: 2; top: 8px; inset-inline-start: 8px; max-inline-size: calc(100% - 16px); pointer-events: none; }
+.category-badge-link { display: inline-flex; align-items: center; min-height: 44px; flex-shrink: 0; }
+.article-hero .article-hero-header { position: absolute; z-index: 20; top: 20px; inset-inline: 20px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.article-hero .article-hero-header-date { font-family: var(--font-article-display), var(--font-inter), Arial, sans-serif; font-size: 11px; font-weight: 800; text-transform: uppercase; text-align: end; color: white; background: rgb(0 0 0 / 40%); border-radius: 4px; padding: 4px 8px; }
+@media (min-width: 1024px) {
+  .article-hero .article-hero-header { top: 24px; inset-inline: 32px; }
+  .article-hero .article-hero-header-date { font-size: 16px; }
 }

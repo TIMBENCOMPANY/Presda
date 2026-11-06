@@ -24,8 +24,10 @@ React.useEffect = (effect, deps) => {
 };
 const { FeaturedCarousel } = require('../src/components/FeaturedCarousel.tsx');
 const { getPublishedArticles } = require('../src/data/articles.ts');
-const { homeHeroSlugs: slugs } = require('../src/lib/homeSelection.ts');
+const { homeHeroSlugs: editorialSlugs } = require('../src/lib/homeSelection.ts');
 const published = getPublishedArticles();
+// Exercise a stable twelve-slide loop independently of changing editorial placements.
+const slugs = [...editorialSlugs, ...published.map(article => article.slug).filter(slug => !editorialSlugs.includes(slug))].slice(0, 12);
 const slides = slugs.map(slug => published.find(a => a.slug === slug));
 assert.equal(slides.length, 12); assert(slides.every(Boolean));
 assert.equal(new Set(slugs).size, 12);

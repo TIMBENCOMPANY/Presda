@@ -1,3 +1,4 @@
+import { CategoryBadge } from "@/components/CategoryBadge";
 import { HeadlineText } from "@/components/HeadlineText";
 import { ArrowRight } from "lucide-react";
 import Image from "next/image";
@@ -10,9 +11,7 @@ export function FeaturedArticle({ article }: { article: Article }) {
   return (
     <section className="mx-auto grid w-[min(1500px,calc(100%-24px))] gap-7 py-10 sm:w-[min(1500px,calc(100%-32px))] sm:gap-8 sm:py-14 lg:grid-cols-[0.95fr_1.05fr] lg:items-center lg:py-20">
       <div>
-        <span className="rounded-lg bg-[#FF1A1A] px-3 py-2 font-display text-xs font-extrabold uppercase tracking-wide text-white">
-          {categoryLabels[article.category]}
-        </span>
+        <CategoryBadge>{categoryLabels[article.category]}</CategoryBadge>
         <p className="mt-6 font-display text-xs font-bold uppercase tracking-wide text-[color:var(--muted)]">
           {formatDate(article.date)} / {article.readingTime}
         </p>

@@ -1,3 +1,4 @@
+import { CategoryBadge } from "@/components/CategoryBadge";
 import { articleLabels, localizedReadingTime } from "@/lib/i18n/article-presentation";
 import { localizedCategories } from "@/lib/i18n/messages";
 import type { Locale } from "@/lib/i18n/routing";
@@ -35,12 +36,9 @@ export function RelatedArticles({ articles, locale = "en", paths }: { articles: 
                 className="object-cover transition duration-500"
                 style={{ objectPosition: getArticleCardImagePosition(article) }}
               />
-              <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42),rgba(0,0,0,0.04)_58%,transparent)]" />
+              <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42),rgba(0,0,0,0.04)_58%,transparent)]" /><CategoryBadge className="category-badge-on-image">{locale === "en" ? categoryLabels[article.category] : localizedCategories[locale][article.category]}</CategoryBadge>
             </div>
             <div className="p-4">
-              <p className="font-display text-[10px] font-extrabold uppercase tracking-wide text-[#FF1A1A]">
-                {locale === "en" ? categoryLabels[article.category] : localizedCategories[locale][article.category]}
-              </p>
               <h3 className="mt-2 line-clamp-3 font-display text-base font-extrabold uppercase leading-tight text-[color:var(--home-text)] sm:text-lg">
                 <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
               </h3>

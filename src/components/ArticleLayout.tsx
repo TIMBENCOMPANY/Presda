@@ -1,3 +1,4 @@
+import { CategoryBadge } from "@/components/CategoryBadge";
 import mindExistenceNov05HeroCaptions from "@/data/mindExistenceNov05HeroCaptions.json";
 import natureSportTechNov05HeroCaptions from "@/data/natureSportTechNov05HeroCaptions.json";
 import worldWildlifeNov04HeroCaptions from "@/data/worldWildlifeNov04HeroCaptions.json";
@@ -381,15 +382,14 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           <div className="article-hero-shade hidden absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
           <div className="hidden absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />
 
-          <time className={`article-hero-publication-date ${standaloneHero ? "relative block px-5 pt-5 sm:px-7 lg:px-12 xl:px-14" : "absolute right-5 top-5 z-20 rounded bg-black/40 px-2 py-1 text-right sm:right-7 sm:top-7 lg:right-8 lg:top-8"} font-display text-[11px] font-extrabold uppercase tracking-wide text-white/86 sm:text-sm lg:text-base`} dateTime={article.date}>{locale === "en" ? formatHeroDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(article.date))}</time>
+          <div className="article-hero-header" dir={locale === "ar" ? "rtl" : "ltr"}><Link href={languageDestination(`/category/${toCategorySlug(article.category)}/`, locale, translationRoutes)} className="category-badge-link">
+                <CategoryBadge>{locale === "en" ? categoryLabels[article.category] : localizedCategories[locale][article.category]}</CategoryBadge>
+              </Link>
+          <time className="article-hero-header-date" dateTime={article.date}>{locale === "en" ? formatHeroDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(article.date))}</time>
+          </div>
 
           <div className="article-hero-content relative z-10 flex flex-col gap-5 p-5 sm:p-7 lg:p-12 xl:p-14">
-            <div className="flex flex-wrap items-start justify-between gap-3 font-display text-[11px] lg:flex-nowrap lg:gap-4 font-extrabold uppercase tracking-wide text-white/84 sm:text-sm lg:text-base">
-              <Link href={languageDestination(`/category/${toCategorySlug(article.category)}/`, locale, translationRoutes)} className="flex items-center gap-3 transition hover:text-[#FF1A1A]">
-                <span className="h-8 w-1.5 rounded-full bg-[#FF1A1A]" aria-hidden="true" />
-                {locale === "en" ? categoryLabels[article.category] : localizedCategories[locale][article.category]}
-              </Link>
-            </div>
+
 
             <div className="article-hero-heading min-w-0 max-w-[800px]">
               <h1 className={`article-hero-title text-white${article.slug === "meta-ray-ban-privacy-europe" ? " article-hero-title-meta-privacy" : ""}${locale === "en" && article.slug === "iran-hormuz-closed-conditions-energy-shipping" ? " article-hero-title-hormuz" : ""}`}>
