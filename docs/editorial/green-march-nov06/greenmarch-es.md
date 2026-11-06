@@ -1,0 +1,65 @@
+El 6 de noviembre de 2026, Marruecos conmemora 51 años de la Marcha Verde de Hassan II hacia el Sáhara Occidental, entonces administrado por España. [Fuente: Associated Press](https://apnews.com/article/7cb2b3b31edb53d3b5d00dfb94e26ddc)
+
+El aniversario reúne una memoria nacional poderosa y un conflicto sin resolver. Comprenderlo exige separar la marcha, la retirada española, los documentos jurídicos y las decisiones que siguen afectando a la población del territorio. Una multitud con banderas puede alterar la presión política sobre un Gobierno. Su tamaño no resuelve por sí solo la soberanía. La distinción importa especialmente este año: el fin de una prolongada misión de la ONU cambia el escenario diplomático sin ofrecer una solución definitiva.
+
+## ¿Qué ocurrió el 6 de noviembre de 1975?
+
+Hassan II movilizó a 350.000 civiles marroquíes desarmados en la operación conocida como Marcha Verde. La cifra consta en una reseña histórica archivada del Departamento de Estado estadounidense. Se buscaba respaldar la reivindicación marroquí sobre el Sáhara Occidental mientras España seguía siendo la potencia administradora colonial. El número corresponde a la movilización, no a un recuento deducible de una fotografía ni a la población del Sáhara Occidental. [Fuente: US State Department archive](https://2001-2009.state.gov/r/pa/ei/bgn/5431.htm)
+
+El carácter civil ocupa un lugar central en el relato marroquí y ayuda a explicar la fuerza duradera de las imágenes: participantes corrientes, banderas nacionales y un llamamiento real convertido en presencia sobre el terreno. Sin embargo, la historia de esa movilización no resume el conflicto posterior. Que los manifestantes estuvieran desarmados no significa que la disputa más amplia fuera pacífica ni que todas las personas afectadas aceptaran la reivindicación marroquí.
+
+## ¿Por qué seguía implicada España?
+
+El Sáhara Occidental se encuentra en la costa atlántica del noroeste africano. Bajo dominio español se conocía como Sáhara Español. La ONU lo incluyó en 1963 en su lista de Territorios No Autónomos, dentro del proceso de descolonización. No era, por tanto, una simple controversia administrativa entre dos capitales: también estaban en juego los habitantes y su futuro político. El fin de la administración colonial y la culminación jurídica de la descolonización no son necesariamente el mismo acontecimiento. [Fuente: United Nations](https://www.un.org/dppa/decolonization/en/nsgt/western-sahara)
+
+## ¿Qué concluyó realmente la Corte Internacional de Justicia?
+
+El 16 de octubre de 1975, la Corte Internacional de Justicia emitió una opinión consultiva solicitada por la Asamblea General de la ONU. Rechazó que el Sáhara Occidental fuera un territorio sin dueño cuando España lo colonizó. También constató vínculos jurídicos de lealtad entre el sultán de Marruecos y algunas tribus, y ciertos vínculos con la entidad mauritana. Deben explicarse tanto esas conclusiones como sus límites: los materiales presentados no establecían vínculos de soberanía territorial con Marruecos o con la entidad mauritana. [Fuente: International Court of Justice](https://www.icj-cij.org/case/61)
+
+La conclusión preservaba la aplicación de la autodeterminación mediante una expresión auténtica de la voluntad de la población del territorio. Una opinión consultiva no sigue el mismo procedimiento que una sentencia vinculante entre Estados sobre una frontera, pero sigue siendo una referencia judicial central. Citar los vínculos históricos omitiendo la conclusión sobre soberanía altera su sentido. Afirmar que la Corte no encontró ninguna relación histórica también deformaría el documento.
+
+## La respuesta del Consejo de Seguridad en 1975
+
+El Consejo de Seguridad no respaldó la marcha como solución del conflicto. En la resolución 380, aprobada el 6 de noviembre de 1975, deploró su celebración y pidió la retirada de los participantes del Sáhara Occidental. Esa reacción debe figurar junto a las imágenes de movilización civil. La conmemoración marroquí posterior y la respuesta contemporánea del Consejo son partes distintas del registro histórico; contar una no exige ocultar la otra. [Fuente: UN Documents](https://docs.un.org/en/S/RES/380%281975%29)
+
+## Qué cambió el Acuerdo de Madrid y cuáles fueron sus límites
+
+España, Marruecos y Mauritania firmaron el Acuerdo de Madrid el 14 de noviembre de 1975, estableciendo una administración temporal. España notificó a la ONU el 26 de febrero de 1976 que ponía fin a su presencia. Mauritania se retiró del territorio en 1979. En una opinión de 2002 dirigida al Consejo de Seguridad, el asesor jurídico de la ONU Hans Corell explicó que el acuerdo no había transferido la soberanía ni conferido a sus firmantes la condición de potencia administradora. Los arreglos administrativos no modificaron el estatuto de Territorio No Autónomo del Sáhara Occidental. [Fuente: UN Documents](https://docs.un.org/en/S/2002/161)
+
+Por eso puede resultar engañosa una cronología que termine con la retirada española como si todas las cuestiones jurídicas hubieran quedado resueltas. La marcha, los acuerdos administrativos y la salida de España ocurrieron en momentos distintos y tuvieron consecuencias diferentes. El documento de Corell era una opinión jurídica sobre el territorio y sus recursos, no una nueva sentencia. Su valor reside en distinguir la administración del estatuto internacional del territorio.
+
+## Un aniversario con significados políticos distintos
+
+Marruecos controla la mayor parte del territorio. El Polisario, apoyado por Argelia, busca la independencia y controla zonas al este del muro de arena. [Fuente: Associated Press](https://apnews.com/article/030e303c58207060265d8748c1db3778)
+
+Las conmemoraciones oficiales marroquíes presentan la Marcha Verde como un acto decisivo de unidad nacional y recuperación territorial. Los discursos reales del aniversario vinculan el acontecimiento con la monarquía, la participación popular y la concepción estatal de las fronteras. Es una memoria política de importancia real para los marroquíes. Informar con precisión exige atribuir esa interpretación territorial a Marruecos, sin convertirla implícitamente en una conclusión jurídica internacional compartida. [Fuente: Moroccan government](https://maroc.ma/en/royal-speeches-and-messages/royal-speeches/hm-king-delivers-speech-nation-43rd-anniversary-green-march)
+
+El Frente Polisario sostiene otra reivindicación: la autodeterminación saharaui con la independencia entre los resultados posibles. La declaración de su representante en el seminario de descolonización de la ONU de 2026 expone la posición del movimiento; es la aportación de una parte, no una decisión de las Naciones Unidas. Un documento alojado por la ONU no expresa automáticamente su política, del mismo modo que un discurso oficial marroquí no establece una frontera indiscutida. [Fuente: United Nations](https://www.un.org/dppa/decolonization/sites/www.un.org.dppa.decolonization/files/crs_2026_crp.38_sidi_omar.pdf)
+
+## Las personas detrás del lenguaje diplomático
+
+El programa de ACNUR en Argelia incluye protección y asistencia para los refugiados saharauis en los campamentos próximos a Tinduf. Sus necesidades forman parte de la historia, junto con la vida de la población del territorio. Un relato limitado a monarcas, fronteras y resoluciones puede ocultar a las familias y la búsqueda de un futuro duradero. Ninguna población debe tratarse como políticamente uniforme. La asistencia humanitaria no decide la soberanía, y los derechos no dependen de que las opiniones encajen en una conmemoración. [Fuente: UNHCR](https://www.unhcr.org/where-we-work/countries/algeria)
+
+## Por qué se creó la MINURSO
+
+La ONU creó la MINURSO en 1991 en el marco de un plan de arreglo aceptado por Marruecos y el Frente Polisario. También supervisaba un alto el fuego; las hostilidades se reanudaron en 2020. Su nombre aludía a un referéndum en el Sáhara Occidental, con independencia e integración en Marruecos como opciones previstas. La votación nunca se celebró. Una misión concebida para acompañar una transición política se convirtió en una presencia prolongada. Renovar su mandato no era solo una decisión técnica sobre personal: afectaba a un proceso cuya promesa central seguía pendiente. [Fuente: MINURSO](https://minurso.unmissions.org/en/background)
+
+## Qué cambió la resolución 2797 en 2025
+
+La resolución 2797 del Consejo de Seguridad, aprobada el 31 de octubre de 2025, situó la propuesta marroquí de autonomía de 2007 como base de las negociaciones y prorrogó la MINURSO hasta el 31 de octubre de 2026. Señaló que una autonomía genuina podría representar una de las salidas más factibles. También pidió una solución política mutuamente aceptable que contemplara la autodeterminación. Ambas disposiciones deben leerse juntas: el texto no anunció un arreglo territorial concluido. [Fuente: UN Documents](https://docs.un.org/en/S/RES/2797%282025%29)
+
+## Las novedades de la ONU, verificadas al 6 de noviembre de 2026
+
+En su reunión del 30 de octubre de 2026, el Consejo de Seguridad no aprobó los proyectos rivales de Estados Unidos y Rusia relativos a la MINURSO. Una prórroga propuesta no equivale a una aprobada. Para este aniversario importa el resultado, no las previsiones sobre lo que los negociadores esperaban sacar adelante. [Fuente: UN Security Council](https://main.un.org/securitycouncil/en/events/10260th-meeting-minurso)
+
+Noticias ONU informó el 1 de noviembre de que el mandato había expirado a medianoche del 31 de octubre y comenzaba la liquidación de la misión. El Secretario General reafirmó su apoyo a una solución política negociada y a la autodeterminación. El cierre no significa la desaparición de los derechos de la población ni la resolución jurídica del conflicto. [Fuente: UN News](https://news.un.org/en/story/2026/11/1168717)
+
+En la rueda de prensa de la ONU del 2 de noviembre, el portavoz describió un cierre ordenado y gradual, no la desaparición instantánea de todo el personal y material. La transcripción automática disponible es un registro complementario, no un acta oficial literal. Corrobora el anuncio fechado del cierre; no establece una nueva decisión sobre soberanía. [Fuente: UN briefing transcript](https://transcripts.un.org/en/briefing/sg/2026-11-02)
+
+## Cómo entender el aniversario sin perder la historia
+
+El 6 de noviembre puede ser una conmemoración nacional sin constituir una respuesta internacionalmente acordada al futuro del Sáhara Occidental. Los vínculos históricos, la administración efectiva, el apoyo diplomático y los derechos políticos de una población están relacionados, pero no son intercambiables. Distinguirlos permite comprender la trascendencia de la Marcha Verde sin convertirla en un eslogan que explique todo lo posterior.
+
+La imagen del artículo también cumple una función concreta. Muestra a participantes con banderas marroquíes, pero no se facilitaron el fotógrafo, la fecha exacta ni la procedencia archivística. No se ofrece como recuento independiente o prueba de una reivindicación jurídica. Para seguir explorando el pasado marroquí, [la historia documentada de Chefchaouen](/articles/chefchaouen-story-morocco-blue-city/) recuerda el valor de leer las imágenes memorables junto con las fuentes.
+
+Lectura relacionada: [Las dinastías marroquíes, el periodo colonial y la independencia](/articles/morocco-history-dynasties-kingdom-independence/).

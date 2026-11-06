@@ -24,7 +24,8 @@
     "test:world-wildlife": "node tools/test-world-wildlife-nov04.cjs",
     "test:nature-sport-tech": "node tools/test-nature-sport-tech-nov05.cjs",
     "test:mind-existence": "node tools/test-mind-existence-nov05.cjs",
-    "test:history-sport": "node tools/test-history-sport-nov06.cjs"
+    "test:history-sport": "node tools/test-history-sport-nov06.cjs",
+    "test:green-march": "node tools/test-green-march-nov06.cjs"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",

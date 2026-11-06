@@ -101,6 +101,8 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  // Approved supplied Green March image; photographer and licence were not provided.
+  if (source === "/articles/morocco-green-march-1975-51st-anniversary.jpg") return { creditText: "Editorial image supplied for PRESDA" };
   // User-approved conceptual images; original creator and licence were not supplied.
   if (["/articles/cristiano-ronaldo-portugal-retirement-editorial-nov2026.jpg","/articles/napoleon-short-emperor-myth-editorial.png","/articles/napoleon-short-emperor-myth-approved-portrait.jpg","/articles/atlantis-plato-imagined-underwater-city-editorial.jpg","/articles/romeo-juliet-literary-romance-conceptual-editorial.jpg","/articles/valentines-day-saint-romance-conceptual-editorial.jpg","/articles/mona-lisa-lisa-gherardini-conceptual-editorial.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // User-approved conceptual images; original creator and licence were not supplied.

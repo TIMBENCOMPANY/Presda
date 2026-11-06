@@ -1,10 +1,13 @@
 import { getImageCreator } from "@/lib/imageCreators";
 import { getImageRights } from "@/lib/imageRights";
+import { originalHeroMetadata } from "@/lib/originalHeroMetadata";
 
 const absoluteImageUrl = (path: string) => /^https?:\/\//.test(path) ? path : `https://presda.com${path}`;
 
 /** Match the existing article hero's fallback src, without generating any images. */
 export function articleImageUrl(source: string) {
+  const original = originalHeroMetadata(source, "");
+  if (original) return original.url;
   // ArticleLayout deliberately serves this existing hero unoptimized.
   if (source === "/articles/phoenicians-tyrian-purple-sea-ships.png") return absoluteImageUrl(source);
   // Translation preparation imports articleSeo before image preparation runs.
@@ -16,12 +19,14 @@ export function articleImageUrl(source: string) {
 
 export function articleImageJsonLd(source: string, alt: string, canonical: string) {
   const image = articleImageUrl(source);
+  const original = originalHeroMetadata(source, alt);
   const creator = getImageCreator(source);
   return {
     "@type": "ImageObject",
     "@id": `${canonical}#primaryimage`,
     url: image,
     contentUrl: image,
+    ...(original ? { width: original.width, height: original.height, caption: alt } : {}),
     ...(creator ? { creator } : {}),
     ...getImageRights(source),
     description: alt,
