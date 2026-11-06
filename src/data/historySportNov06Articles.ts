@@ -92,8 +92,8 @@ export const historySportNov06Articles: Article[] = [
     "author": "PRESDA Editorial",
     "status": "published",
     "heroPreserveAspect": true,
-    "coverImage": "/articles/napoleon-short-emperor-myth-editorial.png",
-    "coverAlt": "Reused PRESDA editorial illustration of Napoleon on horseback amid an imagined French imperial landscape.",
+    "coverImage": "/articles/napoleon-short-emperor-myth-approved-portrait.jpg",
+    "coverAlt": "Supplied conceptual portrait of Napoleon in uniform, with imagined troops, a French flag and imperial symbols.",
     "headlineHighlights": {
       "red": "NAPOLEON",
       "gold": "SHORT EMPEROR MYTH"

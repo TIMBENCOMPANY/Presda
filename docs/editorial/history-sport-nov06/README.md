@@ -1,5 +1,7 @@
 # History and sport batch, 6 November 2026
 
+Follow-up: [Napoleon hero replacement](napoleon-hero-update.md) records the newly supplied portrait that supersedes the initially reused hero described below.
+
 Six original articles, IDs 406 to 411, with complete EN/FR/AR/ES editions, localized headings, source links, three visible FAQs per edition and related reading. Ronaldo uses the existing Sport category and NewsArticle schema. The five evergreen features use the existing History category and Article schema.
 
 ## Evidence review

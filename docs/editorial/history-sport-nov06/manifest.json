@@ -24,24 +24,46 @@
   {
     "key": "napoleon",
     "slug": "napoleon-height-short-emperor-myth-truth",
-    "original": "napoleon-french-empire-france-paris.png",
-    "sourceSha256": "ca44ebffb67a50892992b0d21ce72eedd2d9b3e2810432a8527acae5b7e001bd",
-    "sha256": "ca44ebffb67a50892992b0d21ce72eedd2d9b3e2810432a8527acae5b7e001bd",
+    "original": "1-1000088995.jpg",
+    "sourceSha256": "ab8a71cf7c706b0494a53bd08a2050f2fe47bbbc1a34a35e03ea9ce1364f7705",
+    "sha256": "ab8a71cf7c706b0494a53bd08a2050f2fe47bbbc1a34a35e03ea9ce1364f7705",
     "sourceDimensions": [
-      1672,
-      941
+      1280,
+      720
     ],
-    "format": "png",
+    "format": "jpeg",
     "sourceMetadata": {
       "exif": false,
       "xmp": false,
       "iptc": false
     },
-    "bytes": 2398250,
-    "image": "/articles/napoleon-short-emperor-myth-editorial.png",
+    "bytes": 122026,
+    "image": "/articles/napoleon-short-emperor-myth-approved-portrait.jpg",
     "credit": "Editorial image supplied for PRESDA",
     "creator": null,
-    "license": null
+    "license": null,
+    "previousArtwork": {
+      "key": "napoleon",
+      "slug": "napoleon-height-short-emperor-myth-truth",
+      "original": "napoleon-french-empire-france-paris.png",
+      "sourceSha256": "ca44ebffb67a50892992b0d21ce72eedd2d9b3e2810432a8527acae5b7e001bd",
+      "sha256": "ca44ebffb67a50892992b0d21ce72eedd2d9b3e2810432a8527acae5b7e001bd",
+      "sourceDimensions": [
+        1672,
+        941
+      ],
+      "format": "png",
+      "sourceMetadata": {
+        "exif": false,
+        "xmp": false,
+        "iptc": false
+      },
+      "bytes": 2398250,
+      "image": "/articles/napoleon-short-emperor-myth-editorial.png",
+      "credit": "Editorial image supplied for PRESDA",
+      "creator": null,
+      "license": null
+    }
   },
   {
     "key": "atlantis",

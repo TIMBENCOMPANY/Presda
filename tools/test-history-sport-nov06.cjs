@@ -1,7 +1,9 @@
 const fs=require('fs'),assert=require('assert/strict'),crypto=require('crypto');
 require('./register-typescript.cjs');
 const {articleSocialImage}=require('../src/lib/articleSocialImage.ts');
-const {historySportNov06Articles:articles}=require('../src/data/historySportNov06Articles.ts');
+const {historySportNov06Articles:allArticles}=require('../src/data/historySportNov06Articles.ts');
+const articles=process.env.ARTICLE_SLUG?allArticles.filter(a=>a.slug===process.env.ARTICLE_SLUG):allArticles;
+assert(articles.length,'Requested article must exist');
 const {getPublishedArticles}=require('../src/data/articles.ts');
 const {validateArticleParity}=require('./translation-parity.cjs');
 const {translationArticle}=require('../src/lib/i18n/article-presentation.ts');
@@ -11,6 +13,7 @@ const captions=require('../src/data/historySportNov06HeroCaptions.json');
 const {chromium}=require('C:/Users/Microsoft/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
 const sharp=require('sharp');
 const base=process.env.BASE_URL||'http://127.0.0.1:3058',stage=/localhost|127\.0\.0\.1/.test(base)?'local':'live',langs=['en','fr','ar','es'];
+const proofName=process.env.ARTICLE_SLUG?'napoleon-hero-nov06':'history-sport-nov06';
 const widths=stage==='local'?[[320,844],[390,844],[768,1024],[844,390],[1024,768],[1366,768],[1920,1080]]:[[1366,768],[390,844]];
 const hash=p=>crypto.createHash('sha256').update(fs.readFileSync(p)).digest('hex');
 async function main(){
@@ -95,6 +98,6 @@ try{
  for(const a of articles){const im=await fetch(base+a.coverImage);assert.equal(im.status,200);assert(im.headers.get('content-type').includes(a.coverImage.endsWith('.png')?'image/png':'image/jpeg'));assert(!/noindex/.test(im.headers.get('x-robots-tag')||''));assert.equal(crypto.createHash('sha256').update(Buffer.from(await im.arrayBuffer())).digest('hex'),manifest.find(x=>x.slug===a.slug).sha256,'Same original image bytes');for(const l of langs){const url='https://presda.com'+(l==='en'?'':'/'+l)+'/articles/'+a.slug+'/';const entry=sitemap.split('<url>').find(x=>x.includes('<loc>'+url+'</loc>'));assert(entry&&entry.includes('<image:loc>'+articleImageUrl(a.coverImage)+'</image:loc>'));}}
  const news=await(await fetch(base+'/news-sitemap.xml')).text();
  for(const a of articles)for(const l of langs){const route=(l==='en'?'':'/'+l)+'/articles/'+a.slug+'/';assert.equal(news.includes('https://presda.com'+route),a.schemaType==='NewsArticle','Evergreen Article records do not enter the news sitemap');const category=(l==='en'?'':'/'+l)+'/category/'+a.category.toLowerCase()+'/';const response=await fetch(base+category);assert.equal(response.status,200);const html=await response.text();assert(html.includes(route),'Article linked from its correct localized category');}
- fs.writeFileSync(`test-results/history-sport-nov06-${stage}.json`,JSON.stringify({bruno:refs,results},null,2));console.log('PASS:',results.length,'viewports, 24 editions, metadata, schema, links, crawl access and article/image sitemap mappings.');
+ fs.writeFileSync(`test-results/${proofName}-${stage}.json`,JSON.stringify({bruno:refs,results},null,2));console.log('PASS:',results.length,'viewports,',articles.length*4,'editions, metadata, schema, links, crawl access and article/image sitemap mappings.');
 }finally{await browser.close();}}
 main().catch(e=>{console.error(e);process.exit(1)});

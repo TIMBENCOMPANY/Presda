@@ -224,9 +224,8 @@
   {
     "key": "napoleon",
     "slug": "napoleon-height-short-emperor-myth-truth",
-    "attachment": "napoleon-french-empire-france-paris.png",
-    "sourcePath": "public/articles/napoleon-french-empire-france-paris.png",
-    "image": "napoleon-short-emperor-myth-editorial.png",
+    "attachment": "1-1000088995.jpg",
+    "image": "napoleon-short-emperor-myth-approved-portrait.jpg",
     "category": "History",
     "schemaType": "Article",
     "tags": [
@@ -249,7 +248,7 @@
         "Napoleon was around 1.68–1.69 metres tall. Discover how French measurements, military imagery and political cartoons helped shape the short-emperor myth.",
         "NAPOLEON",
         "SHORT EMPEROR MYTH",
-        "Reused PRESDA editorial illustration of Napoleon on horseback amid an imagined French imperial landscape."
+        "Supplied conceptual portrait of Napoleon in uniform, with imagined troops, a French flag and imperial symbols."
       ],
       "fr": [
         "NAPOLÉON : LA VÉRITÉ DERRIÈRE LE MYTHE DU PETIT EMPEREUR",
@@ -257,7 +256,7 @@
         "Napoléon mesurait environ 1,68 à 1,69 mètre. Mesures françaises, entourage militaire et caricatures éclairent le mythe du petit empereur.",
         "NAPOLÉON",
         "MYTHE DU PETIT EMPEREUR",
-        "Illustration éditoriale PRESDA réutilisée de Napoléon à cheval dans un paysage impérial imaginaire."
+        "Portrait conceptuel fourni de Napoléon en uniforme, avec des troupes imaginées, un drapeau français et des symboles impériaux."
       ],
       "ar": [
         "نابليون: الحقيقة وراء أسطورة الإمبراطور القصير",
@@ -265,7 +264,7 @@
         "بلغ طول نابليون نحو 1.68 إلى 1.69 متر. تعرف على دور المقاييس الفرنسية والصور العسكرية والكاريكاتير في أسطورة قصر قامته.",
         "نابليون",
         "الإمبراطور القصير",
-        "رسم تحريري معاد استخدامه من بريزدا لنابليون على جواد ضمن مشهد إمبراطوري متخيل."
+        "صورة تصورية مقدمة لنابليون بالزي العسكري، مع قوات متخيلة وعلم فرنسي ورموز إمبراطورية."
       ],
       "es": [
         "NAPOLEÓN: LA VERDAD TRAS EL MITO DEL EMPERADOR BAJO",
@@ -273,14 +272,14 @@
         "Napoleón medía aproximadamente 1,68–1,69 metros. Medidas francesas, imágenes militares y caricaturas ayudan a explicar el mito del emperador bajo.",
         "NAPOLEÓN",
         "MITO DEL EMPERADOR BAJO",
-        "Ilustración editorial de PRESDA reutilizada de Napoleón a caballo en un paisaje imperial imaginado."
+        "Retrato conceptual suministrado de Napoleón de uniforme, con tropas imaginadas, una bandera francesa y símbolos imperiales."
       ]
     },
     "disclosure": [
-      "Existing approved PRESDA illustration reused with permission. It combines imagined imperial scenes, not a documented event or a historically measured portrait. Architectural and costume details must not be treated as primary evidence.",
-      "Illustration PRESDA existante réutilisée avec autorisation. Elle combine des scènes impériales imaginaires, pas un événement documenté ni un portrait permettant une mesure historique.",
-      "رسم سابق معتمد من بريزدا أعيد استخدامه بإذن. يجمع مشاهد إمبراطورية متخيلة ولا يصور حدثاً موثقاً أو صورة تصلح لقياس الطول تاريخياً.",
-      "Ilustración previa de PRESDA reutilizada con autorización. Combina escenas imperiales imaginadas, no un hecho documentado ni un retrato que permita medir una altura histórica."
+      "Supplied conceptual portrait of Napoleon with imagined troops and imperial symbols. It is not an authenticated period portrait, a documented battle scene or evidence of his height.",
+      "Portrait conceptuel fourni de Napoléon avec des troupes imaginées et des symboles impériaux. Il ne s’agit ni d’un portrait d’époque authentifié, ni d’une bataille documentée, ni d’une preuve de sa taille.",
+      "صورة تصورية مقدمة لنابليون مع قوات متخيلة ورموز إمبراطورية. ليست صورة تاريخية موثقة أو مشهداً لمعركة مثبتة أو دليلاً على طوله.",
+      "Retrato conceptual suministrado de Napoleón con tropas imaginadas y símbolos imperiales. No es un retrato de época autenticado, una batalla documentada ni una prueba de su estatura."
     ],
     "blocks": [
       {

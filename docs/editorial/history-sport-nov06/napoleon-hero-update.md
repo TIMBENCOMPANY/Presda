@@ -1,0 +1,13 @@
+# Napoleon hero replacement, 6 November 2026
+
+The user supplied a new portrait after the six-article batch was published. It replaces the initially reused horse-and-imperial-landscape hero for the short-emperor myth article only. The older French Empire article and its original image are unchanged.
+
+Approved source: 1-1000088995.jpg. Native dimensions: 1280 by 720. Original size: 122,026 bytes. SHA-256: ab8a71cf7c706b0494a53bd08a2050f2fe47bbbc1a34a35e03ea9ce1364f7705. Public original: /articles/napoleon-short-emperor-myth-approved-portrait.jpg. The original is copied byte for byte, without cropping, stretching, regeneration or added text.
+
+The complete-image framing and viewport-capped desktop text area remain unchanged. EN/FR/AR/ES alt text and captions describe the supplied conceptual portrait, imagined troops and imperial symbols. They do not claim an authenticated period portrait, documented battle or evidence of height. Creator and licence remain unspecified because they were not supplied. The Article/ImageObject, responsive assets, image sitemap and dedicated social JPEG follow the new image path automatically. The new content-hashed share URL avoids reusing the old share-image asset; external platforms may retain their own cached page previews until they scrape again.
+
+The current manifest records the new source, dimensions and hash, retaining the previous artwork record for publication history. The original batch QA and README describe the initial release; this note records the subsequent replacement. Article prose, dates, sources, FAQs, canonicals, hreflang, related links, shared components and CSS are preserved.
+
+Verification gates: production build, global built social metadata checks, the four Napoleon language editions at seven local viewports (28 cases), desktop/mobile production checks (8 cases), direct source-image byte comparison and all-language visual review against Bruno. The existing batch regression supports ARTICLE_SLUG to run this focused image replacement check without modifying the full default suite.
+
+Pre-deployment results: production build passed with all 1,708 static pages; the hero guard and 2,067 decoded image-delivery checks passed. All 1,640 built article editions and 410 share JPEGs passed the social-preview check. All 28 focused local browser cases passed, including source geometry, RTL, desktop reading time above the fold, metadata, schema and image-sitemap associations. The eight Napoleon desktop/mobile hero screenshots were visually reviewed in EN/FR/AR/ES, alongside the shared Bruno reference. A preservation comparison confirms unchanged prose, dates, FAQs, related links, shared layout, other five batch articles and unrelated translations/routes.
