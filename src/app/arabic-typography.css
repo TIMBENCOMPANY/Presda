@@ -1,0 +1,36 @@
+/* Arabic-only variable font, self-hosted with its SIL Open Font License.
+   Preserve every other locale's font variables, layout and headline colors. */
+html[lang="ar"] {
+  --font-inter: "Cairo";
+  --font-article-display: "Cairo";
+  --font-orbitron: "Cairo";
+}
+
+html[lang="ar"] body,
+html[lang="ar"] .font-display,
+html[lang="ar"] .font-body {
+  font-family: "Cairo", Tahoma, Arial, sans-serif;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+html[lang="ar"] body { font-weight: 400; }
+html[lang="ar"] :is(h3, .font-display, nav a) { font-weight: 700; line-height: 1.6; letter-spacing: 0; }
+html[lang="ar"] :is(h1, h2),
+html[lang="ar"] :is(h1, h2).font-display { font-weight: 800; line-height: 1.6; letter-spacing: 0; }
+html[lang="ar"] main a :is(h2, h3).font-display,
+html[lang="ar"] :is(.category-featured-copy h2, .category-supporting-copy h2, .home-latest-copy h3),
+html[lang="ar"] main > header h1.font-display { font-weight: 700; }
+
+html[lang="ar"] :is(.editorial-deck, time, label, button, input, select, summary, figcaption) {
+  font-weight: 500;
+  letter-spacing: 0;
+}
+html[lang="ar"] .editorial-deck { line-height: 1.9; }
+html[lang="ar"] :is(.category-featured-copy p, .category-supporting-copy p, .home-latest-copy p) { font-weight: 500; }
+html[lang="ar"] :is(p.font-display, span.font-display, .home-latest-meta, .category-supporting-meta),
+html[lang="ar"] .article-hero-heading > div:last-child { font-weight: 600; }
+html[lang="ar"] :is(.article-hero-meta, .article-hero-header-date) { font-weight: 600; line-height: 1.8; }
+html[lang="ar"] .article-hero .article-hero-title { font-weight: 900; line-height: 1.45; letter-spacing: 0; }
+/* The shared badge uses inline Latin metrics. Arabic needs room for its marks. */
+html[lang="ar"] .category-badge { font-weight: 700 !important; line-height: 1.8 !important; }

@@ -9,6 +9,8 @@ import { AnalyticsConsentProvider } from "@/components/AnalyticsConsentProvider"
 import { getAdSenseAccountConfig } from "@/lib/adsenseAccountConfig";
 import { discoveryRobots, organizationJsonLd } from "@/lib/seo";
 import "@/app/globals.css";
+import "@/app/cairo-font.css";
+import "@/app/arabic-typography.css";
 import type { Locale } from "@/lib/i18n/routing";
 
 const orbitron = Orbitron({
@@ -67,6 +69,14 @@ export function PublicationDocument({ children, locale = "en" }: Readonly<{ chil
 
   return (
     <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"} className={`${orbitron.variable} ${inter.variable} ${articleDisplay.variable}`}>
+      {locale === "ar" && (
+        // Locale-specific resource hints belong to this root document's head.
+        // eslint-disable-next-line @next/next/no-head-element
+        <head>
+          <link rel="preload" href="/fonts/cairo/cairo-arabic-v31-400-900.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+          <link rel="preload" href="/fonts/cairo/cairo-latin-v31-400-900.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+        </head>
+      )}
       <body>
         <AdSenseProvider config={getAdSenseAccountConfig(process.env)}>
         <AnalyticsConsentProvider locale={locale}>

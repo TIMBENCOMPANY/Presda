@@ -1,0 +1,30 @@
+const fs=require('fs'),assert=require('assert/strict');
+require('postcss').parse(fs.readFileSync('src/app/arabic-typography.css','utf8')).walkRules(rule=>{
+ assert(require('postcss').list.comma(rule.selector).every(s=>s.trim().startsWith('html[lang="ar"]')),'Typography must remain Arabic-only: '+rule.selector);
+});
+const {chromium}=require('C:/Users/Microsoft/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const base=process.env.BASE_URL||'http://127.0.0.1:3060',baseline=process.argv.includes('--baseline'),stage=baseline?'baseline':base.includes('presda.com')?'live':'local';
+const routes=['/','/articles/','/category/world/','/articles/giordano-bruno-philosopher-heresy/'];
+const snapshots='test-results/arabic-ux-nov07';
+const styleKeys=['fontFamily','fontWeight','fontSize','lineHeight','letterSpacing'];
+(async()=>{fs.mkdirSync('test-results',{recursive:true});const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'}),results=[];
+try{for(const locale of ['en','fr','es','ar'])for(const [width,height]of [[1366,900],[390,844]])for(const route of locale==='ar'&&!baseline?[...routes,...['sport','business','ai','science','history','travel','lifestyle','paparazzi'].map(c=>'/category/'+c+'/'),...require('../src/data/translation-routes.json').filter(r=>r.locale==='ar'&&/[^\x00-\x7f]/.test(r.path)).map(r=>r.path.slice(3)),'/articles/morocco-green-march-51-november-6-history/','/articles/catatumbo-lightning-lake-maracaibo-recurring-storms/']:routes){
+ const context=await browser.newContext({viewport:{width,height}}),p=await context.newPage();const requests=[];p.on('request',r=>{if(r.url().includes('/fonts/cairo/'))requests.push(r.url());});
+ await p.addInitScript(()=>{localStorage.setItem('presda.analytics-consent.v1',JSON.stringify({version:1,choice:'rejected',savedAt:Date.now()}));window.__uxShifts=[];new PerformanceObserver(list=>{for(const e of list.getEntries())if(!e.hadRecentInput)window.__uxShifts.push(e.value);}).observe({type:'layout-shift',buffered:true});});
+ const url=base+(locale==='en'?'':'/'+locale)+route;assert.equal((await p.goto(url,{waitUntil:'domcontentloaded',timeout:90000})).status(),200);await p.evaluate(()=>document.fonts.ready);await p.waitForTimeout(350);
+ const data=await p.evaluate(keys=>{const visible=e=>{const r=e.getBoundingClientRect();return r.width&&r.height&&getComputedStyle(e).display!=='none';},samples=[...document.querySelectorAll('body, main h1, main h2, main h3, main p, nav a, .category-badge, .article-hero-header-date, button, input, summary')].filter(visible).map(e=>{const s=getComputedStyle(e);return{tag:e.tagName,text:e.textContent?.slice(0,65),className:e.className,style:Object.fromEntries(keys.map(k=>[k,s[k]])),overflow:e.scrollWidth>e.clientWidth+2};});const hero=document.querySelector('.article-hero'),bounds=e=>{const r=e.getBoundingClientRect();return{x:r.x,y:r.y,right:r.right,bottom:r.bottom,width:r.width,height:r.height}};return{lang:document.documentElement.lang,dir:document.documentElement.dir,overflow:document.documentElement.scrollWidth>innerWidth+1,samples,cls:window.__uxShifts.reduce((s,x)=>s+x,0),hero:hero?bounds(hero):null,heroText:hero?[...hero.querySelectorAll('h1,.article-hero-deck,.article-hero-header-date,.article-hero-heading > div:last-child')].map(bounds):[],cairoLoaded:document.fonts.check('800 24px Cairo','العربية')};},styleKeys);
+ assert.equal(data.lang,locale);assert.equal(data.dir,locale==='ar'?'rtl':'ltr');assert(!data.overflow,url+' document overflow');
+ if(!baseline&&locale==='ar'){assert(data.cairoLoaded);assert(requests.length,'Cairo font downloaded');for(const s of data.samples)assert(s.style.fontFamily.includes('Cairo'),'Wrong Arabic font: '+s.tag+' '+s.className);assert(data.cls<0.1,'Arabic CLS '+data.cls+' '+url);for(const s of data.samples.filter(s=>s.tag==='H1'))assert(['700','800','900'].includes(s.style.fontWeight));for(const r of data.heroText)assert(r.x>=data.hero.x-1&&r.right<=data.hero.right+1&&r.y>=data.hero.y-1&&r.bottom<=data.hero.bottom+1,'Hero text clipped');}
+ if(!baseline&&locale!=='ar'){assert.equal(requests.length,0,'Cairo must not download in other locales');const before=JSON.parse(fs.readFileSync(snapshots+'-baseline.json')).results.find(x=>x.locale===locale&&x.width===width&&x.route===route);assert.deepEqual(data.samples.map(x=>x.style),before.data.samples.map(x=>x.style),'Non-Arabic typography changed '+url);}
+ if(!baseline&&locale==='ar'){
+  for(const weight of await p.locator('.article-hero-header-date,.article-hero-heading > div:last-child').evaluateAll(xs=>xs.map(e=>getComputedStyle(e).fontWeight)))assert.equal(weight,'600','Arabic metadata weight');
+  for(const weight of await p.locator('.article-hero-title').evaluateAll(xs=>xs.map(e=>getComputedStyle(e).fontWeight)))assert.equal(weight,'900','Arabic hero weight');
+ }
+ if(!baseline&&locale==='ar'&&route==='/articles/'){const input=p.locator('main input').first();await input.fill('المغرب');await p.waitForTimeout(250);assert((await input.inputValue())==='المغرب');await input.clear();}
+ if(!baseline&&locale==='ar'&&route==='/'&&width===390){const trigger=p.locator('button[aria-controls="presda-site-menu"]');await trigger.click();const menu=p.locator('#presda-site-menu');assert(await menu.isVisible());assert((await menu.evaluate(e=>getComputedStyle(e).fontFamily)).includes('Cairo'));await trigger.click();}
+ if(locale==='ar'&&routes.includes(route))await p.screenshot({path:snapshots+'-'+stage+'-'+(route==='/'?'home':route.includes('category')?'category':route==='/articles/'?'latest':'article')+'-'+width+'.png',fullPage:false});
+ results.push({locale,width,height,route,data,fontRequests:requests.length});await context.close();console.log('PASS',stage,locale,width,route);
+ }
+ fs.writeFileSync(snapshots+'-'+stage+'.json',JSON.stringify({results},null,2));console.log('PASS:',results.length,'localized page/viewports; Arabic fonts and non-Arabic preservation.');
+}finally{await browser.close();}})().catch(e=>{console.error(e);process.exit(1)});
+

@@ -1,0 +1,26 @@
+{
+  "stylesheet": "https://fonts.googleapis.com/css2?family=Cairo:wght@400..900&display=swap",
+  "assets": [
+    {
+      "subset": "arabic",
+      "filename": "cairo-arabic-v31-400-900.woff2",
+      "source": "https://fonts.gstatic.com/s/cairo/v31/SLXVc1nY6HkvangtZmpQdkhzfH5lkSscQyyS4J0.woff2",
+      "bytes": 30896,
+      "sha256": "748022f50c427456ad66031e855349be3448ee1f05a5f1eb59574ebe0c686749"
+    },
+    {
+      "subset": "latin-ext",
+      "filename": "cairo-latin-ext-v31-400-900.woff2",
+      "source": "https://fonts.gstatic.com/s/cairo/v31/SLXVc1nY6HkvangtZmpQdkhzfH5lkSscSCyS4J0.woff2",
+      "bytes": 16648,
+      "sha256": "da6ada83c3a87c2f0211325dc0a123702e1d4a940958b3e943ac4f37b31d5371"
+    },
+    {
+      "subset": "latin",
+      "filename": "cairo-latin-v31-400-900.woff2",
+      "source": "https://fonts.gstatic.com/s/cairo/v31/SLXVc1nY6HkvangtZmpQdkhzfH5lkSscRiyS.woff2",
+      "bytes": 33820,
+      "sha256": "82c13cbd1352d76e97c3d335caa912ae68fecdc3949a43cf8d149eb892384c1b"
+    }
+  ]
+}

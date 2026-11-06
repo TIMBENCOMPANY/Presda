@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node tools/test-hero-contract.cjs && node tools/prepare-translations.cjs && node tools/prepare-images.cjs && node tools/prepare-social-images.cjs && next build && node tools/test-social-previews.cjs",
+    "build": "node tools/test-hero-contract.cjs && node tools/prepare-translations.cjs && node tools/test-arabic-url-policy.cjs && node tools/prepare-images.cjs && node tools/prepare-social-images.cjs && next build && node tools/test-social-previews.cjs",
     "test:i18n": "node tools/prepare-translations.cjs && node tools/test-i18n.cjs && node tools/test-multilingual-pilot.cjs && node tools/test-translation-library.cjs && node tools/test-citation-repairs.cjs && node tools/test-invariant-blocks.cjs && node tools/test-reading-time.cjs",
     "start": "next start",
     "test:headlines": "node tools/prepare-translations.cjs && node tools/test-headlines.cjs",
@@ -25,7 +25,8 @@
     "test:nature-sport-tech": "node tools/test-nature-sport-tech-nov05.cjs",
     "test:mind-existence": "node tools/test-mind-existence-nov05.cjs",
     "test:history-sport": "node tools/test-history-sport-nov06.cjs",
-    "test:green-march": "node tools/test-green-march-nov06.cjs"
+    "test:green-march": "node tools/test-green-march-nov06.cjs",
+    "test:arabic-ux": "node tools/test-arabic-url-policy.cjs && node tools/test-arabic-ux.cjs"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",
