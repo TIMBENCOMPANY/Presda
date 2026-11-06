@@ -1,3 +1,4 @@
+import { historySportNov06Articles } from "@/data/historySportNov06Articles";
 import { mindExistenceNov05Articles } from "@/data/mindExistenceNov05Articles";
 import { natureSportTechNov05Articles } from "@/data/natureSportTechNov05Articles";
 import { worldWildlifeNov04Articles } from "@/data/worldWildlifeNov04Articles";
@@ -211,6 +212,8 @@ export type Article = {
   coverAlt: string;
   homepageImagePosition?: string;
   heroImageFit?: "cover" | "contain";
+  /** Keep the complete approved composition when a shorter frame would crop subjects. */
+  heroPreserveAspect?: boolean;
   content: string[];
   quote?: string;
   source?: {
@@ -234,6 +237,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  ...historySportNov06Articles,
   ...mindExistenceNov05Articles,
   ...natureSportTechNov05Articles,
   ...worldWildlifeNov04Articles,

@@ -1,0 +1,15 @@
+# Pre-publication verification, 6 November 2026
+
+The final combined build includes the existing category-badge update from 48d349bf673a3e18fcb4369f3f7d7c9bdbbf354a. No remote changes were discarded.
+
+- Production compilation, lint and TypeScript checks passed; all 1,708 static pages generated. The existing ReaderPoll image lint warning remains unrelated to this batch.
+- Translation preparation: 1,230 complete translations. The library check covers 410 source articles with zero fallbacks. Multilingual routing, metadata/schema, editorial parity, invariant blocks, Arabic reading time and all 1,640 headline accents passed.
+- Image policy: 471 published sources and 2,063 decoded delivery files. All six approved original hashes and dimensions match the recorded source files. The reused Napoleon image retains its original bytes. The two documentary WebPs have credited sources and public-domain links.
+- Built social-preview check: all 1,640 article editions and 410 decoded share JPEGs passed, with article-specific images and no logo fallback.
+- Hero contract, category-badge and featured-carousel regressions passed. The complete-image option is mapped into all three translated presentation records and has its own regression assertion.
+- Final local browser suite: 168 successful cases across 24 editions and seven viewports: 320 by 844, 390 by 844, 768 by 1024, 844 by 390, 1024 by 768, 1366 by 768 and 1920 by 1080. Assertions cover native-ratio image geometry, source edges, no transforms, no horizontal overflow, text bounds, desktop/portrait-mobile read-time visibility, RTL, canonicals, reciprocal hreflang, schema/citations, hero disclosures, FAQ questions, related links, category discovery and image/article sitemap mappings. Only the Ronaldo NewsArticle enters the news sitemap.
+- All desktop cases keep reading time above the fold. At 1366 by 768, the largest measured reading-time bottom was 697 pixels.
+- Visual review: 50 complete hero screenshots, comprising every edition at desktop/mobile and Bruno at both widths. All 12 language contact sheets and both direct Bruno comparison sheets were inspected. Images retain complete compositions; white/red/yellow titles, subtitles, category/date and read-time rows are visible. Arabic direction and date/category placement are correct.
+- Preservation comparison: all 404 existing articles' image-rights results, 1,200 generated translation records, 1,212 routing records and 465 original-image dimension entries are unchanged. All pre-existing CSS matches the current remote baseline before the new opt-in rules.
+
+Production release gates: require the exact commit to reach READY with the presda.com alias, then run 48 live desktop/mobile browser cases, inspect 24 raw Meta-crawler page responses and fetch all 20 original/SEO/social/documentary image URLs. Save production results and the published URLs in the workspace outputs directory. External search indexing and social cache refreshes are outside these availability checks.

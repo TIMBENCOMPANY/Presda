@@ -1,0 +1,121 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/mona-lisa-lisa-gherardini-woman-behind-smile/",
+  "path": "/es/articles/mona-lisa-lisa-gherardini-woman-behind-smile/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-06",
+    "terminologyChecked": true
+  },
+  "title": "LA MONA LISA: ¿QUIÉN ERA LA MUJER DETRÁS DE LA SONRISA?",
+  "seoTitle": "¿Quién era la Mona Lisa? Lisa Gherardini y las pruebas",
+  "description": "El Louvre identifica a Lisa Gherardini. Explora el documento de 1503, el retrato de Leonardo y los límites de las teorías sobre su sonrisa.",
+  "excerpt": "El Louvre identifica a Lisa Gherardini. Explora el documento de 1503, el retrato de Leonardo y los límites de las teorías sobre su sonrisa.",
+  "headlineHighlights": {
+    "red": "MONA LISA",
+    "gold": "MUJER DETRÁS DE LA SONRISA"
+  },
+  "keywords": [
+    "MONA LISA",
+    "MUJER DETRÁS DE LA SONRISA"
+  ],
+  "searchIntent": "El Louvre identifica a Lisa Gherardini. Explora el documento de 1503, el retrato de Leonardo y los límites de las teorías sobre su sonrisa.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "image": {
+    "src": "/articles/mona-lisa-lisa-gherardini-conceptual-editorial.jpg",
+    "alt": "Composición conceptual inspirada en la Mona Lisa con objetos de taller imaginados, no reproducción de la pintura original.",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El Louvre identifica a la mujer como Lisa Gherardini, esposa del comerciante florentino Francesco del Giocondo. La respuesta está mejor fundamentada de lo que sugiere el catálogo de identidades secretas. El misterio cambia: ¿cómo se convirtió el retrato de una persona en una imagen sobre la que proyectamos tantas historias? Identidad, decisiones artísticas y significado de la sonrisa están relacionados, pero no son la misma pregunta. [Fuente: Louvre](https://collections.louvre.fr/ark:/53355/cl010062370)"
+    },
+    {
+      "type": "heading",
+      "text": "Lisa Gherardini en los documentos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Archivos de Estado de Florencia vinculan la identificación con Giorgio Vasari y sitúan el matrimonio en 1495. El comercio de seda del marido coloca el retrato en la vida social florentina. Es un punto de partida mejor que tratar a la mujer como código anónimo. Los documentos establecen relaciones y acontecimientos sin recuperar sus pensamientos. Una identidad documentada no es una biografía privada completa. [Fuente: Florence State Archives](https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/la-gioconda-o-monna-lisa)"
+    },
+    {
+      "type": "heading",
+      "text": "La nota de 1503"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una prueba importante aparece en un libro de Heidelberg. La nota marginal de Agostino Vespucci, fechada en octubre de 1503, menciona a Leonardo trabajando en el retrato de Lisa del Giocondo. La universidad explica cómo apoya la identificación asociada al posterior relato de Vasari. No es una carta de Lisa ni un mensaje oculto en la pintura. Su fuerza es conectar con fecha artista, modelo y obra en curso. [Fuente: Heidelberg University](https://www.uni-heidelberg.de/press/news/press552e.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Un retrato en el que Leonardo siguió trabajando"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Louvre fecha la obra entre 1503 y 1519: comenzó en Florencia, probablemente para Francesco, y Leonardo la conservó mientras seguía trabajando. Un solo año no resume toda su historia. Encargo, sesiones, ejecución y propiedad son etapas distintas. No fue un encuentro rápido preservado intacto. El catálogo identifica también óleo sobre álamo, vinculando el debate a un objeto material y no a una leyenda sin soporte. [Fuente: Louvre](https://collections.louvre.fr/ark:/53355/cl010062370)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué la sonrisa resiste una explicación única"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Louvre destaca el tratamiento de la modelo y la atmósfera de la imagen. Las transiciones suaves, en vez de contornos tajantes, dificultan fijar la expresión. Identificar una técnica no identifica la emoción exacta durante una sesión. Una sonrisa no revela un diagnóstico, relación secreta o pensamiento privado sin pruebas independientes. Observar enriquece la interpretación sin recuperar por completo la vida interior. [Fuente: Louvre](https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana)"
+    },
+    {
+      "type": "heading",
+      "text": "El original y el taller imaginado"
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen principal es una composición inspirada en el retrato. Libros, vela, dibujos y disposición no fotografían el taller de Leonardo ni pertenecen al cuadro. La reproducción documental permite comparar la obra y la escena imaginada. Es importante para una pintura continuamente reinventada: una ilustración puede invitar a la historia sin demostrar el escenario que inventa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa Gherardini no pierde interés al descartar una teoría sensacionalista. Las pruebas sitúan a una florentina real detrás de una obra mayor que cualquier biografía individual. Podemos identificarla con más confianza que explicar cada motivo de la sonrisa. Respetar esa diferencia toma en serio mujer y obra: los documentos establecen unas cosas, la pintura crea otras y no toda incertidumbre es un código."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [Cómo una imagen alimentó el mito de Napoleón](/articles/napoleon-height-short-emperor-myth-truth/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: Louvre",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010062370"
+    },
+    {
+      "label": "Fuente: Florence State Archives",
+      "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/la-gioconda-o-monna-lisa"
+    },
+    {
+      "label": "Fuente: Heidelberg University",
+      "url": "https://www.uni-heidelberg.de/press/news/press552e.html"
+    },
+    {
+      "label": "Fuente: Louvre",
+      "url": "https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quién era la Mona Lisa?",
+      "answer": "El Louvre identifica a Lisa Gherardini, esposa del comerciante florentino Francesco del Giocondo."
+    },
+    {
+      "question": "¿Qué apoya la identificación?",
+      "answer": "La tradición asociada con Vasari se refuerza con la nota marginal de Agostino Vespucci de octubre de 1503."
+    },
+    {
+      "question": "¿La sonrisa revela su emoción exacta?",
+      "answer": "No. Técnica e interpretación no establecen una emoción privada precisa sin pruebas independientes."
+    }
+  ]
+}

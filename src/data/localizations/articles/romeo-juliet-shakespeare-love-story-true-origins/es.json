@@ -1,0 +1,121 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/romeo-juliet-shakespeare-love-story-true-origins/",
+  "path": "/es/articles/romeo-juliet-shakespeare-love-story-true-origins/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-06",
+    "terminologyChecked": true
+  },
+  "title": "ROMEO Y JULIETA: LOS VERDADEROS ORÍGENES DE LA HISTORIA DE SHAKESPEARE",
+  "seoTitle": "Romeo y Julieta: los verdaderos orígenes literarios",
+  "description": "Shakespeare recurrió a relatos italianos, franceses e ingleses anteriores. Sigue las fuentes de Romeo y Julieta y distingue literatura y leyenda.",
+  "excerpt": "Shakespeare recurrió a relatos italianos, franceses e ingleses anteriores. Sigue las fuentes de Romeo y Julieta y distingue literatura y leyenda.",
+  "headlineHighlights": {
+    "red": "ROMEO Y JULIETA",
+    "gold": "VERDADEROS ORÍGENES"
+  },
+  "keywords": [
+    "ROMEO Y JULIETA",
+    "VERDADEROS ORÍGENES"
+  ],
+  "searchIntent": "Shakespeare recurrió a relatos italianos, franceses e ingleses anteriores. Sigue las fuentes de Romeo y Julieta y distingue literatura y leyenda.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "image": {
+    "src": "/articles/romeo-juliet-literary-romance-conceptual-editorial.jpg",
+    "alt": "Ilustración histórica conceptual de dos amantes en un entorno inspirado en Verona, no retratos documentales.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Los orígenes de Romeo y Julieta se encuentran en libros, no en una carta recuperada de dos adolescentes medievales identificados. Shakespeare transformó una historia que pasó por la escritura italiana, francesa e inglesa. Su logro no fue inventar cada incidente, sino volver inmediato el material mediante lenguaje, personajes y ritmo. Seguir ese recorrido no disminuye el romance: explica cómo llegó más allá de su primer mundo."
+    },
+    {
+      "type": "heading",
+      "text": "El poema inglés detrás de la obra"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Royal Shakespeare Company identifica el poema narrativo de Arthur Brooke de 1562 The Tragicall Historye of Romeus and Juliet como fuente inmediata. Ya contenía familias rivales, relación secreta, intermediarios y el fallo fatal de comunicación. Es una relación literaria documentada, no una afirmación de que Brooke presenciara los hechos. Una fuente impresa puede ser real y sus amantes ficticios. [Fuente: Royal Shakespeare Company](https://www.rsc.org.uk/romeo-and-juliet/about-the-play/dates-and-sources)"
+    },
+    {
+      "type": "heading",
+      "text": "Un relato italiano atraviesa idiomas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La explicación cívica de Verona remite a una versión importante de Luigi da Porto, que situó allí a los amantes. Otras reescrituras desarrollaron el material antes de Shakespeare. Una ciudad real y apellidos reconocibles dan verosimilitud sin probar la trama. La larga relación de Verona con la leyenda tiene su propia historia cultural, distinta de demostrar la existencia de los amantes. [Fuente: Verona Civic Museums](https://casadigiulietta.comune.verona.it/nqcontent.cfm?a_id=78283)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La RSC describe el paso por Matteo Bandello y la versión francesa de Pierre Boaistuau de 1559, utilizada por Brooke. Cambiaron detalles, incluido el desarrollo de las muertes. No era un expediente histórico sellado que pasaba intacto entre autores, sino material adaptable. Cada versión elegía suspense, moral y simpatía, preparando la transformación de Shakespeare. [Fuente: Royal Shakespeare Company](https://www.rsc.org.uk/romeo-and-juliet/about-the-play/dates-and-sources)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué cambió Shakespeare"
+    },
+    {
+      "type": "paragraph",
+      "text": "El tiempo fue un cambio decisivo. Frente a los meses del relato anterior, Shakespeare concentra la acción en unos pocos días urgentes. Las decisiones chocan antes de que los personajes asimilen sus consecuencias. Esa presión dramática importa más que leer la obra como calendario de un escándalo real. Rastrear fuentes no lo convierte en copista: la organización y experiencia de una historia cambian aunque herede incidentes. [Fuente: Royal Shakespeare Company](https://www.rsc.org.uk/romeo-and-juliet/about-the-play/dates-and-sources)"
+    },
+    {
+      "type": "heading",
+      "text": "El texto impreso tiene su historia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Folger distingue un primer cuarto de 1597, un segundo de 1599 y posteriores ediciones y decisiones editoriales. Esos libros son pruebas materiales de transmisión. Sus diferencias recuerdan que una obra célebre tiene historia material, sin aportar certificados de nacimiento de Romeo y Julieta. La historia del texto y la verdad histórica de su argumento exigen preguntas distintas. [Fuente: Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/romeo-and-juliet/textual-notes/)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Hubo amantes reales detrás?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La guía del Metropolitan Opera trata la historia como ficción y advierte que apellidos italianos reales no demuestran la rivalidad legendaria. Podemos documentar un linaje literario sin identificar una pareja cuya vida corresponda a la obra. La imagen también representa personajes imaginados, no retratos recuperados. Su verdad emocional pertenece a la interpretación. Shakespeare logra que nos importen intensamente personas que no necesitan haber existido. [Fuente: Metropolitan Opera](https://www.metopera.org/discover/education/educator-guides/romeo-et-juliette/fun-facts/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [La historia de San Valentín](/articles/valentines-day-february-14-history-facts-myths/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: Royal Shakespeare Company",
+      "url": "https://www.rsc.org.uk/romeo-and-juliet/about-the-play/dates-and-sources"
+    },
+    {
+      "label": "Fuente: Verona Civic Museums",
+      "url": "https://casadigiulietta.comune.verona.it/nqcontent.cfm?a_id=78283"
+    },
+    {
+      "label": "Fuente: Folger Shakespeare Library",
+      "url": "https://www.folger.edu/explore/shakespeares-works/romeo-and-juliet/textual-notes/"
+    },
+    {
+      "label": "Fuente: Metropolitan Opera",
+      "url": "https://www.metopera.org/discover/education/educator-guides/romeo-et-juliette/fun-facts/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Shakespeare inventó toda la historia?",
+      "answer": "No. Su fuente inmediata fue el poema de Brooke de 1562, parte de una tradición italiana y francesa anterior."
+    },
+    {
+      "question": "¿Fue una pareja histórica comprobada?",
+      "answer": "Estas fuentes no establecen una pareja que corresponda a la obra. Lugares y apellidos reales no autentican la trama."
+    },
+    {
+      "question": "¿Cuándo se imprimió la obra?",
+      "answer": "El primer cuarto apareció en 1597 y un segundo importante en 1599."
+    }
+  ]
+}

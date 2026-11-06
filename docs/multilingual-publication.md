@@ -45,4 +45,6 @@ Publishing a complete record automatically adds its static page, localized searc
 
 ## Regression coverage
 
+For article imagery and cross-language presentation options, follow [Article hero framing](design-system/article-hero.md). A complete translation must preserve the source hero framing option as well as its approved image assignment.
+
 The pilot test protects all twelve existing translations. The library test covers every English article's blank draft shape and fallback, all source table formats, inline FAQs, partial language sets, shared rendering and Article/NewsArticle schema. Synthetic translations exist only in the test process and never enter publication files. No test assumes the whole library must remain limited to twelve translations.

@@ -1,0 +1,25 @@
+Napoléon aurait dominé l’Europe tout en étant minuscule. Cette seconde image est trompeuse : les mesures historiques les plus connues le situent autour de 1,68 à 1,69 mètre, une taille globalement ordinaire pour son époque. La question intéressante est donc moins celle d’un empereur miniature que celle des mesures, des comparaisons visuelles et des récits hostiles qui ont associé son nom à la petitesse.
+
+## Quelle était sa taille ?
+
+L’historien Thierry Lentz, pour la Fondation Napoléon, donne cinq pieds, deux pouces et trois lignes dans l’ancien système français, soit environ 1,686 mètre. Cette donnée passe par des conventions historiques, pas par un examen clinique moderne. L’arrondir vers 1,68 ou 1,69 mètre est plus raisonnable que de garantir le dernier millimètre. L’essentiel est comparatif : Napoléon n’était pas exceptionnellement petit parmi ses contemporains. [Source: Fondation Napoléon](https://www.napoleon.org/en/history-of-the-two-empires/articles/was-napoleon-small)
+
+## Pourquoi cinq pieds deux peut tromper
+
+Le pied français et le pied britannique n’étaient pas interchangeables. Lire un chiffre français ancien comme une mesure anglaise moderne raccourcit considérablement le personnage. Les témoignages réunis par la Napoleon Series comprennent la distinction explicite de Corvisart entre ces systèmes. Les impressions varient aussi selon l’observateur et le moment. Elles sont utiles, mais petit ou mince ne sont pas des instruments étalonnés : mesure et témoignage demandent leur contexte. [Source: Napoleon Series](https://www.napoleon-series.org/biographies/napoleon/first-hand-descriptions-of-napoleon/)
+
+## Les hommes qui l’entouraient
+
+La comparaison compte également. Lentz rappelle l’entourage de soldats imposants, notamment des gardes de grande taille coiffés de hauts couvre-chefs. Paraître petit à côté d’une élite militaire sélectionnée ne signifie pas être anormalement petit dans la population. Le surnom petit caporal appartient au récit, mais ce n’est pas un relevé de taille. Inutile de remplacer le mythe par celui d’un Napoléon exceptionnellement grand : une stature ordinaire suffit. [Source: Fondation Napoléon](https://www.napoleon.org/en/history-of-the-two-empires/articles/was-napoleon-small)
+
+## La caricature fait de la taille un argument
+
+L’estampe de James Gillray de 1805, The Plumb-Pudding in Danger, en donne un exemple. Le Metropolitan Museum décrit Napoléon et William Pitt partageant un pudding en forme de globe : l’Europe pour l’un, l’océan pour l’autre. La petite figure de Napoléon sert le trait politique. L’œuvre documente une représentation hostile, pas les dimensions littérales du corps. Sa force visuelle aide à comprendre la survie du stéréotype. [Source: The Met](https://www.metmuseum.org/art/collection/search/367748)
+
+## Un surnom n’est pas un diagnostic
+
+Le complexe de Napoléon transforme le stéréotype en théorie de personnalité. C’est une autre affirmation, qu’une estimation historique ne démontre pas. Expliquer guerres et ambition par une insécurité supposée remplace l’étude des institutions, des stratégies et du pouvoir par une histoire facile. Corriger la taille n’excuse ni les politiques ni le projet impérial. Cela retire une explication faible pour laisser place aux questions sérieuses.
+
+La vérité est moins spectaculaire mais plus révélatrice : un empereur de taille approximativement ordinaire est devenu un symbole durable de petitesse. Unités, entourage et satire ont joué des rôles distincts. Le visuel approuvé est une composition impériale imaginaire ; l’estampe documentaire présentée ici est une source d’époque. Les distinguer participe de la même rigueur qui empêche l’histoire de devenir un nouveau mythe.
+
+À lire également: [L’histoire plus large des empires français](/articles/french-empire-napoleon-colonial-history-rise-fall/).

@@ -1,0 +1,134 @@
+[
+  {
+    "key": "ronaldo",
+    "slug": "cristiano-ronaldo-portugal-retirement-november-2026",
+    "original": "2-1000088988.jpg",
+    "sourceSha256": "85b8f529328519c95fb78a04d419676957e3c7e3618df894500bc75d488d7e1c",
+    "sha256": "85b8f529328519c95fb78a04d419676957e3c7e3618df894500bc75d488d7e1c",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 62545,
+    "image": "/articles/cristiano-ronaldo-portugal-retirement-editorial-nov2026.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "napoleon",
+    "slug": "napoleon-height-short-emperor-myth-truth",
+    "original": "napoleon-french-empire-france-paris.png",
+    "sourceSha256": "ca44ebffb67a50892992b0d21ce72eedd2d9b3e2810432a8527acae5b7e001bd",
+    "sha256": "ca44ebffb67a50892992b0d21ce72eedd2d9b3e2810432a8527acae5b7e001bd",
+    "sourceDimensions": [
+      1672,
+      941
+    ],
+    "format": "png",
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 2398250,
+    "image": "/articles/napoleon-short-emperor-myth-editorial.png",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "atlantis",
+    "slug": "atlantis-lost-civilization-plato-history-evidence",
+    "original": "3-1000088992.jpg",
+    "sourceSha256": "eb2065893be502116ecec825d76a623eefe13ab00de205699dcdb2d8f0e799ed",
+    "sha256": "eb2065893be502116ecec825d76a623eefe13ab00de205699dcdb2d8f0e799ed",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 167386,
+    "image": "/articles/atlantis-plato-imagined-underwater-city-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "romeo",
+    "slug": "romeo-juliet-shakespeare-love-story-true-origins",
+    "original": "1-1000088984.jpg",
+    "sourceSha256": "2248384ec447d1fdb975c3c58d9c62b5cb161447bd5523eb525f5d19b67560e7",
+    "sha256": "2248384ec447d1fdb975c3c58d9c62b5cb161447bd5523eb525f5d19b67560e7",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 176292,
+    "image": "/articles/romeo-juliet-literary-romance-conceptual-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "valentine",
+    "slug": "valentines-day-february-14-history-facts-myths",
+    "original": "5-1000088991.jpg",
+    "sourceSha256": "be4158c71adf531ea3a85e066bf2d2d8bbe320927797bb1917f27ce611939a8a",
+    "sha256": "be4158c71adf531ea3a85e066bf2d2d8bbe320927797bb1917f27ce611939a8a",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "format": "jpeg",
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 188560,
+    "image": "/articles/valentines-day-saint-romance-conceptual-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "monalisa",
+    "slug": "mona-lisa-lisa-gherardini-woman-behind-smile",
+    "original": "4-1000088985.jpg",
+    "sourceSha256": "7a274b4e9fb6a6dfa95829841ce5fe5e4c47c7b9a497d805d5f9be227f4bf314",
+    "sha256": "7a274b4e9fb6a6dfa95829841ce5fe5e4c47c7b9a497d805d5f9be227f4bf314",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "format": "jpeg",
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 136213,
+    "image": "/articles/mona-lisa-lisa-gherardini-conceptual-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  }
+]

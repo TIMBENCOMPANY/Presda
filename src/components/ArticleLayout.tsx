@@ -1,4 +1,6 @@
 import { CategoryBadge } from "@/components/CategoryBadge";
+import historySportNov06HeroCaptions from "@/data/historySportNov06HeroCaptions.json";
+import { HistorySportNov06Document } from "@/components/HistorySportNov06Document";
 import mindExistenceNov05HeroCaptions from "@/data/mindExistenceNov05HeroCaptions.json";
 import natureSportTechNov05HeroCaptions from "@/data/natureSportTechNov05HeroCaptions.json";
 import worldWildlifeNov04HeroCaptions from "@/data/worldWildlifeNov04HeroCaptions.json";
@@ -345,7 +347,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
 
   return (
     <main className="home-page" data-article-locale={locale}>
-      {locale !== "en" && (article.slug in preparedHeroesOct31HeroCaptions || article.slug in scienceAiNov01HeroCaptions || article.slug in discoveriesSportNov01HeroCaptions || article.slug in featuresNov01HeroCaptions || article.slug in travelCultureNov03HeroCaptions || article.slug in natureHistoryNov04HeroCaptions || article.slug in worldWildlifeNov04HeroCaptions || article.slug in natureSportTechNov05HeroCaptions || article.slug in mindExistenceNov05HeroCaptions || article.slug in worldBusinessNov02HeroCaptions) && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd([
+      {locale !== "en" && (article.slug in preparedHeroesOct31HeroCaptions || article.slug in scienceAiNov01HeroCaptions || article.slug in discoveriesSportNov01HeroCaptions || article.slug in featuresNov01HeroCaptions || article.slug in travelCultureNov03HeroCaptions || article.slug in natureHistoryNov04HeroCaptions || article.slug in worldWildlifeNov04HeroCaptions || article.slug in natureSportTechNov05HeroCaptions || article.slug in mindExistenceNov05HeroCaptions || article.slug in historySportNov06HeroCaptions || article.slug in worldBusinessNov02HeroCaptions) && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd([
         { name: t.home, url: languageDestination("/", locale, translationRoutes) },
         { name: t.articles, url: languageDestination("/articles/", locale, translationRoutes) },
         { name: localizedCategories[locale][article.category], url: languageDestination(`/category/${toCategorySlug(article.category)}/`, locale, translationRoutes) },
@@ -363,7 +365,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </Link>
         </nav>
 
-        <header style={{ "--hero-image-ratio": heroDimensions.width / heroDimensions.height } as CSSProperties} className={`article-hero${(article.slug in preparedHeroesOct31HeroCaptions || article.slug in scienceAiNov01HeroCaptions || article.slug in discoveriesSportNov01HeroCaptions || article.slug in featuresNov01HeroCaptions || article.slug in travelCultureNov03HeroCaptions || article.slug in natureHistoryNov04HeroCaptions || article.slug in worldWildlifeNov04HeroCaptions || article.slug in natureSportTechNov05HeroCaptions || article.slug in mindExistenceNov05HeroCaptions || article.slug in worldBusinessNov02HeroCaptions) ? " article-hero--full-image" : ""}${article.heroImageFit === "contain" ? " article-hero--natural-frame" : ""}${article.slug === "bacteria-good-bad-microbes-shape-our-lives" ? " article-hero--bacteria" : ""}${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
+        <header data-preserve-aspect={article.heroPreserveAspect || undefined} style={{ "--hero-image-ratio": heroDimensions.width / heroDimensions.height } as CSSProperties} className={`article-hero${(article.slug in preparedHeroesOct31HeroCaptions || article.slug in scienceAiNov01HeroCaptions || article.slug in discoveriesSportNov01HeroCaptions || article.slug in featuresNov01HeroCaptions || article.slug in travelCultureNov03HeroCaptions || article.slug in natureHistoryNov04HeroCaptions || article.slug in worldWildlifeNov04HeroCaptions || article.slug in natureSportTechNov05HeroCaptions || article.slug in mindExistenceNov05HeroCaptions || article.slug in historySportNov06HeroCaptions || article.slug in worldBusinessNov02HeroCaptions) ? " article-hero--full-image" : ""}${article.heroImageFit === "contain" ? " article-hero--natural-frame" : ""}${article.slug === "bacteria-good-bad-microbes-shape-our-lives" ? " article-hero--bacteria" : ""}${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
           <DesktopArticleHeroFit />
           <div className="article-hero-media relative">
             <Image
@@ -422,6 +424,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug in worldWildlifeNov04HeroCaptions && <p data-world-wildlife-nov04-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{worldWildlifeNov04HeroCaptions[article.slug as keyof typeof worldWildlifeNov04HeroCaptions][locale]}</p>}
         {article.slug in natureSportTechNov05HeroCaptions && <p data-nature-sport-tech-nov05-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{natureSportTechNov05HeroCaptions[article.slug as keyof typeof natureSportTechNov05HeroCaptions][locale]}</p>}
         {article.slug in mindExistenceNov05HeroCaptions && <p data-mind-existence-nov05-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mindExistenceNov05HeroCaptions[article.slug as keyof typeof mindExistenceNov05HeroCaptions][locale]}</p>}
+        {article.slug in historySportNov06HeroCaptions && <p data-history-sport-nov06-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{historySportNov06HeroCaptions[article.slug as keyof typeof historySportNov06HeroCaptions][locale]}</p>}
         {article.slug in worldBusinessNov02HeroCaptions && <p data-world-business-nov02-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{worldBusinessNov02HeroCaptions[article.slug as keyof typeof worldBusinessNov02HeroCaptions][locale]}</p>}
         {article.slug in featuresNov01HeroCaptions && <p data-editorial-features-nov01-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{featuresNov01HeroCaptions[article.slug as keyof typeof featuresNov01HeroCaptions][locale]}</p>}
         {article.slug in scienceAiNov01HeroCaptions && <p data-science-ai-nov01-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{scienceAiNov01HeroCaptions[article.slug as keyof typeof scienceAiNov01HeroCaptions][locale]}</p>}
@@ -562,6 +565,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (originalIndex === 6 && ["napoleon-height-short-emperor-myth-truth", "mona-lisa-lisa-gherardini-woman-behind-smile"].includes(article.slug)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HistorySportNov06Document slug={article.slug} locale={locale} /></div>;
+              }
               if (article.slug === "modern-architecture-world-most-breathtaking-buildings" && originalIndex === 3) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ArchitectureComparison locale={locale} /></div>;
               }

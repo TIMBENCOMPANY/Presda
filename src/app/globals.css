@@ -810,3 +810,21 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
   .article-hero .article-hero-header { top: 24px; inset-inline: 32px; }
   .article-hero .article-hero-header-date { font-size: 16px; }
 }
+
+/* Preserve complete approved compositions, including full-length subjects.
+   This explicit article option leaves the existing bounded Bruno frame unchanged. */
+@media (min-width: 1024px) {
+  .article-hero[data-preserve-aspect="true"] {
+    height: auto;
+    min-height: 0;
+    aspect-ratio: var(--hero-image-ratio);
+    max-height: none;
+  }
+  .article-hero[data-preserve-aspect="true"] .article-hero-image {
+    object-fit: contain;
+    transform: none;
+  }
+  .article-hero[data-preserve-aspect="true"] .article-hero-content {
+    max-height: var(--hero-frame-height);
+  }
+}

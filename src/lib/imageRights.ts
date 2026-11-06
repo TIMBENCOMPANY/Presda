@@ -102,6 +102,8 @@ const publishedPresdaCredits = new Set([
 
 export function getImageRights(source: string): ImageRights {
   // User-approved conceptual images; original creator and licence were not supplied.
+  if (["/articles/cristiano-ronaldo-portugal-retirement-editorial-nov2026.jpg","/articles/napoleon-short-emperor-myth-editorial.png","/articles/atlantis-plato-imagined-underwater-city-editorial.jpg","/articles/romeo-juliet-literary-romance-conceptual-editorial.jpg","/articles/valentines-day-saint-romance-conceptual-editorial.jpg","/articles/mona-lisa-lisa-gherardini-conceptual-editorial.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
+  // User-approved conceptual images; original creator and licence were not supplied.
   if (["/articles/ai-consciousness-human-robot-conceptual-editorial.jpg","/articles/free-will-decisions-diverging-paths-conceptual-editorial.jpg","/articles/why-anything-exists-cosmos-human-conceptual-editorial.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // User-approved editorial images; original creator and licence were not supplied.
   if (["/articles/android-google-mobile-platform-history-editorial.jpg","/articles/flying-frog-webbed-feet-rainforest-gliding-editorial.jpg","/articles/flamingo-pink-adult-gray-chick-editorial.jpg","/articles/el-dorado-muisca-ritual-raft-conceptual-illustration.jpg","/articles/pele-brazil-football-legacy-editorial-collage.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

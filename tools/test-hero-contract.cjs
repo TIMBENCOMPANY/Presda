@@ -23,6 +23,16 @@ assert.equal(image.width, '100%');
 assert.equal(image.height, '100%');
 assert.equal(image['object-fit'], 'cover');
 assert.equal(image.transform, 'none');
+// An explicit, reusable option preserves full-length subjects without changing defaults.
+const natural = properties('.article-hero[data-preserve-aspect="true"]');
+assert.equal(natural.height, 'auto');
+assert.equal(natural['aspect-ratio'], 'var(--hero-image-ratio)');
+assert.equal(natural['max-height'], 'none');
+const naturalImage = properties('.article-hero[data-preserve-aspect="true"] .article-hero-image');
+assert.equal(naturalImage['object-fit'], 'contain');
+assert.equal(naturalImage.transform, 'none');
+assert.equal(properties('.article-hero[data-preserve-aspect="true"] .article-hero-content')['max-height'], 'var(--hero-frame-height)', 'Full compositions retain Bruno’s visible text area');
+assert(layout.includes('data-preserve-aspect={article.heroPreserveAspect || undefined}'));
 // Catch a new batch-specific sizing escape hatch, including appended CSS.
 rules.walkRules(rule => {
   assert(!/article-hero--(?!full-image\b)[\w-]+/.test(rule.selector),
