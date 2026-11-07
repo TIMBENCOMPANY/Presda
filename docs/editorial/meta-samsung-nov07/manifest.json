@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "mark-zuckerberg-facebook-meta-story",
+    "source": "2-1000089052.jpg",
+    "image": "/articles/mark-zuckerberg-meta-building-approved.jpg",
+    "alts": {
+      "en": "Editorial image depicting Mark Zuckerberg outside a glass building with the Meta name and logo.",
+      "fr": "Image éditoriale représentant Mark Zuckerberg devant un bâtiment vitré portant le nom et le logo Meta.",
+      "ar": "صورة تحريرية تُظهر مارك زوكربيرغ أمام مبنى زجاجي يحمل اسم ميتا وشعارها.",
+      "es": "Imagen editorial de Mark Zuckerberg ante un edificio acristalado con el nombre y el logotipo de Meta."
+    },
+    "id": "041",
+    "old": "/images/articles/mark-zuckerberg-facebook-meta-story.webp",
+    "width": 1280,
+    "height": 720,
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 97546,
+    "sha256": "a380485e67c6bf81b515a43ae58d360a1ee91f8cc012df58965df1511400292b",
+    "sourceSha256": "a380485e67c6bf81b515a43ae58d360a1ee91f8cc012df58965df1511400292b",
+    "metadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    }
+  },
+  {
+    "slug": "samsung-from-food-to-tech-empire",
+    "source": "1-1000089051.jpg",
+    "image": "/articles/samsung-historic-shop-modern-building-approved.jpg",
+    "alts": {
+      "en": "Editorial composite of a historic trading shop and a modern building bearing the Samsung name.",
+      "fr": "Montage éditorial d’une ancienne boutique de commerce et d’un bâtiment moderne portant le nom Samsung.",
+      "ar": "صورة تحريرية مركبة لمتجر تجاري قديم ومبنى حديث يحمل اسم سامسونغ.",
+      "es": "Composición editorial de una antigua tienda comercial y un edificio moderno con el nombre Samsung."
+    },
+    "id": "051",
+    "old": "/images/articles/samsung-from-food-to-tech-empire.webp",
+    "width": 1280,
+    "height": 720,
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 148675,
+    "sha256": "09310b475ae5bb0362d87bfae9523cea5c3a431757ea88834cb81e5e648ba720",
+    "sourceSha256": "09310b475ae5bb0362d87bfae9523cea5c3a431757ea88834cb81e5e648ba720",
+    "metadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    }
+  }
+]

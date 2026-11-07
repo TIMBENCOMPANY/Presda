@@ -22595,9 +22595,10 @@ export const articles: Article[] = [
     date: "2026-09-10",
     lastUpdated: "2026-09-10",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/samsung-from-food-to-tech-empire.webp",
+    coverImage: "/articles/samsung-historic-shop-modern-building-approved.jpg",
+    heroPreserveAspect: true,
     coverAlt:
-      "Cinematic Samsung history image showing an early Korean trading shop beside modern Galaxy phones, foldables, semiconductors and Samsung headquarters",
+      "Editorial composite of a historic trading shop and a modern building bearing the Samsung name.",
     homepageImagePosition: "50% 50%",
     content: [
       "Samsung did not begin as a smartphone company.",
@@ -25277,9 +25278,10 @@ export const articles: Article[] = [
     date: "2026-09-08",
     lastUpdated: "2026-09-08",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/mark-zuckerberg-facebook-meta-story.webp",
+    coverImage: "/articles/mark-zuckerberg-meta-building-approved.jpg",
+    heroPreserveAspect: true,
     coverAlt:
-      "Mark Zuckerberg wearing smart glasses outside a Meta campus with augmented reality interface concepts",
+      "Editorial image depicting Mark Zuckerberg outside a glass building with the Meta name and logo.",
     homepageImagePosition: "58% 45%",
     content: [
       "Mark Zuckerberg is one of the defining business figures of the internet age.",

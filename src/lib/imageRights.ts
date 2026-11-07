@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/mark-zuckerberg-meta-building-approved.jpg","/articles/samsung-historic-shop-modern-building-approved.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/peter-margaret-dolphin-pool-telephone-approved.jpg", "/articles/history-of-gold-open-vault-gold-bars-approved.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // Approved supplied Green March image; photographer and licence were not provided.
   if (source === "/articles/morocco-green-march-1975-51st-anniversary.jpg") return { creditText: "Editorial image supplied for PRESDA" };
