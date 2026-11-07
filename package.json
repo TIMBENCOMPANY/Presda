@@ -27,7 +27,8 @@
     "test:history-sport": "node tools/test-history-sport-nov06.cjs",
     "test:green-march": "node tools/test-green-march-nov06.cjs",
     "test:arabic-ux": "node tools/test-arabic-url-policy.cjs && node tools/test-arabic-ux.cjs",
-    "test:two-heroes": "node tools/test-two-heroes-nov07.cjs && node tools/test-mobile-badges-nov07.cjs"
+    "test:two-heroes": "node tools/test-two-heroes-nov07.cjs && node tools/test-mobile-badges-nov07.cjs",
+    "test:history-business": "node tools/test-history-business-nov08.cjs"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",

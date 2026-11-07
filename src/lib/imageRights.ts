@@ -101,6 +101,8 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  // Approved editorial reconstructions; no unsupported photographer or licence attribution.
+  if (["/articles/great-emu-war-australia-1932-historical-reconstruction.jpg","/articles/ghost-army-inflatable-tank-wwii-historical-reconstruction.jpg","/articles/caral-supe-peru-pyramids-sunken-circular-plaza.jpg","/articles/adidas-puma-dassler-brothers-shoemaking-editorial-reconstruction.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/mark-zuckerberg-meta-building-approved.jpg","/articles/samsung-historic-shop-modern-building-approved.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/peter-margaret-dolphin-pool-telephone-approved.jpg", "/articles/history-of-gold-open-vault-gold-bars-approved.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // Approved supplied Green March image; photographer and licence were not provided.

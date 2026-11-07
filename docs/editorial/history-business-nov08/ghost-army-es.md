@@ -1,0 +1,41 @@
+Los soldados del Ejército Fantasma eran reales. Los ejércitos que parecían dirigir eran, a menudo, ilusiones. Durante la Segunda Guerra Mundial, unidades estadounidenses combinaron equipo inflable, tráfico de radio inventado, sonidos grabados y actuaciones para engañar a las fuerzas alemanas. El apodo sugiere algo sobrenatural; la historia trata de personas preparadas para manipular indicios. Debían convencer al observador enemigo de la presencia de tropas situadas en otro lugar.
+
+## ¿Quiénes integraban el Ejército Fantasma?
+
+La 23.ª Unidad Especial del Cuartel General se activó en Camp Forrest, Tennessee, el 20 de enero de 1944, bajo el coronel Harry Reeder. Sus aproximadamente 1.100 hombres reunían camuflaje visual, engaño por radio, engaño sonoro y seguridad. El Ghost Army Legacy Project conserva historias de la unidad y documentos de veteranos. Revelan una organización especializada, no actores improvisando sin planificación militar. Cada representación respondía a una necesidad operativa concreta. [Fuente: ghostarmy.org](https://ghostarmy.org/about/history/)
+
+El Ejército estadounidense describe una fuerza cuyos métodos inusuales ayudaban a ocultar movimientos de tropas convencionales. La distinción importa. Una unidad de engaño no sustituía a las formaciones que combatían y abastecían la campaña. Creaba señales falsas a su alrededor. Su utilidad dependía de coordinarse con mandos que conocieran el movimiento real que proteger y el movimiento ficticio que el enemigo podía creer. [Fuente: www.army.mil](https://www.army.mil/article/247350)
+
+## Tres maneras de hacer presente un ejército ausente
+
+### La vista: tanques sin blindaje
+
+Los vehículos inflables aportaban siluetas reconocibles, pero no bastaba con la forma. La National Gallery of Art explica la importancia de sombras, huellas y pequeños indicios que hacían parecer pesado y usado al equipo. La habilidad artística consistía en anticipar cómo leería la escena un observador apresurado y distante. El realismo perfecto de cerca importaba menos que las señales adecuadas vistas desde un avión o puesto de observación. [Fuente: www.nga.gov](https://www.nga.gov/stories/articles/ghost-armys-artists-war)
+
+### El oído y la radio: una historia coherente
+
+Los especialistas difundían grabaciones de actividad militar y los operadores de radio generaban comunicaciones de las unidades que suplantaban. Los canales debían reforzarse entre sí. Una supuesta concentración de vehículos resultaba más creíble con sonidos de actividad y mensajes plausibles interceptados. Insignias falsas y conversaciones escenificadas completaban el conjunto. El material ficticio era parte de un entorno informativo coordinado, no un truco que funcionara solo. [Fuente: www.nationalww2museum.org](https://www.nationalww2museum.org/war/articles/ghost-army-canvas-and-camouflage)
+
+## La operación Viersen y los límites de la leyenda
+
+Durante la operación Viersen, en marzo de 1945, la unidad simuló un cruce del Rin lejos del sector del asalto real. Equipo inflable, un cuartel general ficticio y actividad sonora repetida ayudaron a atraer la atención alemana hacia el señuelo. El ejemplo muestra su objetivo: alterar la interpretación enemiga del lugar donde surgía una amenaza. No permite afirmar que los tanques de goma ganaran por sí solos la guerra. [Fuente: www.nga.gov](https://www.nga.gov/stories/articles/ghost-armys-artists-war)
+
+Tampoco debe atribuirse cualquier engaño aliado al Ejército Fantasma. Fortitude, vinculada a confundir a Alemania sobre la invasión de Francia, fue un esfuerzo estratégico más amplio. El trabajo móvil de la 23.ª pertenece a esa historia, pero los nombres no son intercambiables. También requieren cautela las estimaciones de vidas salvadas: describen un resultado evitado que no puede contarse como los nombres de una lista militar.
+
+## Un riesgo real detrás del frente ficticio
+
+La 23.ª incluía una sección de seguridad de ingenieros de combate porque una representación convincente podía atraer peligro real. Un señuelo inofensivo no volvía invulnerables a sus operadores. La unidad debía trabajar lo bastante cerca de la campaña para resultar creíble y después trasladarse y repetir. La 3133.ª Compañía Especial del Servicio de Señales, independiente y activa en Italia, también pertenece a esta historia; no debe confundirse con el componente sonoro de la 23.ª. [Fuente: ghostarmy.org](https://ghostarmy.org/about/history/)
+
+## Reconocimiento después del secreto
+
+La ley de 2022 sobre la Medalla de Oro del Congreso autorizó el reconocimiento colectivo de la 23.ª Unidad Especial del Cuartel General y la 3133.ª Compañía Especial del Servicio de Señales. La medalla se entregó en marzo de 2024. Reconocía servicios de guerra, no descubría una unidad imaginaria. Documentos de veteranos, archivos militares y colecciones de museos permiten verificar la historia, aunque las afirmaciones generales sobre su impacto necesiten matices. [Fuente: www.congress.gov](https://www.congress.gov/117/plaws/publ85/PLAW-117publ85.pdf)
+
+La idea duradera es que la inteligencia depende de interpretar. Una cámara registra una forma, una interceptación capta un mensaje y un comandante decide qué significan juntos. El Ejército Fantasma trabajaba entre esos pasos. Convirtió pintura, ingeniería, escucha y actuación en un esfuerzo coordinado para que una conclusión equivocada pareciera razonable.
+
+## Por qué un engaño creíble necesita moderación
+
+Un ejército simulado podía fallar por falta de indicios, pero también por ofrecer indicios incoherentes. Un espectáculo atrae atención sin encajar necesariamente con rutas, unidades y tiempos conocidos por el enemigo. El engaño necesitaba una relación plausible con la campaña real. No pretendía que todos creyeran cualquier cosa, sino influir en un juicio concreto cuando podía cambiar una decisión militar.
+
+Para saber más: [El trabajo de inteligencia detrás de las leyendas ninja](/articles/ninja-real-spies-japan-history-myths/).
+
+Lectura relacionada: [Cómo la fotografía cambió nuestra manera de ver el mundo](/articles/invention-photography-first-photo-digital-age/).

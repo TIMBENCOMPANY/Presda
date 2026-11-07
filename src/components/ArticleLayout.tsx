@@ -1,3 +1,4 @@
+import historyBusinessNov08HeroCaptions from "@/data/historyBusinessNov08HeroCaptions.json";
 import heroRefreshNov07Captions from "@/data/heroRefreshNov07Captions.json";
 import greenMarchNov06HeroCaptions from "@/data/greenMarchNov06HeroCaptions.json";
 import { CategoryBadge } from "@/components/CategoryBadge";
@@ -419,6 +420,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </div>
           </div>
         </header>
+        {article.slug in historyBusinessNov08HeroCaptions && <p data-history-business-nov08-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{historyBusinessNov08HeroCaptions[article.slug as keyof typeof historyBusinessNov08HeroCaptions][locale]}</p>}
         {article.slug in heroRefreshNov07Captions && <p data-hero-refresh-nov07-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{heroRefreshNov07Captions[article.slug as keyof typeof heroRefreshNov07Captions][locale]}</p>}
         {article.slug in mbappeChinaHeroCaptions && <p data-mbappe-china-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mbappeChinaHeroCaptions[article.slug as keyof typeof mbappeChinaHeroCaptions][locale]}</p>}
         {article.slug in discoveriesSportNov01HeroCaptions && <p data-discoveries-sport-nov01-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{discoveriesSportNov01HeroCaptions[article.slug as keyof typeof discoveriesSportNov01HeroCaptions][locale]}</p>}

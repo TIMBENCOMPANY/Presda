@@ -1,0 +1,106 @@
+[
+  {
+    "key": "emu-war",
+    "id": "413",
+    "slug": "great-emu-war-australia-soldiers-birds-1932",
+    "original": "4-1000089159.jpg",
+    "image": "/articles/great-emu-war-australia-1932-historical-reconstruction.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 187242,
+    "sourceSha256": "dc64cda169dab91ca878a8ac29be234b229666ce4b0aab422cd774a943bd3130",
+    "sha256": "dc64cda169dab91ca878a8ac29be234b229666ce4b0aab422cd774a943bd3130",
+    "alts": {
+      "en": "Historical reconstruction of Australian soldiers with a machine gun near emus in open farmland.",
+      "fr": "Reconstitution historique de soldats australiens avec une mitrailleuse près d’émeus dans une plaine agricole.",
+      "ar": "إعادة تصور تاريخية لجنود أستراليين مع رشاش قرب طيور الإيمو في أرض زراعية مفتوحة.",
+      "es": "Recreación histórica de soldados australianos con una ametralladora cerca de emúes en una zona agrícola."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 763,
+    "references": 5
+  },
+  {
+    "key": "ghost-army",
+    "id": "414",
+    "slug": "ghost-army-wwii-inflatable-tanks-deception",
+    "original": "3-1000089160.jpg",
+    "image": "/articles/ghost-army-inflatable-tank-wwii-historical-reconstruction.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 173497,
+    "sourceSha256": "0f8cd644e5dfd7d9bcf57512ae2db805809e1cf35bfdf62fb253eec64db9833a",
+    "sha256": "0f8cd644e5dfd7d9bcf57512ae2db805809e1cf35bfdf62fb253eec64db9833a",
+    "alts": {
+      "en": "Historical reconstruction of U.S. soldiers inflating a dummy tank beside sound equipment at a wooded camp.",
+      "fr": "Reconstitution de soldats américains gonflant un faux char près d’un équipement sonore dans un camp boisé.",
+      "ar": "إعادة تصور لجنود أمريكيين ينفخون دبابة وهمية قرب معدات صوتية في معسكر بين الأشجار.",
+      "es": "Recreación de soldados estadounidenses inflando un tanque ficticio junto a equipo sonoro en un campamento."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 832,
+    "references": 5
+  },
+  {
+    "key": "caral",
+    "id": "415",
+    "slug": "caral-supe-one-oldest-cities-americas",
+    "original": "2-1000089158.jpg",
+    "image": "/articles/caral-supe-peru-pyramids-sunken-circular-plaza.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 149819,
+    "sourceSha256": "6bca792e2e112f190f65896855999ded918a454d6f40f7987d63d0f78fd5290d",
+    "sha256": "6bca792e2e112f190f65896855999ded918a454d6f40f7987d63d0f78fd5290d",
+    "alts": {
+      "en": "Editorial view of stepped stone platforms and a sunken circular plaza overlooking Peru’s Supe Valley.",
+      "fr": "Vue éditoriale de plateformes de pierre et d’une place circulaire en contrebas dominant la vallée de Supe au Pérou.",
+      "ar": "مشهد تحريري لمنصات حجرية مدرجة وساحة دائرية غائرة تطل على وادي سوبيه في بيرو.",
+      "es": "Vista editorial de plataformas de piedra escalonadas y una plaza circular hundida sobre el valle de Supe, Perú."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 770,
+    "references": 5
+  },
+  {
+    "key": "adidas-puma",
+    "id": "416",
+    "slug": "adidas-puma-dassler-brothers-rival-shoe-empires",
+    "original": "1-1000089162.jpg",
+    "image": "/articles/adidas-puma-dassler-brothers-shoemaking-editorial-reconstruction.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 116946,
+    "sourceSha256": "22e0d6b8e26a9470af498bb4620f4210192001470b0a94e1880772f1f3553d90",
+    "sha256": "22e0d6b8e26a9470af498bb4620f4210192001470b0a94e1880772f1f3553d90",
+    "alts": {
+      "en": "Editorial reconstruction of two shoemakers representing the Dassler brothers, with Adidas and Puma logos.",
+      "fr": "Reconstitution de deux fabricants de chaussures représentant les frères Dassler, avec les logos Adidas et Puma.",
+      "ar": "إعادة تصور تحريري لصانعي أحذية يمثلان الشقيقين داسلر، مع شعاري أديداس وبوما.",
+      "es": "Recreación editorial de dos fabricantes de calzado que representan a los hermanos Dassler, con logos de Adidas y Puma."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 815,
+    "references": 7
+  }
+]
