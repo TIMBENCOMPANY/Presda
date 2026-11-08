@@ -1,3 +1,4 @@
+import { sanHboParisNov08Articles } from "@/data/sanHboParisNov08Articles";
 import { heritageEnterpriseNov08Articles } from "@/data/heritageEnterpriseNov08Articles";
 import { newsSportTechNov08Articles } from "@/data/newsSportTechNov08Articles";
 import { historyBusinessNov08Articles } from "@/data/historyBusinessNov08Articles";
@@ -241,6 +242,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  ...sanHboParisNov08Articles,
   ...heritageEnterpriseNov08Articles,
   ...newsSportTechNov08Articles,
   ...historyBusinessNov08Articles,
