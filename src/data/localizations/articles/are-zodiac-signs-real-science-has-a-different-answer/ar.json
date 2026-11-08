@@ -29,8 +29,10 @@
   "publishedAt": "2026-06-07",
   "updatedAt": "2026-09-02",
   "image": {
-    "src": "/images/articles/zodiac-signs-science.webp",
-    "alt": "عجلة الأبراج الفلكية مقارنة بالتلسكوب والأواني الزجاجية المختبرية والكتب العلمية"
+    "src": "/articles/zodiac-signs-vs-science-landscape-editorial-illustration.jpg",
+    "alt": "رسم تحريري لعجلة أبراج ذهبية بجانب نموذج ذرة ومعادلات ومدارات كواكب",
+    "width": 1280,
+    "height": 720
   },
   "content": [
     {

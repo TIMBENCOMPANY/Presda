@@ -115,7 +115,7 @@ export const sanHboParisNov08Articles: Article[] = [
     "seoTitle": "HBO at 54: From Its 1972 Launch to a Television Revolution",
     "metaDescription": "HBO turns 54 on November 8, 2026. From a small 1972 cable debut to The Sopranos, Game of Thrones and streaming, explore its television legacy.",
     "excerpt": "HBO turns 54 on November 8, 2026. From a small 1972 cable debut to The Sopranos, Game of Thrones and streaming, explore its television legacy.",
-    "category": "History",
+    "category": "Business",
     "schemaType": "Article",
     "date": "2026-11-08",
     "lastUpdated": "2026-11-08",

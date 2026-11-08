@@ -29,8 +29,10 @@
   "publishedAt": "2026-06-07",
   "updatedAt": "2026-09-02",
   "image": {
-    "src": "/images/articles/zodiac-signs-science.webp",
-    "alt": "La rueda del zodíaco de astrología comparada con telescopios, cristalería de laboratorio y libros de ciencia"
+    "src": "/articles/zodiac-signs-vs-science-landscape-editorial-illustration.jpg",
+    "alt": "Ilustración editorial de una rueda zodiacal dorada junto a un modelo atómico, ecuaciones y órbitas planetarias",
+    "width": 1280,
+    "height": 720
   },
   "content": [
     {

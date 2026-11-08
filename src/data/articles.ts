@@ -32823,8 +32823,9 @@ export const articles: Article[] = [
     "date": "2026-06-07",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/zodiac-signs-science.webp",
-    "coverAlt": "Astrology zodiac wheel compared with telescope, laboratory glassware, and science books",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/zodiac-signs-vs-science-landscape-editorial-illustration.jpg",
+    "coverAlt": "Editorial illustration of a golden zodiac wheel beside an atom model, equations and planetary orbits",
     "content": [
       "Are zodiac signs real? In a cultural sense, yes: zodiac signs are real symbols that many people use to talk about identity, relationships and meaning. In a scientific sense, no reliable evidence shows that zodiac signs or birth charts can predict personality, behavior or future events better than chance.",
       "That distinction matters. Astrology can feel meaningful without being scientifically proven. A horoscope may help someone reflect, laugh, connect with friends or describe a mood. But when the question becomes is astrology real as a testable explanation for personality or destiny, the scientific evidence is weak.",
