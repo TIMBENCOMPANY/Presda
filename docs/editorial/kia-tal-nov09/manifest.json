@@ -1,0 +1,54 @@
+[
+  {
+    "key": "kia",
+    "id": "427",
+    "slug": "kia-rafael-nadal-ev4-gt-tennis-clay-sculpture-tribute",
+    "original": "2-1000089241.jpg",
+    "image": "/articles/kia-rafael-nadal-ev4-gt-tennis-court-clay-sculpture-tribute.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 95257,
+    "sourceSha256": "9184fa6c96ee0d2547cd41046b43089684a496a1673f500053fe90efd2c819be",
+    "sha256": "9184fa6c96ee0d2547cd41046b43089684a496a1673f500053fe90efd2c819be",
+    "alts": {
+      "en": "Supplied editorial image of Rafael Nadal beside an orange Kia-shaped clay sculpture on a tennis court.",
+      "fr": "Visuel éditorial fourni montrant Rafael Nadal près d’une sculpture automobile orange sur un court de tennis.",
+      "ar": "صورة تحريرية مقدمة لرافاييل نادال بجانب منحوتة سيارة برتقالية على ملعب تنس.",
+      "es": "Imagen editorial proporcionada de Rafael Nadal junto a una escultura de coche naranja en una pista de tenis."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 656,
+    "references": 5
+  },
+  {
+    "key": "tal",
+    "id": "428",
+    "slug": "mikhail-tal-magician-riga-90th-birth-anniversary",
+    "original": "1-1000089243.jpg",
+    "image": "/articles/mikhail-tal-chess-family-scene-supplied-editorial-image.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 141854,
+    "sourceSha256": "5389e6cbfe8045c5a935063052d8768f6a9666cbddc3d71e40f03474d4dad0f6",
+    "sha256": "5389e6cbfe8045c5a935063052d8768f6a9666cbddc3d71e40f03474d4dad0f6",
+    "alts": {
+      "en": "Supplied editorial image evoking Mikhail Tal in a family scene with a chessboard and a baby holding a piece.",
+      "fr": "Visuel éditorial évoquant Mikhaïl Tal dans une scène familiale avec un échiquier et un bébé tenant une pièce.",
+      "ar": "صورة تحريرية تستحضر ميخائيل تال في مشهد عائلي مع رقعة شطرنج ورضيع يحمل قطعة.",
+      "es": "Imagen editorial que evoca a Mijaíl Tal en una escena familiar con un tablero y un bebé que sostiene una pieza."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 782,
+    "references": 6
+  }
+]

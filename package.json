@@ -31,7 +31,8 @@
     "test:history-business": "node tools/test-history-business-nov08.cjs",
     "test:news-sport-tech": "node tools/test-news-sport-tech-nov08.cjs",
     "test:heritage-enterprise": "node tools/test-heritage-enterprise-nov08.cjs",
-    "test:san-hbo-paris": "node tools/test-san-hbo-paris-nov08.cjs"
+    "test:san-hbo-paris": "node tools/test-san-hbo-paris-nov08.cjs",
+    "test:kia-tal": "node tools/test-kia-tal-nov09.cjs"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",

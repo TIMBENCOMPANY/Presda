@@ -101,6 +101,8 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  // Approved editorial reconstructions; no unsupported photographer or licence attribution.
+  if (["/articles/kia-rafael-nadal-ev4-gt-tennis-court-clay-sculpture-tribute.jpg","/articles/mikhail-tal-chess-family-scene-supplied-editorial-image.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (source === "/articles/zodiac-signs-vs-science-landscape-editorial-illustration.jpg") return { creditText: "Editorial image supplied for PRESDA" };
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.
   if (["/articles/san-southern-africa-heritage-rock-art-ai-editorial-illustration.jpg","/articles/hbo-1972-launch-54th-anniversary-ai-editorial-illustration.jpg","/articles/carlos-alcaraz-paris-masters-trophy-supplied-editorial-image.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
