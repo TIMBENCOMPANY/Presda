@@ -1,0 +1,149 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/first-text-message-1992-merry-christmas-sms-history/",
+  "path": "/fr/articles/first-text-message-1992-merry-christmas-sms-history/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-08",
+    "terminologyChecked": true
+  },
+  "title": "LE PREMIER SMS : DEUX MOTS QUI ONT CHANGÉ LA COMMUNICATION",
+  "seoTitle": "Le premier SMS : « Merry Christmas », le 3 décembre 1992",
+  "description": "Le 3 décembre 1992, Neil Papworth envoya « Merry Christmas » depuis un ordinateur. Le destinataire, le téléphone et l’héritage du premier SMS.",
+  "excerpt": "Le 3 décembre 1992, Neil Papworth envoya « Merry Christmas » depuis un ordinateur. Le destinataire, le téléphone et l’héritage du premier SMS.",
+  "headlineHighlights": {
+    "red": "LE PREMIER SMS",
+    "gold": "DEUX MOTS"
+  },
+  "keywords": [
+    "LE PREMIER SMS",
+    "DEUX MOTS"
+  ],
+  "searchIntent": "Le 3 décembre 1992, Neil Papworth envoya « Merry Christmas » depuis un ordinateur. Le destinataire, le téléphone et l’héritage du premier SMS.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "image": {
+    "src": "/articles/first-sms-merry-christmas-1992-ai-historical-reconstruction.jpg",
+    "alt": "Reconstitution par IA d’un ordinateur et d’un téléphone de 1992 affichant « Merry Christmas ».",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le premier SMS ne contenait ni ordre urgent ni grande prédiction. Il disait « Merry Christmas ». Le 3 décembre 1992, l’ingénieur britannique Neil Papworth saisit ces deux mots sur un ordinateur et les envoya par le réseau Vodafone à Richard Jarvis. Cette salutation devint un jalon des communications mobiles. Point essentiel : le message partit d’un ordinateur, pas d’un autre téléphone. [Source: www.vodafone.com](https://www.vodafone.com/news/newsroom/technology/25-anniversary-text-message)"
+    },
+    {
+      "type": "heading",
+      "text": "Que s’est-il passé le 3 décembre 1992 ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Papworth travaillait chez Sema Group Telecoms sur le système de messagerie. Le Mobile Phone Museum identifie un Orbitel 901 comme appareil récepteur et présente Jarvis comme directeur technique de Vodata, filiale de Vodafone. Il s’agissait d’une démonstration d’un service naissant, pas de l’apparition immédiate des usages de masse. Le téléphone restait alors surtout un appareil destiné aux appels. [Source: www.mobilephonemuseum.com](https://www.mobilephonemuseum.com/blog-detail/30-years-of-texting)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La formulation compte : les reconstitutions ajoutent parfois des détails absents de la transmission. Vodafone donne « Merry Christmas », sans point d’exclamation ajouté. L’illustration de cette page évoque l’époque, mais ses appareils, son interface et son numéro ne prouvent rien sur l’installation réelle. Une reconstitution peut rendre l’histoire accessible sans devenir une archive. [Source: www.vodafone.co.uk](https://www.vodafone.co.uk/newscentre/press-release/nft-of-worlds-first-text-message-auction-for-charity/)"
+    },
+    {
+      "type": "heading",
+      "text": "Un premier message, pas l’invention d’un seul homme"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rôle de Papworth comme expéditeur se distingue de la conception du SMS. Le Computer History Museum attribue à Friedhelm Hillebrand et Bernard Ghillebaert l’établissement des bases du standard dans la coopération franco-allemande GSM. La normalisation permettait aux appareils et réseaux de comprendre un format commun. La célèbre salutation est un moment précis d’une histoire d’ingénierie collective. [Source: www.computerhistory.org](https://www.computerhistory.org/makesoftware/exhibit/texting/)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi la limite de 160 caractères ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La limite vient d’une petite enveloppe technique. Un SMS standard peut transporter 140 octets de données utiles. L’alphabet GSM à sept bits permet d’y placer 160 caractères. D’autres codages changent le calcul : le RFC décrit 70 caractères avec UCS-2. Cette précision importe pour l’arabe et d’autres écritures, qui ne se comptent pas comme de simples lettres anglaises. [Source: datatracker.ietf.org](https://datatracker.ietf.org/doc/rfc5724/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un message peut comporter plusieurs segments"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les textes longs peuvent être découpés puis réassemblés. Les informations nécessaires à cette concaténation occupent une partie de l’espace, ce qui modifie la capacité de chaque segment. L’application peut masquer ces divisions. Le nombre de bulles visibles ne correspond donc pas toujours au nombre de segments SMS transportés par le réseau. [Source: datatracker.ietf.org](https://datatracker.ietf.org/doc/rfc5724/)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment voyage un message court"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le SMS n’est pas un appel vocal miniature. Un centre de messagerie peut stocker le message avant de le transmettre. Expéditeur et destinataire n’ont donc pas besoin de tenir une conversation simultanée et continue. Cette souplesse ne garantit pas une livraison infaillible ou immédiate : le réseau détermine toujours si le message peut parvenir à destination et quand. [Source: datatracker.ietf.org](https://datatracker.ietf.org/doc/rfc5724/)"
+    },
+    {
+      "type": "heading",
+      "text": "Un changement culturel plus grand que la salutation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Computer History Museum inscrit les SMS dans l’histoire de la communication quotidienne, du commerce et des services mobiles. Ce n’était pas seulement une fonction supplémentaire. On pouvait laisser un court message écrit sans réclamer une réponse orale immédiate. Cela favorisait un autre rythme social : rendez-vous, nouvelles rassurantes et informations rapides s’intercalaient entre les activités. [Source: www.computerhistory.org](https://www.computerhistory.org/makesoftware/exhibit/texting/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que signifie « premier »"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le jalon documenté est le premier SMS, pas la première communication électronique écrite. Télégraphe, messageries informatiques et pagers avaient déjà transmis des mots. Le SMS associait cette possibilité ancienne à un service mobile normalisé. La salutation compte pour le système qu’elle démontrait, pas parce qu’aucune machine n’avait jamais transporté de texte."
+    },
+    {
+      "type": "paragraph",
+      "text": "La leçon durable est qu’une innovation peut sembler ordinaire. Une salutation suffisait à démontrer un nouveau canal ; des années d’ingénierie et d’adoption le rendirent utile. L’histoire gagne à conserver les deux échelles : deux mots sur un écran et l’effort collectif qui permit ensuite à chacun d’envoyer les siens."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [Le QR code et une autre révolution discrète de la communication](/articles/qr-code-history-simple-square-digital-world/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [Comment Android a changé la plateforme mobile](/articles/android-google-changed-mobile-2007-announcement/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.vodafone.com",
+      "url": "https://www.vodafone.com/news/newsroom/technology/25-anniversary-text-message"
+    },
+    {
+      "label": "Source: www.mobilephonemuseum.com",
+      "url": "https://www.mobilephonemuseum.com/blog-detail/30-years-of-texting"
+    },
+    {
+      "label": "Source: www.vodafone.co.uk",
+      "url": "https://www.vodafone.co.uk/newscentre/press-release/nft-of-worlds-first-text-message-auction-for-charity/"
+    },
+    {
+      "label": "Source: www.computerhistory.org",
+      "url": "https://www.computerhistory.org/makesoftware/exhibit/texting/"
+    },
+    {
+      "label": "Source: datatracker.ietf.org",
+      "url": "https://datatracker.ietf.org/doc/rfc5724/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Que disait le premier SMS ?",
+      "answer": "Il disait « Merry Christmas ». Neil Papworth l’envoya le 3 décembre 1992 par le réseau Vodafone."
+    },
+    {
+      "question": "Qui l’a reçu et sur quel appareil ?",
+      "answer": "Richard Jarvis le reçut sur un Orbitel 901. Papworth l’avait envoyé d’un ordinateur, pas d’un autre téléphone."
+    },
+    {
+      "question": "Un SMS contient-il toujours 160 caractères ?",
+      "answer": "Non. Cette limite concerne le codage GSM à sept bits. D’autres codages et les messages concaténés ont des limites différentes par segment."
+    }
+  ]
+}

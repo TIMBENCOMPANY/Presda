@@ -1,0 +1,106 @@
+[
+  {
+    "key": "red-bull",
+    "id": "420",
+    "slug": "red-bull-energy-drink-sports-marketing-empire",
+    "original": "4-1000089201.jpg",
+    "image": "/articles/red-bull-energy-drink-sports-empire-ai-editorial-illustration.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 202679,
+    "sourceSha256": "feca39b4db80f592fe379ef53db3e8c553df19382523089477ca5b42a59fcde7",
+    "sha256": "feca39b4db80f592fe379ef53db3e8c553df19382523089477ca5b42a59fcde7",
+    "alts": {
+      "en": "AI illustration of a Red Bull can surrounded by a racing car, aircraft and action sports.",
+      "fr": "Illustration par IA d’une canette Red Bull entourée d’une voiture de course, d’un avion et de sports extrêmes.",
+      "ar": "رسم بالذكاء الاصطناعي لعبوة ريد بول تحيط بها سيارة سباق وطائرة ورياضات حركية.",
+      "es": "Ilustración con IA de una lata Red Bull rodeada de un coche de carreras, un avión y deportes de acción."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 620,
+    "references": 6
+  },
+  {
+    "key": "serum-run",
+    "id": "421",
+    "slug": "1925-serum-run-nome-sled-dogs-balto-togo",
+    "original": "3-1000089202.jpg",
+    "image": "/articles/1925-nome-serum-run-sled-dogs-ai-historical-reconstruction.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 193749,
+    "sourceSha256": "a0e7f0f68f66a9e11e8d0c061c9a38255ff18c34cd458ad5b347bada6d3217ea",
+    "sha256": "a0e7f0f68f66a9e11e8d0c061c9a38255ff18c34cd458ad5b347bada6d3217ea",
+    "alts": {
+      "en": "AI historical reconstruction of a musher and sled dogs carrying medicine toward snowy Nome.",
+      "fr": "Reconstitution historique par IA d’un musher et de chiens transportant des médicaments vers Nome enneigée.",
+      "ar": "إعادة تصور تاريخية بالذكاء الاصطناعي لسائق وكلاب زلاجات تنقل دواء نحو نوم الثلجية.",
+      "es": "Reconstrucción histórica con IA de un musher y perros de trineo llevando medicinas hacia Nome nevada."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 676,
+    "references": 6
+  },
+  {
+    "key": "first-sms",
+    "id": "422",
+    "slug": "first-text-message-1992-merry-christmas-sms-history",
+    "original": "2-1000089203.jpg",
+    "image": "/articles/first-sms-merry-christmas-1992-ai-historical-reconstruction.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 109633,
+    "sourceSha256": "135b08a1cc2450d5140bf7e45645ec743194b371f48bf5c106dba92ae7784700",
+    "sha256": "135b08a1cc2450d5140bf7e45645ec743194b371f48bf5c106dba92ae7784700",
+    "alts": {
+      "en": "AI reconstruction of a 1992 computer and mobile phone displaying “Merry Christmas”.",
+      "fr": "Reconstitution par IA d’un ordinateur et d’un téléphone de 1992 affichant « Merry Christmas ».",
+      "ar": "إعادة تصور بالذكاء الاصطناعي لحاسوب وهاتف من عام 1992 يعرضان عبارة «Merry Christmas».",
+      "es": "Reconstrucción con IA de un ordenador y un móvil de 1992 mostrando “Merry Christmas”."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 673,
+    "references": 5
+  },
+  {
+    "key": "terracotta",
+    "id": "423",
+    "slug": "terracotta-army-qin-shi-huang-1974-discovery",
+    "original": "1-1000089204.jpg",
+    "image": "/articles/terracotta-army-qin-shi-huang-ai-historical-illustration.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 169723,
+    "sourceSha256": "4c6794ae35bda21f25e6f6da8b6fd7be9d49e8ee6a40b92867dd5e1d854e0dd6",
+    "sha256": "4c6794ae35bda21f25e6f6da8b6fd7be9d49e8ee6a40b92867dd5e1d854e0dd6",
+    "alts": {
+      "en": "AI historical illustration of terracotta warriors and horses inside an excavation hall.",
+      "fr": "Illustration historique par IA de guerriers et chevaux en terre cuite dans une salle de fouilles.",
+      "ar": "رسم تاريخي بالذكاء الاصطناعي لمحاربين وخيول من التيراكوتا داخل قاعة تنقيب.",
+      "es": "Ilustración histórica con IA de guerreros y caballos de terracota dentro de una nave de excavación."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 657,
+    "references": 6
+  }
+]

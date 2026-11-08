@@ -102,6 +102,8 @@ const publishedPresdaCredits = new Set([
 
 export function getImageRights(source: string): ImageRights {
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.
+  if (["/articles/red-bull-energy-drink-sports-empire-ai-editorial-illustration.jpg","/articles/1925-nome-serum-run-sled-dogs-ai-historical-reconstruction.jpg","/articles/first-sms-merry-christmas-1992-ai-historical-reconstruction.jpg","/articles/terracotta-army-qin-shi-huang-ai-historical-illustration.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
+  // Approved editorial reconstructions; no unsupported photographer or licence attribution.
   if (["/articles/boca-juniors-2026-annual-league-title-ai-editorial-illustration.jpg","/articles/yangwang-u9-xtreme-503-kmh-cockpit-ai-illustration.jpg","/articles/xinhua-ubtech-humanoid-news-anchors-ai-editorial-illustration.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.
   if (["/articles/great-emu-war-australia-1932-historical-reconstruction.jpg","/articles/ghost-army-inflatable-tank-wwii-historical-reconstruction.jpg","/articles/caral-supe-peru-pyramids-sunken-circular-plaza.jpg","/articles/adidas-puma-dassler-brothers-shoemaking-editorial-reconstruction.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
