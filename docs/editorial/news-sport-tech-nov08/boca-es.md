@@ -1,0 +1,31 @@
+Boca Juniors ganó el título de liga por la Tabla Anual 2026 el 7 de noviembre, tras vencer 1–0 a Defensa y Justicia en La Bombonera. El ingresado Enner Valencia marcó en el tramo final del descuento y convirtió una definición angustiosa en festejo. El propio club confirma la consagración y el alivio que estalló en el estadio. Es el campeonato por la clasificación anual, no el título del Clausura, que se define por separado. [Fuente: www.bocajuniors.com.ar](https://www.bocajuniors.com.ar/noticias/campeones)
+
+## El gol que cambió la tabla final
+
+Rosario Central ya había presionado a Boca con su propio triunfo. Valencia aprovechó una pelota suelta después de que Matías Borgogno no controlara el envío al área y convirtió el único gol. Los relatos sitúan la acción al final del descuento. El punto firme entre las crónicas es que ocurrió después de los 90 minutos reglamentarios, cuando casi no quedaba margen para otra modificación. [Fuente: www.tycsports.com](https://www.tycsports.com/boca-juniors/que-necesitan-los-tres-equipos-con-chances-de-ganar-la-tabla-anual-boca-argentinos-juniors-rosario-central-id770760.html)
+
+Boca terminó con 63 puntos, uno más que Rosario Central, con 62. Argentinos Juniors quedó en 60 tras caer 2–0 ante Huracán, mientras Central venció 2–0 a Estudiantes de Río Cuarto. Los resultados simultáneos explican el valor del gol tardío. No mejoró solamente la diferencia de gol: aportó la victoria y los tres puntos necesarios para quedar por encima del perseguidor más cercano. [Fuente: efe.com](https://efe.com/deportes/2026-11-08/boca-juniors-campeon-tabla-anual-enner-valencia/)
+
+## ¿Qué título ganó exactamente Boca?
+
+El artículo 24 del reglamento de Primera División 2026 de la LPF suma los puntos de las primeras fases de zonas del Apertura y el Clausura para formar la Tabla General de Posiciones. Su líder es consagrado Campeón de Liga 2026, un título nacional. Avanzar en las eliminatorias mide otra cosa. La tabla anual premia los puntos de esas fases regulares, no ganar la final del Clausura. [Fuente: www.ligaprofesional.ar](https://www.ligaprofesional.ar/wp-content/uploads/2026/01/Reglamento-Torneos-LPF-Primera-2026-1.pdf)
+
+### Por qué importa distinguir el Clausura
+
+La Asociación del Fútbol Argentino reconoce a Boca como campeón de Liga 2026 por la tabla anual. Por eso corresponde llamarlo campeón anual de liga. Presentar este resultado como un campeonato del Clausura atribuiría el festejo a otra definición. La diferencia importa especialmente para lectores acostumbrados a una temporada con un solo trofeo de liga y una única clasificación final. [Fuente: www.afa.com.ar](https://www.afa.com.ar/es/posts/boca-se-corono-campeon-de-la-liga-2026)
+
+## Un partido tenso se convierte en una fiesta colectiva
+
+El relato oficial describe la emoción contenida de las tribunas liberada por el gol de Valencia y la posibilidad de celebrar la corona con su gente. El escenario importaba: el título podía asegurarse ante el público propio, pero hacía falta el resultado. El equipo de Rodolfo Arruabarrena llegó tras triunfos consecutivos ante Talleres, Independiente y River Plate, antes de sumar a Defensa y Justicia a la serie. [Fuente: www.bocajuniors.com.ar](https://www.bocajuniors.com.ar/noticias/campeones)
+
+## Qué resuelve la corona anual y qué queda abierto
+
+EFE informa de que el título también asegura a Boca un lugar en la fase de grupos de la Libertadores 2027. Otras competiciones siguen siendo oportunidades independientes, entre ellas las eliminatorias del Clausura. Sus resultados no pueden deducirse del festejo del 7 de noviembre. Un trofeo ganado y otro todavía en disputa son hechos distintos, aunque formen parte de las ambiciones del mismo club. [Fuente: efe.com](https://efe.com/deportes/2026-11-08/boca-juniors-campeon-tabla-anual-enner-valencia/)
+
+## El resultado en perspectiva
+
+La tabla anual explica la regularidad; el último gol muestra lo ajustada que fue la definición. Ambos importan. Reducir la historia a un instante espectacular borra los puntos anteriores; tratarla solo como un cálculo olvida la incertidumbre del último partido. Boca combina esas dos escalas: la acumulación de una temporada decidida en sus momentos finales más tensos.
+
+Lectura relacionada: [Los hermanos detrás de Adidas y Puma](/articles/adidas-puma-dassler-brothers-rival-shoe-empires/).
+
+Lectura relacionada: [Pelé y la creación de un icono mundial del fútbol](/articles/pele-boy-football-first-global-superstar/).

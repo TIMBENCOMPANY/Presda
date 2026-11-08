@@ -1,0 +1,80 @@
+[
+  {
+    "key": "boca",
+    "id": "417",
+    "slug": "boca-juniors-2026-tabla-anual-league-champions",
+    "original": "2-1000089182.jpg",
+    "image": "/articles/boca-juniors-2026-annual-league-title-ai-editorial-illustration.jpg",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "format": "jpeg",
+    "bytes": 133801,
+    "sourceSha256": "e4ed6507b35a0de0926bb1809197d76a9a38c8f42f55a05e2c329d5d2d9e5d6d",
+    "sha256": "e4ed6507b35a0de0926bb1809197d76a9a38c8f42f55a05e2c329d5d2d9e5d6d",
+    "alts": {
+      "en": "AI-generated editorial collage of Boca Juniors footballers in blue and yellow around a trophy.",
+      "fr": "Collage éditorial généré par IA de footballeurs de Boca Juniors en bleu et jaune autour d’un trophée.",
+      "ar": "كولاج تحريري مولد بالذكاء الاصطناعي للاعبي بوكا جونيورز بالأزرق والأصفر حول كأس.",
+      "es": "Collage editorial generado con IA de futbolistas de Boca Juniors de azul y amarillo alrededor de un trofeo."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 580,
+    "references": 5
+  },
+  {
+    "key": "u9-xtreme",
+    "id": "418",
+    "slug": "yangwang-u9-xtreme-503-17-kmh-speed-record",
+    "original": "3-1000089181.jpg",
+    "image": "/articles/yangwang-u9-xtreme-503-kmh-cockpit-ai-illustration.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 119464,
+    "sourceSha256": "8576edfac1507ea514e93f70a790abd7918117bd82e34c678dad250d3e745774",
+    "sha256": "8576edfac1507ea514e93f70a790abd7918117bd82e34c678dad250d3e745774",
+    "alts": {
+      "en": "AI-generated cockpit illustration with a BYD steering wheel and a display reading 503 km/h on a desert road.",
+      "fr": "Illustration générée par IA d’un habitacle BYD affichant 503 km/h sur une route désertique.",
+      "ar": "رسم مولد بالذكاء الاصطناعي لمقصورة BYD وشاشة تعرض 503 كم/س على طريق صحراوي.",
+      "es": "Ilustración generada con IA de un habitáculo BYD con una pantalla a 503 km/h en una carretera desértica."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 647,
+    "references": 5
+  },
+  {
+    "key": "robot-anchors",
+    "id": "419",
+    "slug": "xinhua-ubtech-humanoid-robot-news-anchors",
+    "original": "1-1000089183.jpg",
+    "image": "/articles/xinhua-ubtech-humanoid-news-anchors-ai-editorial-illustration.jpg",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "format": "jpeg",
+    "bytes": 83660,
+    "sourceSha256": "9b2349e5eff8b7ad96adcd57167e0bec336c1aac92efce40221a92aa605811e6",
+    "sha256": "9b2349e5eff8b7ad96adcd57167e0bec336c1aac92efce40221a92aa605811e6",
+    "alts": {
+      "en": "AI-generated illustration of two lifelike humanoid news presenters in a blue television studio.",
+      "fr": "Illustration générée par IA de deux présentateurs humanoïdes réalistes dans un studio de télévision bleu.",
+      "ar": "رسم مولد بالذكاء الاصطناعي لمذيعين روبوتيين شبيهي البشر داخل استوديو تلفزيوني أزرق.",
+      "es": "Ilustración generada con IA de dos presentadores humanoides realistas en un estudio de televisión azul."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 680,
+    "references": 5
+  }
+]

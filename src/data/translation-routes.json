@@ -976,6 +976,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/boca-juniors-2026-tabla-anual-league-champions/",
+    "path": "/ar/articles/boca-juniors-2026-tabla-anual-league-champions/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/boca-juniors-2026-tabla-anual-league-champions/",
+    "path": "/es/articles/boca-juniors-2026-tabla-anual-league-champions/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/boca-juniors-2026-tabla-anual-league-champions/",
+    "path": "/fr/articles/boca-juniors-2026-tabla-anual-league-champions/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/bradley-cooper-gigi-hadid-paris-marriage-speculation/",
     "path": "/ar/articles/bradley-cooper-gigi-hadid-paris-marriage-speculation/"
   },
@@ -6148,6 +6163,36 @@
     "locale": "fr",
     "englishPath": "/articles/xabi-alonso-chelsea-pressure/",
     "path": "/fr/articles/xabi-alonso-chelsea-pressure/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/xinhua-ubtech-humanoid-robot-news-anchors/",
+    "path": "/ar/articles/xinhua-ubtech-humanoid-robot-news-anchors/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/xinhua-ubtech-humanoid-robot-news-anchors/",
+    "path": "/es/articles/xinhua-ubtech-humanoid-robot-news-anchors/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/xinhua-ubtech-humanoid-robot-news-anchors/",
+    "path": "/fr/articles/xinhua-ubtech-humanoid-robot-news-anchors/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/yangwang-u9-xtreme-503-17-kmh-speed-record/",
+    "path": "/ar/articles/yangwang-u9-xtreme-503-17-kmh-speed-record/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/yangwang-u9-xtreme-503-17-kmh-speed-record/",
+    "path": "/es/articles/yangwang-u9-xtreme-503-17-kmh-speed-record/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/yangwang-u9-xtreme-503-17-kmh-speed-record/",
+    "path": "/fr/articles/yangwang-u9-xtreme-503-17-kmh-speed-record/"
   },
   {
     "locale": "ar",
