@@ -1,0 +1,832 @@
+[
+  {
+    "key": "beer",
+    "slug": "london-beer-flood-1814-horse-shoe-brewery",
+    "attachment": "935095f2-85f5-4590-933f-d087b503798b/1000090645.png",
+    "image": "london-beer-flood-1814-horse-shoe-brewery-ai-historical-illustration.jpg",
+    "category": "History",
+    "schemaType": "Article",
+    "tags": [
+      "London Beer Flood",
+      "1814",
+      "Horse Shoe Brewery",
+      "St Giles",
+      "Industrial history"
+    ],
+    "related": "history-of-alcohol-beer-wine-spirits",
+    "relatedLabel": [
+      "The long history of beer, wine and spirits",
+      "La longue histoire de la bière, du vin et des spiritueux",
+      "التاريخ الطويل للبيرة والنبيذ والمشروبات الروحية",
+      "La larga historia de la cerveza, el vino y los destilados"
+    ],
+    "extraRelated": "natural-disasters-earthquakes-volcanoes-tsunamis",
+    "extraLabel": [
+      "How destructive events reshape communities",
+      "Comment les catastrophes transforment les communautés",
+      "كيف تعيد الكوارث تشكيل المجتمعات",
+      "Cómo las catástrofes transforman las comunidades"
+    ],
+    "meta": {
+      "en": [
+        "THE LONDON BEER FLOOD: WHEN A CITY STREET FILLED WITH BEER",
+        "London Beer Flood of 1814: What Happened and Who Died",
+        "A brewery vat burst in London on October 17, 1814, killing eight people. Discover the Beer Flood’s causes, victims and the myths that followed.",
+        "THE LONDON BEER FLOOD",
+        "CITY STREET FILLED WITH BEER",
+        "AI historical illustration of a burst brewery vat sending beer through an imagined London street."
+      ],
+      "fr": [
+        "L’INONDATION DE BIÈRE DE LONDRES : QUAND UNE RUE FUT SUBMERGÉE DE BIÈRE",
+        "L’inondation de bière de Londres en 1814 : faits et mythes",
+        "Le 17 octobre 1814, une cuve de brasserie éclate à Londres et tue huit personnes. Causes, victimes et mythes de cette inondation de bière.",
+        "L’INONDATION DE BIÈRE DE LONDRES",
+        "SUBMERGÉE DE BIÈRE",
+        "Illustration historique par IA d’une cuve éclatée déversant de la bière dans une rue londonienne imaginée."
+      ],
+      "ar": [
+        "فيضان البيرة في لندن: عندما امتلأ شارع في المدينة بالبيرة",
+        "فيضان البيرة في لندن عام 1814: الحقيقة وراء الكارثة",
+        "تصدع حوض بيرة في لندن يوم 17 أكتوبر 1814 وقتلت ثمانية أشخاص. تعرف إلى أسباب الفيضان وضحاياه والأساطير التي أحاطت به.",
+        "فيضان البيرة في لندن",
+        "امتلأ شارع في المدينة بالبيرة",
+        "رسم تاريخي بالذكاء الاصطناعي لحوض تخمير متصدع يغمر شارعاً متخيلاً في لندن بالبيرة."
+      ],
+      "es": [
+        "LA INUNDACIÓN DE CERVEZA DE LONDRES: CUANDO UNA CALLE SE LLENÓ DE CERVEZA",
+        "La inundación de cerveza de Londres de 1814: hechos y mitos",
+        "El 17 de octubre de 1814, una cuba de cerveza estalló en Londres y mató a ocho personas. Causas, víctimas y mitos de una tragedia industrial.",
+        "LA INUNDACIÓN DE CERVEZA DE LONDRES",
+        "SE LLENÓ DE CERVEZA",
+        "Ilustración histórica con IA de una cuba rota que vierte cerveza en una calle londinense imaginada."
+      ]
+    },
+    "disclosure": [
+      "AI-generated historical illustration supplied for PRESDA. The street, crowd, skyline, exposed vat and dramatic wave are imagined. This is not a photograph, a contemporary eyewitness image or an accurate plan of the brewery and flood area.",
+      "Illustration historique générée par IA et fournie pour PRESDA. Rue, foule, panorama, cuve exposée et vague spectaculaire sont imaginés. Ce n’est ni une photographie, ni un témoignage visuel contemporain, ni un plan exact de la brasserie et de la zone inondée.",
+      "رسم تاريخي مولد بالذكاء الاصطناعي ومقدم لبريزدا. الشارع والحشد والأفق والحوض المكشوف والموجة الدرامية عناصر متخيلة. ليس صورة فوتوغرافية أو توثيقاً بصرياً معاصراً للحادث أو مخططاً دقيقاً للمصنع ومنطقة الفيضان.",
+      "Ilustración histórica generada con IA y proporcionada para PRESDA. Calle, multitud, horizonte, cuba expuesta y ola dramática son imaginados. No es una fotografía, un testimonio visual contemporáneo ni un plano exacto de la fábrica y la zona inundada."
+    ],
+    "blocks": [
+      {
+        "en": "The London Beer Flood was real, but it was not a city enjoying an unexpected free drink. On October 17, 1814, a huge wooden vat failed at Meux’s Horse Shoe Brewery near Tottenham Court Road. Beer broke out of the premises and entered nearby streets and homes. Eight people died. The British Library’s account preserves their names and the inquest’s finding of accidental death, bringing a human scale to an event too often retold as a joke.",
+        "fr": "L’inondation de bière de Londres est réelle, mais ce ne fut pas une fête improvisée autour d’une boisson gratuite. Le 17 octobre 1814, une immense cuve en bois céda à la Horse Shoe Brewery de Meux, près de Tottenham Court Road. La bière sortit des bâtiments et envahit rues et logements. Huit personnes moururent. Le récit de la British Library conserve leurs noms et le verdict de mort accidentelle, redonnant sa dimension humaine à une histoire souvent réduite à une plaisanterie.",
+        "ar": "كان فيضان البيرة في لندن حقيقياً، لكنه لم يكن احتفالاً مفاجئاً بمشروب مجاني. ففي 17 أكتوبر 1814 تصدع حوض خشبي ضخم في مصنع هورس شو التابع لميوكس قرب توتنهام كورت رود. اندفعت البيرة خارج المنشأة ودخلت الشوارع والمنازل المجاورة، ومات ثمانية أشخاص. ويحفظ سرد المكتبة البريطانية أسماءهم ونتيجة التحقيق التي عدت الوفيات عرضية، ليعيد البعد الإنساني إلى حادث كثيراً ما يروى كطرفة.",
+        "es": "La inundación de cerveza de Londres fue real, pero no una fiesta improvisada con bebida gratis. El 17 de octubre de 1814 cedió una enorme cuba de madera en la Horse Shoe Brewery de Meux, cerca de Tottenham Court Road. La cerveza salió del recinto e invadió calles y viviendas. Murieron ocho personas. El relato de la British Library conserva sus nombres y el veredicto de muerte accidental, devolviendo dimensión humana a un episodio convertido a menudo en chiste.",
+        "source": [
+          "British Library: archived London Beer Flood account and inquest",
+          "https://bl.iro.bl.uk/entities/publication/32654bf2-2df2-4df7-a86b-cc666c7adf9b"
+        ]
+      },
+      {
+        "en": "How a brewery became a flood hazard",
+        "fr": "Comment une brasserie devint un risque d’inondation",
+        "ar": "كيف تحول مصنع بيرة إلى مصدر فيضان؟",
+        "es": "Cómo una fábrica se convirtió en un riesgo de inundación",
+        "level": 2
+      },
+      {
+        "en": "The initiating failure involved an iron hoop holding together a large vat of porter, the dark beer stored in enormous quantities at London breweries. Its collapse damaged another vessel and smaller containers, enlarging the release. This was a structural failure with cascading consequences. Calling it a beer explosion can obscure the mechanism: liquid escaping from a massive storage vessel, collapsing masonry and carrying debris into densely occupied housing.",
+        "fr": "La rupture initiale concernait un cerclage de fer maintenant une grande cuve de porter, bière brune stockée en quantités considérables. L’effondrement endommagea un autre récipient et des fûts plus petits, amplifiant l’écoulement. Il s’agissait d’une défaillance structurelle aux effets en chaîne. Parler d’explosion de bière peut masquer le mécanisme : un liquide s’échappant d’un stockage massif, des murs qui cèdent et des débris projetés dans des logements très occupés.",
+        "ar": "ارتبط الفشل الأول بطوق حديدي يثبت حوضاً كبيراً من بيرة البورتر الداكنة، التي كانت مصانع لندن تخزنها بكميات هائلة. وألحق انهياره الضرر بوعاء آخر وبراميل أصغر، فزاد حجم التسرب. كانت تلك حالة فشل إنشائي ذات نتائج متسلسلة. وقد تخفي عبارة انفجار البيرة الآلية الحقيقية: سائل ينفلت من وعاء تخزين ضخم، وجدران تنهار، وحطام يندفع إلى مساكن مكتظة.",
+        "es": "El fallo inicial afectó a un aro de hierro que sujetaba una gran cuba de porter, la cerveza oscura almacenada en enormes cantidades en las fábricas londinenses. El colapso dañó otro recipiente y barriles menores, ampliando el vertido. Fue un fallo estructural con consecuencias en cadena. Llamarlo explosión de cerveza puede ocultar el mecanismo: líquido liberado de un depósito gigantesco, muros que caen y escombros que entran en viviendas densamente ocupadas.",
+        "source": [
+          "Christopher Klein, HISTORY: the London Beer Flood",
+          "https://www.history.com/articles/london-beer-flood"
+        ]
+      },
+      {
+        "en": "How much beer escaped?",
+        "fr": "Quelle quantité s’est échappée ?",
+        "ar": "ما كمية البيرة التي تسربت؟",
+        "es": "¿Cuánta cerveza se derramó?",
+        "level": 3
+      },
+      {
+        "en": "The British Newspaper Archive’s summary of contemporary reporting gives approximately 1.5 million litres for the flood. Published estimates vary, and the contents of the first vat should not be confused with the total released from damaged containers. The important physical fact is not an exact modern conversion. Enough liquid escaped suddenly to destroy houses and fill cellars, turning ordinary rooms into places from which escape could be impossible.",
+        "fr": "Le résumé de la presse d’époque publié par la British Newspaper Archive évoque environ 1,5 million de litres. Les estimations varient, et il faut distinguer la première cuve du total provenant des récipients endommagés. L’essentiel n’est pas une conversion moderne au litre près. Le volume libéré brutalement suffisait à détruire des maisons et remplir les caves, transformant des pièces ordinaires en pièges dont on pouvait ne pas sortir.",
+        "ar": "يورد ملخص أرشيف الصحف البريطانية للتغطية المعاصرة تقديراً يقارب 1.5 مليون لتر. وتختلف الأرقام المنشورة، كما ينبغي الفصل بين محتويات الحوض الأول وإجمالي ما خرج من الأوعية المتضررة. لا تتعلق الحقيقة الفيزيائية الأساسية بتحويل حديث دقيق للوحدات، بل بكمية سائل انطلقت فجأة وكانت كافية لتدمير منازل وملء أقبية وتحويل غرف مألوفة إلى أماكن قد يستحيل الفرار منها.",
+        "es": "El resumen de la prensa de época de la British Newspaper Archive habla de unos 1,5 millones de litros. Las estimaciones varían y no deben confundirse el contenido de la primera cuba y el total liberado por los recipientes dañados. Lo importante no es una conversión moderna exacta: salió líquido suficiente, de golpe, para destruir casas y llenar sótanos, convirtiendo habitaciones corrientes en trampas sin salida.",
+        "source": [
+          "British Newspaper Archive: contemporary reports of eight deaths",
+          "https://www.britishnewspaperarchive.com/blog/great-flood-of-london-eight-people-killed-as-wave-of-beer-swept-through-londons-streets"
+        ]
+      },
+      {
+        "en": "Why St Giles suffered so badly",
+        "fr": "Pourquoi St Giles fut si durement touché",
+        "ar": "لماذا تضررت سانت جايلز بشدة؟",
+        "es": "Por qué St Giles sufrió tanto",
+        "level": 2
+      },
+      {
+        "en": "The brewery stood beside the crowded St Giles neighbourhood, where poor families occupied vulnerable buildings and cellar rooms. The flood brought both drowning and falling masonry. A household below street level had a different chance of escape from someone able to climb upstairs. The disaster’s strange material does not make its social pattern unusual: industrial power and dense housing existed side by side, while those outside the factory bore its worst consequences.",
+        "fr": "La brasserie jouxtait le quartier dense de St Giles, où des familles pauvres vivaient dans des bâtiments fragiles et des caves. L’inondation entraîna noyades et chutes de maçonnerie. Un ménage sous le niveau de la rue n’avait pas les mêmes possibilités de fuite qu’une personne pouvant monter à l’étage. L’étrangeté du liquide ne change pas la logique sociale : puissance industrielle et habitat dense se côtoyaient, et les voisins subirent les conséquences les plus graves.",
+        "ar": "جاور المصنع حي سانت جايلز المكتظ، حيث عاشت أسر فقيرة في مبان هشة وغرف تحت مستوى الشارع. وجمع الفيضان بين خطر الغرق وسقوط الجدران. ولم تكن فرص أسرة في قبو مماثلة لفرص من يستطيع الصعود إلى طابق أعلى. وغرابة السائل لا تجعل النمط الاجتماعي استثنائياً: منشأة صناعية قوية إلى جوار مساكن مكتظة، فيما تحمل من كانوا خارج المصنع أسوأ النتائج.",
+        "es": "La fábrica estaba junto al abarrotado barrio de St Giles, donde familias pobres ocupaban edificios vulnerables y habitaciones en sótanos. La inundación provocó ahogamientos y caídas de mampostería. Quien vivía bajo el nivel de la calle tenía posibilidades de huida distintas de quien podía subir una escalera. El líquido insólito no cambia el patrón social: industria y viviendas densas convivían, mientras los vecinos soportaban las peores consecuencias.",
+        "source": [
+          "Christopher Klein, HISTORY: the London Beer Flood",
+          "https://www.history.com/articles/london-beer-flood"
+        ]
+      },
+      {
+        "en": "The eight people behind the headline",
+        "fr": "Les huit personnes derrière le titre",
+        "ar": "ثمانية أشخاص وراء العنوان الغريب",
+        "es": "Las ocho personas detrás del titular",
+        "level": 2
+      },
+      {
+        "en": "Among the named victims was Eleanor Cooper, a 14-year-old servant at the Tavistock Arms. The British Library also records Hannah Banfield, aged four. These names resist the temptation to treat the event as harmless spectacle. Its account describes a girl who escaped because she had been allowed out to play shortly before relatives died inside a nearby house. Survival could turn on small differences of position and timing.",
+        "fr": "Parmi les victimes nommées figure Eleanor Cooper, domestique de 14 ans au Tavistock Arms. La British Library recense aussi Hannah Banfield, quatre ans. Ces noms empêchent de réduire l’événement à un spectacle inoffensif. Son récit évoque une fille sauvée parce qu’elle avait été autorisée à sortir jouer peu avant la mort de ses proches dans une maison voisine. La survie pouvait dépendre de différences de position et de temps.",
+        "ar": "كانت إليانور كوبر، وهي خادمة في الرابعة عشرة بحانة تافيستوك آرمز، من الضحايا الذين حفظت أسماؤهم. وتذكر المكتبة البريطانية أيضاً هانا بانفيلد ذات الأعوام الأربعة. تقاوم هذه الأسماء إغراء تحويل الحادث إلى مشهد طريف غير مؤذ. ويروي المصدر نجاة فتاة لأنها سمح لها بالخروج للعب قبل وقت قصير من موت أقاربها داخل منزل قريب. فقد تعلقت النجاة بفروق صغيرة في الموقع والتوقيت.",
+        "es": "Entre las víctimas figura Eleanor Cooper, sirvienta de 14 años del Tavistock Arms. La British Library también registra a Hannah Banfield, de cuatro años. Los nombres impiden reducir el episodio a un espectáculo inofensivo. El relato describe a una niña que escapó porque le habían permitido salir a jugar poco antes de que sus familiares murieran dentro de una casa cercana. La supervivencia podía depender de pequeñas diferencias de posición y tiempo.",
+        "source": [
+          "British Library: archived London Beer Flood account and inquest",
+          "https://bl.iro.bl.uk/entities/publication/32654bf2-2df2-4df7-a86b-cc666c7adf9b"
+        ]
+      },
+      {
+        "en": "The inquest and the unequal aftermath",
+        "fr": "L’enquête et un après-coup inégal",
+        "ar": "التحقيق وما بعد الكارثة",
+        "es": "La investigación y sus consecuencias desiguales",
+        "level": 2
+      },
+      {
+        "en": "The inquest treated the deaths as accidental. The brewery continued operating and recovered excise duty previously paid on the lost beer. That financial outcome should not be mistaken for compensation to bereaved neighbours. An industrial business could rebuild its balance sheet; families had lost lives, homes and belongings. The comparison helps explain why the flood belongs in social and industrial history as well as in collections of extraordinary events.",
+        "fr": "L’enquête conclut à des morts accidentelles. La brasserie poursuivit son activité et récupéra les droits d’accise payés sur la bière perdue. Ce résultat financier ne constitue pas une indemnisation des voisins endeuillés. Une entreprise pouvait rétablir ses comptes ; des familles avaient perdu proches, logements et biens. Cette comparaison inscrit l’inondation dans l’histoire sociale et industrielle, autant que dans les récits d’événements extraordinaires.",
+        "ar": "اعتبر التحقيق الوفيات عرضية. واستمر المصنع في العمل واستعاد رسوم الإنتاج التي سبق دفعها عن البيرة المفقودة. ولا ينبغي الخلط بين هذه النتيجة المالية وتعويض الجيران الثكالى. كان في وسع الشركة إصلاح حساباتها، بينما فقدت أسر أرواحاً ومنازل ومقتنيات. وتوضح المقارنة لماذا تنتمي القصة إلى التاريخ الاجتماعي والصناعي، لا إلى مجموعات الوقائع العجيبة وحدها.",
+        "es": "La investigación consideró accidentales las muertes. La fábrica siguió funcionando y recuperó los impuestos especiales ya pagados por la cerveza perdida. Ese resultado financiero no equivale a indemnizar a los vecinos. Una empresa podía reconstruir sus cuentas; las familias habían perdido vidas, hogares y pertenencias. La comparación sitúa la inundación en la historia social e industrial, no solo en los repertorios de sucesos extraordinarios.",
+        "source": [
+          "Londonist: flood geography and the unsupported ninth-victim story",
+          "https://londonist.com/london/history/london-s-forgotten-disasters-the-great-beer-flood"
+        ]
+      },
+      {
+        "en": "Did a ninth person drink themselves to death?",
+        "fr": "Une neuvième personne serait-elle morte en buvant ?",
+        "ar": "هل مات شخص تاسع بسبب شرب البيرة؟",
+        "es": "¿Murió una novena persona por beber?",
+        "level": 2
+      },
+      {
+        "en": "Some later accounts add a death from alcohol poisoning; Historic England’s caption for an Edwardian brewery photograph repeats that claim. It is not the same evidence as the eight deaths recorded by the inquest. Londonist notes that the ninth-victim story lacks support in contemporary newspapers and the coroner’s report. The responsible conclusion is eight documented victims, with the extra drinking-related death identified as an unverified later claim rather than added to a settled total.",
+        "fr": "Certains récits tardifs ajoutent une mort par intoxication alcoolique ; la légende d’une photographie édouardienne de Historic England reprend cette affirmation. Ce n’est pas la même preuve que les huit décès de l’enquête. Londonist indique que ce neuvième cas n’est étayé ni par la presse d’époque ni par le rapport du coroner. Il faut donc retenir huit victimes documentées et présenter la mort supplémentaire comme une affirmation tardive non vérifiée.",
+        "ar": "تضيف روايات لاحقة وفاة بالتسمم الكحولي، ويكرر شرح صورة إدواردية للمصنع لدى هيستوريك إنغلاند هذا الادعاء. لكن ذلك يختلف عن الأدلة المتعلقة بالوفيات الثماني المسجلة في التحقيق. ويشير لندنست إلى غياب ما يدعم قصة الضحية التاسعة في صحف الوقت وتقرير المحقق. وعليه، فالصياغة المنضبطة هي ثماني ضحايا موثقات، مع وصف الوفاة الإضافية المرتبطة بالشرب بأنها ادعاء لاحق غير متحقق.",
+        "es": "Algunos relatos posteriores añaden una muerte por intoxicación alcohólica; el pie de una fotografía eduardiana de Historic England repite esa afirmación. No es la misma evidencia que las ocho muertes documentadas en la investigación. Londonist señala que la novena víctima carece de respaldo en los periódicos contemporáneos y el informe del forense. La conclusión responsable es ocho víctimas documentadas y una muerte adicional presentada como afirmación posterior sin verificar.",
+        "source": [
+          "Historic England: Horse Shoe Brewery archive photograph",
+          "https://historicengland.org.uk/education/schools-resources/educational-images/horse-shoe-brewery-268-tottenham-court-road-holborn-greater-london-bl19305"
+        ]
+      },
+      {
+        "en": "A disaster worth remembering accurately",
+        "fr": "Une catastrophe à raconter avec exactitude",
+        "ar": "كارثة تستحق أن تروى بدقة",
+        "es": "Una tragedia que merece contarse bien",
+        "level": 2
+      },
+      {
+        "en": "The brewery site is associated today with the Dominion Theatre, while the vanished lanes and damaged homes are harder to imagine. The flood remains memorable because beer seems an improbable agent of destruction. Its deeper significance lies elsewhere: the dangerous proximity of huge industrial stores and vulnerable households. Remembering the victims, separating estimates from facts and resisting the drunken-crowd legend turns an astonishing anecdote back into history.",
+        "fr": "Le site de la brasserie est aujourd’hui associé au Dominion Theatre, tandis que les ruelles disparues et logements détruits sont difficiles à imaginer. La bière paraît un agent de destruction improbable, ce qui rend le récit mémorable. Sa portée tient surtout à la proximité dangereuse entre stocks industriels gigantesques et foyers vulnérables. Nommer les victimes et distinguer faits, estimations et légendes rend l’anecdote à l’histoire.",
+        "ar": "يرتبط موقع المصنع اليوم بمسرح دومينيون، فيما يصعب تصور الأزقة التي اختفت والمنازل التي دمرت. تبقى القصة لافتة لأن البيرة تبدو وسيلة غير متوقعة للدمار. لكن معناها الأعمق يتعلق بالتجاور الخطر بين مخزونات صناعية ضخمة وأسر هشة. إن تذكر الضحايا والفصل بين التقديرات والحقائق ومقاومة أسطورة الحشد الثمل يعيد الحكاية المدهشة إلى مكانها في التاريخ.",
+        "es": "El solar de la fábrica se asocia hoy al Dominion Theatre, mientras cuesta imaginar las callejuelas desaparecidas y las casas dañadas. La cerveza parece un agente de destrucción improbable, y por eso el relato se recuerda. Su significado más profundo está en la peligrosa proximidad entre grandes depósitos industriales y hogares vulnerables. Recordar a las víctimas y separar hechos, estimaciones y leyendas devuelve la anécdota a la historia."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "When did the London Beer Flood happen?",
+          "It happened on October 17, 1814, at Meux’s Horse Shoe Brewery near Tottenham Court Road in London."
+        ],
+        [
+          "How many people died?",
+          "The inquest documented eight deaths. A later claim about a ninth person dying from alcohol poisoning is unverified."
+        ],
+        [
+          "Was the flood caused by a river?",
+          "No. A large brewery vat failed, damaging other containers and releasing porter into nearby streets and homes."
+        ],
+        [
+          "Was the flood a free-beer celebration?",
+          "It was a fatal industrial accident. Stories of widespread drunkenness should not be treated as established contemporary evidence."
+        ]
+      ],
+      "fr": [
+        [
+          "Quand l’inondation a-t-elle eu lieu ?",
+          "Le 17 octobre 1814, à la Horse Shoe Brewery de Meux, près de Tottenham Court Road à Londres."
+        ],
+        [
+          "Combien de personnes sont mortes ?",
+          "L’enquête documente huit morts. L’affirmation tardive d’une neuvième victime par intoxication alcoolique reste non vérifiée."
+        ],
+        [
+          "Une rivière a-t-elle provoqué l’inondation ?",
+          "Non. Une cuve de brasserie a cédé, endommageant d’autres récipients et déversant du porter dans les rues et logements voisins."
+        ],
+        [
+          "L’inondation fut-elle une fête de bière gratuite ?",
+          "C’était un accident industriel meurtrier. Les récits d’ivresse collective ne doivent pas être présentés comme des faits contemporains établis."
+        ]
+      ],
+      "ar": [
+        [
+          "متى وقع فيضان البيرة في لندن؟",
+          "وقع في 17 أكتوبر 1814 بمصنع هورس شو التابع لميوكس قرب توتنهام كورت رود في لندن."
+        ],
+        [
+          "كم شخصاً مات في الفيضان؟",
+          "وثق التحقيق ثماني وفيات. أما ادعاء موت شخص تاسع بالتسمم الكحولي فهو رواية لاحقة غير متحققة."
+        ],
+        [
+          "هل تسبب نهر في الفيضان؟",
+          "لا. تصدع حوض كبير في المصنع وألحق الضرر بأوعية أخرى، فانطلقت بيرة البورتر إلى الشوارع والمنازل المجاورة."
+        ],
+        [
+          "هل تحول الفيضان إلى احتفال ببيرة مجانية؟",
+          "كان حادثاً صناعياً مميتاً. ولا ينبغي عرض قصص السكر الجماعي بوصفها وقائع معاصرة مثبتة."
+        ]
+      ],
+      "es": [
+        [
+          "¿Cuándo ocurrió la inundación de cerveza de Londres?",
+          "El 17 de octubre de 1814, en la Horse Shoe Brewery de Meux, cerca de Tottenham Court Road."
+        ],
+        [
+          "¿Cuántas personas murieron?",
+          "La investigación documentó ocho muertes. La afirmación posterior de una novena víctima por intoxicación alcohólica no está verificada."
+        ],
+        [
+          "¿La provocó un río?",
+          "No. Cedió una gran cuba, se dañaron otros recipientes y la cerveza porter entró en calles y viviendas."
+        ],
+        [
+          "¿Fue una fiesta de cerveza gratis?",
+          "Fue un accidente industrial mortal. Los relatos de embriaguez colectiva no deben presentarse como hechos contemporáneos establecidos."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "voyager",
+    "slug": "voyager-golden-record-message-humanity-space",
+    "attachment": "0a0c4fbe-6b87-4963-ba79-e583bfbaec8c/1000090646.png",
+    "image": "voyager-golden-record-spacecraft-message-ai-editorial-illustration.jpg",
+    "category": "Science",
+    "schemaType": "Article",
+    "tags": [
+      "Voyager Golden Record",
+      "NASA",
+      "Carl Sagan",
+      "Interstellar space",
+      "Science history"
+    ],
+    "related": "carl-sagan-journey-through-our-universe",
+    "relatedLabel": [
+      "Carl Sagan and the public imagination of the cosmos",
+      "Carl Sagan et l’imaginaire du cosmos",
+      "كارل ساغان والخيال العام عن الكون",
+      "Carl Sagan y la imaginación del cosmos"
+    ],
+    "extraRelated": "our-universe-big-bang-end-of-time",
+    "extraLabel": [
+      "Our universe, from its beginnings to its possible futures",
+      "Notre Univers, de ses origines à ses futurs possibles",
+      "كوننا من البدايات إلى الاحتمالات المستقبلية",
+      "Nuestro universo, de sus orígenes a sus futuros posibles"
+    ],
+    "meta": {
+      "en": [
+        "VOYAGER’S GOLDEN RECORD: THE MESSAGE HUMANITY SENT INTO SPACE",
+        "Voyager’s Golden Record: Earth’s Message to the Cosmos",
+        "Explore the Voyager Golden Record: its 1977 launch, 115 images, greetings in 55 languages, music and instructions for a hypothetical distant listener.",
+        "VOYAGER’S GOLDEN RECORD",
+        "MESSAGE HUMANITY SENT INTO SPACE",
+        "AI illustration of a Voyager-like spacecraft beside an enlarged golden disc with instruction-cover motifs."
+      ],
+      "fr": [
+        "LE DISQUE D’OR DE VOYAGER : LE MESSAGE DE L’HUMANITÉ ENVOYÉ DANS L’ESPACE",
+        "Le disque d’or de Voyager : le message de la Terre au cosmos",
+        "Découvrez le disque d’or de Voyager : lancement en 1977, 115 images, salutations en 55 langues, musique et instructions pour un destinataire hypothétique.",
+        "LE DISQUE D’OR DE VOYAGER",
+        "MESSAGE DE L’HUMANITÉ",
+        "Illustration par IA d’une sonde évoquant Voyager près d’un disque doré agrandi aux motifs de sa couverture."
+      ],
+      "ar": [
+        "قرص فوياجر الذهبي: الرسالة التي أرسلتها البشرية إلى الفضاء",
+        "قرص فوياجر الذهبي: رسالة الأرض إلى الكون",
+        "اكتشف قرص فوياجر الذهبي الذي انطلق عام 1977، بصوره الـ115 وتحياته بـ55 لغة وموسيقاه وتعليماته لمستمع بعيد محتمل.",
+        "قرص فوياجر الذهبي",
+        "الرسالة التي أرسلتها البشرية",
+        "رسم بالذكاء الاصطناعي لمسبار يشبه فوياجر بجوار قرص ذهبي مكبر يحمل رموزاً من غطائه التعليمي."
+      ],
+      "es": [
+        "EL DISCO DE ORO DE VOYAGER: EL MENSAJE QUE LA HUMANIDAD ENVIÓ AL ESPACIO",
+        "El disco de oro de Voyager: el mensaje de la Tierra al cosmos",
+        "Descubre el disco de oro de Voyager: lanzamiento en 1977, 115 imágenes, saludos en 55 idiomas, música e instrucciones para un destinatario hipotético.",
+        "EL DISCO DE ORO DE VOYAGER",
+        "MENSAJE QUE LA HUMANIDAD ENVIÓ AL ESPACIO",
+        "Ilustración con IA de una sonda similar a Voyager junto a un disco dorado ampliado con símbolos de su cubierta."
+      ]
+    },
+    "disclosure": [
+      "AI-generated editorial illustration supplied for PRESDA. The spacecraft, enlarged disc, rocky foreground, Jupiter and star field form an imagined montage, not a NASA photograph or a scene encountered by Voyager. The disc combines artistic versions of motifs from the actual instruction cover; scale and placement are not literal.",
+      "Illustration éditoriale générée par IA et fournie pour PRESDA. Sonde, disque agrandi, rochers, Jupiter et étoiles forment un montage imaginé, pas une photographie de la NASA ni une scène rencontrée par Voyager. Le disque reprend librement des motifs de la véritable couverture explicative ; échelle et emplacement ne sont pas littéraux.",
+      "رسم تحريري مولد بالذكاء الاصطناعي ومقدم لبريزدا. المسبار والقرص المكبر والصخور والمشتري والنجوم مونتاج متخيل، وليس صورة لناسا أو مشهداً واجهته فوياجر. يجمع القرص نسخاً فنية من رموز الغطاء التعليمي الحقيقي، ولا تمثل الأحجام والمواضع ترتيباً حرفياً.",
+      "Ilustración editorial generada con IA y proporcionada para PRESDA. Sonda, disco ampliado, rocas, Júpiter y estrellas forman un montaje imaginado, no una fotografía de la NASA ni una escena encontrada por Voyager. El disco recrea libremente motivos de la cubierta real; escala y colocación no son literales."
+    ],
+    "blocks": [
+      {
+        "en": "In 1977, humanity sent two robotic explorers towards the giant planets, each carrying something with no scientific instrument’s usual job description: a record of Earth for a possible listener elsewhere. Voyager 2 launched on August 20, followed by Voyager 1 on September 5. Their Golden Records were physical objects attached to the spacecraft. They did not broadcast an album into space. They carried a carefully chosen portrait of life, waiting for an encounter that was never guaranteed.",
+        "fr": "En 1977, l’humanité envoya deux explorateurs robotisés vers les planètes géantes, chacun emportant un objet sans fonction scientifique habituelle : un enregistrement de la Terre pour un éventuel auditeur ailleurs. Voyager 2 partit le 20 août, puis Voyager 1 le 5 septembre. Leurs disques d’or étaient fixés aux sondes. Ils ne diffusaient pas un album dans l’espace : ils transportaient un portrait choisi de la vie, pour une rencontre qui n’était nullement garantie.",
+        "ar": "في عام 1977 أرسلت البشرية مسبارين آليين نحو الكواكب العملاقة، يحمل كل منهما شيئاً خارج الوظيفة المعتادة للأجهزة العلمية: تسجيلاً للأرض من أجل مستمع محتمل في مكان آخر. انطلقت فوياجر 2 في 20 أغسطس، ثم فوياجر 1 في 5 سبتمبر. وكان القرصان الذهبيان جسمين مثبتين على المسبارين، لا ألبوماً يبث في الفضاء. حملا صورة مختارة للحياة من أجل لقاء لم يكن مضموناً قط.",
+        "es": "En 1977, la humanidad envió dos exploradores robóticos hacia los planetas gigantes, cada uno con un objeto ajeno a la función habitual de un instrumento científico: una grabación de la Tierra para un posible oyente lejano. Voyager 2 despegó el 20 de agosto y Voyager 1 el 5 de septiembre. Sus discos de oro iban fijados a las sondas. No emitían un álbum al espacio: transportaban un retrato escogido de la vida para un encuentro nunca garantizado.",
+        "source": [
+          "NASA: Voyager mission overview and launch chronology",
+          "https://science.nasa.gov/mission/voyager/mission-overview/"
+        ]
+      },
+      {
+        "en": "What is the Golden Record?",
+        "fr": "Qu’est-ce que le disque d’or ?",
+        "ar": "ما القرص الذهبي؟",
+        "es": "¿Qué es el disco de oro?",
+        "level": 2
+      },
+      {
+        "en": "Each spacecraft carries a 12-inch, gold-plated copper phonograph record. The package includes a protective aluminium cover and equipment for playback. Its information is analog: sounds can be reproduced from the grooves, while recorded signals encode pictures. The name can suggest a solid-gold disc or a modern digital archive, but neither description is correct. A hypothetical finder would need to recover and interpret a physical recording system.",
+        "fr": "Chaque sonde transporte un disque phonographique en cuivre plaqué or de 30 centimètres environ. L’ensemble comprend une couverture protectrice en aluminium et du matériel de lecture. L’information est analogique : les sillons restituent les sons, et des signaux enregistrés codent des images. Ce n’est ni un disque d’or massif ni une archive numérique moderne. Un éventuel découvreur devrait comprendre un système matériel d’enregistrement.",
+        "ar": "يحمل كل مسبار قرصاً صوتياً من النحاس المطلي بالذهب بقطر 12 بوصة، أي نحو 30 سنتيمتراً. وتضم الحزمة غطاء ألومنيوم واقياً وأدوات للقراءة. والمعلومات تماثلية؛ إذ تعيد الأخاديد إنتاج الأصوات، وتحمل إشارات مسجلة الصور المشفرة. لذلك فليس القرص كتلة من الذهب الخالص أو أرشيفاً رقمياً حديثاً. وسيحتاج من يعثر عليه إلى فهم نظام تسجيل مادي وتفسيره.",
+        "es": "Cada sonda lleva un disco fonográfico de cobre bañado en oro de unas 12 pulgadas, aproximadamente 30 centímetros. El conjunto incluye una cubierta protectora de aluminio y equipo de reproducción. La información es analógica: los surcos reproducen sonidos y las señales grabadas codifican imágenes. No es un disco de oro macizo ni un archivo digital moderno. Su hipotético descubridor tendría que interpretar un sistema físico de grabación.",
+        "source": [
+          "NASA: Golden Record contents and analog encoding",
+          "https://science.nasa.gov/mission/voyager/golden-record-contents/"
+        ]
+      },
+      {
+        "en": "Who chose humanity’s introduction?",
+        "fr": "Qui a choisi cette présentation de l’humanité ?",
+        "ar": "من اختار هذه المقدمة عن البشرية؟",
+        "es": "¿Quién eligió la presentación de la humanidad?",
+        "level": 2
+      },
+      {
+        "en": "NASA assigned the selection to a committee chaired by Carl Sagan. Ann Druyan, Frank Drake, Timothy Ferris, Jon Lomberg and Linda Salzman were among the people with central creative, technical and organising roles. Calling it Sagan’s record alone misses that collaborative work. It was also a selection made by particular people in the 1970s, not a referendum of the entire planet or a complete catalogue of human experience.",
+        "fr": "La NASA confia la sélection à un comité présidé par Carl Sagan. Ann Druyan, Frank Drake, Timothy Ferris, Jon Lomberg et Linda Salzman jouèrent notamment des rôles créatifs, techniques ou d’organisation essentiels. Réduire l’œuvre au disque de Sagan efface cette collaboration. Le choix fut celui de personnes situées dans les années 1970, pas un référendum mondial ni un catalogue complet de l’expérience humaine.",
+        "ar": "عهدت ناسا بالاختيار إلى لجنة برئاسة كارل ساغان. وكان من أصحاب الأدوار الإبداعية والتقنية والتنظيمية الأساسية آن درويان وفرانك دريك وتيموثي فيريس وجون لومبرغ وليندا سالزمان. ووصفه بقرص ساغان وحده يغفل العمل الجماعي. كما أن محتواه اختيار لأشخاص محددين في سبعينيات القرن العشرين، وليس استفتاء للكوكب كله أو فهرساً شاملاً للتجربة البشرية.",
+        "es": "La NASA encargó la selección a un comité presidido por Carl Sagan. Ann Druyan, Frank Drake, Timothy Ferris, Jon Lomberg y Linda Salzman desempeñaron funciones creativas, técnicas y organizativas fundamentales. Llamarlo únicamente el disco de Sagan borra el trabajo colectivo. Fue además una selección de personas concretas de los años setenta, no un referéndum planetario ni un catálogo completo de la experiencia humana.",
+        "source": [
+          "NASA: Golden Record contents and analog encoding",
+          "https://science.nasa.gov/mission/voyager/golden-record-contents/"
+        ]
+      },
+      {
+        "en": "Images, greetings and the sounds of Earth",
+        "fr": "Images, salutations et sons de la Terre",
+        "ar": "صور وتحيات وأصوات من الأرض",
+        "es": "Imágenes, saludos y sonidos de la Tierra",
+        "level": 2
+      },
+      {
+        "en": "NASA describes a selection of 115 images, ranging across science, landscapes, animals and human activities. They are encoded as signals, not printed as a tiny photographic album on the gold surface. The choice tries to establish common ground before presenting unfamiliar details: bodies, environments, quantities and daily life. The pictures reveal what the makers hoped could be communicated, while also exposing the difficulty of explaining anything without shared conventions.",
+        "fr": "La NASA décrit une sélection de 115 images couvrant sciences, paysages, animaux et activités humaines. Elles sont codées en signaux, pas imprimées comme un minuscule album sur la surface dorée. Le choix tente d’établir des repères : corps, milieux, quantités et vie quotidienne. Les images montrent ce que l’équipe espérait transmettre, mais aussi la difficulté d’expliquer sans conventions partagées.",
+        "ar": "تصف ناسا مجموعة من 115 صورة تشمل العلوم والمناظر الطبيعية والحيوانات وأنشطة البشر. وهي مشفرة في إشارات، وليست ألبوماً فوتوغرافياً مصغراً مطبوعاً على السطح الذهبي. ويحاول الاختيار بناء أرضية للفهم عبر الأجسام والبيئات والكميات والحياة اليومية. تكشف الصور ما أمل صانعو الرسالة إيصاله، وتكشف أيضاً صعوبة شرح أي شيء دون أعراف مشتركة.",
+        "es": "La NASA describe una selección de 115 imágenes de ciencia, paisajes, animales y actividades humanas. Están codificadas como señales, no impresas como un diminuto álbum sobre el oro. La selección intenta establecer referencias compartidas: cuerpos, entornos, cantidades y vida cotidiana. Muestra lo que sus creadores esperaban comunicar, pero también la dificultad de explicar sin convenciones comunes.",
+        "source": [
+          "NASA: the 115-image selection",
+          "https://science.nasa.gov/mission/voyager/golden-record-contents/images/"
+        ]
+      },
+      {
+        "en": "Spoken greetings in 55 languages add many human voices rather than a single universal speech. Their meanings depend on language, tone and context, things an unknown recipient might not share. That limitation does not make them pointless. They give the message warmth and variety for human listeners too. The record can be understood both as a communication experiment and as a historical expression of how people wished to introduce themselves.",
+        "fr": "Des salutations parlées en 55 langues ajoutent de nombreuses voix plutôt qu’un discours universel unique. Leurs sens dépendent de langues, de tons et de contextes qu’un destinataire inconnu ne partagerait peut-être pas. Cette limite ne les rend pas inutiles. Elles apportent chaleur et diversité aux auditeurs humains aussi. Le disque relève autant d’une expérience de communication que d’une façon historique de se présenter.",
+        "ar": "تضيف تحيات منطوقة بـ55 لغة أصواتاً بشرية عديدة بدلاً من خطاب عالمي واحد. ويتوقف معناها على اللغة والنبرة والسياق، وهي أشياء قد لا يشترك فيها المتلقي المجهول. ولا يجعلها هذا القيد بلا قيمة؛ فهي تمنح الرسالة دفئاً وتنوعاً للمستمع البشري أيضاً. ويمكن فهم القرص كتجربة في التواصل وتعبير تاريخي عن الطريقة التي أراد بها البشر تقديم أنفسهم.",
+        "es": "Los saludos hablados en 55 idiomas incorporan muchas voces, no un único discurso universal. Su significado depende de lenguas, tonos y contextos que un destinatario desconocido quizá no comparta. Esa limitación no los vuelve inútiles. También aportan calidez y variedad a los oyentes humanos. El disco es a la vez experimento de comunicación y expresión histórica de cómo deseábamos presentarnos.",
+        "source": [
+          "NASA: greetings in 55 languages",
+          "https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/"
+        ]
+      },
+      {
+        "en": "The sound selections include the natural world and human activity, while the musical programme spans cultures and periods. NASA lists Bach and Beethoven alongside Chuck Berry, Blind Willie Johnson and music from numerous other traditions. The diversity is intentional, but no finite playlist can stand for everyone. Listening today invites two responses at once: admiration for the ambition and curiosity about whose experiences could not fit within the selection.",
+        "fr": "Les sons associent nature et activités humaines, tandis que le programme musical traverse cultures et époques. La NASA cite Bach et Beethoven, mais aussi Chuck Berry, Blind Willie Johnson et de nombreuses autres traditions. La diversité est volontaire, sans qu’une liste finie puisse représenter tout le monde. L’écoute actuelle invite à admirer l’ambition tout en s’interrogeant sur les expériences restées hors de la sélection.",
+        "ar": "تجمع المقاطع الصوتية بين الطبيعة والنشاط البشري، ويعبر البرنامج الموسيقي ثقافات وعصوراً مختلفة. وتورد ناسا باخ وبيتهوفن إلى جانب تشاك بيري وبلايند ويلي جونسون وتقاليد عديدة أخرى. والتنوع مقصود، لكن لا يمكن لقائمة محدودة أن تمثل الجميع. ويدعو الاستماع اليوم إلى الإعجاب بالطموح والتساؤل في الوقت نفسه عن التجارب التي لم تتسع لها المجموعة.",
+        "es": "La selección sonora une naturaleza y actividad humana, mientras la música recorre culturas y épocas. La NASA incluye a Bach y Beethoven junto a Chuck Berry, Blind Willie Johnson y otras muchas tradiciones. La diversidad es deliberada, pero ninguna lista finita representa a todos. Escucharlo hoy invita a admirar la ambición y preguntarse qué experiencias quedaron fuera.",
+        "source": [
+          "NASA: sounds and music on the record",
+          "https://science.nasa.gov/mission/voyager/golden-record-contents/sounds/"
+        ]
+      },
+      {
+        "en": "How could a stranger play it?",
+        "fr": "Comment un inconnu pourrait-il le lire ?",
+        "ar": "كيف يمكن لمتلق مجهول تشغيله؟",
+        "es": "¿Cómo podría reproducirlo un desconocido?",
+        "level": 3
+      },
+      {
+        "en": "The instruction cover is a separate part of the package. Its diagrams show the record and stylus, explain timing through a transition of the hydrogen atom and describe how to reconstruct images. A pulsar map locates the Solar System relative to 14 pulsars. These are proposed bridges from physics to interpretation, not proof that another intelligence would decode them correctly. Even a message based on nature requires a reader able to recognise its assumptions.",
+        "fr": "La couverture explicative est une partie distincte de l’ensemble. Ses diagrammes montrent disque et pointe de lecture, définissent des durées à partir d’une transition de l’atome d’hydrogène et expliquent la reconstruction des images. Une carte situe le Système solaire par rapport à 14 pulsars. Ce sont des passerelles proposées entre physique et interprétation, pas la garantie qu’une autre intelligence les comprendra. Même la nature exige ici un lecteur capable d’en reconnaître les conventions.",
+        "ar": "يشكل الغطاء التعليمي جزءاً مستقلاً من الحزمة. وتوضح رسومه القرص وإبرة القراءة، وتشرح الزمن بالاستناد إلى انتقال في ذرة الهيدروجين، وتبين طريقة إعادة بناء الصور. وتحدد خريطة موقع النظام الشمسي بالنسبة إلى 14 نجماً نابضاً. وهذه جسور مقترحة بين الفيزياء والتفسير، وليست برهاناً على أن ذكاء آخر سيفك الرموز بصورة صحيحة. فحتى الرسالة المبنية على الطبيعة تتطلب قارئاً يتعرف إلى افتراضاتها.",
+        "es": "La cubierta explicativa es una pieza distinta del conjunto. Sus diagramas muestran disco y aguja, definen tiempos mediante una transición del átomo de hidrógeno y explican cómo reconstruir imágenes. Un mapa sitúa el Sistema Solar respecto a 14 púlsares. Son puentes propuestos entre física e interpretación, no garantía de que otra inteligencia los descifre. Incluso un mensaje basado en la naturaleza requiere reconocer sus convenciones.",
+        "source": [
+          "NASA: how to read the Golden Record cover",
+          "https://science.nasa.gov/mission/voyager/golden-record-cover/"
+        ]
+      },
+      {
+        "en": "Beyond the planets is not the end of the story",
+        "fr": "Au-delà des planètes, l’histoire continue",
+        "ar": "القصة لا تنتهي بعد الكواكب",
+        "es": "La historia continúa más allá de los planetas",
+        "level": 2
+      },
+      {
+        "en": "Voyager 1 crossed the heliopause into interstellar space in 2012; Voyager 2 followed in 2018. That boundary marks the outer extent of the solar-wind bubble, not the end of every region gravitationally associated with the Sun. Their records are passive cargo. The eventual loss of electrical power would not erase the grooves or consume the message. Preservation and discovery are nevertheless different questions: an object can endure without ever being found.",
+        "fr": "Voyager 1 franchit l’héliopause vers l’espace interstellaire en 2012, puis Voyager 2 en 2018. Cette limite correspond à la bulle du vent solaire, pas à toute région gravitationnellement associée au Soleil. Les disques sont une cargaison passive. La perte future d’électricité n’effacerait pas les sillons. Mais conservation et découverte restent distinctes : un objet peut durer sans jamais être trouvé.",
+        "ar": "عبرت فوياجر 1 حد الغلاف الشمسي إلى الفضاء بين النجوم عام 2012، وتبعتها فوياجر 2 عام 2018. ويمثل الحد نهاية فقاعة الرياح الشمسية، لا نهاية كل منطقة مرتبطة جاذبياً بالشمس. والقرصان حمولة ساكنة؛ فلن يمحو فقدان الطاقة الكهربائية مستقبلاً أخاديدهما أو يستهلك الرسالة. ومع ذلك يبقى الحفظ مختلفاً عن الاكتشاف؛ فقد يصمد جسم دون أن يعثر عليه أحد.",
+        "es": "Voyager 1 cruzó la heliopausa hacia el espacio interestelar en 2012; Voyager 2 lo hizo en 2018. Ese límite corresponde a la burbuja del viento solar, no a toda región ligada gravitatoriamente al Sol. Los discos son carga pasiva. La futura pérdida de electricidad no borraría sus surcos. Pero conservación y descubrimiento son preguntas distintas: un objeto puede perdurar sin ser encontrado.",
+        "source": [
+          "NASA: the Voyager interstellar mission",
+          "https://science.nasa.gov/mission/voyager/interstellar-mission/"
+        ]
+      },
+      {
+        "en": "A message to ourselves as well",
+        "fr": "Un message adressé à nous-mêmes aussi",
+        "ar": "رسالة موجهة إلينا أيضاً",
+        "es": "Un mensaje también para nosotros",
+        "level": 2
+      },
+      {
+        "en": "The Golden Record’s lasting power is not a demonstrated conversation with extraterrestrial life. It is the decision to imagine one, then make an object carefully enough to carry that hope. Its music, greetings and pictures belong to a particular moment, yet its central question remains open: what would we choose if asked to explain Earth? The record makes that question tangible, somewhere between engineering, cultural history and an act of imagination.",
+        "fr": "La force durable du disque ne tient pas à une conversation démontrée avec une vie extraterrestre, mais à la décision de l’imaginer et de fabriquer un objet portant cet espoir. Musiques, voix et images appartiennent à une époque, mais la question reste ouverte : que choisir pour expliquer la Terre ? Le disque rend ce problème concret, entre ingénierie, histoire culturelle et imagination.",
+        "ar": "لا تكمن قوة القرص المستمرة في محادثة مثبتة مع حياة خارج الأرض، بل في قرار تخيلها وصنع جسم يحمل ذلك الأمل بعناية. تنتمي الموسيقى والتحيات والصور إلى لحظة محددة، لكن السؤال المركزي يظل مفتوحاً: ماذا نختار لو طلب منا شرح الأرض؟ يجعل القرص السؤال ملموساً، في منطقة تجمع الهندسة والتاريخ الثقافي والخيال.",
+        "es": "La fuerza duradera del disco no reside en una conversación demostrada con vida extraterrestre, sino en imaginarla y fabricar con cuidado un objeto capaz de llevar esa esperanza. Música, voces e imágenes pertenecen a una época, pero la pregunta sigue abierta: ¿qué elegiríamos para explicar la Tierra? El disco la vuelve tangible, entre ingeniería, historia cultural e imaginación."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "What is the Voyager Golden Record made of?",
+          "It is a 12-inch copper phonograph record plated with gold, carried with a protective cover and playback equipment."
+        ],
+        [
+          "How many languages and images does it contain?",
+          "NASA describes 115 images and spoken greetings in 55 languages, alongside sounds and music."
+        ],
+        [
+          "Was the Golden Record broadcast as a radio message?",
+          "No. It is a physical recording attached to each spacecraft. Recovering and playing it would require a hypothetical encounter with the probe."
+        ],
+        [
+          "Are the instructions engraved on the same surface as the sounds?",
+          "The symbolic instructions are on the protective cover. The record itself stores analog sounds and image signals."
+        ]
+      ],
+      "fr": [
+        [
+          "De quoi le disque d’or est-il fait ?",
+          "C’est un disque phonographique en cuivre plaqué or d’environ 30 centimètres, accompagné d’une protection et de matériel de lecture."
+        ],
+        [
+          "Combien de langues et d’images contient-il ?",
+          "La NASA décrit 115 images et des salutations parlées en 55 langues, ainsi que des sons et de la musique."
+        ],
+        [
+          "Le disque a-t-il été diffusé par radio ?",
+          "Non. C’est un enregistrement matériel fixé à chaque sonde. Sa lecture supposerait une rencontre hypothétique avec celle-ci."
+        ],
+        [
+          "Les instructions sont-elles sur la surface sonore ?",
+          "Les instructions symboliques sont sur la couverture protectrice. Le disque stocke les sons et signaux d’images analogiques."
+        ]
+      ],
+      "ar": [
+        [
+          "مم صنع قرص فوياجر الذهبي؟",
+          "هو قرص صوتي نحاسي مطلي بالذهب بقطر 12 بوصة، يرافقه غطاء واق وأدوات للقراءة."
+        ],
+        [
+          "كم لغة وصورة يتضمن؟",
+          "تصف ناسا محتواه بأنه 115 صورة وتحيات منطوقة بـ55 لغة، إضافة إلى أصوات وموسيقى."
+        ],
+        [
+          "هل بث القرص كرسالة راديوية؟",
+          "لا. إنه تسجيل مادي مثبت على كل مسبار، ويتطلب تشغيله لقاء افتراضياً مع المركبة والعثور عليه."
+        ],
+        [
+          "هل نقشت التعليمات على سطح التسجيل الصوتي نفسه؟",
+          "توجد التعليمات الرمزية على الغطاء الواقي. أما القرص فيحفظ الأصوات وإشارات الصور تماثلياً."
+        ]
+      ],
+      "es": [
+        [
+          "¿De qué está hecho el disco de oro?",
+          "Es un disco fonográfico de cobre bañado en oro de unas 12 pulgadas, con cubierta protectora y equipo de reproducción."
+        ],
+        [
+          "¿Cuántos idiomas e imágenes contiene?",
+          "La NASA describe 115 imágenes y saludos hablados en 55 idiomas, además de sonidos y música."
+        ],
+        [
+          "¿Se emitió el disco como mensaje de radio?",
+          "No. Es una grabación física fijada a cada sonda. Escucharlo requeriría un encuentro hipotético con la nave."
+        ],
+        [
+          "¿Las instrucciones están en la superficie sonora?",
+          "Los símbolos explicativos están en la cubierta protectora. El disco guarda sonidos y señales de imágenes en formato analógico."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "constantinople",
+    "slug": "fall-constantinople-1453-sultan-mehmed-ii",
+    "attachment": "5b8038a5-6921-47f4-8dc9-dbb348fe8e70/1000090649.png",
+    "image": "constantinople-1453-mehmed-ii-siege-ai-historical-illustration.jpg",
+    "category": "History",
+    "schemaType": "Article",
+    "tags": [
+      "Fall of Constantinople",
+      "1453",
+      "Mehmed II",
+      "Byzantine Empire",
+      "Ottoman history"
+    ],
+    "related": "byzantine-empire-eastern-rome-constantinople-1453",
+    "relatedLabel": [
+      "The Byzantine Empire and the long survival of Eastern Rome",
+      "L’Empire byzantin et la longue survie de Rome en Orient",
+      "الإمبراطورية البيزنطية واستمرار روما الشرقية",
+      "El Imperio bizantino y la larga supervivencia de Roma oriental"
+    ],
+    "extraRelated": "ottoman-empire-rise-and-fall",
+    "extraLabel": [
+      "The Ottoman Empire’s rise and transformation",
+      "L’essor et les transformations de l’Empire ottoman",
+      "صعود الدولة العثمانية وتحولاتها",
+      "El ascenso y las transformaciones del Imperio otomano"
+    ],
+    "meta": {
+      "en": [
+        "THE FALL OF CONSTANTINOPLE: SULTAN MEHMED II’S HISTORIC CONQUEST",
+        "The Fall of Constantinople, 1453: Mehmed II’s Conquest",
+        "How Mehmed II captured Constantinople on May 29, 1453: the siege, Byzantine defenders, Ottoman strategy, civilian suffering and the city’s transformation.",
+        "THE FALL OF CONSTANTINOPLE",
+        "MEHMED II’S HISTORIC CONQUEST",
+        "AI historical illustration of Mehmed II, Ottoman troops and cannon before imagined Constantinople walls."
+      ],
+      "fr": [
+        "LA CHUTE DE CONSTANTINOPLE : LA CONQUÊTE HISTORIQUE DU SULTAN MEHMED II",
+        "La chute de Constantinople en 1453 : la conquête de Mehmed II",
+        "Comment Mehmed II prit Constantinople le 29 mai 1453 : siège, défense byzantine, stratégie ottomane, souffrances civiles et transformation de la ville.",
+        "LA CHUTE DE CONSTANTINOPLE",
+        "CONQUÊTE HISTORIQUE",
+        "Illustration historique par IA de Mehmed II, de soldats ottomans et d’un canon devant des remparts imaginés."
+      ],
+      "ar": [
+        "سقوط القسطنطينية: الفتح التاريخي للسلطان محمد الثاني",
+        "فتح القسطنطينية عام 1453: حصار السلطان محمد الثاني",
+        "كيف فتح محمد الثاني القسطنطينية في 29 مايو 1453؟ الحصار والدفاع البيزنطي والاستراتيجية العثمانية ومعاناة المدنيين وتحول المدينة.",
+        "سقوط القسطنطينية",
+        "الفتح التاريخي",
+        "رسم تاريخي بالذكاء الاصطناعي لمحمد الثاني وجنود عثمانيين ومدفع أمام أسوار متخيلة للقسطنطينية."
+      ],
+      "es": [
+        "LA CAÍDA DE CONSTANTINOPLA: LA CONQUISTA HISTÓRICA DEL SULTÁN MEHMED II",
+        "La caída de Constantinopla de 1453: la conquista de Mehmed II",
+        "Cómo Mehmed II tomó Constantinopla el 29 de mayo de 1453: asedio, defensores bizantinos, estrategia otomana, sufrimiento civil y transformación urbana.",
+        "LA CAÍDA DE CONSTANTINOPLA",
+        "CONQUISTA HISTÓRICA",
+        "Ilustración histórica con IA de Mehmed II, soldados otomanos y un cañón ante murallas imaginadas."
+      ]
+    },
+    "disclosure": [
+      "AI-generated historical illustration supplied for PRESDA. Mehmed’s pose, uniforms, flags, cannon, battle and city layout are imagined. Hagia Sophia’s minarets shown in the scene belong to its later Ottoman history, not its appearance before the conquest. This is not a documentary reconstruction of May 29, 1453.",
+      "Illustration historique générée par IA et fournie pour PRESDA. Pose de Mehmed, costumes, drapeaux, canon, bataille et topographie sont imaginés. Les minarets de Sainte-Sophie appartiennent à son histoire ottomane ultérieure, pas à son aspect avant la conquête. Ce n’est pas une reconstitution documentaire du 29 mai 1453.",
+      "رسم تاريخي مولد بالذكاء الاصطناعي ومقدم لبريزدا. وضعية محمد الثاني والملابس والرايات والمدفع والمعركة وتخطيط المدينة عناصر متخيلة. مآذن آيا صوفيا الظاهرة تنتمي إلى تاريخها العثماني اللاحق، لا إلى شكلها قبل الفتح. ليست إعادة بناء توثيقية ليوم 29 مايو 1453.",
+      "Ilustración histórica generada con IA y proporcionada para PRESDA. Pose de Mehmed, vestimentas, banderas, cañón, batalla y trazado urbano son imaginados. Los minaretes de Santa Sofía pertenecen a su historia otomana posterior, no a su aspecto anterior a la conquista. No es una reconstrucción documental del 29 de mayo de 1453."
+    ],
+    "blocks": [
+      {
+        "en": "On May 29, 1453, Ottoman forces under Sultan Mehmed II captured Constantinople after a siege lasting nearly two months. For the conqueror, the city offered the centre of an expanding imperial project. For the defeated Byzantine population, it brought violent loss and a profound political rupture. Both perspectives belong to the history. The conquest ended Byzantine imperial rule in its capital, but it did not erase the people, religious traditions or cultural achievements that had shaped the city.",
+        "fr": "Le 29 mai 1453, les forces ottomanes du sultan Mehmed II prirent Constantinople après près de deux mois de siège. Pour le conquérant, la ville offrait un centre à son projet impérial. Pour la population byzantine vaincue, elle signifiait pertes violentes et rupture politique. Ces deux perspectives appartiennent à l’histoire. La conquête mit fin au pouvoir impérial byzantin dans sa capitale, sans effacer les habitants, traditions religieuses et réalisations culturelles qui l’avaient façonnée.",
+        "ar": "في 29 مايو 1453 استولت القوات العثمانية بقيادة السلطان محمد الثاني على القسطنطينية بعد حصار استمر قرابة شهرين. كانت المدينة بالنسبة إلى الفاتح مركزاً لمشروع إمبراطوري متوسع، بينما حملت للسكان البيزنطيين المهزومين خسائر عنيفة وقطيعة سياسية عميقة. وكلا المنظورين جزء من التاريخ. أنهى الفتح الحكم الإمبراطوري البيزنطي في عاصمته، لكنه لم يمح الناس والتقاليد الدينية والمنجزات الثقافية التي شكلت المدينة.",
+        "es": "El 29 de mayo de 1453, las fuerzas otomanas del sultán Mehmed II tomaron Constantinopla tras casi dos meses de asedio. Para el conquistador, ofrecía un centro para su proyecto imperial. Para la población bizantina derrotada, supuso pérdidas violentas y una ruptura política profunda. Ambas perspectivas pertenecen a la historia. La conquista terminó con el poder imperial bizantino en su capital, pero no borró a sus habitantes, tradiciones religiosas ni logros culturales.",
+        "source": [
+          "Byzantine and Christian Museum: the fall and its cultural aftermath",
+          "https://www.byzantinemuseum.gr/en/exhibitions/48/permanent-exhibition/the-byzantine-world/31/the-fall-of-constantinople"
+        ]
+      },
+      {
+        "en": "Why Constantinople mattered",
+        "fr": "Pourquoi Constantinople comptait",
+        "ar": "لماذا كانت القسطنطينية مهمة؟",
+        "es": "Por qué importaba Constantinopla",
+        "level": 2
+      },
+      {
+        "en": "The city occupied a strategic position between the Balkans and Anatolia, linking the Black Sea and the Mediterranean through the Bosporus. Its importance was not simply the strength of a wall. It combined imperial prestige, trade, religious institutions and a remarkably layered urban landscape. UNESCO’s account places its Byzantine and Ottoman monuments within more than two millennia of history, a useful reminder that no single conquest explains the whole city.",
+        "fr": "La ville occupait une position stratégique entre Balkans et Anatolie, reliant mer Noire et Méditerranée par le Bosphore. Son importance dépassait ses remparts : prestige impérial, commerce, institutions religieuses et paysage urbain stratifié s’y combinaient. L’UNESCO replace ses monuments byzantins et ottomans dans plus de deux millénaires d’histoire. Aucune conquête ne suffit donc à expliquer toute la ville.",
+        "ar": "احتلت المدينة موقعاً استراتيجياً بين البلقان والأناضول، يصل البحر الأسود بالمتوسط عبر البوسفور. ولم تقتصر أهميتها على قوة جدار؛ فقد جمعت الهيبة الإمبراطورية والتجارة والمؤسسات الدينية وطبقات عمرانية متراكمة. ويضع وصف اليونسكو آثارها البيزنطية والعثمانية ضمن تاريخ يتجاوز ألفي عام، بما يذكرنا بأن فتحاً واحداً لا يفسر المدينة كلها.",
+        "es": "La ciudad ocupaba una posición estratégica entre los Balcanes y Anatolia, conectando el mar Negro y el Mediterráneo por el Bósforo. Su importancia iba más allá de una muralla: reunía prestigio imperial, comercio, instituciones religiosas y un paisaje urbano estratificado. La UNESCO sitúa sus monumentos bizantinos y otomanos en más de dos milenios de historia. Ninguna conquista explica por sí sola toda la ciudad.",
+        "source": [
+          "UNESCO: the historic areas of Istanbul",
+          "https://whc.unesco.org/en/list/356/"
+        ]
+      },
+      {
+        "en": "By 1453, the Byzantine state was far smaller than the empire that had once dominated the eastern Mediterranean. The sack by the Fourth Crusade in 1204 and the recovery of the city in 1261 were essential parts of that earlier history. Mehmed faced a capital whose symbolic importance exceeded its remaining resources. His opponent, Emperor Constantine XI Palaiologos, sought outside assistance while trying to defend an extensive fortified perimeter.",
+        "fr": "En 1453, l’État byzantin était bien plus réduit que l’empire jadis dominant en Méditerranée orientale. Le sac de la quatrième croisade en 1204 et la reprise de la ville en 1261 faisaient partie de cette histoire. Mehmed affrontait une capitale dont la force symbolique dépassait les ressources. Son adversaire, Constantin XI Paléologue, cherchait de l’aide extérieure tout en défendant un vaste périmètre fortifié.",
+        "ar": "بحلول 1453 كان الكيان البيزنطي أصغر بكثير من الإمبراطورية التي هيمنت سابقاً على شرق المتوسط. وكان نهب الحملة الصليبية الرابعة للمدينة عام 1204 واستعادتها عام 1261 من المراحل الأساسية السابقة. واجه محمد عاصمة تفوق أهميتها الرمزية مواردها الباقية. وسعى خصمه الإمبراطور قسطنطين الحادي عشر باليولوغ إلى دعم خارجي بينما حاول الدفاع عن نطاق واسع من التحصينات.",
+        "es": "En 1453, el Estado bizantino era mucho menor que el imperio que había dominado el Mediterráneo oriental. El saqueo de la Cuarta Cruzada en 1204 y la recuperación de la ciudad en 1261 eran antecedentes fundamentales. Mehmed se enfrentaba a una capital cuyo peso simbólico superaba sus recursos. Su rival, Constantino XI Paleólogo, buscaba ayuda exterior mientras defendía un amplio perímetro fortificado.",
+        "source": [
+          "British Library: the last day of Constantinople and manuscript accounts",
+          "https://www.bl.uk/stories/blogs/posts/the-last-day-of-constantinople"
+        ]
+      },
+      {
+        "en": "Mehmed’s strategy combined land and sea",
+        "fr": "Une stratégie terrestre et maritime",
+        "ar": "استراتيجية تجمع البر والبحر",
+        "es": "Una estrategia terrestre y marítima",
+        "level": 2
+      },
+      {
+        "en": "Ottoman preparations brought together troops, ships, engineering and gunpowder artillery. Heavy bombards threatened masonry, while the fleet restricted the arrival of supplies and reinforcements. The conflict was not a simple meeting of two culturally uniform armies: Mehmed drew on Muslim and Christian vassals, and the defenders included Italian allies. Logistics and political relationships mattered alongside weapons. A cannon could damage a wall, but it could not organise a successful siege by itself.",
+        "fr": "Les préparatifs ottomans réunissaient troupes, navires, ingénierie et artillerie à poudre. Les bombardes menaçaient la maçonnerie, tandis que la flotte limitait ravitaillement et renforts. Les camps n’étaient pas culturellement uniformes : Mehmed mobilisait des vassaux musulmans et chrétiens, et des Italiens épaulaient les défenseurs. Logistique et relations politiques comptaient autant que les armes. Un canon pouvait endommager un mur, pas organiser seul un siège victorieux.",
+        "ar": "جمعت الاستعدادات العثمانية القوات والسفن والهندسة ومدفعية البارود. هددت المدافع الثقيلة الجدران، بينما قيد الأسطول وصول الإمدادات والتعزيزات. ولم يكن الصراع مواجهة بسيطة بين جيشين متماثلين ثقافياً داخل كل طرف؛ فقد استعان محمد بتابعين مسلمين ومسيحيين، وضم المدافعون حلفاء إيطاليين. كانت اللوجستيات والعلاقات السياسية مهمة إلى جانب السلاح؛ فالمدفع يهدم جداراً لكنه لا ينظم حصاراً ناجحاً وحده.",
+        "es": "Los preparativos otomanos reunieron tropas, barcos, ingeniería y artillería de pólvora. Las bombardas amenazaban la mampostería y la flota limitaba suministros y refuerzos. No eran dos ejércitos culturalmente uniformes: Mehmed movilizó vasallos musulmanes y cristianos, y los defensores contaban con aliados italianos. Logística y relaciones políticas importaban tanto como las armas. Un cañón podía dañar un muro, pero no organizar solo un asedio victorioso.",
+        "source": [
+          "OpenStax, Rice University: Ottoman expansion and siege artillery",
+          "https://openstax.org/books/world-history-volume-1/pages/17-1-the-ottomans-and-the-mongols"
+        ]
+      },
+      {
+        "en": "Ships in the Golden Horn",
+        "fr": "Des navires dans la Corne d’Or",
+        "ar": "السفن في القرن الذهبي",
+        "es": "Barcos en el Cuerno de Oro",
+        "level": 3
+      },
+      {
+        "en": "One of the siege’s best-known manoeuvres was the movement of Ottoman ships overland into the Golden Horn, bypassing the chain that protected its entrance. The operation increased pressure on the defenders by creating additional threats around the city. It should be understood as part of a wider campaign of bombardment, repair, blockade and assault. Reducing the outcome to one ingenious move, or one enormous gun, hides the prolonged contest that made the final attack possible.",
+        "fr": "Une manœuvre célèbre consista à transporter des navires ottomans par voie terrestre jusqu’à la Corne d’Or, derrière la chaîne protégeant son entrée. Elle multiplia les menaces et la pression sur les défenseurs. Mais elle s’inscrivait dans une campagne de bombardements, réparations, blocus et assauts. Réduire l’issue à une idée ingénieuse ou un canon géant masque la lutte prolongée qui rendit possible l’attaque finale.",
+        "ar": "كان نقل سفن عثمانية براً إلى القرن الذهبي، متجاوزة السلسلة التي تحمي مدخله، من أشهر مناورات الحصار. وزادت العملية الضغط على المدافعين بإضافة تهديدات حول المدينة. وينبغي فهمها ضمن حملة أوسع من القصف والإصلاح والحصار والاقتحام. أما اختزال النتيجة في مناورة مبتكرة واحدة أو مدفع هائل فيخفي الصراع الطويل الذي مهد للهجوم الأخير.",
+        "es": "Una maniobra célebre fue el traslado de barcos otomanos por tierra hasta el Cuerno de Oro, evitando la cadena que protegía la entrada. Aumentó la presión al crear nuevas amenazas alrededor de la ciudad. Formaba parte de una campaña de bombardeos, reparaciones, bloqueo y ataques. Reducir el resultado a una idea ingeniosa o un cañón enorme oculta la lucha prolongada que permitió el asalto final.",
+        "source": [
+          "Mark Cartwright, World History Encyclopedia: the siege of 1453",
+          "https://www.worldhistory.org/article/1180/1453-the-fall-of-constantinople/"
+        ]
+      },
+      {
+        "en": "May 29: conquest and catastrophe",
+        "fr": "Le 29 mai : conquête et catastrophe",
+        "ar": "29 مايو: نصر وكارثة",
+        "es": "29 de mayo: conquista y catástrofe",
+        "level": 2
+      },
+      {
+        "en": "The final assault broke the defence on May 29. Constantine XI died during the city’s fall, although dramatic accounts of his last moments cannot all be treated as equally secure. The capture brought killing, pillage and enslavement as well as an Ottoman victory. Those consequences are part of the event, not a footnote to military success. Precise troop and casualty totals vary between sources, so large, confident numbers require particular caution.",
+        "fr": "L’assaut final brisa la défense le 29 mai. Constantin XI mourut lors de la chute, même si les récits spectaculaires de ses derniers instants ne présentent pas tous la même fiabilité. La prise entraîna morts, pillages et réduction en esclavage, autant qu’une victoire ottomane. Ces conséquences font partie de l’événement, pas d’une note secondaire. Les effectifs et bilans humains variant selon les sources, les grands chiffres assurés exigent de la prudence.",
+        "ar": "كسر الهجوم الأخير الدفاعات في 29 مايو. ومات قسطنطين الحادي عشر أثناء سقوط المدينة، وإن لم تكن الروايات الدرامية عن لحظاته الأخيرة متساوية في الموثوقية. وجلب الاستيلاء قتلاً ونهباً واسترقاقاً إلى جانب النصر العثماني. هذه النتائج جزء من الحدث وليست هامشاً للنجاح العسكري. وتختلف أعداد الجنود والضحايا بين المصادر، لذا تتطلب الأرقام الضخمة القاطعة حذراً خاصاً.",
+        "es": "El asalto final quebró la defensa el 29 de mayo. Constantino XI murió durante la caída, aunque no todos los relatos dramáticos sobre sus últimos momentos son igual de seguros. La captura trajo muertes, saqueos y esclavización, además de victoria otomana. Esas consecuencias forman parte del acontecimiento, no de una nota secundaria. Los efectivos y las víctimas varían según las fuentes, por lo que los grandes números tajantes exigen cautela.",
+        "source": [
+          "Mark Cartwright, World History Encyclopedia: the siege of 1453",
+          "https://www.worldhistory.org/article/1180/1453-the-fall-of-constantinople/"
+        ]
+      },
+      {
+        "en": "Making an Ottoman capital",
+        "fr": "Construire une capitale ottomane",
+        "ar": "بناء عاصمة عثمانية",
+        "es": "Construir una capital otomana",
+        "level": 2
+      },
+      {
+        "en": "Mehmed’s achievement did not end with entering the city. He made it his capital and pursued rebuilding, resettlement and institutional reorganisation. Restoring roads, water supplies, markets and religious foundations helped sustain the imperial centre. Some resettlement was coerced, a reminder that reconstruction was also an exercise of power. Hagia Sophia’s conversion from church to mosque became one of the most visible expressions of the new order.",
+        "fr": "L’entreprise de Mehmed ne s’arrêta pas à son entrée dans la ville. Il en fit sa capitale et engagea reconstruction, repeuplement et réorganisation. Routes, eau, marchés et fondations religieuses contribuèrent à soutenir ce centre impérial. Des déplacements de population furent forcés, rappelant que reconstruire signifiait aussi exercer le pouvoir. La conversion de Sainte-Sophie en mosquée devint une expression majeure du nouvel ordre.",
+        "ar": "لم ينته إنجاز محمد بدخول المدينة. فقد جعلها عاصمته وبدأ إعادة البناء وتوطين السكان وتنظيم المؤسسات. وساعد إصلاح الطرق وإمدادات المياه والأسواق والمؤسسات الوقفية على دعم المركز الإمبراطوري. وكان بعض التوطين قسرياً، بما يذكر بأن الإعمار كان أيضاً ممارسة للسلطة. وأصبح تحويل آيا صوفيا من كنيسة إلى مسجد من أوضح تعبيرات النظام الجديد.",
+        "es": "La empresa de Mehmed no terminó al entrar en la ciudad. La convirtió en capital e impulsó reconstrucción, repoblación y reorganización institucional. Restaurar caminos, agua, mercados y fundaciones religiosas sostuvo el centro imperial. Parte del reasentamiento fue forzoso, recordando que reconstruir también era ejercer poder. La conversión de Santa Sofía de iglesia a mezquita expresó de forma visible el nuevo orden.",
+        "source": [
+          "Ashmolean Museum, Oxford: Mehmed II and the rebuilding of Istanbul",
+          "https://islamicceramics.ashmolean.org/Iznik/fatih.htm"
+        ]
+      },
+      {
+        "en": "The name Istanbul gradually displaced Constantinople in common usage; it was not simply invented overnight in 1453. Likewise, the Byzantine world did not vanish on the day the walls fell. Orthodox institutions and artistic traditions continued under changed political conditions. Other former Byzantine centres also had their own later histories. A decisive imperial rupture and substantial cultural continuity can both be true.",
+        "fr": "Le nom Istanbul remplaça progressivement Constantinople dans l’usage ; il ne fut pas simplement inventé en une nuit en 1453. Le monde byzantin ne disparut pas davantage le jour de la chute. Institutions orthodoxes et traditions artistiques continuèrent dans de nouvelles conditions politiques. D’autres anciens centres byzantins suivirent aussi leurs propres trajectoires. Rupture impériale décisive et continuités culturelles importantes ne s’excluent pas.",
+        "ar": "حل اسم إسطنبول تدريجياً محل القسطنطينية في الاستخدام الشائع، ولم يخترع ببساطة بين ليلة وضحاها عام 1453. وبالمثل لم يختف العالم البيزنطي يوم سقوط الأسوار. استمرت المؤسسات الأرثوذكسية والتقاليد الفنية في ظل ظروف سياسية جديدة، وكانت لمراكز بيزنطية سابقة أخرى تواريخ لاحقة خاصة بها. ويمكن أن تجتمع القطيعة الإمبراطورية الحاسمة والاستمرارية الثقافية الواسعة في الوقت نفسه.",
+        "es": "El nombre Estambul fue desplazando gradualmente a Constantinopla en el uso común; no se inventó de la noche a la mañana en 1453. Tampoco desapareció ese día el mundo bizantino. Instituciones ortodoxas y tradiciones artísticas continuaron en nuevas condiciones políticas. Otros antiguos centros bizantinos tuvieron trayectorias posteriores propias. La ruptura imperial decisiva y una continuidad cultural importante pueden ser ciertas a la vez.",
+        "source": [
+          "Metropolitan Museum of Art: the Balkans, 1400–1600",
+          "https://www.metmuseum.org/toah/ht/08/eusb"
+        ]
+      },
+      {
+        "en": "What the famous stories leave out",
+        "fr": "Ce que les récits célèbres laissent de côté",
+        "ar": "ما الذي تغفله الحكايات الشهيرة؟",
+        "es": "Qué dejan fuera los relatos famosos",
+        "level": 2
+      },
+      {
+        "en": "The conquest did not single-handedly start the Renaissance. Greek scholars had travelled to Italy and contributed to humanist learning before 1453, including Manuel Chrysoloras in the late fourteenth century. The fall intensified some movements of people and knowledge, but a long intellectual transformation cannot be assigned to one battle. Historical turning points help organise a timeline; they should not replace explanations of processes already under way.",
+        "fr": "La conquête ne déclencha pas à elle seule la Renaissance. Des savants grecs contribuaient déjà à l’humanisme en Italie, notamment Manuel Chrysoloras à la fin du XIVe siècle. La chute intensifia certains déplacements de personnes et de savoirs, mais une transformation intellectuelle longue ne se réduit pas à une bataille. Les dates charnières organisent une chronologie sans remplacer l’explication des processus.",
+        "ar": "لم يبدأ الفتح عصر النهضة وحده. فقد سافر علماء يونانيون إلى إيطاليا وأسهموا في التعلم الإنساني قبل 1453، ومنهم مانويل كريزولوراس في أواخر القرن الرابع عشر. وكثف السقوط بعض انتقالات الناس والمعارف، لكن تحولاً فكرياً طويلاً لا ينسب إلى معركة واحدة. تساعد المنعطفات التاريخية على تنظيم التسلسل الزمني، لكنها لا تغني عن شرح العمليات التي كانت قد بدأت بالفعل.",
+        "es": "La conquista no inició por sí sola el Renacimiento. Los eruditos griegos ya viajaban a Italia y contribuían al humanismo antes de 1453, entre ellos Manuel Crisoloras a finales del siglo XIV. La caída intensificó algunos movimientos de personas y conocimientos, pero una transformación intelectual prolongada no se reduce a una batalla. Los hitos ordenan una cronología; no sustituyen la explicación de los procesos.",
+        "source": [
+          "Metropolitan Museum of Art: the Balkans, 1400–1600",
+          "https://www.metmuseum.org/toah/ht/08/eusb"
+        ]
+      },
+      {
+        "en": "The Byzantine and Christian Museum records how the last emperor became a figure of legend, including the story of a ruler turned to marble who would return. Such traditions reveal how communities understood loss; they are not evidence that the event occurred as the legend describes. Mehmed’s historic conquest is best understood through this distinction: the city changed rulers, its inhabitants faced upheaval, and its many histories continued to develop beyond the battlefield.",
+        "fr": "Le musée byzantin et chrétien rappelle que le dernier empereur devint un héros légendaire, notamment dans le récit du souverain changé en marbre qui reviendrait. Ces traditions expriment le sens donné à la perte ; elles ne prouvent pas leur réalisation littérale. La conquête de Mehmed se comprend mieux en distinguant ces plans : la ville changea de pouvoir, ses habitants connurent des bouleversements et ses histoires continuèrent au-delà du champ de bataille.",
+        "ar": "يوثق المتحف البيزنطي والمسيحي تحول الإمبراطور الأخير إلى شخصية أسطورية، ومنها حكاية حاكم تحول إلى رخام وسيعود يوماً. تكشف هذه التقاليد كيف فهمت المجتمعات الخسارة، وليست دليلاً على وقوع الحدث كما تصفه الأسطورة. ويفهم فتح محمد التاريخي بصورة أفضل بهذا الفصل: تغير حكام المدينة، وواجه سكانها اضطراباً، واستمرت تواريخها المتعددة في التطور بعد ساحة المعركة.",
+        "es": "El Museo Bizantino y Cristiano recuerda cómo el último emperador se convirtió en figura legendaria, incluida la historia del soberano transformado en mármol que regresaría. Esas tradiciones revelan cómo se comprendió la pérdida, no prueban su cumplimiento literal. La conquista de Mehmed se entiende mejor distinguiendo planos: cambiaron los gobernantes, los habitantes sufrieron conmociones y las múltiples historias urbanas continuaron más allá del campo de batalla.",
+        "source": [
+          "Byzantine and Christian Museum: the fall and its cultural aftermath",
+          "https://www.byzantinemuseum.gr/en/exhibitions/48/permanent-exhibition/the-byzantine-world/31/the-fall-of-constantinople"
+        ]
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "When did Constantinople fall to Mehmed II?",
+          "Ottoman forces captured Constantinople on May 29, 1453, after a siege beginning in April."
+        ],
+        [
+          "Who defended the city?",
+          "Emperor Constantine XI led the Byzantine defence, supported by troops and volunteers including Italian allies."
+        ],
+        [
+          "Did the conquest erase Byzantine culture?",
+          "No. It ended Byzantine imperial rule in the capital, but Orthodox institutions, communities and artistic traditions continued under Ottoman rule."
+        ],
+        [
+          "Was Istanbul a new name invented in 1453?",
+          "No. The name developed from existing usage and gradually displaced Constantinople in common speech."
+        ]
+      ],
+      "fr": [
+        [
+          "Quand Constantinople est-elle tombée ?",
+          "Les forces ottomanes de Mehmed II prirent Constantinople le 29 mai 1453, après un siège commencé en avril."
+        ],
+        [
+          "Qui défendait la ville ?",
+          "L’empereur Constantin XI dirigeait la défense byzantine, aidé notamment de troupes et volontaires italiens."
+        ],
+        [
+          "La conquête a-t-elle effacé la culture byzantine ?",
+          "Non. Elle mit fin au pouvoir impérial dans la capitale, mais institutions orthodoxes, communautés et traditions artistiques continuèrent sous domination ottomane."
+        ],
+        [
+          "Le nom Istanbul a-t-il été inventé en 1453 ?",
+          "Non. Il venait d’un usage existant et remplaça progressivement Constantinople dans la langue courante."
+        ]
+      ],
+      "ar": [
+        [
+          "متى سقطت القسطنطينية بيد محمد الثاني؟",
+          "دخلتها القوات العثمانية في 29 مايو 1453 بعد حصار بدأ في أبريل."
+        ],
+        [
+          "من دافع عن المدينة؟",
+          "قاد الإمبراطور قسطنطين الحادي عشر الدفاع البيزنطي، بمساندة قوات ومتطوعين من بينهم حلفاء إيطاليون."
+        ],
+        [
+          "هل محا الفتح الثقافة البيزنطية؟",
+          "لا. أنهى الحكم الإمبراطوري البيزنطي في العاصمة، لكن المؤسسات الأرثوذكسية والمجتمعات والتقاليد الفنية استمرت تحت الحكم العثماني."
+        ],
+        [
+          "هل اخترع اسم إسطنبول عام 1453؟",
+          "لا. تطور من استعمال قائم وحل تدريجياً محل القسطنطينية في الكلام الشائع."
+        ]
+      ],
+      "es": [
+        [
+          "¿Cuándo cayó Constantinopla ante Mehmed II?",
+          "Las fuerzas otomanas la tomaron el 29 de mayo de 1453, tras un asedio iniciado en abril."
+        ],
+        [
+          "¿Quién defendió la ciudad?",
+          "El emperador Constantino XI dirigió la defensa bizantina, apoyado por tropas y voluntarios, incluidos aliados italianos."
+        ],
+        [
+          "¿La conquista borró la cultura bizantina?",
+          "No. Terminó con el poder imperial en la capital, pero las instituciones ortodoxas, comunidades y tradiciones artísticas continuaron bajo dominio otomano."
+        ],
+        [
+          "¿Se inventó el nombre Estambul en 1453?",
+          "No. Procedía de un uso existente y fue desplazando gradualmente a Constantinopla en el habla común."
+        ]
+      ]
+    }
+  }
+]

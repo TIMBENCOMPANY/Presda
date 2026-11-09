@@ -1,0 +1,80 @@
+[
+  {
+    "key": "beer",
+    "id": "429",
+    "slug": "london-beer-flood-1814-horse-shoe-brewery",
+    "original": "935095f2-85f5-4590-933f-d087b503798b/1000090645.png",
+    "image": "/articles/london-beer-flood-1814-horse-shoe-brewery-ai-historical-illustration.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 181874,
+    "sourceSha256": "4de7934cc9fc389bcebfd918cadeaa9b75f5960d246c8861a5bf7edbdfeec02d",
+    "sha256": "4de7934cc9fc389bcebfd918cadeaa9b75f5960d246c8861a5bf7edbdfeec02d",
+    "alts": {
+      "en": "AI historical illustration of a burst brewery vat sending beer through an imagined London street.",
+      "fr": "Illustration historique par IA d’une cuve éclatée déversant de la bière dans une rue londonienne imaginée.",
+      "ar": "رسم تاريخي بالذكاء الاصطناعي لحوض تخمير متصدع يغمر شارعاً متخيلاً في لندن بالبيرة.",
+      "es": "Ilustración histórica con IA de una cuba rota que vierte cerveza en una calle londinense imaginada."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 618,
+    "references": 5
+  },
+  {
+    "key": "voyager",
+    "id": "430",
+    "slug": "voyager-golden-record-message-humanity-space",
+    "original": "0a0c4fbe-6b87-4963-ba79-e583bfbaec8c/1000090646.png",
+    "image": "/articles/voyager-golden-record-spacecraft-message-ai-editorial-illustration.jpg",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "format": "jpeg",
+    "bytes": 119188,
+    "sourceSha256": "b3ab6f119f0add77d08246173f53f3372601ef8823a03266622a8a40cc94f5a1",
+    "sha256": "b3ab6f119f0add77d08246173f53f3372601ef8823a03266622a8a40cc94f5a1",
+    "alts": {
+      "en": "AI illustration of a Voyager-like spacecraft beside an enlarged golden disc with instruction-cover motifs.",
+      "fr": "Illustration par IA d’une sonde évoquant Voyager près d’un disque doré agrandi aux motifs de sa couverture.",
+      "ar": "رسم بالذكاء الاصطناعي لمسبار يشبه فوياجر بجوار قرص ذهبي مكبر يحمل رموزاً من غطائه التعليمي.",
+      "es": "Ilustración con IA de una sonda similar a Voyager junto a un disco dorado ampliado con símbolos de su cubierta."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 685,
+    "references": 7
+  },
+  {
+    "key": "constantinople",
+    "id": "431",
+    "slug": "fall-constantinople-1453-sultan-mehmed-ii",
+    "original": "5b8038a5-6921-47f4-8dc9-dbb348fe8e70/1000090649.png",
+    "image": "/articles/constantinople-1453-mehmed-ii-siege-ai-historical-illustration.jpg",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "format": "jpeg",
+    "bytes": 158864,
+    "sourceSha256": "bb4c9b9b61e7b387560a2c1192e10ac02901f53bd4de8a38d501605a6485675b",
+    "sha256": "bb4c9b9b61e7b387560a2c1192e10ac02901f53bd4de8a38d501605a6485675b",
+    "alts": {
+      "en": "AI historical illustration of Mehmed II, Ottoman troops and cannon before imagined Constantinople walls.",
+      "fr": "Illustration historique par IA de Mehmed II, de soldats ottomans et d’un canon devant des remparts imaginés.",
+      "ar": "رسم تاريخي بالذكاء الاصطناعي لمحمد الثاني وجنود عثمانيين ومدفع أمام أسوار متخيلة للقسطنطينية.",
+      "es": "Ilustración histórica con IA de Mehmed II, soldados otomanos y un cañón ante murallas imaginadas."
+    },
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "words": 743,
+    "references": 7
+  }
+]

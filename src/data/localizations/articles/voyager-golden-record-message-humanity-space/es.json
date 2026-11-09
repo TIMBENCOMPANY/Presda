@@ -1,0 +1,153 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/voyager-golden-record-message-humanity-space/",
+  "path": "/es/articles/voyager-golden-record-message-humanity-space/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-10",
+    "terminologyChecked": true
+  },
+  "title": "EL DISCO DE ORO DE VOYAGER: EL MENSAJE QUE LA HUMANIDAD ENVIÓ AL ESPACIO",
+  "seoTitle": "El disco de oro de Voyager: el mensaje de la Tierra al cosmos",
+  "description": "Descubre el disco de oro de Voyager: lanzamiento en 1977, 115 imágenes, saludos en 55 idiomas, música e instrucciones para un destinatario hipotético.",
+  "excerpt": "Descubre el disco de oro de Voyager: lanzamiento en 1977, 115 imágenes, saludos en 55 idiomas, música e instrucciones para un destinatario hipotético.",
+  "headlineHighlights": {
+    "red": "EL DISCO DE ORO DE VOYAGER",
+    "gold": "MENSAJE QUE LA HUMANIDAD ENVIÓ AL ESPACIO"
+  },
+  "keywords": [
+    "EL DISCO DE ORO DE VOYAGER",
+    "MENSAJE QUE LA HUMANIDAD ENVIÓ AL ESPACIO"
+  ],
+  "searchIntent": "Descubre el disco de oro de Voyager: lanzamiento en 1977, 115 imágenes, saludos en 55 idiomas, música e instrucciones para un destinatario hipotético.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-10",
+  "updatedAt": "2026-11-10",
+  "image": {
+    "src": "/articles/voyager-golden-record-spacecraft-message-ai-editorial-illustration.jpg",
+    "alt": "Ilustración con IA de una sonda similar a Voyager junto a un disco dorado ampliado con símbolos de su cubierta.",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En 1977, la humanidad envió dos exploradores robóticos hacia los planetas gigantes, cada uno con un objeto ajeno a la función habitual de un instrumento científico: una grabación de la Tierra para un posible oyente lejano. Voyager 2 despegó el 20 de agosto y Voyager 1 el 5 de septiembre. Sus discos de oro iban fijados a las sondas. No emitían un álbum al espacio: transportaban un retrato escogido de la vida para un encuentro nunca garantizado. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/voyager/mission-overview/)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué es el disco de oro?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada sonda lleva un disco fonográfico de cobre bañado en oro de unas 12 pulgadas, aproximadamente 30 centímetros. El conjunto incluye una cubierta protectora de aluminio y equipo de reproducción. La información es analógica: los surcos reproducen sonidos y las señales grabadas codifican imágenes. No es un disco de oro macizo ni un archivo digital moderno. Su hipotético descubridor tendría que interpretar un sistema físico de grabación. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/voyager/golden-record-contents/)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Quién eligió la presentación de la humanidad?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La NASA encargó la selección a un comité presidido por Carl Sagan. Ann Druyan, Frank Drake, Timothy Ferris, Jon Lomberg y Linda Salzman desempeñaron funciones creativas, técnicas y organizativas fundamentales. Llamarlo únicamente el disco de Sagan borra el trabajo colectivo. Fue además una selección de personas concretas de los años setenta, no un referéndum planetario ni un catálogo completo de la experiencia humana. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/voyager/golden-record-contents/)"
+    },
+    {
+      "type": "heading",
+      "text": "Imágenes, saludos y sonidos de la Tierra"
+    },
+    {
+      "type": "paragraph",
+      "text": "La NASA describe una selección de 115 imágenes de ciencia, paisajes, animales y actividades humanas. Están codificadas como señales, no impresas como un diminuto álbum sobre el oro. La selección intenta establecer referencias compartidas: cuerpos, entornos, cantidades y vida cotidiana. Muestra lo que sus creadores esperaban comunicar, pero también la dificultad de explicar sin convenciones comunes. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/voyager/golden-record-contents/images/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los saludos hablados en 55 idiomas incorporan muchas voces, no un único discurso universal. Su significado depende de lenguas, tonos y contextos que un destinatario desconocido quizá no comparta. Esa limitación no los vuelve inútiles. También aportan calidez y variedad a los oyentes humanos. El disco es a la vez experimento de comunicación y expresión histórica de cómo deseábamos presentarnos. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La selección sonora une naturaleza y actividad humana, mientras la música recorre culturas y épocas. La NASA incluye a Bach y Beethoven junto a Chuck Berry, Blind Willie Johnson y otras muchas tradiciones. La diversidad es deliberada, pero ninguna lista finita representa a todos. Escucharlo hoy invita a admirar la ambición y preguntarse qué experiencias quedaron fuera. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/voyager/golden-record-contents/sounds/)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Cómo podría reproducirlo un desconocido?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cubierta explicativa es una pieza distinta del conjunto. Sus diagramas muestran disco y aguja, definen tiempos mediante una transición del átomo de hidrógeno y explican cómo reconstruir imágenes. Un mapa sitúa el Sistema Solar respecto a 14 púlsares. Son puentes propuestos entre física e interpretación, no garantía de que otra inteligencia los descifre. Incluso un mensaje basado en la naturaleza requiere reconocer sus convenciones. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/voyager/golden-record-cover/)"
+    },
+    {
+      "type": "heading",
+      "text": "La historia continúa más allá de los planetas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Voyager 1 cruzó la heliopausa hacia el espacio interestelar en 2012; Voyager 2 lo hizo en 2018. Ese límite corresponde a la burbuja del viento solar, no a toda región ligada gravitatoriamente al Sol. Los discos son carga pasiva. La futura pérdida de electricidad no borraría sus surcos. Pero conservación y descubrimiento son preguntas distintas: un objeto puede perdurar sin ser encontrado. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/voyager/interstellar-mission/)"
+    },
+    {
+      "type": "heading",
+      "text": "Un mensaje también para nosotros"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fuerza duradera del disco no reside en una conversación demostrada con vida extraterrestre, sino en imaginarla y fabricar con cuidado un objeto capaz de llevar esa esperanza. Música, voces e imágenes pertenecen a una época, pero la pregunta sigue abierta: ¿qué elegiríamos para explicar la Tierra? El disco la vuelve tangible, entre ingeniería, historia cultural e imaginación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [Nuestro universo, de sus orígenes a sus futuros posibles](/articles/our-universe-big-bang-end-of-time/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [Carl Sagan y la imaginación del cosmos](/articles/carl-sagan-journey-through-our-universe/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/voyager/mission-overview/"
+    },
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/voyager/golden-record-contents/"
+    },
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/voyager/golden-record-contents/images/"
+    },
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/"
+    },
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/voyager/golden-record-contents/sounds/"
+    },
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/voyager/golden-record-cover/"
+    },
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/voyager/interstellar-mission/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿De qué está hecho el disco de oro?",
+      "answer": "Es un disco fonográfico de cobre bañado en oro de unas 12 pulgadas, con cubierta protectora y equipo de reproducción."
+    },
+    {
+      "question": "¿Cuántos idiomas e imágenes contiene?",
+      "answer": "La NASA describe 115 imágenes y saludos hablados en 55 idiomas, además de sonidos y música."
+    },
+    {
+      "question": "¿Se emitió el disco como mensaje de radio?",
+      "answer": "No. Es una grabación física fijada a cada sonda. Escucharlo requeriría un encuentro hipotético con la nave."
+    },
+    {
+      "question": "¿Las instrucciones están en la superficie sonora?",
+      "answer": "Los símbolos explicativos están en la cubierta protectora. El disco guarda sonidos y señales de imágenes en formato analógico."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/london-beer-flood-1814-horse-shoe-brewery/",
+  "path": "/fr/articles/london-beer-flood-1814-horse-shoe-brewery/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-10",
+    "terminologyChecked": true
+  },
+  "title": "L’INONDATION DE BIÈRE DE LONDRES : QUAND UNE RUE FUT SUBMERGÉE DE BIÈRE",
+  "seoTitle": "L’inondation de bière de Londres en 1814 : faits et mythes",
+  "description": "Le 17 octobre 1814, une cuve de brasserie éclate à Londres et tue huit personnes. Causes, victimes et mythes de cette inondation de bière.",
+  "excerpt": "Le 17 octobre 1814, une cuve de brasserie éclate à Londres et tue huit personnes. Causes, victimes et mythes de cette inondation de bière.",
+  "headlineHighlights": {
+    "red": "L’INONDATION DE BIÈRE DE LONDRES",
+    "gold": "SUBMERGÉE DE BIÈRE"
+  },
+  "keywords": [
+    "L’INONDATION DE BIÈRE DE LONDRES",
+    "SUBMERGÉE DE BIÈRE"
+  ],
+  "searchIntent": "Le 17 octobre 1814, une cuve de brasserie éclate à Londres et tue huit personnes. Causes, victimes et mythes de cette inondation de bière.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-10",
+  "updatedAt": "2026-11-10",
+  "image": {
+    "src": "/articles/london-beer-flood-1814-horse-shoe-brewery-ai-historical-illustration.jpg",
+    "alt": "Illustration historique par IA d’une cuve éclatée déversant de la bière dans une rue londonienne imaginée.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "L’inondation de bière de Londres est réelle, mais ce ne fut pas une fête improvisée autour d’une boisson gratuite. Le 17 octobre 1814, une immense cuve en bois céda à la Horse Shoe Brewery de Meux, près de Tottenham Court Road. La bière sortit des bâtiments et envahit rues et logements. Huit personnes moururent. Le récit de la British Library conserve leurs noms et le verdict de mort accidentelle, redonnant sa dimension humaine à une histoire souvent réduite à une plaisanterie. [Source: bl.iro.bl.uk](https://bl.iro.bl.uk/entities/publication/32654bf2-2df2-4df7-a86b-cc666c7adf9b)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment une brasserie devint un risque d’inondation"
+    },
+    {
+      "type": "paragraph",
+      "text": "La rupture initiale concernait un cerclage de fer maintenant une grande cuve de porter, bière brune stockée en quantités considérables. L’effondrement endommagea un autre récipient et des fûts plus petits, amplifiant l’écoulement. Il s’agissait d’une défaillance structurelle aux effets en chaîne. Parler d’explosion de bière peut masquer le mécanisme : un liquide s’échappant d’un stockage massif, des murs qui cèdent et des débris projetés dans des logements très occupés. [Source: www.history.com](https://www.history.com/articles/london-beer-flood)"
+    },
+    {
+      "type": "subheading",
+      "text": "Quelle quantité s’est échappée ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le résumé de la presse d’époque publié par la British Newspaper Archive évoque environ 1,5 million de litres. Les estimations varient, et il faut distinguer la première cuve du total provenant des récipients endommagés. L’essentiel n’est pas une conversion moderne au litre près. Le volume libéré brutalement suffisait à détruire des maisons et remplir les caves, transformant des pièces ordinaires en pièges dont on pouvait ne pas sortir. [Source: www.britishnewspaperarchive.com](https://www.britishnewspaperarchive.com/blog/great-flood-of-london-eight-people-killed-as-wave-of-beer-swept-through-londons-streets)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi St Giles fut si durement touché"
+    },
+    {
+      "type": "paragraph",
+      "text": "La brasserie jouxtait le quartier dense de St Giles, où des familles pauvres vivaient dans des bâtiments fragiles et des caves. L’inondation entraîna noyades et chutes de maçonnerie. Un ménage sous le niveau de la rue n’avait pas les mêmes possibilités de fuite qu’une personne pouvant monter à l’étage. L’étrangeté du liquide ne change pas la logique sociale : puissance industrielle et habitat dense se côtoyaient, et les voisins subirent les conséquences les plus graves. [Source: www.history.com](https://www.history.com/articles/london-beer-flood)"
+    },
+    {
+      "type": "heading",
+      "text": "Les huit personnes derrière le titre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parmi les victimes nommées figure Eleanor Cooper, domestique de 14 ans au Tavistock Arms. La British Library recense aussi Hannah Banfield, quatre ans. Ces noms empêchent de réduire l’événement à un spectacle inoffensif. Son récit évoque une fille sauvée parce qu’elle avait été autorisée à sortir jouer peu avant la mort de ses proches dans une maison voisine. La survie pouvait dépendre de différences de position et de temps. [Source: bl.iro.bl.uk](https://bl.iro.bl.uk/entities/publication/32654bf2-2df2-4df7-a86b-cc666c7adf9b)"
+    },
+    {
+      "type": "heading",
+      "text": "L’enquête et un après-coup inégal"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’enquête conclut à des morts accidentelles. La brasserie poursuivit son activité et récupéra les droits d’accise payés sur la bière perdue. Ce résultat financier ne constitue pas une indemnisation des voisins endeuillés. Une entreprise pouvait rétablir ses comptes ; des familles avaient perdu proches, logements et biens. Cette comparaison inscrit l’inondation dans l’histoire sociale et industrielle, autant que dans les récits d’événements extraordinaires. [Source: londonist.com](https://londonist.com/london/history/london-s-forgotten-disasters-the-great-beer-flood)"
+    },
+    {
+      "type": "heading",
+      "text": "Une neuvième personne serait-elle morte en buvant ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certains récits tardifs ajoutent une mort par intoxication alcoolique ; la légende d’une photographie édouardienne de Historic England reprend cette affirmation. Ce n’est pas la même preuve que les huit décès de l’enquête. Londonist indique que ce neuvième cas n’est étayé ni par la presse d’époque ni par le rapport du coroner. Il faut donc retenir huit victimes documentées et présenter la mort supplémentaire comme une affirmation tardive non vérifiée. [Source: historicengland.org.uk](https://historicengland.org.uk/education/schools-resources/educational-images/horse-shoe-brewery-268-tottenham-court-road-holborn-greater-london-bl19305)"
+    },
+    {
+      "type": "heading",
+      "text": "Une catastrophe à raconter avec exactitude"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le site de la brasserie est aujourd’hui associé au Dominion Theatre, tandis que les ruelles disparues et logements détruits sont difficiles à imaginer. La bière paraît un agent de destruction improbable, ce qui rend le récit mémorable. Sa portée tient surtout à la proximité dangereuse entre stocks industriels gigantesques et foyers vulnérables. Nommer les victimes et distinguer faits, estimations et légendes rend l’anecdote à l’histoire."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [Comment les catastrophes transforment les communautés](/articles/natural-disasters-earthquakes-volcanoes-tsunamis/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [La longue histoire de la bière, du vin et des spiritueux](/articles/history-of-alcohol-beer-wine-spirits/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: bl.iro.bl.uk",
+      "url": "https://bl.iro.bl.uk/entities/publication/32654bf2-2df2-4df7-a86b-cc666c7adf9b"
+    },
+    {
+      "label": "Source: www.britishnewspaperarchive.com",
+      "url": "https://www.britishnewspaperarchive.com/blog/great-flood-of-london-eight-people-killed-as-wave-of-beer-swept-through-londons-streets"
+    },
+    {
+      "label": "Source: www.history.com",
+      "url": "https://www.history.com/articles/london-beer-flood"
+    },
+    {
+      "label": "Source: londonist.com",
+      "url": "https://londonist.com/london/history/london-s-forgotten-disasters-the-great-beer-flood"
+    },
+    {
+      "label": "Source: historicengland.org.uk",
+      "url": "https://historicengland.org.uk/education/schools-resources/educational-images/horse-shoe-brewery-268-tottenham-court-road-holborn-greater-london-bl19305"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand l’inondation a-t-elle eu lieu ?",
+      "answer": "Le 17 octobre 1814, à la Horse Shoe Brewery de Meux, près de Tottenham Court Road à Londres."
+    },
+    {
+      "question": "Combien de personnes sont mortes ?",
+      "answer": "L’enquête documente huit morts. L’affirmation tardive d’une neuvième victime par intoxication alcoolique reste non vérifiée."
+    },
+    {
+      "question": "Une rivière a-t-elle provoqué l’inondation ?",
+      "answer": "Non. Une cuve de brasserie a cédé, endommageant d’autres récipients et déversant du porter dans les rues et logements voisins."
+    },
+    {
+      "question": "L’inondation fut-elle une fête de bière gratuite ?",
+      "answer": "C’était un accident industriel meurtrier. Les récits d’ivresse collective ne doivent pas être présentés comme des faits contemporains établis."
+    }
+  ]
+}
