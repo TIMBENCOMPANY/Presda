@@ -1,3 +1,4 @@
+import historyBusinessNov11HeroCaptions from "@/data/historyBusinessNov11HeroCaptions.json";
 import historySpaceNov10HeroCaptions from "@/data/historySpaceNov10HeroCaptions.json";
 import kiaTalNov09HeroCaptions from "@/data/kiaTalNov09HeroCaptions.json";
 import sanHboParisNov08HeroCaptions from "@/data/sanHboParisNov08HeroCaptions.json";
@@ -431,6 +432,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug in sanHboParisNov08HeroCaptions && <p data-san-hbo-paris-nov08-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{sanHboParisNov08HeroCaptions[article.slug as keyof typeof sanHboParisNov08HeroCaptions][locale]}</p>}
         {article.slug in kiaTalNov09HeroCaptions && <p data-kia-tal-nov09-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{kiaTalNov09HeroCaptions[article.slug as keyof typeof kiaTalNov09HeroCaptions][locale]}</p>}
         {article.slug in historySpaceNov10HeroCaptions && <p data-history-space-nov10-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{historySpaceNov10HeroCaptions[article.slug as keyof typeof historySpaceNov10HeroCaptions][locale]}</p>}
+        {article.slug in historyBusinessNov11HeroCaptions && <p data-history-business-nov11-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{historyBusinessNov11HeroCaptions[article.slug as keyof typeof historyBusinessNov11HeroCaptions][locale]}</p>}
         {article.slug in heroRefreshNov07Captions && <p data-hero-refresh-nov07-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{heroRefreshNov07Captions[article.slug as keyof typeof heroRefreshNov07Captions][locale]}</p>}
         {article.slug in mbappeChinaHeroCaptions && <p data-mbappe-china-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mbappeChinaHeroCaptions[article.slug as keyof typeof mbappeChinaHeroCaptions][locale]}</p>}
         {article.slug in discoveriesSportNov01HeroCaptions && <p data-discoveries-sport-nov01-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{discoveriesSportNov01HeroCaptions[article.slug as keyof typeof discoveriesSportNov01HeroCaptions][locale]}</p>}

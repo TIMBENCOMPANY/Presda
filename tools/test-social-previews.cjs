@@ -62,7 +62,10 @@ function check(html, edition) {
   assert.equal(one('twitter:card'), 'summary_large_image');
   assert.equal(one('twitter:image'), image.url);
   assert.equal(one('twitter:image:alt'), edition.alt);
-  assert(!meta.some(m => /^(og:image|twitter:image)$/.test(m.property || m.name || '') && /favicon|logo|presda-p-/.test(m.content)), 'Never use brand artwork for an article');
+  const presdaBrandArtwork = /\/(?:favicon(?:-dark|-light)?\.(?:png|ico)|logo(?:-dark|-light)?\.png|presda-p-transparent\.png)$/i;
+  for (const key of ['og:image', 'twitter:image']) {
+    assert(!presdaBrandArtwork.test(new URL(one(key)).pathname), 'Never use PRESDA brand artwork for an article');
+  }
 }
 async function main() {
   fs.mkdirSync('test-results', { recursive: true });

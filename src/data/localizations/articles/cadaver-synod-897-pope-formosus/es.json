@@ -1,0 +1,113 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/cadaver-synod-897-pope-formosus/",
+  "path": "/es/articles/cadaver-synod-897-pope-formosus/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-11",
+    "terminologyChecked": true
+  },
+  "title": "EL SÍNODO DEL CADÁVER: CUANDO JUZGARON A UN PAPA MUERTO",
+  "seoTitle": "El sínodo del cadáver de 897: por qué juzgaron a Formoso",
+  "description": "En 897, el papa Esteban VI hizo exhumar y juzgar a su predecesor Formoso. El fallo amenazó la posición de los clérigos ordenados por Formoso.",
+  "excerpt": "En 897, el papa Esteban VI hizo exhumar y juzgar a su predecesor Formoso. El fallo amenazó la posición de los clérigos ordenados por Formoso.",
+  "headlineHighlights": {
+    "red": "EL SÍNODO DEL CADÁVER",
+    "gold": "UN PAPA MUERTO"
+  },
+  "keywords": [
+    "EL SÍNODO DEL CADÁVER",
+    "UN PAPA MUERTO"
+  ],
+  "searchIntent": "En 897, el papa Esteban VI hizo exhumar y juzgar a su predecesor Formoso. El fallo amenazó la posición de los clérigos ordenados por Formoso.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-11",
+  "updatedAt": "2026-11-11",
+  "image": {
+    "src": "/articles/cadaver-synod-897-pope-formosus-ai-illustration.jpg",
+    "alt": "Ilustración de IA de un tribunal eclesiástico medieval con el cuerpo de un papa sentado con vestiduras ceremoniales.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En Roma, en 897, un concilio juzgó al papa Formoso después de su muerte. Esteban VI mandó exhumar el cuerpo y llevarlo ante la asamblea. El acusado había ocupado el pontificado desde 891 hasta su muerte en 896. Para sus adversarios, aquel procedimiento extraordinario tenía una utilidad concreta: la sentencia podía alcanzar a quienes debían su autoridad al difunto. [Fuente: www.nationalgeographic.com](https://www.nationalgeographic.com/history/history-magazine/article/vatican-dead-pope-on-trial)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué se disputaba el papado"
+    },
+    {
+      "type": "paragraph",
+      "text": "El juicio siguió a una disputa por el poder imperial en Italia. Formoso coronó a Lamberto de Espoleto y después a Arnulfo de Carintia, cuya intervención había solicitado. Arnulfo no logró afianzar su posición en Italia. Estos cambios ayudan a entender el intento de deshacer las decisiones del predecesor, aunque las fuentes no fijan un motivo único ni identifican con certeza a quien decidió la exhumación. [Fuente: www.newadvent.org](https://www.newadvent.org/cathen/06139b.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué significaban las acusaciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Formoso había sido obispo de Porto antes de ser papa. Sus adversarios consideraron ilícito su traslado a la sede de Roma e impugnaron su derecho al cargo. La asamblea lo condenó y anuló sus actos, incluidas las ordenaciones. Para los clérigos que dependían de ellas, una disputa por la carrera de un hombre ponía en juego su propio derecho a ejercer. [Fuente: www.nationalgeographic.com](https://www.nationalgeographic.com/history/history-magazine/article/vatican-dead-pope-on-trial)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué dejan en duda los relatos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tras el fallo, despojaron al cuerpo de sus vestiduras. Los relatos vinculan el ultraje posterior con el Tíber, pero discrepan sobre quién arrojó allí los restos y cuándo. La historia del pescador que los recuperó pertenece al terreno de la incertidumbre. Los diálogos atribuidos más tarde al tribunal tampoco son un acta. Un detalle llamativo puede pasar de un libro a otro sin sumar un testigo independiente. [Fuente: macedonia.kroraina.com](https://macedonia.kroraina.com/en/edav/edav_1.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo se revocó la sentencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esteban perdió el cargo y murió en prisión en 897. Teodoro II revocó la decisión del sínodo y restituyó a Formoso una sepultura honorable. Juan IX confirmó la rehabilitación en 898, aunque la disputa sobre las ordenaciones resurgió bajo Sergio III. Los vaivenes muestran lo frágil que podía ser la posición de un clérigo cuando papas rivales se atribuían el poder de invalidar sus actos. El cadáver dio al concilio su fama. El intento de borrar una cadena de autoridad explica por qué el caso perduró. [Fuente: www.newadvent.org](https://www.newadvent.org/cathen/06139b.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Un juicio contado por sus adversarios"
+    },
+    {
+      "type": "paragraph",
+      "text": "Auxilio, un clérigo que defendió la validez de las ordenaciones de Formoso, es una de las voces más cercanas al episodio. Su argumentación muestra por qué importaba el fallo a sus contemporáneos, y su posición en la disputa invita a leer su relato con cautela. La controversia perduró lo suficiente para que distintos autores discutieran si el rango de un obispo podía depender de un juicio posterior sobre quien lo había ordenado. [Fuente : macedonia.kroraina.com](https://macedonia.kroraina.com/en/edav/edav_1.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lecturas relacionadas · [El juicio de Giordano Bruno](/articles/giordano-bruno-philosopher-heresy/) · [La caída de Constantinopla](/articles/fall-constantinople-1453-sultan-mehmed-ii/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.nationalgeographic.com",
+      "url": "https://www.nationalgeographic.com/history/history-magazine/article/vatican-dead-pope-on-trial"
+    },
+    {
+      "label": "Fuente: www.newadvent.org",
+      "url": "https://www.newadvent.org/cathen/06139b.htm"
+    },
+    {
+      "label": "Fuente: macedonia.kroraina.com",
+      "url": "https://macedonia.kroraina.com/en/edav/edav_1.htm"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo se celebró el sínodo del cadáver?",
+      "answer": "En Roma, en 897, el año siguiente a la muerte de Formoso."
+    },
+    {
+      "question": "¿Quién juzgó a Formoso?",
+      "answer": "El papa Esteban VI convocó el concilio. Algunas obras antiguas lo numeran como Esteban VII."
+    },
+    {
+      "question": "¿Se mantuvo el fallo?",
+      "answer": "Teodoro II lo anuló y Juan IX confirmó la rehabilitación. La disputa por las ordenaciones reapareció después."
+    }
+  ]
+}

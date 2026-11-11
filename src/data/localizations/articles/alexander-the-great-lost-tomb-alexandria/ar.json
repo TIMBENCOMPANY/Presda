@@ -1,0 +1,121 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/alexander-the-great-lost-tomb-alexandria/",
+  "path": "/ar/articles/alexander-the-great-lost-tomb-alexandria/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-11",
+    "terminologyChecked": true
+  },
+  "title": "الإسكندر الأكبر: لماذا لا يزال قبره الأخير مفقوداً؟",
+  "seoTitle": "أين قبر الإسكندر الأكبر؟ ما تقوله الأدلة",
+  "description": "تضع المصادر القديمة قبر الإسكندر في الإسكندرية. وتوضح أهميته السياسية، لكن موقعه الدقيق ما زال مجهولاً.",
+  "excerpt": "تضع المصادر القديمة قبر الإسكندر في الإسكندرية. وتوضح أهميته السياسية، لكن موقعه الدقيق ما زال مجهولاً.",
+  "headlineHighlights": {
+    "red": "الإسكندر الأكبر",
+    "gold": "قبره الأخير مفقوداً"
+  },
+  "keywords": [
+    "الإسكندر الأكبر",
+    "قبره الأخير مفقوداً"
+  ],
+  "searchIntent": "تضع المصادر القديمة قبر الإسكندر في الإسكندرية. وتوضح أهميته السياسية، لكن موقعه الدقيق ما زال مجهولاً.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-11",
+  "updatedAt": "2026-11-11",
+  "image": {
+    "src": "/articles/alexander-the-great-lost-tomb-alexandria-ai-illustration.jpg",
+    "alt": "رسم بالذكاء الاصطناعي للإسكندر الأكبر قرب مدخل قبر متخيل يطل على الإسكندرية القديمة.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "توفي الإسكندر الأكبر في بابل عام 323 قبل الميلاد. وبعد قرون ظل كتّاب يصفون ضريحه في الإسكندرية بمصر. ولم يُعرَف حتى اليوم موقع أثري يمكن نسبته إلى ذلك الضريح بثقة. تحدد النصوص مدينة مرجحة ومحيطاً ملكياً واضحاً، بل تذكر اسماً للمجمّع الجنائزي، لكنها لا تكفي لتثبيت موضعه على خريطة حديثة. [المصدر: penelope.uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/17A1%2A.html)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف وصلت جثة الإسكندر إلى مصر؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تنازع قادة الإسكندر على إمبراطوريته بعد موته. وحصل بطليموس على الجثمان ونقله إلى مصر، حيث أسس أسرته الحاكمة. ربط حيازة الرفات النظام الجديد بالإسكندر على نحو لم يكن ليحققه إعلان سياسي وحده. وتختلف الروايات حول المراحل الوسيطة. يذكر بوسانياس دفناً أولاً في منف ثم نقلاً إلى الإسكندرية في عهد بطليموس الثاني، بينما يختصر سترابون الرحلة وينسب الدفن في الإسكندرية إلى بطليموس الأول. [المصدر: www.theoi.com](https://www.theoi.com/Text/Pausanias1A.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "ماذا حدد سترابون فعلاً؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يضع سترابون قبر الإسكندر داخل مجمّع يُعرف عادة باسم السيما أو السوما في حي القصور بالإسكندرية، إلى جانب مدافن البطالمة. وهذا يوضح علاقة مكانية بين المباني من دون أن يوفر إحداثيات. ويضيف أن التابوت الذهبي استُبدل بآخر وصفه بأنه زجاجي. تكشف شهادته ما عرفه مؤلف من العصر الروماني عن الضريح، ولا تكفي وحدها لإثبات هوية أي حجرة باقية. [المصدر: penelope.uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/17A1%2A.html)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف يختفي معلم مشهور؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "أُعيد بناء الإسكندرية مراراً، ويقع كثير من آثارها القديمة تحت منشآت أحدث. ولا يمكن التنقيب إلا حيث تسمح ظروف المدينة الحالية. دُرست مواقع مرشحة معروفة، لكن العثور على بناء قرب تقاطع محتمل لا يعفي من تأريخه وإثبات صلته بالدفن. ولا توجد لحظة موثقة لاختفاء القبر. فالضرر وإعادة الاستخدام والهجر وتراكم الطبقات قد تخفي معالم أي ضريح، لكنها لا تثبت ما حدث لهذا الضريح بعينه. [المصدر: archive.archaeology.org](https://archive.archaeology.org/online/features/alexander/tomb.html)"
+    },
+    {
+      "type": "heading",
+      "text": "التابوت الذي يحمل اسم الإسكندر"
+    },
+    {
+      "type": "paragraph",
+      "text": "تابوت الإسكندر في إسطنبول قطعة أثرية حقيقية من المقبرة الملكية في صيدا. ويشير اسمه الحديث إلى الشخصية التي تُعرّف بالإسكندر في نقوشه. وترجح هيئة المتاحف التركية أنه صُنع لأبدالونيموس ملك صيدا. وتوضح القطعة الفرق بين تحديد هوية حاكم في صورة وتحديد هوية الشخص الذي دُفن في التابوت. [المصدر: turkishmuseums.kprod.kultur.gov.tr](https://turkishmuseums.kprod.kultur.gov.tr/blog/detail/5-must-see-artifacts-in-istanbul-archaeology-museums/10054/4)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي تكشفه زيارة رومانية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يروي سويتونيوس أن أوكتافيان رأى جثمان الإسكندر بعد استيلائه على الإسكندرية عام 30 قبل الميلاد. ويقول إن الإمبراطور المستقبلي كرّم الإسكندر ورفض رؤية رفات البطالمة. ورد المشهد في سيرة كُتبت بعد ذلك بوقت طويل، وهو يكشف كيف صوّر الكتّاب الرومان اللقاء. فقد بقيت ذكرى الإسكندر ذات قيمة لفاتح آخر حتى بعد زوال حكم الأسرة التي بنت الضريح. [المصدر : penelope.uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus%2A.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "اقرأ أيضاً · [الأدلة المتعلقة بأطلانتس](/articles/atlantis-lost-civilization-plato-history-evidence/) · [سقوط القسطنطينية](/articles/fall-constantinople-1453-sultan-mehmed-ii/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: penelope.uchicago.edu",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/17A1%2A.html"
+    },
+    {
+      "label": "المصدر: www.theoi.com",
+      "url": "https://www.theoi.com/Text/Pausanias1A.html"
+    },
+    {
+      "label": "المصدر: archive.archaeology.org",
+      "url": "https://archive.archaeology.org/online/features/alexander/tomb.html"
+    },
+    {
+      "label": "المصدر: turkishmuseums.kprod.kultur.gov.tr",
+      "url": "https://turkishmuseums.kprod.kultur.gov.tr/blog/detail/5-must-see-artifacts-in-istanbul-archaeology-museums/10054/4"
+    },
+    {
+      "label": "المصدر : penelope.uchicago.edu",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus%2A.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل عُثر على قبر الإسكندر؟",
+      "answer": "لم يُنسب إليه أي موقع أثري مكتشف على نحو مؤكد."
+    },
+    {
+      "question": "أين تضع المصادر القديمة القبر الأخير؟",
+      "answer": "في الإسكندرية، ويحدده سترابون ضمن حي القصور."
+    },
+    {
+      "question": "هل تابوت إسطنبول تابوت الإسكندر نفسه؟",
+      "answer": "تعود التسمية إلى النقوش، ولا يثبت دليل أنه كان مدفوناً فيه."
+    }
+  ]
+}
