@@ -188,5 +188,30 @@
     "width": 1280,
     "height": 721,
     "type": "image/jpeg"
+  },
+  "/articles/spain-housing-wage-protests-madrid.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/spacex-tesla-elon-musk-merger-illustration.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/agile-robots-softbank-nvidia-humanoid.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/harry-kane-england-126-wembley-banner.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/ariana-grande-ricky-alvarez-premiere-illustration.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
   }
 }

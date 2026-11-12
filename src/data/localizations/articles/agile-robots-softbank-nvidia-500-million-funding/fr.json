@@ -1,0 +1,97 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/agile-robots-softbank-nvidia-500-million-funding/",
+  "path": "/fr/articles/agile-robots-softbank-nvidia-500-million-funding/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "Agile Robots lève 500 millions de dollars avec SoftBank et NVIDIA",
+  "seoTitle": "Agile Robots lève 500 millions de dollars avec SoftBank et NVIDIA",
+  "description": "SoftBank a mené la levée de 500 millions de dollars qui valorise Agile Robots à 8,5 milliards. NVIDIA figure parmi les investisseurs.",
+  "excerpt": "SoftBank a mené la levée de 500 millions de dollars qui valorise Agile Robots à 8,5 milliards. NVIDIA figure parmi les investisseurs.",
+  "headlineHighlights": {
+    "red": "Agile Robots",
+    "gold": "500 millions de dollars"
+  },
+  "keywords": [
+    "Agile Robots",
+    "500 millions de dollars"
+  ],
+  "searchIntent": "SoftBank a mené la levée de 500 millions de dollars qui valorise Agile Robots à 8,5 milliards. NVIDIA figure parmi les investisseurs.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/agile-robots-softbank-nvidia-humanoid.jpg",
+    "alt": "Robot humanoïde illustré devant les logos de SoftBank et NVIDIA",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Agile Robots a annoncé le 12 novembre avoir levé 500 millions de dollars lors d’un tour mené par SoftBank. Selon Reuters, l’opération valorise l’entreprise munichoise à 8,5 milliards de dollars. NVIDIA et Hitachi font partie des investisseurs. Le premier montant correspond à l’ensemble des fonds levés. Le second est la valeur de l’entreprise implicite dans l’opération. [Source: www.investing.com](https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769)"
+    },
+    {
+      "type": "heading",
+      "text": "Que fabrique Agile Robots ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’entreprise a présenté l’humanoïde Agile ONE en novembre 2025 pour des usages industriels. Son catalogue comprend aussi des bras robotisés, une main articulée et des systèmes mobiles. Les industriels choisissent un équipement en fonction de la tâche. Un bras fixe peut servir sur un poste répétitif, tandis qu’une plateforme mobile peut déplacer du matériel. [Source: www.agile-robots.com](https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce qu’une usine devrait mesurer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un essai en usine peut mesurer la fréquence à laquelle le robot termine une tâche sans intervention, le temps nécessaire et les arrêts pour maintenance. Ces questions comptent lorsqu’une machine doit travailler à proximité du personnel et manipuler des objets variables. Le montant levé ne fournit aucune de ces mesures."
+    },
+    {
+      "type": "heading",
+      "text": "L’intérêt de SoftBank pour la robotique"
+    },
+    {
+      "type": "paragraph",
+      "text": "SoftBank citait déjà Agile Robots parmi ses investissements en robotique dans une présentation couvrant la période jusqu’à décembre 2025. La levée de novembre donne une nouvelle dimension chiffrée à cette relation. Elle réunit des investisseurs actifs dans les puces, l’ingénierie industrielle et l’automatisation. [Source: group.softbank](https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "De la démonstration au déploiement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour un autre exemple d’expérimentation de l’IA physique hors laboratoire, voir [les essais robotiques de Séoul](/articles/seoul-physical-ai-robots-living-lab/). L’intégration aux processus existants et la réaction des opérateurs face à une situation nouvelle comptent dans les deux cas."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769"
+    },
+    {
+      "label": "Source: www.agile-robots.com",
+      "url": "https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf"
+    },
+    {
+      "label": "Source: group.softbank",
+      "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qui a mené la levée d’Agile Robots ?",
+      "answer": "SoftBank, avec notamment la participation de NVIDIA et Hitachi."
+    },
+    {
+      "question": "À combien Agile Robots a-t-elle été valorisée ?",
+      "answer": "À 8,5 milliards de dollars, selon Reuters."
+    }
+  ]
+}

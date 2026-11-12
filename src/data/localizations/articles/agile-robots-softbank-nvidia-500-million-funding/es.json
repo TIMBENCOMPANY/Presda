@@ -1,0 +1,97 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/agile-robots-softbank-nvidia-500-million-funding/",
+  "path": "/es/articles/agile-robots-softbank-nvidia-500-million-funding/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "Agile Robots capta 500 millones de dólares con SoftBank y NVIDIA",
+  "seoTitle": "Agile Robots capta 500 millones con SoftBank y NVIDIA",
+  "description": "SoftBank lideró la ronda de 500 millones de dólares que valoró a Agile Robots en 8.500 millones. NVIDIA participó junto a otros inversores.",
+  "excerpt": "SoftBank lideró la ronda de 500 millones de dólares que valoró a Agile Robots en 8.500 millones. NVIDIA participó junto a otros inversores.",
+  "headlineHighlights": {
+    "red": "Agile Robots",
+    "gold": "500 millones de dólares"
+  },
+  "keywords": [
+    "Agile Robots",
+    "500 millones de dólares"
+  ],
+  "searchIntent": "SoftBank lideró la ronda de 500 millones de dólares que valoró a Agile Robots en 8.500 millones. NVIDIA participó junto a otros inversores.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/agile-robots-softbank-nvidia-humanoid.jpg",
+    "alt": "Ilustración de un robot humanoide ante los logotipos de SoftBank y NVIDIA",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Agile Robots anunció el 12 de noviembre que había captado 500 millones de dólares en una ronda liderada por SoftBank. Reuters informó de que la operación valoró en 8.500 millones de dólares a la empresa de Múnich y de que NVIDIA y Hitachi participaron. La primera cifra corresponde al total captado. La segunda es la valoración implícita de la compañía. [Fuente: www.investing.com](https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué fabrica Agile Robots?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La empresa presentó el humanoide Agile ONE en noviembre de 2025 para uso industrial. Su catálogo también incluye brazos robóticos, una mano articulada y sistemas móviles. Los fabricantes eligen la automatización según la tarea. Un brazo fijo puede operar en una estación repetitiva y una plataforma móvil puede trasladar materiales. [Fuente: www.agile-robots.com](https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué tendría que medir una fábrica"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una prueba en fábrica puede medir con qué frecuencia el robot termina una tarea sin intervención, cuánto tarda y cuánto tiempo exige el mantenimiento. Son preguntas relevantes cuando trabaja cerca de personas y manipula objetos que pueden variar entre turnos. La cifra de financiación no aporta esas mediciones."
+    },
+    {
+      "type": "heading",
+      "text": "El interés previo de SoftBank por la robótica"
+    },
+    {
+      "type": "paragraph",
+      "text": "SoftBank ya había incluido a Agile Robots entre sus inversiones en robótica en una presentación que abarcaba hasta diciembre de 2025. La ronda de noviembre pone una cifra nueva a esa relación y reúne a inversores vinculados a los chips, la ingeniería industrial y la automatización. [Fuente: group.softbank](https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "De la demostración al despliegue"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para ver otro ejemplo de pruebas de IA física fuera del laboratorio, consulta [los ensayos de robótica de Seúl](/articles/seoul-physical-ai-robots-living-lab/). Entre las preguntas comunes figuran la integración en los procesos existentes y la reacción de los operadores ante situaciones nuevas."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769"
+    },
+    {
+      "label": "Fuente: www.agile-robots.com",
+      "url": "https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf"
+    },
+    {
+      "label": "Fuente: group.softbank",
+      "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quién lideró la ronda de Agile Robots?",
+      "answer": "SoftBank. Entre los participantes estuvieron NVIDIA y Hitachi."
+    },
+    {
+      "question": "¿En cuánto se valoró Agile Robots?",
+      "answer": "En 8.500 millones de dólares, según Reuters."
+    }
+  ]
+}

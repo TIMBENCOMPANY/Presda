@@ -1,0 +1,101 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/spain-housing-wage-protests-november-2026/",
+  "path": "/fr/articles/spain-housing-wage-protests-november-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "En Espagne, la grève nationale débouche sur des manifestations pour le logement et les salaires",
+  "seoTitle": "Grève du 11 novembre en Espagne : logement et salaires",
+  "description": "Une grève de 24 heures a placé les loyers, les expulsions et les salaires au cœur du débat. Les députés ont validé des mesures le lendemain.",
+  "excerpt": "Une grève de 24 heures a placé les loyers, les expulsions et les salaires au cœur du débat. Les députés ont validé des mesures le lendemain.",
+  "headlineHighlights": {
+    "red": "manifestations",
+    "gold": "grève nationale"
+  },
+  "keywords": [
+    "manifestations",
+    "grève nationale"
+  ],
+  "searchIntent": "Une grève de 24 heures a placé les loyers, les expulsions et les salaires au cœur du débat. Les députés ont validé des mesures le lendemain.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/spain-housing-wage-protests-madrid.jpg",
+    "alt": "Foule illustrée avec des pancartes sur le logement et les salaires à Madrid",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le 11 novembre 2026, la crise du logement a fait descendre salariés et locataires dans les mêmes rues. Selon EFE, une grève générale de 24 heures a perturbé les transports publics et interrompu le travail dans certains ports et usines. Des milliers de personnes ont ensuite manifesté, notamment à Madrid et à Barcelone, pour les loyers et les salaires. [Source: efe.com](https://efe.com/english/economy/2026-11-11/spain-general-strike/)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi les syndicats et les locataires ont défilé ensemble"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le préavis liait le logement aux conditions de travail. L’UGT et les CCOO ont appelé à la grève avec des syndicats de locataires et d’autres organisations. Les revendications comprenaient davantage de logements publics et un nouvel accord sur le salaire minimum. Pour les locataires, les salaires déterminent ce qui reste après le loyer. Les règles du bail et de l’expulsion déterminent aussi s’ils peuvent rester chez eux. [Source: www.ugt.es](https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la)"
+    },
+    {
+      "type": "subheading",
+      "text": "Quelle a été l’ampleur des cortèges ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans sa couverture du 11 novembre, RTVE a cité la police municipale de Barcelone, qui estimait à environ 40 000 le nombre de manifestants dans la ville. Le média a aussi signalé une forte mobilisation à Madrid malgré la pluie. Le chiffre barcelonais concerne le défilé local. La participation à la grève relève d’un autre décompte. [Source: www.rtve.es](https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que les députés ont voté le lendemain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 12 novembre, la chambre basse intérimaire a validé des mesures destinées à limiter les expulsions et la spéculation immobilière, selon l’Associated Press. Le vote portait sur le logement. Les revendications salariales relevaient d’un autre dossier. Les effets dépendront de la mise en œuvre des mesures, dont la durée pourrait aussi dépendre du résultat électoral, selon AP. [Source: apnews.com](https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450)"
+    },
+    {
+      "type": "heading",
+      "text": "Le logement s’impose dans le débat politique"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mobilisation a placé les loyers et les salaires dans le débat national. Dans un autre dossier concernant les grandes villes, PRESDA suit [les candidatures de Madrid et Casablanca à la finale du Mondial 2030](/articles/casablanca-madrid-2030-world-cup-final/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: efe.com",
+      "url": "https://efe.com/english/economy/2026-11-11/spain-general-strike/"
+    },
+    {
+      "label": "Source: www.ugt.es",
+      "url": "https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la"
+    },
+    {
+      "label": "Source: www.rtve.es",
+      "url": "https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml"
+    },
+    {
+      "label": "Source: apnews.com",
+      "url": "https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand a eu lieu la grève générale ?",
+      "answer": "Elle a duré 24 heures le 11 novembre 2026."
+    },
+    {
+      "question": "Que demandaient les manifestants ?",
+      "answer": "Les organisateurs réclamaient des logements abordables, une meilleure protection des locataires et un nouvel accord sur le salaire minimum."
+    }
+  ]
+}

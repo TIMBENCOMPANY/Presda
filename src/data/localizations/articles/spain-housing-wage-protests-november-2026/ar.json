@@ -1,0 +1,101 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/spain-housing-wage-protests-november-2026/",
+  "path": "/ar/articles/spain-housing-wage-protests-november-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "احتجاجات على تكاليف السكن والأجور في إسبانيا بعد إضراب عام",
+  "seoTitle": "إضراب إسبانيا في 11 نوفمبر: أزمة السكن ومطالب الأجور",
+  "description": "وضع إضراب استمر 24 ساعة الإيجارات والإخلاء والأجور في صلب النقاش الإسباني، وأقر النواب تدابير سكنية في اليوم التالي.",
+  "excerpt": "وضع إضراب استمر 24 ساعة الإيجارات والإخلاء والأجور في صلب النقاش الإسباني، وأقر النواب تدابير سكنية في اليوم التالي.",
+  "headlineHighlights": {
+    "red": "تكاليف السكن والأجور",
+    "gold": "إضراب عام"
+  },
+  "keywords": [
+    "تكاليف السكن والأجور",
+    "إضراب عام"
+  ],
+  "searchIntent": "وضع إضراب استمر 24 ساعة الإيجارات والإخلاء والأجور في صلب النقاش الإسباني، وأقر النواب تدابير سكنية في اليوم التالي.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/spain-housing-wage-protests-madrid.jpg",
+    "alt": "رسم لحشد يحمل لافتات عن السكن والأجور في مدريد",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "جمعت أزمة السكن في إسبانيا العمال والمستأجرين في الشوارع في 11 نوفمبر 2026. وأفادت وكالة إفي بأن إضراباً عاماً دام 24 ساعة عطّل النقل العام وأوقف العمل في بعض الموانئ والمصانع. ثم تظاهر الآلاف في مدن منها مدريد وبرشلونة، في تحرك وطني جمع مطالب تتعلق بالإيجارات والأجور. [المصدر: efe.com](https://efe.com/english/economy/2026-11-11/spain-general-strike/)"
+    },
+    {
+      "type": "heading",
+      "text": "لماذا تظاهر العمال والمستأجرون معاً؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "ربط إعلان الإضراب بين السكن وظروف العمل. وشاركت نقابتا UGT وCCOO مع نقابات المستأجرين ومنظمات عمالية أخرى في الدعوة إليه. وشملت المطالب توسيع الإسكان العام والتوصل إلى اتفاق جديد بشأن الحد الأدنى للأجور. فالراتب يحدد ما يتبقى بعد دفع الإيجار، فيما تؤثر شروط العقد والحماية من الإخلاء في قدرة المستأجر على البقاء في منزله. [المصدر: www.ugt.es](https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la)"
+    },
+    {
+      "type": "subheading",
+      "text": "ما حجم المسيرات؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "نقلت هيئة RTVE يوم 11 نوفمبر عن الشرطة البلدية في برشلونة تقديراً بمشاركة نحو 40 ألف شخص في مسيرة المدينة، ووصفت حشوداً في مدريد رغم الأمطار الغزيرة. يخص الرقم مسيرة برشلونة وفق تقدير محلي. أما عدد المضربين عن العمل فله طريقة حساب مختلفة. [المصدر: www.rtve.es](https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي أقره النواب في اليوم التالي؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "في 12 نوفمبر، أقر مجلس النواب المؤقت تدابير تستهدف الحد من الإخلاء والمضاربة العقارية، بحسب أسوشيتد برس. تناول التصويت ملف السكن، فيما بقيت مطالب الأجور مسألة منفصلة. ويتوقف الأثر العملي على تنفيذ التدابير، وقد ترتبط مدة سريانها بنتائج الانتخابات وفق الوكالة. [المصدر: apnews.com](https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450)"
+    },
+    {
+      "type": "heading",
+      "text": "السكن يتقدم على جدول الأعمال السياسي"
+    },
+    {
+      "type": "paragraph",
+      "text": "أدخلت الاحتجاجات الإيجارات والأجور إلى صلب النقاش الوطني. وفي ملف مختلف يخص المدن الكبرى، تتابع بريزدا [تنافس مدريد والدار البيضاء على استضافة نهائي كأس العالم 2030](/articles/casablanca-madrid-2030-world-cup-final/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: efe.com",
+      "url": "https://efe.com/english/economy/2026-11-11/spain-general-strike/"
+    },
+    {
+      "label": "المصدر: www.ugt.es",
+      "url": "https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la"
+    },
+    {
+      "label": "المصدر: www.rtve.es",
+      "url": "https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml"
+    },
+    {
+      "label": "المصدر: apnews.com",
+      "url": "https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450"
+    }
+  ],
+  "faq": [
+    {
+      "question": "متى وقع الإضراب العام؟",
+      "answer": "جرى في 11 نوفمبر 2026 واستمر 24 ساعة."
+    },
+    {
+      "question": "ماذا طالب المحتجون؟",
+      "answer": "طالب المنظمون بسكن ميسور وحماية أقوى للمستأجرين وتحسين الأجور، بما يشمل اتفاقاً جديداً بشأن الحد الأدنى للأجور."
+    }
+  ]
+}

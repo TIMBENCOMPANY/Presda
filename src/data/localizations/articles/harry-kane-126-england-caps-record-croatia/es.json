@@ -1,0 +1,97 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/harry-kane-126-england-caps-record-croatia/",
+  "path": "/es/articles/harry-kane-126-england-caps-record-croatia/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "Harry Kane bate el récord de la selección masculina de Inglaterra con 126 partidos",
+  "seoTitle": "Harry Kane bate el récord de partidos con Inglaterra ante Croacia",
+  "description": "Harry Kane superó a Peter Shilton en su partido 126 con Inglaterra y marcó de penalti el gol de la victoria ante Croacia en Wembley.",
+  "excerpt": "Harry Kane superó a Peter Shilton en su partido 126 con Inglaterra y marcó de penalti el gol de la victoria ante Croacia en Wembley.",
+  "headlineHighlights": {
+    "red": "Harry Kane",
+    "gold": "126 partidos"
+  },
+  "keywords": [
+    "Harry Kane",
+    "126 partidos"
+  ],
+  "searchIntent": "Harry Kane superó a Peter Shilton en su partido 126 con Inglaterra y marcó de penalti el gol de la victoria ante Croacia en Wembley.",
+  "category": "Sport",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/harry-kane-england-126-wembley-banner.jpg",
+    "alt": "Ilustración de una grada de Wembley con una pancarta de Harry Kane y el número 126",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Harry Kane se convirtió en el futbolista con más partidos en la selección absoluta masculina de Inglaterra al ser titular frente a Croacia en Wembley el 12 de noviembre de 2026. Su encuentro internacional número 126 lo situó por delante del guardameta Peter Shilton, que acabó con 125. Después decidió el partido de la Liga de Naciones desde el punto de penalti. [Fuente: www.englandfootball.com](https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo ganó Inglaterra a Croacia por 2–1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Morgan Rogers adelantó a Inglaterra y Petar Sučić igualó para Croacia tras el descanso. Jarell Quansah provocó después el penalti que Kane transformó para firmar su gol número 92 con Inglaterra. La victoria confirmó el pase a cuartos antes del último partido de grupo ante España. Shilton participó en el homenaje previo al encuentro junto al príncipe de Gales. [Fuente: www.rte.ie](https://www.rte.ie/sport/soccer/2026/1112/1599054-record-breaking-kane-scores-as-england-overcome-croatia/)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Qué récord inglés batió?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada internacionalidad corresponde a una aparición con la selección. La marca pertenece a la absoluta masculina. Fara Williams ostenta el récord de la absoluta femenina con 172 partidos. Kane había igualado a Shilton en octubre, también en Wembley, en el triunfo por 3–0 contra Chequia. [Fuente: www.theguardian.com](https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap)"
+    },
+    {
+      "type": "heading",
+      "text": "Dos récords en una noche"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kane ya era el máximo goleador de la selección masculina antes del saque inicial. El encuentro ante Croacia elevó su cuenta a 92 tantos y le dio en solitario el récord de partidos. Su titularidad marcó el primer hito de la noche. Su penalti dejó el marcador definitivo."
+    },
+    {
+      "type": "heading",
+      "text": "Un hito después del Balón de Oro"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wembley celebró también el reciente Balón de Oro de Kane. PRESDA explicó [por qué el premio puso fin a 25 años de espera para Inglaterra](/articles/harry-kane-ballon-dor-2026-england-25-year-wait/). El récord de Wembley refleja otro logro, la continuidad con la selección desde su debut en 2015."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.englandfootball.com",
+      "url": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre"
+    },
+    {
+      "label": "Fuente: www.rte.ie",
+      "url": "https://www.rte.ie/sport/soccer/2026/1112/1599054-record-breaking-kane-scores-as-england-overcome-croatia/"
+    },
+    {
+      "label": "Fuente: www.theguardian.com",
+      "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quién tenía el récord anterior?",
+      "answer": "Peter Shilton disputó 125 partidos con la absoluta masculina."
+    },
+    {
+      "question": "¿Marcó Kane en su partido 126?",
+      "answer": "Sí. El penalti del 2–1 ante Croacia fue su gol número 92 con Inglaterra."
+    }
+  ]
+}

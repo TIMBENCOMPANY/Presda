@@ -1,0 +1,97 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/spacex-tesla-merger-talks-november-2026/",
+  "path": "/fr/articles/spacex-tesla-merger-talks-november-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "SpaceX et Tesla avanceraient dans leurs discussions de fusion",
+  "seoTitle": "Fusion SpaceX-Tesla : ce que rapporte Bloomberg",
+  "description": "Bloomberg fait état de progrès dans les discussions de fusion entre SpaceX et Tesla. Une annonce en décembre ou début 2027 est évoquée.",
+  "excerpt": "Bloomberg fait état de progrès dans les discussions de fusion entre SpaceX et Tesla. Une annonce en décembre ou début 2027 est évoquée.",
+  "headlineHighlights": {
+    "red": "discussions",
+    "gold": "SpaceX et Tesla"
+  },
+  "keywords": [
+    "discussions",
+    "SpaceX et Tesla"
+  ],
+  "searchIntent": "Bloomberg fait état de progrès dans les discussions de fusion entre SpaceX et Tesla. Une annonce en décembre ou début 2027 est évoquée.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/spacex-tesla-elon-musk-merger-illustration.jpg",
+    "alt": "Portrait illustré d’Elon Musk entre les enseignes de SpaceX et Tesla",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "SpaceX et Tesla ont progressé dans leurs négociations privées en vue d’une éventuelle fusion, a rapporté Bloomberg le 12 novembre, citant des personnes au fait des discussions. Une annonce pourrait intervenir dès décembre 2026, mais le début de 2027 a aussi été évoqué. L’article décrit des pourparlers sans faire état d’un accord signé, d’un prix définitif ou d’une date de réalisation. [Source: news.bloomberglaw.com](https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-and-tesla-talks-on-record-merger-are-said-to-progress)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que l’on savait avant novembre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Elon Musk avait déjà évoqué publiquement cette possibilité en octobre. Selon Axios, les deux groupes avaient créé des comités spéciaux pour discuter d’une transaction. Cette démarche a donné un cadre aux discussions. L’article de novembre y ajoute un calendrier possible, d’après des sources anonymes, sans trancher l’issue des pourparlers. [Source: www.axios.com](https://www.axios.com/2026/10/21/tesla-spacex-merger-elon-musk)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi la gouvernance compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tesla vend des véhicules et des produits énergétiques, tandis que SpaceX fournit des services de lancement et exploite le réseau Starlink. Une fusion réunirait ces activités sous une même structure. Comme Musk dirige les deux entreprises, les modalités compteraient particulièrement. Les investisseurs voudraient connaître la valorisation de chaque groupe et la manière dont les conseils examinent une opération concernant leur dirigeant commun. [Source: apnews.com](https://apnews.com/article/e828348887c5855c22cb2be5c83beb46)"
+    },
+    {
+      "type": "heading",
+      "text": "Qu’est-ce qui confirmerait un accord ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un communiqué commun ou un document réglementaire annonçant un accord définitif marquerait une nouvelle étape. Il pourrait préciser la structure, la contrepartie offerte aux actionnaires et les autorisations envisagées. Une éventuelle annonce et la réalisation effective de la fusion interviendraient à des étapes distinctes."
+    },
+    {
+      "type": "heading",
+      "text": "Le contexte commercial de Tesla"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’activité automobile de Tesla fait face à la concurrence indépendamment des pourparlers. PRESDA a retracé [le dépassement de Tesla par BYD dans les ventes annuelles de voitures 100 % électriques](/articles/byd-overtakes-tesla-annual-bev-sales/), un indicateur de la concurrence sur un marché dont hériterait le groupe fusionné."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: news.bloomberglaw.com",
+      "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-and-tesla-talks-on-record-merger-are-said-to-progress"
+    },
+    {
+      "label": "Source: www.axios.com",
+      "url": "https://www.axios.com/2026/10/21/tesla-spacex-merger-elon-musk"
+    },
+    {
+      "label": "Source: apnews.com",
+      "url": "https://apnews.com/article/e828348887c5855c22cb2be5c83beb46"
+    }
+  ],
+  "faq": [
+    {
+      "question": "SpaceX et Tesla ont-elles annoncé un accord ?",
+      "answer": "Bloomberg a évoqué des négociations privées le 12 novembre, sans faire état d’un accord signé."
+    },
+    {
+      "question": "Quand une annonce pourrait-elle intervenir ?",
+      "answer": "Les sources de Bloomberg évoquaient décembre 2026 ou début 2027."
+    }
+  ]
+}

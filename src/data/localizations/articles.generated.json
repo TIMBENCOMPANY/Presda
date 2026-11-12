@@ -8726,6 +8726,297 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/agile-robots-softbank-nvidia-500-million-funding/",
+    "path": "/ar/articles/agile-robots-softbank-nvidia-500-million-funding/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "أجايل روبوتس تجمع 500 مليون دولار في جولة بقيادة سوفت بنك وبمشاركة إنفيديا",
+    "seoTitle": "أجايل روبوتس تجمع 500 مليون دولار بمشاركة إنفيديا",
+    "description": "قادت سوفت بنك جولة تمويل بـ500 مليون دولار قيّمت أجايل روبوتس الألمانية بـ8.5 مليارات دولار، وشاركت فيها إنفيديا ومستثمرون آخرون.",
+    "excerpt": "قادت سوفت بنك جولة تمويل بـ500 مليون دولار قيّمت أجايل روبوتس الألمانية بـ8.5 مليارات دولار، وشاركت فيها إنفيديا ومستثمرون آخرون.",
+    "headlineHighlights": {
+      "red": "أجايل روبوتس",
+      "gold": "500 مليون دولار"
+    },
+    "keywords": [
+      "أجايل روبوتس",
+      "500 مليون دولار"
+    ],
+    "searchIntent": "قادت سوفت بنك جولة تمويل بـ500 مليون دولار قيّمت أجايل روبوتس الألمانية بـ8.5 مليارات دولار، وشاركت فيها إنفيديا ومستثمرون آخرون.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/agile-robots-softbank-nvidia-humanoid.jpg",
+      "alt": "رسم لروبوت شبيه بالإنسان أمام شعاري سوفت بنك وإنفيديا",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "أعلنت أجايل روبوتس في 12 نوفمبر أنها جمعت 500 مليون دولار في جولة قادتها سوفت بنك. وذكرت رويترز أن العملية قيّمت الشركة التي تتخذ من ميونيخ مقراً لها بـ8.5 مليارات دولار، وأن إنفيديا وهيتاشي شاركتا فيها. الرقم الأول هو مجموع التمويل، والثاني هو قيمة الشركة التي تعكسها شروط الجولة. [المصدر: www.investing.com](https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا تصنع أجايل روبوتس؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قدمت الشركة روبوت أجايل ون الشبيه بالإنسان في نوفمبر 2025 للاستخدام الصناعي. وتضم مجموعتها أيضاً أذرعاً آلية ويداً مرنة وأنظمة متحركة. ويختار المصنعون المعدات بحسب المهمة. فالذراع الثابتة تناسب محطة عمل متكررة، في حين تستطيع المنصة المتحركة نقل المواد بين المواقع. [المصدر: www.agile-robots.com](https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي ينبغي للمصنع قياسه؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن للتجربة في المصنع قياس عدد المرات التي ينجز فيها الروبوت مهمته من دون تدخل، والوقت اللازم لذلك، والوقت الذي تستغرقه الصيانة. وتهم هذه المقاييس عندما تعمل الآلة قرب أشخاص وتتعامل مع أغراض تختلف بين الورديات. ولا يجيب حجم التمويل وحده عن هذه الأسئلة."
+      },
+      {
+        "type": "heading",
+        "text": "اهتمام سوفت بنك السابق بالروبوتات"
+      },
+      {
+        "type": "paragraph",
+        "text": "كانت سوفت بنك قد أدرجت أجايل روبوتس ضمن استثماراتها في الروبوتات في عرض للمستثمرين يغطي الفترة حتى ديسمبر 2025. وتضيف جولة نوفمبر رقماً جديداً إلى هذه العلاقة، وتجمع مستثمرين لهم اهتمامات في الرقائق والهندسة الصناعية والأتمتة. [المصدر: group.softbank](https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "من العرض إلى التشغيل"
+      },
+      {
+        "type": "paragraph",
+        "text": "للاطلاع على مثال آخر لاختبار الذكاء الاصطناعي المادي خارج المختبر، اقرأ عن [تجارب الروبوتات في سيول](/articles/seoul-physical-ai-robots-living-lab/). وتشمل الأسئلة المشتركة دمج الروبوت في سير العمل وكيفية استجابة المشغلين حين يواجه موقفاً جديداً."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769"
+      },
+      {
+        "label": "المصدر: www.agile-robots.com",
+        "url": "https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf"
+      },
+      {
+        "label": "المصدر: group.softbank",
+        "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf"
+      }
+    ],
+    "faq": [
+      {
+        "question": "من قاد جولة التمويل؟",
+        "answer": "قادت سوفت بنك الجولة، وشاركت فيها إنفيديا وهيتاشي من بين آخرين."
+      },
+      {
+        "question": "ما قيمة أجايل روبوتس بعد الجولة؟",
+        "answer": "بلغ تقييم الشركة 8.5 مليارات دولار وفق رويترز."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/agile-robots-softbank-nvidia-500-million-funding/",
+    "path": "/es/articles/agile-robots-softbank-nvidia-500-million-funding/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "Agile Robots capta 500 millones de dólares con SoftBank y NVIDIA",
+    "seoTitle": "Agile Robots capta 500 millones con SoftBank y NVIDIA",
+    "description": "SoftBank lideró la ronda de 500 millones de dólares que valoró a Agile Robots en 8.500 millones. NVIDIA participó junto a otros inversores.",
+    "excerpt": "SoftBank lideró la ronda de 500 millones de dólares que valoró a Agile Robots en 8.500 millones. NVIDIA participó junto a otros inversores.",
+    "headlineHighlights": {
+      "red": "Agile Robots",
+      "gold": "500 millones de dólares"
+    },
+    "keywords": [
+      "Agile Robots",
+      "500 millones de dólares"
+    ],
+    "searchIntent": "SoftBank lideró la ronda de 500 millones de dólares que valoró a Agile Robots en 8.500 millones. NVIDIA participó junto a otros inversores.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/agile-robots-softbank-nvidia-humanoid.jpg",
+      "alt": "Ilustración de un robot humanoide ante los logotipos de SoftBank y NVIDIA",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Agile Robots anunció el 12 de noviembre que había captado 500 millones de dólares en una ronda liderada por SoftBank. Reuters informó de que la operación valoró en 8.500 millones de dólares a la empresa de Múnich y de que NVIDIA y Hitachi participaron. La primera cifra corresponde al total captado. La segunda es la valoración implícita de la compañía. [Fuente: www.investing.com](https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769)"
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué fabrica Agile Robots?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La empresa presentó el humanoide Agile ONE en noviembre de 2025 para uso industrial. Su catálogo también incluye brazos robóticos, una mano articulada y sistemas móviles. Los fabricantes eligen la automatización según la tarea. Un brazo fijo puede operar en una estación repetitiva y una plataforma móvil puede trasladar materiales. [Fuente: www.agile-robots.com](https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué tendría que medir una fábrica"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una prueba en fábrica puede medir con qué frecuencia el robot termina una tarea sin intervención, cuánto tarda y cuánto tiempo exige el mantenimiento. Son preguntas relevantes cuando trabaja cerca de personas y manipula objetos que pueden variar entre turnos. La cifra de financiación no aporta esas mediciones."
+      },
+      {
+        "type": "heading",
+        "text": "El interés previo de SoftBank por la robótica"
+      },
+      {
+        "type": "paragraph",
+        "text": "SoftBank ya había incluido a Agile Robots entre sus inversiones en robótica en una presentación que abarcaba hasta diciembre de 2025. La ronda de noviembre pone una cifra nueva a esa relación y reúne a inversores vinculados a los chips, la ingeniería industrial y la automatización. [Fuente: group.softbank](https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "De la demostración al despliegue"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para ver otro ejemplo de pruebas de IA física fuera del laboratorio, consulta [los ensayos de robótica de Seúl](/articles/seoul-physical-ai-robots-living-lab/). Entre las preguntas comunes figuran la integración en los procesos existentes y la reacción de los operadores ante situaciones nuevas."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769"
+      },
+      {
+        "label": "Fuente: www.agile-robots.com",
+        "url": "https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf"
+      },
+      {
+        "label": "Fuente: group.softbank",
+        "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Quién lideró la ronda de Agile Robots?",
+        "answer": "SoftBank. Entre los participantes estuvieron NVIDIA y Hitachi."
+      },
+      {
+        "question": "¿En cuánto se valoró Agile Robots?",
+        "answer": "En 8.500 millones de dólares, según Reuters."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/agile-robots-softbank-nvidia-500-million-funding/",
+    "path": "/fr/articles/agile-robots-softbank-nvidia-500-million-funding/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "Agile Robots lève 500 millions de dollars avec SoftBank et NVIDIA",
+    "seoTitle": "Agile Robots lève 500 millions de dollars avec SoftBank et NVIDIA",
+    "description": "SoftBank a mené la levée de 500 millions de dollars qui valorise Agile Robots à 8,5 milliards. NVIDIA figure parmi les investisseurs.",
+    "excerpt": "SoftBank a mené la levée de 500 millions de dollars qui valorise Agile Robots à 8,5 milliards. NVIDIA figure parmi les investisseurs.",
+    "headlineHighlights": {
+      "red": "Agile Robots",
+      "gold": "500 millions de dollars"
+    },
+    "keywords": [
+      "Agile Robots",
+      "500 millions de dollars"
+    ],
+    "searchIntent": "SoftBank a mené la levée de 500 millions de dollars qui valorise Agile Robots à 8,5 milliards. NVIDIA figure parmi les investisseurs.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/agile-robots-softbank-nvidia-humanoid.jpg",
+      "alt": "Robot humanoïde illustré devant les logos de SoftBank et NVIDIA",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Agile Robots a annoncé le 12 novembre avoir levé 500 millions de dollars lors d’un tour mené par SoftBank. Selon Reuters, l’opération valorise l’entreprise munichoise à 8,5 milliards de dollars. NVIDIA et Hitachi font partie des investisseurs. Le premier montant correspond à l’ensemble des fonds levés. Le second est la valeur de l’entreprise implicite dans l’opération. [Source: www.investing.com](https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769)"
+      },
+      {
+        "type": "heading",
+        "text": "Que fabrique Agile Robots ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’entreprise a présenté l’humanoïde Agile ONE en novembre 2025 pour des usages industriels. Son catalogue comprend aussi des bras robotisés, une main articulée et des systèmes mobiles. Les industriels choisissent un équipement en fonction de la tâche. Un bras fixe peut servir sur un poste répétitif, tandis qu’une plateforme mobile peut déplacer du matériel. [Source: www.agile-robots.com](https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce qu’une usine devrait mesurer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un essai en usine peut mesurer la fréquence à laquelle le robot termine une tâche sans intervention, le temps nécessaire et les arrêts pour maintenance. Ces questions comptent lorsqu’une machine doit travailler à proximité du personnel et manipuler des objets variables. Le montant levé ne fournit aucune de ces mesures."
+      },
+      {
+        "type": "heading",
+        "text": "L’intérêt de SoftBank pour la robotique"
+      },
+      {
+        "type": "paragraph",
+        "text": "SoftBank citait déjà Agile Robots parmi ses investissements en robotique dans une présentation couvrant la période jusqu’à décembre 2025. La levée de novembre donne une nouvelle dimension chiffrée à cette relation. Elle réunit des investisseurs actifs dans les puces, l’ingénierie industrielle et l’automatisation. [Source: group.softbank](https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "De la démonstration au déploiement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour un autre exemple d’expérimentation de l’IA physique hors laboratoire, voir [les essais robotiques de Séoul](/articles/seoul-physical-ai-robots-living-lab/). L’intégration aux processus existants et la réaction des opérateurs face à une situation nouvelle comptent dans les deux cas."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769"
+      },
+      {
+        "label": "Source: www.agile-robots.com",
+        "url": "https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf"
+      },
+      {
+        "label": "Source: group.softbank",
+        "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Qui a mené la levée d’Agile Robots ?",
+        "answer": "SoftBank, avec notamment la participation de NVIDIA et Hitachi."
+      },
+      {
+        "question": "À combien Agile Robots a-t-elle été valorisée ?",
+        "answer": "À 8,5 milliards de dollars, selon Reuters."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/ai-danger-development-pause-coxon-hinton-sanders/",
     "path": "/ar/articles/ai-danger-development-pause-coxon-hinton-sanders/",
     "kind": "article",
@@ -33595,6 +33886,297 @@
       {
         "question": "Qui a publié cet article ?",
         "answer": "L’article « ZONE 51 ET EXTRATERRESTRES : QUE CACHENT VRAIMENT LES ÉTATS-UNIS DANS LE DÉSERT ? » a été publié par PRESDA Editorial sur PRESDA."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/ariana-grande-ricky-alvarez-focker-in-law-premiere/",
+    "path": "/ar/articles/ariana-grande-ricky-alvarez-focker-in-law-premiere/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "أريانا غراندي وريكي ألفاريز على السجادة الحمراء لفيلم فوكر إن لو",
+    "seoTitle": "أريانا غراندي وريكي ألفاريز في العرض الأول لفوكر إن لو",
+    "description": "ظهرَت أريانا غراندي وريكي ألفاريز معاً على السجادة الحمراء للعرض العالمي الأول لفوكر إن لو في نيويورك يوم 11 نوفمبر.",
+    "excerpt": "ظهرَت أريانا غراندي وريكي ألفاريز معاً على السجادة الحمراء للعرض العالمي الأول لفوكر إن لو في نيويورك يوم 11 نوفمبر.",
+    "headlineHighlights": {
+      "red": "أريانا غراندي",
+      "gold": "فوكر إن لو"
+    },
+    "keywords": [
+      "أريانا غراندي",
+      "فوكر إن لو"
+    ],
+    "searchIntent": "ظهرَت أريانا غراندي وريكي ألفاريز معاً على السجادة الحمراء للعرض العالمي الأول لفوكر إن لو في نيويورك يوم 11 نوفمبر.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/ariana-grande-ricky-alvarez-premiere-illustration.jpg",
+      "alt": "رسم يصور أريانا غراندي وريكي ألفاريز يقفان معاً",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "وقفت أريانا غراندي والراقص ريكي ألفاريز معاً أمام المصورين في 11 نوفمبر 2026 خلال العرض العالمي الأول لفيلم فوكر إن لو في مسرح بيكون بنيويورك. ووصفت فوغ المناسبة بأنها أول ظهور مشترك لهما على السجادة الحمراء منذ استئناف علاقتهما، وأرفقت تغطيتها بصورة من غيتي إيميجز التُقطت في العرض. [المصدر: www.vogue.com](https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12)"
+      },
+      {
+        "type": "heading",
+        "text": "الفستان الذي لفت الأنظار"
+      },
+      {
+        "type": "paragraph",
+        "text": "اختار منسق أزياء غراندي، لو روتش، فستاناً من بادجلي ميشكا يعود إلى التسعينيات، وفق فوغ. وجمع التصميم الرمادي الفضي بين مربعات دقيقة وزخارف زهرية بالخرز وتنورة واسعة. وفي أمسية احتفت بعمل جديد، استأثرت قطعة من عقد سابق بجانب من التغطية الفنية. [المصدر: www.vogue.com](https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا أثار الظهور اهتماماً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ارتبطت غراندي وألفاريز سابقاً قبل انفصالهما في 2016. ونشرت هاربرز بازار صورة تجمعهما من ذلك العام إلى جانب صور العرض الجديد. ويمثل ظهور نوفمبر محطة علنية للثنائي بعد عودته، ضمن قصة سبق أن وثقتها صور مشتركة. [المصدر: www.harpersbazaar.com](https://www.harpersbazaar.com/celebrity/latest/a74411489/ariana-grande-ricky-alvarez-red-carpet-debut-focker-in-law-world-premiere-photos/)"
+      },
+      {
+        "type": "heading",
+        "text": "الفيلم وراء العرض الأول"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحدد يونيفرسال بيكتشرز 25 نوفمبر 2026 موعداً لطرح الفيلم في دور العرض الأميركية. وتظهر غراندي في المواد الترويجية إلى جانب بن ستيلر وروبرت دي نيرو. وكان عرض مسرح بيكون هو العرض العالمي الأول الذي سبق موعد الطرح العام. [المصدر: www.universalpictures.com](https://www.universalpictures.com/movies/focker-in-law/home/)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي توثقه صور العرض؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "توضح صور المناسبة من حضر وأين وقف أمام المصورين. ويظل التسلسل العلني منفصلاً عن خطط الثنائي الخاصة. وتتناول تغطيتنا عن [كيتي بيري وجاستن ترودو](/articles/katy-perry-and-justin-trudeau-spark-global-speculation/) أيضاً كيف تتحول المشاهدات العلنية إلى أخبار فنية."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.vogue.com",
+        "url": "https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12"
+      },
+      {
+        "label": "المصدر: www.harpersbazaar.com",
+        "url": "https://www.harpersbazaar.com/celebrity/latest/a74411489/ariana-grande-ricky-alvarez-red-carpet-debut-focker-in-law-world-premiere-photos/"
+      },
+      {
+        "label": "المصدر: www.universalpictures.com",
+        "url": "https://www.universalpictures.com/movies/focker-in-law/home/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "أين ظهرَت أريانا غراندي وريكي ألفاريز معاً؟",
+        "answer": "في العرض العالمي الأول لفوكر إن لو بمسرح بيكون في نيويورك يوم 11 نوفمبر."
+      },
+      {
+        "question": "من صمم فستان أريانا غراندي؟",
+        "answer": "ذكرت فوغ أنه من بادجلي ميشكا ويعود إلى التسعينيات، واختاره منسق الأزياء لو روتش."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/ariana-grande-ricky-alvarez-focker-in-law-premiere/",
+    "path": "/es/articles/ariana-grande-ricky-alvarez-focker-in-law-premiere/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "Ariana Grande y Ricky Álvarez posan juntos en el estreno de Focker-In-Law",
+    "seoTitle": "Ariana Grande y Ricky Álvarez en el estreno de Focker-In-Law",
+    "description": "Ariana Grande y Ricky Álvarez desfilaron juntos por la alfombra roja del estreno mundial de Focker-In-Law el 11 de noviembre en Nueva York.",
+    "excerpt": "Ariana Grande y Ricky Álvarez desfilaron juntos por la alfombra roja del estreno mundial de Focker-In-Law el 11 de noviembre en Nueva York.",
+    "headlineHighlights": {
+      "red": "Ariana Grande",
+      "gold": "Focker-In-Law"
+    },
+    "keywords": [
+      "Ariana Grande",
+      "Focker-In-Law"
+    ],
+    "searchIntent": "Ariana Grande y Ricky Álvarez desfilaron juntos por la alfombra roja del estreno mundial de Focker-In-Law el 11 de noviembre en Nueva York.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/ariana-grande-ricky-alvarez-premiere-illustration.jpg",
+      "alt": "Ilustración de Ariana Grande y Ricky Álvarez posando juntos",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Ariana Grande y el bailarín Ricky Álvarez posaron juntos el 11 de noviembre de 2026 en el estreno mundial de Focker-In-Law, en el Beacon Theatre de Nueva York. Vogue describió la cita como su primera alfombra roja juntos desde que retomaron su relación. Su cobertura incluye una fotografía de Getty Images tomada en el estreno. [Fuente: www.vogue.com](https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12)"
+      },
+      {
+        "type": "heading",
+        "text": "El vestido que acaparó miradas"
+      },
+      {
+        "type": "paragraph",
+        "text": "El estilista de Grande, Law Roach, eligió un vestido de Badgley Mischka de los años noventa, según Vogue. El diseño gris plateado combinaba cuadros finos, flores bordadas con cuentas y una falda amplia. En una velada dedicada a un estreno, una prenda de otra década se ganó su lugar en la cobertura de moda. [Fuente: www.vogue.com](https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué llamó la atención su aparición"
+      },
+      {
+        "type": "paragraph",
+        "text": "Grande y Álvarez salieron juntos antes de separarse en 2016. Harper’s Bazaar publicó una fotografía anterior de ambos, tomada aquel año, además de imágenes del nuevo estreno. La cita de noviembre marca así un momento público para la pareja tras su reencuentro, con fotografías anteriores como parte de su historia. [Fuente: www.harpersbazaar.com](https://www.harpersbazaar.com/celebrity/latest/a74411489/ariana-grande-ricky-alvarez-red-carpet-debut-focker-in-law-world-premiere-photos/)"
+      },
+      {
+        "type": "heading",
+        "text": "La película que motivó el estreno"
+      },
+      {
+        "type": "paragraph",
+        "text": "Universal Pictures fija el 25 de noviembre de 2026 como fecha de estreno comercial en Estados Unidos. La promoción del estudio presenta a Grande junto a Ben Stiller y Robert De Niro. La proyección del Beacon Theatre fue el estreno mundial, previo a la llegada general a los cines. [Fuente: www.universalpictures.com](https://www.universalpictures.com/movies/focker-in-law/home/)"
+      },
+      {
+        "type": "heading",
+        "text": "Lo que documentan las fotos del estreno"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las fotos permiten comprobar quién asistió y dónde posó. Esa cronología pública es distinta de los planes privados de la pareja. Nuestra cobertura de [Katy Perry y Justin Trudeau](/articles/katy-perry-and-justin-trudeau-spark-global-speculation/) también explica cómo las apariciones públicas se convierten en noticias de entretenimiento."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.vogue.com",
+        "url": "https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12"
+      },
+      {
+        "label": "Fuente: www.harpersbazaar.com",
+        "url": "https://www.harpersbazaar.com/celebrity/latest/a74411489/ariana-grande-ricky-alvarez-red-carpet-debut-focker-in-law-world-premiere-photos/"
+      },
+      {
+        "label": "Fuente: www.universalpictures.com",
+        "url": "https://www.universalpictures.com/movies/focker-in-law/home/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Dónde posaron juntos Ariana Grande y Ricky Álvarez?",
+        "answer": "En el estreno mundial de Focker-In-Law, el 11 de noviembre en el Beacon Theatre de Nueva York."
+      },
+      {
+        "question": "¿Quién diseñó el vestido de Ariana Grande?",
+        "answer": "Vogue lo identificó como un Badgley Mischka de los años noventa elegido por Law Roach."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/ariana-grande-ricky-alvarez-focker-in-law-premiere/",
+    "path": "/fr/articles/ariana-grande-ricky-alvarez-focker-in-law-premiere/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "Ariana Grande et Ricky Álvarez posent ensemble à l’avant-première de Focker-In-Law",
+    "seoTitle": "Ariana Grande et Ricky Álvarez à l’avant-première de Focker-In-Law",
+    "description": "Ariana Grande et Ricky Álvarez ont foulé ensemble le tapis rouge de la première mondiale de Focker-In-Law le 11 novembre à New York.",
+    "excerpt": "Ariana Grande et Ricky Álvarez ont foulé ensemble le tapis rouge de la première mondiale de Focker-In-Law le 11 novembre à New York.",
+    "headlineHighlights": {
+      "red": "Ariana Grande",
+      "gold": "Focker-In-Law"
+    },
+    "keywords": [
+      "Ariana Grande",
+      "Focker-In-Law"
+    ],
+    "searchIntent": "Ariana Grande et Ricky Álvarez ont foulé ensemble le tapis rouge de la première mondiale de Focker-In-Law le 11 novembre à New York.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/ariana-grande-ricky-alvarez-premiere-illustration.jpg",
+      "alt": "Illustration représentant Ariana Grande et Ricky Álvarez posant ensemble",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Ariana Grande et le danseur Ricky Álvarez ont posé ensemble le 11 novembre 2026 au Beacon Theatre de New York, lors de la première mondiale de Focker-In-Law. Vogue présente cette sortie comme leur premier tapis rouge commun depuis qu’ils se sont retrouvés. Son article comprend une photo Getty Images prise sur place. [Source: www.vogue.com](https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12)"
+      },
+      {
+        "type": "heading",
+        "text": "La robe qui a retenu l’attention"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le styliste de Grande, Law Roach, a choisi une robe Badgley Mischka des années 1990, selon Vogue. La tenue gris argenté associait des carreaux fins, des fleurs brodées de perles et une jupe ample. Au milieu d’une soirée consacrée à une nouveauté, une pièce d’une autre décennie a retenu l’attention de la presse de mode. [Source: www.vogue.com](https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12)"
+      },
+      {
+        "type": "subheading",
+        "text": "Pourquoi cette apparition a fait parler"
+      },
+      {
+        "type": "paragraph",
+        "text": "Grande et Álvarez ont été en couple avant leur séparation en 2016. Harper’s Bazaar a publié une photo d’eux prise cette année-là ainsi que des images de la nouvelle première. La soirée de novembre marque donc une étape publique pour le couple réuni, qui avait déjà été photographié ensemble par le passé. [Source: www.harpersbazaar.com](https://www.harpersbazaar.com/celebrity/latest/a74411489/ariana-grande-ricky-alvarez-red-carpet-debut-focker-in-law-world-premiere-photos/)"
+      },
+      {
+        "type": "heading",
+        "text": "Le film présenté à New York"
+      },
+      {
+        "type": "paragraph",
+        "text": "Universal Pictures annonce la sortie du film dans les salles américaines le 25 novembre 2026. La promotion du studio réunit Grande, Ben Stiller et Robert De Niro. La séance au Beacon Theatre était la première mondiale, organisée avant la sortie en salles. [Source: www.universalpictures.com](https://www.universalpictures.com/movies/focker-in-law/home/)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que documentent les photos de la première"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les photos établissent qui était présent et où les invités ont posé. La chronologie publique est distincte des projets privés du couple. Notre article sur [Katy Perry et Justin Trudeau](/articles/katy-perry-and-justin-trudeau-spark-global-speculation/) retrace aussi la manière dont des apparitions publiques deviennent des sujets de presse."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.vogue.com",
+        "url": "https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12"
+      },
+      {
+        "label": "Source: www.harpersbazaar.com",
+        "url": "https://www.harpersbazaar.com/celebrity/latest/a74411489/ariana-grande-ricky-alvarez-red-carpet-debut-focker-in-law-world-premiere-photos/"
+      },
+      {
+        "label": "Source: www.universalpictures.com",
+        "url": "https://www.universalpictures.com/movies/focker-in-law/home/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Où Ariana Grande et Ricky Álvarez ont-ils posé ensemble ?",
+        "answer": "Au Beacon Theatre de New York, lors de la première mondiale de Focker-In-Law le 11 novembre."
+      },
+      {
+        "question": "Qui a signé la robe d’Ariana Grande ?",
+        "answer": "Selon Vogue, il s’agissait d’une robe Badgley Mischka des années 1990 choisie par Law Roach."
       }
     ]
   },
@@ -170314,6 +170896,297 @@
       {
         "question": "Les jeunes sont-ils moins heureux ?",
         "answer": "Le rapport 2026 souligne un recul important du bien-être des jeunes dans plusieurs pays anglophones par rapport à 2006-2010. Il rappelle aussi que les résultats sur les réseaux sociaux sont complexes et varient selon l’usage, la plateforme et le contexte."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/harry-kane-126-england-caps-record-croatia/",
+    "path": "/ar/articles/harry-kane-126-england-caps-record-croatia/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "هاري كين يحطم الرقم القياسي لمنتخب إنجلترا للرجال بمشاركته الـ126",
+    "seoTitle": "هاري كين يحطم رقم المشاركات مع إنجلترا أمام كرواتيا",
+    "description": "تجاوز هاري كين بيتر شيلتون في مباراته الدولية الـ126 مع منتخب إنجلترا للرجال، وسجل ركلة الفوز أمام كرواتيا في ويمبلي.",
+    "excerpt": "تجاوز هاري كين بيتر شيلتون في مباراته الدولية الـ126 مع منتخب إنجلترا للرجال، وسجل ركلة الفوز أمام كرواتيا في ويمبلي.",
+    "headlineHighlights": {
+      "red": "هاري كين",
+      "gold": "الـ126"
+    },
+    "keywords": [
+      "هاري كين",
+      "الـ126"
+    ],
+    "searchIntent": "تجاوز هاري كين بيتر شيلتون في مباراته الدولية الـ126 مع منتخب إنجلترا للرجال، وسجل ركلة الفوز أمام كرواتيا في ويمبلي.",
+    "category": "Sport",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/harry-kane-england-126-wembley-banner.jpg",
+      "alt": "رسم لجمهور في ويمبلي يرفع لافتة لهاري كين تحمل الرقم 126",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "أصبح هاري كين أكثر لاعبي منتخب إنجلترا الأول للرجال مشاركة حين بدأ مباراة كرواتيا في ويمبلي يوم 12 نوفمبر 2026. وتجاوز بمباراته الدولية الـ126 حارس المرمى بيتر شيلتون الذي أنهى مسيرته مع المنتخب عند 125 مباراة. ثم حسم كين لقاء دوري الأمم الأوروبية من ركلة جزاء. [المصدر: www.englandfootball.com](https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف فازت إنجلترا على كرواتيا 2–1؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "افتتح مورغان روجرز التسجيل لإنجلترا، وعادل بيتار سوتشيتش لكرواتيا بعد الاستراحة. ثم حصل جاريل كوانساه على ركلة جزاء حولها كين إلى هدفه الدولي الـ92. وأكد الفوز تأهل إنجلترا إلى ربع النهائي قبل آخر مباريات المجموعة أمام إسبانيا. وشارك شيلتون أمير ويلز في تكريم كين قبل المباراة. [المصدر: www.rte.ie](https://www.rte.ie/sport/soccer/2026/1112/1599054-record-breaking-kane-scores-as-england-overcome-croatia/)"
+      },
+      {
+        "type": "subheading",
+        "text": "أي رقم قياسي حطمه كين؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تُحسب مشاركة دولية لكل مباراة يلعبها اللاعب مع المنتخب. ويخص هذا الرقم منتخب الرجال الأول. وتحمل فارا ويليامز الرقم القياسي لمنتخب السيدات بـ172 مباراة. وكان كين قد عادل رقم شيلتون في أكتوبر خلال الفوز على التشيك 3–0 في ويمبلي أيضاً. [المصدر: www.theguardian.com](https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap)"
+      },
+      {
+        "type": "heading",
+        "text": "رقمان قياسيان في ليلة واحدة"
+      },
+      {
+        "type": "paragraph",
+        "text": "كان كين يتصدر هدافي منتخب الرجال قبل انطلاق اللقاء. ورفع رصيده أمام كرواتيا إلى 92 هدفاً، وانفرد في المباراة نفسها بصدارة عدد المشاركات. وجاء الإنجاز الأول مع دخوله التشكيلة الأساسية، ثم حددت ركلة الجزاء النتيجة النهائية."
+      },
+      {
+        "type": "heading",
+        "text": "إنجاز بعد الكرة الذهبية"
+      },
+      {
+        "type": "paragraph",
+        "text": "احتفى ويمبلي أيضاً بفوز كين الأخير بالكرة الذهبية. وتناولت بريزدا [كيف أنهت الجائزة انتظاراً إنجليزياً دام 25 عاماً](/articles/harry-kane-ballon-dor-2026-england-25-year-wait/). ويعكس رقم ويمبلي إنجازاً مختلفاً، هو استمرار مشاركته مع المنتخب منذ ظهوره الأول في 2015."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.englandfootball.com",
+        "url": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre"
+      },
+      {
+        "label": "المصدر: www.rte.ie",
+        "url": "https://www.rte.ie/sport/soccer/2026/1112/1599054-record-breaking-kane-scores-as-england-overcome-croatia/"
+      },
+      {
+        "label": "المصدر: www.theguardian.com",
+        "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap"
+      }
+    ],
+    "faq": [
+      {
+        "question": "من كان يحمل الرقم القياسي السابق؟",
+        "answer": "لعب بيتر شيلتون 125 مباراة مع منتخب إنجلترا الأول للرجال."
+      },
+      {
+        "question": "هل سجل كين في مباراته الـ126؟",
+        "answer": "نعم. سجل هدفه الدولي الـ92 من ركلة جزاء منح بها إنجلترا الفوز على كرواتيا 2–1."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/harry-kane-126-england-caps-record-croatia/",
+    "path": "/es/articles/harry-kane-126-england-caps-record-croatia/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "Harry Kane bate el récord de la selección masculina de Inglaterra con 126 partidos",
+    "seoTitle": "Harry Kane bate el récord de partidos con Inglaterra ante Croacia",
+    "description": "Harry Kane superó a Peter Shilton en su partido 126 con Inglaterra y marcó de penalti el gol de la victoria ante Croacia en Wembley.",
+    "excerpt": "Harry Kane superó a Peter Shilton en su partido 126 con Inglaterra y marcó de penalti el gol de la victoria ante Croacia en Wembley.",
+    "headlineHighlights": {
+      "red": "Harry Kane",
+      "gold": "126 partidos"
+    },
+    "keywords": [
+      "Harry Kane",
+      "126 partidos"
+    ],
+    "searchIntent": "Harry Kane superó a Peter Shilton en su partido 126 con Inglaterra y marcó de penalti el gol de la victoria ante Croacia en Wembley.",
+    "category": "Sport",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/harry-kane-england-126-wembley-banner.jpg",
+      "alt": "Ilustración de una grada de Wembley con una pancarta de Harry Kane y el número 126",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Harry Kane se convirtió en el futbolista con más partidos en la selección absoluta masculina de Inglaterra al ser titular frente a Croacia en Wembley el 12 de noviembre de 2026. Su encuentro internacional número 126 lo situó por delante del guardameta Peter Shilton, que acabó con 125. Después decidió el partido de la Liga de Naciones desde el punto de penalti. [Fuente: www.englandfootball.com](https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre)"
+      },
+      {
+        "type": "heading",
+        "text": "Cómo ganó Inglaterra a Croacia por 2–1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Morgan Rogers adelantó a Inglaterra y Petar Sučić igualó para Croacia tras el descanso. Jarell Quansah provocó después el penalti que Kane transformó para firmar su gol número 92 con Inglaterra. La victoria confirmó el pase a cuartos antes del último partido de grupo ante España. Shilton participó en el homenaje previo al encuentro junto al príncipe de Gales. [Fuente: www.rte.ie](https://www.rte.ie/sport/soccer/2026/1112/1599054-record-breaking-kane-scores-as-england-overcome-croatia/)"
+      },
+      {
+        "type": "subheading",
+        "text": "¿Qué récord inglés batió?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cada internacionalidad corresponde a una aparición con la selección. La marca pertenece a la absoluta masculina. Fara Williams ostenta el récord de la absoluta femenina con 172 partidos. Kane había igualado a Shilton en octubre, también en Wembley, en el triunfo por 3–0 contra Chequia. [Fuente: www.theguardian.com](https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap)"
+      },
+      {
+        "type": "heading",
+        "text": "Dos récords en una noche"
+      },
+      {
+        "type": "paragraph",
+        "text": "Kane ya era el máximo goleador de la selección masculina antes del saque inicial. El encuentro ante Croacia elevó su cuenta a 92 tantos y le dio en solitario el récord de partidos. Su titularidad marcó el primer hito de la noche. Su penalti dejó el marcador definitivo."
+      },
+      {
+        "type": "heading",
+        "text": "Un hito después del Balón de Oro"
+      },
+      {
+        "type": "paragraph",
+        "text": "Wembley celebró también el reciente Balón de Oro de Kane. PRESDA explicó [por qué el premio puso fin a 25 años de espera para Inglaterra](/articles/harry-kane-ballon-dor-2026-england-25-year-wait/). El récord de Wembley refleja otro logro, la continuidad con la selección desde su debut en 2015."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.englandfootball.com",
+        "url": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre"
+      },
+      {
+        "label": "Fuente: www.rte.ie",
+        "url": "https://www.rte.ie/sport/soccer/2026/1112/1599054-record-breaking-kane-scores-as-england-overcome-croatia/"
+      },
+      {
+        "label": "Fuente: www.theguardian.com",
+        "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Quién tenía el récord anterior?",
+        "answer": "Peter Shilton disputó 125 partidos con la absoluta masculina."
+      },
+      {
+        "question": "¿Marcó Kane en su partido 126?",
+        "answer": "Sí. El penalti del 2–1 ante Croacia fue su gol número 92 con Inglaterra."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/harry-kane-126-england-caps-record-croatia/",
+    "path": "/fr/articles/harry-kane-126-england-caps-record-croatia/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "Harry Kane bat le record de l’Angleterre masculine avec sa 126e sélection",
+    "seoTitle": "Harry Kane bat le record anglais de sélections face à la Croatie",
+    "description": "Harry Kane a dépassé Peter Shilton lors de sa 126e sélection et marqué le penalty de la victoire contre la Croatie à Wembley.",
+    "excerpt": "Harry Kane a dépassé Peter Shilton lors de sa 126e sélection et marqué le penalty de la victoire contre la Croatie à Wembley.",
+    "headlineHighlights": {
+      "red": "Harry Kane",
+      "gold": "126e sélection"
+    },
+    "keywords": [
+      "Harry Kane",
+      "126e sélection"
+    ],
+    "searchIntent": "Harry Kane a dépassé Peter Shilton lors de sa 126e sélection et marqué le penalty de la victoire contre la Croatie à Wembley.",
+    "category": "Sport",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/harry-kane-england-126-wembley-banner.jpg",
+      "alt": "Illustration d’une foule à Wembley et d’une banderole Harry Kane 126",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Harry Kane est devenu le joueur le plus capé de l’équipe d’Angleterre masculine en étant titularisé contre la Croatie à Wembley le 12 novembre 2026. Sa 126e sélection lui a permis de dépasser le gardien Peter Shilton, qui en compte 125. Kane a ensuite décidé du sort du match de Ligue des nations sur penalty. [Source: www.englandfootball.com](https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment l’Angleterre a battu la Croatie 2–1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Morgan Rogers a ouvert le score pour l’Angleterre, puis Petar Sučić a égalisé après la pause. Jarell Quansah a ensuite obtenu le penalty que Kane a transformé pour inscrire son 92e but en sélection. La victoire a confirmé la qualification anglaise pour les quarts de finale avant le dernier match de groupe contre l’Espagne. Shilton a participé à l’hommage d’avant-match aux côtés du prince de Galles. [Source: www.rte.ie](https://www.rte.ie/sport/soccer/2026/1112/1599054-record-breaking-kane-scores-as-england-overcome-croatia/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Quel record anglais a-t-il battu ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une sélection correspond à un match disputé avec l’équipe nationale. Ce record concerne l’équipe masculine senior. Chez les femmes, Fara Williams détient le record avec 172 sélections. Kane avait rejoint Shilton en octobre lors d’une victoire 3–0 sur la Tchéquie, déjà à Wembley. [Source: www.theguardian.com](https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap)"
+      },
+      {
+        "type": "heading",
+        "text": "Deux records au cours de la même soirée"
+      },
+      {
+        "type": "paragraph",
+        "text": "Kane détenait déjà le record de buts de l’équipe masculine au coup d’envoi. Le match contre la Croatie a porté ce total à 92 et lui a donné seul le record de sélections. Sa titularisation a marqué la première étape de la soirée. Son penalty a fixé le score final."
+      },
+      {
+        "type": "heading",
+        "text": "Un record après le Ballon d’Or"
+      },
+      {
+        "type": "paragraph",
+        "text": "Wembley a aussi célébré le récent Ballon d’Or de Kane. PRESDA a expliqué [pourquoi ce trophée a mis fin à 25 ans d’attente pour l’Angleterre](/articles/harry-kane-ballon-dor-2026-england-25-year-wait/). Le record à Wembley récompense une autre forme de constance, celle de ses apparitions en sélection depuis ses débuts en 2015."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.englandfootball.com",
+        "url": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre"
+      },
+      {
+        "label": "Source: www.rte.ie",
+        "url": "https://www.rte.ie/sport/soccer/2026/1112/1599054-record-breaking-kane-scores-as-england-overcome-croatia/"
+      },
+      {
+        "label": "Source: www.theguardian.com",
+        "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Qui détenait auparavant le record de sélections ?",
+        "answer": "Peter Shilton a disputé 125 matchs avec l’équipe masculine senior."
+      },
+      {
+        "question": "Kane a-t-il marqué lors de sa 126e sélection ?",
+        "answer": "Oui. Son 92e but en sélection, sur penalty, a donné à l’Angleterre la victoire 2–1 contre la Croatie."
       }
     ]
   },
@@ -386978,6 +387851,600 @@
       {
         "question": "Qu’a accompli l’Union soviétique dans l’espace ?",
         "answer": "Ses jalons comprennent le premier satellite artificiel, Spoutnik, en 1957 ; le premier humain dans l’espace, Youri Gagarine, en 1961 ; et la première femme dans l’espace, Valentina Terechkova, en 1963. Les États-Unis réussirent le premier alunissage habité en 1969."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/spacex-tesla-merger-talks-november-2026/",
+    "path": "/ar/articles/spacex-tesla-merger-talks-november-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "بلومبرغ: محادثات اندماج سبيس إكس وتسلا تتقدم",
+    "seoTitle": "اندماج سبيس إكس وتسلا: ماذا أفادت بلومبرغ؟",
+    "description": "تحدثت بلومبرغ عن تقدم في محادثات اندماج سبيس إكس وتسلا، مع طرح ديسمبر أو مطلع 2027 موعداً محتملاً للإعلان.",
+    "excerpt": "تحدثت بلومبرغ عن تقدم في محادثات اندماج سبيس إكس وتسلا، مع طرح ديسمبر أو مطلع 2027 موعداً محتملاً للإعلان.",
+    "headlineHighlights": {
+      "red": "محادثات اندماج",
+      "gold": "بلومبرغ"
+    },
+    "keywords": [
+      "محادثات اندماج",
+      "بلومبرغ"
+    ],
+    "searchIntent": "تحدثت بلومبرغ عن تقدم في محادثات اندماج سبيس إكس وتسلا، مع طرح ديسمبر أو مطلع 2027 موعداً محتملاً للإعلان.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/spacex-tesla-elon-musk-merger-illustration.jpg",
+      "alt": "رسم لإيلون ماسك بين شعاري سبيس إكس وتسلا",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "أفادت بلومبرغ في 12 نوفمبر، نقلاً عن أشخاص مطلعين، بأن سبيس إكس وتسلا أحرزتا تقدماً في مفاوضات خاصة بشأن اندماج محتمل. وقالت المصادر إن الإعلان قد يأتي في ديسمبر 2026، وإن مطلع 2027 طُرح أيضاً. ويتناول التقرير مفاوضات من دون أن يورد اتفاقاً موقعاً أو سعراً نهائياً أو موعداً لإتمام الصفقة. [المصدر: news.bloomberglaw.com](https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-and-tesla-talks-on-record-merger-are-said-to-progress)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي كان معروفاً قبل نوفمبر؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "سبق لإيلون ماسك أن طرح الاحتمال علناً في أكتوبر. وذكر موقع أكسيوس أن الشركتين شكلتا لجنتين خاصتين لبحث الصفقة. أتاح ذلك إطاراً للمناقشات، فيما أضاف تقرير نوفمبر جدولاً زمنياً محتملاً نقلاً عن مصادر لم يكشف أسماءها. ولا تزال نتيجة المحادثات مفتوحة. [المصدر: www.axios.com](https://www.axios.com/2026/10/21/tesla-spacex-merger-elon-musk)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا تهم حوكمة الصفقة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تبيع تسلا المركبات ومنتجات الطاقة، بينما تقدم سبيس إكس خدمات الإطلاق وتدير شبكة ستارلينك. وسيجمع الاندماج المحتمل هذه الأنشطة تحت هيكل واحد. وتزداد أهمية الشروط لأن ماسك يقود الشركتين. وسيرغب المستثمرون في معرفة تقييم كل نشاط وكيف يراجع كل مجلس إدارة صفقة تخص الشركتين اللتين يقودهما الشخص نفسه. [المصدر: apnews.com](https://apnews.com/article/e828348887c5855c22cb2be5c83beb46)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي يؤكد وجود صفقة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "سيشكل بيان مشترك أو إفصاح تنظيمي عن اتفاق نهائي مرحلة مختلفة عن المحادثات التي وصفتها بلومبرغ. وقد يكشف هيكل الصفقة وما سيحصل عليه المساهمون والموافقات التي تتوقع الشركتان طلبها. وإذا صدر إعلان، فسيكون موعده مختلفاً عن موعد إتمام الاندماج فعلياً."
+      },
+      {
+        "type": "heading",
+        "text": "موقع تسلا في السوق"
+      },
+      {
+        "type": "paragraph",
+        "text": "يواجه نشاط تسلا في السيارات منافسة بصرف النظر عن المفاوضات. وغطت بريزدا [تجاوز بي واي دي لتسلا في المبيعات السنوية للسيارات الكهربائية بالبطارية](/articles/byd-overtakes-tesla-annual-bev-sales/)، وهو مؤشر على المنافسة في أحد الأنشطة التي سيرثها الكيان المندمج."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: news.bloomberglaw.com",
+        "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-and-tesla-talks-on-record-merger-are-said-to-progress"
+      },
+      {
+        "label": "المصدر: www.axios.com",
+        "url": "https://www.axios.com/2026/10/21/tesla-spacex-merger-elon-musk"
+      },
+      {
+        "label": "المصدر: apnews.com",
+        "url": "https://apnews.com/article/e828348887c5855c22cb2be5c83beb46"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل أعلنت سبيس إكس وتسلا اتفاق اندماج؟",
+        "answer": "نشرت بلومبرغ تقريراً عن محادثات خاصة في 12 نوفمبر من دون أن تؤكد توقيع اتفاق."
+      },
+      {
+        "question": "متى يمكن صدور إعلان؟",
+        "answer": "طرحت مصادر بلومبرغ ديسمبر 2026 أو مطلع 2027 كموعدين محتملين."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/spacex-tesla-merger-talks-november-2026/",
+    "path": "/es/articles/spacex-tesla-merger-talks-november-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "SpaceX y Tesla avanzan en las conversaciones de fusión, según Bloomberg",
+    "seoTitle": "Fusión de SpaceX y Tesla: qué ha publicado Bloomberg",
+    "description": "Bloomberg informa de avances en las conversaciones de fusión entre SpaceX y Tesla. Se barajan diciembre y principios de 2027 para un anuncio.",
+    "excerpt": "Bloomberg informa de avances en las conversaciones de fusión entre SpaceX y Tesla. Se barajan diciembre y principios de 2027 para un anuncio.",
+    "headlineHighlights": {
+      "red": "conversaciones de fusión",
+      "gold": "Bloomberg"
+    },
+    "keywords": [
+      "conversaciones de fusión",
+      "Bloomberg"
+    ],
+    "searchIntent": "Bloomberg informa de avances en las conversaciones de fusión entre SpaceX y Tesla. Se barajan diciembre y principios de 2027 para un anuncio.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/spacex-tesla-elon-musk-merger-illustration.jpg",
+      "alt": "Retrato ilustrado de Elon Musk entre los logotipos de SpaceX y Tesla",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "SpaceX y Tesla han avanzado en negociaciones privadas sobre una posible fusión, informó Bloomberg el 12 de noviembre, citando a personas al tanto de las conversaciones. Según esas fuentes, el anuncio podría llegar en diciembre de 2026, aunque también se ha hablado de principios de 2027. La información describe unas negociaciones sin anunciar un acuerdo firmado, un precio final ni una fecha de cierre. [Fuente: news.bloomberglaw.com](https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-and-tesla-talks-on-record-merger-are-said-to-progress)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué se sabía antes de noviembre"
+      },
+      {
+        "type": "paragraph",
+        "text": "Elon Musk ya había planteado en público esa posibilidad en octubre. Axios informó de que ambas compañías habían constituido comités especiales para estudiar una transacción. Ese paso dio a las conversaciones un cauce formal. La información de noviembre añade un posible calendario, atribuido a fuentes anónimas, sin despejar el desenlace. [Fuente: www.axios.com](https://www.axios.com/2026/10/21/tesla-spacex-merger-elon-musk)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué importa la gobernanza"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla vende vehículos y productos energéticos, mientras que SpaceX presta servicios de lanzamiento y opera la red Starlink. Una fusión agruparía esas actividades bajo la misma estructura. Como Musk dirige ambas compañías, los términos cobran especial importancia. Los accionistas necesitarían saber cómo se valora cada empresa y cómo evalúa la operación cada consejo. [Fuente: apnews.com](https://apnews.com/article/e828348887c5855c22cb2be5c83beb46)"
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué confirmaría un acuerdo?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un comunicado conjunto o un documento regulatorio que revele un acuerdo definitivo marcaría una etapa distinta. Podría detallar la estructura propuesta, qué recibirían los accionistas y qué autorizaciones prevén solicitar las empresas. Si llega el anuncio, su fecha también será distinta de la del cierre efectivo."
+      },
+      {
+        "type": "heading",
+        "text": "El contexto comercial de Tesla"
+      },
+      {
+        "type": "paragraph",
+        "text": "El negocio automovilístico de Tesla afronta competencia al margen de las conversaciones. PRESDA analizó [cómo BYD superó a Tesla en ventas anuales de coches eléctricos de batería](/articles/byd-overtakes-tesla-annual-bev-sales/), una medida de la presión en uno de los negocios que heredaría una empresa combinada."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: news.bloomberglaw.com",
+        "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-and-tesla-talks-on-record-merger-are-said-to-progress"
+      },
+      {
+        "label": "Fuente: www.axios.com",
+        "url": "https://www.axios.com/2026/10/21/tesla-spacex-merger-elon-musk"
+      },
+      {
+        "label": "Fuente: apnews.com",
+        "url": "https://apnews.com/article/e828348887c5855c22cb2be5c83beb46"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Han anunciado SpaceX y Tesla un acuerdo?",
+        "answer": "Bloomberg informó el 12 de noviembre de conversaciones privadas, sin confirmar la firma de un acuerdo."
+      },
+      {
+        "question": "¿Cuándo podría anunciarse?",
+        "answer": "Las fuentes de Bloomberg mencionaron diciembre de 2026 y principios de 2027 como posibles fechas."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/spacex-tesla-merger-talks-november-2026/",
+    "path": "/fr/articles/spacex-tesla-merger-talks-november-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "SpaceX et Tesla avanceraient dans leurs discussions de fusion",
+    "seoTitle": "Fusion SpaceX-Tesla : ce que rapporte Bloomberg",
+    "description": "Bloomberg fait état de progrès dans les discussions de fusion entre SpaceX et Tesla. Une annonce en décembre ou début 2027 est évoquée.",
+    "excerpt": "Bloomberg fait état de progrès dans les discussions de fusion entre SpaceX et Tesla. Une annonce en décembre ou début 2027 est évoquée.",
+    "headlineHighlights": {
+      "red": "discussions",
+      "gold": "SpaceX et Tesla"
+    },
+    "keywords": [
+      "discussions",
+      "SpaceX et Tesla"
+    ],
+    "searchIntent": "Bloomberg fait état de progrès dans les discussions de fusion entre SpaceX et Tesla. Une annonce en décembre ou début 2027 est évoquée.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/spacex-tesla-elon-musk-merger-illustration.jpg",
+      "alt": "Portrait illustré d’Elon Musk entre les enseignes de SpaceX et Tesla",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "SpaceX et Tesla ont progressé dans leurs négociations privées en vue d’une éventuelle fusion, a rapporté Bloomberg le 12 novembre, citant des personnes au fait des discussions. Une annonce pourrait intervenir dès décembre 2026, mais le début de 2027 a aussi été évoqué. L’article décrit des pourparlers sans faire état d’un accord signé, d’un prix définitif ou d’une date de réalisation. [Source: news.bloomberglaw.com](https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-and-tesla-talks-on-record-merger-are-said-to-progress)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que l’on savait avant novembre"
+      },
+      {
+        "type": "paragraph",
+        "text": "Elon Musk avait déjà évoqué publiquement cette possibilité en octobre. Selon Axios, les deux groupes avaient créé des comités spéciaux pour discuter d’une transaction. Cette démarche a donné un cadre aux discussions. L’article de novembre y ajoute un calendrier possible, d’après des sources anonymes, sans trancher l’issue des pourparlers. [Source: www.axios.com](https://www.axios.com/2026/10/21/tesla-spacex-merger-elon-musk)"
+      },
+      {
+        "type": "subheading",
+        "text": "Pourquoi la gouvernance compte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla vend des véhicules et des produits énergétiques, tandis que SpaceX fournit des services de lancement et exploite le réseau Starlink. Une fusion réunirait ces activités sous une même structure. Comme Musk dirige les deux entreprises, les modalités compteraient particulièrement. Les investisseurs voudraient connaître la valorisation de chaque groupe et la manière dont les conseils examinent une opération concernant leur dirigeant commun. [Source: apnews.com](https://apnews.com/article/e828348887c5855c22cb2be5c83beb46)"
+      },
+      {
+        "type": "heading",
+        "text": "Qu’est-ce qui confirmerait un accord ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un communiqué commun ou un document réglementaire annonçant un accord définitif marquerait une nouvelle étape. Il pourrait préciser la structure, la contrepartie offerte aux actionnaires et les autorisations envisagées. Une éventuelle annonce et la réalisation effective de la fusion interviendraient à des étapes distinctes."
+      },
+      {
+        "type": "heading",
+        "text": "Le contexte commercial de Tesla"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’activité automobile de Tesla fait face à la concurrence indépendamment des pourparlers. PRESDA a retracé [le dépassement de Tesla par BYD dans les ventes annuelles de voitures 100 % électriques](/articles/byd-overtakes-tesla-annual-bev-sales/), un indicateur de la concurrence sur un marché dont hériterait le groupe fusionné."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: news.bloomberglaw.com",
+        "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-and-tesla-talks-on-record-merger-are-said-to-progress"
+      },
+      {
+        "label": "Source: www.axios.com",
+        "url": "https://www.axios.com/2026/10/21/tesla-spacex-merger-elon-musk"
+      },
+      {
+        "label": "Source: apnews.com",
+        "url": "https://apnews.com/article/e828348887c5855c22cb2be5c83beb46"
+      }
+    ],
+    "faq": [
+      {
+        "question": "SpaceX et Tesla ont-elles annoncé un accord ?",
+        "answer": "Bloomberg a évoqué des négociations privées le 12 novembre, sans faire état d’un accord signé."
+      },
+      {
+        "question": "Quand une annonce pourrait-elle intervenir ?",
+        "answer": "Les sources de Bloomberg évoquaient décembre 2026 ou début 2027."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/spain-housing-wage-protests-november-2026/",
+    "path": "/ar/articles/spain-housing-wage-protests-november-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "احتجاجات على تكاليف السكن والأجور في إسبانيا بعد إضراب عام",
+    "seoTitle": "إضراب إسبانيا في 11 نوفمبر: أزمة السكن ومطالب الأجور",
+    "description": "وضع إضراب استمر 24 ساعة الإيجارات والإخلاء والأجور في صلب النقاش الإسباني، وأقر النواب تدابير سكنية في اليوم التالي.",
+    "excerpt": "وضع إضراب استمر 24 ساعة الإيجارات والإخلاء والأجور في صلب النقاش الإسباني، وأقر النواب تدابير سكنية في اليوم التالي.",
+    "headlineHighlights": {
+      "red": "تكاليف السكن والأجور",
+      "gold": "إضراب عام"
+    },
+    "keywords": [
+      "تكاليف السكن والأجور",
+      "إضراب عام"
+    ],
+    "searchIntent": "وضع إضراب استمر 24 ساعة الإيجارات والإخلاء والأجور في صلب النقاش الإسباني، وأقر النواب تدابير سكنية في اليوم التالي.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/spain-housing-wage-protests-madrid.jpg",
+      "alt": "رسم لحشد يحمل لافتات عن السكن والأجور في مدريد",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "جمعت أزمة السكن في إسبانيا العمال والمستأجرين في الشوارع في 11 نوفمبر 2026. وأفادت وكالة إفي بأن إضراباً عاماً دام 24 ساعة عطّل النقل العام وأوقف العمل في بعض الموانئ والمصانع. ثم تظاهر الآلاف في مدن منها مدريد وبرشلونة، في تحرك وطني جمع مطالب تتعلق بالإيجارات والأجور. [المصدر: efe.com](https://efe.com/english/economy/2026-11-11/spain-general-strike/)"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا تظاهر العمال والمستأجرون معاً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ربط إعلان الإضراب بين السكن وظروف العمل. وشاركت نقابتا UGT وCCOO مع نقابات المستأجرين ومنظمات عمالية أخرى في الدعوة إليه. وشملت المطالب توسيع الإسكان العام والتوصل إلى اتفاق جديد بشأن الحد الأدنى للأجور. فالراتب يحدد ما يتبقى بعد دفع الإيجار، فيما تؤثر شروط العقد والحماية من الإخلاء في قدرة المستأجر على البقاء في منزله. [المصدر: www.ugt.es](https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la)"
+      },
+      {
+        "type": "subheading",
+        "text": "ما حجم المسيرات؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "نقلت هيئة RTVE يوم 11 نوفمبر عن الشرطة البلدية في برشلونة تقديراً بمشاركة نحو 40 ألف شخص في مسيرة المدينة، ووصفت حشوداً في مدريد رغم الأمطار الغزيرة. يخص الرقم مسيرة برشلونة وفق تقدير محلي. أما عدد المضربين عن العمل فله طريقة حساب مختلفة. [المصدر: www.rtve.es](https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي أقره النواب في اليوم التالي؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "في 12 نوفمبر، أقر مجلس النواب المؤقت تدابير تستهدف الحد من الإخلاء والمضاربة العقارية، بحسب أسوشيتد برس. تناول التصويت ملف السكن، فيما بقيت مطالب الأجور مسألة منفصلة. ويتوقف الأثر العملي على تنفيذ التدابير، وقد ترتبط مدة سريانها بنتائج الانتخابات وفق الوكالة. [المصدر: apnews.com](https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450)"
+      },
+      {
+        "type": "heading",
+        "text": "السكن يتقدم على جدول الأعمال السياسي"
+      },
+      {
+        "type": "paragraph",
+        "text": "أدخلت الاحتجاجات الإيجارات والأجور إلى صلب النقاش الوطني. وفي ملف مختلف يخص المدن الكبرى، تتابع بريزدا [تنافس مدريد والدار البيضاء على استضافة نهائي كأس العالم 2030](/articles/casablanca-madrid-2030-world-cup-final/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: efe.com",
+        "url": "https://efe.com/english/economy/2026-11-11/spain-general-strike/"
+      },
+      {
+        "label": "المصدر: www.ugt.es",
+        "url": "https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la"
+      },
+      {
+        "label": "المصدر: www.rtve.es",
+        "url": "https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml"
+      },
+      {
+        "label": "المصدر: apnews.com",
+        "url": "https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450"
+      }
+    ],
+    "faq": [
+      {
+        "question": "متى وقع الإضراب العام؟",
+        "answer": "جرى في 11 نوفمبر 2026 واستمر 24 ساعة."
+      },
+      {
+        "question": "ماذا طالب المحتجون؟",
+        "answer": "طالب المنظمون بسكن ميسور وحماية أقوى للمستأجرين وتحسين الأجور، بما يشمل اتفاقاً جديداً بشأن الحد الأدنى للأجور."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/spain-housing-wage-protests-november-2026/",
+    "path": "/es/articles/spain-housing-wage-protests-november-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "España se moviliza por la vivienda y los salarios tras una huelga general",
+    "seoTitle": "Huelga del 11 de noviembre en España: vivienda y salarios",
+    "description": "Una huelga de 24 horas puso el alquiler, los desahucios y los salarios en el centro del debate. El Parlamento ratificó medidas al día siguiente.",
+    "excerpt": "Una huelga de 24 horas puso el alquiler, los desahucios y los salarios en el centro del debate. El Parlamento ratificó medidas al día siguiente.",
+    "headlineHighlights": {
+      "red": "vivienda y los salarios",
+      "gold": "huelga general"
+    },
+    "keywords": [
+      "vivienda y los salarios",
+      "huelga general"
+    ],
+    "searchIntent": "Una huelga de 24 horas puso el alquiler, los desahucios y los salarios en el centro del debate. El Parlamento ratificó medidas al día siguiente.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/spain-housing-wage-protests-madrid.jpg",
+      "alt": "Ilustración de una multitud con pancartas sobre vivienda y salarios en Madrid",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La crisis de la vivienda reunió a trabajadores e inquilinos en las calles el 11 de noviembre de 2026. La huelga general de 24 horas alteró el transporte público y paralizó algunos puertos y fábricas, según EFE. Después marcharon miles de personas en ciudades como Madrid y Barcelona, con demandas sobre el alquiler y los sueldos. [Fuente: efe.com](https://efe.com/english/economy/2026-11-11/spain-general-strike/)"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué marcharon juntos sindicatos e inquilinos"
+      },
+      {
+        "type": "paragraph",
+        "text": "La convocatoria vinculó la vivienda con las condiciones laborales. UGT y CCOO se unieron a sindicatos de inquilinos y otras organizaciones. Entre las demandas figuraban más vivienda pública y un nuevo acuerdo sobre el salario mínimo. Para los hogares de alquiler, el sueldo determina cuánto queda tras pagar la renta y las normas sobre contratos y desahucios influyen en si pueden seguir en casa. [Fuente: www.ugt.es](https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la)"
+      },
+      {
+        "type": "subheading",
+        "text": "¿Qué tamaño tuvieron las marchas?"
+      },
+      {
+        "type": "paragraph",
+        "text": "RTVE citó a la Guardia Urbana en su cobertura del 11 de noviembre y situó en unas 40.000 personas la asistencia a la marcha de Barcelona. También informó de una amplia movilización en Madrid pese a la lluvia. La cifra barcelonesa estima la asistencia a una marcha. El seguimiento laboral de la huelga se mide por separado. [Fuente: www.rtve.es](https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué aprobaron los diputados al día siguiente"
+      },
+      {
+        "type": "paragraph",
+        "text": "El 12 de noviembre, la cámara baja interina ratificó medidas para limitar los desahucios y la especulación inmobiliaria, según Associated Press. La votación abordó la vivienda. La reivindicación salarial seguía siendo una cuestión separada. El efecto de las medidas dependerá de su aplicación y, según AP, su duración podría depender del resultado electoral. [Fuente: apnews.com](https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450)"
+      },
+      {
+        "type": "heading",
+        "text": "La vivienda gana peso en la agenda política"
+      },
+      {
+        "type": "paragraph",
+        "text": "La movilización llevó los alquileres y los salarios al debate nacional. En otro asunto que afecta a grandes ciudades, PRESDA sigue [las candidaturas de Madrid y Casablanca a la final del Mundial 2030](/articles/casablanca-madrid-2030-world-cup-final/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: efe.com",
+        "url": "https://efe.com/english/economy/2026-11-11/spain-general-strike/"
+      },
+      {
+        "label": "Fuente: www.ugt.es",
+        "url": "https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la"
+      },
+      {
+        "label": "Fuente: www.rtve.es",
+        "url": "https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml"
+      },
+      {
+        "label": "Fuente: apnews.com",
+        "url": "https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Cuándo se celebró la huelga general?",
+        "answer": "El 11 de noviembre de 2026, durante 24 horas."
+      },
+      {
+        "question": "¿Qué pedían los manifestantes?",
+        "answer": "Vivienda asequible, más protección para los inquilinos y mejoras salariales, incluido un nuevo acuerdo sobre el salario mínimo."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/spain-housing-wage-protests-november-2026/",
+    "path": "/fr/articles/spain-housing-wage-protests-november-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-13",
+      "terminologyChecked": true
+    },
+    "title": "En Espagne, la grève nationale débouche sur des manifestations pour le logement et les salaires",
+    "seoTitle": "Grève du 11 novembre en Espagne : logement et salaires",
+    "description": "Une grève de 24 heures a placé les loyers, les expulsions et les salaires au cœur du débat. Les députés ont validé des mesures le lendemain.",
+    "excerpt": "Une grève de 24 heures a placé les loyers, les expulsions et les salaires au cœur du débat. Les députés ont validé des mesures le lendemain.",
+    "headlineHighlights": {
+      "red": "manifestations",
+      "gold": "grève nationale"
+    },
+    "keywords": [
+      "manifestations",
+      "grève nationale"
+    ],
+    "searchIntent": "Une grève de 24 heures a placé les loyers, les expulsions et les salaires au cœur du débat. Les députés ont validé des mesures le lendemain.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "image": {
+      "src": "/articles/spain-housing-wage-protests-madrid.jpg",
+      "alt": "Foule illustrée avec des pancartes sur le logement et les salaires à Madrid",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Le 11 novembre 2026, la crise du logement a fait descendre salariés et locataires dans les mêmes rues. Selon EFE, une grève générale de 24 heures a perturbé les transports publics et interrompu le travail dans certains ports et usines. Des milliers de personnes ont ensuite manifesté, notamment à Madrid et à Barcelone, pour les loyers et les salaires. [Source: efe.com](https://efe.com/english/economy/2026-11-11/spain-general-strike/)"
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi les syndicats et les locataires ont défilé ensemble"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le préavis liait le logement aux conditions de travail. L’UGT et les CCOO ont appelé à la grève avec des syndicats de locataires et d’autres organisations. Les revendications comprenaient davantage de logements publics et un nouvel accord sur le salaire minimum. Pour les locataires, les salaires déterminent ce qui reste après le loyer. Les règles du bail et de l’expulsion déterminent aussi s’ils peuvent rester chez eux. [Source: www.ugt.es](https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la)"
+      },
+      {
+        "type": "subheading",
+        "text": "Quelle a été l’ampleur des cortèges ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans sa couverture du 11 novembre, RTVE a cité la police municipale de Barcelone, qui estimait à environ 40 000 le nombre de manifestants dans la ville. Le média a aussi signalé une forte mobilisation à Madrid malgré la pluie. Le chiffre barcelonais concerne le défilé local. La participation à la grève relève d’un autre décompte. [Source: www.rtve.es](https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que les députés ont voté le lendemain"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le 12 novembre, la chambre basse intérimaire a validé des mesures destinées à limiter les expulsions et la spéculation immobilière, selon l’Associated Press. Le vote portait sur le logement. Les revendications salariales relevaient d’un autre dossier. Les effets dépendront de la mise en œuvre des mesures, dont la durée pourrait aussi dépendre du résultat électoral, selon AP. [Source: apnews.com](https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450)"
+      },
+      {
+        "type": "heading",
+        "text": "Le logement s’impose dans le débat politique"
+      },
+      {
+        "type": "paragraph",
+        "text": "La mobilisation a placé les loyers et les salaires dans le débat national. Dans un autre dossier concernant les grandes villes, PRESDA suit [les candidatures de Madrid et Casablanca à la finale du Mondial 2030](/articles/casablanca-madrid-2030-world-cup-final/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: efe.com",
+        "url": "https://efe.com/english/economy/2026-11-11/spain-general-strike/"
+      },
+      {
+        "label": "Source: www.ugt.es",
+        "url": "https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la"
+      },
+      {
+        "label": "Source: www.rtve.es",
+        "url": "https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml"
+      },
+      {
+        "label": "Source: apnews.com",
+        "url": "https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quand a eu lieu la grève générale ?",
+        "answer": "Elle a duré 24 heures le 11 novembre 2026."
+      },
+      {
+        "question": "Que demandaient les manifestants ?",
+        "answer": "Les organisateurs réclamaient des logements abordables, une meilleure protection des locataires et un nouvel accord sur le salaire minimum."
       }
     ]
   },

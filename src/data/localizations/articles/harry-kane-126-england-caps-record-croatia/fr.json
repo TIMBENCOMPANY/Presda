@@ -1,0 +1,97 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/harry-kane-126-england-caps-record-croatia/",
+  "path": "/fr/articles/harry-kane-126-england-caps-record-croatia/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "Harry Kane bat le record de l’Angleterre masculine avec sa 126e sélection",
+  "seoTitle": "Harry Kane bat le record anglais de sélections face à la Croatie",
+  "description": "Harry Kane a dépassé Peter Shilton lors de sa 126e sélection et marqué le penalty de la victoire contre la Croatie à Wembley.",
+  "excerpt": "Harry Kane a dépassé Peter Shilton lors de sa 126e sélection et marqué le penalty de la victoire contre la Croatie à Wembley.",
+  "headlineHighlights": {
+    "red": "Harry Kane",
+    "gold": "126e sélection"
+  },
+  "keywords": [
+    "Harry Kane",
+    "126e sélection"
+  ],
+  "searchIntent": "Harry Kane a dépassé Peter Shilton lors de sa 126e sélection et marqué le penalty de la victoire contre la Croatie à Wembley.",
+  "category": "Sport",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/harry-kane-england-126-wembley-banner.jpg",
+    "alt": "Illustration d’une foule à Wembley et d’une banderole Harry Kane 126",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Harry Kane est devenu le joueur le plus capé de l’équipe d’Angleterre masculine en étant titularisé contre la Croatie à Wembley le 12 novembre 2026. Sa 126e sélection lui a permis de dépasser le gardien Peter Shilton, qui en compte 125. Kane a ensuite décidé du sort du match de Ligue des nations sur penalty. [Source: www.englandfootball.com](https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment l’Angleterre a battu la Croatie 2–1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Morgan Rogers a ouvert le score pour l’Angleterre, puis Petar Sučić a égalisé après la pause. Jarell Quansah a ensuite obtenu le penalty que Kane a transformé pour inscrire son 92e but en sélection. La victoire a confirmé la qualification anglaise pour les quarts de finale avant le dernier match de groupe contre l’Espagne. Shilton a participé à l’hommage d’avant-match aux côtés du prince de Galles. [Source: www.rte.ie](https://www.rte.ie/sport/soccer/2026/1112/1599054-record-breaking-kane-scores-as-england-overcome-croatia/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Quel record anglais a-t-il battu ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une sélection correspond à un match disputé avec l’équipe nationale. Ce record concerne l’équipe masculine senior. Chez les femmes, Fara Williams détient le record avec 172 sélections. Kane avait rejoint Shilton en octobre lors d’une victoire 3–0 sur la Tchéquie, déjà à Wembley. [Source: www.theguardian.com](https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap)"
+    },
+    {
+      "type": "heading",
+      "text": "Deux records au cours de la même soirée"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kane détenait déjà le record de buts de l’équipe masculine au coup d’envoi. Le match contre la Croatie a porté ce total à 92 et lui a donné seul le record de sélections. Sa titularisation a marqué la première étape de la soirée. Son penalty a fixé le score final."
+    },
+    {
+      "type": "heading",
+      "text": "Un record après le Ballon d’Or"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wembley a aussi célébré le récent Ballon d’Or de Kane. PRESDA a expliqué [pourquoi ce trophée a mis fin à 25 ans d’attente pour l’Angleterre](/articles/harry-kane-ballon-dor-2026-england-25-year-wait/). Le record à Wembley récompense une autre forme de constance, celle de ses apparitions en sélection depuis ses débuts en 2015."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.englandfootball.com",
+      "url": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/england-v-croatia-uefa-nations-league-thursday-12-november-2026-match-centre"
+    },
+    {
+      "label": "Source: www.rte.ie",
+      "url": "https://www.rte.ie/sport/soccer/2026/1112/1599054-record-breaking-kane-scores-as-england-overcome-croatia/"
+    },
+    {
+      "label": "Source: www.theguardian.com",
+      "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qui détenait auparavant le record de sélections ?",
+      "answer": "Peter Shilton a disputé 125 matchs avec l’équipe masculine senior."
+    },
+    {
+      "question": "Kane a-t-il marqué lors de sa 126e sélection ?",
+      "answer": "Oui. Son 92e but en sélection, sur penalty, a donné à l’Angleterre la victoire 2–1 contre la Croatie."
+    }
+  ]
+}

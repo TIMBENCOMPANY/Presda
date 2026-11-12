@@ -102,6 +102,8 @@ const publishedPresdaCredits = new Set([
 
 export function getImageRights(source: string): ImageRights {
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.
+  if (["/articles/spain-housing-wage-protests-madrid.jpg","/articles/spacex-tesla-elon-musk-merger-illustration.jpg","/articles/agile-robots-softbank-nvidia-humanoid.jpg","/articles/harry-kane-england-126-wembley-banner.jpg","/articles/ariana-grande-ricky-alvarez-premiere-illustration.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
+  // Approved editorial reconstructions; no unsupported photographer or licence attribution.
   if (["/articles/lord-of-sipan-moche-royal-tomb-peru-ai-illustration.jpg","/articles/crusades-medieval-jerusalem-ai-illustration.jpg","/articles/hermes-harness-luxury-handbag-history-ai-illustration.jpg","/articles/peugeot-coffee-grinder-classic-car-ai-illustration.jpg","/articles/greek-fire-byzantine-naval-history-ai-illustration.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.
   if (["/articles/jensen-huang-nvidia-ceo-transition-ai-illustration.jpg","/articles/amazon-ring-drone-cam-indoor-security-ai-illustration.jpg","/articles/daniel-naroditsky-chess-memorial-ai-illustration.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

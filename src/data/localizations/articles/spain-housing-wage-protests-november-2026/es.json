@@ -1,0 +1,101 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/spain-housing-wage-protests-november-2026/",
+  "path": "/es/articles/spain-housing-wage-protests-november-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "España se moviliza por la vivienda y los salarios tras una huelga general",
+  "seoTitle": "Huelga del 11 de noviembre en España: vivienda y salarios",
+  "description": "Una huelga de 24 horas puso el alquiler, los desahucios y los salarios en el centro del debate. El Parlamento ratificó medidas al día siguiente.",
+  "excerpt": "Una huelga de 24 horas puso el alquiler, los desahucios y los salarios en el centro del debate. El Parlamento ratificó medidas al día siguiente.",
+  "headlineHighlights": {
+    "red": "vivienda y los salarios",
+    "gold": "huelga general"
+  },
+  "keywords": [
+    "vivienda y los salarios",
+    "huelga general"
+  ],
+  "searchIntent": "Una huelga de 24 horas puso el alquiler, los desahucios y los salarios en el centro del debate. El Parlamento ratificó medidas al día siguiente.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/spain-housing-wage-protests-madrid.jpg",
+    "alt": "Ilustración de una multitud con pancartas sobre vivienda y salarios en Madrid",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La crisis de la vivienda reunió a trabajadores e inquilinos en las calles el 11 de noviembre de 2026. La huelga general de 24 horas alteró el transporte público y paralizó algunos puertos y fábricas, según EFE. Después marcharon miles de personas en ciudades como Madrid y Barcelona, con demandas sobre el alquiler y los sueldos. [Fuente: efe.com](https://efe.com/english/economy/2026-11-11/spain-general-strike/)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué marcharon juntos sindicatos e inquilinos"
+    },
+    {
+      "type": "paragraph",
+      "text": "La convocatoria vinculó la vivienda con las condiciones laborales. UGT y CCOO se unieron a sindicatos de inquilinos y otras organizaciones. Entre las demandas figuraban más vivienda pública y un nuevo acuerdo sobre el salario mínimo. Para los hogares de alquiler, el sueldo determina cuánto queda tras pagar la renta y las normas sobre contratos y desahucios influyen en si pueden seguir en casa. [Fuente: www.ugt.es](https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Qué tamaño tuvieron las marchas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "RTVE citó a la Guardia Urbana en su cobertura del 11 de noviembre y situó en unas 40.000 personas la asistencia a la marcha de Barcelona. También informó de una amplia movilización en Madrid pese a la lluvia. La cifra barcelonesa estima la asistencia a una marcha. El seguimiento laboral de la huelga se mide por separado. [Fuente: www.rtve.es](https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué aprobaron los diputados al día siguiente"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 12 de noviembre, la cámara baja interina ratificó medidas para limitar los desahucios y la especulación inmobiliaria, según Associated Press. La votación abordó la vivienda. La reivindicación salarial seguía siendo una cuestión separada. El efecto de las medidas dependerá de su aplicación y, según AP, su duración podría depender del resultado electoral. [Fuente: apnews.com](https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450)"
+    },
+    {
+      "type": "heading",
+      "text": "La vivienda gana peso en la agenda política"
+    },
+    {
+      "type": "paragraph",
+      "text": "La movilización llevó los alquileres y los salarios al debate nacional. En otro asunto que afecta a grandes ciudades, PRESDA sigue [las candidaturas de Madrid y Casablanca a la final del Mundial 2030](/articles/casablanca-madrid-2030-world-cup-final/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: efe.com",
+      "url": "https://efe.com/english/economy/2026-11-11/spain-general-strike/"
+    },
+    {
+      "label": "Fuente: www.ugt.es",
+      "url": "https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la"
+    },
+    {
+      "label": "Fuente: www.rtve.es",
+      "url": "https://www.rtve.es/noticias/20261111/huelga-general-11n-manifestaciones-madrid-barcelona/17309817.shtml"
+    },
+    {
+      "label": "Fuente: apnews.com",
+      "url": "https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo se celebró la huelga general?",
+      "answer": "El 11 de noviembre de 2026, durante 24 horas."
+    },
+    {
+      "question": "¿Qué pedían los manifestantes?",
+      "answer": "Vivienda asequible, más protección para los inquilinos y mejoras salariales, incluido un nuevo acuerdo sobre el salario mínimo."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/agile-robots-softbank-nvidia-500-million-funding/",
+  "path": "/ar/articles/agile-robots-softbank-nvidia-500-million-funding/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "أجايل روبوتس تجمع 500 مليون دولار في جولة بقيادة سوفت بنك وبمشاركة إنفيديا",
+  "seoTitle": "أجايل روبوتس تجمع 500 مليون دولار بمشاركة إنفيديا",
+  "description": "قادت سوفت بنك جولة تمويل بـ500 مليون دولار قيّمت أجايل روبوتس الألمانية بـ8.5 مليارات دولار، وشاركت فيها إنفيديا ومستثمرون آخرون.",
+  "excerpt": "قادت سوفت بنك جولة تمويل بـ500 مليون دولار قيّمت أجايل روبوتس الألمانية بـ8.5 مليارات دولار، وشاركت فيها إنفيديا ومستثمرون آخرون.",
+  "headlineHighlights": {
+    "red": "أجايل روبوتس",
+    "gold": "500 مليون دولار"
+  },
+  "keywords": [
+    "أجايل روبوتس",
+    "500 مليون دولار"
+  ],
+  "searchIntent": "قادت سوفت بنك جولة تمويل بـ500 مليون دولار قيّمت أجايل روبوتس الألمانية بـ8.5 مليارات دولار، وشاركت فيها إنفيديا ومستثمرون آخرون.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/agile-robots-softbank-nvidia-humanoid.jpg",
+    "alt": "رسم لروبوت شبيه بالإنسان أمام شعاري سوفت بنك وإنفيديا",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "أعلنت أجايل روبوتس في 12 نوفمبر أنها جمعت 500 مليون دولار في جولة قادتها سوفت بنك. وذكرت رويترز أن العملية قيّمت الشركة التي تتخذ من ميونيخ مقراً لها بـ8.5 مليارات دولار، وأن إنفيديا وهيتاشي شاركتا فيها. الرقم الأول هو مجموع التمويل، والثاني هو قيمة الشركة التي تعكسها شروط الجولة. [المصدر: www.investing.com](https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا تصنع أجايل روبوتس؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قدمت الشركة روبوت أجايل ون الشبيه بالإنسان في نوفمبر 2025 للاستخدام الصناعي. وتضم مجموعتها أيضاً أذرعاً آلية ويداً مرنة وأنظمة متحركة. ويختار المصنعون المعدات بحسب المهمة. فالذراع الثابتة تناسب محطة عمل متكررة، في حين تستطيع المنصة المتحركة نقل المواد بين المواقع. [المصدر: www.agile-robots.com](https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "ما الذي ينبغي للمصنع قياسه؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يمكن للتجربة في المصنع قياس عدد المرات التي ينجز فيها الروبوت مهمته من دون تدخل، والوقت اللازم لذلك، والوقت الذي تستغرقه الصيانة. وتهم هذه المقاييس عندما تعمل الآلة قرب أشخاص وتتعامل مع أغراض تختلف بين الورديات. ولا يجيب حجم التمويل وحده عن هذه الأسئلة."
+    },
+    {
+      "type": "heading",
+      "text": "اهتمام سوفت بنك السابق بالروبوتات"
+    },
+    {
+      "type": "paragraph",
+      "text": "كانت سوفت بنك قد أدرجت أجايل روبوتس ضمن استثماراتها في الروبوتات في عرض للمستثمرين يغطي الفترة حتى ديسمبر 2025. وتضيف جولة نوفمبر رقماً جديداً إلى هذه العلاقة، وتجمع مستثمرين لهم اهتمامات في الرقائق والهندسة الصناعية والأتمتة. [المصدر: group.softbank](https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "من العرض إلى التشغيل"
+    },
+    {
+      "type": "paragraph",
+      "text": "للاطلاع على مثال آخر لاختبار الذكاء الاصطناعي المادي خارج المختبر، اقرأ عن [تجارب الروبوتات في سيول](/articles/seoul-physical-ai-robots-living-lab/). وتشمل الأسئلة المشتركة دمج الروبوت في سير العمل وكيفية استجابة المشغلين حين يواجه موقفاً جديداً."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: www.investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769"
+    },
+    {
+      "label": "المصدر: www.agile-robots.com",
+      "url": "https://www.agile-robots.com/media/files/New_website/Solutions/Agile_ONE/Agile_ONE_Media_Kit/01_Press_Release/Agile_Robots_Press_release_Agile_ONE_eng.pdf"
+    },
+    {
+      "label": "المصدر: group.softbank",
+      "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/presentations/2025/investor-svf_q3fy2025_01_en.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "من قاد جولة التمويل؟",
+      "answer": "قادت سوفت بنك الجولة، وشاركت فيها إنفيديا وهيتاشي من بين آخرين."
+    },
+    {
+      "question": "ما قيمة أجايل روبوتس بعد الجولة؟",
+      "answer": "بلغ تقييم الشركة 8.5 مليارات دولار وفق رويترز."
+    }
+  ]
+}
