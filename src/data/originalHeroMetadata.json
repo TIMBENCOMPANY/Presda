@@ -148,5 +148,20 @@
     "width": 1280,
     "height": 721,
     "type": "image/jpeg"
+  },
+  "/articles/jensen-huang-nvidia-ceo-transition-ai-illustration.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/amazon-ring-drone-cam-indoor-security-ai-illustration.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/daniel-naroditsky-chess-memorial-ai-illustration.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
   }
 }

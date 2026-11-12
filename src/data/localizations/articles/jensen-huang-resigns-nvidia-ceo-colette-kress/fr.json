@@ -1,0 +1,105 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/jensen-huang-resigns-nvidia-ceo-colette-kress/",
+  "path": "/fr/articles/jensen-huang-resigns-nvidia-ceo-colette-kress/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-12",
+    "terminologyChecked": true
+  },
+  "title": "JENSEN HUANG QUITTE LA DIRECTION DE NVIDIA APRÈS 33 ANS",
+  "seoTitle": "Jensen Huang quitte NVIDIA, Colette Kress assure l’intérim",
+  "description": "NVIDIA a annoncé le départ de Jensen Huang le 12 novembre 2026. Colette Kress dirige le groupe par intérim pendant la recherche d’un successeur.",
+  "excerpt": "NVIDIA a annoncé le départ de Jensen Huang le 12 novembre 2026. Colette Kress dirige le groupe par intérim pendant la recherche d’un successeur.",
+  "headlineHighlights": {
+    "red": "JENSEN HUANG",
+    "gold": "APRÈS 33 ANS"
+  },
+  "keywords": [
+    "JENSEN HUANG",
+    "APRÈS 33 ANS"
+  ],
+  "searchIntent": "NVIDIA a annoncé le départ de Jensen Huang le 12 novembre 2026. Colette Kress dirige le groupe par intérim pendant la recherche d’un successeur.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "image": {
+    "src": "/articles/jensen-huang-nvidia-ceo-transition-ai-illustration.jpg",
+    "alt": "Illustration générée par IA de Jensen Huang devant un bâtiment portant le logo NVIDIA.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le 12 novembre 2026, NVIDIA a annoncé que son cofondateur Jensen Huang avait quitté ses fonctions de directeur général, de président et d’administrateur. Le formulaire 8-K précise que le conseil a accepté sa démission avec effet immédiat le 11 novembre. Son mandat de 33 ans remontait à la création de NVIDIA en 1993. Le conseil a confié la direction par intérim à la directrice financière Colette Kress et lancé la recherche d’un successeur permanent. [Source: www.sec.gov](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que le conseil a confirmé sur l’enquête"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 8 novembre, NVIDIA a annoncé qu’un comité d’administrateurs indépendants examinerait des informations selon lesquelles Huang aurait été la cible d’une opération de renseignement étrangère. Le conseil a alors indiqué qu’il n’avait aucune raison de penser que la sécurité nationale américaine ou des secrets de NVIDIA avaient été compromis. Cette appréciation date de l’ouverture de l’enquête, chargée d’examiner les allégations. [Source: investor.nvidia.com](https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qui supervise l’enquête ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 10 novembre, les administrateurs indépendants ont annoncé avoir mandaté Joon H. Kim, ancien procureur fédéral par intérim à Manhattan, et son cabinet Wachtell, Lipton, Rosen & Katz. Cette nomination précise qui conduit l’enquête. Le communiqué sur la succession ne publie aucun résultat et n’établit aucune obtention d’informations confidentielles. [Source: nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board)"
+    },
+    {
+      "type": "heading",
+      "text": "Kress prend les commandes pendant la recherche d’un successeur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kress dirige les finances de NVIDIA depuis 2013 et conserve ce poste pendant l’intérim. Le conseil a aussi nommé à sa présidence Harvey C. Jones, administrateur depuis 1993. L’entreprise a indiqué qu’elle examinerait des candidatures internes et externes pour le poste de directeur général permanent. [Source: www.sec.gov](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Quelles sont les prochaines étapes pour NVIDIA ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "NVIDIA a prévu de publier ses résultats du troisième trimestre fiscal le 17 novembre. La direction pourra y aborder la demande des clients et ses projets dans le calcul accéléré. À plus long terme, restent le choix de la personne qui fixera la stratégie, la communication des conclusions de l’enquête et la gestion des restrictions à l’exportation. Le communiqué a désigné une direction provisoire et lancé la recherche d’un successeur. Les prochaines publications éclaireront les choix stratégiques. [Source: www.sec.gov](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire aussi · [Le partenariat IA entre NVIDIA et Meta](/articles/nvidia-meta-three-billion-investment-muse-ai-partnership/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.sec.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+    },
+    {
+      "label": "Source: investor.nvidia.com",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx"
+    },
+    {
+      "label": "Source: nvidianews.nvidia.com",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand Jensen Huang a-t-il démissionné ?",
+      "answer": "Le conseil a accepté sa démission le 11 novembre 2026. NVIDIA l’a annoncée le 12 novembre."
+    },
+    {
+      "question": "Qui dirige NVIDIA par intérim ?",
+      "answer": "Colette Kress, qui conserve également la direction financière."
+    },
+    {
+      "question": "NVIDIA a-t-elle publié les conclusions de l’enquête ?",
+      "answer": "Le communiqué de transition ne publie aucune conclusion. Les administrateurs indépendants ont confié l’enquête à un cabinet extérieur."
+    }
+  ]
+}

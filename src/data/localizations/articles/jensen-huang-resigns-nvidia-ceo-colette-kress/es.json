@@ -1,0 +1,105 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/jensen-huang-resigns-nvidia-ceo-colette-kress/",
+  "path": "/es/articles/jensen-huang-resigns-nvidia-ceo-colette-kress/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-12",
+    "terminologyChecked": true
+  },
+  "title": "JENSEN HUANG DIMITE COMO CEO DE NVIDIA TRAS 33 AÑOS",
+  "seoTitle": "Jensen Huang dimite de NVIDIA y Colette Kress asume el cargo",
+  "description": "NVIDIA anunció la salida de Jensen Huang el 12 de noviembre de 2026. Colette Kress asume la dirección interina mientras se busca sucesor.",
+  "excerpt": "NVIDIA anunció la salida de Jensen Huang el 12 de noviembre de 2026. Colette Kress asume la dirección interina mientras se busca sucesor.",
+  "headlineHighlights": {
+    "red": "JENSEN HUANG",
+    "gold": "TRAS 33 AÑOS"
+  },
+  "keywords": [
+    "JENSEN HUANG",
+    "TRAS 33 AÑOS"
+  ],
+  "searchIntent": "NVIDIA anunció la salida de Jensen Huang el 12 de noviembre de 2026. Colette Kress asume la dirección interina mientras se busca sucesor.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "image": {
+    "src": "/articles/jensen-huang-nvidia-ceo-transition-ai-illustration.jpg",
+    "alt": "Ilustración de IA de Jensen Huang ante un edificio con el logotipo de NVIDIA.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "NVIDIA anunció el 12 de noviembre de 2026 que su cofundador Jensen Huang había dimitido como consejero delegado, presidente y miembro del consejo. El formulario 8-K indica que el consejo aceptó su renuncia con efecto inmediato el 11 de noviembre. Terminan así 33 años al frente de la empresa, desde su fundación en 1993. El consejo nombró consejera delegada interina a la directora financiera Colette Kress e inició la búsqueda de un sucesor permanente. [Fuente: www.sec.gov](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué confirmó el consejo sobre la investigación"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 8 de noviembre, NVIDIA anunció que un comité de consejeros independientes examinaría informaciones según las cuales Huang habría sido objetivo de una operación de inteligencia extranjera. El consejo dijo entonces que no tenía motivos para creer que se hubieran comprometido la seguridad nacional estadounidense o secretos de NVIDIA. Esa valoración correspondía al momento en que se abrió la investigación de las alegaciones. [Fuente: investor.nvidia.com](https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Quién supervisa la revisión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 10 de noviembre, los consejeros independientes anunciaron que habían contratado a Joon H. Kim, exfiscal federal interino en Manhattan, y a su bufete, Wachtell, Lipton, Rosen & Katz. El nombramiento identifica a los responsables de la revisión. El comunicado sobre el relevo no publicó sus conclusiones ni acreditó que alguien hubiera obtenido información confidencial. [Fuente: nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board)"
+    },
+    {
+      "type": "heading",
+      "text": "Kress toma el mando mientras el consejo busca sucesor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kress dirige las finanzas de NVIDIA desde 2013 y conserva ese cargo durante el interinato. El consejo nombró además presidente del órgano a Harvey C. Jones, consejero desde 1993. La empresa dijo que consideraría candidaturas internas y externas para la dirección permanente. [Fuente: www.sec.gov](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué viene ahora para NVIDIA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La empresa programó la publicación de los resultados del tercer trimestre fiscal para el 17 de noviembre. La dirección tendrá ocasión de hablar de la demanda y de sus planes de computación acelerada. A más largo plazo quedan preguntas sobre quién fijará la estrategia, cómo comunicará el consejo las conclusiones de la revisión y cómo gestionará las restricciones a la exportación. El anuncio designó una dirección interina e inició una búsqueda. Las próximas comunicaciones ayudarán a conocer las decisiones estratégicas. [Fuente: www.sec.gov](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada · [La alianza de IA de NVIDIA y Meta](/articles/nvidia-meta-three-billion-investment-muse-ai-partnership/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.sec.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+    },
+    {
+      "label": "Fuente: investor.nvidia.com",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx"
+    },
+    {
+      "label": "Fuente: nvidianews.nvidia.com",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo dimitió Jensen Huang?",
+      "answer": "El consejo aceptó su renuncia el 11 de noviembre de 2026. NVIDIA la anunció el 12."
+    },
+    {
+      "question": "¿Quién dirige NVIDIA de forma interina?",
+      "answer": "Colette Kress, que también conserva la dirección financiera."
+    },
+    {
+      "question": "¿Publicó NVIDIA las conclusiones de la investigación?",
+      "answer": "El comunicado del relevo no las publicó. Los consejeros independientes habían encargado la revisión a asesores externos."
+    }
+  ]
+}

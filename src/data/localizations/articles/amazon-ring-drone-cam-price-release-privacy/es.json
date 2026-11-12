@@ -1,0 +1,105 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/amazon-ring-drone-cam-price-release-privacy/",
+  "path": "/es/articles/amazon-ring-drone-cam-price-release-privacy/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-12",
+    "terminologyChecked": true
+  },
+  "title": "RING DE AMAZON PRESENTA UNA CÁMARA DE SEGURIDAD VOLADORA",
+  "seoTitle": "Ring Drone Cam: precio, lanzamiento en EE. UU. y privacidad",
+  "description": "Amazon anuncia un precio de 249,99 dólares y envíos en EE. UU. desde el 27 de enero de 2027, sujetos a la autorización de la FCC.",
+  "excerpt": "Amazon anuncia un precio de 249,99 dólares y envíos en EE. UU. desde el 27 de enero de 2027, sujetos a la autorización de la FCC.",
+  "headlineHighlights": {
+    "red": "RING DE AMAZON",
+    "gold": "CÁMARA DE SEGURIDAD VOLADORA"
+  },
+  "keywords": [
+    "RING DE AMAZON",
+    "CÁMARA DE SEGURIDAD VOLADORA"
+  ],
+  "searchIntent": "Amazon anuncia un precio de 249,99 dólares y envíos en EE. UU. desde el 27 de enero de 2027, sujetos a la autorización de la FCC.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "image": {
+    "src": "/articles/amazon-ring-drone-cam-indoor-security-ai-illustration.jpg",
+    "alt": "Ilustración de IA de un dron con cámara que vuela junto a una base de carga en un salón.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Amazon presentó Ring Drone Cam el 10 de noviembre de 2026 al lanzar Ring Robotics. Es una cámara de seguridad para interiores diseñada para volar entre puntos seleccionados y regresar a una base de carga. Amazon anunció un precio de 249,99 dólares en EE. UU. y prevé iniciar los envíos el 27 de enero de 2027. El comunicado indica que el aparato aún requiere autorización de la Comisión Federal de Comunicaciones antes de ofrecerse a la venta. [Fuente: www.aboutamazon.com](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo aprende AI Pilot el plano de la vivienda"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante la configuración, el usuario lleva el dron por las habitaciones que quiere cubrir. Según Amazon, AI Pilot combina cámaras, sensores, modelos de visión y procesamiento en la nube para crear un plano y sugerir puntos de vigilancia. Usa ese mapa para guiar los vuelos y responde a los obstáculos que detecta. El propietario puede iniciar un vuelo a petición o configurar dispositivos Ring compatibles para activar una visita a un punto guardado. Las rondas programadas requieren un plan Ring Protect compatible. [Fuente: www.aboutamazon.com](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué capta la cámara"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ring indica vídeo en 2K, vista en directo y focos LED para poca luz. Amazon especifica un campo de visión de 148 grados y un giro de 360 grados. La ficha técnica indica que carece de micrófono y altavoz, por lo que ofrece vídeo sin sonido ni conversación bidireccional. La ronda cubre los lugares que el dron visita. Es una cobertura diferente a la vigilancia continua de una puerta con una cámara fija. [Fuente: ring.com](https://ring.com/support/products/cameras/ring-drone-cam?page=1)"
+    },
+    {
+      "type": "heading",
+      "text": "Privacidad en una vivienda compartida"
+    },
+    {
+      "type": "paragraph",
+      "text": "Amazon afirma que la cámara se apaga en la base y que un LED indica la grabación. También dice que los vídeos estarán protegidos por el cifrado TAKE de Ring. Una cámara voladora plantea una cuestión práctica sobre dónde puede grabar, aunque solo lo haga durante el vuelo. En una vivienda compartida, acordar los puntos de vigilancia y avisar a las visitas importa tanto como los controles del aparato. El procesamiento en la nube descrito en el anuncio también cuenta al valorar cómo se maneja el plano interior. [Fuente: www.aboutamazon.com](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)"
+    },
+    {
+      "type": "heading",
+      "text": "Precio, calendario y límites"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ring limita el uso a interiores y advierte de que el dron puede pasar por alto obstáculos repentinos o inesperados. La fecha de enero corresponde al anuncio estadounidense. El dispositivo permite echar un vistazo breve a una zona elegida. Su utilidad dependerá del plano de la vivienda y de los recorridos que sus habitantes puedan fijar con seguridad. [Fuente: ring.com](https://ring.com/support/articles/ks7h3/Safety-and-compliance-information-for-the-Ring-Drone-Cam)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada · [Cómo Android cambió las plataformas móviles](/articles/android-google-changed-mobile-2007-announcement/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.aboutamazon.com",
+      "url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot"
+    },
+    {
+      "label": "Fuente: ring.com",
+      "url": "https://ring.com/support/products/cameras/ring-drone-cam?page=1"
+    },
+    {
+      "label": "Fuente: ring.com",
+      "url": "https://ring.com/support/articles/ks7h3/Safety-and-compliance-information-for-the-Ring-Drone-Cam"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo se enviará Ring Drone Cam?",
+      "answer": "Amazon prevé envíos en EE. UU. a partir del 27 de enero de 2027, sujetos a autorización de la FCC."
+    },
+    {
+      "question": "¿Cuál es el precio anunciado?",
+      "answer": "Amazon anunció un precio de 249,99 dólares en EE. UU."
+    },
+    {
+      "question": "¿Graba sonido?",
+      "answer": "Ring especifica vídeo sin audio porque el dron carece de micrófono y altavoz."
+    }
+  ]
+}

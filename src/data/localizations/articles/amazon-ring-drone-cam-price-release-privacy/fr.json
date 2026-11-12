@@ -1,0 +1,105 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/amazon-ring-drone-cam-price-release-privacy/",
+  "path": "/fr/articles/amazon-ring-drone-cam-price-release-privacy/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-12",
+    "terminologyChecked": true
+  },
+  "title": "RING D’AMAZON PRÉSENTE UNE CAMÉRA DE SÉCURITÉ VOLANTE",
+  "seoTitle": "Ring Drone Cam : prix, sortie aux États-Unis et vie privée",
+  "description": "Amazon annonce un prix de 249,99 dollars et des livraisons américaines à partir du 27 janvier 2027, sous réserve de l’autorisation de la FCC.",
+  "excerpt": "Amazon annonce un prix de 249,99 dollars et des livraisons américaines à partir du 27 janvier 2027, sous réserve de l’autorisation de la FCC.",
+  "headlineHighlights": {
+    "red": "RING D’AMAZON",
+    "gold": "CAMÉRA DE SÉCURITÉ VOLANTE"
+  },
+  "keywords": [
+    "RING D’AMAZON",
+    "CAMÉRA DE SÉCURITÉ VOLANTE"
+  ],
+  "searchIntent": "Amazon annonce un prix de 249,99 dollars et des livraisons américaines à partir du 27 janvier 2027, sous réserve de l’autorisation de la FCC.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "image": {
+    "src": "/articles/amazon-ring-drone-cam-indoor-security-ai-illustration.jpg",
+    "alt": "Illustration générée par IA d’un drone équipé d’une caméra en vol près d’une station de recharge dans un salon.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Amazon a présenté Ring Drone Cam le 10 novembre 2026 à l’occasion du lancement de Ring Robotics. Cette caméra de sécurité intérieure est conçue pour voler entre des points choisis puis revenir à sa station de recharge. Amazon annonce un prix américain de 249,99 dollars et prévoit des livraisons à partir du 27 janvier 2027. Selon son communiqué, l’autorisation de la Commission fédérale des communications est encore nécessaire avant la mise en vente. [Source: www.aboutamazon.com](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment AI Pilot cartographie le logement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de la configuration, l’utilisateur transporte le drone dans les pièces à couvrir. Selon Amazon, AI Pilot associe caméras, capteurs, modèles de vision et traitement dans le cloud pour créer un plan et suggérer des points de passage. Il s’appuie sur ce plan pour guider les vols et réagit aux obstacles détectés. Le propriétaire peut lancer un vol à la demande ou configurer des appareils Ring compatibles pour déclencher une visite à un point enregistré. Les rondes programmées exigent un abonnement Ring Protect compatible. [Source: www.aboutamazon.com](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que la caméra peut filmer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ring indique une vidéo 2K, une vue en direct et des projecteurs LED pour les zones sombres. Amazon précise un champ de vision de 148 degrés et une rotation possible sur 360 degrés. La fiche technique ne mentionne ni microphone ni haut-parleur, de sorte que le drone transmet la vidéo sans son ni conversation bidirectionnelle. La ronde couvre les endroits visités par le drone. Cette couverture diffère de la surveillance continue d’une porte par une caméra fixe. [Source: ring.com](https://ring.com/support/products/cameras/ring-drone-cam?page=1)"
+    },
+    {
+      "type": "heading",
+      "text": "La vie privée dans un logement partagé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Amazon indique que la caméra est éteinte sur sa station et qu’une LED signale l’enregistrement. Les vidéos seront, selon l’entreprise, protégées par le chiffrement TAKE de Ring. Une caméra volante soulève une question pratique sur les endroits qu’elle peut filmer, même si elle enregistre seulement en vol. Dans un logement partagé, convenir des points de passage et informer les visiteurs compte autant que les commandes de l’appareil. Le traitement dans le cloud annoncé compte aussi pour comprendre la gestion du plan intérieur. [Source: www.aboutamazon.com](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)"
+    },
+    {
+      "type": "heading",
+      "text": "Prix, calendrier et limites"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ring réserve l’appareil à un usage intérieur et avertit qu’il peut manquer un obstacle soudain ou inattendu. La date de livraison de janvier concerne l’annonce américaine. L’appareil sert à jeter un bref coup d’œil à une zone choisie. Son intérêt dépendra du plan du logement et des trajets que les occupants peuvent définir en toute sécurité. [Source: ring.com](https://ring.com/support/articles/ks7h3/Safety-and-compliance-information-for-the-Ring-Drone-Cam)"
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire aussi · [Comment Android a changé le mobile](/articles/android-google-changed-mobile-2007-announcement/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.aboutamazon.com",
+      "url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot"
+    },
+    {
+      "label": "Source: ring.com",
+      "url": "https://ring.com/support/products/cameras/ring-drone-cam?page=1"
+    },
+    {
+      "label": "Source: ring.com",
+      "url": "https://ring.com/support/articles/ks7h3/Safety-and-compliance-information-for-the-Ring-Drone-Cam"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand Ring Drone Cam sera-t-elle livrée ?",
+      "answer": "Amazon prévoit les livraisons américaines à partir du 27 janvier 2027, sous réserve de l’autorisation de la FCC."
+    },
+    {
+      "question": "Quel est le prix annoncé ?",
+      "answer": "Amazon a annoncé un prix américain de 249,99 dollars."
+    },
+    {
+      "question": "Enregistre-t-elle le son ?",
+      "answer": "Ring indique une vidéo sans son, l’appareil étant dépourvu de microphone et de haut-parleur."
+    }
+  ]
+}
