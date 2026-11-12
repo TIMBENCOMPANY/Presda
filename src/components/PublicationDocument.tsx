@@ -66,19 +66,19 @@ export const metadata: Metadata = {
 };
 
 export function PublicationDocument({ children, locale = "en" }: Readonly<{ children: ReactNode; locale?: Locale }>) {
-
+  const adSense = getAdSenseAccountConfig(process.env);
   return (
     <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"} className={`${orbitron.variable} ${inter.variable} ${articleDisplay.variable}`}>
-      {locale === "ar" && (
-        // Locale-specific resource hints belong to this root document's head.
-        // eslint-disable-next-line @next/next/no-head-element
-        <head>
+      {/* eslint-disable-next-line @next/next/no-head-element */}
+      <head>
+        {adSense.clientId && <meta name="google-adsense-account" content={adSense.clientId} />}
+        {locale === "ar" && <>
           <link rel="preload" href="/fonts/cairo/cairo-arabic-v31-400-900.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
           <link rel="preload" href="/fonts/cairo/cairo-latin-v31-400-900.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
-        </head>
-      )}
+        </>}
+      </head>
       <body>
-        <AdSenseProvider config={getAdSenseAccountConfig(process.env)}>
+        <AdSenseProvider config={adSense}>
         <AnalyticsConsentProvider locale={locale}>
         <script
           type="application/ld+json"
