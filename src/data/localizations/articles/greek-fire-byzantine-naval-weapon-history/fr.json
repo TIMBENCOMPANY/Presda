@@ -1,0 +1,113 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/greek-fire-byzantine-naval-weapon-history/",
+  "path": "/fr/articles/greek-fire-byzantine-naval-weapon-history/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-12",
+    "terminologyChecked": true
+  },
+  "title": "LE FEU GRÉGEOIS : L’ARME BYZANTINE QUI BRÛLAIT SUR L’EAU",
+  "seoTitle": "Feu grégeois : ce que l’on sait de l’arme navale byzantine",
+  "description": "Les auteurs byzantins décrivent une arme incendiaire redoutée. Son emploi est attesté, mais sa composition et ses débuts restent discutés.",
+  "excerpt": "Les auteurs byzantins décrivent une arme incendiaire redoutée. Son emploi est attesté, mais sa composition et ses débuts restent discutés.",
+  "headlineHighlights": {
+    "red": "LE FEU GRÉGEOIS",
+    "gold": "BRÛLAIT SUR L’EAU"
+  },
+  "keywords": [
+    "LE FEU GRÉGEOIS",
+    "BRÛLAIT SUR L’EAU"
+  ],
+  "searchIntent": "Les auteurs byzantins décrivent une arme incendiaire redoutée. Son emploi est attesté, mais sa composition et ses débuts restent discutés.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "image": {
+    "src": "/articles/greek-fire-byzantine-naval-history-ai-illustration.jpg",
+    "alt": "Illustration IA d’un combat naval byzantin avec des flammes et une silhouette imaginaire de Constantinople.",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le feu grégeois est un incendiaire byzantin connu surtout pour son emploi en mer. Des récits médiévaux évoquent une substance qui pouvait continuer à brûler à la surface de l’eau, perspective terrifiante pour les équipages de navires en bois. Les textes attestent l’usage naval de ce feu. Ils renseignent beaucoup moins sur sa composition, sa constance au fil des siècles et l’identité de son inventeur. [Source: www.worldhistory.org](https://www.worldhistory.org/Greek_Fire/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que les chroniques disent de ses origines"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le chroniqueur Théophane associe ce feu à Kallinikos, un architecte originaire d’Héliopolis en Syrie qui se réfugia chez les Romains pendant les premières campagnes arabes contre Constantinople. C’est une attribution conservée dans une chronique postérieure. Elle ne permet pas de savoir s’il inventa une substance entièrement nouvelle, adapta des pratiques antérieures ou dut sa réputation à la transmission du récit. [Source: pbe.kcl.ac.uk](https://pbe.kcl.ac.uk/data/D42/F03.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi les dates du premier siège sont discutées"
+    },
+    {
+      "type": "paragraph",
+      "text": "La chronologie traditionnelle situe le premier siège arabe dans les années 670. L’historien Marek Jankowiak, en comparant les sources, propose plutôt 667–669 pour la première tentative de prise de la capitale. Ce débat montre qu’une date de siège couramment admise ne suffit pas à dater l’invention du feu grégeois. Un témoignage tardif peut préserver un événement tout en laissant sa chronologie ouverte à la révision. [Source: research.birmingham.ac.uk](https://research.birmingham.ac.uk/en/publications/the-first-arab-siege-of-constantinople-the-campaign-of-yazid-b-mu/)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi cette arme comptait en mer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les récits du feu grégeois s’inscrivent dans l’histoire plus large de la défense byzantine. Les opérations navales, les fortifications, le ravitaillement et les décisions adverses influencèrent l’issue des sièges. La défense contre le siège omeyyade de 717–718 montre les limites d’une explication centrée sur une seule arme. La capitale put soutenir sa défense dans la durée, et la puissance navale participait à cette capacité. [Source: www.worldhistory.org](https://www.worldhistory.org/Greek_Fire/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qui subsiste du secret"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucune recette authentifiée n’établit la composition précise de l’arme navale byzantine. Le vocabulaire médiéval variait et des auteurs postérieurs pouvaient donner des noms proches à des incendiaires différents. Dire qu’un feu brûlait sur l’eau rapporte un effet observé ou décrit. Cela ne suffit pas à identifier la substance. L’histoire du feu grégeois repose donc sur les usages attestés, sa réputation et les limites des sources. [Source: www.worldhistory.org](https://www.worldhistory.org/Greek_Fire/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les sources ont survécu sous des formes différentes. Une chronique conserve le récit de campagnes. Un manuscrit illustré présente le passé à travers les choix d’un artiste postérieur. Les deux sont utiles, mais ils répondent à des questions différentes. Une image spectaculaire montre ce que le lecteur pouvait imaginer sans établir l’aspect ou la fabrication d’un objet précis. [Source: www.bne.es](https://www.bne.es/sites/default/files/redBNE/Actividades/Exposiciones/2024/skylitzes-matritensis-bne-en.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire aussi · [L’Empire byzantin et sa capitale](/articles/byzantine-empire-eastern-rome-constantinople-1453/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.worldhistory.org",
+      "url": "https://www.worldhistory.org/Greek_Fire/"
+    },
+    {
+      "label": "Source: pbe.kcl.ac.uk",
+      "url": "https://pbe.kcl.ac.uk/data/D42/F03.htm"
+    },
+    {
+      "label": "Source: research.birmingham.ac.uk",
+      "url": "https://research.birmingham.ac.uk/en/publications/the-first-arab-siege-of-constantinople-the-campaign-of-yazid-b-mu/"
+    },
+    {
+      "label": "Source: www.bne.es",
+      "url": "https://www.bne.es/sites/default/files/redBNE/Actividades/Exposiciones/2024/skylitzes-matritensis-bne-en.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qu’était le feu grégeois ?",
+      "answer": "Un incendiaire byzantin surtout associé à la guerre navale."
+    },
+    {
+      "question": "Qui l’a inventé ?",
+      "answer": "Théophane l’associe à Kallinikos. Les détails de son développement restent incertains."
+    },
+    {
+      "question": "Connaît-on sa composition exacte ?",
+      "answer": "Aucune recette authentifiée ne l’établit."
+    }
+  ]
+}

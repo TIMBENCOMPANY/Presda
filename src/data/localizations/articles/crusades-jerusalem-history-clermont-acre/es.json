@@ -1,0 +1,117 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/crusades-jerusalem-history-clermont-acre/",
+  "path": "/es/articles/crusades-jerusalem-history-clermont-acre/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-12",
+    "terminologyChecked": true
+  },
+  "title": "LAS CRUZADAS: CÓMO LA LUCHA POR JERUSALÉN CAMBIÓ LA HISTORIA",
+  "seoTitle": "Las cruzadas y Jerusalén: de Clermont a Acre",
+  "description": "Del llamamiento de Urbano II en 1095 a la caída de Acre en 1291, las cruzadas transformaron el poder, el comercio y las comunidades.",
+  "excerpt": "Del llamamiento de Urbano II en 1095 a la caída de Acre en 1291, las cruzadas transformaron el poder, el comercio y las comunidades.",
+  "headlineHighlights": {
+    "red": "LAS CRUZADAS",
+    "gold": "LUCHA POR JERUSALÉN"
+  },
+  "keywords": [
+    "LAS CRUZADAS",
+    "LUCHA POR JERUSALÉN"
+  ],
+  "searchIntent": "Del llamamiento de Urbano II en 1095 a la caída de Acre en 1291, las cruzadas transformaron el poder, el comercio y las comunidades.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "image": {
+    "src": "/articles/crusades-medieval-jerusalem-ai-illustration.jpg",
+    "alt": "Ilustración de IA de cruzados ante una Jerusalén medieval imaginada.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Jerusalén cambió de manos en 1099 y otra vez en 1187, pero las cruzadas nunca fueron una guerra continua por una sola ciudad. Llevaron nuevos gobernantes al Mediterráneo oriental, alteraron alianzas e intercambios y expusieron repetidamente a los civiles a la violencia. Jerusalén era sagrada para judíos, cristianos y musulmanes. Su peso político surgía de esas historias entrelazadas, mientras sus habitantes sufrían las consecuencias de decisiones tomadas lejos. [Fuente: www.metmuseum.org](https://www.metmuseum.org/essays/the-crusades-1095-1291)"
+    },
+    {
+      "type": "heading",
+      "text": "De la petición bizantina a la primera cruzada"
+    },
+    {
+      "type": "paragraph",
+      "text": "El emperador bizantino Alejo I solicitó ayuda militar a Occidente. En Clermont, en 1095, Urbano II convocó una expedición que ligaba la ayuda a los cristianos orientales con una empresa religiosa. Los cronistas dejaron versiones distintas del discurso, por lo que sus palabras exactas son inciertas. Los participantes hacían votos y podían ver el viaje como penitencia. También influyeron las obligaciones familiares, el patronazgo y las oportunidades de la conquista. [Fuente: sourcebooks.fordham.edu](https://sourcebooks.fordham.edu/source/urban2-5vers.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué significó la toma de 1099 para los civiles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cruzados tomaron Jerusalén a los fatimíes en julio de 1099. Mataron a numerosos habitantes, entre ellos musulmanes y judíos. Los cronistas medievales describieron la matanza con un lenguaje exaltado. Sus relatos establecen la violencia, aunque las cifras exactas siguen siendo inciertas. En Europa, grupos vinculados a la expedición ya habían atacado comunidades judías de Renania en 1096. La violencia cruzada comenzó antes de que el ejército llegara a Jerusalén. [Fuente: sourcebooks.fordham.edu](https://sourcebooks.fordham.edu/sbook1k.asp)"
+    },
+    {
+      "type": "heading",
+      "text": "Saladino, los estados costeros y Acre"
+    },
+    {
+      "type": "paragraph",
+      "text": "El reino de Jerusalén y otros estados latinos dependían de puertos, abastecimiento y alianzas cambiantes. Saladino derrotó a un gran ejército cruzado en Hattin en 1187 y recuperó Jerusalén en octubre. La tercera cruzada recuperó Acre, mientras Jerusalén quedó fuera de su control. En 1291 los mamelucos tomaron Acre, principal bastión latino en la costa levantina. Fue un giro territorial. Las cruzadas continuaron en otros lugares y formas. [Fuente: www.metmuseum.org](https://www.metmuseum.org/essays/the-crusades-1095-1291)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué Constantinopla forma parte de la historia"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuarta cruzada saqueó Constantinopla en 1204 pese a que sus habitantes eran mayoritariamente cristianos. La intervención en la política bizantina, las presiones financieras y los intereses venecianos contribuyeron al desvío. El saqueo instaló un poder latino y dispersó objetos que aún figuran en colecciones europeas. Muestra cómo los compromisos religiosos, el dinero y la política local podían reorientar una expedición. El comercio y los contactos culturales coexistieron con la violencia y el desplazamiento. [Fuente: www.metmuseum.org](https://www.metmuseum.org/essays/the-crusades-1095-1291)"
+    },
+    {
+      "type": "heading",
+      "text": "Jerusalén también cambió de manos mediante la diplomacia"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1229, el emperador Federico II negoció con el sultán ayubí al Kamil un acuerdo que restableció el gobierno cristiano de Jerusalén y preservó el acceso musulmán a lugares sagrados clave. La ciudad volvió a cambiar de manos en 1244. El episodio se pierde con facilidad en una cronología de batallas. Muestra que el destino de Jerusalén dependía también de las prioridades de gobernantes que negociaban con rivales de sus propias regiones. [Fuente: orca.cardiff.ac.uk](https://orca.cardiff.ac.uk/id/eprint/130218/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada · [La caída de Constantinopla](/articles/fall-constantinople-1453-sultan-mehmed-ii/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.metmuseum.org",
+      "url": "https://www.metmuseum.org/essays/the-crusades-1095-1291"
+    },
+    {
+      "label": "Fuente: sourcebooks.fordham.edu",
+      "url": "https://sourcebooks.fordham.edu/source/urban2-5vers.html"
+    },
+    {
+      "label": "Fuente: sourcebooks.fordham.edu",
+      "url": "https://sourcebooks.fordham.edu/sbook1k.asp"
+    },
+    {
+      "label": "Fuente: orca.cardiff.ac.uk",
+      "url": "https://orca.cardiff.ac.uk/id/eprint/130218/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo comenzó la primera cruzada?",
+      "answer": "Urbano II la convocó en 1095 y la expedición principal partió en 1096."
+    },
+    {
+      "question": "¿Cuándo recuperó Saladino Jerusalén?",
+      "answer": "En octubre de 1187, tras vencer en Hattin."
+    },
+    {
+      "question": "¿Por qué importa 1291?",
+      "answer": "La toma de Acre por los mamelucos acabó con el principal bastión latino del litoral levantino."
+    }
+  ]
+}

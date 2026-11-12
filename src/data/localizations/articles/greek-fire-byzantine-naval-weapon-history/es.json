@@ -1,0 +1,113 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/greek-fire-byzantine-naval-weapon-history/",
+  "path": "/es/articles/greek-fire-byzantine-naval-weapon-history/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-12",
+    "terminologyChecked": true
+  },
+  "title": "FUEGO GRIEGO: EL ARMA BIZANTINA QUE ARDÍA SOBRE EL AGUA",
+  "seoTitle": "Fuego griego: qué se sabe del arma naval bizantina",
+  "description": "Los autores bizantinos describen un arma incendiaria naval temida. Su uso está documentado, pero su composición y sus orígenes siguen en debate.",
+  "excerpt": "Los autores bizantinos describen un arma incendiaria naval temida. Su uso está documentado, pero su composición y sus orígenes siguen en debate.",
+  "headlineHighlights": {
+    "red": "FUEGO GRIEGO",
+    "gold": "ARDÍA SOBRE EL AGUA"
+  },
+  "keywords": [
+    "FUEGO GRIEGO",
+    "ARDÍA SOBRE EL AGUA"
+  ],
+  "searchIntent": "Los autores bizantinos describen un arma incendiaria naval temida. Su uso está documentado, pero su composición y sus orígenes siguen en debate.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "image": {
+    "src": "/articles/greek-fire-byzantine-naval-history-ai-illustration.jpg",
+    "alt": "Ilustración de IA de un combate naval bizantino con llamas y un perfil imaginario de Constantinopla.",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El fuego griego fue un incendiario bizantino recordado ante todo por su uso en el mar. Los relatos medievales describen una sustancia que podía seguir ardiendo sobre la superficie del agua, una perspectiva aterradora para tripulaciones de barcos de madera. Las fuentes acreditan su uso naval. Dejan un registro mucho menos completo sobre su composición, su uniformidad a lo largo de los siglos y quién lo desarrolló. [Fuente: www.worldhistory.org](https://www.worldhistory.org/Greek_Fire/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué dicen las crónicas sobre sus orígenes"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cronista Teófanes vincula el fuego a Calínico, un arquitecto de Heliópolis, en Siria, que se refugió entre los romanos durante las primeras campañas árabes contra Constantinopla. La atribución se conserva en una crónica posterior. No resuelve si inventó una sustancia nueva, adaptó prácticas anteriores o adquirió su reputación por la transmisión del relato. [Fuente: pbe.kcl.ac.uk](https://pbe.kcl.ac.uk/data/D42/F03.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué se discuten las fechas del primer asedio"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cronología tradicional sitúa el primer asedio árabe en la década de 670. Al comparar las fuentes, el historiador Marek Jankowiak ha propuesto 667–669 para el primer intento de tomar la capital. El debate muestra por qué la fecha habitual de un asedio no basta para fechar el invento. Un testimonio posterior puede preservar un hecho y dejar abierta a revisión su cronología. [Fuente: research.birmingham.ac.uk](https://research.birmingham.ac.uk/en/publications/the-first-arab-siege-of-constantinople-the-campaign-of-yazid-b-mu/)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué importaba en el mar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los relatos del fuego griego forman parte de una historia más amplia de la defensa bizantina. Las operaciones navales, las fortificaciones, el abastecimiento y las decisiones de los mandos influyeron en el desenlace de los asedios. La defensa ante el asedio omeya de 717–718 muestra los límites de atribuir el resultado a un arma. La capital pudo sostener su defensa en el tiempo y el poder naval fue parte de esa capacidad. [Fuente: www.worldhistory.org](https://www.worldhistory.org/Greek_Fire/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué queda del secreto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ninguna receta autenticada establece la composición precisa del arma naval bizantina. La terminología medieval también variaba y los autores posteriores podían usar nombres similares para incendiarios distintos. Una descripción de fuego sobre el agua registra un efecto observado o referido. No identifica la sustancia de manera concluyente. La historia del fuego griego se apoya en sus usos documentados, su reputación y los límites de las fuentes. [Fuente: www.worldhistory.org](https://www.worldhistory.org/Greek_Fire/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las fuentes sobreviven en formas distintas. Una crónica conserva relatos de campañas. Un manuscrito ilustrado presenta el pasado a través de las decisiones de un artista posterior. Ambos sirven para preguntas diferentes. Una imagen espectacular puede mostrar lo que se invitaba a imaginar al lector sin establecer el aspecto ni la construcción de un objeto concreto. [Fuente: www.bne.es](https://www.bne.es/sites/default/files/redBNE/Actividades/Exposiciones/2024/skylitzes-matritensis-bne-en.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada · [El Imperio bizantino y su capital](/articles/byzantine-empire-eastern-rome-constantinople-1453/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.worldhistory.org",
+      "url": "https://www.worldhistory.org/Greek_Fire/"
+    },
+    {
+      "label": "Fuente: pbe.kcl.ac.uk",
+      "url": "https://pbe.kcl.ac.uk/data/D42/F03.htm"
+    },
+    {
+      "label": "Fuente: research.birmingham.ac.uk",
+      "url": "https://research.birmingham.ac.uk/en/publications/the-first-arab-siege-of-constantinople-the-campaign-of-yazid-b-mu/"
+    },
+    {
+      "label": "Fuente: www.bne.es",
+      "url": "https://www.bne.es/sites/default/files/redBNE/Actividades/Exposiciones/2024/skylitzes-matritensis-bne-en.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué era el fuego griego?",
+      "answer": "Un incendiario bizantino asociado especialmente a la guerra naval."
+    },
+    {
+      "question": "¿Quién lo inventó?",
+      "answer": "Teófanes lo asocia con Calínico. Su desarrollo sigue siendo incierto."
+    },
+    {
+      "question": "¿Se conoce su composición exacta?",
+      "answer": "Ninguna receta autenticada la establece."
+    }
+  ]
+}
