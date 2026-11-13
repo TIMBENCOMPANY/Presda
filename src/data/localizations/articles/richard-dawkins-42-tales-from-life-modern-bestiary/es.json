@@ -1,0 +1,101 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/richard-dawkins-42-tales-from-life-modern-bestiary/",
+  "path": "/es/articles/richard-dawkins-42-tales-from-life-modern-bestiary/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-14",
+    "terminologyChecked": true
+  },
+  "title": "Richard Dawkins explora las formas más extrañas de la naturaleza",
+  "seoTitle": "Richard Dawkins explora las formas más extrañas de la naturaleza",
+  "description": "El bestiario de Dawkins reúne ensayos sobre evolución y láminas de Ernst Haeckel. Salió en octubre en EE. UU. y en noviembre en el Reino Unido.",
+  "excerpt": "El bestiario de Dawkins reúne ensayos sobre evolución y láminas de Ernst Haeckel. Salió en octubre en EE. UU. y en noviembre en el Reino Unido.",
+  "headlineHighlights": {
+    "red": "Richard Dawkins",
+    "gold": "formas más extrañas"
+  },
+  "keywords": [
+    "Richard Dawkins",
+    "formas más extrañas"
+  ],
+  "searchIntent": "El bestiario de Dawkins reúne ensayos sobre evolución y láminas de Ernst Haeckel. Salió en octubre en EE. UU. y en noviembre en el Reino Unido.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "image": {
+    "src": "/articles/richard-dawkins-42-tales-modern-bestiary-illustration.jpg",
+    "alt": "Ilustración de Richard Dawkins junto a una cubierta imaginada y dibujos marinos",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un pulpo y un colibrí plantean preguntas muy distintas al biólogo evolutivo. En 42 Tales from Life: A Modern Bestiary, Richard Dawkins pasa de un ejemplo a otro para examinar el origen de sus rasgos. El bestiario dedica capítulos a animales extintos, organismos microscópicos, hongos y plantas. [Fuente: yalebooks.yale.edu](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "heading",
+      "text": "Cuándo se publicó el libro"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apollo, sello de Bloomsbury, fecha la edición británica el 5 de noviembre de 2026. Yale University Press indica el 20 de octubre de 2026 para la estadounidense. Ambas fichas indican 368 páginas. El ISBN de la tapa dura británica es 9781035924356 y el de la estadounidense, 9780300303797. [Fuente: www.bloomsbury.com](https://www.bloomsbury.com/uk/42-tales-from-life-9781035924370/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué revelan los organismos sobre la evolución"
+    },
+    {
+      "type": "paragraph",
+      "text": "El índice va de las palomas de Darwin a los sifonóforos y los trilobites fósiles. Las palomas muestran cómo la selección modifica los rasgos heredables entre generaciones. Un sifonóforo plantea otra pregunta sobre la individualidad, pues es una colonia de unidades especializadas. Los capítulos invitan a buscar indicios de la historia de una estructura en sus parientes vivos y en los fósiles. [Fuente: yalebooks.yale.edu](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué aparecen las láminas de Ernst Haeckel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las láminas de Haeckel destacan las formas de organismos marinos, plantas y otros seres. Una imagen facilita ver simetrías y estructuras repetidas. Las explicaciones evolutivas modernas dependen de pruebas sobre parentesco y herencia. El arte histórico sirve como entrada a esas preguntas. [Fuente: www.bloomsbury.com](https://www.bloomsbury.com/uk/42-tales-from-life-9781035924370/)"
+    },
+    {
+      "type": "heading",
+      "text": "Las ideas que dieron influencia a Dawkins"
+    },
+    {
+      "type": "paragraph",
+      "text": "Biólogo evolutivo formado en conducta animal, Dawkins ocupó la primera cátedra Charles Simonyi de divulgación científica de Oxford entre 1995 y 2008. El gen egoísta (1976) popularizó una visión de la selección centrada en los genes. El fenotipo extendido (1982) planteó que los efectos hereditarios pueden rebasar el cuerpo, como en las construcciones animales. El relojero ciego (1986) explicó la selección acumulativa. El espejismo de Dios abordó la religión. [Fuente: www.oup.com.au](https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[El pulpo de cristal](/articles/glass-octopus-vitreledonella-richardi/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: yalebooks.yale.edu",
+      "url": "https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/"
+    },
+    {
+      "label": "Fuente: www.bloomsbury.com",
+      "url": "https://www.bloomsbury.com/uk/42-tales-from-life-9781035924370/"
+    },
+    {
+      "label": "Fuente: www.oup.com.au",
+      "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quién ilustró el libro?",
+      "answer": "Reproduce obras del naturalista alemán Ernst Haeckel."
+    },
+    {
+      "question": "¿Salieron ambas ediciones en noviembre?",
+      "answer": "Apollo indica el 5 de noviembre en el Reino Unido y Yale el 20 de octubre en Estados Unidos."
+    }
+  ]
+}

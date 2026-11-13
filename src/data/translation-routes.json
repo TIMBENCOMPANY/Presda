@@ -5416,6 +5416,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/richard-dawkins-42-tales-from-life-modern-bestiary/",
+    "path": "/ar/articles/richard-dawkins-42-tales-from-life-modern-bestiary/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/richard-dawkins-42-tales-from-life-modern-bestiary/",
+    "path": "/es/articles/richard-dawkins-42-tales-from-life-modern-bestiary/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/richard-dawkins-42-tales-from-life-modern-bestiary/",
+    "path": "/fr/articles/richard-dawkins-42-tales-from-life-modern-bestiary/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/rihanna-barbados-music-fenty-beauty-empire/",
     "path": "/ar/articles/rihanna-barbados-music-fenty-beauty-empire/"
   },
@@ -6718,6 +6733,21 @@
     "locale": "fr",
     "englishPath": "/articles/yassine-bounou-africas-safest-hands/",
     "path": "/fr/articles/yassine-bounou-africas-safest-hands/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/yassine-bounou-niger-penalty-morocco-caps/",
+    "path": "/ar/articles/yassine-bounou-niger-penalty-morocco-caps/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/yassine-bounou-niger-penalty-morocco-caps/",
+    "path": "/es/articles/yassine-bounou-niger-penalty-morocco-caps/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/yassine-bounou-niger-penalty-morocco-caps/",
+    "path": "/fr/articles/yassine-bounou-niger-penalty-morocco-caps/"
   },
   {
     "locale": "ar",

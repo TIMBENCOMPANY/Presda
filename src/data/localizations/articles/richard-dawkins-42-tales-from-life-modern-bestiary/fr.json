@@ -1,0 +1,101 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/richard-dawkins-42-tales-from-life-modern-bestiary/",
+  "path": "/fr/articles/richard-dawkins-42-tales-from-life-modern-bestiary/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-14",
+    "terminologyChecked": true
+  },
+  "title": "Richard Dawkins explore les formes les plus étranges du vivant",
+  "seoTitle": "Richard Dawkins explore les formes les plus étranges du vivant",
+  "description": "Le bestiaire de Dawkins associe récits d’évolution et illustrations d’Ernst Haeckel. Il est paru en octobre aux États-Unis et en novembre au Royaume-Uni.",
+  "excerpt": "Le bestiaire de Dawkins associe récits d’évolution et illustrations d’Ernst Haeckel. Il est paru en octobre aux États-Unis et en novembre au Royaume-Uni.",
+  "headlineHighlights": {
+    "red": "Richard Dawkins",
+    "gold": "formes les plus étranges"
+  },
+  "keywords": [
+    "Richard Dawkins",
+    "formes les plus étranges"
+  ],
+  "searchIntent": "Le bestiaire de Dawkins associe récits d’évolution et illustrations d’Ernst Haeckel. Il est paru en octobre aux États-Unis et en novembre au Royaume-Uni.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "image": {
+    "src": "/articles/richard-dawkins-42-tales-modern-bestiary-illustration.jpg",
+    "alt": "Illustration de Richard Dawkins près d’une couverture imaginée et de dessins marins",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une pieuvre et un colibri posent des questions très différentes au biologiste de l’évolution. Dans 42 Tales from Life: A Modern Bestiary, Richard Dawkins passe de l’un à l’autre pour examiner l’origine de leurs singularités. Des chapitres sur les animaux disparus, les organismes microscopiques, les champignons et les plantes complètent le bestiaire. [Source: yalebooks.yale.edu](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "heading",
+      "text": "Quand le livre est paru"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apollo, label de Bloomsbury, indique le 5 novembre 2026 pour l’édition britannique. Yale University Press date son édition américaine du 20 octobre 2026. Les deux éditeurs annoncent 368 pages. L’ISBN du relié britannique est 9781035924356 et celui du relié américain 9780300303797. [Source: www.bloomsbury.com](https://www.bloomsbury.com/uk/42-tales-from-life-9781035924370/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que les organismes révèlent sur l’évolution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le sommaire va des pigeons de Darwin aux siphonophores et aux trilobites fossiles. Les pigeons illustrent la modification de caractères héréditaires au fil des générations sous l’effet de la sélection. Un siphonophore pose une question sur l’individualité, puisqu’il forme une colonie d’unités spécialisées. Ces chapitres invitent à relier une structure à son histoire à l’aide des espèces apparentées et des fossiles. [Source: yalebooks.yale.edu](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "subheading",
+      "text": "La place des planches d’Ernst Haeckel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les planches de Haeckel mettent en valeur les formes des organismes marins, des plantes et d’autres sujets. Elles rendent les symétries et les structures répétées plus faciles à observer. Les explications évolutives modernes reposent sur des données de parenté et d’hérédité. Les images historiques offrent une porte d’entrée à ces questions. [Source: www.bloomsbury.com](https://www.bloomsbury.com/uk/42-tales-from-life-9781035924370/)"
+    },
+    {
+      "type": "heading",
+      "text": "Les idées qui ont fait connaître Dawkins"
+    },
+    {
+      "type": "paragraph",
+      "text": "Biologiste de l’évolution formé à l’étude du comportement animal, Dawkins a occupé la première chaire Charles Simonyi de vulgarisation scientifique à Oxford de 1995 à 2008. Le Gène égoïste (1976) a popularisé une lecture de la sélection centrée sur les gènes. The Extended Phenotype (1982) examine des effets héréditaires qui dépassent le corps, comme les structures bâties par les animaux. L’Horloger aveugle (1986) expose la sélection cumulative. Pour en finir avec Dieu traite de la religion. [Source: www.oup.com.au](https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[La pieuvre de verre](/articles/glass-octopus-vitreledonella-richardi/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: yalebooks.yale.edu",
+      "url": "https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/"
+    },
+    {
+      "label": "Source: www.bloomsbury.com",
+      "url": "https://www.bloomsbury.com/uk/42-tales-from-life-9781035924370/"
+    },
+    {
+      "label": "Source: www.oup.com.au",
+      "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qui a illustré le livre ?",
+      "answer": "Il reproduit des œuvres du naturaliste allemand Ernst Haeckel."
+    },
+    {
+      "question": "Les deux éditions sont-elles parues en novembre ?",
+      "answer": "Apollo indique le 5 novembre au Royaume-Uni et Yale le 20 octobre aux États-Unis."
+    }
+  ]
+}
