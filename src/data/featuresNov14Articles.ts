@@ -3,10 +3,10 @@ export const featuresNov14Articles: Article[] = [
   {
     "id": "454",
     "slug": "yassine-bounou-niger-penalty-morocco-caps",
-    "title": "Yassine Bounou against Niger: the penalty save and the disputed cap count",
-    "seoTitle": "Yassine Bounou against Niger: the penalty save and the disputed cap count",
-    "metaDescription": "A first-half penalty clip from Morocco–Niger put Bounou’s international milestone in focus. Here is what the records say about his caps and career.",
-    "excerpt": "A first-half penalty clip from Morocco–Niger put Bounou’s international milestone in focus. Here is what the records say about his caps and career.",
+    "title": "YASSINE BOUNOU REACHES 100 MOROCCO CAPS, A LANDMARK IN A HISTORIC CAREER",
+    "seoTitle": "Bounou at 100 Morocco caps: Niger, Qatar and the road to No. 1",
+    "metaDescription": "Bounou saved a penalty in Morocco’s 5–1 win over Niger in Casablanca. His century of caps spans a historic World Cup run and an AFCON Golden Glove.",
+    "excerpt": "Bounou saved a penalty in Morocco’s 5–1 win over Niger in Casablanca. His century of caps spans a historic World Cup run and an AFCON Golden Glove.",
     "category": "Sport",
     "schemaType": "NewsArticle",
     "date": "2026-11-14",
@@ -17,50 +17,44 @@ export const featuresNov14Articles: Article[] = [
     "coverImage": "/articles/yassine-bounou-morocco-tribute-illustration.jpg",
     "coverAlt": "Imagined tribute showing Yassine Bounou and a child holding a number 100 Morocco shirt",
     "headlineHighlights": {
-      "red": "Yassine Bounou",
-      "gold": "penalty save"
+      "red": "YASSINE BOUNOU",
+      "gold": "100 MOROCCO CAPS"
     },
     "tags": [
       "Yassine Bounou",
       "Sport"
     ],
     "content": [
-      "Morocco faced Niger at the Mohammed V complex in Casablanca on November 13, 2026, in qualifying for the 2027 Africa Cup of Nations. Bounou appeared in the starting lineup. A circulating match clip shows him stopping a Niger penalty just before halftime. That moment brought renewed attention to a separate question about his international record. [Circulating footage](https://www.reddit.com/r/soccer/comments/1xvjdhp/bono_morocco_penalty_save_against_niger_45/). [Morocco lineup](https://dimasbaa.com/fr/live)",
-      "## Why the 100th cap is disputed",
-      "Some Moroccan coverage placed him on 99 before kickoff, while L’Opinion said the figure still needed federation confirmation. The Dima Sbaa match database instead labels the October 4 friendly against Mali his 100th. PRESDA could not establish the federation’s exact count for the Niger fixture or confirm an official shirt presentation. The illustration above depicts an imagined tribute. [L’Opinion](https://lopinion.ma/fr/sport/newsroom/maroc-niger--yassine-bounou-a-une-cape-du-centenaire-avec-les-lions-de-latlas-_a51260?articleId=af5fdf09-741b-479a-a3f0-f94d9472da96). [Cap tally](https://dimasbaa.com/en/p/yassine-bounou)",
-      "## From Wydad to Sevilla and Al Hilal",
-      "Born in Montreal and developed at Wydad Casablanca, Bounou went to Spain with Atlético Madrid’s reserve side. A loan at Real Zaragoza preceded his move to Girona. He joined Sevilla on loan from Girona and stayed permanently, then moved to Al Hilal in 2023. FIFA records Sevilla’s Europa League wins in 2020 and 2023. In the latter final, Bounou saved twice in the shootout against Roma. [FIFA career profile](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/how-canada-born-bounou-became-a-morocco-hero)",
-      "### Trophies and individual honours",
-      "Al Hilal’s player profile lists a league title, two King’s Cups and two Saudi Super Cups, plus the Riyadh Season Cup, an invitational event. Sevilla’s two European titles sit alongside the 2021–22 Zamora Trophy. FIFA records 24 goals conceded and 13 clean sheets in 31 league appearances that season and identifies him as the first African winner of the award. [Al Hilal honours](https://alhilal.com/en/teams/mens-team/player-yassine-bounou)",
-      "## Morocco’s World Cup breakthrough and CAF awards",
-      "Bounou saved two Spanish attempts in the 2022 World Cup round-of-16 shootout. Morocco then beat Portugal and became the first African men’s team to reach a World Cup semifinal, finishing fourth. CAF named him its men’s goalkeeper of the year in 2023 and 2025, and gave him the Golden Glove for the 2025 Africa Cup of Nations after five clean sheets in seven appearances. [CAF Golden Glove](https://www.cafonline.com/afcon2025/news/yassine-bounou-wins-totalenergies-caf-afcon-2025-goalkeeper-of-the-tournament/)",
-      "UEFA named Bounou player of the match in the 2023 final. Sevilla drew 1–1 with Roma after extra time and won the shootout 4–1. The goalkeeper’s interventions changed a final that open play had failed to settle. [UEFA final report](https://www.uefa.com/uefaeuropaleague/news/0281-1825b16a79b7-12fe014d1f96-1000/)",
-      "[Bounou’s career in detail](/articles/yassine-bounou-africas-safest-hands/)"
+      "A century of Morocco appearances marks how far Yassine Bounou has come since his debut in Tangier. On November 13, 2026, the goalkeeper supplied a fitting reminder of his value. With Niger threatening to draw level in Casablanca, he stopped a penalty just before halftime. Morocco went on to win 5–1 in qualifying for the 2027 Africa Cup of Nations. [Match sheet](https://www.live-result.com/football/matches/match1815008_Morocco-Niger-live-online)",
+      "## Morocco 5–1 Niger at Mohammed V",
+      "Bounou started at the Mohammed V complex. Yassir Zabiri and Achraf Hakimi put Morocco ahead before Mohamed Abdouramane pulled one back. Youssouf Oumarou’s penalty was recorded in the 45th minute. Bounou saved it, and Hakimi added his second before the break. Youssef En-Nesyri and Ayoub Oufkir completed the scoring. The recorded Moroccan substitutions show no goalkeeper change. [Match sheet](https://www.live-result.com/football/matches/match1815008_Morocco-Niger-live-online)",
+      "## Bounou’s Morocco career in numbers",
+      "**100 senior appearances** is the career landmark. Bounou debuted on August 14, 2013 against Burkina Faso in Tangier. He later captained Morocco against Gabon and Mali in 2026. His World Cup record spans three squads: 2018, 2022 and 2026. He was an unused squad member in 2018 and played at the next two tournaments. [Morocco appearance log](https://dimasbaa.com/fr/p/yassine-bounou)",
+      "### The Golden Glove in numbers",
+      "At the 2025 Africa Cup of Nations, CAF credited Bounou with **five clean sheets in seven appearances** and awarded him the Golden Glove. Morocco conceded twice during its run to the final. Bounou had also played at the 2019, 2021 and 2023 editions. [CAF Golden Glove](https://www.cafonline.com/afcon2025/news/yassine-bounou-wins-totalenergies-caf-afcon-2025-goalkeeper-of-the-tournament/)",
+      "## The road to Morocco’s No. 1",
+      "Bounou worked his way from understudy to a starting role. In Qatar in 2022 he kept clean sheets against Croatia in the group stage, Spain in the round of 16 and Portugal in the quarter-final. He saved kicks from Carlos Soler and Sergio Busquets as Morocco won the Spain shootout 3–0. The win over Portugal made Morocco the first African men’s team to reach a World Cup semi-final. It finished fourth. [FIFA career profile](https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/yassine-bounou-interview?searchOverlay=1)",
+      "## A Morocco timeline",
+      "**2013:** senior debut in Tangier. **2018:** first World Cup squad. **2022:** shootout hero against Spain and a World Cup semi-final. **2025 AFCON:** Golden Glove. **2026:** a second World Cup on the pitch and a first-half penalty save against Niger as his Morocco career reached the century mark. [Morocco appearance log](https://dimasbaa.com/fr/p/yassine-bounou)",
+      "## From Wydad to Al Hilal",
+      "Bounou came through Wydad Casablanca, joined Atlético Madrid’s reserve side and went on loan to Real Zaragoza. Girona came next, followed by Sevilla, where he won two Europa Leagues and the 2021–22 Zamora Trophy. He joined Al Hilal in 2023. Read more in [PRESDA’s club career profile](/articles/yassine-bounou-africas-safest-hands/). [FIFA career profile](https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/yassine-bounou-interview?searchOverlay=1)"
     ],
     "references": [
       {
-        "name": "Morocco lineup",
-        "url": "https://dimasbaa.com/fr/live"
+        "name": "Match sheet",
+        "url": "https://www.live-result.com/football/matches/match1815008_Morocco-Niger-live-online"
       },
       {
-        "name": "Cap tally",
-        "url": "https://dimasbaa.com/en/p/yassine-bounou"
-      },
-      {
-        "name": "FIFA career profile",
-        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/how-canada-born-bounou-became-a-morocco-hero"
-      },
-      {
-        "name": "Al Hilal honours",
-        "url": "https://alhilal.com/en/teams/mens-team/player-yassine-bounou"
+        "name": "Morocco appearance log",
+        "url": "https://dimasbaa.com/fr/p/yassine-bounou"
       },
       {
         "name": "CAF Golden Glove",
         "url": "https://www.cafonline.com/afcon2025/news/yassine-bounou-wins-totalenergies-caf-afcon-2025-goalkeeper-of-the-tournament/"
       },
       {
-        "name": "UEFA final report",
-        "url": "https://www.uefa.com/uefaeuropaleague/news/0281-1825b16a79b7-12fe014d1f96-1000/"
+        "name": "FIFA career profile",
+        "url": "https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/yassine-bounou-interview?searchOverlay=1"
       }
     ],
     "relatedSlugs": [
@@ -68,15 +62,15 @@ export const featuresNov14Articles: Article[] = [
     ],
     "faq": [
       {
-        "question": "Was Niger officially Bounou’s 100th cap?",
-        "answer": "The available tallies disagree, and PRESDA could not verify a federation count for the match."
+        "question": "What was the Morocco–Niger score?",
+        "answer": "Morocco won 5–1 in Casablanca on November 13, 2026."
       },
       {
-        "question": "When did Bounou win the Europa League?",
-        "answer": "He won with Sevilla in 2020 and 2023."
+        "question": "Did Bounou play only the first half?",
+        "answer": "The match record lists him as the starter and shows no Moroccan goalkeeper substitution."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "455",
