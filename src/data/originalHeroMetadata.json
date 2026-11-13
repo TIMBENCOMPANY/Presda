@@ -213,5 +213,25 @@
     "width": 1280,
     "height": 720,
     "type": "image/jpeg"
+  },
+  "/articles/rubiks-cube-erno-rubik-hungary-production.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/asian-elephants-calf-udawalawe-sri-lanka.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/nazca-lines-peru-desert-geoglyphs-ceramics.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/mauricio-pochettino-manchester-united-crest.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
   }
 }

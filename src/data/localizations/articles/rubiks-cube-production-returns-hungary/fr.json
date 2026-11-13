@@ -1,0 +1,97 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/rubiks-cube-production-returns-hungary/",
+  "path": "/fr/articles/rubiks-cube-production-returns-hungary/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "La fabrication du Rubik’s Cube revient en Hongrie après plus de 40 ans",
+  "seoTitle": "Le Rubik’s Cube de nouveau fabriqué en Hongrie",
+  "description": "Le Rubik’s Cube est de nouveau fabriqué en Hongrie. La nouvelle ligne de Jászberény vise un million de cubes par an.",
+  "excerpt": "Le Rubik’s Cube est de nouveau fabriqué en Hongrie. La nouvelle ligne de Jászberény vise un million de cubes par an.",
+  "headlineHighlights": {
+    "red": "Rubik’s Cube",
+    "gold": "Hongrie"
+  },
+  "keywords": [
+    "Rubik’s Cube",
+    "Hongrie"
+  ],
+  "searchIntent": "Le Rubik’s Cube est de nouveau fabriqué en Hongrie. La nouvelle ligne de Jászberény vise un million de cubes par an.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/rubiks-cube-erno-rubik-hungary-production.jpg",
+    "alt": "Illustration d’Ernő Rubik avec un cube, Budapest et une chaîne de production",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le 10 novembre 2026, Ernő Rubik a mis en marche la nouvelle ligne de l’usine Jász-Plasztik à Jászberény. Plus de quatre décennies après le départ de la production, le casse-tête est de nouveau fabriqué dans son pays d’origine. Le lancement a réuni l’inventeur et Spin Master, le propriétaire canadien de la marque. [Source: www.jaszbereny.hu](https://www.jaszbereny.hu/hirek/a-rubik-kocka-hazatert/23968/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qu’est-ce qui revient en Hongrie ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon l’Associated Press, l’usine prévoit de produire un million de cubes par an. Il s’agit d’un objectif industriel. L’annonce porte sur la production de ce site, tandis que Spin Master reste propriétaire de la marque. Les chiffres annoncés ne permettent pas de connaître la part future de l’usine dans la production mondiale. [Source: apnews.com](https://apnews.com/article/1b76b906cca395c1ab55eea0ab43419a)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi Jászberény intéresse Spin Master"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de l’inauguration, un responsable des approvisionnements de Spin Master a expliqué que la fabrication en Hongrie rapprocherait la production de marchés importants. Le choix d’une usine détermine les distances parcourues par les produits finis et les possibilités de réapprovisionnement. La cérémonie a aussi permis à la marque de renouer avec les origines hongroises du cube. [Source: www.jaszbereny.hu](https://www.jaszbereny.hu/hirek/a-rubik-kocka-hazatert/23968/)"
+    },
+    {
+      "type": "heading",
+      "text": "D’une invention de 1974 à une marque mondiale"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rubik a inventé le cube en 1974 et le lancement mondial a eu lieu en 1980, selon Spin Master, qui a acquis la marque en 2021. Le casse-tête est resté reconnaissable alors que ses usages se sont étendus aux compétitions chronométrées et aux adaptations numériques. La nouvelle ligne ramène une partie de cette activité mondiale dans son pays d’origine. [Source: www.spinmaster.com](https://www.spinmaster.com/en-GB/corporate/media/press-releases/122968)"
+    },
+    {
+      "type": "heading",
+      "text": "À lire également"
+    },
+    {
+      "type": "paragraph",
+      "text": "[l’histoire industrielle de Peugeot](/articles/peugeot-history-coffee-grinders-automobiles/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.jaszbereny.hu",
+      "url": "https://www.jaszbereny.hu/hirek/a-rubik-kocka-hazatert/23968/"
+    },
+    {
+      "label": "Source: apnews.com",
+      "url": "https://apnews.com/article/1b76b906cca395c1ab55eea0ab43419a"
+    },
+    {
+      "label": "Source: www.spinmaster.com",
+      "url": "https://www.spinmaster.com/en-GB/corporate/media/press-releases/122968"
+    }
+  ],
+  "faq": [
+    {
+      "question": "À qui appartient la marque ?",
+      "answer": "Au fabricant canadien Spin Master, qui l’a acquise en 2021."
+    },
+    {
+      "question": "Où les cubes sont-ils fabriqués en Hongrie ?",
+      "answer": "Dans l’usine Jász-Plasztik de Jászberény."
+    }
+  ]
+}

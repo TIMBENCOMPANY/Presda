@@ -1,0 +1,97 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/mauricio-pochettino-manchester-united-head-coach/",
+  "path": "/es/articles/mauricio-pochettino-manchester-united-head-coach/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "El Manchester United nombra entrenador a Mauricio Pochettino",
+  "seoTitle": "Mauricio Pochettino, nuevo entrenador del Manchester United",
+  "description": "Mauricio Pochettino deja la selección masculina de Estados Unidos y asume el cargo el 18 de noviembre tras la salida de Michael Carrick.",
+  "excerpt": "Mauricio Pochettino deja la selección masculina de Estados Unidos y asume el cargo el 18 de noviembre tras la salida de Michael Carrick.",
+  "headlineHighlights": {
+    "red": "Manchester United",
+    "gold": "Mauricio Pochettino"
+  },
+  "keywords": [
+    "Manchester United",
+    "Mauricio Pochettino"
+  ],
+  "searchIntent": "Mauricio Pochettino deja la selección masculina de Estados Unidos y asume el cargo el 18 de noviembre tras la salida de Michael Carrick.",
+  "category": "Sport",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/mauricio-pochettino-manchester-united-crest.jpg",
+    "alt": "Retrato ilustrado de Mauricio Pochettino junto al escudo del Manchester United",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El Manchester United confirmó el 13 de noviembre de 2026 que Mauricio Pochettino dirigiría al primer equipo masculino a partir del 18 de noviembre. Sucede a Michael Carrick y deja la selección masculina de Estados Unidos. Associated Press informó de un contrato de dos años y medio y de un debut a domicilio ante el Liverpool el 22 de noviembre. [Fuente: apnews.com](https://apnews.com/article/5f28d4506d3e200759024745237e6fd0)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué el United cambió de entrenador"
+    },
+    {
+      "type": "paragraph",
+      "text": "El United anunció la salida de Carrick el día anterior. El club recordó que, tras su regreso en enero, el equipo ganó doce de sus últimos diecisiete partidos de liga en 2025–26 y acabó tercero. La entidad atribuyó el nuevo cambio al decepcionante inicio de temporada. [Fuente: www.manutd.com](https://www.manutd.com/en/news/club-statement-on-michael-carrick-departure?t=y)"
+    },
+    {
+      "type": "subheading",
+      "text": "El regreso al fútbol de clubes inglés"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pochettino dirigió en Inglaterra al Southampton, al Tottenham y al Chelsea. Con los Spurs llegó a la final de la Liga de Campeones de 2019. También entrenó al Paris Saint-Germain antes de asumir la selección estadounidense. En un club trabajará con la plantilla semana a semana, a un ritmo distinto del de las concentraciones internacionales. [Fuente: www.skysports.com](https://www.skysports.com/football/news/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué puede mostrar el primer partido"
+    },
+    {
+      "type": "paragraph",
+      "text": "La visita a Liverpool llega cuatro días después de su incorporación prevista. Quedan pocos entrenamientos para introducir cambios. La primera alineación y el comportamiento del United sin balón darán una pista de sus prioridades. Para evaluarlo mejor hará falta una serie de partidos, incluidos aquellos en los que el United deba llevar la iniciativa."
+    },
+    {
+      "type": "heading",
+      "text": "Lectura relacionada"
+    },
+    {
+      "type": "paragraph",
+      "text": "[el partido 126 de Harry Kane con Inglaterra](/articles/harry-kane-126-england-caps-record-croatia/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: apnews.com",
+      "url": "https://apnews.com/article/5f28d4506d3e200759024745237e6fd0"
+    },
+    {
+      "label": "Fuente: www.manutd.com",
+      "url": "https://www.manutd.com/en/news/club-statement-on-michael-carrick-departure?t=y"
+    },
+    {
+      "label": "Fuente: www.skysports.com",
+      "url": "https://www.skysports.com/football/news/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo asume Pochettino?",
+      "answer": "El club anunció que se incorporaría el 18 de noviembre de 2026."
+    },
+    {
+      "question": "¿A quién sustituye Pochettino?",
+      "answer": "A Michael Carrick, cuya salida se anunció el 12 de noviembre."
+    }
+  ]
+}

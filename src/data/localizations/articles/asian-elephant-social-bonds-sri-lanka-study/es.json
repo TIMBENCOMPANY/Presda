@@ -1,0 +1,97 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/asian-elephant-social-bonds-sri-lanka-study/",
+  "path": "/es/articles/asian-elephant-social-bonds-sri-lanka-study/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "Un estudio en Sri Lanka detecta la fragmentación de los vínculos sociales de los elefantes asiáticos",
+  "seoTitle": "Los vínculos de los elefantes asiáticos en Sri Lanka",
+  "description": "Tras doce años de seguimiento de hembras salvajes, los investigadores observaron grupos más pequeños y menos conectados.",
+  "excerpt": "Tras doce años de seguimiento de hembras salvajes, los investigadores observaron grupos más pequeños y menos conectados.",
+  "headlineHighlights": {
+    "red": "elefantes asiáticos",
+    "gold": "vínculos sociales"
+  },
+  "keywords": [
+    "elefantes asiáticos",
+    "vínculos sociales"
+  ],
+  "searchIntent": "Tras doce años de seguimiento de hembras salvajes, los investigadores observaron grupos más pequeños y menos conectados.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/asian-elephants-calf-udawalawe-sri-lanka.jpg",
+    "alt": "Ilustración de elefantes asiáticos alrededor de una cría en un paisaje de Sri Lanka",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Durante más de una década, investigadores registraron qué hembras salvajes de elefante asiático pasaban tiempo juntas en el parque nacional de Udawalawe. Las comunidades grandes dieron paso a grupos más pequeños y menos conectados. El estudio publicado en Science en noviembre de 2026 sitúa el cambio tras un periodo en que las pérdidas se acumularon más rápido que las incorporaciones. [Fuente: www.science.org](https://www.science.org/doi/10.1126/science.aef6714)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo se estudiaron los vínculos entre elefantes"
+    },
+    {
+      "type": "paragraph",
+      "text": "El análisis siguió a 443 hembras durante doce años, de 2007 a 2018. Una red social representa a los individuos y sus asociaciones observadas. Comparar encuentros repetidos permite saber si las compañeras habituales siguen vinculadas y si persisten los lazos entre grupos. [Fuente: doi.org](https://doi.org/10.5061/dryad.n5tb2rc95)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué importan los vínculos débiles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos hembras que rara vez se encuentran pueden unir grupos que de otro modo quedarían separados. Cuando se pierden muchas conexiones de este tipo, las compañeras cercanas pueden seguir juntas mientras la comunidad se fragmenta. El equipo también detectó cambios entre las hembras presentes durante todo el estudio. La red cambió incluso entre individuos que siguieron bajo observación. [Fuente: www.science.org](https://www.science.org/doi/10.1126/science.aef6714)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué puede enseñar un parque sobre la conservación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una desaparición del seguimiento puede corresponder a una muerte o a una salida permanente. Los autores plantean presiones posibles, como los conflictos con personas y la pérdida de conectividad del hábitat. El estudio describe una población de hembras y no permite generalizar a todos los elefantes asiáticos. Para la conservación, propone seguir las relaciones además de contar individuos. [Fuente: today.ucsd.edu](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)"
+    },
+    {
+      "type": "heading",
+      "text": "Lectura relacionada"
+    },
+    {
+      "type": "paragraph",
+      "text": "[cómo se observó el sueño de los cachalotes](/articles/why-sperm-whales-sleep-vertically/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.science.org",
+      "url": "https://www.science.org/doi/10.1126/science.aef6714"
+    },
+    {
+      "label": "Fuente: doi.org",
+      "url": "https://doi.org/10.5061/dryad.n5tb2rc95"
+    },
+    {
+      "label": "Fuente: today.ucsd.edu",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Dónde se realizó el estudio?",
+      "answer": "En el parque nacional de Udawalawe, en Sri Lanka."
+    },
+    {
+      "question": "¿Desaparecieron todos los vínculos?",
+      "answer": "No. Se observaron comunidades más pequeñas y aisladas. Algunos lazos cercanos persistieron."
+    }
+  ]
+}

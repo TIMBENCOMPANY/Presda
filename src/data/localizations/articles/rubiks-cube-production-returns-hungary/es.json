@@ -1,0 +1,97 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/rubiks-cube-production-returns-hungary/",
+  "path": "/es/articles/rubiks-cube-production-returns-hungary/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "La fabricación del cubo de Rubik vuelve a Hungría tras más de 40 años",
+  "seoTitle": "El cubo de Rubik vuelve a fabricarse en Hungría",
+  "description": "El cubo de Rubik vuelve a fabricarse en Hungría. La nueva línea de Jászberény prevé producir un millón de unidades al año.",
+  "excerpt": "El cubo de Rubik vuelve a fabricarse en Hungría. La nueva línea de Jászberény prevé producir un millón de unidades al año.",
+  "headlineHighlights": {
+    "red": "cubo de Rubik",
+    "gold": "Hungría"
+  },
+  "keywords": [
+    "cubo de Rubik",
+    "Hungría"
+  ],
+  "searchIntent": "El cubo de Rubik vuelve a fabricarse en Hungría. La nueva línea de Jászberény prevé producir un millón de unidades al año.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/rubiks-cube-erno-rubik-hungary-production.jpg",
+    "alt": "Ilustración de Ernő Rubik con un cubo, Budapest y una línea de producción",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Ernő Rubik puso en marcha la nueva línea de la planta de Jász-Plasztik en Jászberény el 10 de noviembre de 2026. Más de cuatro décadas después de que la fabricación saliera de Hungría, el rompecabezas vuelve a producirse en el país donde nació. El acto reunió al inventor y a Spin Master, la empresa canadiense propietaria de la marca. [Fuente: www.jaszbereny.hu](https://www.jaszbereny.hu/hirek/a-rubik-kocka-hazatert/23968/)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué vuelve a Hungría?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según Associated Press, la planta prevé fabricar un millón de cubos al año. Es un objetivo de producción. El anuncio se refiere a la actividad de esa fábrica, mientras que Spin Master conserva la marca. Las cifras del acto no permiten saber qué proporción de la producción mundial saldrá de allí. [Fuente: apnews.com](https://apnews.com/article/1b76b906cca395c1ab55eea0ab43419a)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué Jászberény le interesa a Spin Master"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la inauguración, un responsable de abastecimiento de Spin Master explicó que fabricar en Hungría acercaría la producción a mercados clave. La ubicación de una fábrica influye en cuánto viaja el producto terminado y desde dónde se repone el inventario. El acto permitió vincular esa decisión empresarial con el origen húngaro del cubo. [Fuente: www.jaszbereny.hu](https://www.jaszbereny.hu/hirek/a-rubik-kocka-hazatert/23968/)"
+    },
+    {
+      "type": "heading",
+      "text": "De un invento de 1974 a una marca mundial"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rubik inventó el cubo en 1974 y el lanzamiento mundial llegó en 1980, según Spin Master, que adquirió la marca en 2021. El rompecabezas siguió siendo reconocible al pasar del juego doméstico a las competiciones cronometradas y las adaptaciones digitales. La línea húngara devuelve al país de origen una parte del negocio mundial. [Fuente: www.spinmaster.com](https://www.spinmaster.com/en-GB/corporate/media/press-releases/122968)"
+    },
+    {
+      "type": "heading",
+      "text": "Lectura relacionada"
+    },
+    {
+      "type": "paragraph",
+      "text": "[la historia industrial de Peugeot](/articles/peugeot-history-coffee-grinders-automobiles/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.jaszbereny.hu",
+      "url": "https://www.jaszbereny.hu/hirek/a-rubik-kocka-hazatert/23968/"
+    },
+    {
+      "label": "Fuente: apnews.com",
+      "url": "https://apnews.com/article/1b76b906cca395c1ab55eea0ab43419a"
+    },
+    {
+      "label": "Fuente: www.spinmaster.com",
+      "url": "https://www.spinmaster.com/en-GB/corporate/media/press-releases/122968"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quién es dueño de la marca?",
+      "answer": "La juguetera canadiense Spin Master, que la adquirió en 2021."
+    },
+    {
+      "question": "¿Dónde se fabrica en Hungría?",
+      "answer": "En la planta de Jász-Plasztik, en Jászberény."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/asian-elephant-social-bonds-sri-lanka-study/",
+  "path": "/ar/articles/asian-elephant-social-bonds-sri-lanka-study/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "دراسة في سريلانكا تكشف تفكك الروابط الاجتماعية لدى الفيلة الآسيوية",
+  "seoTitle": "تفكك روابط الفيلة الآسيوية في سريلانكا",
+  "description": "تابع باحثون إناث الفيلة الآسيوية البرية 12 عاماً ورصدوا مجموعات أصغر وأقل ترابطاً بعد سنوات من فقدان أفراد.",
+  "excerpt": "تابع باحثون إناث الفيلة الآسيوية البرية 12 عاماً ورصدوا مجموعات أصغر وأقل ترابطاً بعد سنوات من فقدان أفراد.",
+  "headlineHighlights": {
+    "red": "الفيلة الآسيوية",
+    "gold": "الروابط الاجتماعية"
+  },
+  "keywords": [
+    "الفيلة الآسيوية",
+    "الروابط الاجتماعية"
+  ],
+  "searchIntent": "تابع باحثون إناث الفيلة الآسيوية البرية 12 عاماً ورصدوا مجموعات أصغر وأقل ترابطاً بعد سنوات من فقدان أفراد.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/asian-elephants-calf-udawalawe-sri-lanka.jpg",
+    "alt": "رسم لفيلة آسيوية تحيط بصغير في مشهد طبيعي من سريلانكا",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "على مدى أكثر من عقد، سجل باحثون أي إناث الفيلة الآسيوية البرية كانت تقضي الوقت معاً في حديقة أوداوالاوي الوطنية في سريلانكا. وحلت تدريجياً مجموعات أصغر وأقل اتصالاً محل التجمعات الكبيرة. وربطت الدراسة المنشورة في مجلة ساينس في نوفمبر 2026 التغير بفترة تجاوز فيها فقدان الأفراد عدد الوافدين إلى الجماعة المرصودة. [المصدر: www.science.org](https://www.science.org/doi/10.1126/science.aef6714)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف تتبعت الدراسة علاقات الفيلة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "شمل التحليل 443 أنثى على مدى 12 عاماً من 2007 إلى 2018. وتمثل الشبكة الاجتماعية الأفراد والارتباطات المرصودة بينهم. ومن خلال مقارنة اللقاءات المتكررة عبر الزمن، يستطيع الباحثون معرفة ما إذا كانت الرفيقات المعتادات يحافظن على روابطهن وما إذا كانت الصلات لا تزال تربط مجموعات مختلفة. [المصدر: doi.org](https://doi.org/10.5061/dryad.n5tb2rc95)"
+    },
+    {
+      "type": "subheading",
+      "text": "لماذا تهم الروابط الضعيفة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يربط لقاء متباعد بين أنثيين مجموعتين منفصلتين. وإذا اختفى عدد كبير من هذه الصلات، فقد تبقى الرفيقات المقربات على اتصال فيما تتفكك الجماعة الأوسع. ورصد الفريق تغيرات أيضاً بين الإناث اللواتي ظلن تحت المتابعة طوال الدراسة. فتغيرت الشبكة حتى بين الأفراد الذين استمر رصدهم. [المصدر: www.science.org](https://www.science.org/doi/10.1126/science.aef6714)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي تعلمنا إياه حديقة واحدة عن الحماية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يعني اختفاء فرد من السجلات موته أو مغادرته نهائياً. ويناقش المؤلفون ضغوطاً محتملة منها الصراع مع البشر وتراجع الترابط بين الموائل. وتصف الدراسة جماعة واحدة من الإناث، فلا يمكن تعميم مسارها على جميع الفيلة الآسيوية. وتبرز أهميتها للحماية في متابعة الروابط إلى جانب أعداد الأفراد. [المصدر: today.ucsd.edu](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)"
+    },
+    {
+      "type": "heading",
+      "text": "اقرأ أيضاً"
+    },
+    {
+      "type": "paragraph",
+      "text": "[كيفية رصد نوم حيتان العنبر](/articles/why-sperm-whales-sleep-vertically/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: www.science.org",
+      "url": "https://www.science.org/doi/10.1126/science.aef6714"
+    },
+    {
+      "label": "المصدر: doi.org",
+      "url": "https://doi.org/10.5061/dryad.n5tb2rc95"
+    },
+    {
+      "label": "المصدر: today.ucsd.edu",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks"
+    }
+  ],
+  "faq": [
+    {
+      "question": "أين أجريت الدراسة؟",
+      "answer": "في حديقة أوداوالاوي الوطنية في سريلانكا."
+    },
+    {
+      "question": "هل اختفت كل الروابط الاجتماعية؟",
+      "answer": "لا. رصدت الدراسة مجموعات أصغر وأكثر عزلة، واستمرت بعض الروابط الوثيقة."
+    }
+  ]
+}

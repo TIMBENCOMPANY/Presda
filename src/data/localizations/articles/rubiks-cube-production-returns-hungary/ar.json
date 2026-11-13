@@ -1,0 +1,97 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/rubiks-cube-production-returns-hungary/",
+  "path": "/ar/articles/rubiks-cube-production-returns-hungary/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-13",
+    "terminologyChecked": true
+  },
+  "title": "صناعة مكعب روبيك تعود إلى المجر بعد أكثر من 40 عاماً",
+  "seoTitle": "عودة صناعة مكعب روبيك إلى المجر",
+  "description": "عاد إنتاج مكعب روبيك إلى المجر عبر خط جديد في ياسبريني يستهدف تصنيع مليون مكعب سنوياً.",
+  "excerpt": "عاد إنتاج مكعب روبيك إلى المجر عبر خط جديد في ياسبريني يستهدف تصنيع مليون مكعب سنوياً.",
+  "headlineHighlights": {
+    "red": "مكعب روبيك",
+    "gold": "المجر"
+  },
+  "keywords": [
+    "مكعب روبيك",
+    "المجر"
+  ],
+  "searchIntent": "عاد إنتاج مكعب روبيك إلى المجر عبر خط جديد في ياسبريني يستهدف تصنيع مليون مكعب سنوياً.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "image": {
+    "src": "/articles/rubiks-cube-erno-rubik-hungary-production.jpg",
+    "alt": "رسم لإرنو روبيك مع مكعبه وبودابست وخط إنتاج",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "في 10 نوفمبر 2026 شغّل إرنو روبيك خط الإنتاج الجديد في مصنع ياس بلاستيك بمدينة ياسبريني. وبعد أكثر من أربعة عقود على انتقال التصنيع إلى الخارج، عادت الأحجية إلى بلد ابتكارها. وجمع حفل الافتتاح المخترع وممثلين عن سبين ماستر الكندية المالكة للعلامة. [المصدر: www.jaszbereny.hu](https://www.jaszbereny.hu/hirek/a-rubik-kocka-hazatert/23968/)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي عاد إلى المجر؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "بحسب أسوشيتد برس، يخطط المصنع لإنتاج مليون مكعب سنوياً. وهذا هدف إنتاجي. يتعلق الإعلان بالتصنيع في موقع محدد، بينما تظل العلامة مملوكة لسبين ماستر. ولا توضح الأرقام المعلنة حصة المصنع المستقبلية من الإنتاج العالمي. [المصدر: apnews.com](https://apnews.com/article/1b76b906cca395c1ab55eea0ab43419a)"
+    },
+    {
+      "type": "subheading",
+      "text": "لماذا اختارت سبين ماستر ياسبريني؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قال مسؤول التوريد في سبين ماستر خلال الافتتاح إن التصنيع في المجر يقرب الإنتاج من أسواق مهمة. ويؤثر موقع المصنع في المسافة التي تقطعها المنتجات وفي كيفية تجديد المخزون. كما أتاح الحفل للعلامة ربط القرار الصناعي بأصول المكعب المجرية. [المصدر: www.jaszbereny.hu](https://www.jaszbereny.hu/hirek/a-rubik-kocka-hazatert/23968/)"
+    },
+    {
+      "type": "heading",
+      "text": "من اختراع عام 1974 إلى علامة عالمية"
+    },
+    {
+      "type": "paragraph",
+      "text": "ابتكر روبيك المكعب عام 1974 وطُرح عالمياً عام 1980، وفق سبين ماستر التي استحوذت على العلامة في 2021. وظلت الأحجية سهلة التمييز مع انتقالها من اللعب المنزلي إلى مسابقات السرعة والنسخ الرقمية. ويعيد الخط المجري جزءاً من هذا النشاط العالمي إلى بلد نشأته. [المصدر: www.spinmaster.com](https://www.spinmaster.com/en-GB/corporate/media/press-releases/122968)"
+    },
+    {
+      "type": "heading",
+      "text": "اقرأ أيضاً"
+    },
+    {
+      "type": "paragraph",
+      "text": "[تاريخ بيجو الصناعي](/articles/peugeot-history-coffee-grinders-automobiles/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: www.jaszbereny.hu",
+      "url": "https://www.jaszbereny.hu/hirek/a-rubik-kocka-hazatert/23968/"
+    },
+    {
+      "label": "المصدر: apnews.com",
+      "url": "https://apnews.com/article/1b76b906cca395c1ab55eea0ab43419a"
+    },
+    {
+      "label": "المصدر: www.spinmaster.com",
+      "url": "https://www.spinmaster.com/en-GB/corporate/media/press-releases/122968"
+    }
+  ],
+  "faq": [
+    {
+      "question": "من يملك علامة مكعب روبيك؟",
+      "answer": "استحوذت عليها شركة الألعاب الكندية سبين ماستر في 2021."
+    },
+    {
+      "question": "أين يُصنع المكعب في المجر؟",
+      "answer": "في مصنع ياس بلاستيك بمدينة ياسبريني."
+    }
+  ]
+}
