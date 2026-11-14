@@ -1,0 +1,101 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/two-new-amazon-howler-monkey-species/",
+  "path": "/es/articles/two-new-amazon-howler-monkey-species/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-14",
+    "terminologyChecked": true
+  },
+  "title": "Un estudio genético describe dos nuevas especies de monos aulladores amazónicos",
+  "seoTitle": "Un estudio genético describe dos nuevas especies de monos aulladores amazónicos",
+  "description": "Las comparaciones genómicas y los ejemplares de museo permitieron distinguir Alouatta iroi y Alouatta matogrossensis.",
+  "excerpt": "Las comparaciones genómicas y los ejemplares de museo permitieron distinguir Alouatta iroi y Alouatta matogrossensis.",
+  "headlineHighlights": {
+    "red": "estudio genético",
+    "gold": "monos aulladores"
+  },
+  "keywords": [
+    "estudio genético",
+    "monos aulladores"
+  ],
+  "searchIntent": "Las comparaciones genómicas y los ejemplares de museo permitieron distinguir Alouatta iroi y Alouatta matogrossensis.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "image": {
+    "src": "/articles/amazon-howler-monkey-species-tropical-forest.jpg",
+    "alt": "Ilustración de dos monos aulladores vocalizando desde una rama en un bosque tropical",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un estudio en Communications Biology describe formalmente dos monos aulladores rojos, Alouatta iroi y Alouatta matogrossensis. El equipo combinó datos genómicos con rasgos físicos de ejemplares de museo. Los nombres reconocen dos linajes evolutivos de un grupo conocido de primates, con ejemplares recogidos años antes del estudio. [Fuente: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo distinguieron las especies"
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo comparó genomas de once especies y examinó ejemplares de museo en busca de rasgos distintivos. El artículo describe diferencias en el pelaje y en el hioides, un hueso que interviene en la vocalización. La imagen que acompaña este artículo es artística. Las identificaciones formales se apoyan en los ejemplares y la genética. [Fuente: www.salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+    },
+    {
+      "type": "heading",
+      "text": "Dónde viven ambos aulladores"
+    },
+    {
+      "type": "paragraph",
+      "text": "El aullador rojo del Pantepui, Alouatta iroi, se describe en el noroeste amazónico. El estudio sitúa el río Branco en su límite oriental y deja abierta la frontera norte. El aullador rojo de Mato Grosso, Alouatta matogrossensis, vive en el sur de la Amazonía brasileña, entre el Madeira y el Teles Pires. Los ríos pueden aislar poblaciones a escala evolutiva, aunque cada distribución requiere pruebas propias. [Fuente: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué es necesario evaluar su conservación"
+    },
+    {
+      "type": "paragraph",
+      "text": "La transformación y fragmentación del bosque amenazan el hábitat austral. Los autores piden una evaluación urgente del aullador de Mato Grosso y sugieren que podría cumplir los criterios de En Peligro Crítico. Es su estimación del riesgo a la espera de una evaluación formal. También señalan las infraestructuras y el cambio climático futuro en la región del aullador del Pantepui. [Fuente: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una especie recién reconocida puede tener un área mucho menor que el grupo en que se incluía. La pérdida local de bosque cobra así más peso y los equipos de conservación pueden evaluar mejor su situación. [Fuente: news.mongabay.com](https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/)"
+    },
+    {
+      "type": "heading",
+      "text": "Lectura relacionada"
+    },
+    {
+      "type": "paragraph",
+      "text": "[el aye-aye de Madagascar](/articles/aye-aye-madagascar-primate-tap-foraging/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.nature.com",
+      "url": "https://www.nature.com/articles/s42003-026-11187-8_reference.pdf"
+    },
+    {
+      "label": "Fuente: www.salford.ac.uk",
+      "url": "https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey"
+    },
+    {
+      "label": "Fuente: news.mongabay.com",
+      "url": "https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuáles son las dos especies nuevas?",
+      "answer": "Alouatta iroi y Alouatta matogrossensis."
+    },
+    {
+      "question": "¿En qué pruebas se basa la clasificación?",
+      "answer": "En datos genómicos y rasgos diagnósticos de ejemplares de museo."
+    }
+  ]
+}

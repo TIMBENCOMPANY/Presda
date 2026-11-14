@@ -1,0 +1,101 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/",
+  "path": "/fr/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-14",
+    "terminologyChecked": true
+  },
+  "title": "Trump, Xi et Poutine prévoient une rencontre à trois à Shenzhen",
+  "seoTitle": "Trump, Xi et Poutine prévoient une rencontre à trois à Shenzhen",
+  "description": "La Maison-Blanche a confirmé un projet de rencontre en marge de l’APEC. La réunion n’a pas encore eu lieu et aucun accord n’est attendu.",
+  "excerpt": "La Maison-Blanche a confirmé un projet de rencontre en marge de l’APEC. La réunion n’a pas encore eu lieu et aucun accord n’est attendu.",
+  "headlineHighlights": {
+    "red": "Trump, Xi et Poutine",
+    "gold": "Shenzhen"
+  },
+  "keywords": [
+    "Trump, Xi et Poutine",
+    "Shenzhen"
+  ],
+  "searchIntent": "La Maison-Blanche a confirmé un projet de rencontre en marge de l’APEC. La réunion n’a pas encore eu lieu et aucun accord n’est attendu.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "image": {
+    "src": "/articles/trump-xi-putin-shenzhen-trilateral-talks.jpg",
+    "alt": "Scène imaginée de Donald Trump, Xi Jinping et Vladimir Poutine devant leurs drapeaux",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Donald Trump, Xi Jinping et Vladimir Poutine prévoient de se réunir à Shenzhen le jeudi 19 novembre 2026 en marge du forum de coopération économique Asie-Pacifique, selon l’Associated Press, qui cite la Maison-Blanche. La rencontre n’a pas encore eu lieu. Un responsable américain a évoqué auprès d’AP une première discussion sur le désarmement nucléaire, sans annonce d’accord attendue. [Source: apnews.com](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi le nucléaire revient à l’ordre du jour"
+    },
+    {
+      "type": "paragraph",
+      "text": "En septembre, la Maison-Blanche disait déjà que Trump plaidait pour des discussions sur la maîtrise des armements avec la Russie et la Chine. New START, dernier traité nucléaire bilatéral entre Washington et Moscou, a expiré en février. Inclure Pékin ajouterait un troisième gouvernement à un processus longtemps organisé autour de deux arsenaux. Il resterait à convenir de ce qui serait compté et de la manière de vérifier les engagements. [Source: www.whitehouse.gov](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce qui reste à préciser"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters rapporte que les organisateurs n’avaient pas encore arrêté l’ordre du jour ni le format. Les trois gouvernements ont des intérêts et des arsenaux différents. Une première rencontre peut permettre d’évaluer les possibilités d’un suivi. Un calendrier, une déclaration commune ou un processus de négociation convenu constitueraient des étapes distinctes. [Source: www.investing.com](https://www.investing.com/news/world-news/analysisa-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting-5027297)"
+    },
+    {
+      "type": "heading",
+      "text": "La place de cette rencontre dans l’APEC"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’APEC prévoit sa réunion des dirigeants les 18 et 19 novembre et rassemble 21 économies autour de la coopération régionale. La rencontre à trois est prévue en marge de ce programme économique. Sa portée diplomatique tiendrait au contact direct entre les dirigeants en période de tensions. Il faudra attendre les comptes rendus officiels pour en évaluer les résultats. [Source: www.apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+    },
+    {
+      "type": "heading",
+      "text": "À lire également"
+    },
+    {
+      "type": "paragraph",
+      "text": "[l’accord de défense entre la Türkiye et le Qatar](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: apnews.com",
+      "url": "https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72"
+    },
+    {
+      "label": "Source: www.whitehouse.gov",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/"
+    },
+    {
+      "label": "Source: www.investing.com",
+      "url": "https://www.investing.com/news/world-news/analysisa-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting-5027297"
+    },
+    {
+      "label": "Source: www.apec.org",
+      "url": "https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters"
+    }
+  ],
+  "faq": [
+    {
+      "question": "La rencontre a-t-elle eu lieu ?",
+      "answer": "Non. Elle est prévue le 19 novembre à Shenzhen."
+    },
+    {
+      "question": "Un accord nucléaire est-il attendu ?",
+      "answer": "Un responsable américain a déclaré à AP qu’aucun accord ne devrait être annoncé."
+    }
+  ]
+}

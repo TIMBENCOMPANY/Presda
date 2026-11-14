@@ -1,0 +1,101 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/two-new-amazon-howler-monkey-species/",
+  "path": "/fr/articles/two-new-amazon-howler-monkey-species/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-14",
+    "terminologyChecked": true
+  },
+  "title": "Une étude génétique décrit deux nouvelles espèces de singes hurleurs d’Amazonie",
+  "seoTitle": "Une étude génétique décrit deux nouvelles espèces de singes hurleurs d’Amazonie",
+  "description": "Des analyses génomiques et des spécimens de musée ont permis de distinguer Alouatta iroi et Alouatta matogrossensis.",
+  "excerpt": "Des analyses génomiques et des spécimens de musée ont permis de distinguer Alouatta iroi et Alouatta matogrossensis.",
+  "headlineHighlights": {
+    "red": "étude génétique",
+    "gold": "singes hurleurs"
+  },
+  "keywords": [
+    "étude génétique",
+    "singes hurleurs"
+  ],
+  "searchIntent": "Des analyses génomiques et des spécimens de musée ont permis de distinguer Alouatta iroi et Alouatta matogrossensis.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "image": {
+    "src": "/articles/amazon-howler-monkey-species-tropical-forest.jpg",
+    "alt": "Illustration de deux singes hurleurs qui crient depuis une branche en forêt tropicale",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une étude de Communications Biology décrit officiellement deux singes hurleurs roux, Alouatta iroi et Alouatta matogrossensis. Les chercheurs ont combiné données génomiques et caractéristiques physiques de spécimens de musée. Ces noms reconnaissent deux lignées évolutives au sein d’un groupe de primates bien connu, dont certains spécimens avaient été collectés des années plus tôt. [Source: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment les chercheurs ont distingué les espèces"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’équipe a comparé les génomes de onze espèces et examiné des spécimens pour distinguer les lignées. L’article relève des différences de pelage et d’os hyoïde, qui intervient dans la vocalisation. L’illustration de cet article est une création artistique. Les diagnostics reposent sur les spécimens et les données génétiques. [Source: www.salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+    },
+    {
+      "type": "heading",
+      "text": "Où vivent les deux singes hurleurs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le hurleur roux du Pantepui, Alouatta iroi, est décrit dans le nord-ouest de l’Amazonie. Le Rio Branco borde sa répartition à l’est, tandis que la limite nord reste incertaine. Le hurleur roux du Mato Grosso, Alouatta matogrossensis, vit dans le sud de l’Amazonie brésilienne, entre le Madeira et le Teles Pires. Les fleuves peuvent isoler des populations au cours de l’évolution, mais chaque aire doit être établie séparément. [Source: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi évaluer leur état de conservation"
+    },
+    {
+      "type": "paragraph",
+      "text": "La conversion et la fragmentation des forêts menacent l’habitat dans le sud. Les auteurs demandent une évaluation urgente du hurleur du Mato Grosso, qui pourrait relever de la catégorie « en danger critique ». C’est une estimation du risque en attendant une évaluation officielle. Les infrastructures et le changement climatique futur préoccupent aussi les auteurs pour la région du hurleur du Pantepui. [Source: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une espèce nouvellement reconnue peut occuper une aire bien plus petite que le groupe auquel elle était rattachée. La perte locale de forêt pèse alors davantage sur sa survie et les équipes peuvent mieux cibler leur évaluation. [Source: news.mongabay.com](https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/)"
+    },
+    {
+      "type": "heading",
+      "text": "À lire également"
+    },
+    {
+      "type": "paragraph",
+      "text": "[l’aye-aye de Madagascar](/articles/aye-aye-madagascar-primate-tap-foraging/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.nature.com",
+      "url": "https://www.nature.com/articles/s42003-026-11187-8_reference.pdf"
+    },
+    {
+      "label": "Source: www.salford.ac.uk",
+      "url": "https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey"
+    },
+    {
+      "label": "Source: news.mongabay.com",
+      "url": "https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quelles sont les deux nouvelles espèces ?",
+      "answer": "Alouatta iroi et Alouatta matogrossensis."
+    },
+    {
+      "question": "Sur quelles preuves repose la classification ?",
+      "answer": "Sur des données génomiques et des caractères diagnostiques de spécimens de musée."
+    }
+  ]
+}

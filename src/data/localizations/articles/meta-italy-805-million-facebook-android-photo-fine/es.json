@@ -1,0 +1,101 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/meta-italy-805-million-facebook-android-photo-fine/",
+  "path": "/es/articles/meta-italy-805-million-facebook-android-photo-fine/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-14",
+    "terminologyChecked": true
+  },
+  "title": "Italia multa a Meta con 805 millones de euros por acceder a fotos de Android",
+  "seoTitle": "Italia multa a Meta con 805 millones de euros por acceder a fotos de Android",
+  "description": "El regulador italiano sostiene que Facebook accedió a fotos, vídeos y metadatos sin consentimiento específico. Dio a Meta 60 días para modificar la función.",
+  "excerpt": "El regulador italiano sostiene que Facebook accedió a fotos, vídeos y metadatos sin consentimiento específico. Dio a Meta 60 días para modificar la función.",
+  "headlineHighlights": {
+    "red": "Meta",
+    "gold": "805 millones de euros"
+  },
+  "keywords": [
+    "Meta",
+    "805 millones de euros"
+  ],
+  "searchIntent": "El regulador italiano sostiene que Facebook accedió a fotos, vídeos y metadatos sin consentimiento específico. Dio a Meta 60 días para modificar la función.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "image": {
+    "src": "/articles/meta-facebook-android-italy-photo-privacy-fine.jpg",
+    "alt": "Galería de Facebook en un teléfono Android junto a un aviso de sanción italiano ilustrado",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La autoridad italiana de protección de datos multó a Meta Platforms Ireland con 805 millones de euros el 14 de noviembre de 2026, unos 887 millones de dólares según Reuters. Sostiene que Facebook para Android accedía a fotos, vídeos y metadatos de usuarios italianos sin consentimiento específico ni información suficiente. Para calcular la sanción tuvo en cuenta a unos 20 millones de usuarios de Android en Italia. [Fuente: www.investing.com](https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo funcionaban las sugerencias de la galería"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introducida en 2023, la función recomendaba publicar elementos de la galería mientras se navegaba por Facebook. El regulador observó que la aplicación usaba un permiso amplio para distintas funciones, descrito en términos genéricos. Las sugerencias estaban activadas de forma predeterminada. Un permiso sin restricciones podía permitir la lectura continuada de toda la biblioteca sin mostrar qué archivos se usaban. [Fuente: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué intervino el regulador italiano"
+    },
+    {
+      "type": "paragraph",
+      "text": "La decisión aplica el artículo 122 del código italiano de privacidad, que incorpora la directiva europea ePrivacy. El Garante se centró en el acceso a información almacenada en el móvil. Rechazó el argumento de Meta para que Irlanda tramitara el caso, al señalar que ePrivacy carece de la ventanilla única de ciertos procedimientos transfronterizos del RGPD. [Fuente: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué debe cambiar Meta"
+    },
+    {
+      "type": "paragraph",
+      "text": "La autoridad dio a Meta 60 días para desactivar la función por defecto, solicitar un consentimiento separado y explicar cómo desactivarla. Debe informar de los primeros pasos en 30 días y de las medidas adoptadas en 90. El posible entrenamiento de IA quedó fuera de la decisión. Una función de procesamiento en la nube introducida en 2026 podría examinarse por separado. [Fuente: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación comenzó en julio de 2025 tras una denuncia de una organización de consumidores de Bolzano. El caso examina qué entendía el usuario sobre el uso del acceso concedido. La exigencia de consentimiento separado aborda ese problema. [Fuente: it.euronews.com](https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso)"
+    },
+    {
+      "type": "heading",
+      "text": "Lectura relacionada"
+    },
+    {
+      "type": "paragraph",
+      "text": "[la historia de Meta](/articles/mark-zuckerberg-facebook-meta-story/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329"
+    },
+    {
+      "label": "Fuente: www.garanteprivacy.it",
+      "url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+    },
+    {
+      "label": "Fuente: it.euronews.com",
+      "url": "https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuánto asciende la multa?",
+      "answer": "805 millones de euros, unos 887 millones de dólares según Reuters."
+    },
+    {
+      "question": "¿La decisión acreditó que Meta entrenó IA con las fotos?",
+      "answer": "Se centró en el acceso al dispositivo y el consentimiento. El entrenamiento quedó fuera del procedimiento."
+    }
+  ]
+}

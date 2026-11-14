@@ -1,0 +1,101 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/two-new-amazon-howler-monkey-species/",
+  "path": "/ar/articles/two-new-amazon-howler-monkey-species/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-14",
+    "terminologyChecked": true
+  },
+  "title": "دراسة جينية تصف نوعين جديدين من القرود العوّاءة في الأمازون",
+  "seoTitle": "دراسة جينية تصف نوعين جديدين من القرود العوّاءة في الأمازون",
+  "description": "ساعدت مقارنة الجينومات وفحص عينات المتاحف الباحثين على تمييز نوعي ألُواتا إيروي وألُواتا ماتوغروسنسيس.",
+  "excerpt": "ساعدت مقارنة الجينومات وفحص عينات المتاحف الباحثين على تمييز نوعي ألُواتا إيروي وألُواتا ماتوغروسنسيس.",
+  "headlineHighlights": {
+    "red": "دراسة جينية",
+    "gold": "القرود العوّاءة"
+  },
+  "keywords": [
+    "دراسة جينية",
+    "القرود العوّاءة"
+  ],
+  "searchIntent": "ساعدت مقارنة الجينومات وفحص عينات المتاحف الباحثين على تمييز نوعي ألُواتا إيروي وألُواتا ماتوغروسنسيس.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "image": {
+    "src": "/articles/amazon-howler-monkey-species-tropical-forest.jpg",
+    "alt": "رسم لقردين عوّاءين يطلقان نداءهما من غصن في غابة استوائية",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "وصفت دراسة في مجلة Communications Biology رسمياً نوعين من القرود العوّاءة الحمراء، هما Alouatta iroi وAlouatta matogrossensis. وجمع الباحثون بين أدلة على مستوى الجينوم وسمات جسدية لعينات متحفية. ويمنح الاسمان صفة النوع لسلالتين تطوريتين ضمن مجموعة مألوفة من الرئيسيات، استناداً جزئياً إلى عينات جُمعت قبل سنوات. [المصدر: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف ميّز الباحثون النوعين؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قارن الفريق جينومات 11 نوعاً وفحص عينات متحفية بحثاً عن سمات تميز السلالات. وتصف الورقة فروقاً في الفراء والعظم اللامي الذي يسهم في إصدار الأصوات. والصورة المرافقة عمل فني، أما تحديد النوعين فيستند إلى مقارنة العينات والأدلة الجينية. [المصدر: www.salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+    },
+    {
+      "type": "heading",
+      "text": "أين يعيش النوعان؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "وُصف قرد بانتيبوي العوّاء الأحمر Alouatta iroi في شمال غرب الأمازون. وتضع الدراسة نهر ريو برانكو عند حد نطاقه الشرقي، فيما يبقى الحد الشمالي غير واضح. ويعيش عوّاء ماتو غروسو الأحمر Alouatta matogrossensis في جنوب الأمازون البرازيلية، بين نهري ماديرا وتيليس بيريس. وقد تعزل الأنهار جماعات عبر الزمن التطوري، لكن تحديد كل نطاق يتطلب أدلته الخاصة. [المصدر: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "لماذا يلزم تقييم وضعهما؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يهدد تحويل الغابات وتجزئتها الموائل في النطاق الجنوبي. ويدعو المؤلفون إلى تقييم عاجل لوضع عوّاء ماتو غروسو ويرجحون أنه قد يستوفي معايير «مهدد بخطر انقراض أقصى». وهذا تقدير للمخاطر في انتظار تقييم رسمي. كما أشاروا إلى مخاطر البنية التحتية وتغير المناخ في منطقة عوّاء بانتيبوي. [المصدر: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يشغل النوع المعترف به حديثاً نطاقاً أصغر بكثير من المجموعة التي كان يُدرج ضمنها. وهذا يزيد أثر فقدان الغابات محلياً على بقائه ويتيح لفرق الحماية تقييماً أدق. [المصدر: news.mongabay.com](https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/)"
+    },
+    {
+      "type": "heading",
+      "text": "اقرأ أيضاً"
+    },
+    {
+      "type": "paragraph",
+      "text": "[قرد الآي آي في مدغشقر](/articles/aye-aye-madagascar-primate-tap-foraging/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: www.nature.com",
+      "url": "https://www.nature.com/articles/s42003-026-11187-8_reference.pdf"
+    },
+    {
+      "label": "المصدر: www.salford.ac.uk",
+      "url": "https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey"
+    },
+    {
+      "label": "المصدر: news.mongabay.com",
+      "url": "https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "ما النوعان الجديدان؟",
+      "answer": "Alouatta iroi وAlouatta matogrossensis."
+    },
+    {
+      "question": "ما أدلة التصنيف؟",
+      "answer": "جمع المؤلفون بين بيانات الجينوم وسمات تشخيصية في عينات متحفية."
+    }
+  ]
+}

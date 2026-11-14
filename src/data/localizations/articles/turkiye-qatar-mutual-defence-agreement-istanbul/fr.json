@@ -1,0 +1,97 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/turkiye-qatar-mutual-defence-agreement-istanbul/",
+  "path": "/fr/articles/turkiye-qatar-mutual-defence-agreement-istanbul/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-14",
+    "terminologyChecked": true
+  },
+  "title": "La Türkiye et le Qatar signent un accord de défense mutuelle à Istanbul",
+  "seoTitle": "La Türkiye et le Qatar signent un accord de défense mutuelle à Istanbul",
+  "description": "L’accord du 13 novembre prolonge des années de coopération. Un communiqué commun décrit une position unifiée face aux attaques armées extérieures.",
+  "excerpt": "L’accord du 13 novembre prolonge des années de coopération. Un communiqué commun décrit une position unifiée face aux attaques armées extérieures.",
+  "headlineHighlights": {
+    "red": "Türkiye et le Qatar",
+    "gold": "défense mutuelle"
+  },
+  "keywords": [
+    "Türkiye et le Qatar",
+    "défense mutuelle"
+  ],
+  "searchIntent": "L’accord du 13 novembre prolonge des années de coopération. Un communiqué commun décrit une position unifiée face aux attaques armées extérieures.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "image": {
+    "src": "/articles/turkiye-qatar-mutual-defence-agreement-signing.jpg",
+    "alt": "Scène de signature imaginée avec le président turc et l’émir du Qatar devant leurs drapeaux",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La Türkiye et le Qatar ont signé un accord de défense mutuelle à Istanbul le 13 novembre 2026. Le président turc Recep Tayyip Erdoğan et l’émir du Qatar, cheikh Tamim ben Hamad Al Thani, l’ont signé au palais de Dolmabahçe. Selon les deux gouvernements, le texte vise à renforcer la défense collective et à définir une position commune face à une attaque armée extérieure contre l’un des pays ou les deux. [Source: www.diwan.gov.qa](https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que les deux gouvernements ont annoncé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le communiqué commun confirme la signature et en expose l’objectif. Il ne précise pas la réponse à chaque crise éventuelle. Le texte public atteste un engagement à se coordonner en matière de défense. La portée exacte des obligations et les modalités de décision nécessitent le texte de l’accord ou des précisions officielles. [Source: www.mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+    },
+    {
+      "type": "subheading",
+      "text": "Comment l’accord s’inscrit dans le partenariat existant"
+    },
+    {
+      "type": "paragraph",
+      "text": "La signature est intervenue lors de la douzième session du Comité stratégique suprême, issu d’un accord de 2014. Les deux parties ont aussi échangé des textes sur l’éducation, la protection des consommateurs et la coopération en matière de paix et de règlement des conflits. L’accord de défense s’insère dans une relation plus large entretenue par des rencontres régulières au sommet. [Source: www.mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+    },
+    {
+      "type": "heading",
+      "text": "Le signal envoyé à la région"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le pacte donne à Ankara et Doha un cadre public pour resserrer leur coordination en matière de sécurité. Ses effets dépendront de sa mise en œuvre. Le communiqué appelle aussi à la désescalade par la diplomatie avec l’Iran, en parallèle de l’engagement de défense. [Source: www.aa.com.tr](https://www.aa.com.tr/en/politics/turkiye-qatar-reaffirm-defense-ties-call-for-diplomacy-on-iran/4124881)"
+    },
+    {
+      "type": "heading",
+      "text": "À lire également"
+    },
+    {
+      "type": "paragraph",
+      "text": "[la rencontre prévue à Shenzhen](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.diwan.gov.qa",
+      "url": "https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement"
+    },
+    {
+      "label": "Source: www.mfa.gov.tr",
+      "url": "https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa"
+    },
+    {
+      "label": "Source: www.aa.com.tr",
+      "url": "https://www.aa.com.tr/en/politics/turkiye-qatar-reaffirm-defense-ties-call-for-diplomacy-on-iran/4124881"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand et où l’accord a-t-il été signé ?",
+      "answer": "Le 13 novembre 2026, au palais de Dolmabahçe à Istanbul."
+    },
+    {
+      "question": "Quel est l’objectif annoncé ?",
+      "answer": "Le communiqué évoque une défense collective renforcée et une position commune face aux attaques armées extérieures."
+    }
+  ]
+}

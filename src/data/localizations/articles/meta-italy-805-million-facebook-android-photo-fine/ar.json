@@ -1,0 +1,101 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/meta-italy-805-million-facebook-android-photo-fine/",
+  "path": "/ar/articles/meta-italy-805-million-facebook-android-photo-fine/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-14",
+    "terminologyChecked": true
+  },
+  "title": "إيطاليا تغرّم ميتا 805 ملايين يورو بسبب وصول فيسبوك إلى صور أندرويد",
+  "seoTitle": "إيطاليا تغرّم ميتا 805 ملايين يورو بسبب وصول فيسبوك إلى صور أندرويد",
+  "description": "قالت هيئة الخصوصية الإيطالية إن فيسبوك وصل إلى صور وفيديوهات وبيانات وصفية من دون موافقة محددة، وأمهلت ميتا 60 يوماً لتعديل الميزة.",
+  "excerpt": "قالت هيئة الخصوصية الإيطالية إن فيسبوك وصل إلى صور وفيديوهات وبيانات وصفية من دون موافقة محددة، وأمهلت ميتا 60 يوماً لتعديل الميزة.",
+  "headlineHighlights": {
+    "red": "ميتا",
+    "gold": "805 ملايين يورو"
+  },
+  "keywords": [
+    "ميتا",
+    "805 ملايين يورو"
+  ],
+  "searchIntent": "قالت هيئة الخصوصية الإيطالية إن فيسبوك وصل إلى صور وفيديوهات وبيانات وصفية من دون موافقة محددة، وأمهلت ميتا 60 يوماً لتعديل الميزة.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "image": {
+    "src": "/articles/meta-facebook-android-italy-photo-privacy-fine.jpg",
+    "alt": "رسم لمعرض صور فيسبوك على هاتف أندرويد بجانب إشعار إيطالي تخيلي بالغرامة",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "فرضت هيئة حماية البيانات الإيطالية في 14 نوفمبر 2026 غرامة قدرها 805 ملايين يورو على ميتا بلاتفورمز أيرلندا، أي نحو 887 مليون دولار بحسب رويترز. وقالت إن تطبيق فيسبوك على أندرويد وصل إلى صور وفيديوهات وبياناتها الوصفية على أجهزة مستخدمين في إيطاليا من دون موافقة محددة أو إفصاح كافٍ. وأخذت الهيئة في حسابها نحو 20 مليون مستخدم لأندرويد في إيطاليا. [المصدر: www.investing.com](https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف عملت اقتراحات معرض الصور؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "ظهرت الميزة في 2023، وكانت تقترح أثناء تصفح فيسبوك نشر عناصر من معرض الهاتف. ووجدت الهيئة أن التطبيق طلب إذناً عاماً لوظائف متعددة وقدّم شرحاً مبهماً. وكانت الاقتراحات مفعّلة افتراضياً. وقالت الهيئة إن الإذن غير المقيّد قد يتيح قراءة مكتبة الصور كاملة باستمرار من دون توضيح الملفات المستخدمة فعلياً. [المصدر: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "subheading",
+      "text": "لماذا تولت الهيئة الإيطالية القضية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "استند القرار إلى المادة 122 من قانون الخصوصية الإيطالي التي تنفذ توجيه الخصوصية الإلكترونية الأوروبي. وركزت الهيئة على الوصول إلى معلومات مخزنة في الهاتف. ورفضت دفع ميتا بإحالة القضية إلى أيرلندا لأن قواعد الخصوصية الإلكترونية لا تتضمن آلية الشباك الواحد المعمول بها في بعض قضايا اللائحة العامة لحماية البيانات. [المصدر: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي يتعين على ميتا تغييره؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "أمهلت الهيئة ميتا 60 يوماً لتعطيل الميزة افتراضياً وطلب موافقة مستقلة وشرح كيفية إيقافها. وعلى الشركة الإبلاغ عن خطواتها الأولى خلال 30 يوماً وعن التدابير المتخذة خلال 90 يوماً. ولم يشمل القرار احتمال تدريب الذكاء الاصطناعي، وقد تخضع ميزة المعالجة السحابية التي ظهرت في 2026 لفحص منفصل. [المصدر: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "paragraph",
+      "text": "بدأ التحقيق في يوليو 2025 بعد بلاغ من جمعية للمستهلكين في بولتسانو. وتتناول القضية مدى فهم المستخدم لما سيفعله فيسبوك بالإذن الممنوح للتطبيق. ويعالج طلب الموافقة المستقلة هذه المسألة. [المصدر: it.euronews.com](https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso)"
+    },
+    {
+      "type": "heading",
+      "text": "اقرأ أيضاً"
+    },
+    {
+      "type": "paragraph",
+      "text": "[تاريخ شركة ميتا](/articles/mark-zuckerberg-facebook-meta-story/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: www.investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329"
+    },
+    {
+      "label": "المصدر: www.garanteprivacy.it",
+      "url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+    },
+    {
+      "label": "المصدر: it.euronews.com",
+      "url": "https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso"
+    }
+  ],
+  "faq": [
+    {
+      "question": "كم بلغت الغرامة؟",
+      "answer": "805 ملايين يورو، أي نحو 887 مليون دولار بحسب رويترز."
+    },
+    {
+      "question": "هل أثبت القرار تدريب الذكاء الاصطناعي على الصور؟",
+      "answer": "ركز القرار على الوصول إلى الجهاز والموافقة، ولم يفحص التدريب."
+    }
+  ]
+}

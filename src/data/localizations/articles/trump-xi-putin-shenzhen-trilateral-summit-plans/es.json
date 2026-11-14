@@ -1,0 +1,101 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/",
+  "path": "/es/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-14",
+    "terminologyChecked": true
+  },
+  "title": "Trump, Xi y Putin planean una reunión a tres en Shenzhen",
+  "seoTitle": "Trump, Xi y Putin planean una reunión a tres en Shenzhen",
+  "description": "La Casa Blanca confirmó planes para reunirse al margen de APEC. La cita aún no se ha celebrado y no se espera un acuerdo.",
+  "excerpt": "La Casa Blanca confirmó planes para reunirse al margen de APEC. La cita aún no se ha celebrado y no se espera un acuerdo.",
+  "headlineHighlights": {
+    "red": "Trump, Xi y Putin",
+    "gold": "Shenzhen"
+  },
+  "keywords": [
+    "Trump, Xi y Putin",
+    "Shenzhen"
+  ],
+  "searchIntent": "La Casa Blanca confirmó planes para reunirse al margen de APEC. La cita aún no se ha celebrado y no se espera un acuerdo.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "image": {
+    "src": "/articles/trump-xi-putin-shenzhen-trilateral-talks.jpg",
+    "alt": "Escena imaginada de Donald Trump, Xi Jinping y Vladímir Putin ante sus banderas",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Donald Trump, Xi Jinping y Vladímir Putin planean reunirse en Shenzhen el jueves 19 de noviembre de 2026 al margen del foro de Cooperación Económica Asia-Pacífico, según Associated Press, que citó la confirmación de la Casa Blanca. La reunión aún no se ha celebrado. Un funcionario estadounidense anticipó una primera conversación sobre desarme nuclear, sin anuncios de acuerdos. [Fuente: apnews.com](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué vuelve la diplomacia nuclear"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Casa Blanca ya señaló en septiembre que Trump defendía conversaciones de control de armas con Rusia y China. Nuevo START, el último tratado nuclear bilateral entre Washington y Moscú, expiró en febrero. Incorporar a Pekín añadiría un tercer gobierno a un proceso centrado en dos arsenales. Quedaría por acordar qué se contabilizaría y cómo verificar los compromisos. [Fuente: www.whitehouse.gov](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué queda por concretar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters informó de que los organizadores aún no habían cerrado la agenda ni el formato. Los tres gobiernos tienen intereses y arsenales distintos. Una primera reunión puede mostrar si existe terreno común para continuar. Un calendario, un comunicado conjunto o un proceso negociador acordado serían avances separados. [Fuente: www.investing.com](https://www.investing.com/news/world-news/analysisa-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting-5027297)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo encaja la cita en APEC"
+    },
+    {
+      "type": "paragraph",
+      "text": "APEC fija su reunión de líderes para el 18 y 19 de noviembre y reúne a 21 economías para tratar la cooperación regional. La conversación a tres se plantea al margen de ese programa económico. Su importancia diplomática radicaría en el contacto directo en un momento de tensión. Los balances oficiales permitirán evaluar el resultado después de la cita. [Fuente: www.apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+    },
+    {
+      "type": "heading",
+      "text": "Lectura relacionada"
+    },
+    {
+      "type": "paragraph",
+      "text": "[el acuerdo de defensa entre Turquía y Catar](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: apnews.com",
+      "url": "https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72"
+    },
+    {
+      "label": "Fuente: www.whitehouse.gov",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/"
+    },
+    {
+      "label": "Fuente: www.investing.com",
+      "url": "https://www.investing.com/news/world-news/analysisa-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting-5027297"
+    },
+    {
+      "label": "Fuente: www.apec.org",
+      "url": "https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Ya se celebró la reunión?",
+      "answer": "No. Está prevista para el 19 de noviembre en Shenzhen."
+    },
+    {
+      "question": "¿Se espera un acuerdo nuclear?",
+      "answer": "Un funcionario estadounidense dijo a AP que no se esperaba el anuncio de un acuerdo."
+    }
+  ]
+}

@@ -274911,6 +274911,309 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/meta-italy-805-million-facebook-android-photo-fine/",
+    "path": "/ar/articles/meta-italy-805-million-facebook-android-photo-fine/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "إيطاليا تغرّم ميتا 805 ملايين يورو بسبب وصول فيسبوك إلى صور أندرويد",
+    "seoTitle": "إيطاليا تغرّم ميتا 805 ملايين يورو بسبب وصول فيسبوك إلى صور أندرويد",
+    "description": "قالت هيئة الخصوصية الإيطالية إن فيسبوك وصل إلى صور وفيديوهات وبيانات وصفية من دون موافقة محددة، وأمهلت ميتا 60 يوماً لتعديل الميزة.",
+    "excerpt": "قالت هيئة الخصوصية الإيطالية إن فيسبوك وصل إلى صور وفيديوهات وبيانات وصفية من دون موافقة محددة، وأمهلت ميتا 60 يوماً لتعديل الميزة.",
+    "headlineHighlights": {
+      "red": "ميتا",
+      "gold": "805 ملايين يورو"
+    },
+    "keywords": [
+      "ميتا",
+      "805 ملايين يورو"
+    ],
+    "searchIntent": "قالت هيئة الخصوصية الإيطالية إن فيسبوك وصل إلى صور وفيديوهات وبيانات وصفية من دون موافقة محددة، وأمهلت ميتا 60 يوماً لتعديل الميزة.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/meta-facebook-android-italy-photo-privacy-fine.jpg",
+      "alt": "رسم لمعرض صور فيسبوك على هاتف أندرويد بجانب إشعار إيطالي تخيلي بالغرامة",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "فرضت هيئة حماية البيانات الإيطالية في 14 نوفمبر 2026 غرامة قدرها 805 ملايين يورو على ميتا بلاتفورمز أيرلندا، أي نحو 887 مليون دولار بحسب رويترز. وقالت إن تطبيق فيسبوك على أندرويد وصل إلى صور وفيديوهات وبياناتها الوصفية على أجهزة مستخدمين في إيطاليا من دون موافقة محددة أو إفصاح كافٍ. وأخذت الهيئة في حسابها نحو 20 مليون مستخدم لأندرويد في إيطاليا. [المصدر: www.investing.com](https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف عملت اقتراحات معرض الصور؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ظهرت الميزة في 2023، وكانت تقترح أثناء تصفح فيسبوك نشر عناصر من معرض الهاتف. ووجدت الهيئة أن التطبيق طلب إذناً عاماً لوظائف متعددة وقدّم شرحاً مبهماً. وكانت الاقتراحات مفعّلة افتراضياً. وقالت الهيئة إن الإذن غير المقيّد قد يتيح قراءة مكتبة الصور كاملة باستمرار من دون توضيح الملفات المستخدمة فعلياً. [المصدر: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا تولت الهيئة الإيطالية القضية؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "استند القرار إلى المادة 122 من قانون الخصوصية الإيطالي التي تنفذ توجيه الخصوصية الإلكترونية الأوروبي. وركزت الهيئة على الوصول إلى معلومات مخزنة في الهاتف. ورفضت دفع ميتا بإحالة القضية إلى أيرلندا لأن قواعد الخصوصية الإلكترونية لا تتضمن آلية الشباك الواحد المعمول بها في بعض قضايا اللائحة العامة لحماية البيانات. [المصدر: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي يتعين على ميتا تغييره؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "أمهلت الهيئة ميتا 60 يوماً لتعطيل الميزة افتراضياً وطلب موافقة مستقلة وشرح كيفية إيقافها. وعلى الشركة الإبلاغ عن خطواتها الأولى خلال 30 يوماً وعن التدابير المتخذة خلال 90 يوماً. ولم يشمل القرار احتمال تدريب الذكاء الاصطناعي، وقد تخضع ميزة المعالجة السحابية التي ظهرت في 2026 لفحص منفصل. [المصدر: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "paragraph",
+        "text": "بدأ التحقيق في يوليو 2025 بعد بلاغ من جمعية للمستهلكين في بولتسانو. وتتناول القضية مدى فهم المستخدم لما سيفعله فيسبوك بالإذن الممنوح للتطبيق. ويعالج طلب الموافقة المستقلة هذه المسألة. [المصدر: it.euronews.com](https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso)"
+      },
+      {
+        "type": "heading",
+        "text": "اقرأ أيضاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "[تاريخ شركة ميتا](/articles/mark-zuckerberg-facebook-meta-story/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329"
+      },
+      {
+        "label": "المصدر: www.garanteprivacy.it",
+        "url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+      },
+      {
+        "label": "المصدر: it.euronews.com",
+        "url": "https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso"
+      }
+    ],
+    "faq": [
+      {
+        "question": "كم بلغت الغرامة؟",
+        "answer": "805 ملايين يورو، أي نحو 887 مليون دولار بحسب رويترز."
+      },
+      {
+        "question": "هل أثبت القرار تدريب الذكاء الاصطناعي على الصور؟",
+        "answer": "ركز القرار على الوصول إلى الجهاز والموافقة، ولم يفحص التدريب."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/meta-italy-805-million-facebook-android-photo-fine/",
+    "path": "/es/articles/meta-italy-805-million-facebook-android-photo-fine/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "Italia multa a Meta con 805 millones de euros por acceder a fotos de Android",
+    "seoTitle": "Italia multa a Meta con 805 millones de euros por acceder a fotos de Android",
+    "description": "El regulador italiano sostiene que Facebook accedió a fotos, vídeos y metadatos sin consentimiento específico. Dio a Meta 60 días para modificar la función.",
+    "excerpt": "El regulador italiano sostiene que Facebook accedió a fotos, vídeos y metadatos sin consentimiento específico. Dio a Meta 60 días para modificar la función.",
+    "headlineHighlights": {
+      "red": "Meta",
+      "gold": "805 millones de euros"
+    },
+    "keywords": [
+      "Meta",
+      "805 millones de euros"
+    ],
+    "searchIntent": "El regulador italiano sostiene que Facebook accedió a fotos, vídeos y metadatos sin consentimiento específico. Dio a Meta 60 días para modificar la función.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/meta-facebook-android-italy-photo-privacy-fine.jpg",
+      "alt": "Galería de Facebook en un teléfono Android junto a un aviso de sanción italiano ilustrado",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La autoridad italiana de protección de datos multó a Meta Platforms Ireland con 805 millones de euros el 14 de noviembre de 2026, unos 887 millones de dólares según Reuters. Sostiene que Facebook para Android accedía a fotos, vídeos y metadatos de usuarios italianos sin consentimiento específico ni información suficiente. Para calcular la sanción tuvo en cuenta a unos 20 millones de usuarios de Android en Italia. [Fuente: www.investing.com](https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329)"
+      },
+      {
+        "type": "heading",
+        "text": "Cómo funcionaban las sugerencias de la galería"
+      },
+      {
+        "type": "paragraph",
+        "text": "Introducida en 2023, la función recomendaba publicar elementos de la galería mientras se navegaba por Facebook. El regulador observó que la aplicación usaba un permiso amplio para distintas funciones, descrito en términos genéricos. Las sugerencias estaban activadas de forma predeterminada. Un permiso sin restricciones podía permitir la lectura continuada de toda la biblioteca sin mostrar qué archivos se usaban. [Fuente: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué intervino el regulador italiano"
+      },
+      {
+        "type": "paragraph",
+        "text": "La decisión aplica el artículo 122 del código italiano de privacidad, que incorpora la directiva europea ePrivacy. El Garante se centró en el acceso a información almacenada en el móvil. Rechazó el argumento de Meta para que Irlanda tramitara el caso, al señalar que ePrivacy carece de la ventanilla única de ciertos procedimientos transfronterizos del RGPD. [Fuente: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué debe cambiar Meta"
+      },
+      {
+        "type": "paragraph",
+        "text": "La autoridad dio a Meta 60 días para desactivar la función por defecto, solicitar un consentimiento separado y explicar cómo desactivarla. Debe informar de los primeros pasos en 30 días y de las medidas adoptadas en 90. El posible entrenamiento de IA quedó fuera de la decisión. Una función de procesamiento en la nube introducida en 2026 podría examinarse por separado. [Fuente: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación comenzó en julio de 2025 tras una denuncia de una organización de consumidores de Bolzano. El caso examina qué entendía el usuario sobre el uso del acceso concedido. La exigencia de consentimiento separado aborda ese problema. [Fuente: it.euronews.com](https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso)"
+      },
+      {
+        "type": "heading",
+        "text": "Lectura relacionada"
+      },
+      {
+        "type": "paragraph",
+        "text": "[la historia de Meta](/articles/mark-zuckerberg-facebook-meta-story/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329"
+      },
+      {
+        "label": "Fuente: www.garanteprivacy.it",
+        "url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+      },
+      {
+        "label": "Fuente: it.euronews.com",
+        "url": "https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Cuánto asciende la multa?",
+        "answer": "805 millones de euros, unos 887 millones de dólares según Reuters."
+      },
+      {
+        "question": "¿La decisión acreditó que Meta entrenó IA con las fotos?",
+        "answer": "Se centró en el acceso al dispositivo y el consentimiento. El entrenamiento quedó fuera del procedimiento."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/meta-italy-805-million-facebook-android-photo-fine/",
+    "path": "/fr/articles/meta-italy-805-million-facebook-android-photo-fine/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "L’Italie inflige à Meta une amende de 805 millions d’euros pour l’accès aux photos Android",
+    "seoTitle": "L’Italie inflige à Meta une amende de 805 millions d’euros pour l’accès aux photos Android",
+    "description": "Le régulateur italien reproche à Facebook d’avoir accédé à des photos, vidéos et métadonnées sans consentement spécifique. Il exige des changements sous 60 jours.",
+    "excerpt": "Le régulateur italien reproche à Facebook d’avoir accédé à des photos, vidéos et métadonnées sans consentement spécifique. Il exige des changements sous 60 jours.",
+    "headlineHighlights": {
+      "red": "Meta",
+      "gold": "805 millions d’euros"
+    },
+    "keywords": [
+      "Meta",
+      "805 millions d’euros"
+    ],
+    "searchIntent": "Le régulateur italien reproche à Facebook d’avoir accédé à des photos, vidéos et métadonnées sans consentement spécifique. Il exige des changements sous 60 jours.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/meta-facebook-android-italy-photo-privacy-fine.jpg",
+      "alt": "Galerie Facebook sur un téléphone Android près d’un avis de sanction italien stylisé",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Le 14 novembre 2026, l’autorité italienne de protection des données a infligé une amende de 805 millions d’euros à Meta Platforms Ireland, soit environ 887 millions de dollars selon Reuters. Elle estime que l’application Android de Facebook accédait aux photos, vidéos et métadonnées des utilisateurs italiens sans consentement spécifique ni information adéquate. Environ 20 millions d’utilisateurs Android en Italie ont été pris en compte dans le calcul de la sanction. [Source: www.investing.com](https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment fonctionnaient les suggestions de la galerie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lancée en 2023, la fonction suggérait de publier des éléments de la galerie pendant la navigation sur Facebook. L’autorité a constaté que l’application utilisait une permission générale pour plusieurs usages, accompagnée d’un message vague. Les suggestions étaient activées par défaut. Selon l’autorité, une autorisation sans restriction pouvait donner un accès durable à toute la bibliothèque, sans indiquer quels fichiers étaient utilisés. [Source: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "subheading",
+        "text": "Pourquoi le régulateur italien est intervenu"
+      },
+      {
+        "type": "paragraph",
+        "text": "La décision applique l’article 122 du code italien de la vie privée, qui transpose la directive européenne ePrivacy. Le Garante s’est concentré sur l’accès aux données stockées dans le téléphone. Il a rejeté l’argument de Meta en faveur d’un traitement en Irlande, la directive ne prévoyant pas le guichet unique applicable à certains dossiers transfrontaliers du RGPD. [Source: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "heading",
+        "text": "Les changements exigés de Meta"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’autorité accorde 60 jours à Meta pour désactiver la fonction par défaut, demander un consentement distinct et expliquer comment la désactiver. L’entreprise doit signaler ses premières démarches sous 30 jours et les mesures prises sous 90 jours. L’entraînement éventuel d’IA est hors du champ de cette décision, et la fonction de traitement dans le cloud introduite en 2026 pourrait faire l’objet d’un examen séparé. [Source: www.garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’enquête a débuté en juillet 2025 après un signalement d’une association de consommateurs de Bolzano. Le dossier porte sur ce que les utilisateurs comprenaient de l’accès déjà accordé. Le consentement séparé doit répondre à ce problème. [Source: it.euronews.com](https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso)"
+      },
+      {
+        "type": "heading",
+        "text": "À lire également"
+      },
+      {
+        "type": "paragraph",
+        "text": "[l’histoire de Meta](/articles/mark-zuckerberg-facebook-meta-story/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329"
+      },
+      {
+        "label": "Source: www.garanteprivacy.it",
+        "url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+      },
+      {
+        "label": "Source: it.euronews.com",
+        "url": "https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quel est le montant de l’amende ?",
+        "answer": "805 millions d’euros, soit environ 887 millions de dollars selon Reuters."
+      },
+      {
+        "question": "La décision établit-elle un entraînement d’IA sur les photos ?",
+        "answer": "Elle porte sur l’accès au téléphone et le consentement. Elle n’examine pas l’entraînement d’IA."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/meta-ray-ban-privacy-europe/",
     "path": "/ar/articles/meta-ray-ban-privacy-europe/",
     "kind": "article",
@@ -407229,6 +407532,309 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/",
+    "path": "/ar/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "ترامب وشي وبوتين يعتزمون عقد لقاء ثلاثي في شنجن",
+    "seoTitle": "ترامب وشي وبوتين يعتزمون عقد لقاء ثلاثي في شنجن",
+    "description": "أكد البيت الأبيض التخطيط للقاء على هامش منتدى أبيك. ولم يُعقد الاجتماع بعد، ولا يتوقع إعلان اتفاق.",
+    "excerpt": "أكد البيت الأبيض التخطيط للقاء على هامش منتدى أبيك. ولم يُعقد الاجتماع بعد، ولا يتوقع إعلان اتفاق.",
+    "headlineHighlights": {
+      "red": "ترامب وشي وبوتين",
+      "gold": "شنجن"
+    },
+    "keywords": [
+      "ترامب وشي وبوتين",
+      "شنجن"
+    ],
+    "searchIntent": "أكد البيت الأبيض التخطيط للقاء على هامش منتدى أبيك. ولم يُعقد الاجتماع بعد، ولا يتوقع إعلان اتفاق.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/trump-xi-putin-shenzhen-trilateral-talks.jpg",
+      "alt": "مشهد تخيلي لدونالد ترامب وشي جين بينغ وفلاديمير بوتين أمام أعلام بلدانهم",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "يعتزم دونالد ترامب وشي جين بينغ وفلاديمير بوتين الاجتماع في شنجن يوم الخميس 19 نوفمبر 2026 على هامش منتدى التعاون الاقتصادي لآسيا والمحيط الهادئ، بحسب أسوشيتد برس نقلاً عن البيت الأبيض. ولم يُعقد اللقاء بعد. وقال مسؤول أميركي للوكالة إن المتوقع بدء حوار بشأن نزع السلاح النووي من دون إعلان اتفاق. [المصدر: apnews.com](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72)"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا عاد الملف النووي إلى الواجهة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "كان البيت الأبيض قد قال في سبتمبر إن ترامب دعا إلى محادثات للحد من التسلح تشمل روسيا والصين. وانتهت في فبراير معاهدة نيو ستارت، آخر معاهدة نووية ثنائية بين واشنطن وموسكو. وستضيف مشاركة بكين طرفاً ثالثاً إلى مسار قام على ترسانتين. وسيظل الاتفاق على ما يُحصى وكيفية التحقق من الالتزامات عملاً منفصلاً. [المصدر: www.whitehouse.gov](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/)"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي لم يُحسم بعد؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "أفادت رويترز بأن المنظمين لم يحسموا جدول الأعمال أو صيغة اللقاء. وتختلف مصالح الحكومات الثلاث وحجم ترساناتها. وقد تكشف المحادثة الأولى ما إذا كانت هناك أرضية لمتابعتها. وسيشكل كل من إعلان جدول زمني أو بيان مشترك أو مسار تفاوضي متفق عليه تطوراً مستقلاً. [المصدر: www.investing.com](https://www.investing.com/news/world-news/analysisa-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting-5027297)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف يرتبط اللقاء بمنتدى أبيك؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "حدد منتدى أبيك يومي 18 و19 نوفمبر لاجتماع القادة، ويضم 21 اقتصاداً يناقش التعاون الإقليمي. ومن المقرر أن يجري اللقاء الثلاثي على هامش هذا البرنامج الاقتصادي. وتنبع أهميته الدبلوماسية من التواصل المباشر بين القادة في ظل التوتر. ويعتمد تقييم نتائجه على ما ستعلنه الحكومات بعد اللقاء. [المصدر: www.apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+      },
+      {
+        "type": "heading",
+        "text": "اقرأ أيضاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "[اتفاق الدفاع بين تركيا وقطر](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: apnews.com",
+        "url": "https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72"
+      },
+      {
+        "label": "المصدر: www.whitehouse.gov",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/"
+      },
+      {
+        "label": "المصدر: www.investing.com",
+        "url": "https://www.investing.com/news/world-news/analysisa-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting-5027297"
+      },
+      {
+        "label": "المصدر: www.apec.org",
+        "url": "https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل عُقد اللقاء؟",
+        "answer": "لا. اللقاء مقرر في 19 نوفمبر في شنجن."
+      },
+      {
+        "question": "هل يتوقع إعلان اتفاق نووي؟",
+        "answer": "قال مسؤول أميركي لأسوشيتد برس إن إعلان اتفاق غير متوقع."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/",
+    "path": "/es/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "Trump, Xi y Putin planean una reunión a tres en Shenzhen",
+    "seoTitle": "Trump, Xi y Putin planean una reunión a tres en Shenzhen",
+    "description": "La Casa Blanca confirmó planes para reunirse al margen de APEC. La cita aún no se ha celebrado y no se espera un acuerdo.",
+    "excerpt": "La Casa Blanca confirmó planes para reunirse al margen de APEC. La cita aún no se ha celebrado y no se espera un acuerdo.",
+    "headlineHighlights": {
+      "red": "Trump, Xi y Putin",
+      "gold": "Shenzhen"
+    },
+    "keywords": [
+      "Trump, Xi y Putin",
+      "Shenzhen"
+    ],
+    "searchIntent": "La Casa Blanca confirmó planes para reunirse al margen de APEC. La cita aún no se ha celebrado y no se espera un acuerdo.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/trump-xi-putin-shenzhen-trilateral-talks.jpg",
+      "alt": "Escena imaginada de Donald Trump, Xi Jinping y Vladímir Putin ante sus banderas",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Donald Trump, Xi Jinping y Vladímir Putin planean reunirse en Shenzhen el jueves 19 de noviembre de 2026 al margen del foro de Cooperación Económica Asia-Pacífico, según Associated Press, que citó la confirmación de la Casa Blanca. La reunión aún no se ha celebrado. Un funcionario estadounidense anticipó una primera conversación sobre desarme nuclear, sin anuncios de acuerdos. [Fuente: apnews.com](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72)"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué vuelve la diplomacia nuclear"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Casa Blanca ya señaló en septiembre que Trump defendía conversaciones de control de armas con Rusia y China. Nuevo START, el último tratado nuclear bilateral entre Washington y Moscú, expiró en febrero. Incorporar a Pekín añadiría un tercer gobierno a un proceso centrado en dos arsenales. Quedaría por acordar qué se contabilizaría y cómo verificar los compromisos. [Fuente: www.whitehouse.gov](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué queda por concretar"
+      },
+      {
+        "type": "paragraph",
+        "text": "Reuters informó de que los organizadores aún no habían cerrado la agenda ni el formato. Los tres gobiernos tienen intereses y arsenales distintos. Una primera reunión puede mostrar si existe terreno común para continuar. Un calendario, un comunicado conjunto o un proceso negociador acordado serían avances separados. [Fuente: www.investing.com](https://www.investing.com/news/world-news/analysisa-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting-5027297)"
+      },
+      {
+        "type": "heading",
+        "text": "Cómo encaja la cita en APEC"
+      },
+      {
+        "type": "paragraph",
+        "text": "APEC fija su reunión de líderes para el 18 y 19 de noviembre y reúne a 21 economías para tratar la cooperación regional. La conversación a tres se plantea al margen de ese programa económico. Su importancia diplomática radicaría en el contacto directo en un momento de tensión. Los balances oficiales permitirán evaluar el resultado después de la cita. [Fuente: www.apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+      },
+      {
+        "type": "heading",
+        "text": "Lectura relacionada"
+      },
+      {
+        "type": "paragraph",
+        "text": "[el acuerdo de defensa entre Turquía y Catar](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: apnews.com",
+        "url": "https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72"
+      },
+      {
+        "label": "Fuente: www.whitehouse.gov",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/"
+      },
+      {
+        "label": "Fuente: www.investing.com",
+        "url": "https://www.investing.com/news/world-news/analysisa-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting-5027297"
+      },
+      {
+        "label": "Fuente: www.apec.org",
+        "url": "https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Ya se celebró la reunión?",
+        "answer": "No. Está prevista para el 19 de noviembre en Shenzhen."
+      },
+      {
+        "question": "¿Se espera un acuerdo nuclear?",
+        "answer": "Un funcionario estadounidense dijo a AP que no se esperaba el anuncio de un acuerdo."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/",
+    "path": "/fr/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "Trump, Xi et Poutine prévoient une rencontre à trois à Shenzhen",
+    "seoTitle": "Trump, Xi et Poutine prévoient une rencontre à trois à Shenzhen",
+    "description": "La Maison-Blanche a confirmé un projet de rencontre en marge de l’APEC. La réunion n’a pas encore eu lieu et aucun accord n’est attendu.",
+    "excerpt": "La Maison-Blanche a confirmé un projet de rencontre en marge de l’APEC. La réunion n’a pas encore eu lieu et aucun accord n’est attendu.",
+    "headlineHighlights": {
+      "red": "Trump, Xi et Poutine",
+      "gold": "Shenzhen"
+    },
+    "keywords": [
+      "Trump, Xi et Poutine",
+      "Shenzhen"
+    ],
+    "searchIntent": "La Maison-Blanche a confirmé un projet de rencontre en marge de l’APEC. La réunion n’a pas encore eu lieu et aucun accord n’est attendu.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/trump-xi-putin-shenzhen-trilateral-talks.jpg",
+      "alt": "Scène imaginée de Donald Trump, Xi Jinping et Vladimir Poutine devant leurs drapeaux",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Donald Trump, Xi Jinping et Vladimir Poutine prévoient de se réunir à Shenzhen le jeudi 19 novembre 2026 en marge du forum de coopération économique Asie-Pacifique, selon l’Associated Press, qui cite la Maison-Blanche. La rencontre n’a pas encore eu lieu. Un responsable américain a évoqué auprès d’AP une première discussion sur le désarmement nucléaire, sans annonce d’accord attendue. [Source: apnews.com](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72)"
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi le nucléaire revient à l’ordre du jour"
+      },
+      {
+        "type": "paragraph",
+        "text": "En septembre, la Maison-Blanche disait déjà que Trump plaidait pour des discussions sur la maîtrise des armements avec la Russie et la Chine. New START, dernier traité nucléaire bilatéral entre Washington et Moscou, a expiré en février. Inclure Pékin ajouterait un troisième gouvernement à un processus longtemps organisé autour de deux arsenaux. Il resterait à convenir de ce qui serait compté et de la manière de vérifier les engagements. [Source: www.whitehouse.gov](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce qui reste à préciser"
+      },
+      {
+        "type": "paragraph",
+        "text": "Reuters rapporte que les organisateurs n’avaient pas encore arrêté l’ordre du jour ni le format. Les trois gouvernements ont des intérêts et des arsenaux différents. Une première rencontre peut permettre d’évaluer les possibilités d’un suivi. Un calendrier, une déclaration commune ou un processus de négociation convenu constitueraient des étapes distinctes. [Source: www.investing.com](https://www.investing.com/news/world-news/analysisa-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting-5027297)"
+      },
+      {
+        "type": "heading",
+        "text": "La place de cette rencontre dans l’APEC"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’APEC prévoit sa réunion des dirigeants les 18 et 19 novembre et rassemble 21 économies autour de la coopération régionale. La rencontre à trois est prévue en marge de ce programme économique. Sa portée diplomatique tiendrait au contact direct entre les dirigeants en période de tensions. Il faudra attendre les comptes rendus officiels pour en évaluer les résultats. [Source: www.apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+      },
+      {
+        "type": "heading",
+        "text": "À lire également"
+      },
+      {
+        "type": "paragraph",
+        "text": "[l’accord de défense entre la Türkiye et le Qatar](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: apnews.com",
+        "url": "https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72"
+      },
+      {
+        "label": "Source: www.whitehouse.gov",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/"
+      },
+      {
+        "label": "Source: www.investing.com",
+        "url": "https://www.investing.com/news/world-news/analysisa-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting-5027297"
+      },
+      {
+        "label": "Source: www.apec.org",
+        "url": "https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters"
+      }
+    ],
+    "faq": [
+      {
+        "question": "La rencontre a-t-elle eu lieu ?",
+        "answer": "Non. Elle est prévue le 19 novembre à Shenzhen."
+      },
+      {
+        "question": "Un accord nucléaire est-il attendu ?",
+        "answer": "Un responsable américain a déclaré à AP qu’aucun accord ne devrait être annoncé."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/tunisia-protests-police-clashes-october-2026/",
     "path": "/ar/articles/tunisia-protests-police-clashes-october-2026/",
     "kind": "article",
@@ -407676,6 +408282,600 @@
       }
     ],
     "faq": []
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/turkiye-qatar-mutual-defence-agreement-istanbul/",
+    "path": "/ar/articles/turkiye-qatar-mutual-defence-agreement-istanbul/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "تركيا وقطر توقعان اتفاقية دفاع مشترك في إسطنبول",
+    "seoTitle": "تركيا وقطر توقعان اتفاقية دفاع مشترك في إسطنبول",
+    "description": "يبني اتفاق 13 نوفمبر على سنوات من التعاون الأمني. ويحدد بيان مشترك موقفاً موحداً إزاء الاعتداءات المسلحة الخارجية.",
+    "excerpt": "يبني اتفاق 13 نوفمبر على سنوات من التعاون الأمني. ويحدد بيان مشترك موقفاً موحداً إزاء الاعتداءات المسلحة الخارجية.",
+    "headlineHighlights": {
+      "red": "تركيا وقطر",
+      "gold": "دفاع مشترك"
+    },
+    "keywords": [
+      "تركيا وقطر",
+      "دفاع مشترك"
+    ],
+    "searchIntent": "يبني اتفاق 13 نوفمبر على سنوات من التعاون الأمني. ويحدد بيان مشترك موقفاً موحداً إزاء الاعتداءات المسلحة الخارجية.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/turkiye-qatar-mutual-defence-agreement-signing.jpg",
+      "alt": "مشهد تخيلي للرئيس التركي وأمير قطر أثناء التوقيع أمام علمي البلدين",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "وقعت تركيا وقطر اتفاقية دفاع مشترك في إسطنبول في 13 نوفمبر 2026. ووقعها الرئيس التركي رجب طيب أردوغان وأمير قطر الشيخ تميم بن حمد آل ثاني في قصر دولما بهتشه. وقال البلدان إن الاتفاق يهدف إلى تعزيز الدفاع الجماعي وتوحيد الموقف إزاء اعتداء مسلح خارجي يستهدف أحدهما أو كليهما. [المصدر: www.diwan.gov.qa](https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا أعلنت الحكومتان؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يوثق البيان المشترك التوقيع ويعرض الهدف منه. ولا يفصل الاستجابة لكل أزمة محتملة. ويؤكد النص المنشور الالتزام بالتنسيق الدفاعي، فيما يتطلب تحديد نطاق الالتزامات وآلية اتخاذ القرارات الاطلاع على الاتفاقية أو توضيحات رسمية إضافية. [المصدر: www.mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "subheading",
+        "text": "كيف يندرج الاتفاق ضمن الشراكة القائمة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "جاء التوقيع خلال الدورة الثانية عشرة للجنة الاستراتيجية العليا التي تعود إلى اتفاق عام 2014. وتبادل الطرفان أيضاً اتفاقيات ومذكرات بشأن التعليم وحماية المستهلك والتعاون في السلام وتسوية النزاعات. ويشكل اتفاق الدفاع جزءاً من علاقة أوسع تديرها اجتماعات دورية على مستوى رفيع. [المصدر: www.mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "heading",
+        "text": "ما دلالة الاتفاق إقليمياً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمنح الاتفاق أنقرة والدوحة إطاراً معلناً لتعزيز التنسيق الأمني. وتتوقف نتائجه العملية على طريقة تنفيذه. كما دعا البيان إلى خفض التصعيد عبر الدبلوماسية مع إيران، إلى جانب الالتزام الدفاعي. [المصدر: www.aa.com.tr](https://www.aa.com.tr/en/politics/turkiye-qatar-reaffirm-defense-ties-call-for-diplomacy-on-iran/4124881)"
+      },
+      {
+        "type": "heading",
+        "text": "اقرأ أيضاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "[لقاء القادة المرتقب في شنجن](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.diwan.gov.qa",
+        "url": "https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement"
+      },
+      {
+        "label": "المصدر: www.mfa.gov.tr",
+        "url": "https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa"
+      },
+      {
+        "label": "المصدر: www.aa.com.tr",
+        "url": "https://www.aa.com.tr/en/politics/turkiye-qatar-reaffirm-defense-ties-call-for-diplomacy-on-iran/4124881"
+      }
+    ],
+    "faq": [
+      {
+        "question": "متى وأين وُقعت الاتفاقية؟",
+        "answer": "في 13 نوفمبر 2026 بقصر دولما بهتشه في إسطنبول."
+      },
+      {
+        "question": "ما الهدف المعلن للاتفاقية؟",
+        "answer": "تعزيز الدفاع الجماعي وتوحيد الموقف إزاء الاعتداءات المسلحة الخارجية، وفق البيان."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/turkiye-qatar-mutual-defence-agreement-istanbul/",
+    "path": "/es/articles/turkiye-qatar-mutual-defence-agreement-istanbul/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "Turquía y Catar firman un acuerdo de defensa mutua en Estambul",
+    "seoTitle": "Turquía y Catar firman un acuerdo de defensa mutua en Estambul",
+    "description": "El acuerdo del 13 de noviembre amplía años de cooperación. Un comunicado conjunto describe una postura común ante ataques armados externos.",
+    "excerpt": "El acuerdo del 13 de noviembre amplía años de cooperación. Un comunicado conjunto describe una postura común ante ataques armados externos.",
+    "headlineHighlights": {
+      "red": "Turquía y Catar",
+      "gold": "defensa mutua"
+    },
+    "keywords": [
+      "Turquía y Catar",
+      "defensa mutua"
+    ],
+    "searchIntent": "El acuerdo del 13 de noviembre amplía años de cooperación. Un comunicado conjunto describe una postura común ante ataques armados externos.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/turkiye-qatar-mutual-defence-agreement-signing.jpg",
+      "alt": "Escena imaginada del presidente turco y el emir catarí firmando ante sus banderas",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Turquía y Catar firmaron un acuerdo de defensa mutua en Estambul el 13 de noviembre de 2026. El presidente turco, Recep Tayyip Erdoğan, y el emir catarí, el jeque Tamim bin Hamad Al Thani, lo firmaron en el palacio de Dolmabahçe. Ambos gobiernos lo presentaron como un instrumento para fortalecer la defensa colectiva y fijar una postura común ante ataques armados externos contra uno de los países o ambos. [Fuente: www.diwan.gov.qa](https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué anunciaron ambos gobiernos"
+      },
+      {
+        "type": "paragraph",
+        "text": "El comunicado conjunto confirma la firma y explica su objetivo. No detalla las respuestas para todas las crisis posibles. La descripción pública acredita un compromiso de coordinación en defensa, mientras que el alcance exacto de las obligaciones y la forma de decidir requieren el texto del acuerdo o más aclaraciones oficiales. [Fuente: www.mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "subheading",
+        "text": "Cómo encaja el acuerdo en la relación bilateral"
+      },
+      {
+        "type": "paragraph",
+        "text": "La firma se produjo en la duodécima sesión del Comité Estratégico Supremo, surgido de un acuerdo de 2014. Las partes también intercambiaron textos sobre educación, protección del consumidor y cooperación en materia de paz y resolución de conflictos. El pacto de defensa forma parte de una relación más amplia con reuniones periódicas de alto nivel. [Fuente: www.mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué señala para la región"
+      },
+      {
+        "type": "paragraph",
+        "text": "El pacto da a Ankara y Doha una base pública para coordinarse más estrechamente en seguridad. Sus efectos dependerán de su aplicación. El comunicado también pide reducir la tensión mediante la diplomacia con Irán, en paralelo al compromiso de defensa. [Fuente: www.aa.com.tr](https://www.aa.com.tr/en/politics/turkiye-qatar-reaffirm-defense-ties-call-for-diplomacy-on-iran/4124881)"
+      },
+      {
+        "type": "heading",
+        "text": "Lectura relacionada"
+      },
+      {
+        "type": "paragraph",
+        "text": "[la reunión prevista en Shenzhen](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.diwan.gov.qa",
+        "url": "https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement"
+      },
+      {
+        "label": "Fuente: www.mfa.gov.tr",
+        "url": "https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa"
+      },
+      {
+        "label": "Fuente: www.aa.com.tr",
+        "url": "https://www.aa.com.tr/en/politics/turkiye-qatar-reaffirm-defense-ties-call-for-diplomacy-on-iran/4124881"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Cuándo y dónde se firmó?",
+        "answer": "El 13 de noviembre de 2026 en el palacio de Dolmabahçe, en Estambul."
+      },
+      {
+        "question": "¿Cuál es el objetivo declarado?",
+        "answer": "Reforzar la defensa colectiva y mantener una postura común ante ataques armados externos, según el comunicado."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/turkiye-qatar-mutual-defence-agreement-istanbul/",
+    "path": "/fr/articles/turkiye-qatar-mutual-defence-agreement-istanbul/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "La Türkiye et le Qatar signent un accord de défense mutuelle à Istanbul",
+    "seoTitle": "La Türkiye et le Qatar signent un accord de défense mutuelle à Istanbul",
+    "description": "L’accord du 13 novembre prolonge des années de coopération. Un communiqué commun décrit une position unifiée face aux attaques armées extérieures.",
+    "excerpt": "L’accord du 13 novembre prolonge des années de coopération. Un communiqué commun décrit une position unifiée face aux attaques armées extérieures.",
+    "headlineHighlights": {
+      "red": "Türkiye et le Qatar",
+      "gold": "défense mutuelle"
+    },
+    "keywords": [
+      "Türkiye et le Qatar",
+      "défense mutuelle"
+    ],
+    "searchIntent": "L’accord du 13 novembre prolonge des années de coopération. Un communiqué commun décrit une position unifiée face aux attaques armées extérieures.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/turkiye-qatar-mutual-defence-agreement-signing.jpg",
+      "alt": "Scène de signature imaginée avec le président turc et l’émir du Qatar devant leurs drapeaux",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La Türkiye et le Qatar ont signé un accord de défense mutuelle à Istanbul le 13 novembre 2026. Le président turc Recep Tayyip Erdoğan et l’émir du Qatar, cheikh Tamim ben Hamad Al Thani, l’ont signé au palais de Dolmabahçe. Selon les deux gouvernements, le texte vise à renforcer la défense collective et à définir une position commune face à une attaque armée extérieure contre l’un des pays ou les deux. [Source: www.diwan.gov.qa](https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que les deux gouvernements ont annoncé"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le communiqué commun confirme la signature et en expose l’objectif. Il ne précise pas la réponse à chaque crise éventuelle. Le texte public atteste un engagement à se coordonner en matière de défense. La portée exacte des obligations et les modalités de décision nécessitent le texte de l’accord ou des précisions officielles. [Source: www.mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "subheading",
+        "text": "Comment l’accord s’inscrit dans le partenariat existant"
+      },
+      {
+        "type": "paragraph",
+        "text": "La signature est intervenue lors de la douzième session du Comité stratégique suprême, issu d’un accord de 2014. Les deux parties ont aussi échangé des textes sur l’éducation, la protection des consommateurs et la coopération en matière de paix et de règlement des conflits. L’accord de défense s’insère dans une relation plus large entretenue par des rencontres régulières au sommet. [Source: www.mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "heading",
+        "text": "Le signal envoyé à la région"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le pacte donne à Ankara et Doha un cadre public pour resserrer leur coordination en matière de sécurité. Ses effets dépendront de sa mise en œuvre. Le communiqué appelle aussi à la désescalade par la diplomatie avec l’Iran, en parallèle de l’engagement de défense. [Source: www.aa.com.tr](https://www.aa.com.tr/en/politics/turkiye-qatar-reaffirm-defense-ties-call-for-diplomacy-on-iran/4124881)"
+      },
+      {
+        "type": "heading",
+        "text": "À lire également"
+      },
+      {
+        "type": "paragraph",
+        "text": "[la rencontre prévue à Shenzhen](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.diwan.gov.qa",
+        "url": "https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement"
+      },
+      {
+        "label": "Source: www.mfa.gov.tr",
+        "url": "https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa"
+      },
+      {
+        "label": "Source: www.aa.com.tr",
+        "url": "https://www.aa.com.tr/en/politics/turkiye-qatar-reaffirm-defense-ties-call-for-diplomacy-on-iran/4124881"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quand et où l’accord a-t-il été signé ?",
+        "answer": "Le 13 novembre 2026, au palais de Dolmabahçe à Istanbul."
+      },
+      {
+        "question": "Quel est l’objectif annoncé ?",
+        "answer": "Le communiqué évoque une défense collective renforcée et une position commune face aux attaques armées extérieures."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/two-new-amazon-howler-monkey-species/",
+    "path": "/ar/articles/two-new-amazon-howler-monkey-species/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "دراسة جينية تصف نوعين جديدين من القرود العوّاءة في الأمازون",
+    "seoTitle": "دراسة جينية تصف نوعين جديدين من القرود العوّاءة في الأمازون",
+    "description": "ساعدت مقارنة الجينومات وفحص عينات المتاحف الباحثين على تمييز نوعي ألُواتا إيروي وألُواتا ماتوغروسنسيس.",
+    "excerpt": "ساعدت مقارنة الجينومات وفحص عينات المتاحف الباحثين على تمييز نوعي ألُواتا إيروي وألُواتا ماتوغروسنسيس.",
+    "headlineHighlights": {
+      "red": "دراسة جينية",
+      "gold": "القرود العوّاءة"
+    },
+    "keywords": [
+      "دراسة جينية",
+      "القرود العوّاءة"
+    ],
+    "searchIntent": "ساعدت مقارنة الجينومات وفحص عينات المتاحف الباحثين على تمييز نوعي ألُواتا إيروي وألُواتا ماتوغروسنسيس.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/amazon-howler-monkey-species-tropical-forest.jpg",
+      "alt": "رسم لقردين عوّاءين يطلقان نداءهما من غصن في غابة استوائية",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "وصفت دراسة في مجلة Communications Biology رسمياً نوعين من القرود العوّاءة الحمراء، هما Alouatta iroi وAlouatta matogrossensis. وجمع الباحثون بين أدلة على مستوى الجينوم وسمات جسدية لعينات متحفية. ويمنح الاسمان صفة النوع لسلالتين تطوريتين ضمن مجموعة مألوفة من الرئيسيات، استناداً جزئياً إلى عينات جُمعت قبل سنوات. [المصدر: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف ميّز الباحثون النوعين؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قارن الفريق جينومات 11 نوعاً وفحص عينات متحفية بحثاً عن سمات تميز السلالات. وتصف الورقة فروقاً في الفراء والعظم اللامي الذي يسهم في إصدار الأصوات. والصورة المرافقة عمل فني، أما تحديد النوعين فيستند إلى مقارنة العينات والأدلة الجينية. [المصدر: www.salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+      },
+      {
+        "type": "heading",
+        "text": "أين يعيش النوعان؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "وُصف قرد بانتيبوي العوّاء الأحمر Alouatta iroi في شمال غرب الأمازون. وتضع الدراسة نهر ريو برانكو عند حد نطاقه الشرقي، فيما يبقى الحد الشمالي غير واضح. ويعيش عوّاء ماتو غروسو الأحمر Alouatta matogrossensis في جنوب الأمازون البرازيلية، بين نهري ماديرا وتيليس بيريس. وقد تعزل الأنهار جماعات عبر الزمن التطوري، لكن تحديد كل نطاق يتطلب أدلته الخاصة. [المصدر: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا يلزم تقييم وضعهما؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يهدد تحويل الغابات وتجزئتها الموائل في النطاق الجنوبي. ويدعو المؤلفون إلى تقييم عاجل لوضع عوّاء ماتو غروسو ويرجحون أنه قد يستوفي معايير «مهدد بخطر انقراض أقصى». وهذا تقدير للمخاطر في انتظار تقييم رسمي. كما أشاروا إلى مخاطر البنية التحتية وتغير المناخ في منطقة عوّاء بانتيبوي. [المصدر: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يشغل النوع المعترف به حديثاً نطاقاً أصغر بكثير من المجموعة التي كان يُدرج ضمنها. وهذا يزيد أثر فقدان الغابات محلياً على بقائه ويتيح لفرق الحماية تقييماً أدق. [المصدر: news.mongabay.com](https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/)"
+      },
+      {
+        "type": "heading",
+        "text": "اقرأ أيضاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "[قرد الآي آي في مدغشقر](/articles/aye-aye-madagascar-primate-tap-foraging/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.nature.com",
+        "url": "https://www.nature.com/articles/s42003-026-11187-8_reference.pdf"
+      },
+      {
+        "label": "المصدر: www.salford.ac.uk",
+        "url": "https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey"
+      },
+      {
+        "label": "المصدر: news.mongabay.com",
+        "url": "https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "ما النوعان الجديدان؟",
+        "answer": "Alouatta iroi وAlouatta matogrossensis."
+      },
+      {
+        "question": "ما أدلة التصنيف؟",
+        "answer": "جمع المؤلفون بين بيانات الجينوم وسمات تشخيصية في عينات متحفية."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/two-new-amazon-howler-monkey-species/",
+    "path": "/es/articles/two-new-amazon-howler-monkey-species/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "Un estudio genético describe dos nuevas especies de monos aulladores amazónicos",
+    "seoTitle": "Un estudio genético describe dos nuevas especies de monos aulladores amazónicos",
+    "description": "Las comparaciones genómicas y los ejemplares de museo permitieron distinguir Alouatta iroi y Alouatta matogrossensis.",
+    "excerpt": "Las comparaciones genómicas y los ejemplares de museo permitieron distinguir Alouatta iroi y Alouatta matogrossensis.",
+    "headlineHighlights": {
+      "red": "estudio genético",
+      "gold": "monos aulladores"
+    },
+    "keywords": [
+      "estudio genético",
+      "monos aulladores"
+    ],
+    "searchIntent": "Las comparaciones genómicas y los ejemplares de museo permitieron distinguir Alouatta iroi y Alouatta matogrossensis.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/amazon-howler-monkey-species-tropical-forest.jpg",
+      "alt": "Ilustración de dos monos aulladores vocalizando desde una rama en un bosque tropical",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un estudio en Communications Biology describe formalmente dos monos aulladores rojos, Alouatta iroi y Alouatta matogrossensis. El equipo combinó datos genómicos con rasgos físicos de ejemplares de museo. Los nombres reconocen dos linajes evolutivos de un grupo conocido de primates, con ejemplares recogidos años antes del estudio. [Fuente: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Cómo distinguieron las especies"
+      },
+      {
+        "type": "paragraph",
+        "text": "El equipo comparó genomas de once especies y examinó ejemplares de museo en busca de rasgos distintivos. El artículo describe diferencias en el pelaje y en el hioides, un hueso que interviene en la vocalización. La imagen que acompaña este artículo es artística. Las identificaciones formales se apoyan en los ejemplares y la genética. [Fuente: www.salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+      },
+      {
+        "type": "heading",
+        "text": "Dónde viven ambos aulladores"
+      },
+      {
+        "type": "paragraph",
+        "text": "El aullador rojo del Pantepui, Alouatta iroi, se describe en el noroeste amazónico. El estudio sitúa el río Branco en su límite oriental y deja abierta la frontera norte. El aullador rojo de Mato Grosso, Alouatta matogrossensis, vive en el sur de la Amazonía brasileña, entre el Madeira y el Teles Pires. Los ríos pueden aislar poblaciones a escala evolutiva, aunque cada distribución requiere pruebas propias. [Fuente: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué es necesario evaluar su conservación"
+      },
+      {
+        "type": "paragraph",
+        "text": "La transformación y fragmentación del bosque amenazan el hábitat austral. Los autores piden una evaluación urgente del aullador de Mato Grosso y sugieren que podría cumplir los criterios de En Peligro Crítico. Es su estimación del riesgo a la espera de una evaluación formal. También señalan las infraestructuras y el cambio climático futuro en la región del aullador del Pantepui. [Fuente: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una especie recién reconocida puede tener un área mucho menor que el grupo en que se incluía. La pérdida local de bosque cobra así más peso y los equipos de conservación pueden evaluar mejor su situación. [Fuente: news.mongabay.com](https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/)"
+      },
+      {
+        "type": "heading",
+        "text": "Lectura relacionada"
+      },
+      {
+        "type": "paragraph",
+        "text": "[el aye-aye de Madagascar](/articles/aye-aye-madagascar-primate-tap-foraging/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.nature.com",
+        "url": "https://www.nature.com/articles/s42003-026-11187-8_reference.pdf"
+      },
+      {
+        "label": "Fuente: www.salford.ac.uk",
+        "url": "https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey"
+      },
+      {
+        "label": "Fuente: news.mongabay.com",
+        "url": "https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Cuáles son las dos especies nuevas?",
+        "answer": "Alouatta iroi y Alouatta matogrossensis."
+      },
+      {
+        "question": "¿En qué pruebas se basa la clasificación?",
+        "answer": "En datos genómicos y rasgos diagnósticos de ejemplares de museo."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/two-new-amazon-howler-monkey-species/",
+    "path": "/fr/articles/two-new-amazon-howler-monkey-species/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-14",
+      "terminologyChecked": true
+    },
+    "title": "Une étude génétique décrit deux nouvelles espèces de singes hurleurs d’Amazonie",
+    "seoTitle": "Une étude génétique décrit deux nouvelles espèces de singes hurleurs d’Amazonie",
+    "description": "Des analyses génomiques et des spécimens de musée ont permis de distinguer Alouatta iroi et Alouatta matogrossensis.",
+    "excerpt": "Des analyses génomiques et des spécimens de musée ont permis de distinguer Alouatta iroi et Alouatta matogrossensis.",
+    "headlineHighlights": {
+      "red": "étude génétique",
+      "gold": "singes hurleurs"
+    },
+    "keywords": [
+      "étude génétique",
+      "singes hurleurs"
+    ],
+    "searchIntent": "Des analyses génomiques et des spécimens de musée ont permis de distinguer Alouatta iroi et Alouatta matogrossensis.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-14",
+    "updatedAt": "2026-11-14",
+    "image": {
+      "src": "/articles/amazon-howler-monkey-species-tropical-forest.jpg",
+      "alt": "Illustration de deux singes hurleurs qui crient depuis une branche en forêt tropicale",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Une étude de Communications Biology décrit officiellement deux singes hurleurs roux, Alouatta iroi et Alouatta matogrossensis. Les chercheurs ont combiné données génomiques et caractéristiques physiques de spécimens de musée. Ces noms reconnaissent deux lignées évolutives au sein d’un groupe de primates bien connu, dont certains spécimens avaient été collectés des années plus tôt. [Source: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment les chercheurs ont distingué les espèces"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’équipe a comparé les génomes de onze espèces et examiné des spécimens pour distinguer les lignées. L’article relève des différences de pelage et d’os hyoïde, qui intervient dans la vocalisation. L’illustration de cet article est une création artistique. Les diagnostics reposent sur les spécimens et les données génétiques. [Source: www.salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+      },
+      {
+        "type": "heading",
+        "text": "Où vivent les deux singes hurleurs"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le hurleur roux du Pantepui, Alouatta iroi, est décrit dans le nord-ouest de l’Amazonie. Le Rio Branco borde sa répartition à l’est, tandis que la limite nord reste incertaine. Le hurleur roux du Mato Grosso, Alouatta matogrossensis, vit dans le sud de l’Amazonie brésilienne, entre le Madeira et le Teles Pires. Les fleuves peuvent isoler des populations au cours de l’évolution, mais chaque aire doit être établie séparément. [Source: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "Pourquoi évaluer leur état de conservation"
+      },
+      {
+        "type": "paragraph",
+        "text": "La conversion et la fragmentation des forêts menacent l’habitat dans le sud. Les auteurs demandent une évaluation urgente du hurleur du Mato Grosso, qui pourrait relever de la catégorie « en danger critique ». C’est une estimation du risque en attendant une évaluation officielle. Les infrastructures et le changement climatique futur préoccupent aussi les auteurs pour la région du hurleur du Pantepui. [Source: www.nature.com](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une espèce nouvellement reconnue peut occuper une aire bien plus petite que le groupe auquel elle était rattachée. La perte locale de forêt pèse alors davantage sur sa survie et les équipes peuvent mieux cibler leur évaluation. [Source: news.mongabay.com](https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/)"
+      },
+      {
+        "type": "heading",
+        "text": "À lire également"
+      },
+      {
+        "type": "paragraph",
+        "text": "[l’aye-aye de Madagascar](/articles/aye-aye-madagascar-primate-tap-foraging/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.nature.com",
+        "url": "https://www.nature.com/articles/s42003-026-11187-8_reference.pdf"
+      },
+      {
+        "label": "Source: www.salford.ac.uk",
+        "url": "https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey"
+      },
+      {
+        "label": "Source: news.mongabay.com",
+        "url": "https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quelles sont les deux nouvelles espèces ?",
+        "answer": "Alouatta iroi et Alouatta matogrossensis."
+      },
+      {
+        "question": "Sur quelles preuves repose la classification ?",
+        "answer": "Sur des données génomiques et des caractères diagnostiques de spécimens de musée."
+      }
+    ]
   },
   {
     "locale": "ar",
