@@ -2581,6 +2581,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/gavin-bear-hynam-cars-4-youth-victoria-local-hero/",
+    "path": "/ar/articles/gavin-bear-hynam-cars-4-youth-victoria-local-hero/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/gavin-bear-hynam-cars-4-youth-victoria-local-hero/",
+    "path": "/es/articles/gavin-bear-hynam-cars-4-youth-victoria-local-hero/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/gavin-bear-hynam-cars-4-youth-victoria-local-hero/",
+    "path": "/fr/articles/gavin-bear-hynam-cars-4-youth-victoria-local-hero/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/ghana-empire-wagadu-kingdom-gold/",
     "path": "/ar/articles/ghana-empire-wagadu-kingdom-gold/"
   },
@@ -6043,6 +6058,21 @@
     "locale": "fr",
     "englishPath": "/articles/terracotta-army-qin-shi-huang-1974-discovery/",
     "path": "/fr/articles/terracotta-army-qin-shi-huang-1974-discovery/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/tesla-cybercab-price-autonomy-subscription/",
+    "path": "/ar/articles/tesla-cybercab-price-autonomy-subscription/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/tesla-cybercab-price-autonomy-subscription/",
+    "path": "/es/articles/tesla-cybercab-price-autonomy-subscription/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/tesla-cybercab-price-autonomy-subscription/",
+    "path": "/fr/articles/tesla-cybercab-price-autonomy-subscription/"
   },
   {
     "locale": "ar",

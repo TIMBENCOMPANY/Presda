@@ -1,0 +1,105 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/tesla-cybercab-price-autonomy-subscription/",
+  "path": "/fr/articles/tesla-cybercab-price-autonomy-subscription/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Tesla Cybercab à 29 990 $ avec un abonnement obligatoire de 299 $ par mois",
+  "seoTitle": "Tesla Cybercab : prix et abonnement obligatoire",
+  "description": "Tesla invite ses premiers clients particuliers à commander une biplace dont le fonctionnement et le périmètre dépendent d’un abonnement actif.",
+  "excerpt": "Tesla invite ses premiers clients particuliers à commander une biplace dont le fonctionnement et le périmètre dépendent d’un abonnement actif.",
+  "headlineHighlights": {
+    "red": "Tesla Cybercab",
+    "gold": "299 $ par mois"
+  },
+  "keywords": [
+    "Tesla Cybercab",
+    "299 $ par mois"
+  ],
+  "searchIntent": "Tesla invite ses premiers clients particuliers à commander une biplace dont le fonctionnement et le périmètre dépendent d’un abonnement actif.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/tesla-cybercab-gold-butterfly-doors.jpg",
+    "alt": "Tesla Cybercab doré aux portes en élytre ouvertes dans une rue",
+    "width": 1280,
+    "height": 713
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Chez Tesla, les premiers acheteurs invités à commander le Cybercab paient la voiture, puis son service de conduite. L’offre du 13 novembre affichait un prix estimé de 29 990 dollars américains hors taxes et un abonnement de 299 dollars par mois. Les premières livraisons étaient estimées à décembre 2026. [Source: www.investing.com](https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212)"
+    },
+    {
+      "type": "heading",
+      "text": "Les conditions de la première offre"
+    },
+    {
+      "type": "paragraph",
+      "text": "La presse spécialisée a relevé un acompte non remboursable de 1 000 dollars et un premier mois inclus. Elon Musk a ensuite évoqué un tarif proche de 115 dollars et lié l’élargissement des ventes aux autorisations réglementaires. Le tarif de l’offre initiale était de 299 dollars. [Not a Tesla App](https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high)"
+    },
+    {
+      "type": "heading",
+      "text": "Que se passe-t-il si on cesse de payer ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le contrat américain prévoit que le Cybercab ne fonctionne qu’avec un abonnement actif. Il inclut la conduite autonome, la connectivité, l’assistance à distance et certaines prestations d’entretien et de dépannage. L’assurance, l’immatriculation, la recharge et le stationnement restent à la charge du propriétaire. Douze mois payants reviennent à 3 588 dollars au tarif annoncé. [Source: www.tesla.com](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+    },
+    {
+      "type": "subheading",
+      "text": "Une biplace sans commandes manuelles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les portes en élytre s’ouvrent sur deux places, sans volant ni pédales pour reprendre la conduite. Les passagers indiquent leur destination via le logiciel de Tesla. Le service exige une connexion et des mises à jour. Tesla peut limiter les trajets selon la zone, la voie, l’heure ou les conditions. Pour un acheteur, la première question est de savoir si ses destinations habituelles sont desservies. [Source: www.tesla.com](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+    },
+    {
+      "type": "heading",
+      "text": "La place des ventes privées dans la stratégie Robotaxi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tesla a indiqué dans son bilan trimestriel avoir commencé à intégrer le Cybercab à sa flotte Robotaxi à Austin. La vente sur invitation ajoute une source de revenus aux courses payantes. Les deux activités dépendent des zones où Tesla peut exploiter et entretenir les véhicules. L’offre initiale ne fixe ni disponibilité nationale ni possibilité garantie de percevoir des recettes de courses. [Source: assets-ir.tesla.com](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[À lire aussi](/articles/meta-italy-805-million-facebook-android-photo-fine/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212"
+    },
+    {
+      "label": "Source: www.tesla.com",
+      "url": "https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale"
+    },
+    {
+      "label": "Source: assets-ir.tesla.com",
+      "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf"
+    },
+    {
+      "label": "Not a Tesla App",
+      "url": "https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Peut-il circuler sans abonnement ?",
+      "answer": "Le contrat américain exige un abonnement actif."
+    },
+    {
+      "question": "Quand sont prévues les livraisons ?",
+      "answer": "Tesla estimait les premières livraisons à décembre 2026 pour les clients invités."
+    }
+  ]
+}

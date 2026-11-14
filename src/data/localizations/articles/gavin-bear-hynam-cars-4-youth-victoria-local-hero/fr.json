@@ -1,0 +1,101 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/gavin-bear-hynam-cars-4-youth-victoria-local-hero/",
+  "path": "/fr/articles/gavin-bear-hynam-cars-4-youth-victoria-local-hero/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Après la mort de son fils, le mécanicien Gavin Hynam a offert 19 voitures à des jeunes",
+  "seoTitle": "Gavin Hynam offre 19 voitures et reçoit le prix Local Hero",
+  "description": "Dans la région de Victoria, Cars 4 Youth remet en état des voitures pour aider des jeunes à rejoindre leur école, leur travail ou leurs rendez-vous. Son fondateur a reçu le prix Local Hero 2027 de l’État.",
+  "excerpt": "Dans la région de Victoria, Cars 4 Youth remet en état des voitures pour aider des jeunes à rejoindre leur école, leur travail ou leurs rendez-vous. Son fondateur a reçu le prix Local Hero 2027 de l’État.",
+  "headlineHighlights": {
+    "red": "Gavin Hynam",
+    "gold": "19 voitures"
+  },
+  "keywords": [
+    "Gavin Hynam",
+    "19 voitures"
+  ],
+  "searchIntent": "Dans la région de Victoria, Cars 4 Youth remet en état des voitures pour aider des jeunes à rejoindre leur école, leur travail ou leurs rendez-vous. Son fondateur a reçu le prix Local Hero 2027 de l’État.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/gavin-bear-hynam-cars-4-youth-workshop.jpg",
+    "alt": "Scène éditoriale dans un garage avec un mécanicien et un jeune recevant des clés",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Chelsea Robinson venait de réussir l’examen du permis quand son moniteur lui a rendu les clés de la voiture utilisée pendant les leçons. Cette fois, elle pouvait les garder. À Horsham et dans les environs, le mécanicien bénévole Gavin « Bear » Hynam offre ainsi une voiture à des jeunes qui, avec leur permis en poche, auraient encore du mal à se déplacer. [Source: www.abc.net.au](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+    },
+    {
+      "type": "heading",
+      "text": "Le souvenir de son fils"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2008, Hynam a perdu son fils aîné, Preston, dans un accident peu avant ses 21 ans. Des années plus tard, il a confié à l’ABC qu’il sentait l’influence de son fils dans ce qu’il faisait. Cars 4 Youth est né de deux choses qu’il pouvait offrir, son temps comme accompagnateur de jeunes conducteurs et son savoir-faire pour remettre des voitures en circulation. [Source: www.abc.net.au](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+    },
+    {
+      "type": "subheading",
+      "text": "Le permis ouvre une porte, la voiture en ouvre une autre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hynam accompagne des jeunes avec le programme L2P de Victoria, destiné aux apprentis sans voiture ni accompagnateur. Robinson a reçu son véhicule après ses leçons. Pour Kaitlyn Sommerfield, une première voiture répondait à un autre besoin. Elle accompagnait sa fille à pied à ses rendez-vous et cherchait un moyen de rejoindre une maternelle à l’autre bout de la ville. Le projet intervient au moment où savoir conduire ne suffit plus pour se déplacer. [Source: www.abc.net.au](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+    },
+    {
+      "type": "heading",
+      "text": "Dix-neuf voitures et une distinction de l’État"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ABC recensait 19 voitures données en août 2025 et a repris ce chiffre lors de la remise des prix en novembre 2026. Il s’agit du total documenté à ces dates. Hynam a participé au financement du projet sur ses propres fonds, avec l’appui de la communauté locale. [Source: www.abc.net.au](https://www.abc.net.au/news/2026-11-13/australian-of-the-year-victorian-winners/107379768)"
+    },
+    {
+      "type": "heading",
+      "text": "Une distinction à Melbourne"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 12 novembre à Melbourne, les organisateurs l’ont désigné Local Hero 2027 de Victoria. Cette distinction le qualifie pour la finale nationale à Canberra. Dans le Wimmera, son travail se mesure aussi à un geste plus simple, celui d’une jeune conductrice qui rentre chez elle avec les clés après son examen. [Source: uat.australianoftheyear.org.au](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[À lire aussi](/articles/1925-serum-run-nome-sled-dogs-balto-togo/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.abc.net.au",
+      "url": "https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116"
+    },
+    {
+      "label": "Source: www.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-13/australian-of-the-year-victorian-winners/107379768"
+    },
+    {
+      "label": "Source: uat.australianoftheyear.org.au",
+      "url": "https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien de voitures Gavin Hynam a-t-il offertes ?",
+      "answer": "L’ABC a recensé 19 dons, chiffre repris en novembre 2026."
+    },
+    {
+      "question": "Quel prix a-t-il reçu ?",
+      "answer": "Il a été désigné Local Hero 2027 de Victoria lors de la cérémonie de novembre 2026."
+    }
+  ]
+}

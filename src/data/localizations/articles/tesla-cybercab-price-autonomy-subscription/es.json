@@ -1,0 +1,105 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/tesla-cybercab-price-autonomy-subscription/",
+  "path": "/es/articles/tesla-cybercab-price-autonomy-subscription/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "El Tesla Cybercab cuesta 29.990 dólares y exige una cuota de 299 al mes",
+  "seoTitle": "Tesla Cybercab: precio y suscripción obligatoria",
+  "description": "Tesla invita a sus primeros compradores particulares a pedir un biplaza cuyo funcionamiento y área de circulación dependen de una suscripción activa.",
+  "excerpt": "Tesla invita a sus primeros compradores particulares a pedir un biplaza cuyo funcionamiento y área de circulación dependen de una suscripción activa.",
+  "headlineHighlights": {
+    "red": "Tesla Cybercab",
+    "gold": "299 al mes"
+  },
+  "keywords": [
+    "Tesla Cybercab",
+    "299 al mes"
+  ],
+  "searchIntent": "Tesla invita a sus primeros compradores particulares a pedir un biplaza cuyo funcionamiento y área de circulación dependen de una suscripción activa.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/tesla-cybercab-gold-butterfly-doors.jpg",
+    "alt": "Tesla Cybercab dorado con ambas puertas de mariposa abiertas en una calle",
+    "width": 1280,
+    "height": 713
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Para los primeros invitados a comprar el Cybercab, el precio cubre el vehículo y la conducción se paga aparte. La oferta del 13 de noviembre indicaba un precio estimado de 29.990 dólares estadounidenses antes de impuestos y una cuota mensual de 299 dólares. Las primeras entregas se estimaban para diciembre de 2026. [Fuente: www.investing.com](https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212)"
+    },
+    {
+      "type": "heading",
+      "text": "Las condiciones de la primera oferta"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cobertura de la oferta indicó un depósito no reembolsable de 1.000 dólares y un primer mes incluido. Elon Musk sugirió después una cuota cercana a 115 dólares y supeditó la ampliación de las ventas a los permisos regulatorios. Los 299 dólares corresponden a la oferta inicial. [Not a Tesla App](https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué pasa si se deja de pagar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El contrato estadounidense indica que el Cybercab solo funciona con una suscripción activa. Incluye conducción autónoma, conectividad, asistencia remota y prestaciones específicas de servicio y auxilio en carretera. El propietario paga el seguro, la matriculación, la recarga y el estacionamiento. Doce mensualidades suman 3.588 dólares al precio anunciado. [Fuente: www.tesla.com](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un biplaza sin mandos manuales"
+    },
+    {
+      "type": "paragraph",
+      "text": "El biplaza con puertas de mariposa carece de volante y pedales para que un conductor tome el control. Los pasajeros indican el destino en el software de Tesla. El funcionamiento exige conectividad y actualizaciones. Tesla puede limitar los recorridos según la zona, la vía, la hora o las condiciones. Para el comprador importa saber si sus destinos habituales están cubiertos. [Fuente: www.tesla.com](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo encajan las ventas privadas en la estrategia Robotaxi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tesla informó en su balance trimestral de que ya incorporaba el Cybercab a su flota Robotaxi de Austin. La venta por invitación añade ingresos a los que generan los viajes. Ambos modelos dependen de las zonas en las que Tesla pueda operar y mantener los vehículos. La oferta inicial no establece disponibilidad nacional ni garantiza ingresos por viajes a los propietarios. [Fuente: assets-ir.tesla.com](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lectura relacionada](/articles/meta-italy-805-million-facebook-android-photo-fine/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212"
+    },
+    {
+      "label": "Fuente: www.tesla.com",
+      "url": "https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale"
+    },
+    {
+      "label": "Fuente: assets-ir.tesla.com",
+      "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf"
+    },
+    {
+      "label": "Not a Tesla App",
+      "url": "https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Funciona sin suscripción?",
+      "answer": "El contrato estadounidense exige una suscripción activa."
+    },
+    {
+      "question": "¿Cuándo se esperan las entregas?",
+      "answer": "Tesla estimó diciembre de 2026 para los compradores invitados."
+    }
+  ]
+}
