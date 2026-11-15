@@ -444251,11 +444251,19 @@
       },
       {
         "type": "heading",
-        "text": "ما الذي تقيسه الرموز 6EQUJ5؟"
+        "text": "قراءة المطبوعة من أعلى إلى أسفل"
       },
       {
         "type": "paragraph",
-        "text": "تمثل الرموز الستة قياسات للشدة سُجلت على فواصل تقارب 12 ثانية. واستخدمت الطابعة الأرقام للقيم الأقل والحروف للقيم الأعلى. ويشير الحرف U إلى الذروة عند نحو 30 انحرافاً معيارياً لضجيج الأداة. ويشبه الصعود والهبوط مرور مصدر ثابت في السماء عبر حزمة المرصد مع دوران الأرض. [المصدر: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+        "text": "يمثل كل عمود في الورقة قناة في جهاز الاستقبال، وتمثل الصفوف المتعاقبة عينات متتالية. وتظهر السلسلة اللافتة عمودياً في قناة واحدة. ومن أعلى إلى أسفل ترتفع الشدة من 6 إلى E ثم Q، وتبلغ ذروتها عند U، قبل أن تهبط عبر J و5. وتُستخدم الأحرف للأرقام التي تتجاوز مجال الخانات الرقمية. أما العلامة الحمراء فأضافها جيري إيمان لاحقاً أثناء المراجعة. منها جاء اسم الإشارة، فيما بقي العمود المطبوع الدليل القابل للتحليل والمقارنة بالقيم المنخفضة في الأعمدة المجاورة. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي تخفيه عينة من 12 ثانية؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يلخص كل قياس للشدة ما جرى خلال فترته. ولهذا لا تكشف الرموز الستة تغيرات سريعة محتملة داخل كل فترة. كما أن المطبوعة لم تحفظ شكل الموجة اللازم للبحث عن صوت أو نمط نبضات أو بنية أدق. ويمكن ضبط تلسكوب حديث على تسجيل تفاصيل أكثر، لكن إعادة تحليل سجل سنة 1977 لا تستعيد بيانات لم تُحفظ أصلاً. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm)"
       },
       {
         "type": "subheading",
@@ -444264,6 +444272,14 @@
       {
         "type": "paragraph",
         "text": "تصف الثواني الـ72 نافذة الرصد في هذه الواقعة، ولا تحدد مدة بث المصدر كاملة. فقد سجّل أحد مستقبلي المرصد الحدث وحده، وبقيت منطقتان محتملتان في السماء من دون أثر ثانٍ يحسم المكان. [المصدر: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا أثار تردد الهيدروجين الاهتمام؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يُصدر الهيدروجين المتعادل خطاً طيفياً معروفاً قرب 1420.4 ميغاهرتز. ولانتشاره الواسع يمكن رصد هذا الخط في مناطق كثيرة من درب التبانة. وقد يختار الباحثون عن إشارات تقنية نطاقه أيضاً. ويعني ضيق النطاق أن الطاقة تركزت في مجال محدود من الترددات، لكنه لا يحسم إن كان سببها جهاز إرسال أو ظاهرة طبيعية أو تشويشاً. وقدّر مشروع أريسيبو التردد بـ1420.726 ميغاهرتز في إعادة تحليل تُقرأ دقتها في ضوء التحفظات التي نشرها الفريق. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm) [UPR Arecibo](https://phl.upr.edu/wow/data)"
       },
       {
         "type": "heading",
@@ -444276,6 +444292,14 @@
       {
         "type": "paragraph",
         "text": "اقترح فريق أريسيبو أن ومضة عابرة ربما زادت مؤقتاً سطوع الإشعاع الصادر من هيدروجين بارد بين النجوم. وتوفر مقارنة الأرشيف آلية طبيعية محتملة، لكنها لا تحدد السحابة أو الومضة المسؤولة عن رصد 1977. [المصدر: arxiv.org](https://arxiv.org/abs/2408.08513)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا غيّرت إعادة تحليل الأرشيف؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "راجع فريق أريسيبو مواد من برنامج أوهايو للبحث عن إشارات ذكية، واقترح إحداثيات معدلة وكثافة تدفق قصوى تتجاوز 300 يانسكي. وتقيس كثافة التدفق القدرة الراديوية المستقبلة لكل وحدة مساحة وعرض نطاق. وتختلف عن الرمز U الذي يصف الشدة مقارنة بضجيج الجهاز. وقد يؤثر التقدير الأعلى في تفسير نتائج عمليات البحث السابقة. وتظل إمكانية التقاط تكرار مرتبطة باتجاه الرصد وتردده ومدته. [UPR Arecibo](https://phl.upr.edu/wow/data) [Gray and Ellingsen](https://www.bigear.org/Gray-Ellingsen.pdf)"
       },
       {
         "type": "heading",
@@ -444296,6 +444320,14 @@
       {
         "type": "heading",
         "text": "ما الذي استبعدته عمليات الرصد اللاحقة؟"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي ينبغي أن يثبته رصد ثانٍ؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "سيكون التكرار بدايةً للتحقق. ويمكن لمرصدين مقارنة توقيت الوصول والموضع السماوي، بينما يسمح القياس الدقيق باختبار ما إذا كان تغير التردد يتوافق مع حركة نسبية. ومع ذلك يلزم البحث عن تشويش أرضي أو صادر من أقمار اصطناعية. وللمقارنة، فإن [أسطوانة فوياجر الذهبية](/articles/voyager-golden-record-message-humanity-space/) رسالة معروفة الصنّاع والمحتوى والوسيط المادي. ولا يوجد دليل مماثل يحدد مصدر إشارة واو. [UPR Arecibo](https://phl.upr.edu/wow/data) [Gray and Ellingsen](https://www.bigear.org/Gray-Ellingsen.pdf)"
       },
       {
         "type": "paragraph",
@@ -444330,6 +444362,10 @@
       {
         "label": "المصدر · bigear.org",
         "url": "https://www.bigear.org/Gray-Ellingsen.pdf"
+      },
+      {
+        "label": "بيغ إير ومرصد أميركا الشمالية، نسخة من المطبوعة",
+        "url": "https://commons.wikimedia.org/wiki/File:Wow_signal_(large).jpg"
       }
     ],
     "faq": [
@@ -444342,7 +444378,7 @@
         "answer": "توجد عدة فرضيات، ولم يؤكد مصدرها أو تكرارها."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "es",
@@ -444385,11 +444421,19 @@
       },
       {
         "type": "heading",
-        "text": "Qué medía 6EQUJ5"
+        "text": "Cómo leer el registro de arriba abajo"
       },
       {
         "type": "paragraph",
-        "text": "Los seis caracteres son medidas de intensidad tomadas a intervalos de unos 12 segundos. La impresora usaba números para valores bajos y letras para los más altos. U marca el máximo, unas 30 desviaciones estándar del ruido. La forma se parece al paso de una fuente fija por el haz mientras gira la Tierra. [Fuente: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+        "text": "Cada columna del papel corresponde a un canal del receptor y cada línea a una muestra sucesiva. La secuencia llamativa aparece en vertical en un solo canal. De arriba abajo, la intensidad sube de 6 a E y Q, alcanza su máximo en U y cae a J y 5. Las letras amplían la escala cuando ya no basta una cifra. La marca roja pertenece a la revisión posterior de Jerry Ehman. Su anotación dio nombre al episodio, mientras que el registro impreso conserva la medición que los astrónomos pueden comparar con los valores bajos que la rodean. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "Lo que oculta una muestra de doce segundos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cada lectura de intensidad resume lo sucedido durante su intervalo. Los seis símbolos no muestran posibles fluctuaciones rápidas dentro de cada uno. El registro tampoco conservó una forma de onda que permitiera buscar una voz, una secuencia de pulsos u otros detalles. Un telescopio moderno puede configurarse para guardar mediciones más completas. Un nuevo análisis no puede recuperar información que el registro de 1977 nunca almacenó. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm)"
       },
       {
         "type": "subheading",
@@ -444398,6 +444442,14 @@
       {
         "type": "paragraph",
         "text": "Los 72 segundos corresponden a la ventana de observación. No establecen la duración total de la emisión. Solo uno de los dos receptores la registró, por lo que quedaron dos regiones candidatas y ninguna segunda detección que fijara la posición. [Fuente: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué interesaba la frecuencia del hidrógeno"
+      },
+      {
+        "type": "paragraph",
+        "text": "El hidrógeno neutro emite una línea conocida cerca de 1420,4 MHz. Como abunda en la galaxia, los astrónomos pueden medir esa línea en muchas regiones de la Vía Láctea. Una búsqueda tecnológica también puede elegir esa zona del espectro. Una banda estrecha indica que la energía registrada se concentró en una pequeña gama de frecuencias. No permite distinguir entre un transmisor, un fenómeno natural y una interferencia. El valor de 1420,726 MHz procede de un nuevo análisis del equipo de Arecibo y debe interpretarse con sus reservas. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm) [UPR Arecibo](https://phl.upr.edu/wow/data)"
       },
       {
         "type": "heading",
@@ -444410,6 +444462,14 @@
       {
         "type": "paragraph",
         "text": "Un equipo de Arecibo propuso que un destello transitorio pudo intensificar brevemente la emisión de hidrógeno interestelar frío. Sus comparaciones aportan un mecanismo natural posible. Quedan por identificar la nube o el destello del episodio de 1977. [Fuente: arxiv.org](https://arxiv.org/abs/2408.08513)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué cambió al revisar el archivo"
+      },
+      {
+        "type": "paragraph",
+        "text": "El equipo de Arecibo volvió a estudiar datos del programa SETI de Ohio y propuso coordenadas revisadas y una densidad de flujo máxima superior a 300 janskys. La densidad de flujo mide la potencia de radio recibida por unidad de superficie y ancho de banda. Se distingue de U, que describe la intensidad en relación con el ruido instrumental. Una estimación mayor puede cambiar cómo se interpretan búsquedas anteriores. Su capacidad para captar una repetición sigue dependiendo de la dirección, la frecuencia y la duración observadas. [UPR Arecibo](https://phl.upr.edu/wow/data) [Gray and Ellingsen](https://www.bigear.org/Gray-Ellingsen.pdf)"
       },
       {
         "type": "heading",
@@ -444430,6 +444490,14 @@
       {
         "type": "heading",
         "text": "Qué pudieron descartar los estudios posteriores"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué tendría que establecer una segunda detección"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una repetición sería un primer paso. Dos observatorios podrían cotejar el momento de llegada y la posición celeste. Una medición más precisa permitiría evaluar si un cambio de frecuencia concuerda con un movimiento relativo. Aun así habría que descartar interferencias terrestres y de satélites. El [disco de oro de Voyager](/articles/voyager-golden-record-message-humanity-space/) tiene autores, mensaje y soporte documentados. La señal Wow! carece de pruebas de identificación equivalentes. [UPR Arecibo](https://phl.upr.edu/wow/data) [Gray and Ellingsen](https://www.bigear.org/Gray-Ellingsen.pdf)"
       },
       {
         "type": "paragraph",
@@ -444464,6 +444532,10 @@
       {
         "label": "Fuente · bigear.org",
         "url": "https://www.bigear.org/Gray-Ellingsen.pdf"
+      },
+      {
+        "label": "Big Ear y NAAPO, facsímil del registro",
+        "url": "https://commons.wikimedia.org/wiki/File:Wow_signal_(large).jpg"
       }
     ],
     "faq": [
@@ -444476,7 +444548,7 @@
         "answer": "Hay varias hipótesis. No se ha confirmado una fuente ni una repetición."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 5
   },
   {
     "locale": "fr",
@@ -444519,11 +444591,19 @@
       },
       {
         "type": "heading",
-        "text": "Ce que mesurait 6EQUJ5"
+        "text": "Lire le relevé de haut en bas"
       },
       {
         "type": "paragraph",
-        "text": "Les six caractères sont des mesures d’intensité, espacées d’environ 12 secondes. L’imprimante utilisait des chiffres pour les faibles intensités et des lettres pour les plus fortes. U marque le pic, à environ 30 écarts-types du bruit. La courbe ressemble à celle d’une source fixe traversant le faisceau du télescope sous l’effet de la rotation terrestre. [Source: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+        "text": "Sur le papier, une colonne correspond à un canal du récepteur et les lignes successives à des mesures successives. La séquence remarquable apparaît verticalement dans un seul canal. En descendant, l’intensité monte de 6 à E puis Q, culmine à U et retombe à J puis 5. Les lettres prolongent l’échelle au-delà des chiffres. La marque rouge date de l’examen ultérieur des relevés par Jerry Ehman. Son annotation a donné son nom à l’événement. La colonne imprimée reste la mesure que les astronomes peuvent analyser, à comparer aux faibles valeurs dispersées autour. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce qu’une mesure sur douze secondes peut masquer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chaque lecture d’intensité résume ce qui s’est passé pendant son intervalle de mesure. Les six caractères ne révèlent donc pas les variations rapides à l’intérieur d’un intervalle. Le relevé ne conserve pas non plus une forme d’onde permettant de rechercher une voix, des impulsions ou d’autres détails. Un instrument moderne peut être réglé pour conserver des mesures plus riches. Une nouvelle analyse ne peut retrouver des informations que l’enregistrement de 1977 n’a jamais conservées. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm)"
       },
       {
         "type": "subheading",
@@ -444532,6 +444612,14 @@
       {
         "type": "paragraph",
         "text": "Les 72 secondes décrivent la fenêtre d’observation de Big Ear. Elles ne donnent pas la durée totale de l’émission. Un seul des deux récepteurs l’a captée, ce qui laisse deux zones possibles dans le ciel et aucune seconde trace pour trancher. [Source: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi la fréquence de l’hydrogène a retenu l’attention"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’hydrogène neutre produit une raie familière vers 1420,4 MHz. Comme il est très répandu, les astronomes peuvent la mesurer dans de nombreuses régions de la Voie lactée. Une recherche de signaux technologiques peut aussi choisir d’écouter dans cette partie du spectre. Une bande étroite indique que l’énergie enregistrée se concentrait dans une petite plage de fréquences. Elle ne départage pas un émetteur, un phénomène naturel et des interférences. L’estimation de 1420,726 MHz du projet d’Arecibo vient d’une nouvelle analyse et s’interprète avec les réserves de l’équipe. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm) [UPR Arecibo](https://phl.upr.edu/wow/data)"
       },
       {
         "type": "heading",
@@ -444544,6 +444632,14 @@
       {
         "type": "paragraph",
         "text": "Une équipe d’Arecibo propose qu’un sursaut ait brièvement amplifié l’émission d’un nuage d’hydrogène froid. La comparaison avec les archives fournit un mécanisme naturel possible. Le nuage et le sursaut de 1977 restent à identifier. [Source: arxiv.org](https://arxiv.org/abs/2408.08513)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que la réanalyse des archives a changé"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’équipe d’Arecibo a réexaminé les documents du programme SETI de l’Ohio et proposé des coordonnées révisées ainsi qu’une densité de flux maximale supérieure à 300 janskys. Cette grandeur mesure la puissance radio reçue par unité de surface et de bande passante. Elle diffère de la valeur U, qui mesure l’intensité par rapport au bruit instrumental. Une estimation plus élevée peut modifier l’interprétation des recherches antérieures. Leur capacité à repérer une répétition dépend toujours de la direction, de la fréquence et de la durée observées. [UPR Arecibo](https://phl.upr.edu/wow/data) [Gray and Ellingsen](https://www.bigear.org/Gray-Ellingsen.pdf)"
       },
       {
         "type": "heading",
@@ -444564,6 +444660,14 @@
       {
         "type": "heading",
         "text": "Ce que les recherches ultérieures permettent d’exclure"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce qu’une nouvelle détection devrait montrer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une répétition serait un début. Deux observatoires pourraient vérifier la concordance du moment d’arrivée et de la position sur le ciel. Une haute résolution permettrait de tester si un décalage en fréquence correspond à un mouvement relatif. Il resterait à vérifier les brouillages terrestres ou satellitaires. Le [disque d’or de Voyager](/articles/voyager-golden-record-message-humanity-space/) dispose d’un support, d’un message et de concepteurs identifiés. Le signal Wow! ne bénéficie d’aucune preuve d’identification comparable. [UPR Arecibo](https://phl.upr.edu/wow/data) [Gray and Ellingsen](https://www.bigear.org/Gray-Ellingsen.pdf)"
       },
       {
         "type": "paragraph",
@@ -444598,6 +444702,10 @@
       {
         "label": "Source · bigear.org",
         "url": "https://www.bigear.org/Gray-Ellingsen.pdf"
+      },
+      {
+        "label": "Big Ear et NAAPO, fac-similé du relevé",
+        "url": "https://commons.wikimedia.org/wiki/File:Wow_signal_(large).jpg"
       }
     ],
     "faq": [
@@ -444610,7 +444718,7 @@
         "answer": "Plusieurs hypothèses existent. Aucune source ou répétition n’a été confirmée."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 5
   },
   {
     "locale": "ar",

@@ -39,11 +39,19 @@
     },
     {
       "type": "heading",
-      "text": "Qué medía 6EQUJ5"
+      "text": "Cómo leer el registro de arriba abajo"
     },
     {
       "type": "paragraph",
-      "text": "Los seis caracteres son medidas de intensidad tomadas a intervalos de unos 12 segundos. La impresora usaba números para valores bajos y letras para los más altos. U marca el máximo, unas 30 desviaciones estándar del ruido. La forma se parece al paso de una fuente fija por el haz mientras gira la Tierra. [Fuente: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      "text": "Cada columna del papel corresponde a un canal del receptor y cada línea a una muestra sucesiva. La secuencia llamativa aparece en vertical en un solo canal. De arriba abajo, la intensidad sube de 6 a E y Q, alcanza su máximo en U y cae a J y 5. Las letras amplían la escala cuando ya no basta una cifra. La marca roja pertenece a la revisión posterior de Jerry Ehman. Su anotación dio nombre al episodio, mientras que el registro impreso conserva la medición que los astrónomos pueden comparar con los valores bajos que la rodean. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "Lo que oculta una muestra de doce segundos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada lectura de intensidad resume lo sucedido durante su intervalo. Los seis símbolos no muestran posibles fluctuaciones rápidas dentro de cada uno. El registro tampoco conservó una forma de onda que permitiera buscar una voz, una secuencia de pulsos u otros detalles. Un telescopio moderno puede configurarse para guardar mediciones más completas. Un nuevo análisis no puede recuperar información que el registro de 1977 nunca almacenó. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm)"
     },
     {
       "type": "subheading",
@@ -52,6 +60,14 @@
     {
       "type": "paragraph",
       "text": "Los 72 segundos corresponden a la ventana de observación. No establecen la duración total de la emisión. Solo uno de los dos receptores la registró, por lo que quedaron dos regiones candidatas y ninguna segunda detección que fijara la posición. [Fuente: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué interesaba la frecuencia del hidrógeno"
+    },
+    {
+      "type": "paragraph",
+      "text": "El hidrógeno neutro emite una línea conocida cerca de 1420,4 MHz. Como abunda en la galaxia, los astrónomos pueden medir esa línea en muchas regiones de la Vía Láctea. Una búsqueda tecnológica también puede elegir esa zona del espectro. Una banda estrecha indica que la energía registrada se concentró en una pequeña gama de frecuencias. No permite distinguir entre un transmisor, un fenómeno natural y una interferencia. El valor de 1420,726 MHz procede de un nuevo análisis del equipo de Arecibo y debe interpretarse con sus reservas. [Big Ear](https://www.bigear.org/Wow30th/wow30th.htm) [UPR Arecibo](https://phl.upr.edu/wow/data)"
     },
     {
       "type": "heading",
@@ -64,6 +80,14 @@
     {
       "type": "paragraph",
       "text": "Un equipo de Arecibo propuso que un destello transitorio pudo intensificar brevemente la emisión de hidrógeno interestelar frío. Sus comparaciones aportan un mecanismo natural posible. Quedan por identificar la nube o el destello del episodio de 1977. [Fuente: arxiv.org](https://arxiv.org/abs/2408.08513)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué cambió al revisar el archivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo de Arecibo volvió a estudiar datos del programa SETI de Ohio y propuso coordenadas revisadas y una densidad de flujo máxima superior a 300 janskys. La densidad de flujo mide la potencia de radio recibida por unidad de superficie y ancho de banda. Se distingue de U, que describe la intensidad en relación con el ruido instrumental. Una estimación mayor puede cambiar cómo se interpretan búsquedas anteriores. Su capacidad para captar una repetición sigue dependiendo de la dirección, la frecuencia y la duración observadas. [UPR Arecibo](https://phl.upr.edu/wow/data) [Gray and Ellingsen](https://www.bigear.org/Gray-Ellingsen.pdf)"
     },
     {
       "type": "heading",
@@ -84,6 +108,14 @@
     {
       "type": "heading",
       "text": "Qué pudieron descartar los estudios posteriores"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué tendría que establecer una segunda detección"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una repetición sería un primer paso. Dos observatorios podrían cotejar el momento de llegada y la posición celeste. Una medición más precisa permitiría evaluar si un cambio de frecuencia concuerda con un movimiento relativo. Aun así habría que descartar interferencias terrestres y de satélites. El [disco de oro de Voyager](/articles/voyager-golden-record-message-humanity-space/) tiene autores, mensaje y soporte documentados. La señal Wow! carece de pruebas de identificación equivalentes. [UPR Arecibo](https://phl.upr.edu/wow/data) [Gray and Ellingsen](https://www.bigear.org/Gray-Ellingsen.pdf)"
     },
     {
       "type": "paragraph",
@@ -118,6 +150,10 @@
     {
       "label": "Fuente · bigear.org",
       "url": "https://www.bigear.org/Gray-Ellingsen.pdf"
+    },
+    {
+      "label": "Big Ear y NAAPO, facsímil del registro",
+      "url": "https://commons.wikimedia.org/wiki/File:Wow_signal_(large).jpg"
     }
   ],
   "faq": [
@@ -130,5 +166,5 @@
       "answer": "Hay varias hipótesis. No se ha confirmado una fuente ni una repetición."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 5
 }

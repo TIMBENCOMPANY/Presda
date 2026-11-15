@@ -111,6 +111,7 @@ import { TeslaHistoricalImage, teslaImageAtBlock } from "@/components/TeslaHisto
 import photographyHeroCaptions from "@/data/photographyHeroCaptions.json";
 import { PhotographyHistoricalImage, photographyImageAtBlock } from "@/components/PhotographyHistoricalImage";
 import { MesopotamiaGrainTablet } from "@/components/MesopotamiaGrainTablet";
+import { WowSignalPrintout } from "@/components/WowSignalPrintout";
 import medicalCannabisHeroCaptions from "@/data/medicalCannabisHeroCaptions.json";
 import butterflyEffectHeroCaptions from "@/data/butterflyEffectHeroCaptions.json";
 import artificialWombsHeroCaptions from "@/data/artificialWombsHeroCaptions.json";
@@ -763,6 +764,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               const structured = localizedBlocks?.[originalIndex];
               if (article.slug === "mesopotamia-sumer-akkad-babylon-assyria-history" && originalIndex === 8) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MesopotamiaGrainTablet locale={locale} /></div>;
+              }
+              if (article.slug === "wow-signal-1977-72-seconds-6equj5" && originalIndex === 2) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WowSignalPrintout locale={locale} /></div>;
               }
               if (structured?.type === "table" && structured.sourceMarker === "[[ASTROLOGY_SCIENCE_TABLE]]") return <AstrologyComparisonTable key={originalIndex} table={{ headers: structured.headings, rows: structured.rows }} />;
               if (structured?.type === "table") return <StandardArticleTable key={originalIndex} table={{ caption: structured.caption, headers: structured.headings, rows: structured.rows, minWidthClass: articleTables[structured.sourceMarker ?? ""]?.minWidthClass ?? "min-w-[680px]", boldColumnIndex: articleTables[structured.sourceMarker ?? ""]?.boldColumnIndex ?? 0, rowKeyIndex: articleTables[structured.sourceMarker ?? ""]?.rowKeyIndex ?? 0 }} />;
