@@ -30,6 +30,15 @@ export const newsNov15Articles: Article[] = [
       "Reporting on the invitation listed a US$1,000 nonrefundable deposit and a first month included. Elon Musk subsequently suggested a fee closer to US$115 and tied wider availability to regulatory approval. That suggestion leaves the published US$299 figure as the price attached to the initial offer. [Not a Tesla App](https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high)",
       "## What happens if you stop paying?",
       "Tesla’s US agreement says the Cybercab cannot operate without an active plan. That plan covers autonomous driving, connectivity, remote support and specified service and roadside assistance. Owners still pay for insurance, registration, charging and parking. At the quoted rate, 12 paid months cost $3,588 before any price changes. [Tesla Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)",
+      "## What the touchscreen can do when a passenger takes control",
+      "Tesla’s November 12 agreement draws a specific distinction between autonomous trips and the limited manual operation available on the touchscreen. The latter is for moving short distances at up to 2 mph, is not intended for public roads and requires a valid U.S. driver’s licence. It does not provide an ordinary manual alternative to a trip. The practical consequence is that a buyer who loses access to autonomous operation cannot simply finish a road journey with the screen. The agreement also caps occupancy at two people and sets out rules for restraints and minors. [Source · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)",
+      "## Safety inspections and service are part of the subscription terms",
+      "Tesla says an active subscription requires inspections and maintenance. In its account of the process, owners are notified through the app, and the vehicle may travel empty to a Tesla service centre or be transported. The agreement distinguishes work covered in its appendix from extra repairs that require the owner’s approval. Tesla reserves the right to restrict operation when an inspection is missed or a repair it considers necessary for safety is declined. That makes the network of service providers and availability of appointments relevant to buyers alongside monthly cost. [Source · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)",
+      "### What the contract says about trip data",
+      "The agreement describes collection of identifiable diagnostic and usage data from the car and app. Examples include location, exterior video, cabin camera images and audio in certain ride-support situations. Tesla says its default retention for autonomy data is 30 days, with support requests and safety events handled under its separate privacy notice. The agreement is a description of what the company says it collects and how it handles that data. It does not independently establish how every trip is processed. [Source · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)",
+      "## The invitation is a dated offer",
+      "Initial reporting described an estimated December 2026 delivery in Austin. An estimate on an order screen should be kept separate from a delivery announcement. The same distinction applies to an advertised purchase price, a continuing payment required under the posted terms and the actual places the vehicle is eligible to operate. The table shows the original advertised figures as a snapshot, with a simple calculation buyers can compare against any future offer. For the wider context, see [PRESDA’s coverage of Tesla’s Robotaxi business](/articles/robotaxi-revolution-tesla-waymo-zoox-baidu-2026/). [Source · Electrek, initial order terms](https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/)",
+      "[[CYBERCAB_OFFER_SNAPSHOT]]",
       "### A two-seater without manual controls",
       "The butterfly-door two-seater has no steering wheel or pedals for a driver to take over. Riders set destinations through Tesla’s software. The service depends on working connectivity and current software. Tesla can restrict operation by area, road, time or conditions. A buyer should check whether the places they need to reach fall inside the supported area. [Tesla Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)",
       "## How private sales fit Tesla’s Robotaxi strategy",
@@ -56,6 +65,10 @@ export const newsNov15Articles: Article[] = [
       {
         "name": "Not a Tesla App",
         "url": "https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high"
+      },
+      {
+        "name": "Electrek, initial order terms",
+        "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
       }
     ],
     "relatedSlugs": [
@@ -71,7 +84,7 @@ export const newsNov15Articles: Article[] = [
         "answer": "Tesla initially estimated December 2026 for invited customers."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "5 min read"
   },
   {
     "id": "463",

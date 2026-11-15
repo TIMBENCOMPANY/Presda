@@ -8,6 +8,34 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[CYBERCAB_OFFER_SNAPSHOT]]": {
+  "caption": "Initial US offer, before taxes. The total assumes twelve paid months at the advertised rate.",
+  "rows": [
+    [
+      "Advertised purchase price",
+      "29,990"
+    ],
+    [
+      "Monthly autonomy subscription",
+      "299"
+    ],
+    [
+      "Twelve paid months",
+      "3,588"
+    ],
+    [
+      "Purchase plus twelve paid months",
+      "33,578"
+    ]
+  ],
+  "headers": [
+    "Item",
+    "USD"
+  ],
+  "minWidthClass": "min-w-[420px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
   "[[META_GALLERY_ORDER]]": {
   "caption": "Remediation timetable in the Italian authority’s published order.",
   "rows": [

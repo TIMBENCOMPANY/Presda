@@ -402581,6 +402581,65 @@
         "text": "تنص الاتفاقية الأميركية على أن سايبركاب لا تعمل من دون اشتراك سارٍ. ويشمل الاشتراك القيادة الذاتية والاتصال والدعم عن بُعد وبعض خدمات الصيانة والمساعدة على الطريق. ويتحمل المالك التأمين والتسجيل والشحن ومواقف السيارات. وتبلغ تكلفة 12 شهراً مدفوعاً 3,588 دولاراً بالسعر المعلن. [المصدر: www.tesla.com](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
       },
       {
+        "type": "heading",
+        "text": "ما الذي تتيحه أدوات التحكم اليدوية على الشاشة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يميّز عقد 12 نوفمبر بين الرحلة الذاتية والتحكم اليدوي المحدود على الشاشة. فالتحكم مخصص لتحريك السيارة مسافات قصيرة بسرعة لا تتجاوز ميلين في الساعة، ويشترط رخصة أميركية سارية ولا يُقصد به السير على الطرق العامة. لذلك لا يستطيع المالك استكمال رحلة عادية بهذه الوسيلة عند توقف الخدمة الذاتية. ويحدد العقد راكبين على الأكثر ويبين قواعد أحزمة الأمان وركوب القاصرين. [المصدر · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+      },
+      {
+        "type": "heading",
+        "text": "الفحص والصيانة جزء من شروط الاشتراك"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقول تسلا إن الاشتراك النشط يتطلب الفحص والصيانة. ويتلقى المالك الإشعارات عبر التطبيق، وقد تذهب المركبة فارغة إلى مركز تسلا أو تُنقل إليه. ويميز العقد الأعمال المشمولة في ملحقه من الإصلاحات الإضافية التي تتطلب موافقة المالك. وتحتفظ تسلا بحق تقييد التشغيل إذا فات فحص أو رُفض إصلاح ترى أنه ضروري للسلامة. لذا يهم المشتري توفر مراكز الخدمة والمواعيد إلى جانب قيمة الاشتراك. [المصدر · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+      },
+      {
+        "type": "subheading",
+        "text": "ما البيانات التي يذكرها العقد؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يصف العقد جمع بيانات تشخيص واستخدام قابلة للربط بالمستخدم من السيارة والتطبيق. ومن الأمثلة الموقع والفيديو الخارجي وصور المقصورة وبعض التسجيلات الصوتية عند تقديم الدعم. وتقول تسلا إن مدة الحفظ الافتراضية 30 يوماً، فيما تخضع طلبات الدعم وحوادث السلامة لإشعار الخصوصية المنفصل. وهذه هي الممارسات التي تصفها الشركة في العقد. [المصدر · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+      },
+      {
+        "type": "heading",
+        "text": "الدعوة تعكس عرضاً في وقت محدد"
+      },
+      {
+        "type": "paragraph",
+        "text": "أشارت التغطية الأولى إلى تسليم متوقع في أوستن في ديسمبر 2026. ويختلف الموعد التقديري على شاشة الطلب عن إعلان تسليم فعلي. كذلك ينبغي التفريق بين السعر المعروض والدفعات التي تشترطها الوثيقة والأماكن التي تعمل فيها المركبة. ويعرض الجدول أرقام العرض الأول وحساباً مبسطاً للمقارنة مع أي عرض لاحق. للمزيد، راجع [تغطية PRESDA لخدمة روبوتاكسي](/articles/robotaxi-revolution-tesla-waymo-zoox-baidu-2026/). [المصدر · Electrek, initial order terms](https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[CYBERCAB_OFFER_SNAPSHOT]]",
+        "caption": "عرض الولايات المتحدة الأول قبل الضرائب. يفترض الإجمالي اثنتي عشرة دفعة بالسعر المعلن.",
+        "headings": [
+          "البند",
+          "دولار أميركي"
+        ],
+        "rows": [
+          [
+            "سعر الشراء المعلن",
+            "29,990"
+          ],
+          [
+            "اشتراك القيادة الذاتية الشهري",
+            "299"
+          ],
+          [
+            "اثنا عشر شهراً مدفوعاً",
+            "3,588"
+          ],
+          [
+            "الشراء مع اثني عشر شهراً مدفوعاً",
+            "33,578"
+          ]
+        ]
+      },
+      {
         "type": "subheading",
         "text": "مقعدان من دون أدوات قيادة يدوية"
       },
@@ -402633,6 +402692,10 @@
       {
         "label": "Not a Tesla App",
         "url": "https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high"
+      },
+      {
+        "label": "المصدر · Electrek, initial order terms",
+        "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
       }
     ],
     "faq": [
@@ -402645,7 +402708,7 @@
         "answer": "قدّرت تسلا أن يبدأ التسليم للمدعوين في ديسمبر 2026."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 4
   },
   {
     "locale": "es",
@@ -402703,6 +402766,65 @@
         "text": "El contrato estadounidense indica que el Cybercab solo funciona con una suscripción activa. Incluye conducción autónoma, conectividad, asistencia remota y prestaciones específicas de servicio y auxilio en carretera. El propietario paga el seguro, la matriculación, la recarga y el estacionamiento. Doce mensualidades suman 3.588 dólares al precio anunciado. [Fuente: www.tesla.com](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
       },
       {
+        "type": "heading",
+        "text": "Qué permiten los mandos de la pantalla"
+      },
+      {
+        "type": "paragraph",
+        "text": "El contrato del 12 de noviembre distingue los viajes autónomos del control manual limitado en la pantalla. Este último sirve para mover el coche distancias cortas a un máximo de 2 mph, exige una licencia estadounidense válida y no se destina a vías públicas. Si se suspende el acceso a la conducción autónoma, la pantalla no permite terminar un viaje normal por carretera. El contrato limita también la ocupación a dos personas y detalla las reglas sobre sistemas de retención y menores. [Fuente · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+      },
+      {
+        "type": "heading",
+        "text": "Las inspecciones y el servicio forman parte de la suscripción"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla exige inspecciones y mantenimiento para mantener activa la suscripción. El propietario recibe avisos en la aplicación y el coche puede ir vacío a un centro de Tesla o ser trasladado. El contrato distingue los trabajos cubiertos por su anexo de las reparaciones adicionales que precisan autorización. Tesla se reserva el derecho de restringir el funcionamiento si se omite una inspección o se rechaza una reparación que considera necesaria. Al calcular el coste, también importa la disponibilidad de talleres y citas. [Fuente · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué datos del viaje describe el contrato"
+      },
+      {
+        "type": "paragraph",
+        "text": "El acuerdo enumera datos identificables de diagnóstico y uso procedentes del vehículo y la aplicación. Incluye ejemplos como ubicación, vídeo exterior, imágenes del habitáculo y audio en ciertas situaciones de asistencia. Tesla indica un plazo de conservación predeterminado de 30 días, mientras que las solicitudes de asistencia y los incidentes se tratan según su aviso de privacidad. Las cláusulas describen las prácticas declaradas por la empresa. [Fuente · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+      },
+      {
+        "type": "heading",
+        "text": "Una invitación que corresponde a un momento concreto"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cobertura inicial mencionaba una entrega estimada en diciembre de 2026 en Austin. Una estimación en la pantalla de pedidos es distinta de un anuncio de entregas. También conviene separar el precio anunciado, los pagos exigidos por el contrato y los lugares donde puede operar el vehículo. La tabla presenta la oferta de partida y un cálculo para compararla con otras. Para más contexto, consulta [la cobertura de PRESDA sobre Robotaxi](/articles/robotaxi-revolution-tesla-waymo-zoox-baidu-2026/). [Fuente · Electrek, initial order terms](https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[CYBERCAB_OFFER_SNAPSHOT]]",
+        "caption": "Oferta inicial de EE. UU., antes de impuestos. El total supone doce meses de pago a la tarifa anunciada.",
+        "headings": [
+          "Concepto",
+          "USD"
+        ],
+        "rows": [
+          [
+            "Precio de compra anunciado",
+            "29.990"
+          ],
+          [
+            "Suscripción mensual",
+            "299"
+          ],
+          [
+            "Doce mensualidades pagadas",
+            "3588"
+          ],
+          [
+            "Compra y doce mensualidades",
+            "33.578"
+          ]
+        ]
+      },
+      {
         "type": "subheading",
         "text": "Un biplaza sin mandos manuales"
       },
@@ -402755,6 +402877,10 @@
       {
         "label": "Not a Tesla App",
         "url": "https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high"
+      },
+      {
+        "label": "Fuente · Electrek, initial order terms",
+        "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
       }
     ],
     "faq": [
@@ -402767,7 +402893,7 @@
         "answer": "Tesla estimó diciembre de 2026 para los compradores invitados."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "fr",
@@ -402825,6 +402951,65 @@
         "text": "Le contrat américain prévoit que le Cybercab ne fonctionne qu’avec un abonnement actif. Il inclut la conduite autonome, la connectivité, l’assistance à distance et certaines prestations d’entretien et de dépannage. L’assurance, l’immatriculation, la recharge et le stationnement restent à la charge du propriétaire. Douze mois payants reviennent à 3 588 dollars au tarif annoncé. [Source: www.tesla.com](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
       },
       {
+        "type": "heading",
+        "text": "Ce que permet la commande manuelle sur l’écran"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le contrat du 12 novembre distingue les trajets autonomes de la commande manuelle limitée sur l’écran. Celle-ci sert aux manœuvres sur de courtes distances, jusqu’à 2 mph, exige un permis américain valide et n’est pas prévue pour la voie publique. Elle ne permet donc pas de terminer un trajet routier ordinaire si l’accès au système autonome est suspendu. Le contrat limite aussi le véhicule à deux occupants et précise les règles concernant les dispositifs de retenue et les mineurs. [Source · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+      },
+      {
+        "type": "heading",
+        "text": "Entretien et inspections font partie des conditions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Selon Tesla, un abonnement actif exige des inspections et un entretien. Le propriétaire reçoit les notifications dans l’application. La voiture peut rejoindre un centre Tesla à vide ou y être transportée. Le contrat distingue les opérations couvertes par son annexe des réparations supplémentaires à autoriser. Tesla se réserve la possibilité de restreindre l’usage si une inspection est manquée ou si une réparation qu’elle juge nécessaire à la sécurité est refusée. Pour l’acheteur, l’accès à un centre et aux rendez-vous compte donc autant que les frais récurrents. [Source · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+      },
+      {
+        "type": "subheading",
+        "text": "Les données recueillies pendant un trajet"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le contrat prévoit la collecte de données identifiantes de diagnostic et d’usage depuis la voiture et l’application. Il cite la localisation, les vidéos extérieures, les images de l’habitacle et, dans certaines situations d’assistance, des sons. Tesla annonce une conservation par défaut de 30 jours, avec un traitement distinct des demandes d’assistance et des événements de sécurité selon sa politique de confidentialité. Ces clauses décrivent les pratiques annoncées par Tesla. [Source · Tesla, Cybercab Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+      },
+      {
+        "type": "heading",
+        "text": "Une invitation valable dans un contexte précis"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les premiers articles évoquaient une livraison estimée en décembre 2026 à Austin. Une estimation sur un écran de commande reste distincte d’une annonce de livraison. Il faut aussi séparer le prix affiché, les paiements exigés par le contrat et les lieux où le véhicule peut circuler. Le tableau reprend l’offre initiale et propose un calcul simple pour la comparer à une offre ultérieure. Pour le contexte, voir [la couverture de Robotaxi par PRESDA](/articles/robotaxi-revolution-tesla-waymo-zoox-baidu-2026/). [Source · Electrek, initial order terms](https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[CYBERCAB_OFFER_SNAPSHOT]]",
+        "caption": "Offre initiale aux États-Unis, hors taxes. Le total suppose douze mois payants au tarif annoncé.",
+        "headings": [
+          "Poste",
+          "USD"
+        ],
+        "rows": [
+          [
+            "Prix d’achat annoncé",
+            "29 990"
+          ],
+          [
+            "Abonnement mensuel",
+            "299"
+          ],
+          [
+            "Douze mois payants",
+            "3 588"
+          ],
+          [
+            "Achat et douze mois payants",
+            "33 578"
+          ]
+        ]
+      },
+      {
         "type": "subheading",
         "text": "Une biplace sans commandes manuelles"
       },
@@ -402877,6 +403062,10 @@
       {
         "label": "Not a Tesla App",
         "url": "https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high"
+      },
+      {
+        "label": "Source · Electrek, initial order terms",
+        "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
       }
     ],
     "faq": [
@@ -402889,7 +403078,7 @@
         "answer": "Tesla estimait les premières livraisons à décembre 2026 pour les clients invités."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "ar",
