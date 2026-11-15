@@ -8,6 +8,34 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[DNA_COMPARISON_DENOMINATORS]]": {
+  "caption": "Three reported values with different denominators and meanings.",
+  "rows": [
+    [
+      "Human and chimpanzee",
+      "About 98.8%",
+      "Matching letters at aligned positions"
+    ],
+    [
+      "Human and mouse",
+      "About 80%",
+      "Human genes with a one-to-one mouse counterpart in the study"
+    ],
+    [
+      "Human genes tested in yeast",
+      "47%",
+      "Tested yeast genes functionally replaced by a human counterpart"
+    ]
+  ],
+  "headers": [
+    "Comparison",
+    "Reported value",
+    "What was counted"
+  ],
+  "minWidthClass": "min-w-[420px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
   "[[CYBERCAB_OFFER_SNAPSHOT]]": {
   "caption": "Initial US offer, before taxes. The total assumes twelve paid months at the advertised rate.",
   "rows": [

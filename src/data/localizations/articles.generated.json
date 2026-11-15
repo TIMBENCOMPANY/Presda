@@ -213017,6 +213017,65 @@
         "text": "قدّرت دراسة جينوم الغوريلا اختلاف التسلسل بين الإنسان والغوريلا بنحو 1.75%، أي تطابقاً يقارب 98.25% وفق ذلك المقياس. وتبيّن أيضاً أن بعض المقاطع تسجل علاقات مختلفة، فقد تبقى سمة وراثية قديمة عبر أكثر من تفرع وتتوزع بطرق مختلفة على السلالات. وفي المحصلة، البشر والشمبانزي أقرب إلى بعضهما منهما إلى الغوريلا. [المصدر: www.nature.com](https://www.nature.com/articles/nature10842)"
       },
       {
+        "type": "heading",
+        "text": "ماذا أضافت الجينومات الأحدث للقردة العليا؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "نشرت دراسة في دورية نيتشر عام 2025 تسلسلات مرجعية أكثر اكتمالاً لستة أنواع من القردة غير البشرية. وجمع الفريق 215 كروموسوماً من طرف إلى طرف بلا فجوات. وكانت المقارنات السابقة أوضح في المناطق الأسهل تجميعاً ومحاذاةً. أما التكرارات والازدواجات الكبيرة والمقاطع المعقدة قرب الأطراف فأصعب في التحديد. وتتيح القراءات الأطول والمراجع الأكثر اكتمالاً دراسة عدد أكبر من هذه المناطق وطرح أسئلة تتجاوز اختلاف الحروف في محاذاة بسيطة. [المصدر · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/)"
+      },
+      {
+        "type": "subheading",
+        "text": "كيف تجتمع نسبة 98.8 في المئة مع اختلافات أكبر؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يصف التقدير الأقدم للشمبانزي الحروف المتحاذية. وفي مقارنات الدراسة الأحدث، تعذرت محاذاة 12.5 إلى 27.3 في المئة من جينوم القرد أو لم تلائم محاذاة بسيطة واحداً لواحد. ويشمل هذا النطاق مقارنات لأنواع مختلفة ويقيس ظاهرة أخرى. وطرحه من 100 لا يعطي نسبة بديلة للإنسان والشمبانزي. قبل تفسير الرقم، ينبغي معرفة الجينومات المستخدمة وطريقة التعامل مع الاستبدالات والإدخالات والحذف والنسخ الإضافية والمقاطع التي يصعب إقرانها. [المصدر · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/) [المصدر · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072)"
+      },
+      {
+        "type": "heading",
+        "text": "قارن طريقة القياس قبل مقارنة النسب"
+      },
+      {
+        "type": "paragraph",
+        "text": "عند مقارنة طبعتين لكتاب يمكن مراجعة تهجئة السطور المتقابلة، أو عد الفصول ذات النظائر، أو اختبار ما إذا كان أحد الفصول يصلح عوضاً عن آخر في درس. وهذه ثلاثة اختبارات مختلفة. ويميز علم الجينوم أيضاً بين تطابق الحروف وقرابة الجينات وإمكان الاستبدال في تجربة. وأرقام الجدول مأخوذة من دراسات مختلفة، ويُقرأ كل رقم مع مقامه. ويشرح [دليل PRESDA للحمض النووي البشري](/articles/human-dna-code-that-builds-us/) ما يحتويه الجينوم. [المصدر · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072) [المصدر · Mouse–human orthology](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/) [المصدر · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[DNA_COMPARISON_DENOMINATORS]]",
+        "caption": "ثلاث نتائج منشورة بمقامات ودلالات مختلفة.",
+        "headings": [
+          "المقارنة",
+          "النتيجة",
+          "ما الذي حُسب؟"
+        ],
+        "rows": [
+          [
+            "الإنسان والشمبانزي",
+            "نحو 98.8٪",
+            "الحروف المتطابقة في المواضع المتحاذية"
+          ],
+          [
+            "الإنسان والفأر",
+            "نحو 80٪",
+            "الجينات البشرية ذات نظير واحد مقابل واحد لدى الفأر في الدراسة"
+          ],
+          [
+            "جينات بشرية اختُبرت في الخميرة",
+            "47٪",
+            "جينات الخميرة المختبرة التي أدّى نظير بشري وظيفتها"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "لماذا تهم القرابة في المختبر؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يساعد وجود جين نظير معروف العلماء على اختيار كائن لدراسة عملية حيوية. وذهبت تجربة الخميرة أبعد، فسألت إن كان جين بشري يستطيع أداء وظيفة لازمة في ظروف الاختبار. ويقدّم النجاح دليلاً يتعلق بتلك الوظيفة تحديداً. أما الإخفاق فقد يعود إلى اختلاف تفاعل البروتينات أو إلى حدود التجربة، ولا يلغي القرابة التطورية. وتجعل هذه التحفظات النتيجة المقيسة أدق من نسبة عامة تُنسب إلى جميع الفطريات. [المصدر · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+      },
+      {
         "type": "paragraph",
         "text": "أظهر المكاك الريسوسي، وهو قرد من قرود العالم القديم، تشابهاً في الحمض النووي بنحو 93% في مقارنة مشروع الجينوم لعام 2007 مع البشر والشمبانزي. ويخص الرقم هذا النوع وهذه الطريقة، إذ تضم القرود سلالات كثيرة ولا يجمعها رقم واحد. [المصدر: www.genome.gov](https://www.genome.gov/25520551/2007-release-analysis-of-rhesus-monkey-genome-uncovers-genetic-differences-with-humans-chimps)"
       },
@@ -213097,6 +213156,10 @@
       {
         "label": "المصدر · pmc.ncbi.nlm.nih.gov",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/"
+      },
+      {
+        "label": "المصدر · Yoo et al., Nature",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39131277/"
       }
     ],
     "faq": [
@@ -213109,7 +213172,7 @@
         "answer": "لا يثبت الأصل المشترك تطابق التعبير الجيني أو الوظيفة."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 5
   },
   {
     "locale": "es",
@@ -213165,6 +213228,65 @@
       {
         "type": "paragraph",
         "text": "El estudio del gorila estimó una divergencia humano-gorila de alrededor del 1,75 %, equivalente a un 98,25 % de identidad con esa medida. Algunas regiones cuentan una historia distinta: una variante ancestral puede persistir durante varias separaciones y distribuirse de manera diferente. En conjunto, el humano y el chimpancé están más emparentados entre sí que con el gorila. [Fuente: www.nature.com](https://www.nature.com/articles/nature10842)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué aportan los genomas más completos de los simios"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2025, un estudio de Nature publicó secuencias de referencia mucho más completas para seis especies de simios no humanos. El equipo ensambló 215 cromosomas sin huecos de extremo a extremo. Las comparaciones anteriores veían mejor las regiones fáciles de ensamblar y alinear. Las repeticiones, grandes duplicaciones y zonas complejas de los extremos son más difíciles de situar. Las lecturas largas y las referencias más completas permiten estudiar mejor esas regiones y plantear preguntas que van más allá de las letras distintas en un alineamiento sencillo. [Fuente · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Cómo puede coexistir el 98,8 % con diferencias mayores"
+      },
+      {
+        "type": "paragraph",
+        "text": "La estimación clásica para el chimpancé describe las letras alineadas. En las comparaciones de simios del estudio reciente, entre el 12,5 y el 27,3 % de un genoma no se alineaba o no encajaba en una correspondencia simple uno a uno. El intervalo abarca comparaciones distintas y mide otro fenómeno. Restarlo de 100 no produce una nueva cifra de identidad entre humanos y chimpancés. Hay que revisar qué genomas se usaron y cómo se trataron sustituciones, inserciones, pérdidas, copias adicionales y bloques difíciles de emparejar. [Fuente · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/) [Fuente · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072)"
+      },
+      {
+        "type": "heading",
+        "text": "Antes del porcentaje, compara el método"
+      },
+      {
+        "type": "paragraph",
+        "text": "Entre dos ediciones de un libro puedes cotejar la ortografía de las líneas correspondientes, contar los capítulos con un equivalente o comprobar si uno sustituye a otro en una clase. Son tres pruebas distintas. En genómica también se distingue la identidad de letras, el parentesco de genes y su sustitución experimental. Las cifras de la tabla proceden de estudios distintos y se interpretan con su denominador. La [guía de PRESDA sobre el ADN humano](/articles/human-dna-code-that-builds-us/) explica qué contiene un genoma. [Fuente · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072) [Fuente · Mouse–human orthology](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/) [Fuente · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[DNA_COMPARISON_DENOMINATORS]]",
+        "caption": "Tres resultados publicados con denominadores y sentidos diferentes.",
+        "headings": [
+          "Comparación",
+          "Resultado",
+          "Qué se contó"
+        ],
+        "rows": [
+          [
+            "Humano y chimpancé",
+            "Alrededor del 98,8 %",
+            "Letras idénticas en posiciones alineadas"
+          ],
+          [
+            "Humano y ratón",
+            "Alrededor del 80 %",
+            "Genes humanos con un ortólogo de ratón uno a uno en el estudio"
+          ],
+          [
+            "Genes humanos probados en levadura",
+            "47 %",
+            "Genes de levadura ensayados y sustituidos funcionalmente por un homólogo humano"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Por qué importa el parentesco en el laboratorio"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un gen emparentado reconocible ayuda a elegir un organismo para estudiar un proceso biológico. El estudio con levaduras fue más allá y probó si un gen humano podía asumir una función necesaria en las condiciones del experimento. Un resultado positivo informa sobre esa función concreta. Un fallo puede deberse a interacciones distintas entre proteínas o a los límites del ensayo, sin borrar la relación evolutiva. Esos matices resultan más informativos que un porcentaje general atribuido a los hongos. [Fuente · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
       },
       {
         "type": "paragraph",
@@ -213247,6 +213369,10 @@
       {
         "label": "Fuente · pmc.ncbi.nlm.nih.gov",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/"
+      },
+      {
+        "label": "Fuente · Yoo et al., Nature",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39131277/"
       }
     ],
     "faq": [
@@ -213259,7 +213385,7 @@
         "answer": "Un origen común no establece idéntica expresión o función."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 5
   },
   {
     "locale": "fr",
@@ -213315,6 +213441,65 @@
       {
         "type": "paragraph",
         "text": "L’étude du génome du gorille a estimé à environ 1,75 % la divergence humain-gorille, soit environ 98,25 % d’identité selon cette mesure. Certaines régions racontent une histoire différente : une variante ancestrale peut persister après plusieurs séparations et se répartir différemment chez les descendants. Dans l’ensemble, humains et chimpanzés restent plus proches entre eux que du gorille. [Source: www.nature.com](https://www.nature.com/articles/nature10842)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que changent les génomes de grands singes les plus complets"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2025, une étude de Nature a publié des séquences de référence nettement plus complètes pour six espèces de singes non humains. L’équipe a assemblé 215 chromosomes sans lacune, d’une extrémité à l’autre. Les comparaisons antérieures voyaient surtout les zones les plus faciles à assembler et à aligner. Les répétitions, les grandes duplications et les régions complexes proches des extrémités sont plus difficiles à placer. Les lectures longues et les références plus complètes permettent d’étudier davantage de ces zones et de poser d’autres questions que celle des lettres différentes dans un alignement simple. [Source · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Pourquoi 98,8 % peut coexister avec des différences plus grandes"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’estimation historique pour le chimpanzé porte sur les lettres alignées. Dans les comparaisons entre singes de la nouvelle étude, 12,5 à 27,3 % d’un génome ne s’alignaient pas ou ne correspondaient pas à un alignement simple terme à terme. Cette fourchette regroupe plusieurs comparaisons et mesure un autre phénomène. La soustraire de 100 ne donne pas un nouveau taux de ressemblance humain-chimpanzé. Il faut vérifier les génomes choisis et la façon de traiter substitutions, insertions, délétions, copies supplémentaires et blocs difficiles à apparier. [Source · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/) [Source · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072)"
+      },
+      {
+        "type": "heading",
+        "text": "Comparer les méthodes avant les pourcentages"
+      },
+      {
+        "type": "paragraph",
+        "text": "Entre deux éditions d’un livre, on peut vérifier l’orthographe des lignes correspondantes, compter les chapitres qui ont un équivalent ou tester si l’un peut remplacer l’autre dans un cours. Ce sont trois mesures distinctes. En génomique, on distingue de même l’identité des lettres, la parenté entre gènes et la possibilité de substitution dans une expérience. Les chiffres du tableau viennent d’études différentes et s’interprètent avec leur dénominateur. Le [guide de PRESDA sur l’ADN humain](/articles/human-dna-code-that-builds-us/) décrit le contenu d’un génome. [Source · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072) [Source · Mouse–human orthology](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/) [Source · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[DNA_COMPARISON_DENOMINATORS]]",
+        "caption": "Trois résultats calculés avec des dénominateurs différents.",
+        "headings": [
+          "Comparaison",
+          "Résultat",
+          "Éléments comptés"
+        ],
+        "rows": [
+          [
+            "Humain et chimpanzé",
+            "Environ 98,8 %",
+            "Lettres identiques aux positions alignées"
+          ],
+          [
+            "Humain et souris",
+            "Environ 80 %",
+            "Gènes humains ayant un seul orthologue chez la souris dans l’étude"
+          ],
+          [
+            "Gènes humains testés chez la levure",
+            "47 %",
+            "Gènes de levure testés remplacés fonctionnellement par un gène humain"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "À quoi sert la parenté en laboratoire ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un gène apparenté identifiable aide à choisir un organisme pour étudier un processus. L’expérience sur la levure est allée plus loin, en vérifiant si un gène humain pouvait assurer une fonction nécessaire dans les conditions du test. Une réussite renseigne sur cette fonction précise. Un échec peut tenir aux interactions entre protéines ou aux conditions de l’expérience, sans effacer la parenté évolutive des gènes. Ces nuances donnent plus de sens au résultat qu’un pourcentage général attribué aux champignons. [Source · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
       },
       {
         "type": "paragraph",
@@ -213397,6 +213582,10 @@
       {
         "label": "Source · pmc.ncbi.nlm.nih.gov",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/"
+      },
+      {
+        "label": "Source · Yoo et al., Nature",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39131277/"
       }
     ],
     "faq": [
@@ -213409,7 +213598,7 @@
         "answer": "Une origine commune ne garantit ni une expression ni une fonction identiques."
       }
     ],
-    "readingTimeMinutes": 4
+    "readingTimeMinutes": 5
   },
   {
     "locale": "ar",

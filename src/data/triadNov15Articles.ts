@@ -30,6 +30,15 @@ export const triadNov15Articles: Article[] = [
       "An alignment sets corresponding stretches of DNA side by side and measures exact matches among comparable positions. Insertions, deletions, extra copies and rearrangements can affect how much aligns in the first place. Gene orthology, by contrast, asks whether genes in two species descend from the same gene in their common ancestor. A one-to-one match means each species has one corresponding copy under the study’s rules. [Chimpanzee genome consortium](https://www.nature.com/articles/nature04072)",
       "### The ape and monkey comparisons",
       "The gorilla genome study reported roughly 1.75% sequence divergence between human and gorilla in its comparison, equivalent to about 98.25% identity under that measure. It also found that some regions have different local family trees. An ancestral variant can persist across successive splits and sort differently among descendants. The overall relationship still places humans and chimpanzees closer to each other than either is to gorillas. [Gorilla genome study](https://www.nature.com/articles/nature10842)",
+      "## Why the newest ape genomes add detail",
+      "In 2025, a Nature study published substantially more complete reference sequences for six nonhuman ape species. The team assembled 215 chromosomes without gaps from end to end. That matters because earlier comparisons often had their sharpest view of regions that were easier to assemble and align. Repetitive regions, large duplications and complex stretches near chromosome ends can be harder to place. Longer reads and more complete references let researchers compare some of those regions on their own terms. The new assemblies therefore extend the question beyond just counting mismatched letters in a clean alignment. [Source · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/)",
+      "### How can 98.8 percent coexist with larger differences?",
+      "The older chimpanzee estimate describes aligned letters. The newer study reports that, across its ape comparisons, 12.5–27.3 percent of an ape genome either did not align or did not fit a simple one-to-one alignment. This range includes comparisons involving different species and captures a different phenomenon. It cannot be subtracted from 100 to replace the human–chimpanzee headline figure. Before interpreting a number, check which genomes were used and whether the calculation counts substitutions, insertions, deletions, extra copies or blocks that cannot be paired simply. [Source · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/) [Source · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072)",
+      "## Compare the measurement before comparing the percentage",
+      "Imagine two editions of a book. You can compare the spelling of matching lines, count how many chapters have a counterpart, or ask whether one chapter can take the place of another in a lesson. Those are separate tests. Genomics similarly distinguishes letter identity, gene relationships and experimental interchangeability. The figures in the table come from different studies and should be read with their denominators. For a closer look at what a genome contains, see [PRESDA’s guide to human DNA](/articles/human-dna-code-that-builds-us/). [Source · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072) [Source · Mouse–human orthology](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/) [Source · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)",
+      "[[DNA_COMPARISON_DENOMINATORS]]",
+      "## Why shared ancestry matters in the laboratory",
+      "A recognizable counterpart can help scientists choose an organism for studying a biological process. The yeast study went further by observing whether a particular human gene could take over a function needed by yeast under its test conditions. A successful replacement is evidence about that function in that experiment. A failure can reflect differences in how the proteins work together, or limits of the conditions used, and does not erase the genes’ evolutionary relationship. Those qualifications make a measured result more informative than a sweeping statement about how much DNA humans share with fungi. [Source · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)",
       "The rhesus macaque, an Old World monkey, showed about 93% DNA similarity in the 2007 genome project’s comparison with humans and chimpanzees. That estimate concerns this macaque and this method. Monkeys include many lineages, so there is no single human-to-monkey percentage. [NHGRI: rhesus macaque genome](https://www.genome.gov/25520551/2007-release-analysis-of-rhesus-monkey-genome-uncovers-genetic-differences-with-humans-chimps)",
       "## Other mammals and birds",
       "A finished mouse genome comparison found one-to-one counterparts in mice for about 80% of human genes in its annotation. The study also found different proportions when starting from mouse genes. Gene counts and the reference direction both matter. Conserved genes make mice useful models, while changes in gene regulation and physiology limit what an experiment can tell us about humans. [Mouse genome comparison](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/)",
@@ -75,6 +84,10 @@ export const triadNov15Articles: Article[] = [
       {
         "name": "Source · pmc.ncbi.nlm.nih.gov",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/"
+      },
+      {
+        "name": "Yoo et al., Nature",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39131277/"
       }
     ],
     "relatedSlugs": [
@@ -90,7 +103,7 @@ export const triadNov15Articles: Article[] = [
         "answer": "Shared ancestry does not establish identical expression or identical function."
       }
     ],
-    "readingTime": "4 min read"
+    "readingTime": "6 min read"
   },
   {
     "id": "473",

@@ -54,6 +54,65 @@
       "text": "El estudio del gorila estimó una divergencia humano-gorila de alrededor del 1,75 %, equivalente a un 98,25 % de identidad con esa medida. Algunas regiones cuentan una historia distinta: una variante ancestral puede persistir durante varias separaciones y distribuirse de manera diferente. En conjunto, el humano y el chimpancé están más emparentados entre sí que con el gorila. [Fuente: www.nature.com](https://www.nature.com/articles/nature10842)"
     },
     {
+      "type": "heading",
+      "text": "Qué aportan los genomas más completos de los simios"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2025, un estudio de Nature publicó secuencias de referencia mucho más completas para seis especies de simios no humanos. El equipo ensambló 215 cromosomas sin huecos de extremo a extremo. Las comparaciones anteriores veían mejor las regiones fáciles de ensamblar y alinear. Las repeticiones, grandes duplicaciones y zonas complejas de los extremos son más difíciles de situar. Las lecturas largas y las referencias más completas permiten estudiar mejor esas regiones y plantear preguntas que van más allá de las letras distintas en un alineamiento sencillo. [Fuente · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Cómo puede coexistir el 98,8 % con diferencias mayores"
+    },
+    {
+      "type": "paragraph",
+      "text": "La estimación clásica para el chimpancé describe las letras alineadas. En las comparaciones de simios del estudio reciente, entre el 12,5 y el 27,3 % de un genoma no se alineaba o no encajaba en una correspondencia simple uno a uno. El intervalo abarca comparaciones distintas y mide otro fenómeno. Restarlo de 100 no produce una nueva cifra de identidad entre humanos y chimpancés. Hay que revisar qué genomas se usaron y cómo se trataron sustituciones, inserciones, pérdidas, copias adicionales y bloques difíciles de emparejar. [Fuente · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/) [Fuente · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072)"
+    },
+    {
+      "type": "heading",
+      "text": "Antes del porcentaje, compara el método"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre dos ediciones de un libro puedes cotejar la ortografía de las líneas correspondientes, contar los capítulos con un equivalente o comprobar si uno sustituye a otro en una clase. Son tres pruebas distintas. En genómica también se distingue la identidad de letras, el parentesco de genes y su sustitución experimental. Las cifras de la tabla proceden de estudios distintos y se interpretan con su denominador. La [guía de PRESDA sobre el ADN humano](/articles/human-dna-code-that-builds-us/) explica qué contiene un genoma. [Fuente · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072) [Fuente · Mouse–human orthology](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/) [Fuente · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[DNA_COMPARISON_DENOMINATORS]]",
+      "caption": "Tres resultados publicados con denominadores y sentidos diferentes.",
+      "headings": [
+        "Comparación",
+        "Resultado",
+        "Qué se contó"
+      ],
+      "rows": [
+        [
+          "Humano y chimpancé",
+          "Alrededor del 98,8 %",
+          "Letras idénticas en posiciones alineadas"
+        ],
+        [
+          "Humano y ratón",
+          "Alrededor del 80 %",
+          "Genes humanos con un ortólogo de ratón uno a uno en el estudio"
+        ],
+        [
+          "Genes humanos probados en levadura",
+          "47 %",
+          "Genes de levadura ensayados y sustituidos funcionalmente por un homólogo humano"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Por qué importa el parentesco en el laboratorio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un gen emparentado reconocible ayuda a elegir un organismo para estudiar un proceso biológico. El estudio con levaduras fue más allá y probó si un gen humano podía asumir una función necesaria en las condiciones del experimento. Un resultado positivo informa sobre esa función concreta. Un fallo puede deberse a interacciones distintas entre proteínas o a los límites del ensayo, sin borrar la relación evolutiva. Esos matices resultan más informativos que un porcentaje general atribuido a los hongos. [Fuente · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+    },
+    {
       "type": "paragraph",
       "text": "El macaco rhesus, un mono del Viejo Mundo, presentó alrededor de un 93 % de similitud en la comparación de 2007 con humanos y chimpancés. El dato corresponde al rhesus y a ese método. La diversidad de linajes impide dar un único porcentaje para todos los monos. [Fuente: www.genome.gov](https://www.genome.gov/25520551/2007-release-analysis-of-rhesus-monkey-genome-uncovers-genetic-differences-with-humans-chimps)"
     },
@@ -134,6 +193,10 @@
     {
       "label": "Fuente · pmc.ncbi.nlm.nih.gov",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/"
+    },
+    {
+      "label": "Fuente · Yoo et al., Nature",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39131277/"
     }
   ],
   "faq": [
@@ -146,5 +209,5 @@
       "answer": "Un origen común no establece idéntica expresión o función."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 5
 }

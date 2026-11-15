@@ -54,6 +54,65 @@
       "text": "L’étude du génome du gorille a estimé à environ 1,75 % la divergence humain-gorille, soit environ 98,25 % d’identité selon cette mesure. Certaines régions racontent une histoire différente : une variante ancestrale peut persister après plusieurs séparations et se répartir différemment chez les descendants. Dans l’ensemble, humains et chimpanzés restent plus proches entre eux que du gorille. [Source: www.nature.com](https://www.nature.com/articles/nature10842)"
     },
     {
+      "type": "heading",
+      "text": "Ce que changent les génomes de grands singes les plus complets"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2025, une étude de Nature a publié des séquences de référence nettement plus complètes pour six espèces de singes non humains. L’équipe a assemblé 215 chromosomes sans lacune, d’une extrémité à l’autre. Les comparaisons antérieures voyaient surtout les zones les plus faciles à assembler et à aligner. Les répétitions, les grandes duplications et les régions complexes proches des extrémités sont plus difficiles à placer. Les lectures longues et les références plus complètes permettent d’étudier davantage de ces zones et de poser d’autres questions que celle des lettres différentes dans un alignement simple. [Source · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi 98,8 % peut coexister avec des différences plus grandes"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’estimation historique pour le chimpanzé porte sur les lettres alignées. Dans les comparaisons entre singes de la nouvelle étude, 12,5 à 27,3 % d’un génome ne s’alignaient pas ou ne correspondaient pas à un alignement simple terme à terme. Cette fourchette regroupe plusieurs comparaisons et mesure un autre phénomène. La soustraire de 100 ne donne pas un nouveau taux de ressemblance humain-chimpanzé. Il faut vérifier les génomes choisis et la façon de traiter substitutions, insertions, délétions, copies supplémentaires et blocs difficiles à apparier. [Source · Yoo et al., Nature](https://pubmed.ncbi.nlm.nih.gov/39131277/) [Source · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072)"
+    },
+    {
+      "type": "heading",
+      "text": "Comparer les méthodes avant les pourcentages"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre deux éditions d’un livre, on peut vérifier l’orthographe des lignes correspondantes, compter les chapitres qui ont un équivalent ou tester si l’un peut remplacer l’autre dans un cours. Ce sont trois mesures distinctes. En génomique, on distingue de même l’identité des lettres, la parenté entre gènes et la possibilité de substitution dans une expérience. Les chiffres du tableau viennent d’études différentes et s’interprètent avec leur dénominateur. Le [guide de PRESDA sur l’ADN humain](/articles/human-dna-code-that-builds-us/) décrit le contenu d’un génome. [Source · Chimpanzee Sequencing and Analysis Consortium](https://www.nature.com/articles/nature04072) [Source · Mouse–human orthology](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/) [Source · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[DNA_COMPARISON_DENOMINATORS]]",
+      "caption": "Trois résultats calculés avec des dénominateurs différents.",
+      "headings": [
+        "Comparaison",
+        "Résultat",
+        "Éléments comptés"
+      ],
+      "rows": [
+        [
+          "Humain et chimpanzé",
+          "Environ 98,8 %",
+          "Lettres identiques aux positions alignées"
+        ],
+        [
+          "Humain et souris",
+          "Environ 80 %",
+          "Gènes humains ayant un seul orthologue chez la souris dans l’étude"
+        ],
+        [
+          "Gènes humains testés chez la levure",
+          "47 %",
+          "Gènes de levure testés remplacés fonctionnellement par un gène humain"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "À quoi sert la parenté en laboratoire ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un gène apparenté identifiable aide à choisir un organisme pour étudier un processus. L’expérience sur la levure est allée plus loin, en vérifiant si un gène humain pouvait assurer une fonction nécessaire dans les conditions du test. Une réussite renseigne sur cette fonction précise. Un échec peut tenir aux interactions entre protéines ou aux conditions de l’expérience, sans effacer la parenté évolutive des gènes. Ces nuances donnent plus de sens au résultat qu’un pourcentage général attribué aux champignons. [Source · Kachroo et al.](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+    },
+    {
       "type": "paragraph",
       "text": "Dans la comparaison génomique publiée en 2007, le macaque rhésus, singe de l’Ancien Monde, montrait environ 93 % de similarité avec l’humain et le chimpanzé. Cette estimation concerne le rhésus et la méthode choisie. La diversité des lignées empêche d’attribuer un seul chiffre à tous les singes. [Source: www.genome.gov](https://www.genome.gov/25520551/2007-release-analysis-of-rhesus-monkey-genome-uncovers-genetic-differences-with-humans-chimps)"
     },
@@ -134,6 +193,10 @@
     {
       "label": "Source · pmc.ncbi.nlm.nih.gov",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/"
+    },
+    {
+      "label": "Source · Yoo et al., Nature",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39131277/"
     }
   ],
   "faq": [
@@ -146,5 +209,5 @@
       "answer": "Une origine commune ne garantit ni une expression ni une fonction identiques."
     }
   ],
-  "readingTimeMinutes": 4
+  "readingTimeMinutes": 5
 }
