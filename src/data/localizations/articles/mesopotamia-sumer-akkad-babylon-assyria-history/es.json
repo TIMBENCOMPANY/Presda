@@ -39,6 +39,14 @@
     },
     {
       "type": "heading",
+      "text": "Dónde empieza y termina Mesopotamia"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Tigris y el Éufrates nacen en las tierras altas de la actual Turquía y fluyen hacia el golfo Pérsico. Buena parte del núcleo urbano antiguo se encuentra en Irak, pero la región histórica rebasa las fronteras actuales. En el norte, algunas zonas de la cuenca podían cultivar con lluvia. Más al sur, las comunidades de la llanura aluvial, más plana y seca, dependían más del control del agua. Los canales enlazaban campos y poblaciones, transportaban mercancías y exigían mantenimiento. La geografía explica cómo podían crecer las ciudades, cómo se abastecían y por qué el agua podía convertirse en una cuestión política. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+    },
+    {
+      "type": "heading",
       "text": "Sumer y el crecimiento urbano"
     },
     {
@@ -54,6 +62,14 @@
       "text": "Las primeras tablillas registraban cantidades, raciones y productos. Una cuenta de cebada de Uruk ilustra una necesidad práctica: saber qué se almacenaba y quién lo recibía. Con el tiempo, los signos cuneiformes sirvieron para escribir sumerio y acadio, entre otras lenguas. Las tablillas recogieron cuentas, cartas, documentos jurídicos y literatura. [Fuente: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
     },
     {
+      "type": "subheading",
+      "text": "Una tablilla pequeña y los límites de lo que cuenta"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tablilla de cereales que aparece debajo solo mide 6,85 centímetros de ancho. El Met la fecha aproximadamente entre 3100 y 2900 a. C. y sitúa su procedencia probable en Uruk. Las anotaciones se refieren a malta y cebada triturada. El museo interpreta que probablemente registra alimentos distribuidos por un gran templo, pero la escritura concisa deja mucho sin explicar. Para un escriba que conocía la operación, los productos y cantidades servían de recordatorio. Más de cinco mil años después, esa economía de signos dificulta reconstruir las circunstancias de algunas operaciones. [The Met](https://www.metmuseum.org/art/collection/search/327385)"
+    },
+    {
       "type": "heading",
       "text": "Acad y Babilonia"
     },
@@ -62,12 +78,72 @@
       "text": "En el tercer milenio a. C., Sargón de Acad reunió varias ciudades bajo una dinastía imperial. El acadio se difundió en la administración y perduraron las tradiciones escritas sumerias. La capital, Agadé, aún no se ha localizado con certeza. Las inscripciones y los restos de otras ciudades permiten estudiar el imperio. [Fuente: www.metmuseum.org](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities)"
     },
     {
+      "type": "heading",
+      "text": "Cuatro nombres a lo largo de tres milenios"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sumer designa el ámbito cultural y lingüístico meridional al que pertenecían Uruk y Ur. Acad alude a una dinastía imperial y a la ciudad de la que tomó el nombre. Bajo Sargón, instituciones urbanas más antiguas se integraron en una estructura política de mayor escala. El ascenso posterior de Babilonia y Asiria supuso otros cambios de poder, y sus historias se superpusieron. La tabla ordena cuatro hitos sin convertirlos en fechas de inicio o fin de cada sociedad. [The Met](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities) [The Met](https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[MESOPOTAMIA_MILESTONES]]",
+      "caption": "Hitos de la historia mesopotámica. Las fechas corresponden a acontecimientos concretos y no delimitan sociedades.",
+      "headings": [
+        "Sociedad o potencia",
+        "Fecha o período",
+        "Qué indica el hito"
+      ],
+      "rows": [
+        [
+          "Sumer",
+          "Hacia 3200 a. C.",
+          "Uruk surge como gran ciudad."
+        ],
+        [
+          "Acad",
+          "Finales del tercer milenio a. C.",
+          "La dinastía de Sargón reúne varias ciudades bajo un poder imperial."
+        ],
+        [
+          "Babilonia",
+          "1792–1750 a. C.",
+          "Hammurabi reina en Babilonia y manda inscribir su colección de sentencias."
+        ],
+        [
+          "Asiria",
+          "612 a. C.",
+          "La caída de Nínive marca el derrumbe del poder asirio."
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Qué quería mostrar Hammurabi"
+    },
+    {
+      "type": "paragraph",
+      "text": "La estela de basalto de Hammurabi conservada en el Louvre mide más de dos metros. Arriba se ve al rey ante Shamash, dios asociado a la justicia. Debajo aparecen decisiones sobre asuntos como propiedad, trabajo, familia y comercio. El Louvre describe el texto como una colección de resoluciones judiciales distinta de un código legislativo moderno. Las decisiones indican cómo resolver ciertos litigios y la imagen presenta la autoridad del gobernante como legitimada por los dioses. La estela se excavó en Susa, en el actual Irán, lejos de Babilonia. El lugar del hallazgo recuerda que los objetos también tienen una historia después de su creación. [Louvre](https://www.louvre.fr/en/the-code-of-hammurabi)"
+    },
+    {
       "type": "paragraph",
       "text": "Babilonia cobró relevancia bajo Hammurabi en el siglo XVIII a. C. Su colección de leyes inscrita muestra ideas regias sobre justicia, posición social y transacciones. La ciudad recuperó su papel imperial con los reyes neobabilónicos, entre ellos Nabucodonosor II, que la reconstruyó a escala monumental. [Fuente: www.metmuseum.org](https://www.metmuseum.org/de/essays/babylon)"
     },
     {
       "type": "heading",
       "text": "Asiria, las bibliotecas y el legado de los ríos"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué importa la biblioteca de Nínive"
+    },
+    {
+      "type": "paragraph",
+      "text": "La colección reunida bajo Asurbanipal incluía cartas, listas de palabras, relatos, textos médicos y observaciones del cielo. Su compilación exigía escribas capaces de copiar, comparar y transmitir textos entre distintas ciudades. Una cuenta documenta una actividad económica, una observación astronómica sitúa un fenómeno en el calendario y una copia literaria preserva una etapa en la transmisión de un relato. La biblioteca permite estudiar también las instituciones que hacían circular el conocimiento. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre la caída de Nínive y el saqueo mongol de Bagdad transcurrieron casi dos milenios. Las dos historias muestran cómo poderes distintos convirtieron la misma gran región en un centro de cultura escrita. [Sigue la historia posterior de Bagdad](/articles/baghdad-1258-mongol-siege-fall-abbasids/)."
     },
     {
       "type": "paragraph",
@@ -130,6 +206,18 @@
     {
       "label": "Fuente · metmuseum.org",
       "url": "https://www.metmuseum.org/art/collection/search/327385"
+    },
+    {
+      "label": "The Met",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+    },
+    {
+      "label": "Louvre",
+      "url": "https://www.louvre.fr/en/the-code-of-hammurabi"
+    },
+    {
+      "label": "British Museum",
+      "url": "https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf"
     }
   ],
   "faq": [
@@ -142,5 +230,5 @@
       "answer": "Fue una región con muchas sociedades y Estados, entre ellos los imperios acadio, asirio y babilonio en épocas distintas."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 6
 }

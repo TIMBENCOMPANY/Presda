@@ -277290,6 +277290,14 @@
       },
       {
         "type": "heading",
+        "text": "أين تبدأ بلاد الرافدين وأين تنتهي؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ينبع دجلة والفرات من مرتفعات تركيا الحالية ويتجهان نحو الخليج. ويقع جانب واسع من قلب المنطقة الحضرية القديمة في العراق، لكن بلاد الرافدين التاريخية تتجاوز حدود الدول الحالية. ففي الشمال أمكن زراعة أجزاء من الحوض بالاعتماد على الأمطار، بينما اعتمدت التجمعات في السهل الرسوبي الجنوبي، الأجف والأقل انحداراً، بدرجة أكبر على تنظيم المياه. وربطت القنوات الحقول بالمستوطنات وسهّلت نقل السلع واحتاجت إلى صيانة. وتفسر هذه الجغرافيا كيف نمت المدن، ومن أين جاء غذاؤها، ولماذا غدا الوصول إلى المياه قضية سياسية. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+      },
+      {
+        "type": "heading",
         "text": "سومر ونمو المدن"
       },
       {
@@ -277305,6 +277313,14 @@
         "text": "سجلت الألواح الأولى الكميات والحصص والبضائع. ويجسّد سجل للشعير من أوروك حاجة مدينية عملية إلى معرفة ما خُزّن ومن حصل عليه. ومع الزمن أمكن للعلامات المسمارية تدوين لغات منها السومرية والأكدية. واستُخدمت الألواح في الحسابات والرسائل والسجلات القانونية والأدب. [المصدر: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
       },
       {
+        "type": "subheading",
+        "text": "لوح صغير وحدود ما يمكن قراءته"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يتجاوز عرض لوح الحبوب المعروض أدناه 6.85 سنتيمترات. يؤرخه متحف المتروبوليتان بنحو 3100 إلى 2900 قبل الميلاد ويرجح أنه جاء من أوروك. وتشير قيوده إلى الشعير المُملّت والجريش. ويرى المتحف أنه يسجل على الأرجح توزيع مواد غذائية من معبد كبير، لكن نمط الكتابة الموجز لا يكشف كل الظروف. كان بوسع الكاتب الملمّ بالمعاملة الاستعانة بأسماء السلع وكمياتها لتذكّرها. وبعد أكثر من خمسة آلاف سنة، يصعب استعادة تفاصيل بعض المعاملات من تلك العلامات القليلة. [The Met](https://www.metmuseum.org/art/collection/search/327385)"
+      },
+      {
         "type": "heading",
         "text": "أكد وبابل"
       },
@@ -277313,12 +277329,72 @@
         "text": "في الألف الثالث قبل الميلاد، جمع سرجون الأكدي مدناً متعددة تحت حكم سلالة إمبراطورية. وانتشرت الأكدية في الإدارة مع استمرار التقاليد الكتابية السومرية. ولم يُحدد موقع العاصمة أكد على نحو قاطع، وتأتي معرفة الإمبراطورية من النقوش وبقايا مدن أخرى. [المصدر: www.metmuseum.org](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities)"
       },
       {
+        "type": "heading",
+        "text": "أربعة أسماء عبر ثلاثة آلاف عام"
+      },
+      {
+        "type": "paragraph",
+        "text": "تسمّي سومر عالماً ثقافياً ولغوياً جنوبياً ضم مدناً مثل أوروك وأور. ويطلق اسم أكاد على سلالة إمبراطورية وعلى المدينة التي أخذت اسمها منها. وفي عهد سرجون دخلت مؤسسات مدينية أقدم في إطار سياسي أوسع. ثم تغيّر مركز السلطة مع صعود بابل وآشور، وتداخل تاريخ القوتين. ويضع الجدول أربع محطات بالترتيب، من دون اعتبار تواريخها حدوداً لبدايات تلك المجتمعات ونهاياتها. [The Met](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities) [The Met](https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[MESOPOTAMIA_MILESTONES]]",
+        "caption": "محطات من تاريخ بلاد الرافدين. تشير التواريخ إلى أحداث محددة وليست حدوداً زمنية للمجتمعات.",
+        "headings": [
+          "المجتمع أو القوة",
+          "التاريخ أو الفترة",
+          "دلالة المحطة"
+        ],
+        "rows": [
+          [
+            "سومر",
+            "نحو 3200 قبل الميلاد",
+            "برزت أوروك مدينة كبرى."
+          ],
+          [
+            "أكاد",
+            "أواخر الألف الثالث قبل الميلاد",
+            "أخضعت سلالة سرجون عدة مدن لسلطة إمبراطورية."
+          ],
+          [
+            "بابل",
+            "1792–1750 قبل الميلاد",
+            "حكم حمورابي بابل وأمر بنقش مجموعة الأحكام الشهيرة."
+          ],
+          [
+            "آشور",
+            "612 قبل الميلاد",
+            "كان سقوط نينوى ضربة حاسمة للسلطة الآشورية."
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي أراد حمورابي أن يراه الناس؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يزيد ارتفاع مسلة حمورابي البازلتية في متحف اللوفر على مترين. وفي أعلاها يظهر الملك أمام شمش المرتبط بالعدالة. وتحت المشهد أحكام تتناول الممتلكات والعمل والأسرة والتجارة. ويصف اللوفر النص بأنه مجموعة أحكام قضائية تختلف عن المدونات التشريعية الحديثة. وتتكامل الكتابة والصورة، إذ تبين الأحكام كيفية الفصل في بعض النزاعات بينما ينسب المشهد سلطة الملك إلى إقرار إلهي. وعُثر على المسلة في سوسة بإيران الحالية، بعيداً عن بابل، وهو ما يذكّر بأن للآثار تاريخاً من التنقل بعد صنعها. [Louvre](https://www.louvre.fr/en/the-code-of-hammurabi)"
+      },
+      {
         "type": "paragraph",
         "text": "برزت بابل في عهد حمورابي في القرن الثامن عشر قبل الميلاد. وتكشف مجموعة القوانين المنقوشة تصوّرات الحكم للعدالة والمكانة الاجتماعية والمعاملات. وعادت بابل مركزاً إمبراطورياً في عهد الملوك البابليين الجدد، ومنهم نبوخذنصر الثاني الذي أعاد بناءها على نطاق ضخم. [المصدر: www.metmuseum.org](https://www.metmuseum.org/de/essays/babylon)"
       },
       {
         "type": "heading",
         "text": "آشور والمكتبات وإرث النهرين"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا تهم مكتبة نينوى؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ضمت المواد التي جُمعت في عهد آشور بانيبال رسائل وقوائم مفردات وقصصاً ونصوصاً طبية وأرصاداً للسماء. وتطلب جمعها عمل كتّاب ينسخون النصوص ويقارنونها وينقلونها بين المدن. فالسجل يوثّق نشاطاً اقتصادياً، والرصد الفلكي يضع ظاهرة في التقويم، والنسخة الأدبية تحفظ مرحلة من انتقال الحكاية. ولهذا تكشف المكتبة عن المؤسسات التي أتاحت تداول المعرفة، إلى جانب ما تحفظه من نصوص. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يفصل قرابة ألفي عام بين سقوط نينوى ونهب بغداد على يد المغول. وتوضح قراءة الحدثين كيف جعلت نظم سياسية مختلفة المنطقة نفسها مركزاً للثقافة المكتوبة. [اقرأ عن تاريخ بغداد اللاحق](/articles/baghdad-1258-mongol-siege-fall-abbasids/)."
       },
       {
         "type": "paragraph",
@@ -277381,6 +277457,18 @@
       {
         "label": "المصدر · metmuseum.org",
         "url": "https://www.metmuseum.org/art/collection/search/327385"
+      },
+      {
+        "label": "The Met",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+      },
+      {
+        "label": "Louvre",
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi"
+      },
+      {
+        "label": "British Museum",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf"
       }
     ],
     "faq": [
@@ -277393,7 +277481,7 @@
         "answer": "كانت منطقة تاريخية ضمت مجتمعات ودولاً عديدة، منها إمبراطوريات أكد وآشور وبابل في أزمنة مختلفة."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 5
   },
   {
     "locale": "es",
@@ -277436,6 +277524,14 @@
       },
       {
         "type": "heading",
+        "text": "Dónde empieza y termina Mesopotamia"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Tigris y el Éufrates nacen en las tierras altas de la actual Turquía y fluyen hacia el golfo Pérsico. Buena parte del núcleo urbano antiguo se encuentra en Irak, pero la región histórica rebasa las fronteras actuales. En el norte, algunas zonas de la cuenca podían cultivar con lluvia. Más al sur, las comunidades de la llanura aluvial, más plana y seca, dependían más del control del agua. Los canales enlazaban campos y poblaciones, transportaban mercancías y exigían mantenimiento. La geografía explica cómo podían crecer las ciudades, cómo se abastecían y por qué el agua podía convertirse en una cuestión política. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+      },
+      {
+        "type": "heading",
         "text": "Sumer y el crecimiento urbano"
       },
       {
@@ -277451,6 +277547,14 @@
         "text": "Las primeras tablillas registraban cantidades, raciones y productos. Una cuenta de cebada de Uruk ilustra una necesidad práctica: saber qué se almacenaba y quién lo recibía. Con el tiempo, los signos cuneiformes sirvieron para escribir sumerio y acadio, entre otras lenguas. Las tablillas recogieron cuentas, cartas, documentos jurídicos y literatura. [Fuente: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
       },
       {
+        "type": "subheading",
+        "text": "Una tablilla pequeña y los límites de lo que cuenta"
+      },
+      {
+        "type": "paragraph",
+        "text": "La tablilla de cereales que aparece debajo solo mide 6,85 centímetros de ancho. El Met la fecha aproximadamente entre 3100 y 2900 a. C. y sitúa su procedencia probable en Uruk. Las anotaciones se refieren a malta y cebada triturada. El museo interpreta que probablemente registra alimentos distribuidos por un gran templo, pero la escritura concisa deja mucho sin explicar. Para un escriba que conocía la operación, los productos y cantidades servían de recordatorio. Más de cinco mil años después, esa economía de signos dificulta reconstruir las circunstancias de algunas operaciones. [The Met](https://www.metmuseum.org/art/collection/search/327385)"
+      },
+      {
         "type": "heading",
         "text": "Acad y Babilonia"
       },
@@ -277459,12 +277563,72 @@
         "text": "En el tercer milenio a. C., Sargón de Acad reunió varias ciudades bajo una dinastía imperial. El acadio se difundió en la administración y perduraron las tradiciones escritas sumerias. La capital, Agadé, aún no se ha localizado con certeza. Las inscripciones y los restos de otras ciudades permiten estudiar el imperio. [Fuente: www.metmuseum.org](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities)"
       },
       {
+        "type": "heading",
+        "text": "Cuatro nombres a lo largo de tres milenios"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sumer designa el ámbito cultural y lingüístico meridional al que pertenecían Uruk y Ur. Acad alude a una dinastía imperial y a la ciudad de la que tomó el nombre. Bajo Sargón, instituciones urbanas más antiguas se integraron en una estructura política de mayor escala. El ascenso posterior de Babilonia y Asiria supuso otros cambios de poder, y sus historias se superpusieron. La tabla ordena cuatro hitos sin convertirlos en fechas de inicio o fin de cada sociedad. [The Met](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities) [The Met](https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[MESOPOTAMIA_MILESTONES]]",
+        "caption": "Hitos de la historia mesopotámica. Las fechas corresponden a acontecimientos concretos y no delimitan sociedades.",
+        "headings": [
+          "Sociedad o potencia",
+          "Fecha o período",
+          "Qué indica el hito"
+        ],
+        "rows": [
+          [
+            "Sumer",
+            "Hacia 3200 a. C.",
+            "Uruk surge como gran ciudad."
+          ],
+          [
+            "Acad",
+            "Finales del tercer milenio a. C.",
+            "La dinastía de Sargón reúne varias ciudades bajo un poder imperial."
+          ],
+          [
+            "Babilonia",
+            "1792–1750 a. C.",
+            "Hammurabi reina en Babilonia y manda inscribir su colección de sentencias."
+          ],
+          [
+            "Asiria",
+            "612 a. C.",
+            "La caída de Nínive marca el derrumbe del poder asirio."
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Qué quería mostrar Hammurabi"
+      },
+      {
+        "type": "paragraph",
+        "text": "La estela de basalto de Hammurabi conservada en el Louvre mide más de dos metros. Arriba se ve al rey ante Shamash, dios asociado a la justicia. Debajo aparecen decisiones sobre asuntos como propiedad, trabajo, familia y comercio. El Louvre describe el texto como una colección de resoluciones judiciales distinta de un código legislativo moderno. Las decisiones indican cómo resolver ciertos litigios y la imagen presenta la autoridad del gobernante como legitimada por los dioses. La estela se excavó en Susa, en el actual Irán, lejos de Babilonia. El lugar del hallazgo recuerda que los objetos también tienen una historia después de su creación. [Louvre](https://www.louvre.fr/en/the-code-of-hammurabi)"
+      },
+      {
         "type": "paragraph",
         "text": "Babilonia cobró relevancia bajo Hammurabi en el siglo XVIII a. C. Su colección de leyes inscrita muestra ideas regias sobre justicia, posición social y transacciones. La ciudad recuperó su papel imperial con los reyes neobabilónicos, entre ellos Nabucodonosor II, que la reconstruyó a escala monumental. [Fuente: www.metmuseum.org](https://www.metmuseum.org/de/essays/babylon)"
       },
       {
         "type": "heading",
         "text": "Asiria, las bibliotecas y el legado de los ríos"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué importa la biblioteca de Nínive"
+      },
+      {
+        "type": "paragraph",
+        "text": "La colección reunida bajo Asurbanipal incluía cartas, listas de palabras, relatos, textos médicos y observaciones del cielo. Su compilación exigía escribas capaces de copiar, comparar y transmitir textos entre distintas ciudades. Una cuenta documenta una actividad económica, una observación astronómica sitúa un fenómeno en el calendario y una copia literaria preserva una etapa en la transmisión de un relato. La biblioteca permite estudiar también las instituciones que hacían circular el conocimiento. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Entre la caída de Nínive y el saqueo mongol de Bagdad transcurrieron casi dos milenios. Las dos historias muestran cómo poderes distintos convirtieron la misma gran región en un centro de cultura escrita. [Sigue la historia posterior de Bagdad](/articles/baghdad-1258-mongol-siege-fall-abbasids/)."
       },
       {
         "type": "paragraph",
@@ -277527,6 +277691,18 @@
       {
         "label": "Fuente · metmuseum.org",
         "url": "https://www.metmuseum.org/art/collection/search/327385"
+      },
+      {
+        "label": "The Met",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+      },
+      {
+        "label": "Louvre",
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi"
+      },
+      {
+        "label": "British Museum",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf"
       }
     ],
     "faq": [
@@ -277539,7 +277715,7 @@
         "answer": "Fue una región con muchas sociedades y Estados, entre ellos los imperios acadio, asirio y babilonio en épocas distintas."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 6
   },
   {
     "locale": "fr",
@@ -277582,6 +277758,14 @@
       },
       {
         "type": "heading",
+        "text": "Où commence et où finit la Mésopotamie ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le Tigre et l’Euphrate naissent dans les hautes terres de l’actuelle Turquie et coulent vers le golfe Persique. Une grande partie du foyer urbain antique se trouve en Irak, mais la région historique dépasse les frontières actuelles. Au nord, certaines terres du bassin recevaient assez de pluie pour les cultures. Plus au sud, dans une plaine alluviale plus plate et plus sèche, les communautés dépendaient davantage de la maîtrise de l’eau. Les canaux reliaient champs et villages, transportaient des marchandises et exigeaient un entretien. Cette géographie éclaire la croissance des villes, leur approvisionnement et les enjeux politiques de l’accès à l’eau. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+      },
+      {
+        "type": "heading",
         "text": "Sumer et l’essor des villes"
       },
       {
@@ -277597,6 +277781,14 @@
         "text": "Les premières tablettes consignaient quantités, rations et marchandises. Un compte d’orge d’Uruk illustre une tâche essentielle : savoir ce qui était stocké et à qui cela revenait. Avec le temps, les signes cunéiformes ont servi à écrire le sumérien et l’akkadien, entre autres. Les tablettes ont accueilli comptes, lettres, actes juridiques et littérature. [Source: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
       },
       {
+        "type": "subheading",
+        "text": "Une petite tablette et les limites de son témoignage"
+      },
+      {
+        "type": "paragraph",
+        "text": "La tablette de céréales ci-dessous mesure seulement 6,85 centimètres de large. Le Met la date d’environ 3100 à 2900 avant notre ère et situe son origine probablement à Uruk. Les inscriptions portent sur le malt et le gruau d’orge. Le musée y voit probablement une distribution alimentaire organisée par un grand temple. La notation reste pourtant discrète sur ses circonstances. Un scribe qui connaissait déjà l’opération pouvait se servir de noms de denrées et de quantités comme aide-mémoire. Plus de cinq mille ans après, cette économie de signes complique la restitution de certaines opérations. [The Met](https://www.metmuseum.org/art/collection/search/327385)"
+      },
+      {
         "type": "heading",
         "text": "Akkad et Babylone"
       },
@@ -277605,12 +277797,72 @@
         "text": "Au IIIe millénaire avant notre ère, Sargon d’Akkad a réuni plusieurs cités sous une dynastie impériale. L’akkadien s’est diffusé dans l’administration, tandis que les traditions scribales sumériennes ont perduré. L’emplacement d’Agadé reste incertain. Les inscriptions et les vestiges d’autres villes donnent accès à l’empire. [Source: www.metmuseum.org](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities)"
       },
       {
+        "type": "heading",
+        "text": "Quatre noms sur trois millénaires"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sumer désigne un monde culturel et linguistique du Sud, dont faisaient partie Uruk et Ur. Akkad renvoie à une dynastie impériale et à la ville dont elle tire son nom. Sous Sargon, des institutions urbaines plus anciennes sont entrées dans une structure politique de plus grande ampleur. La montée de Babylone et de l’Assyrie correspond à d’autres déplacements du pouvoir, et leurs histoires se chevauchent. Le tableau situe quatre repères sans les confondre avec les limites de chaque société. [The Met](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities) [The Met](https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[MESOPOTAMIA_MILESTONES]]",
+        "caption": "Repères de l’histoire mésopotamienne. Les dates concernent des événements précis et ne délimitent pas les sociétés.",
+        "headings": [
+          "Société ou puissance",
+          "Date ou période",
+          "Signification du repère"
+        ],
+        "rows": [
+          [
+            "Sumer",
+            "Vers 3200 av. notre ère",
+            "Uruk devient une grande ville."
+          ],
+          [
+            "Akkad",
+            "Fin du IIIe millénaire av. notre ère",
+            "La dynastie de Sargon soumet plusieurs villes à un pouvoir impérial."
+          ],
+          [
+            "Babylone",
+            "1792–1750 av. notre ère",
+            "Hammurabi règne à Babylone et fait inscrire son recueil de décisions."
+          ],
+          [
+            "Assyrie",
+            "612 av. notre ère",
+            "La chute de Ninive précipite l’effondrement du pouvoir assyrien."
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Ce que Hammurabi voulait montrer"
+      },
+      {
+        "type": "paragraph",
+        "text": "La stèle de basalte de Hammurabi au Louvre mesure plus de deux mètres. Au sommet, le roi se tient devant Shamash, dieu associé à la justice. Sous le relief figurent des décisions touchant aux biens, au travail, à la famille et au commerce. Le Louvre présente le texte comme un recueil de décisions judiciaires distinct d’un code législatif moderne. Le texte indique comment régler certains litiges et l’image donne au pouvoir du souverain une sanction divine. La stèle a été mise au jour à Suse, dans l’Iran actuel, loin de Babylone. Ce lieu de découverte rappelle que les objets continuent de circuler après leur création. [Louvre](https://www.louvre.fr/en/the-code-of-hammurabi)"
+      },
+      {
         "type": "paragraph",
         "text": "Babylone a pris de l’importance sous Hammurabi au XVIIIe siècle avant notre ère. Le recueil de lois inscrit à son nom éclaire la conception royale de la justice, les statuts sociaux et les transactions. La ville a retrouvé une place impériale sous les rois néo-babyloniens, dont Nabuchodonosor II, qui l’a reconstruite à une échelle monumentale. [Source: www.metmuseum.org](https://www.metmuseum.org/de/essays/babylon)"
       },
       {
         "type": "heading",
         "text": "L’Assyrie, ses bibliothèques et l’héritage des fleuves"
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi la bibliothèque de Ninive compte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les textes rassemblés sous Assurbanipal comprenaient des lettres, des listes de mots, des récits, des textes médicaux et des observations du ciel. Une telle collection supposait le travail de plusieurs villes et de nombreux scribes capables de copier, de comparer et de transmettre leurs textes. Un compte garde la trace d’une opération économique, une observation astronomique situe un phénomène dans le calendrier et une copie littéraire documente un état du récit. La bibliothèque renseigne ainsi sur les institutions grâce auxquelles le savoir circulait. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Près de deux millénaires séparent la chute de Ninive du sac mongol de Bagdad. Les deux histoires montrent comment des pouvoirs très différents ont fait de la même grande région un centre de culture écrite. [Lire la suite de l’histoire à Bagdad](/articles/baghdad-1258-mongol-siege-fall-abbasids/)."
       },
       {
         "type": "paragraph",
@@ -277673,6 +277925,18 @@
       {
         "label": "Source · metmuseum.org",
         "url": "https://www.metmuseum.org/art/collection/search/327385"
+      },
+      {
+        "label": "The Met",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+      },
+      {
+        "label": "Louvre",
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi"
+      },
+      {
+        "label": "British Museum",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf"
       }
     ],
     "faq": [
@@ -277685,7 +277949,7 @@
         "answer": "C’était une région où se sont succédé de nombreux États, dont les empires d’Akkad, d’Assyrie et de Babylone."
       }
     ],
-    "readingTimeMinutes": 4
+    "readingTimeMinutes": 6
   },
   {
     "locale": "ar",

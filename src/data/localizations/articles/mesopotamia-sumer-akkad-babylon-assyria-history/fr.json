@@ -39,6 +39,14 @@
     },
     {
       "type": "heading",
+      "text": "Où commence et où finit la Mésopotamie ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Tigre et l’Euphrate naissent dans les hautes terres de l’actuelle Turquie et coulent vers le golfe Persique. Une grande partie du foyer urbain antique se trouve en Irak, mais la région historique dépasse les frontières actuelles. Au nord, certaines terres du bassin recevaient assez de pluie pour les cultures. Plus au sud, dans une plaine alluviale plus plate et plus sèche, les communautés dépendaient davantage de la maîtrise de l’eau. Les canaux reliaient champs et villages, transportaient des marchandises et exigeaient un entretien. Cette géographie éclaire la croissance des villes, leur approvisionnement et les enjeux politiques de l’accès à l’eau. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+    },
+    {
+      "type": "heading",
       "text": "Sumer et l’essor des villes"
     },
     {
@@ -54,6 +62,14 @@
       "text": "Les premières tablettes consignaient quantités, rations et marchandises. Un compte d’orge d’Uruk illustre une tâche essentielle : savoir ce qui était stocké et à qui cela revenait. Avec le temps, les signes cunéiformes ont servi à écrire le sumérien et l’akkadien, entre autres. Les tablettes ont accueilli comptes, lettres, actes juridiques et littérature. [Source: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
     },
     {
+      "type": "subheading",
+      "text": "Une petite tablette et les limites de son témoignage"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tablette de céréales ci-dessous mesure seulement 6,85 centimètres de large. Le Met la date d’environ 3100 à 2900 avant notre ère et situe son origine probablement à Uruk. Les inscriptions portent sur le malt et le gruau d’orge. Le musée y voit probablement une distribution alimentaire organisée par un grand temple. La notation reste pourtant discrète sur ses circonstances. Un scribe qui connaissait déjà l’opération pouvait se servir de noms de denrées et de quantités comme aide-mémoire. Plus de cinq mille ans après, cette économie de signes complique la restitution de certaines opérations. [The Met](https://www.metmuseum.org/art/collection/search/327385)"
+    },
+    {
       "type": "heading",
       "text": "Akkad et Babylone"
     },
@@ -62,12 +78,72 @@
       "text": "Au IIIe millénaire avant notre ère, Sargon d’Akkad a réuni plusieurs cités sous une dynastie impériale. L’akkadien s’est diffusé dans l’administration, tandis que les traditions scribales sumériennes ont perduré. L’emplacement d’Agadé reste incertain. Les inscriptions et les vestiges d’autres villes donnent accès à l’empire. [Source: www.metmuseum.org](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities)"
     },
     {
+      "type": "heading",
+      "text": "Quatre noms sur trois millénaires"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sumer désigne un monde culturel et linguistique du Sud, dont faisaient partie Uruk et Ur. Akkad renvoie à une dynastie impériale et à la ville dont elle tire son nom. Sous Sargon, des institutions urbaines plus anciennes sont entrées dans une structure politique de plus grande ampleur. La montée de Babylone et de l’Assyrie correspond à d’autres déplacements du pouvoir, et leurs histoires se chevauchent. Le tableau situe quatre repères sans les confondre avec les limites de chaque société. [The Met](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities) [The Met](https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[MESOPOTAMIA_MILESTONES]]",
+      "caption": "Repères de l’histoire mésopotamienne. Les dates concernent des événements précis et ne délimitent pas les sociétés.",
+      "headings": [
+        "Société ou puissance",
+        "Date ou période",
+        "Signification du repère"
+      ],
+      "rows": [
+        [
+          "Sumer",
+          "Vers 3200 av. notre ère",
+          "Uruk devient une grande ville."
+        ],
+        [
+          "Akkad",
+          "Fin du IIIe millénaire av. notre ère",
+          "La dynastie de Sargon soumet plusieurs villes à un pouvoir impérial."
+        ],
+        [
+          "Babylone",
+          "1792–1750 av. notre ère",
+          "Hammurabi règne à Babylone et fait inscrire son recueil de décisions."
+        ],
+        [
+          "Assyrie",
+          "612 av. notre ère",
+          "La chute de Ninive précipite l’effondrement du pouvoir assyrien."
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que Hammurabi voulait montrer"
+    },
+    {
+      "type": "paragraph",
+      "text": "La stèle de basalte de Hammurabi au Louvre mesure plus de deux mètres. Au sommet, le roi se tient devant Shamash, dieu associé à la justice. Sous le relief figurent des décisions touchant aux biens, au travail, à la famille et au commerce. Le Louvre présente le texte comme un recueil de décisions judiciaires distinct d’un code législatif moderne. Le texte indique comment régler certains litiges et l’image donne au pouvoir du souverain une sanction divine. La stèle a été mise au jour à Suse, dans l’Iran actuel, loin de Babylone. Ce lieu de découverte rappelle que les objets continuent de circuler après leur création. [Louvre](https://www.louvre.fr/en/the-code-of-hammurabi)"
+    },
+    {
       "type": "paragraph",
       "text": "Babylone a pris de l’importance sous Hammurabi au XVIIIe siècle avant notre ère. Le recueil de lois inscrit à son nom éclaire la conception royale de la justice, les statuts sociaux et les transactions. La ville a retrouvé une place impériale sous les rois néo-babyloniens, dont Nabuchodonosor II, qui l’a reconstruite à une échelle monumentale. [Source: www.metmuseum.org](https://www.metmuseum.org/de/essays/babylon)"
     },
     {
       "type": "heading",
       "text": "L’Assyrie, ses bibliothèques et l’héritage des fleuves"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi la bibliothèque de Ninive compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les textes rassemblés sous Assurbanipal comprenaient des lettres, des listes de mots, des récits, des textes médicaux et des observations du ciel. Une telle collection supposait le travail de plusieurs villes et de nombreux scribes capables de copier, de comparer et de transmettre leurs textes. Un compte garde la trace d’une opération économique, une observation astronomique situe un phénomène dans le calendrier et une copie littéraire documente un état du récit. La bibliothèque renseigne ainsi sur les institutions grâce auxquelles le savoir circulait. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Près de deux millénaires séparent la chute de Ninive du sac mongol de Bagdad. Les deux histoires montrent comment des pouvoirs très différents ont fait de la même grande région un centre de culture écrite. [Lire la suite de l’histoire à Bagdad](/articles/baghdad-1258-mongol-siege-fall-abbasids/)."
     },
     {
       "type": "paragraph",
@@ -130,6 +206,18 @@
     {
       "label": "Source · metmuseum.org",
       "url": "https://www.metmuseum.org/art/collection/search/327385"
+    },
+    {
+      "label": "The Met",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+    },
+    {
+      "label": "Louvre",
+      "url": "https://www.louvre.fr/en/the-code-of-hammurabi"
+    },
+    {
+      "label": "British Museum",
+      "url": "https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf"
     }
   ],
   "faq": [
@@ -142,5 +230,5 @@
       "answer": "C’était une région où se sont succédé de nombreux États, dont les empires d’Akkad, d’Assyrie et de Babylone."
     }
   ],
-  "readingTimeMinutes": 4
+  "readingTimeMinutes": 6
 }

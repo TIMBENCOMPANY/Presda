@@ -110,6 +110,7 @@ import teslaHeroCaptions from "@/data/teslaHeroCaptions.json";
 import { TeslaHistoricalImage, teslaImageAtBlock } from "@/components/TeslaHistoricalImage";
 import photographyHeroCaptions from "@/data/photographyHeroCaptions.json";
 import { PhotographyHistoricalImage, photographyImageAtBlock } from "@/components/PhotographyHistoricalImage";
+import { MesopotamiaGrainTablet } from "@/components/MesopotamiaGrainTablet";
 import medicalCannabisHeroCaptions from "@/data/medicalCannabisHeroCaptions.json";
 import butterflyEffectHeroCaptions from "@/data/butterflyEffectHeroCaptions.json";
 import artificialWombsHeroCaptions from "@/data/artificialWombsHeroCaptions.json";
@@ -760,6 +761,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "bobby-fischer-chess-legend-america-iceland" && fischerImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FischerHistoricalImage id={fischerImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "first-giraffe-china-1414-bengal-yongle" && originalIndex === 18) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><GiraffeMuseumImage locale={locale} /></div>;
               const structured = localizedBlocks?.[originalIndex];
+              if (article.slug === "mesopotamia-sumer-akkad-babylon-assyria-history" && originalIndex === 8) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MesopotamiaGrainTablet locale={locale} /></div>;
+              }
               if (structured?.type === "table" && structured.sourceMarker === "[[ASTROLOGY_SCIENCE_TABLE]]") return <AstrologyComparisonTable key={originalIndex} table={{ headers: structured.headings, rows: structured.rows }} />;
               if (structured?.type === "table") return <StandardArticleTable key={originalIndex} table={{ caption: structured.caption, headers: structured.headings, rows: structured.rows, minWidthClass: articleTables[structured.sourceMarker ?? ""]?.minWidthClass ?? "min-w-[680px]", boldColumnIndex: articleTables[structured.sourceMarker ?? ""]?.boldColumnIndex ?? 0, rowKeyIndex: articleTables[structured.sourceMarker ?? ""]?.rowKeyIndex ?? 0 }} />;
               if (structured?.type === "list") return <ul key={originalIndex} className="list-disc space-y-2 ps-6 text-base leading-[2.05] sm:text-[1.0625rem]">{structured.items.map((item, index) => <li key={index}><LocalizedInlineText text={item} locale={locale} /></li>)}</ul>;

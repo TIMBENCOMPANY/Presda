@@ -8,6 +8,39 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[MESOPOTAMIA_MILESTONES]]": {
+  "caption": "Milestones in Mesopotamian history. Dates describe specific developments rather than the boundaries of each society.",
+  "headers": [
+    "Society or power",
+    "Date or period",
+    "What the landmark shows"
+  ],
+  "rows": [
+    [
+      "Sumer",
+      "Around 3200 BCE",
+      "Uruk emerges as a major city."
+    ],
+    [
+      "Akkad",
+      "Late third millennium BCE",
+      "Sargon’s dynasty brings several cities under imperial rule."
+    ],
+    [
+      "Babylon",
+      "1792–1750 BCE",
+      "Hammurabi rules Babylon and commissions the famous collection of judgments."
+    ],
+    [
+      "Assyria",
+      "612 BCE",
+      "Nineveh falls, marking a decisive collapse of Assyrian power."
+    ]
+  ],
+  "minWidthClass": "min-w-[500px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
   "[[PILL_CULTURE_COMPARISON]]": {
   "caption": "Pill-color meanings vary by context. These are community labels, not scientific categories.",
   "headers": [

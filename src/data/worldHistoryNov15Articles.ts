@@ -388,14 +388,26 @@ export const worldHistoryNov15Articles: Article[] = [
     ],
     "content": [
       "Mesopotamia is the historical region of the Tigris and Euphrates, much of it in present-day Iraq, with parts extending into neighboring countries. Its rivers linked settlements and supported farming. The lands they crossed contained different societies and languages over millennia. Sumer, Akkad, Babylon and Assyria are landmarks in that history, each rooted in a different part of the region or a different period. [British Museum: Mesopotamia](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)",
+      "## Where Mesopotamia begins and ends",
+      "The Tigris and Euphrates rise in the highlands of what is now Türkiye and flow toward the Persian Gulf. Much of the ancient urban heartland lies in Iraq, but the term reaches beyond today’s borders. In the north, parts of the river basin supported farming with rainfall. Farther south, communities on the flatter and drier alluvial plain depended more heavily on managed water. Canals connected farms to settlements, carried goods and had to be maintained. The geography helps explain how cities could grow, where their food came from and why control of water could become a political issue. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)",
       "## Sumer and the growth of cities",
       "By about 3200 BCE, Uruk in southern Mesopotamia had monumental mud-brick architecture and a scale few settlements could match. Ur and other southern cities later formed part of the Sumerian world. Cities depended on relationships with farmers, fishers, craft workers and traders. Canals and irrigation helped manage water across the plain, while clay supplied a building material and a durable record. [The Met: Uruk](https://www.metmuseum.org/es/essays/uruk-the-first-city)",
       "### What early writing was for",
       "Early tablets recorded quantities, rations and goods. A barley account from Uruk captures a practical problem of urban life: knowing what was stored and who received it. Over time, wedge-shaped cuneiform signs could record languages including Sumerian and Akkadian. The medium supported administrative accounts and eventually letters, legal records and literature. [The Met: Uruk](https://www.metmuseum.org/es/essays/uruk-the-first-city)",
+      "### A tiny tablet and the limits of its evidence",
+      "The grain tablet below is only 6.85 centimetres across. The Met dates it to about 3100–2900 BCE and lists the place of origin as probably Uruk. Its entries concern malt and barley groats. The museum interprets the record as likely evidence of food distributed by a large temple, but the economical notation leaves much unsaid. A scribe who already knew the transaction could use names of goods and quantities as prompts. For a reader more than five thousand years later, the same economy of signs makes the direction and circumstances of some transactions difficult to recover. [The Met](https://www.metmuseum.org/art/collection/search/327385)",
       "## Akkad and Babylon",
       "In the third millennium BCE, Sargon of Akkad brought multiple cities under an imperial dynasty. Akkadian spread as a language of administration without erasing Sumerian scribal traditions. The capital, Agade, has yet to be securely identified. The empire is best understood through surviving inscriptions and material from other cities. [The Met: Art of the First Cities](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities)",
+      "## Four names across three millennia",
+      "Sumer describes a southern cultural and linguistic world whose cities included Uruk and Ur. Akkad refers to an imperial dynasty as well as to the city from which it took its name. Under Sargon, older city institutions were drawn into a political structure on a much larger scale. The later prominence of Babylon and Assyria involved further shifts in power, and their histories overlapped. The table places four landmarks in order without implying that the societies began or ended on those dates. [The Met](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities) [The Met](https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf)",
+      "[[MESOPOTAMIA_MILESTONES]]",
+      "### What Hammurabi wanted readers to see",
+      "The Louvre’s basalt stela of Hammurabi is more than two metres tall. At the top, the king appears before Shamash, the god associated with justice. Beneath that scene are decisions involving matters such as property, work, family and trade. As the Louvre explains, the text is a collection of legal judgments rather than a modern statute book. The relief and text work together. The judgments describe how authority should settle certain disputes, and the image presents the ruler’s authority as divinely sanctioned. The stela was excavated at Susa, in present-day Iran, far from Babylon. Its findspot is a reminder that objects have histories after their creation. [Louvre](https://www.louvre.fr/en/the-code-of-hammurabi)",
       "Babylon rose to prominence under Hammurabi in the eighteenth century BCE. His inscribed law collection shows royal ideas about justice and social status alongside economic transactions. Babylon later returned to imperial prominence under the Neo-Babylonian kings, including Nebuchadnezzar II, who rebuilt it on a monumental scale. [The Met: Babylon](https://www.metmuseum.org/de/essays/babylon)",
       "## Assyria, libraries and the legacy of the rivers",
+      "## Why the library at Nineveh matters",
+      "The range of material assembled under Ashurbanipal included letters, lexical lists, stories, medical texts and observations of the heavens. Compiling such a collection required more than one scholar or city. It depended on scribes who could copy, compare and transmit texts. Individual tablets preserve different sorts of evidence: an account records an economic activity, a celestial observation fixes an event in a calendar, and a literary copy preserves one stage in a story’s transmission. This is why a library is also evidence for the institutions that made knowledge portable. [British Museum](https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf)",
+      "The chronological gap between Nineveh’s fall and the Mongol sack of Baghdad is nearly two millennia. Reading the two histories together shows how different political orders made the same broad region a center of written culture. [Follow the later history of Baghdad](/articles/baghdad-1258-mongol-siege-fall-abbasids/).",
       "Assyria grew from northern Mesopotamia into an empire. Its capitals shifted, and Nineveh fell in 612 BCE. Babylon remained a centre of power until Cyrus took it in 539 BCE. These dates mark political changes. Scribal work, temple life and the circulation of knowledge continued under new rulers. [The Met: first-millennium chronology](https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html)",
       "The tablets associated with Ashurbanipal’s library at Nineveh show the scale of collecting and copying. They are part of a legacy that includes literature and sophisticated mathematical and astronomical practices. Mesopotamia earned its reputation as a cradle of civilization through this combination of early urban life, written records and institutions that transmitted knowledge across generations. [British Museum: Mesopotamia](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)",
       "A surviving Babylonian tablet known as Plimpton 322 records numbers in base 60. It is a tangible example of an invention less visible than a ziggurat: a notation in which the place of a sign changes its value. Such tablets preserve the work of mathematical scribes alongside the monuments associated with kings. [Smithsonian: Babylonian mathematics](https://www.si.edu/object/nmah_690811)",
@@ -433,6 +445,18 @@ export const worldHistoryNov15Articles: Article[] = [
       {
         "name": "Source · metmuseum.org",
         "url": "https://www.metmuseum.org/art/collection/search/327385"
+      },
+      {
+        "name": "The Met",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf"
+      },
+      {
+        "name": "Louvre",
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi"
+      },
+      {
+        "name": "British Museum",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf"
       }
     ],
     "relatedSlugs": [
@@ -451,6 +475,6 @@ export const worldHistoryNov15Articles: Article[] = [
         "answer": "It was a historical region with many societies and states, including the Akkadian, Assyrian and Babylonian empires at different times."
       }
     ],
-    "readingTime": "4 min read"
+    "readingTime": "6 min read"
   }
 ];
