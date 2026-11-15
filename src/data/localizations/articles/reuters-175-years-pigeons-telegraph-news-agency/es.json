@@ -1,0 +1,109 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/reuters-175-years-pigeons-telegraph-news-agency/",
+  "path": "/es/articles/reuters-175-years-pigeons-telegraph-news-agency/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Reuters cumple 175 años: de las palomas mensajeras a una agencia global",
+  "seoTitle": "Reuters cumple 175 años: historia de la agencia",
+  "description": "Paul Julius Reuter conectó los mercados con palomas y cables telegráficos. De aquel negocio surgieron una agencia mundial y servicios electrónicos para los mercados.",
+  "excerpt": "Paul Julius Reuter conectó los mercados con palomas y cables telegráficos. De aquel negocio surgieron una agencia mundial y servicios electrónicos para los mercados.",
+  "headlineHighlights": {
+    "red": "Reuters",
+    "gold": "palomas mensajeras"
+  },
+  "keywords": [
+    "Reuters",
+    "palomas mensajeras"
+  ],
+  "searchIntent": "Paul Julius Reuter conectó los mercados con palomas y cables telegráficos. De aquel negocio surgieron una agencia mundial y servicios electrónicos para los mercados.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/reuters-175-paul-julius-reuter-pigeon-newsroom.jpg",
+    "alt": "Montaje editorial de Paul Julius Reuter, una paloma mensajera, una llave telegráfica y una redacción moderna",
+    "width": 1280,
+    "height": 714
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El 13 de noviembre de 1851, Paul Julius Reuter envió su primer mensaje por el nuevo cable submarino entre Dover y Calais. En noviembre de 2026, Reuters celebró los 175 años de aquella transmisión. El cable interesaba a quienes necesitaban conocer las cotizaciones de otro mercado antes de perder la oportunidad de actuar. De esa necesidad comercial nació una agencia internacional. [Fuente: reutersagency.com](https://reutersagency.com/reuters-175-years)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué las palomas llegaron primero"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1850, Reuter trabajaba en Aquisgrán, entonces en Prusia. Las palomas mensajeras cubrían un tramo sin telégrafo entre la ciudad y Bruselas y llevaban información financiera. Ya en Londres al año siguiente, Reuter usó el cable para atender a clientes a ambos lados del canal. Su ventaja dependía de cuánto tardaba en llevar un dato útil de un lugar a otro. [Fuente: www.thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/company-history)"
+    },
+    {
+      "type": "subheading",
+      "text": "De las cotizaciones a las noticias internacionales"
+    },
+    {
+      "type": "paragraph",
+      "text": "La empresa pasó de las cotizaciones a las noticias para periódicos. Al extender la red fuera de Europa, contar con corresponsales y acceso a las líneas de transmisión se volvió tan importante como estar cerca de las bolsas. Reuters reunía información en un lugar y la distribuía a numerosos abonados, cada uno con su propio público. [Fuente: www.thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/company-history)"
+    },
+    {
+      "type": "heading",
+      "text": "Las reglas de la agencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters adoptó sus Principios de Confianza en 1941, en plena guerra y ante la preocupación por la independencia de la agencia. Exigen integridad, independencia e imparcialidad. Son compromisos de gobierno corporativo que sobrevivieron a cambios de propiedad y buscan proteger la credibilidad del servicio. [Fuente: www.thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/trust-principles)"
+    },
+    {
+      "type": "heading",
+      "text": "Cuando la pantalla se volvió parte del negocio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters Monitor dio acceso electrónico a información financiera en los años setenta. Más tarde, Monitor Dealing permitió a los operadores de divisas cerrar operaciones por terminal. La empresa añadió herramientas de trabajo a su oferta de información. En noticias, la distribución digital también reunió textos, fotografías y vídeo en un servicio conectado. [Fuente: www.thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/company-history)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thomson adquirió Reuters Group en abril de 2008 y creó Thomson Reuters. Reuters sigue siendo el nombre de la agencia internacional dentro de ese grupo. En 175 años cambiaron muchas veces los medios de distribución. El negocio sigue dependiendo de que lectores y clientes confíen en información recogida lejos de sus escritorios. [Fuente: archive.annual-report.thomsonreuters.com](https://archive.annual-report.thomsonreuters.com/2008/reports/Annual_Report.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lectura relacionada](/articles/first-text-message-1992-merry-christmas-sms-history/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: reutersagency.com",
+      "url": "https://reutersagency.com/reuters-175-years"
+    },
+    {
+      "label": "Fuente: www.thomsonreuters.com",
+      "url": "https://www.thomsonreuters.com/en/about-us/company-history"
+    },
+    {
+      "label": "Fuente: www.thomsonreuters.com",
+      "url": "https://www.thomsonreuters.com/en/about-us/trust-principles"
+    },
+    {
+      "label": "Fuente: archive.annual-report.thomsonreuters.com",
+      "url": "https://archive.annual-report.thomsonreuters.com/2008/reports/Annual_Report.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo se fundó Reuters?",
+      "answer": "Sus orígenes en Londres se remontan a 1851. La agencia conmemora el primer envío de Reuter por el cable de Dover a Calais, el 13 de noviembre."
+    },
+    {
+      "question": "¿Por qué usó palomas Reuter?",
+      "answer": "Transportaban información financiera a través de un tramo sin telégrafo entre Aquisgrán y Bruselas."
+    }
+  ]
+}

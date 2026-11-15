@@ -1,0 +1,101 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/protein-restriction-aging-longevity-review/",
+  "path": "/fr/articles/protein-restriction-aging-longevity-review/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Manger moins de protéines peut-il ralentir le vieillissement ?",
+  "seoTitle": "Protéines et vieillissement : ce que montrent les études",
+  "description": "Certains animaux ont vécu plus longtemps avec moins de protéines. Chez l’être humain, les études portent surtout sur des changements métaboliques à court terme.",
+  "excerpt": "Certains animaux ont vécu plus longtemps avec moins de protéines. Chez l’être humain, les études portent surtout sur des changements métaboliques à court terme.",
+  "headlineHighlights": {
+    "red": "moins de protéines",
+    "gold": "ralentir le vieillissement"
+  },
+  "keywords": [
+    "moins de protéines",
+    "ralentir le vieillissement"
+  ],
+  "searchIntent": "Certains animaux ont vécu plus longtemps avec moins de protéines. Chez l’être humain, les études portent surtout sur des changements métaboliques à court terme.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/protein-restriction-aging-nutrition-research.jpg",
+    "alt": "Illustration montrant des légumineuses, des céréales, du saumon et des œufs près d’un sablier et de matériel scientifique",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une étude peut suivre des souris jusqu’à la fin de leur vie, tandis qu’un court essai chez l’humain peut mesurer la réaction d’une hormone à un changement alimentaire. La revue de Cell Metabolism, qui s’appuie sur 361 références, couvre ces deux approches. Certains animaux ont vécu plus longtemps avec moins de protéines. Aucun essai de la revue n’établit un tel effet chez l’être humain. [Source: pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "heading",
+      "text": "Les résultats chez l’animal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les expériences modifient la quantité totale de protéines, leur proportion dans l’alimentation ou la quantité d’un acide aminé particulier. Ces interventions sont distinctes. Restreindre la méthionine ou l’isoleucine, par exemple, peut révéler quels composants entraînent une réponse. Les résultats dépendent de l’espèce, du régime et des conditions de l’expérience. [Source: pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi les chercheurs mesurent la FGF21"
+    },
+    {
+      "type": "paragraph",
+      "text": "La FGF21 est une hormone qui participe à la réponse aux nutriments disponibles. Dans des études sur des souris, celles qui en étaient dépourvues n’ont pas bénéficié du gain de longévité observé avec la restriction protéique. La revue examine aussi comment les cellules détectent les acides aminés, notamment via mTORC1 et GCN2. Ces expériences aident à tester des mécanismes chez l’animal. [Source: pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que mesurent les essais chez l’humain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une étude de Nature Metabolism, des hommes minces ont présenté une hausse de la FGF21 circulante et une modification de l’énergie nécessaire pour maintenir leur poids. Une réponse métabolique à court terme ne suffit pas à déterminer si les participants resteront en bonne santé plus longtemps, auront moins de maladies ou vivront plus vieux. Il faudrait un suivi bien plus long. [Source: doi.org](https://doi.org/10.1038/s42255-025-01236-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi la revue ne fixe pas de quantité cible"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les protéines contribuent aussi au maintien des muscles et des capacités physiques. L’âge, l’activité, l’état de santé et les aliments consommés en remplacement peuvent changer le bilan. De futurs essais pourraient suivre les capacités physiques et la santé à long terme en plus des biomarqueurs. La revue pose une question de recherche sans définir d’apport universel. [Source: www.eufic.org](https://www.eufic.org/en/misinformation/article/what-journalists-need-to-know-about-protein-restriction-and-healthy-aging)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[À lire aussi](/articles/anti-aging-can-we-slow-down-human-aging/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/"
+    },
+    {
+      "label": "Source: doi.org",
+      "url": "https://doi.org/10.1038/s42255-025-01236-7"
+    },
+    {
+      "label": "Source: www.eufic.org",
+      "url": "https://www.eufic.org/en/misinformation/article/what-journalists-need-to-know-about-protein-restriction-and-healthy-aging"
+    }
+  ],
+  "faq": [
+    {
+      "question": "La revue a-t-elle testé 361 régimes chez l’humain ?",
+      "answer": "Elle cite 361 références comprenant des travaux sur l’animal, en laboratoire et chez l’humain."
+    },
+    {
+      "question": "La longévité humaine est-elle démontrée ?",
+      "answer": "Les études humaines ont surtout mesuré des effets métaboliques à court terme. Le bénéfice sur la durée de vie reste à démontrer."
+    }
+  ]
+}

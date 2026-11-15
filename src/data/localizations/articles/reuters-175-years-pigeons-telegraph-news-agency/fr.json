@@ -1,0 +1,109 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/reuters-175-years-pigeons-telegraph-news-agency/",
+  "path": "/fr/articles/reuters-175-years-pigeons-telegraph-news-agency/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Reuters fête ses 175 ans : des pigeons voyageurs à une agence mondiale",
+  "seoTitle": "Reuters à 175 ans : l’histoire d’une agence mondiale",
+  "description": "Paul Julius Reuter a relié des places financières par pigeons voyageurs et télégraphe. De cette activité sont nés une agence mondiale et des services électroniques pour les marchés.",
+  "excerpt": "Paul Julius Reuter a relié des places financières par pigeons voyageurs et télégraphe. De cette activité sont nés une agence mondiale et des services électroniques pour les marchés.",
+  "headlineHighlights": {
+    "red": "Reuters",
+    "gold": "pigeons voyageurs"
+  },
+  "keywords": [
+    "Reuters",
+    "pigeons voyageurs"
+  ],
+  "searchIntent": "Paul Julius Reuter a relié des places financières par pigeons voyageurs et télégraphe. De cette activité sont nés une agence mondiale et des services électroniques pour les marchés.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/reuters-175-paul-julius-reuter-pigeon-newsroom.jpg",
+    "alt": "Montage éditorial montrant Paul Julius Reuter, un pigeon voyageur, un manipulateur télégraphique et une rédaction moderne",
+    "width": 1280,
+    "height": 714
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le 13 novembre 1851, Paul Julius Reuter a envoyé son premier message par le nouveau câble sous-marin entre Douvres et Calais. En novembre 2026, Reuters a célébré les 175 ans de cette transmission. Le câble intéressait ceux qui avaient besoin de connaître les cours d’une autre place avant de perdre l’occasion d’agir. De ce besoin commercial est née une agence internationale. [Source: reutersagency.com](https://reutersagency.com/reuters-175-years)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi les pigeons ont précédé le câble"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1850, Reuter travaillait à Aix-la-Chapelle, alors en Prusse. Des pigeons voyageurs franchissaient une interruption du réseau télégraphique entre la ville et Bruxelles avec des informations financières. Installé à Londres l’année suivante, Reuter a exploité le câble pour servir des clients des deux côtés de la Manche. Son avantage se mesurait au temps gagné pour transmettre une information utile. [Source: www.thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/company-history)"
+    },
+    {
+      "type": "subheading",
+      "text": "Des cours de Bourse aux nouvelles internationales"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’entreprise a élargi son activité aux nouvelles destinées aux journaux. À mesure que son réseau dépassait l’Europe, les correspondants et l’accès aux lignes de transmission sont devenus aussi importants que la proximité des Bourses. Reuters recueillait une information en un lieu et la distribuait à de nombreux abonnés, qui pouvaient la relayer auprès de leur propre public. [Source: www.thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/company-history)"
+    },
+    {
+      "type": "heading",
+      "text": "Des principes pour protéger l’agence"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1941, en pleine guerre, Reuters a adopté ses principes de confiance pour protéger son indépendance. Ils consacrent l’intégrité, l’indépendance et l’impartialité. Ces engagements de gouvernance ont survécu aux changements d’actionnariat. Ils visent à protéger la crédibilité du service auquel se fient les clients. [Source: www.thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/trust-principles)"
+    },
+    {
+      "type": "heading",
+      "text": "Quand l’écran est devenu un outil de marché"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Reuters Monitor a donné accès à des informations financières sur écran dans les années 1970. Monitor Dealing a ensuite permis aux cambistes de conclure des transactions via leurs terminaux. L’entreprise a ajouté des outils de travail à son offre d’information. Dans l’actualité, le numérique a aussi rapproché dépêches, photographies et vidéos au sein d’un même service. [Source: www.thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/company-history)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thomson a racheté Reuters Group en avril 2008, donnant naissance à Thomson Reuters. Le nom Reuters désigne toujours l’agence internationale au sein de ce groupe. En 175 ans, les moyens de diffusion ont changé plusieurs fois. L’activité repose toujours sur la confiance des lecteurs et des clients dans des informations recueillies loin de leur bureau. [Source: archive.annual-report.thomsonreuters.com](https://archive.annual-report.thomsonreuters.com/2008/reports/Annual_Report.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[À lire aussi](/articles/first-text-message-1992-merry-christmas-sms-history/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: reutersagency.com",
+      "url": "https://reutersagency.com/reuters-175-years"
+    },
+    {
+      "label": "Source: www.thomsonreuters.com",
+      "url": "https://www.thomsonreuters.com/en/about-us/company-history"
+    },
+    {
+      "label": "Source: www.thomsonreuters.com",
+      "url": "https://www.thomsonreuters.com/en/about-us/trust-principles"
+    },
+    {
+      "label": "Source: archive.annual-report.thomsonreuters.com",
+      "url": "https://archive.annual-report.thomsonreuters.com/2008/reports/Annual_Report.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand Reuters a-t-elle été fondée ?",
+      "answer": "Ses débuts londoniens remontent à 1851. L’agence commémore la première transmission de Reuter sur le câble Douvres–Calais, le 13 novembre."
+    },
+    {
+      "question": "Pourquoi Reuter utilisait-il des pigeons ?",
+      "answer": "Ils transportaient des informations financières entre Aix-la-Chapelle et Bruxelles, sur un trajet où le réseau télégraphique était incomplet."
+    }
+  ]
+}

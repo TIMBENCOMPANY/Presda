@@ -1,0 +1,101 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/protein-restriction-aging-longevity-review/",
+  "path": "/es/articles/protein-restriction-aging-longevity-review/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "¿Comer menos proteínas puede ralentizar el envejecimiento?",
+  "seoTitle": "Restricción de proteínas y envejecimiento: qué se sabe",
+  "description": "Algunos animales vivieron más con menos proteínas. En humanos, los estudios midieron sobre todo cambios metabólicos a corto plazo.",
+  "excerpt": "Algunos animales vivieron más con menos proteínas. En humanos, los estudios midieron sobre todo cambios metabólicos a corto plazo.",
+  "headlineHighlights": {
+    "red": "menos proteínas",
+    "gold": "ralentizar el envejecimiento"
+  },
+  "keywords": [
+    "menos proteínas",
+    "ralentizar el envejecimiento"
+  ],
+  "searchIntent": "Algunos animales vivieron más con menos proteínas. En humanos, los estudios midieron sobre todo cambios metabólicos a corto plazo.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/protein-restriction-aging-nutrition-research.jpg",
+    "alt": "Ilustración de legumbres, cereales, salmón y huevos junto a un reloj de arena y material científico",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un estudio puede seguir a ratones hasta el final de su vida, mientras que un ensayo breve en personas mide cómo reacciona una hormona a una dieta. La revisión de Cell Metabolism reúne ambos enfoques y cita 361 referencias. Algunos animales vivieron más con menos proteínas. Los ensayos revisados no demuestran que ocurra lo mismo en personas. [Fuente: pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué muestran los estudios con animales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los experimentos modifican la cantidad total de proteínas, su proporción frente a los carbohidratos o la cantidad de un aminoácido concreto. Son intervenciones distintas. Restringir la metionina o la isoleucina puede ayudar a detectar qué componente provoca una respuesta. Los resultados dependen de la especie, la dieta y las condiciones del experimento. [Fuente: pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué los investigadores miden FGF21"
+    },
+    {
+      "type": "paragraph",
+      "text": "FGF21 es una hormona que interviene en la respuesta a los nutrientes disponibles. En estudios con ratones, los animales que carecían de ella no obtuvieron el beneficio de longevidad observado con la restricción proteica. La revisión también analiza cómo detectan las células los aminoácidos mediante vías como mTORC1 y GCN2. Estos experimentos sirven para probar mecanismos en animales. [Fuente: pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué midieron los estudios en personas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudio de Nature Metabolism en hombres delgados observó un aumento de FGF21 y un cambio en la energía necesaria para mantener el peso. Una respuesta metabólica a corto plazo no permite saber si los participantes conservarán la salud durante más tiempo, enfermarán menos o vivirán más. Esos resultados exigirían un seguimiento más largo. [Fuente: doi.org](https://doi.org/10.1038/s42255-025-01236-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué la revisión no fija una cantidad de proteína"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las proteínas también ayudan a conservar los músculos y la capacidad física. La edad, la actividad, el estado de salud y los alimentos que sustituyan a las proteínas pueden alterar el balance. Otros ensayos podrían medir la función física y la salud a largo plazo junto con los biomarcadores. La revisión plantea una pregunta científica sin fijar una cantidad universal. [Fuente: www.eufic.org](https://www.eufic.org/en/misinformation/article/what-journalists-need-to-know-about-protein-restriction-and-healthy-aging)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lectura relacionada](/articles/anti-aging-can-we-slow-down-human-aging/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/"
+    },
+    {
+      "label": "Fuente: doi.org",
+      "url": "https://doi.org/10.1038/s42255-025-01236-7"
+    },
+    {
+      "label": "Fuente: www.eufic.org",
+      "url": "https://www.eufic.org/en/misinformation/article/what-journalists-need-to-know-about-protein-restriction-and-healthy-aging"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿La revisión probó 361 dietas en personas?",
+      "answer": "Cita 361 referencias que incluyen estudios en animales, de laboratorio y en humanos."
+    },
+    {
+      "question": "¿Se demostró una vida más larga en humanos?",
+      "answer": "Los estudios midieron principalmente cambios metabólicos de corto plazo. El beneficio en longevidad sigue sin demostrarse."
+    }
+  ]
+}

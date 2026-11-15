@@ -102,6 +102,8 @@ const publishedPresdaCredits = new Set([
 
 export function getImageRights(source: string): ImageRights {
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.
+  if (["/articles/protein-restriction-aging-nutrition-research.jpg","/articles/chalcatzingo-cave-teotihuacan-warrior-ritual-illustration.jpg","/articles/reuters-175-paul-julius-reuter-pigeon-newsroom.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
+  // Approved editorial reconstructions; no unsupported photographer or licence attribution.
   if (["/articles/tesla-cybercab-gold-butterfly-doors.jpg","/articles/gavin-bear-hynam-cars-4-youth-workshop.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.
   if (["/articles/meta-facebook-android-italy-photo-privacy-fine.jpg","/articles/trump-xi-putin-shenzhen-trilateral-talks.jpg","/articles/turkiye-qatar-mutual-defence-agreement-signing.jpg","/articles/amazon-howler-monkey-species-tropical-forest.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

@@ -1,0 +1,105 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/chalcatzingo-cave-19-teotihuacan-warrior-glyphs/",
+  "path": "/es/articles/chalcatzingo-cave-19-teotihuacan-warrior-glyphs/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Pinturas rupestres de México dan pistas sobre los rituales guerreros de Teotihuacan",
+  "seoTitle": "Cueva 19 de Chalcatzingo: los glifos guerreros",
+  "description": "Tres glifos rojos y huellas de fuego en la cueva 19 de Chalcatzingo apuntan a un lugar donde se pudo honrar a guerreros fallecidos.",
+  "excerpt": "Tres glifos rojos y huellas de fuego en la cueva 19 de Chalcatzingo apuntan a un lugar donde se pudo honrar a guerreros fallecidos.",
+  "headlineHighlights": {
+    "red": "Pinturas rupestres",
+    "gold": "rituales guerreros"
+  },
+  "keywords": [
+    "Pinturas rupestres",
+    "rituales guerreros"
+  ],
+  "searchIntent": "Tres glifos rojos y huellas de fuego en la cueva 19 de Chalcatzingo apuntan a un lugar donde se pudo honrar a guerreros fallecidos.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/chalcatzingo-cave-teotihuacan-warrior-ritual-illustration.jpg",
+    "alt": "Reconstrucción editorial con investigadores ante motivos guerreros imaginados en una pared rocosa",
+    "width": 1280,
+    "height": 713
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En el cerro Delgado, en Morelos, un abrigo poco profundo conserva tres signos de color rojo oscuro y una repisa ennegrecida. En Antiquity, los investigadores los interpretan como escritura de Teotihuacan y proponen que allí se celebraron ceremonias en memoria de guerreros muertos. Su argumento combina los glifos, su posición, los paralelos y las huellas de fuego. [Fuente: www.cambridge.org](https://www.cambridge.org/core/journals/antiquity/article/painted-teotihuacan-glyphs-of-cave-19-chalcatzingo-morelos-mexico/536A5E711BB8DFED14BE189F4F1B9259)"
+    },
+    {
+      "type": "heading",
+      "text": "Un abrigo vuelto a documentar en 2022"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pinturas se documentaron en los años ochenta y volvieron a estudiarse en agosto de 2022. Los autores sitúan este uso del abrigo entre los siglos IV y VI de nuestra era. La cronología surge del contexto arqueológico y de comparaciones con imágenes y escrituras del periodo Clásico. El artículo no aporta una datación directa del pigmento. [Fuente: www.cambridge.org](https://www.cambridge.org/core/journals/antiquity/article/painted-teotihuacan-glyphs-of-cave-19-chalcatzingo-morelos-mexico/536A5E711BB8DFED14BE189F4F1B9259)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un sitio con una historia mucho más antigua"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chalcatzingo se encuentra entre dos cerros rocosos y destaca por relieves más antiguos vinculados al intercambio cultural olmeca. La cueva 19 corresponde a otra fase. Sus signos apuntan a vínculos posteriores con Teotihuacan, la gran ciudad del Clásico en la cuenca de México. [Fuente: lugares.inah.gob.mx](https://lugares.inah.gob.mx/es/fut-cultura/6514)"
+    },
+    {
+      "type": "heading",
+      "text": "La montaña y el título guerrero"
+    },
+    {
+      "type": "paragraph",
+      "text": "El primer glifo combina una montaña con volutas que pueden representar sonido. Los autores proponen el topónimo Montaña que Canta y lo comparan con murales de Teotihuacan. El segundo signo reúne armas y ornamentos y podría indicar un título o una orden guerrera. No identifica a una persona concreta. [Fuente: www.cambridge.org](https://www.cambridge.org/core/journals/antiquity/article/painted-teotihuacan-glyphs-of-cave-19-chalcatzingo-morelos-mexico/536A5E711BB8DFED14BE189F4F1B9259)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué revela el hollín"
+    },
+    {
+      "type": "paragraph",
+      "text": "El signo mayor enmarca la repisa y recuerda un dosel decorado con estrellas en imágenes relacionadas. El hollín indica que allí hubo fuego. Las comparaciones encajan con la quema de incienso y la conmemoración de guerreros. La cremación sigue siendo una hipótesis. Las marcas no permiten identificar qué ardió. [Fuente: www.cambridge.org](https://www.cambridge.org/core/journals/antiquity/article/painted-teotihuacan-glyphs-of-cave-19-chalcatzingo-morelos-mexico/536A5E711BB8DFED14BE189F4F1B9259)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El paisaje explica por qué importa la ubicación del abrigo. En Chalcatzingo, los cerros y paredes rocosas llevaban siglos acogiendo imágenes religiosas. Los glifos posteriores muestran cómo una nueva tradición escrita marcó un terreno que ya tenía significado. [Fuente: mna.inah.gob.mx](https://mna.inah.gob.mx/detalle_huella.php?pl=Chalcatzingo_Morelos)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Lectura relacionada](/articles/nazca-civilization-peru-lines-cahuachi/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.cambridge.org",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/painted-teotihuacan-glyphs-of-cave-19-chalcatzingo-morelos-mexico/536A5E711BB8DFED14BE189F4F1B9259"
+    },
+    {
+      "label": "Fuente: lugares.inah.gob.mx",
+      "url": "https://lugares.inah.gob.mx/es/fut-cultura/6514"
+    },
+    {
+      "label": "Fuente: mna.inah.gob.mx",
+      "url": "https://mna.inah.gob.mx/detalle_huella.php?pl=Chalcatzingo_Morelos"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Se descubrieron las pinturas en 2026?",
+      "answer": "Se documentaron en los años ochenta y se volvieron a estudiar en 2022. La investigación ofrece nuevas interpretaciones."
+    },
+    {
+      "question": "¿Los glifos demuestran que hubo cremaciones?",
+      "answer": "Los autores lo plantean como posibilidad. Las huellas de fuego no revelan qué ardió."
+    }
+  ]
+}
