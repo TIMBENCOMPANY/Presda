@@ -30973,6 +30973,453 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/apple-smart-glasses-siri-ai-2027/",
+    "path": "/ar/articles/apple-smart-glasses-siri-ai-2027/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "أولى نظارات أبل الذكية قد تصل في 2027 مع سيري المدعوم بالذكاء الاصطناعي",
+    "seoTitle": "نظارات أبل الذكية في 2027 وميزات سيري المنتظرة",
+    "description": "تشير بلومبرغ إلى أن أبل تستهدف 2027 لإطلاق نظارات ذكية تعتمد على سيري وإجراءات تطبيقات آيفون.",
+    "excerpt": "تشير بلومبرغ إلى أن أبل تستهدف 2027 لإطلاق نظارات ذكية تعتمد على سيري وإجراءات تطبيقات آيفون.",
+    "headlineHighlights": {
+      "red": "أبل",
+      "gold": "سيري"
+    },
+    "keywords": [
+      "أبل",
+      "سيري"
+    ],
+    "searchIntent": "تشير بلومبرغ إلى أن أبل تستهدف 2027 لإطلاق نظارات ذكية تعتمد على سيري وإجراءات تطبيقات آيفون.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/apple-smart-glasses-siri-ai-concept.jpg",
+      "alt": "تصوّر لنظارات تحمل شعار أبل وتظهر على عدساتها رسوم تخيّلية لسيري",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تستهدف أبل عام 2027 لتقديم أول نظاراتها الذكية، وفقاً لمارك غورمان من بلومبرغ. وتشير التقارير إلى احتمال عرضها في مؤتمر المطورين ثم بدء بيعها قرب نهاية العام، بحسب تقدم العمل. وتتمحور الفكرة حول تنفيذ إجراءات في تطبيقات آيفون بصوت المستخدم عبر سيري، بينما يبقى الهاتف في جيبه. ولم تعلن أبل عن المنتج أو سعره أو موعد شحنه. [المصدر · www.bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [المصدر · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا قد تفعل النظارات؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشير التقارير إلى وجود كاميرات وميكروفونات ومكبرات صوت في الإطار. ويفتح ذلك المجال لاستخدام يعتمد على الصوت، بحيث يطرح المستخدم سؤالاً ويستعين سيري بما تراه الكاميرا عند الحاجة. كما تناولت تقارير سابقة المكالمات وتشغيل الصوت والإشعارات. ويمكن تقديم هذه الوظائف من دون عرض خريطة أو رسالة أمام العين. [المصدر · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/) [المصدر · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "subheading",
+        "text": "هل تعرض العدسات معلومات أمام العين؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف التقارير الجيل الأول بأنه يخلو من شاشة. والرسوم في الصورة المرفقة جزء من تصوّر تحريري. في غياب الشاشة يمكن سماع الاتجاهات، أو تلقي تأكيد مسموع أو رسالة على الهاتف المرتبط. ويؤثر هذا في نوع التطبيقات الملائمة للنظارة. فالسؤال عن المنعطف التالي سريع، بينما يسهل الاختيار بين عناوين متشابهة على شاشة. [المصدر · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV15_NEWS_476]]",
+        "caption": "الميزات المتداولة والأسئلة المفتوحة",
+        "headings": [
+          "الموضوع",
+          "الوضع"
+        ],
+        "rows": [
+          [
+            "موعد 2027",
+            "موعد تستهدفه الشركة وفق التقارير ويرتبط بتقدم التطوير"
+          ],
+          [
+            "شاشة العدسات",
+            "تشير التقارير إلى غيابها في الجيل الأول"
+          ],
+          [
+            "إجراءات التطبيقات عبر سيري",
+            "الإطار البرمجي موثق، ودعم النظارات لم يُعلن"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "كيف قد يستخدم سيري تطبيقات آيفون؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشرح وثائق أبل أن إطار App Intents يتيح للمطورين توفير إجراءات التطبيقات وبياناتها لسيري وخدمات النظام الأخرى. فيمكن لتطبيق موسيقى مثلاً تعريف إجراء لتشغيل ألبوم، ويصبح في وسع سيري طلب ذلك الإجراء وتمرير اسم الألبوم المطلوب. وتفيد بلومبرغ بأن الجيل الأول سيعتمد على برامج آيفون القائمة من دون متجر تطبيقات خاص بالنظارات. [المصدر · developer.apple.com](https://developer.apple.com/documentation/appintents) [المصدر · www.bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [المصدر · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "subheading",
+        "text": "كيف ينعكس ذلك على الاستخدام اليومي؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "لنتخيّل طلب حجز طاولة. إذا وفّر التطبيق الإجراء المناسب فقد يمرر سيري وقت الحجز وعدد الأشخاص. وقد يحتاج دفع عربون إلى تأكيد إضافي. هذا مثال لتوضيح طريقة العمل وليس ميزة معلنة. ويتوقف التطبيق العملي على الإجراءات التي يدعمها المطورون والأذونات وطريقة التعامل مع تسجيل الدخول والدفع. ولا يكفي تثبيت التطبيق لإتاحة كل أوامره صوتياً. [المصدر · developer.apple.com](https://developer.apple.com/documentation/appintents) [المصدر · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "heading",
+        "text": "الكاميرا والخصوصية والبطارية"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي أتاحته أبل للمطورين بالفعل؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشرح المعاينة المخصصة للمطورين كيف تتيح التطبيقات إجراءاتها ومحتواها لسيري. ويمكن اختبار هذا العمل على الأجهزة الموجودة الآن. وإذا استخدمت النظارات الإطار نفسه فقد يجرّب المطورون إجراءاتهم قبل طرحها للبيع. وسيحتاج المشتري إلى معرفة اللغات والخدمات المتاحة عند الإطلاق ومدى اعتمادها على الإنترنت. ولا تجيب معاينة النظام عن هذه الأسئلة بالنسبة للنظارات. [المصدر · developer.apple.com](https://developer.apple.com/documentation/appintents)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تغيّر الكاميرا عند مستوى العين ظروف التصوير. من الأسئلة العملية متى تعمل، وهل يستطيع المجاورون رؤية مؤشر تشغيلها، وأين تُعالج الصور. وتتنافس الكاميرا والاتصالات اللاسلكية والصوت على طاقة بطارية صغيرة. وسيظل السعر ومدة التشغيل والهواتف المدعومة وطريقة التعامل مع الصور غير معروفة حتى نشر مواصفات المنتج. [المصدر · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وقد تكشف أبل للمطورين طريقة تصميم الإجراءات قبل تحديد أسواق البيع ومواعيده. للمزيد اقرأ [تغطية بريزدا لخطط آيفون ومنتجات أبل المقبلة](/articles/apple-iphone-18-foldable-future-products/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · www.bloomberg.com",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan"
+      },
+      {
+        "label": "المصدر · developer.apple.com",
+        "url": "https://developer.apple.com/documentation/appintents"
+      },
+      {
+        "label": "المصدر · www.digitaltrends.com",
+        "url": "https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/"
+      },
+      {
+        "label": "المصدر · www.macrumors.com",
+        "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل أعلنت أبل النظارات؟",
+        "answer": "لا. يستند موعد 2027 والتصميم إلى تقارير عن خطط قيد التطوير."
+      },
+      {
+        "question": "هل تحتوي النظارات على شاشة؟",
+        "answer": "تشير التقارير إلى جيل أول من دون شاشة. الرسوم على العدسات تخيّلية."
+      },
+      {
+        "question": "ما دور سيري؟",
+        "answer": "تشير التقارير إلى تنفيذ إجراءات توفرها تطبيقات آيفون المتوافقة. ويتوقف الدعم على كل تطبيق والنظام النهائي."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/apple-smart-glasses-siri-ai-2027/",
+    "path": "/es/articles/apple-smart-glasses-siri-ai-2027/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "LAS PRIMERAS GAFAS INTELIGENTES DE APPLE PODRÍAN LLEGAR EN 2027 CON SIRI IA",
+    "seoTitle": "Gafas inteligentes de Apple en 2027 con Siri IA",
+    "description": "Bloomberg sitúa en 2027 las primeras gafas inteligentes de Apple. Siri podría ejecutar acciones en apps de iPhone compatibles.",
+    "excerpt": "Bloomberg sitúa en 2027 las primeras gafas inteligentes de Apple. Siri podría ejecutar acciones en apps de iPhone compatibles.",
+    "headlineHighlights": {
+      "red": "APPLE",
+      "gold": "SIRI IA"
+    },
+    "keywords": [
+      "APPLE",
+      "SIRI IA"
+    ],
+    "searchIntent": "Bloomberg sitúa en 2027 las primeras gafas inteligentes de Apple. Siri podría ejecutar acciones en apps de iPhone compatibles.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/apple-smart-glasses-siri-ai-concept.jpg",
+      "alt": "Concepto de gafas de Apple con gráficos imaginarios de Siri sobre las lentes",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Apple apunta a 2027 para presentar sus primeras gafas inteligentes, según Mark Gurman, de Bloomberg. El plan descrito contempla mostrarlas en su conferencia de desarrolladores y venderlas hacia finales de año, según avance el proyecto. La idea consiste en pedirle a Siri que ejecute acciones de aplicaciones del iPhone mientras el teléfono permanece en el bolsillo. Apple aún no ha anunciado el producto, el precio ni la fecha de venta. [Fuente · www.bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [Fuente · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué se espera de las gafas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los informes apuntan a cámaras, micrófonos y altavoces en la montura. Esa combinación favorece el uso de la voz. Siri podría responder usando información visual cuando resulte pertinente. Informaciones anteriores también mencionaban llamadas, reproducción de audio y notificaciones. Esas funciones se pueden ofrecer sin proyectar mapas ni mensajes delante del usuario. [Fuente · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/) [Fuente · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "subheading",
+        "text": "¿Tendrán pantalla las primeras gafas?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las informaciones describen un primer modelo sin pantalla. Los gráficos de la ilustración son imaginarios. Sin pantalla, las indicaciones podrían darse en voz alta y una confirmación podría oírse o llegar al móvil vinculado. Eso cambia qué aplicaciones resultan adecuadas. Preguntar por el próximo giro lleva segundos. Elegir entre varias direcciones casi idénticas suele ser más fácil en una pantalla. [Fuente · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV15_NEWS_476]]",
+        "caption": "Funciones mencionadas y cuestiones abiertas",
+        "headings": [
+          "Tema",
+          "Situación"
+        ],
+        "rows": [
+          [
+            "Calendario de 2027",
+            "Objetivo según informes, sujeto al desarrollo"
+          ],
+          [
+            "Pantalla en las lentes",
+            "Los informes describen un primer modelo sin pantalla"
+          ],
+          [
+            "Acciones de apps con Siri",
+            "Apple documenta el sistema, pero no ha anunciado su uso en las gafas"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Cómo podría Siri utilizar las aplicaciones de iPhone"
+      },
+      {
+        "type": "paragraph",
+        "text": "En la documentación de Apple, App Intents permite a los desarrolladores exponer acciones y datos a Siri y a otras funciones del sistema. Una aplicación musical puede declarar una acción para reproducir un álbum. Así Siri sabe qué acción llamar y qué álbum indicar. Según Bloomberg, el producto aprovecharía las aplicaciones existentes del iPhone sin una tienda propia para las gafas de primera generación. [Fuente · developer.apple.com](https://developer.apple.com/documentation/appintents) [Fuente · www.bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [Fuente · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué significaría en el día a día"
+      },
+      {
+        "type": "paragraph",
+        "text": "Imaginemos una reserva en un restaurante. Si existe una acción compatible, Siri podría enviar la hora y el número de comensales. Un depósito podría requerir confirmación. El ejemplo explica cómo funcionaría el sistema y no corresponde a una prestación anunciada. El resultado depende de las acciones que ofrezca cada aplicación, los permisos y el modo en que el teléfono gestiona el acceso y los pagos. Instalar una aplicación no vuelve accesibles por voz todos sus controles. [Fuente · developer.apple.com](https://developer.apple.com/documentation/appintents) [Fuente · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "heading",
+        "text": "Cámara, privacidad y autonomía"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué ha abierto Apple a los desarrolladores"
+      },
+      {
+        "type": "paragraph",
+        "text": "La vista previa para desarrolladores de Siri IA explica cómo hacer que el asistente encuentre acciones y contenido de las aplicaciones. Ese trabajo puede avanzar en dispositivos que ya existen. Si las gafas usan el mismo sistema, los desarrolladores podrían probar acciones antes de la venta. Para los compradores quedaría saber qué idiomas y servicios funcionan desde el primer día y si necesitan conexión a internet. La vista previa no resuelve esas dudas sobre las gafas. [Fuente · developer.apple.com](https://developer.apple.com/documentation/appintents)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una cámara a la altura de los ojos cambia el contexto de una foto. Importa saber cuándo se activa, si otros pueden ver un indicador y qué ocurre con las imágenes captadas. Además, la cámara, el audio y las conexiones inalámbricas consumen energía de una batería pequeña. Se desconocen el precio, la autonomía, los teléfonos compatibles y el tratamiento de las imágenes mientras Apple no publique las especificaciones. [Fuente · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La conferencia podría explicar el funcionamiento de las acciones para desarrolladores antes de anunciar los mercados o fechas de venta. Véase también [la cobertura de PRESDA sobre el iPhone y los futuros productos de Apple](/articles/apple-iphone-18-foldable-future-products/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · www.bloomberg.com",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan"
+      },
+      {
+        "label": "Fuente · developer.apple.com",
+        "url": "https://developer.apple.com/documentation/appintents"
+      },
+      {
+        "label": "Fuente · www.digitaltrends.com",
+        "url": "https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/"
+      },
+      {
+        "label": "Fuente · www.macrumors.com",
+        "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Apple ya anunció las gafas?",
+        "answer": "No. El calendario y el diseño proceden de informaciones sobre planes de desarrollo."
+      },
+      {
+        "question": "¿Se espera que tengan pantalla?",
+        "answer": "Los informes apuntan a un primer modelo sin pantalla. Los gráficos de las lentes son conceptuales."
+      },
+      {
+        "question": "¿Qué haría Siri?",
+        "answer": "Podría ejecutar acciones ofrecidas por aplicaciones compatibles del iPhone. Dependería de la aplicación y del sistema definitivo."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/apple-smart-glasses-siri-ai-2027/",
+    "path": "/fr/articles/apple-smart-glasses-siri-ai-2027/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "LES PREMIÈRES LUNETTES CONNECTÉES D’APPLE POURRAIENT ARRIVER EN 2027 AVEC SIRI IA",
+    "seoTitle": "Lunettes Apple en 2027 : Siri, fonctions et lancement",
+    "description": "Bloomberg évoque des lunettes Apple dotées de Siri pour 2027. Leur fonctionnement dépendrait des actions proposées par les apps iPhone.",
+    "excerpt": "Bloomberg évoque des lunettes Apple dotées de Siri pour 2027. Leur fonctionnement dépendrait des actions proposées par les apps iPhone.",
+    "headlineHighlights": {
+      "red": "APPLE",
+      "gold": "SIRI IA"
+    },
+    "keywords": [
+      "APPLE",
+      "SIRI IA"
+    ],
+    "searchIntent": "Bloomberg évoque des lunettes Apple dotées de Siri pour 2027. Leur fonctionnement dépendrait des actions proposées par les apps iPhone.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/apple-smart-glasses-siri-ai-concept.jpg",
+      "alt": "Concept de lunettes Apple avec des graphismes Siri imaginaires sur les verres",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Apple vise 2027 pour ses premières lunettes connectées, selon Mark Gurman de Bloomberg. L’entreprise envisagerait de les montrer lors de sa conférence des développeurs et de les commercialiser vers la fin de l’année, selon l’avancement du projet. L’idée centrale serait de demander à Siri d’exécuter des actions dans des applications iPhone sans sortir le téléphone. Apple n’a annoncé ni produit, ni prix, ni date de mise en vente. [Source · www.bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [Source · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que les lunettes pourraient faire"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les informations disponibles évoquent des caméras, des microphones et des haut-parleurs. Cela laisse imaginer un usage essentiellement vocal, où Siri pourrait s’appuyer sur ce que voit le porteur pour répondre à certaines questions. De précédents articles évoquaient aussi les appels, la lecture audio et les notifications. Ces usages sont possibles sans afficher de carte ou de message dans le champ de vision. [Source · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/) [Source · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Les premiers modèles auraient-ils un écran ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les articles décrivent un premier modèle sans écran. L’illustration imagine des graphismes sur les verres. Sans écran, une direction peut être annoncée oralement et une confirmation peut arriver par le son ou sur le téléphone associé. Le choix des usages change en conséquence. Demander le prochain virage prend quelques secondes, alors que choisir parmi plusieurs adresses semblables se fait plus facilement sur un écran. [Source · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV15_NEWS_476]]",
+        "caption": "Fonctions évoquées et points en suspens",
+        "headings": [
+          "Sujet",
+          "État"
+        ],
+        "rows": [
+          [
+            "Calendrier 2027",
+            "Objectif rapporté, selon l’avancement du développement"
+          ],
+          [
+            "Écran dans les verres",
+            "Premier modèle décrit sans écran"
+          ],
+          [
+            "Actions des apps via Siri",
+            "Cadre Apple documenté, prise en charge sur les lunettes non annoncée"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Comment Siri pourrait faire appel aux apps iPhone"
+      },
+      {
+        "type": "paragraph",
+        "text": "La documentation d’Apple présente App Intents comme un moyen pour les développeurs d’exposer les actions et les données de leurs applications à Siri et à d’autres fonctions du système. Un service musical peut déclarer une action qui lance un album. Siri sait alors quelle action appeler et quel album lui transmettre. D’après Bloomberg, les premières lunettes s’appuieraient sur les logiciels iPhone existants sans disposer de leur propre boutique d’applications. [Source · developer.apple.com](https://developer.apple.com/documentation/appintents) [Source · www.bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [Source · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce que cela changerait au quotidien"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prenons une réservation au restaurant. Si l’action est disponible, Siri pourrait transmettre l’heure et le nombre de personnes. Un acompte pourrait exiger une validation. Cet exemple illustre le mécanisme, sans correspondre à une fonction annoncée. Tout dépendrait des actions proposées par les développeurs, des autorisations et de la manière dont le téléphone gère la connexion ou le paiement. Installer une app ne rend pas toutes ses commandes accessibles à la voix. [Source · developer.apple.com](https://developer.apple.com/documentation/appintents) [Source · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+      },
+      {
+        "type": "heading",
+        "text": "Caméra, confidentialité et autonomie"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce qu’Apple a déjà ouvert aux développeurs"
+      },
+      {
+        "type": "paragraph",
+        "text": "La préversion de Siri IA documentée par Apple concerne les actions et le contenu que les applications peuvent rendre accessibles à l’assistant. Les développeurs peuvent avancer sur les appareils existants. Si les lunettes utilisent le même cadre, ils pourront éprouver leurs actions avant la vente du produit. Pour les acheteurs, il restera à connaître les langues, les services compatibles et le rôle d’une connexion à Internet. La préversion ne règle pas ces points pour les lunettes. [Source · developer.apple.com](https://developer.apple.com/documentation/appintents)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une caméra à hauteur des yeux change les conditions dans lesquelles on photographie les autres. Reste à savoir quand elle peut s’activer, si les personnes alentour en sont informées et ce que deviennent les images. Les caméras, la connexion sans fil et le son sollicitent aussi une petite batterie. Le prix, l’autonomie, les téléphones compatibles et le traitement des images dépendront des caractéristiques finalement publiées. [Source · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une conférence destinée aux développeurs pourrait détailler les actions avant l’annonce d’une date de vente. Retrouvez aussi [les projets d’Apple pour l’iPhone et ses futurs produits](/articles/apple-iphone-18-foldable-future-products/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · www.bloomberg.com",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan"
+      },
+      {
+        "label": "Source · developer.apple.com",
+        "url": "https://developer.apple.com/documentation/appintents"
+      },
+      {
+        "label": "Source · www.digitaltrends.com",
+        "url": "https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/"
+      },
+      {
+        "label": "Source · www.macrumors.com",
+        "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Apple a-t-elle annoncé les lunettes ?",
+        "answer": "Non. Le calendrier et la conception reposent sur des informations de presse."
+      },
+      {
+        "question": "Un écran est-il prévu ?",
+        "answer": "Les articles évoquent un premier modèle sans écran. Les graphismes de l’illustration sont imaginaires."
+      },
+      {
+        "question": "Quel serait le rôle de Siri ?",
+        "answer": "Siri pourrait exécuter certaines actions proposées par des applications iPhone compatibles."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/arda-guler-real-madrid-contract-2032-reports/",
     "path": "/ar/articles/arda-guler-real-madrid-contract-2032-reports/",
     "kind": "article",
@@ -235716,6 +236163,441 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/johnny-depp-ebenezer-number-one-box-office/",
+    "path": "/ar/articles/johnny-depp-ebenezer-number-one-box-office/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "جوني ديب يعود إلى صدارة شباك التذاكر بعد ثماني سنوات",
+    "seoTitle": "جوني ديب يتصدر شباك التذاكر بفيلم إبينيزر",
+    "description": "تصدر فيلم إبينيزر بطولة جوني ديب شباك التذاكر في أميركا الشمالية والعالم. إليكم أرقام الافتتاح وما تعنيه السنوات الثماني.",
+    "excerpt": "تصدر فيلم إبينيزر بطولة جوني ديب شباك التذاكر في أميركا الشمالية والعالم. إليكم أرقام الافتتاح وما تعنيه السنوات الثماني.",
+    "headlineHighlights": {
+      "red": "جوني ديب",
+      "gold": "صدارة شباك التذاكر"
+    },
+    "keywords": [
+      "جوني ديب",
+      "صدارة شباك التذاكر"
+    ],
+    "searchIntent": "تصدر فيلم إبينيزر بطولة جوني ديب شباك التذاكر في أميركا الشمالية والعالم. إليكم أرقام الافتتاح وما تعنيه السنوات الثماني.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/johnny-depp-red-carpet-ebenezer-box-office.jpg",
+      "alt": "جوني ديب بنظارات وردية وقبعة عريضة الحواف على سجادة حمراء",
+      "width": 1280,
+      "height": 714
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "عاد جوني ديب إلى صدارة إيرادات عطلة نهاية الأسبوع في أميركا الشمالية بفيلم إبينيزر، الذي أعاد فيه المخرج تاي ويست تقديم رواية ترنيمة عيد الميلاد. وقدّرت باراماونت إيراد افتتاحه بـ19 مليون دولار في أميركا الشمالية و42 مليوناً عالمياً. وهذه أول صدارة لديب في افتتاح محلي منذ فيلم الوحوش المذهلة: جرائم غريندلوالد عام 2018. [المصدر · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million) [المصدر · apnews.com](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0) [المصدر · www.the-numbers.com](https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29)"
+      },
+      {
+        "type": "heading",
+        "text": "كم حقق إبينيزر في افتتاحه؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "أعلنت باراماونت 19 مليون دولار من 3535 موقع عرض في أميركا الشمالية و23 مليوناً من 63 سوقاً دولية. وجاء نحو 55 في المئة من الإجمالي العالمي المقدّر من خارج أميركا الشمالية. تصدر الفيلم في بريطانيا بـ5.4 ملايين دولار، وكذلك في إيطاليا والمكسيك وإسبانيا. وفي فرنسا احتل المركز الثاني بإيراد مقدّر بـ2.5 مليون دولار. فالصدارة العالمية تجمع أسواقاً قد تختلف فيها النتائج المحلية. [المصدر · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV15_NEWS_477]]",
+        "caption": "تقديرات باراماونت لعطلة الافتتاح",
+        "headings": [
+          "السوق",
+          "الإيرادات"
+        ],
+        "rows": [
+          [
+            "أميركا الشمالية",
+            "19 مليون دولار"
+          ],
+          [
+            "الأسواق الدولية",
+            "23 مليون دولار"
+          ],
+          [
+            "العالم",
+            "42 مليون دولار"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "ماذا تقيس المرتبة الأولى؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يرتّب التصنيف المحلي الأفلام بحسب إيرادات التذاكر في الولايات المتحدة وكندا. وذكرت أسوشيتد برس أن ذا كات إن ذا هات حل ثانياً بـ11.4 مليون دولار، يليه غودزيلا ماينس زيرو بـ8.3 ملايين. وبهذا يتقدم إبينيزر بنحو 7.6 ملايين دولار على أقرب منافسيه وفقاً للتقديرات الأولية. وهو مقياس لإيرادات عطلة واحدة، ولا يكشف حجم الجمهور على امتداد فترة العرض. [المصدر · apnews.com](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي تغيّر منذ غريندلوالد؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "في 2018، تصدّر الجزء الثاني من الوحوش المذهلة السوق المحلية بافتتاح بلغ 62.2 مليون دولار وفق موقع ذا نمبرز. وكان عرضه أوسع وإيراده أكبر بكثير. وواصل ديب العمل خلال السنوات الفاصلة. ففي 2023 أدى دور لويس الخامس عشر أمام مايوين في جان دو باري، فيلم افتتاح مهرجان كان. وافتتاح مهرجان يختلف عن تصدّر قائمة المبيعات التجارية، وهو المقياس الذي تشير إليه السنوات الثماني هنا. [المصدر · www.the-numbers.com](https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29) [المصدر · www.festival-cannes.com](https://www.festival-cannes.com/en/press/press-releases/jeanne-du-barry-by-maiwenn-will-open-the-76th-festival-de-cannes/)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا لا تكفي الإيرادات لحساب الربح؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "أوردت أسوشيتد برس أن تكلفة الإنتاج بلغت نحو 38 مليون دولار. وتجاوز إيرادات التذاكر العالمية لهذا المبلغ لا يثبت أن الاستوديو استرد استثماره. فدور العرض تحتفظ بحصة من التذاكر، وعادةً لا تتضمن ميزانية الإنتاج تكاليف الترويج. وستوضح الأسابيع التالية وعدد دور العرض التي تبقي الفيلم على شاشاتها إن كان الإقبال سيستمر. [المصدر · apnews.com](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0)"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا عادت الأشباح في رؤية تاي ويست؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يؤدي ديب دور البخيل إبينيزر سكروج في لندن الفيكتورية التي تجمع بين التفاوت الاجتماعي والظهورات الخارقة. كتب ناثانيال هالبيرن السيناريو، ويشارك في البطولة أندريا رايزبورو وروبرت غرينت وديزي ريدلي وإيان ماكيلين. وظهر ديب بشخصية سكروج ضمن حملة باراماونت في كوميك كون بسان دييغو قبل العرض العالمي الأول في لندن. ولرؤية كيف يتغيّر نص مألوف عند إعادة تقديمه، اقرأ [أصول قصة روميو وجولييت عند شكسبير](/articles/romeo-juliet-shakespeare-love-story-true-origins/). [المصدر · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)"
+      },
+      {
+        "type": "subheading",
+        "text": "كيف استقبل الجمهور الفيلم؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "أعلنت باراماونت حصول الفيلم على تقدير ناقص في فئة A من سينما سكور ونتائج إيجابية في استطلاع بوست تراك. وتعكس هذه المقاييس آراء بعض من شاهدوه في بداية عرضه. وقد تساعد على تقدير أثر التوصيات الشفهية مع اقتراب العطلات، لكنها لا تشمل كل من فكّر في شراء تذكرة، كما تختلف أسئلتها. وستُظهر الإيرادات في الأسابيع اللاحقة ما إذا كان الإقبال سيتواصل بعد حملة الإطلاق. [المصدر · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · enduser-corp-prod.paramount.com",
+        "url": "https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million"
+      },
+      {
+        "label": "المصدر · apnews.com",
+        "url": "https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0"
+      },
+      {
+        "label": "المصدر · www.the-numbers.com",
+        "url": "https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29"
+      },
+      {
+        "label": "المصدر · www.festival-cannes.com",
+        "url": "https://www.festival-cannes.com/en/press/press-releases/jeanne-du-barry-by-maiwenn-will-open-the-76th-festival-de-cannes/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "ما الفيلم الذي أعاد جوني ديب إلى الصدارة؟",
+        "answer": "إبينيزر، من إخراج تاي ويست، وهو اقتباس لترنيمة عيد الميلاد يؤدي فيه ديب دور سكروج."
+      },
+      {
+        "question": "كم بلغت إيرادات الافتتاح؟",
+        "answer": "قدّرت باراماونت الإيرادات بـ19 مليون دولار في أميركا الشمالية و42 مليوناً عالمياً."
+      },
+      {
+        "question": "متى تصدّر ديب آخر مرة قبل إبينيزر؟",
+        "answer": "تصدّر فيلم جرائم غريندلوالد في أميركا الشمالية عند افتتاحه في نوفمبر 2018."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/johnny-depp-ebenezer-number-one-box-office/",
+    "path": "/es/articles/johnny-depp-ebenezer-number-one-box-office/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "JOHNNY DEPP VUELVE AL NÚMERO UNO DE LA TAQUILLA TRAS OCHO AÑOS",
+    "seoTitle": "Johnny Depp lidera la taquilla con Ebenezer",
+    "description": "Ebenezer, con Johnny Depp, encabezó la taquilla norteamericana y mundial. Estas son las cifras y el precedente de 2018.",
+    "excerpt": "Ebenezer, con Johnny Depp, encabezó la taquilla norteamericana y mundial. Estas son las cifras y el precedente de 2018.",
+    "headlineHighlights": {
+      "red": "JOHNNY DEPP",
+      "gold": "NÚMERO UNO"
+    },
+    "keywords": [
+      "JOHNNY DEPP",
+      "NÚMERO UNO"
+    ],
+    "searchIntent": "Ebenezer, con Johnny Depp, encabezó la taquilla norteamericana y mundial. Estas son las cifras y el precedente de 2018.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/johnny-depp-red-carpet-ebenezer-box-office.jpg",
+      "alt": "Johnny Depp con gafas rosas y sombrero de ala ancha en una alfombra roja",
+      "width": 1280,
+      "height": 714
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Johnny Depp volvió a liderar la taquilla del fin de semana en Norteamérica con Ebenezer, la versión de Cuento de Navidad dirigida por Ti West. Paramount estimó que en su estreno la película recaudó 19 millones de dólares en Norteamérica y 42 millones en todo el mundo. Es el primer estreno de Depp en el número uno norteamericano en ocho años, desde Animales fantásticos: Los crímenes de Grindelwald en 2018. [Fuente · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million) [Fuente · apnews.com](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0) [Fuente · www.the-numbers.com](https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29)"
+      },
+      {
+        "type": "heading",
+        "text": "Cuánto recaudó Ebenezer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Paramount comunicó 19 millones de dólares en 3.535 cines de Norteamérica y otros 23 millones en 63 mercados internacionales. Aproximadamente el 55 % de la estimación mundial llegó de fuera de Norteamérica. La película también encabezó las listas del Reino Unido, con 5,4 millones, y las de Italia, México y España. En Francia quedó segunda con unos 2,5 millones. El liderazgo mundial suma mercados donde no siempre se impone el mismo título. [Fuente · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV15_NEWS_477]]",
+        "caption": "Estimaciones de Paramount para el primer fin de semana",
+        "headings": [
+          "Mercado",
+          "Recaudación"
+        ],
+        "rows": [
+          [
+            "Norteamérica",
+            "19 millones de dólares"
+          ],
+          [
+            "Internacional",
+            "23 millones de dólares"
+          ],
+          [
+            "Mundo",
+            "42 millones de dólares"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Qué significa liderar la taquilla"
+      },
+      {
+        "type": "paragraph",
+        "text": "La clasificación norteamericana compara la recaudación de las entradas en Estados Unidos y Canadá. The Associated Press situó segunda a The Cat in the Hat con 11,4 millones de dólares, seguida por Godzilla Minus Zero con 8,3 millones. Según las estimaciones iniciales, Ebenezer aventajó a su rival más próximo en unos 7,6 millones. La clasificación mide los ingresos de ese fin de semana. La asistencia de toda la temporada en cartel es otra cuestión. [Fuente · apnews.com](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué pasó desde Grindelwald"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2018, la secuela de Animales fantásticos encabezó la taquilla norteamericana con 62,2 millones de dólares en su apertura, según The Numbers. Su estreno en más cines y su recaudación mucho mayor ponen las dos primeras posiciones en contexto. Depp siguió trabajando entre ambos estrenos. Interpretó a Luis XV junto a Maïwenn en Jeanne du Barry, que inauguró el Festival de Cannes en 2023. Abrir un festival y liderar un fin de semana comercial son hitos distintos. Los ocho años se refieren al segundo. [Fuente · www.the-numbers.com](https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29) [Fuente · www.festival-cannes.com](https://www.festival-cannes.com/en/press/press-releases/jeanne-du-barry-by-maiwenn-will-open-the-76th-festival-de-cannes/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué el estreno no determina el beneficio"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Associated Press situó el coste de producción en unos 38 millones de dólares. Superar esa cifra en entradas vendidas no demuestra que el estudio haya recuperado su inversión. Las salas retienen parte de la recaudación y los gastos de promoción no suelen formar parte del presupuesto de producción. La evolución de la taquilla y el número de cines que mantengan la película permitirán medir la continuidad del estreno. [Fuente · apnews.com](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0)"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué Ti West volvió a los fantasmas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Depp interpreta al avaro Ebenezer Scrooge en un Londres victoriano marcado por la desigualdad y las apariciones. El guion es de Nathaniel Halpern y en el reparto figuran Andrea Riseborough, Rupert Grint, Daisy Ridley e Ian McKellen. En la campaña de Paramount, Depp apareció caracterizado en la Comic-Con de San Diego antes del estreno mundial en Londres. Otro ejemplo de cómo cambia una historia conocida está en [los orígenes de Romeo y Julieta](/articles/romeo-juliet-shakespeare-love-story-true-origins/). [Fuente · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)"
+      },
+      {
+        "type": "subheading",
+        "text": "Cómo reaccionó el público"
+      },
+      {
+        "type": "paragraph",
+        "text": "Paramount comunicó una nota A− en CinemaScore y resultados favorables en los sondeos de PostTrak. Ambas medidas reflejan la reacción de quienes ya vieron la película en sus primeros días. Pueden dar pistas sobre las recomendaciones de cara a las fiestas. No incluyen a todos los que se plantearon comprar una entrada y sus preguntas no son las mismas. La recaudación de los próximos fines de semana mostrará si el interés persiste tras la campaña inicial. [Fuente · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · enduser-corp-prod.paramount.com",
+        "url": "https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million"
+      },
+      {
+        "label": "Fuente · apnews.com",
+        "url": "https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0"
+      },
+      {
+        "label": "Fuente · www.the-numbers.com",
+        "url": "https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29"
+      },
+      {
+        "label": "Fuente · www.festival-cannes.com",
+        "url": "https://www.festival-cannes.com/en/press/press-releases/jeanne-du-barry-by-maiwenn-will-open-the-76th-festival-de-cannes/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Qué película devolvió a Johnny Depp al número uno?",
+        "answer": "Ebenezer, la adaptación de Cuento de Navidad dirigida por Ti West, con Depp en el papel de Scrooge."
+      },
+      {
+        "question": "¿Cuánto recaudó Ebenezer en su estreno?",
+        "answer": "La estimación dominical de Paramount fue de 19 millones de dólares en Norteamérica y 42 millones en todo el mundo."
+      },
+      {
+        "question": "¿Cuándo había estrenado Depp por última vez en el número uno?",
+        "answer": "Los crímenes de Grindelwald debutó en el número uno de Norteamérica en noviembre de 2018."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/johnny-depp-ebenezer-number-one-box-office/",
+    "path": "/fr/articles/johnny-depp-ebenezer-number-one-box-office/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "JOHNNY DEPP RETROUVE LA PREMIÈRE PLACE DU BOX-OFFICE APRÈS HUIT ANS",
+    "seoTitle": "Johnny Depp en tête du box-office avec Ebenezer",
+    "description": "Ebenezer, avec Johnny Depp, a pris la tête du box-office nord-américain et mondial. Retour sur les chiffres et le précédent de 2018.",
+    "excerpt": "Ebenezer, avec Johnny Depp, a pris la tête du box-office nord-américain et mondial. Retour sur les chiffres et le précédent de 2018.",
+    "headlineHighlights": {
+      "red": "JOHNNY DEPP",
+      "gold": "PREMIÈRE PLACE"
+    },
+    "keywords": [
+      "JOHNNY DEPP",
+      "PREMIÈRE PLACE"
+    ],
+    "searchIntent": "Ebenezer, avec Johnny Depp, a pris la tête du box-office nord-américain et mondial. Retour sur les chiffres et le précédent de 2018.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/johnny-depp-red-carpet-ebenezer-box-office.jpg",
+      "alt": "Johnny Depp porte des lunettes roses et un chapeau à large bord sur un tapis rouge",
+      "width": 1280,
+      "height": 714
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Johnny Depp retrouve la première place du box-office nord-américain avec Ebenezer, la version d’Un chant de Noël réalisée par Ti West. Paramount estime que le film a rapporté 19 millions de dollars en Amérique du Nord et 42 millions dans le monde durant son premier week-end. C’est le premier démarrage en tête de l’acteur sur le marché nord-américain depuis Les Animaux fantastiques : Les Crimes de Grindelwald en 2018. [Source · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million) [Source · apnews.com](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0) [Source · www.the-numbers.com](https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29)"
+      },
+      {
+        "type": "heading",
+        "text": "Combien a rapporté Ebenezer ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Paramount annonce 19 millions de dollars dans 3 535 établissements nord-américains et 23 millions dans 63 marchés internationaux. Environ 55 % du total mondial estimé provient de l’extérieur de l’Amérique du Nord. Le film est premier au Royaume-Uni avec 5,4 millions de dollars, mais aussi en Italie, au Mexique et en Espagne. En France, il prend la deuxième place avec 2,5 millions selon le studio. Le classement mondial additionne donc des marchés qui n’ont pas tous le même numéro un. [Source · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV15_NEWS_477]]",
+        "caption": "Estimations de Paramount pour le premier week-end",
+        "headings": [
+          "Marché",
+          "Recettes"
+        ],
+        "rows": [
+          [
+            "Amérique du Nord",
+            "19 millions de dollars"
+          ],
+          [
+            "International",
+            "23 millions de dollars"
+          ],
+          [
+            "Monde",
+            "42 millions de dollars"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Que mesure la première place ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le classement nord-américain du week-end compare les recettes des billets aux États-Unis et au Canada. L’Associated Press place Le Chat chapeauté au deuxième rang, avec 11,4 millions de dollars, devant Godzilla Minus Zero et ses 8,3 millions. D’après ces premières estimations, Ebenezer devance son plus proche concurrent d’environ 7,6 millions. Ce classement mesure les recettes d’un week-end, pas l’audience de toute l’exploitation. [Source · apnews.com](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0)"
+      },
+      {
+        "type": "heading",
+        "text": "Que s’est-il passé depuis Grindelwald ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2018, la suite des Animaux fantastiques avait pris la tête du classement nord-américain avec 62,2 millions de dollars selon The Numbers. Sa diffusion plus large et ses recettes plus élevées donnent un contexte aux deux premières places. Depp a continué de travailler entre les deux sorties. En 2023, il incarnait Louis XV face à Maïwenn dans Jeanne du Barry, film d’ouverture du Festival de Cannes. Cette sélection constitue une étape distincte d’un succès au classement commercial. Les huit ans concernent ce dernier. [Source · www.the-numbers.com](https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29) [Source · www.festival-cannes.com](https://www.festival-cannes.com/en/press/press-releases/jeanne-du-barry-by-maiwenn-will-open-the-76th-festival-de-cannes/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Les recettes ne suffisent pas à établir la rentabilité"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’Associated Press rapporte un coût de production d’environ 38 millions de dollars. Des recettes mondiales supérieures à ce chiffre ne prouvent pas que le studio a récupéré sa mise. Les cinémas conservent une part du prix des billets et les frais de promotion ne sont généralement pas inclus dans le budget de production. La fréquentation des prochains week-ends et le maintien du film en salles diront si le démarrage se prolonge. [Source · apnews.com](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0)"
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi Ti West revient aux fantômes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Depp joue l’avare Ebenezer Scrooge dans un Londres victorien marqué par les inégalités et les apparitions. Nathaniel Halpern signe le scénario et Andrea Riseborough, Rupert Grint, Daisy Ridley et Ian McKellen figurent au casting. Pour la promotion, Depp est apparu dans son rôle au Comic-Con de San Diego avant la première mondiale à Londres. Pour un autre exemple de transformation d’un récit familier, découvrez [les origines de Roméo et Juliette](/articles/romeo-juliet-shakespeare-love-story-true-origins/). [Source · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)"
+      },
+      {
+        "type": "subheading",
+        "text": "Comment le public a réagi"
+      },
+      {
+        "type": "paragraph",
+        "text": "Paramount indique une note A− de CinemaScore et des résultats favorables dans les enquêtes PostTrak. Ces mesures portent sur les personnes qui ont vu le film dès sa sortie. Elles donnent une indication du bouche-à-oreille possible à l’approche des fêtes. Elles n’interrogent pas toutes les personnes qui ont envisagé d’acheter un billet et leurs questions diffèrent. Les ventes des prochains week-ends montreront si l’intérêt se prolonge après la campagne de lancement. [Source · enduser-corp-prod.paramount.com](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · enduser-corp-prod.paramount.com",
+        "url": "https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million"
+      },
+      {
+        "label": "Source · apnews.com",
+        "url": "https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0"
+      },
+      {
+        "label": "Source · www.the-numbers.com",
+        "url": "https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29"
+      },
+      {
+        "label": "Source · www.festival-cannes.com",
+        "url": "https://www.festival-cannes.com/en/press/press-releases/jeanne-du-barry-by-maiwenn-will-open-the-76th-festival-de-cannes/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quel film ramène Johnny Depp en tête ?",
+        "answer": "Ebenezer, l’adaptation d’Un chant de Noël par Ti West, avec Depp dans le rôle de Scrooge."
+      },
+      {
+        "question": "Quelles sont les recettes de départ ?",
+        "answer": "Paramount estime dimanche les recettes à 19 millions de dollars en Amérique du Nord et 42 millions dans le monde."
+      },
+      {
+        "question": "De quand remonte son précédent démarrage en tête ?",
+        "answer": "Les Crimes de Grindelwald a pris la première place en Amérique du Nord en novembre 2018."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/jon-snow-backs-morocco/",
     "path": "/ar/articles/jon-snow-backs-morocco/",
     "kind": "article",
@@ -373189,6 +374071,441 @@
         "answer": "La défense a annoncé un recours contre l’arrêt d’appel de septembre 2026 devant la Cour de cassation. Celle-ci contrôle l’application du droit et le respect de la procédure ; elle ne rejuge pas les faits. Le pourvoi peut être rejeté ou la décision cassée. Cette annonce ne constitue pas un acquittement et la procédure judiciaire peut se poursuivre."
       }
     ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/samsung-ai-data-center-expansion/",
+    "path": "/ar/articles/samsung-ai-data-center-expansion/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "سامسونغ تتوسع خارج صناعة الرقائق لبناء إمبراطورية لمراكز بيانات الذكاء الاصطناعي",
+    "seoTitle": "توسع سامسونغ في مراكز بيانات الذكاء الاصطناعي",
+    "description": "تبني سامسونغ إس دي إس مركزاً للذكاء الاصطناعي في غومي، فيما تستثمر ست شركات من المجموعة مليار دولار في هيليكس.",
+    "excerpt": "تبني سامسونغ إس دي إس مركزاً للذكاء الاصطناعي في غومي، فيما تستثمر ست شركات من المجموعة مليار دولار في هيليكس.",
+    "headlineHighlights": {
+      "red": "سامسونغ",
+      "gold": "مراكز بيانات الذكاء الاصطناعي"
+    },
+    "keywords": [
+      "سامسونغ",
+      "مراكز بيانات الذكاء الاصطناعي"
+    ],
+    "searchIntent": "تبني سامسونغ إس دي إس مركزاً للذكاء الاصطناعي في غومي، فيما تستثمر ست شركات من المجموعة مليار دولار في هيليكس.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/samsung-ai-data-center-server-racks.jpg",
+      "alt": "رسم توضيحي لخزائن خوادم سامسونغ وأنابيب تبريد فوقها",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "قد تبقى رقاقة سامسونغ سنوات داخل خادم للذكاء الاصطناعي. وتسعى المجموعة الآن إلى دور في المنشأة التي تمد ذلك الخادم بالكهرباء وتطرد حرارته وتضمن استمراره في العمل. في مدينة غومي الكورية الجنوبية، أعلنت سامسونغ إس دي إس بدء أعمال البناء في الثاني من نوفمبر. وعلى صعيد منفصل، يوسّع استثمار ست شركات من المجموعة في هيليكس نطاق هذه الاستراتيجية إلى ما وراء كوريا. [المصدر · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [المصدر · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا تبني سامسونغ إس دي إس في غومي؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يشغل المشروع نحو 46 ألف متر مربع في منطقة غونغدان دونغ. وتبلغ طاقته الكهربائية الأولية 60 ميغاواط، مع إمكان زيادتها تدريجياً إلى 120 ميغاواط. ومن المقرر اكتمال البناء بحلول نهاية 2028. وتصف هذه الأرقام مواصفات التصميم، فلا تكشف عدد المعالجات التي سيركبها العملاء أو الاستهلاك الفعلي أو الموعد الذي سيبدأ فيه تدريب النماذج. [المصدر · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+      },
+      {
+        "type": "subheading",
+        "text": "ثلاثة أرقام لثلاثة التزامات مختلفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "أفصحت سامسونغ إس دي إس عن استثمار 427.3 مليار وون لمشروع غومي. أما خطة المجموعة البالغة نحو 60 تريليون وون لجنوب شرقي كوريا فتشمل الروبوتات والبطاريات والمكوّنات أيضاً. والمليار دولار المخصص لهيليكس التزام منفصل تشترك فيه ست شركات. ودمج هذه الأرقام يعطي انطباعاً خاطئاً عن تكلفة المنشأة الكورية. [المصدر · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [المصدر · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV15_NEWS_475]]",
+        "caption": "ثلاثة أرقام تشرح توسع سامسونغ",
+        "headings": [
+          "الالتزام",
+          "النطاق"
+        ],
+        "rows": [
+          [
+            "427.3 مليار وون",
+            "مشروع البناء في غومي"
+          ],
+          [
+            "نحو 60 تريليون وون",
+            "خطة استثمار أوسع في جنوب شرقي كوريا"
+          ],
+          [
+            "مليار دولار أميركي",
+            "استثمار ست شركات في هيليكس"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "لماذا تحتاج خوادم الذكاء الاصطناعي إلى أنواع مختلفة من التبريد؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تتراكم الحرارة عندما تجتمع معالجات رسومية قوية في خزانة واحدة. وتعتزم الشركة استخدام التبريد السائل في المناطق ذات الكثافة العالية والهواء لبعض تجهيزات الشبكات والتخزين. ويسمح ذلك بتخصيص المساحات لمعدات تختلف احتياجاتها الكهربائية. وتدخل إمدادات الطوارئ والمعدات الاحتياطية ضمن التصميم، إذ قد يؤدي انقطاع الكهرباء إلى إيقاف عملية حسابية مرتفعة التكلفة. [المصدر · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+      },
+      {
+        "type": "subheading",
+        "text": "طريقتان للاستفادة من المركز"
+      },
+      {
+        "type": "paragraph",
+        "text": "سيستأجر بعض العملاء قدرة حوسبة من وحدات تديرها سامسونغ إس دي إس. ويمكن لآخرين وضع أجهزتهم الخاصة في المركز واستئجار الحيّز والخدمات. في الحالة الثانية يختار العميل معداته، فيما يدير المشغّل المبنى. وتعتزم المجموعة كذلك استخدام المنشأة لتدريب روبوتات على أعمال صناعية دقيقة. وتشير الشركة في إحاطتها للمستثمرين إلى تقديم قدرات حوسبة للقطاع العام. [المصدر · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [المصدر · image.samsungsds.com](https://image.samsungsds.com/en/investor/ir_events/ear_rele/__icsFiles/afieldfile/2026/10/29/Samsung_SDS_3Q26_Script_Eng_261029.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يضيف الاستثمار في هيليكس؟"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي سيقارنه العملاء؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تساعد القدرة الكهربائية على مقارنة المباني، لكن ميزانية مشروع للذكاء الاصطناعي تعتمد أيضاً على طراز المسرّع والشبكة بين الخوادم والذاكرة المتاحة. وقد يقضي نموذج موزّع على عدة أجهزة بعض الوقت في تبادل البيانات. ولم يحدد إعلان غومي مورّداً بعينه للمعالجات الرسومية، ولذلك يصف رقم 60 ميغاواط تصميم المنشأة. وستبيّن عروض الخدمات مقدار القدرة المتاحة فعلاً للاستئجار. [المصدر · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "أسست كيه كيه آر شركة هيليكس التي يديرها الرئيس السابق لأمازون ويب سيرفيسز آدم سيليبسكي. ويشمل نشاطها المباني وشبكات الألياف وتوليد الطاقة ونقلها. وتملك سامسونغ سي أند تي خبرة إنشائية، وتوفر سامسونغ إس دي آي أنظمة بطاريات احتياطية، فيما استحوذت سامسونغ للإلكترونيات على مجموعة فلاكت المتخصصة في التبريد عام 2025. يتيح الاستثمار فرصاً تجارية، وتقاس نتائجه بالعقود والقدرات التي تدخل الخدمة. [المصدر · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+      },
+      {
+        "type": "paragraph",
+        "text": "في غومي تعتزم سامسونغ تشغيل المنشأة وبيع خدماتها. ومن خلال هيليكس تشارك شركات أخرى الاستثمار في مطوّر للبنية التحتية. ويضع [تاريخ سامسونغ من تجارة الأغذية إلى التكنولوجيا](/articles/samsung-from-food-to-tech-empire/) الخطوة في سياقها."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · www.samsungsds.com",
+        "url": "https://www.samsungsds.com/en/news/gm-261104.html"
+      },
+      {
+        "label": "المصدر · news.samsung.com",
+        "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+      },
+      {
+        "label": "المصدر · image.samsungsds.com",
+        "url": "https://image.samsungsds.com/en/investor/ir_events/ear_rele/__icsFiles/afieldfile/2026/10/29/Samsung_SDS_3Q26_Script_Eng_261029.pdf"
+      }
+    ],
+    "faq": [
+      {
+        "question": "متى يكتمل مركز غومي؟",
+        "answer": "تستهدف سامسونغ إس دي إس نهاية 2028 لاكتمال البناء، ولم تحدد موعد بدء خدمة العملاء."
+      },
+      {
+        "question": "كم تبلغ القدرة الكهربائية؟",
+        "answer": "يبدأ التصميم عند 60 ميغاواط ويمكن توسيعه تدريجياً إلى 120 ميغاواط."
+      },
+      {
+        "question": "هل يمول المليار دولار مشروع غومي؟",
+        "answer": "المبلغ استثمار منفصل من ست شركات تابعة للمجموعة في هيليكس."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/samsung-ai-data-center-expansion/",
+    "path": "/es/articles/samsung-ai-data-center-expansion/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "SAMSUNG VA MÁS ALLÁ DE LOS CHIPS Y CONSTRUYE UN IMPERIO DE CENTROS DE DATOS PARA IA",
+    "seoTitle": "Samsung amplía su negocio a los centros de datos para IA",
+    "description": "Samsung SDS construye un centro de IA en Gumi y seis empresas del grupo invierten mil millones de dólares en Helix.",
+    "excerpt": "Samsung SDS construye un centro de IA en Gumi y seis empresas del grupo invierten mil millones de dólares en Helix.",
+    "headlineHighlights": {
+      "red": "SAMSUNG",
+      "gold": "CENTROS DE DATOS"
+    },
+    "keywords": [
+      "SAMSUNG",
+      "CENTROS DE DATOS"
+    ],
+    "searchIntent": "Samsung SDS construye un centro de IA en Gumi y seis empresas del grupo invierten mil millones de dólares en Helix.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/samsung-ai-data-center-server-racks.jpg",
+      "alt": "Ilustración de servidores Samsung y conductos de refrigeración",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un chip de Samsung puede pasar años dentro de un servidor de inteligencia artificial. El grupo también quiere participar en el edificio que suministra electricidad, elimina el calor y mantiene el servidor en marcha. En Gumi, Corea del Sur, Samsung SDS anunció el 2 de noviembre el inicio de las obras. Una inversión separada de seis empresas del grupo en Helix Digital Infrastructure amplía la estrategia fuera de Corea. [Fuente · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [Fuente · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué construye Samsung SDS en Gumi"
+      },
+      {
+        "type": "paragraph",
+        "text": "El proyecto ocupa unas 46.000 metros cuadrados en Gongdan-dong. Samsung SDS indica una capacidad eléctrica inicial de 60 megavatios y posibles ampliaciones por etapas hasta 120 MW. El final de las obras se prevé para finales de 2028. Esas especificaciones no indican cuántos aceleradores instalarán los clientes, cuánto consumirá realmente el centro ni cuándo podrán empezar a entrenar un modelo. [Fuente · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+      },
+      {
+        "type": "subheading",
+        "text": "Tres cifras para tres compromisos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Samsung SDS declaró una inversión de 427.300 millones de wones en Gumi. El plan de unos 60 billones de wones para el sureste de Corea abarca también robótica, baterías y componentes. Los mil millones de dólares para Helix proceden de seis empresas y constituyen un compromiso aparte. Mezclar los importes distorsionaría el coste del proyecto coreano. [Fuente · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [Fuente · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV15_NEWS_475]]",
+        "caption": "Tres cifras de la expansión de Samsung",
+        "headings": [
+          "Compromiso",
+          "Alcance"
+        ],
+        "rows": [
+          [
+            "427.300 millones de wones",
+            "Obra de Gumi"
+          ],
+          [
+            "Unos 60 billones de wones",
+            "Plan general para el sureste de Corea"
+          ],
+          [
+            "1.000 millones de dólares",
+            "Inversión de seis empresas en Helix"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Por qué las GPU requieren otra refrigeración"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los procesadores gráficos de alto rendimiento concentran calor cuando se instalan juntos en un armario. Samsung SDS prevé refrigeración líquida en las zonas de mayor densidad y refrigeración por aire en áreas de almacenamiento y redes. La combinación permite alojar equipos con distintas necesidades eléctricas. El diseño incluye sistemas de emergencia y equipos redundantes porque un corte puede interrumpir una operación informática costosa. [Fuente · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+      },
+      {
+        "type": "subheading",
+        "text": "Dos formas de contratar capacidad"
+      },
+      {
+        "type": "paragraph",
+        "text": "Algunos clientes alquilarán potencia de cálculo en equipos de Samsung SDS. Otros podrán instalar sus propios aceleradores en el centro en régimen de colocación. En el segundo caso, el cliente elige el equipo y el operador mantiene el edificio. Samsung también prevé entrenar allí a robots para tareas industriales de precisión. En su presentación a inversores, SDS describe otros servicios de GPU destinados al sector público. [Fuente · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [Fuente · image.samsungsds.com](https://image.samsungsds.com/en/investor/ir_events/ear_rele/__icsFiles/afieldfile/2026/10/29/Samsung_SDS_3Q26_Script_Eng_261029.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué añade el acuerdo con Helix"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué tendrán que comparar los clientes"
+      },
+      {
+        "type": "paragraph",
+        "text": "La potencia eléctrica permite comparar edificios, pero un cliente necesita otros datos para presupuestar un proyecto de IA. El acelerador, la red entre servidores y la memoria disponible determinan qué cargas de trabajo son viables. Un modelo repartido entre varias máquinas también dedica tiempo a intercambiar datos. El anuncio de Gumi deja abierta la elección del proveedor de GPU. Los 60 MW describen el diseño. Las ofertas comerciales indicarán qué capacidad podrá contratarse. [Fuente · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Helix, creada por KKR y dirigida por el exdirector de Amazon Web Services Adam Selipsky, se ocupa de edificios, fibra y generación y transporte de electricidad. Samsung C&T aporta experiencia en construcción, Samsung SDI trabaja en baterías de respaldo y Samsung Electronics compró al especialista en climatización FläktGroup en 2025. La inversión abre oportunidades comerciales cuyo alcance dependerá de los contratos y los centros que entren en servicio. [Fuente · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En Gumi, la intención es operar el edificio y vender capacidad. A través de Helix, Samsung invierte junto con otras empresas en un promotor de infraestructuras. Para entender esa diversificación, véase [la historia de Samsung desde el comercio de alimentos hasta la tecnología](/articles/samsung-from-food-to-tech-empire/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · www.samsungsds.com",
+        "url": "https://www.samsungsds.com/en/news/gm-261104.html"
+      },
+      {
+        "label": "Fuente · news.samsung.com",
+        "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+      },
+      {
+        "label": "Fuente · image.samsungsds.com",
+        "url": "https://image.samsungsds.com/en/investor/ir_events/ear_rele/__icsFiles/afieldfile/2026/10/29/Samsung_SDS_3Q26_Script_Eng_261029.pdf"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Cuándo se terminará el centro de Gumi?",
+        "answer": "Samsung SDS prevé terminar la obra a finales de 2028. El anuncio no fijó el comienzo del servicio a clientes."
+      },
+      {
+        "question": "¿Qué capacidad tendrá?",
+        "answer": "El diseño parte de 60 MW y admite ampliaciones hasta 120 MW."
+      },
+      {
+        "question": "¿Los mil millones de dólares financian Gumi?",
+        "answer": "Son una inversión separada de seis empresas del grupo en Helix."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/samsung-ai-data-center-expansion/",
+    "path": "/fr/articles/samsung-ai-data-center-expansion/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "SAMSUNG VA AU-DELÀ DES PUCES ET BÂTIT UN EMPIRE DE CENTRES DE DONNÉES POUR L’IA",
+    "seoTitle": "Samsung étend ses activités aux centres de données pour l’IA",
+    "description": "Samsung SDS construit à Gumi un centre dédié à l’IA. Six sociétés du groupe investissent aussi un milliard de dollars dans Helix.",
+    "excerpt": "Samsung SDS construit à Gumi un centre dédié à l’IA. Six sociétés du groupe investissent aussi un milliard de dollars dans Helix.",
+    "headlineHighlights": {
+      "red": "SAMSUNG",
+      "gold": "CENTRES DE DONNÉES"
+    },
+    "keywords": [
+      "SAMSUNG",
+      "CENTRES DE DONNÉES"
+    ],
+    "searchIntent": "Samsung SDS construit à Gumi un centre dédié à l’IA. Six sociétés du groupe investissent aussi un milliard de dollars dans Helix.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/samsung-ai-data-center-server-racks.jpg",
+      "alt": "Illustration de baies de serveurs Samsung et de conduites de refroidissement",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Une puce Samsung peut passer des années dans un serveur d’intelligence artificielle. Le groupe veut aussi intervenir dans le bâtiment qui alimente ce serveur, évacue sa chaleur et le maintient en service. À Gumi, en Corée du Sud, Samsung SDS a annoncé le lancement du chantier le 2 novembre. Un investissement distinct de six sociétés du groupe dans Helix Digital Infrastructure étend cette stratégie à l’étranger. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [Source · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que Samsung SDS construit à Gumi"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le chantier occupe environ 46 000 mètres carrés à Gongdan-dong. Samsung SDS annonce une capacité électrique initiale de 60 mégawatts et une extension possible par étapes jusqu’à 120 MW. La fin des travaux est prévue pour la fin de 2028. Ces chiffres décrivent la conception du site. Ils ne permettent pas de connaître le nombre de puces installées, la consommation effective ni la date à laquelle les clients pourront commencer à entraîner leurs modèles. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+      },
+      {
+        "type": "subheading",
+        "text": "Trois montants pour trois engagements"
+      },
+      {
+        "type": "paragraph",
+        "text": "Samsung SDS a indiqué un investissement de 427,3 milliards de wons pour Gumi. Le plan d’environ 60 000 milliards de wons pour le sud-est du pays couvre aussi la robotique, les batteries et les composants. Le milliard de dollars destiné à Helix est un engagement séparé, partagé par six sociétés. Confondre ces chiffres donnerait une vision erronée du coût du chantier coréen. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [Source · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV15_NEWS_475]]",
+        "caption": "Les trois montants de la stratégie Samsung",
+        "headings": [
+          "Engagement",
+          "Périmètre"
+        ],
+        "rows": [
+          [
+            "427,3 milliards de wons",
+            "Chantier de Gumi"
+          ],
+          [
+            "Environ 60 000 milliards de wons",
+            "Plan élargi pour le sud-est de la Corée"
+          ],
+          [
+            "1 milliard de dollars américains",
+            "Investissement de six sociétés dans Helix"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi les GPU exigent un refroidissement adapté"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans une baie remplie de processeurs graphiques, la chaleur se concentre sur un espace réduit. SDS prévoit un refroidissement liquide dans les zones à forte densité et de l’air pour certains équipements de réseau et de stockage. Le site pourra accueillir des baies aux besoins électriques différents. Des systèmes de secours doivent prendre le relais en cas de panne, car une interruption peut compromettre une opération de calcul coûteuse. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+      },
+      {
+        "type": "subheading",
+        "text": "Deux manières d’utiliser le centre"
+      },
+      {
+        "type": "paragraph",
+        "text": "Certains clients loueront de la puissance sur les GPU exploités par Samsung SDS. D’autres installeront leurs machines dans le centre grâce à la colocation. La première formule délègue davantage de travail au fournisseur. La seconde laisse au client le choix du matériel, tandis que l’opérateur gère le bâtiment. Samsung prévoit aussi d’aider ses usines à entraîner des robots pour des tâches de précision. SDS évoque auprès des investisseurs d’autres services de puissance de calcul pour le secteur public. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [Source · image.samsungsds.com](https://image.samsungsds.com/en/investor/ir_events/ear_rele/__icsFiles/afieldfile/2026/10/29/Samsung_SDS_3Q26_Script_Eng_261029.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce qu’apporte l’investissement dans Helix"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce que les clients devront comparer"
+      },
+      {
+        "type": "paragraph",
+        "text": "La puissance électrique aide à comparer des bâtiments, mais un client doit regarder d’autres chiffres pour budgéter un projet d’IA. Le modèle d’accélérateur, le réseau entre serveurs et la mémoire disponible conditionnent les tâches possibles. Un modèle réparti entre plusieurs machines consacre aussi du temps à échanger des données. L’annonce de Gumi ne fixe pas le fournisseur de GPU. Les 60 MW décrivent donc le bâtiment, tandis que les offres détaillées renseigneront sur la capacité commerciale. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Créée par KKR et dirigée par l’ancien patron d’Amazon Web Services Adam Selipsky, Helix vise les bâtiments, les réseaux de fibre et les infrastructures électriques. Samsung C&T dispose de capacités de construction, Samsung SDI fournit des systèmes de batteries de secours et Samsung Electronics a acquis le spécialiste du refroidissement FläktGroup en 2025. La prise de participation ouvre des possibilités commerciales. Les contrats et les capacités mises en service en donneront la mesure. [Source · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+      },
+      {
+        "type": "paragraph",
+        "text": "À Gumi, le groupe prévoit d’exploiter un bâtiment et d’en commercialiser les capacités. Avec Helix, il investit aux côtés d’autres entreprises dans un développeur d’infrastructures. Pour comprendre cette diversification, retrouvez [le parcours de Samsung du commerce alimentaire à la technologie](/articles/samsung-from-food-to-tech-empire/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · www.samsungsds.com",
+        "url": "https://www.samsungsds.com/en/news/gm-261104.html"
+      },
+      {
+        "label": "Source · news.samsung.com",
+        "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+      },
+      {
+        "label": "Source · image.samsungsds.com",
+        "url": "https://image.samsungsds.com/en/investor/ir_events/ear_rele/__icsFiles/afieldfile/2026/10/29/Samsung_SDS_3Q26_Script_Eng_261029.pdf"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quand le chantier de Gumi doit-il s’achever ?",
+        "answer": "Samsung SDS vise la fin de 2028. Aucune date de mise en service commerciale n’a été précisée."
+      },
+      {
+        "question": "Quelle sera sa capacité ?",
+        "answer": "Le projet prévoit 60 MW au départ et jusqu’à 120 MW après extension."
+      },
+      {
+        "question": "Le milliard de dollars finance-t-il Gumi ?",
+        "answer": "Il correspond à un investissement distinct de six sociétés Samsung dans Helix."
+      }
+    ],
+    "readingTimeMinutes": 3
   },
   {
     "locale": "ar",

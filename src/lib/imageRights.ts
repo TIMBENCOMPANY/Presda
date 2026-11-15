@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/samsung-ai-data-center-server-racks.jpg","/articles/apple-smart-glasses-siri-ai-concept.jpg","/articles/johnny-depp-red-carpet-ebenezer-box-office.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.
   if (["/articles/human-dna-shared-ancestry-species-illustration.jpg","/articles/morocco-bou-regreg-sale-corsair-ships-illustration.jpg","/articles/baghdad-1258-mongol-siege-editorial-reconstruction.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.

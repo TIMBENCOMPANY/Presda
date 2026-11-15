@@ -1,0 +1,149 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/apple-smart-glasses-siri-ai-2027/",
+  "path": "/es/articles/apple-smart-glasses-siri-ai-2027/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "LAS PRIMERAS GAFAS INTELIGENTES DE APPLE PODRÍAN LLEGAR EN 2027 CON SIRI IA",
+  "seoTitle": "Gafas inteligentes de Apple en 2027 con Siri IA",
+  "description": "Bloomberg sitúa en 2027 las primeras gafas inteligentes de Apple. Siri podría ejecutar acciones en apps de iPhone compatibles.",
+  "excerpt": "Bloomberg sitúa en 2027 las primeras gafas inteligentes de Apple. Siri podría ejecutar acciones en apps de iPhone compatibles.",
+  "headlineHighlights": {
+    "red": "APPLE",
+    "gold": "SIRI IA"
+  },
+  "keywords": [
+    "APPLE",
+    "SIRI IA"
+  ],
+  "searchIntent": "Bloomberg sitúa en 2027 las primeras gafas inteligentes de Apple. Siri podría ejecutar acciones en apps de iPhone compatibles.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/apple-smart-glasses-siri-ai-concept.jpg",
+    "alt": "Concepto de gafas de Apple con gráficos imaginarios de Siri sobre las lentes",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Apple apunta a 2027 para presentar sus primeras gafas inteligentes, según Mark Gurman, de Bloomberg. El plan descrito contempla mostrarlas en su conferencia de desarrolladores y venderlas hacia finales de año, según avance el proyecto. La idea consiste en pedirle a Siri que ejecute acciones de aplicaciones del iPhone mientras el teléfono permanece en el bolsillo. Apple aún no ha anunciado el producto, el precio ni la fecha de venta. [Fuente · www.bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [Fuente · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué se espera de las gafas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los informes apuntan a cámaras, micrófonos y altavoces en la montura. Esa combinación favorece el uso de la voz. Siri podría responder usando información visual cuando resulte pertinente. Informaciones anteriores también mencionaban llamadas, reproducción de audio y notificaciones. Esas funciones se pueden ofrecer sin proyectar mapas ni mensajes delante del usuario. [Fuente · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/) [Fuente · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Tendrán pantalla las primeras gafas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las informaciones describen un primer modelo sin pantalla. Los gráficos de la ilustración son imaginarios. Sin pantalla, las indicaciones podrían darse en voz alta y una confirmación podría oírse o llegar al móvil vinculado. Eso cambia qué aplicaciones resultan adecuadas. Preguntar por el próximo giro lleva segundos. Elegir entre varias direcciones casi idénticas suele ser más fácil en una pantalla. [Fuente · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV15_NEWS_476]]",
+      "caption": "Funciones mencionadas y cuestiones abiertas",
+      "headings": [
+        "Tema",
+        "Situación"
+      ],
+      "rows": [
+        [
+          "Calendario de 2027",
+          "Objetivo según informes, sujeto al desarrollo"
+        ],
+        [
+          "Pantalla en las lentes",
+          "Los informes describen un primer modelo sin pantalla"
+        ],
+        [
+          "Acciones de apps con Siri",
+          "Apple documenta el sistema, pero no ha anunciado su uso en las gafas"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Cómo podría Siri utilizar las aplicaciones de iPhone"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la documentación de Apple, App Intents permite a los desarrolladores exponer acciones y datos a Siri y a otras funciones del sistema. Una aplicación musical puede declarar una acción para reproducir un álbum. Así Siri sabe qué acción llamar y qué álbum indicar. Según Bloomberg, el producto aprovecharía las aplicaciones existentes del iPhone sin una tienda propia para las gafas de primera generación. [Fuente · developer.apple.com](https://developer.apple.com/documentation/appintents) [Fuente · www.bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [Fuente · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué significaría en el día a día"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaginemos una reserva en un restaurante. Si existe una acción compatible, Siri podría enviar la hora y el número de comensales. Un depósito podría requerir confirmación. El ejemplo explica cómo funcionaría el sistema y no corresponde a una prestación anunciada. El resultado depende de las acciones que ofrezca cada aplicación, los permisos y el modo en que el teléfono gestiona el acceso y los pagos. Instalar una aplicación no vuelve accesibles por voz todos sus controles. [Fuente · developer.apple.com](https://developer.apple.com/documentation/appintents) [Fuente · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+    },
+    {
+      "type": "heading",
+      "text": "Cámara, privacidad y autonomía"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué ha abierto Apple a los desarrolladores"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vista previa para desarrolladores de Siri IA explica cómo hacer que el asistente encuentre acciones y contenido de las aplicaciones. Ese trabajo puede avanzar en dispositivos que ya existen. Si las gafas usan el mismo sistema, los desarrolladores podrían probar acciones antes de la venta. Para los compradores quedaría saber qué idiomas y servicios funcionan desde el primer día y si necesitan conexión a internet. La vista previa no resuelve esas dudas sobre las gafas. [Fuente · developer.apple.com](https://developer.apple.com/documentation/appintents)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una cámara a la altura de los ojos cambia el contexto de una foto. Importa saber cuándo se activa, si otros pueden ver un indicador y qué ocurre con las imágenes captadas. Además, la cámara, el audio y las conexiones inalámbricas consumen energía de una batería pequeña. Se desconocen el precio, la autonomía, los teléfonos compatibles y el tratamiento de las imágenes mientras Apple no publique las especificaciones. [Fuente · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La conferencia podría explicar el funcionamiento de las acciones para desarrolladores antes de anunciar los mercados o fechas de venta. Véase también [la cobertura de PRESDA sobre el iPhone y los futuros productos de Apple](/articles/apple-iphone-18-foldable-future-products/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · www.bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan"
+    },
+    {
+      "label": "Fuente · developer.apple.com",
+      "url": "https://developer.apple.com/documentation/appintents"
+    },
+    {
+      "label": "Fuente · www.digitaltrends.com",
+      "url": "https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/"
+    },
+    {
+      "label": "Fuente · www.macrumors.com",
+      "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Apple ya anunció las gafas?",
+      "answer": "No. El calendario y el diseño proceden de informaciones sobre planes de desarrollo."
+    },
+    {
+      "question": "¿Se espera que tengan pantalla?",
+      "answer": "Los informes apuntan a un primer modelo sin pantalla. Los gráficos de las lentes son conceptuales."
+    },
+    {
+      "question": "¿Qué haría Siri?",
+      "answer": "Podría ejecutar acciones ofrecidas por aplicaciones compatibles del iPhone. Dependería de la aplicación y del sistema definitivo."
+    }
+  ],
+  "readingTimeMinutes": 3
+}

@@ -1,6 +1,235 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "475",
+    "slug": "samsung-ai-data-center-expansion",
+    "title": "SAMSUNG EXPANDS BEYOND CHIPS TO BUILD AN AI DATA CENTER EMPIRE",
+    "seoTitle": "Samsung’s AI data center expansion in Gumi and beyond",
+    "metaDescription": "Samsung SDS is building a GPU-ready data center in Gumi, while six Samsung affiliates are investing $1 billion in KKR-backed Helix.",
+    "excerpt": "Samsung SDS is building a GPU-ready data center in Gumi, while six Samsung affiliates are investing $1 billion in KKR-backed Helix.",
+    "category": "Business",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-15",
+    "lastUpdated": "2026-11-15",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/samsung-ai-data-center-server-racks.jpg",
+    "coverAlt": "Illustration of illuminated Samsung server racks and overhead cooling pipes",
+    "headlineHighlights": {
+      "red": "SAMSUNG",
+      "gold": "AI DATA CENTER"
+    },
+    "tags": [
+      "SAMSUNG",
+      "Business"
+    ],
+    "content": [
+      "A Samsung chip can sit inside an AI server for years. Samsung also wants a role in the building that feeds that server power, carries away its heat and keeps it available to customers. The clearest example is in Gumi, South Korea, where Samsung SDS announced groundbreaking on November 2. A separate $1 billion commitment by six Samsung affiliates to Helix Digital Infrastructure extends the plan to projects outside Korea. [Samsung SDS](https://www.samsungsds.com/en/news/gm-261104.html) [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)",
+      "## What Samsung SDS is building in Gumi",
+      "The project occupies a site of about 46,000 square metres in Gongdan-dong. Samsung SDS lists 60 megawatts of initial power capacity and a phased design that could reach 120 MW. Construction is scheduled for completion by the end of 2028. These are project specifications, so the capacity figure cannot tell us how many accelerators customers will install, how much power the site will draw in practice or when a tenant can begin training a model. [Samsung SDS](https://www.samsungsds.com/en/news/gm-261104.html)",
+      "### Three investment figures, three different commitments",
+      "Samsung SDS disclosed ₩427.3 billion for the Gumi project. Samsung’s roughly ₩60 trillion plan covers a broader set of investments in southeastern Korea, including robotics, batteries and components. The separate $1 billion Helix commitment comes from six affiliates combined. Treating those numbers as three estimates for the same site would badly misstate the scale of the construction project. [Samsung SDS](https://www.samsungsds.com/en/news/gm-261104.html) [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)",
+      "[[NOV15_NEWS_475]]",
+      "## Why a GPU data center needs different cooling",
+      "A rack packed with high-performance graphics processing units concentrates heat. Samsung SDS plans liquid cooling in dense GPU areas and air cooling in parts of the building housing network and storage equipment. The distinction matters because a data center holds many different kinds of hardware. Designing each room for a different power density leaves room to deploy new systems later. Backup power and redundant equipment are part of the design because an interruption can stop a costly computing run. [Samsung SDS](https://www.samsungsds.com/en/news/gm-261104.html)",
+      "### Samsung SDS wants two kinds of customer",
+      "Some customers will use computing capacity on GPUs that Samsung SDS owns and runs. Others will rent space and install their own accelerators through colocation. Renting computing capacity shifts more infrastructure work to the provider. Colocation gives clients more say over the machines they use, while the operator remains responsible for the facility. Samsung also expects affiliated manufacturers to use Gumi for workloads such as training robots for precision tasks. Its investor briefing describes related work supplying GPU capacity to the public sector. [Samsung SDS](https://www.samsungsds.com/en/news/gm-261104.html) [Samsung SDS investor briefing](https://image.samsungsds.com/en/investor/ir_events/ear_rele/__icsFiles/afieldfile/2026/10/29/Samsung_SDS_3Q26_Script_Eng_261029.pdf)",
+      "## What the Helix deal adds",
+      "### What customers will need to compare",
+      "Facility power is a useful measure when comparing buildings, but a buyer budgeting an AI project needs a different set of numbers. The accelerator model, network between servers and available memory all affect which workloads fit. A model distributed across multiple machines can also spend time exchanging data rather than computing. The Gumi announcement leaves the GPU vendor open, so the 60 MW starting figure is best read as a design reference. Detailed service offers will tell buyers more about the capacity they can rent. [Samsung SDS](https://www.samsungsds.com/en/news/gm-261104.html)",
+      "Helix is an infrastructure company created by KKR and led by former Amazon Web Services chief Adam Selipsky. Its remit includes construction and operation, power generation and transmission, and fibre networks. Samsung C&T brings engineering and construction expertise, Samsung SDI brings backup battery systems and Samsung Electronics has cooling specialist FläktGroup, which it acquired in 2025. The affiliates’ investment creates opportunities to supply projects. Actual contracts and operating capacity will show how much business follows. [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)",
+      "The two projects place Samsung on different sides of the same market. At Gumi it plans to run the facility and sell capacity. Through Helix it is investing alongside other companies in an infrastructure developer. Watch for completion of construction, tenant commitments and operating capacity as separate milestones. The ability to build on several sides of a market has a precedent in [Samsung’s evolution from food trading to global technology](/articles/samsung-from-food-to-tech-empire/)."
+    ],
+    "references": [
+      {
+        "name": "Samsung SDS",
+        "url": "https://www.samsungsds.com/en/news/gm-261104.html"
+      },
+      {
+        "name": "Samsung Global Newsroom",
+        "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+      },
+      {
+        "name": "Samsung SDS investor briefing",
+        "url": "https://image.samsungsds.com/en/investor/ir_events/ear_rele/__icsFiles/afieldfile/2026/10/29/Samsung_SDS_3Q26_Script_Eng_261029.pdf"
+      }
+    ],
+    "relatedSlugs": [
+      "samsung-from-food-to-tech-empire"
+    ],
+    "faq": [
+      {
+        "question": "When is Gumi expected to open?",
+        "answer": "Samsung SDS targets construction completion by the end of 2028. The company’s announcement did not give a date for customer service to begin."
+      },
+      {
+        "question": "How large is the Gumi project?",
+        "answer": "The design starts at 60 MW of power capacity and could expand in phases to 120 MW."
+      },
+      {
+        "question": "Does the $1 billion fund Gumi?",
+        "answer": "It is a separate commitment by six Samsung affiliates to Helix Digital Infrastructure."
+      }
+    ],
+    "readingTime": "4 min read"
+  },
+  {
+    "id": "476",
+    "slug": "apple-smart-glasses-siri-ai-2027",
+    "title": "APPLE'S FIRST SMART GLASSES COULD ARRIVE IN 2027 WITH SIRI AI",
+    "seoTitle": "Apple smart glasses in 2027: Siri, release and features",
+    "metaDescription": "Bloomberg reports that Apple is targeting a 2027 debut for Siri-powered smart glasses. Here is what the design and app strategy could mean.",
+    "excerpt": "Bloomberg reports that Apple is targeting a 2027 debut for Siri-powered smart glasses. Here is what the design and app strategy could mean.",
+    "category": "AI",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-15",
+    "lastUpdated": "2026-11-15",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/apple-smart-glasses-siri-ai-concept.jpg",
+    "coverAlt": "Concept illustration of Apple-branded glasses with imagined Siri graphics on the lenses",
+    "headlineHighlights": {
+      "red": "APPLE'S",
+      "gold": "SIRI AI"
+    },
+    "tags": [
+      "APPLE'S",
+      "AI"
+    ],
+    "content": [
+      "Apple is targeting 2027 for its first smart glasses, according to Bloomberg’s Mark Gurman. The reported plan is to unveil them around the company’s Worldwide Developers Conference and start selling them toward the end of the year, subject to development progress. The distinctive idea is to use Siri to control actions from existing iPhone apps while the wearer keeps the phone in a pocket. Apple has yet to announce the glasses, a price or a shipping date. [Bloomberg Power On](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [Digital Trends](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)",
+      "## What the glasses are expected to do",
+      "Reporting points to cameras, microphones and speakers in the frames. That combination suggests a voice-led experience: the wearer could ask a question, and Siri could use visual context to respond when needed. Earlier reporting points to calls, audio playback and notifications as possible everyday uses. A device that can do those jobs can be useful without projecting a map or a message into the wearer’s field of view. [Bloomberg’s earlier reporting via MacRumors](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/) [Digital Trends](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)",
+      "### Will Apple’s first glasses have a screen?",
+      "The first model is reported to omit a display. The illustration above imagines graphics on the lenses, but those are an editorial concept. Without a display, directions could be spoken and an app confirmation might arrive as audio or on the paired phone. That changes the sort of apps the device is suited for. Asking for the next turn takes seconds. Choosing between several nearly identical addresses is often easier to do on a screen. [Bloomberg’s earlier reporting via MacRumors](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)",
+      "[[NOV15_NEWS_476]]",
+      "## How Siri could use iPhone apps",
+      "Apple’s developer documentation describes App Intents as a way for developers to expose actions and data to Siri and other system features. A music app, for example, can declare an action to play an album. This gives Siri a defined operation to call and a way to pass the album that the user requested. Bloomberg reports that the glasses would build on existing iPhone software rather than rely on a dedicated app store for the first model. [Apple Developer: App Intents](https://developer.apple.com/documentation/appintents) [Bloomberg Power On](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [Digital Trends](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)",
+      "### What that would mean for users",
+      "Imagine asking for a table at a restaurant. An available reservation action could let Siri pass along the party size and time. If the restaurant needs a deposit, there may still be details to confirm. That example illustrates the design problem, rather than an announced feature. Compatibility will depend on which developers expose which actions, what permissions those actions require and how the phone handles login or payment steps. An installed app alone does not guarantee that all its screens and controls will be available by voice. [Apple Developer: App Intents](https://developer.apple.com/documentation/appintents) [Digital Trends](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)",
+      "## Privacy, battery life and the unanswered questions",
+      "### What Apple has already opened to developers",
+      "The Siri AI Developer Preview in Apple’s documentation covers actions and content that apps can make discoverable. That work can proceed on devices people already own. If the glasses use the same framework, developers could build and test app actions before the hardware goes on sale. Buyers would still need to know which languages and services work at launch and whether the experience depends on an internet connection. The preview does not resolve those questions for wearable hardware. [Apple Developer: App Intents](https://developer.apple.com/documentation/appintents)",
+      "A camera worn at eye level changes the social setting of a photo. Practical questions include when it can activate, whether a bystander can see an indicator and what happens to the captured data. Camera use, wireless connections and audio also compete for a small battery. Until Apple publishes specifications and privacy documentation for the product, the price, battery performance, supported phones and handling of images remain open questions. [Bloomberg’s earlier reporting via MacRumors](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)",
+      "A developer event could explain how app actions work before Apple settles on retail dates or markets. For the wider roadmap, see [PRESDA’s coverage of Apple’s iPhone and product plans](/articles/apple-iphone-18-foldable-future-products/)."
+    ],
+    "references": [
+      {
+        "name": "Bloomberg Power On",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan"
+      },
+      {
+        "name": "Apple Developer: App Intents",
+        "url": "https://developer.apple.com/documentation/appintents"
+      },
+      {
+        "name": "Digital Trends",
+        "url": "https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/"
+      },
+      {
+        "name": "Bloomberg’s earlier reporting via MacRumors",
+        "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/"
+      }
+    ],
+    "relatedSlugs": [
+      "apple-iphone-18-foldable-future-products"
+    ],
+    "faq": [
+      {
+        "question": "Has Apple announced the glasses?",
+        "answer": "No. The 2027 timing and design are reported development plans."
+      },
+      {
+        "question": "Is a display expected?",
+        "answer": "Reporting points to a first model without displays. The lens graphics in the supplied illustration are conceptual."
+      },
+      {
+        "question": "What would Siri do?",
+        "answer": "The reported approach would let Siri call supported actions from compatible iPhone apps. Support depends on the app and the final system."
+      }
+    ],
+    "readingTime": "4 min read"
+  },
+  {
+    "id": "477",
+    "slug": "johnny-depp-ebenezer-number-one-box-office",
+    "title": "JOHNNY DEPP RETURNS TO NO. 1 AT THE BOX OFFICE AFTER EIGHT YEARS",
+    "seoTitle": "Johnny Depp’s Ebenezer opens at No. 1 with $42 million",
+    "metaDescription": "Johnny Depp’s Ebenezer topped the North American and worldwide weekend charts. See the opening figures and what the eight-year gap means.",
+    "excerpt": "Johnny Depp’s Ebenezer topped the North American and worldwide weekend charts. See the opening figures and what the eight-year gap means.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-15",
+    "lastUpdated": "2026-11-15",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/johnny-depp-red-carpet-ebenezer-box-office.jpg",
+    "coverAlt": "Johnny Depp wearing rose-tinted glasses and a wide-brimmed hat on a red carpet",
+    "headlineHighlights": {
+      "red": "JOHNNY DEPP",
+      "gold": "NO. 1"
+    },
+    "tags": [
+      "JOHNNY DEPP",
+      "Paparazzi"
+    ],
+    "content": [
+      "Johnny Depp returned to the top of the North American weekend box office with Ebenezer, director Ti West’s reworking of A Christmas Carol. Paramount estimated that the film earned $19 million in North America and $42 million worldwide in its opening weekend. The result marks Depp’s first No. 1 domestic opening in eight years, dating back to Fantastic Beasts: The Crimes of Grindelwald in 2018. [Paramount opening-weekend figures](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million) [Associated Press](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0) [The Numbers 2018 box-office chart](https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29)",
+      "## How much did Ebenezer make?",
+      "Paramount reported $19 million from 3,535 North American locations and $23 million from 63 international markets. About 55 percent of the worldwide estimate came from outside North America. The studio put the film first in the United Kingdom with $5.4 million and also first in Italy, Mexico and Spain. It placed second in France, where it made an estimated $2.5 million. A worldwide win therefore describes the combined result across markets. Individual countries can have different leaders. [Paramount opening-weekend figures](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)",
+      "[[NOV15_NEWS_477]]",
+      "### What does No. 1 mean?",
+      "In domestic film reporting, the weekend chart ranks titles by ticket-sale revenue in the United States and Canada. The Associated Press reported that The Cat in the Hat placed second with $11.4 million, followed by Godzilla Minus Zero with $8.3 million. Those figures put Ebenezer ahead of its nearest rival by about $7.6 million on the initial estimates. The ranking tells us which film sold the most by value that weekend. It does not measure the size of the audience over the full run. [Associated Press](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0)",
+      "## What changed since Grindelwald?",
+      "The 2018 Fantastic Beasts sequel topped the domestic chart with $62.2 million on its opening weekend, according to The Numbers. Its wider release and much larger gross show why the two first-place finishes should be read in context. Depp continued to work during the interval. In 2023 he played Louis XV opposite Maïwenn in Jeanne du Barry, which opened the Cannes Film Festival. Opening a festival and topping a commercial weekend chart mark different achievements. The eight years refer to the latter milestone. [The Numbers 2018 box-office chart](https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29) [Festival de Cannes](https://www.festival-cannes.com/en/press/press-releases/jeanne-du-barry-by-maiwenn-will-open-the-76th-festival-de-cannes/)",
+      "### Why the weekend total does not settle profitability",
+      "The Associated Press reported a production cost of about $38 million. Worldwide ticket sales above that figure do not establish that the studio has recouped its spending. Theaters keep a share of ticket receipts, a production budget typically excludes promotion, and the film will generate additional income or costs as its release continues. Later weekend grosses and how many theaters keep showing it will reveal whether the opening carried momentum. [Associated Press](https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0)",
+      "## Why Ti West returned to the ghosts",
+      "In West’s version, Depp plays the miser Ebenezer Scrooge in a Victorian London marked by inequality and supernatural encounters. Nathaniel Halpern wrote the adaptation. The ensemble includes Andrea Riseborough, Rupert Grint, Daisy Ridley and Ian McKellen. Paramount’s campaign put Depp in character at San Diego Comic-Con and took the film to a London world premiere. For another look at what changes when a familiar story is reworked, read [the origins of Shakespeare’s Romeo and Juliet](/articles/romeo-juliet-shakespeare-love-story-true-origins/). [Paramount opening-weekend figures](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)",
+      "### How the audience reacted",
+      "Paramount reported an A-minus CinemaScore and favorable audience polling from PostTrak. Both describe people who saw the film early. They can give distributors a clue about word of mouth, especially for a November release heading into the holidays. They do not sample everyone who considered buying a ticket, and each score answers a different question. An opening-weekend exit poll cannot substitute for next weekend’s ticket sales, which will reveal whether the film continues to attract audiences after its initial publicity. [Paramount opening-weekend figures](https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million)"
+    ],
+    "references": [
+      {
+        "name": "Paramount opening-weekend figures",
+        "url": "https://enduser-corp-prod.paramount.com/news/ebenezer-opens-to-no-1-worldwide-with-42-million"
+      },
+      {
+        "name": "Associated Press",
+        "url": "https://apnews.com/article/5f610ec382c91fbcdc5e3d4baf4728d0"
+      },
+      {
+        "name": "The Numbers 2018 box-office chart",
+        "url": "https://www.the-numbers.com/movie/fantastic-beasts-the-crimes-of-grindelwald-%282018%29"
+      },
+      {
+        "name": "Festival de Cannes",
+        "url": "https://www.festival-cannes.com/en/press/press-releases/jeanne-du-barry-by-maiwenn-will-open-the-76th-festival-de-cannes/"
+      }
+    ],
+    "relatedSlugs": [
+      "romeo-juliet-shakespeare-love-story-true-origins"
+    ],
+    "faq": [
+      {
+        "question": "What movie returned Johnny Depp to No. 1?",
+        "answer": "Ebenezer, the Ti West adaptation of A Christmas Carol starring Depp as Scrooge."
+      },
+      {
+        "question": "How much did Ebenezer make in its opening weekend?",
+        "answer": "Paramount’s Sunday estimate was $19 million in North America and $42 million worldwide."
+      },
+      {
+        "question": "When was Depp’s previous No. 1 opening?",
+        "answer": "Fantastic Beasts: The Crimes of Grindelwald opened at No. 1 domestically in November 2018."
+      }
+    ],
+    "readingTime": "3 min read"
+  },
+  {
     "id": "462",
     "slug": "tesla-cybercab-price-autonomy-subscription",
     "title": "Tesla Cybercab costs $29,990 and needs a $299 monthly subscription",

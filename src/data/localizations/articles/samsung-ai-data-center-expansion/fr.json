@@ -1,0 +1,145 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/samsung-ai-data-center-expansion/",
+  "path": "/fr/articles/samsung-ai-data-center-expansion/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "SAMSUNG VA AU-DELÀ DES PUCES ET BÂTIT UN EMPIRE DE CENTRES DE DONNÉES POUR L’IA",
+  "seoTitle": "Samsung étend ses activités aux centres de données pour l’IA",
+  "description": "Samsung SDS construit à Gumi un centre dédié à l’IA. Six sociétés du groupe investissent aussi un milliard de dollars dans Helix.",
+  "excerpt": "Samsung SDS construit à Gumi un centre dédié à l’IA. Six sociétés du groupe investissent aussi un milliard de dollars dans Helix.",
+  "headlineHighlights": {
+    "red": "SAMSUNG",
+    "gold": "CENTRES DE DONNÉES"
+  },
+  "keywords": [
+    "SAMSUNG",
+    "CENTRES DE DONNÉES"
+  ],
+  "searchIntent": "Samsung SDS construit à Gumi un centre dédié à l’IA. Six sociétés du groupe investissent aussi un milliard de dollars dans Helix.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/samsung-ai-data-center-server-racks.jpg",
+    "alt": "Illustration de baies de serveurs Samsung et de conduites de refroidissement",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une puce Samsung peut passer des années dans un serveur d’intelligence artificielle. Le groupe veut aussi intervenir dans le bâtiment qui alimente ce serveur, évacue sa chaleur et le maintient en service. À Gumi, en Corée du Sud, Samsung SDS a annoncé le lancement du chantier le 2 novembre. Un investissement distinct de six sociétés du groupe dans Helix Digital Infrastructure étend cette stratégie à l’étranger. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [Source · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que Samsung SDS construit à Gumi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le chantier occupe environ 46 000 mètres carrés à Gongdan-dong. Samsung SDS annonce une capacité électrique initiale de 60 mégawatts et une extension possible par étapes jusqu’à 120 MW. La fin des travaux est prévue pour la fin de 2028. Ces chiffres décrivent la conception du site. Ils ne permettent pas de connaître le nombre de puces installées, la consommation effective ni la date à laquelle les clients pourront commencer à entraîner leurs modèles. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Trois montants pour trois engagements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Samsung SDS a indiqué un investissement de 427,3 milliards de wons pour Gumi. Le plan d’environ 60 000 milliards de wons pour le sud-est du pays couvre aussi la robotique, les batteries et les composants. Le milliard de dollars destiné à Helix est un engagement séparé, partagé par six sociétés. Confondre ces chiffres donnerait une vision erronée du coût du chantier coréen. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [Source · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV15_NEWS_475]]",
+      "caption": "Les trois montants de la stratégie Samsung",
+      "headings": [
+        "Engagement",
+        "Périmètre"
+      ],
+      "rows": [
+        [
+          "427,3 milliards de wons",
+          "Chantier de Gumi"
+        ],
+        [
+          "Environ 60 000 milliards de wons",
+          "Plan élargi pour le sud-est de la Corée"
+        ],
+        [
+          "1 milliard de dollars américains",
+          "Investissement de six sociétés dans Helix"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi les GPU exigent un refroidissement adapté"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une baie remplie de processeurs graphiques, la chaleur se concentre sur un espace réduit. SDS prévoit un refroidissement liquide dans les zones à forte densité et de l’air pour certains équipements de réseau et de stockage. Le site pourra accueillir des baies aux besoins électriques différents. Des systèmes de secours doivent prendre le relais en cas de panne, car une interruption peut compromettre une opération de calcul coûteuse. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Deux manières d’utiliser le centre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certains clients loueront de la puissance sur les GPU exploités par Samsung SDS. D’autres installeront leurs machines dans le centre grâce à la colocation. La première formule délègue davantage de travail au fournisseur. La seconde laisse au client le choix du matériel, tandis que l’opérateur gère le bâtiment. Samsung prévoit aussi d’aider ses usines à entraîner des robots pour des tâches de précision. SDS évoque auprès des investisseurs d’autres services de puissance de calcul pour le secteur public. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html) [Source · image.samsungsds.com](https://image.samsungsds.com/en/investor/ir_events/ear_rele/__icsFiles/afieldfile/2026/10/29/Samsung_SDS_3Q26_Script_Eng_261029.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qu’apporte l’investissement dans Helix"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que les clients devront comparer"
+    },
+    {
+      "type": "paragraph",
+      "text": "La puissance électrique aide à comparer des bâtiments, mais un client doit regarder d’autres chiffres pour budgéter un projet d’IA. Le modèle d’accélérateur, le réseau entre serveurs et la mémoire disponible conditionnent les tâches possibles. Un modèle réparti entre plusieurs machines consacre aussi du temps à échanger des données. L’annonce de Gumi ne fixe pas le fournisseur de GPU. Les 60 MW décrivent donc le bâtiment, tandis que les offres détaillées renseigneront sur la capacité commerciale. [Source · www.samsungsds.com](https://www.samsungsds.com/en/news/gm-261104.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Créée par KKR et dirigée par l’ancien patron d’Amazon Web Services Adam Selipsky, Helix vise les bâtiments, les réseaux de fibre et les infrastructures électriques. Samsung C&T dispose de capacités de construction, Samsung SDI fournit des systèmes de batteries de secours et Samsung Electronics a acquis le spécialiste du refroidissement FläktGroup en 2025. La prise de participation ouvre des possibilités commerciales. Les contrats et les capacités mises en service en donneront la mesure. [Source · news.samsung.com](https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix)"
+    },
+    {
+      "type": "paragraph",
+      "text": "À Gumi, le groupe prévoit d’exploiter un bâtiment et d’en commercialiser les capacités. Avec Helix, il investit aux côtés d’autres entreprises dans un développeur d’infrastructures. Pour comprendre cette diversification, retrouvez [le parcours de Samsung du commerce alimentaire à la technologie](/articles/samsung-from-food-to-tech-empire/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · www.samsungsds.com",
+      "url": "https://www.samsungsds.com/en/news/gm-261104.html"
+    },
+    {
+      "label": "Source · news.samsung.com",
+      "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+    },
+    {
+      "label": "Source · image.samsungsds.com",
+      "url": "https://image.samsungsds.com/en/investor/ir_events/ear_rele/__icsFiles/afieldfile/2026/10/29/Samsung_SDS_3Q26_Script_Eng_261029.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand le chantier de Gumi doit-il s’achever ?",
+      "answer": "Samsung SDS vise la fin de 2028. Aucune date de mise en service commerciale n’a été précisée."
+    },
+    {
+      "question": "Quelle sera sa capacité ?",
+      "answer": "Le projet prévoit 60 MW au départ et jusqu’à 120 MW après extension."
+    },
+    {
+      "question": "Le milliard de dollars finance-t-il Gumi ?",
+      "answer": "Il correspond à un investissement distinct de six sociétés Samsung dans Helix."
+    }
+  ],
+  "readingTimeMinutes": 3
+}

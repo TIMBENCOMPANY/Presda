@@ -8,6 +8,78 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV15_NEWS_475]]": {
+    "caption": "Three figures behind Samsung’s expansion",
+    "headers": [
+      "Commitment",
+      "Scope"
+    ],
+    "rows": [
+      [
+        "₩427.3 billion",
+        "Gumi construction project"
+      ],
+      [
+        "About ₩60 trillion",
+        "Broader investment in southeastern Korea"
+      ],
+      [
+        "US$1 billion",
+        "Combined investment by six affiliates in Helix"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV15_NEWS_476]]": {
+    "caption": "Reported features and open questions",
+    "headers": [
+      "Item",
+      "Status"
+    ],
+    "rows": [
+      [
+        "2027 timing",
+        "Reported target, subject to development"
+      ],
+      [
+        "Lens display",
+        "First model reportedly has none"
+      ],
+      [
+        "Siri app actions",
+        "Uses a documented Apple framework, but hardware support is unannounced"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV15_NEWS_477]]": {
+    "caption": "Paramount’s opening-weekend estimates",
+    "headers": [
+      "Market",
+      "Gross"
+    ],
+    "rows": [
+      [
+        "North America",
+        "US$19 million"
+      ],
+      [
+        "International",
+        "US$23 million"
+      ],
+      [
+        "Worldwide",
+        "US$42 million"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[UPGRADE_473]]": {
   "caption": "Read the historical names against the geography of the estuary.",
   "headers": [

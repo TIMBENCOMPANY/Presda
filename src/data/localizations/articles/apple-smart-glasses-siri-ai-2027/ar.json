@@ -1,0 +1,149 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/apple-smart-glasses-siri-ai-2027/",
+  "path": "/ar/articles/apple-smart-glasses-siri-ai-2027/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "أولى نظارات أبل الذكية قد تصل في 2027 مع سيري المدعوم بالذكاء الاصطناعي",
+  "seoTitle": "نظارات أبل الذكية في 2027 وميزات سيري المنتظرة",
+  "description": "تشير بلومبرغ إلى أن أبل تستهدف 2027 لإطلاق نظارات ذكية تعتمد على سيري وإجراءات تطبيقات آيفون.",
+  "excerpt": "تشير بلومبرغ إلى أن أبل تستهدف 2027 لإطلاق نظارات ذكية تعتمد على سيري وإجراءات تطبيقات آيفون.",
+  "headlineHighlights": {
+    "red": "أبل",
+    "gold": "سيري"
+  },
+  "keywords": [
+    "أبل",
+    "سيري"
+  ],
+  "searchIntent": "تشير بلومبرغ إلى أن أبل تستهدف 2027 لإطلاق نظارات ذكية تعتمد على سيري وإجراءات تطبيقات آيفون.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/apple-smart-glasses-siri-ai-concept.jpg",
+    "alt": "تصوّر لنظارات تحمل شعار أبل وتظهر على عدساتها رسوم تخيّلية لسيري",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "تستهدف أبل عام 2027 لتقديم أول نظاراتها الذكية، وفقاً لمارك غورمان من بلومبرغ. وتشير التقارير إلى احتمال عرضها في مؤتمر المطورين ثم بدء بيعها قرب نهاية العام، بحسب تقدم العمل. وتتمحور الفكرة حول تنفيذ إجراءات في تطبيقات آيفون بصوت المستخدم عبر سيري، بينما يبقى الهاتف في جيبه. ولم تعلن أبل عن المنتج أو سعره أو موعد شحنه. [المصدر · www.bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [المصدر · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا قد تفعل النظارات؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تشير التقارير إلى وجود كاميرات وميكروفونات ومكبرات صوت في الإطار. ويفتح ذلك المجال لاستخدام يعتمد على الصوت، بحيث يطرح المستخدم سؤالاً ويستعين سيري بما تراه الكاميرا عند الحاجة. كما تناولت تقارير سابقة المكالمات وتشغيل الصوت والإشعارات. ويمكن تقديم هذه الوظائف من دون عرض خريطة أو رسالة أمام العين. [المصدر · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/) [المصدر · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+    },
+    {
+      "type": "subheading",
+      "text": "هل تعرض العدسات معلومات أمام العين؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تصف التقارير الجيل الأول بأنه يخلو من شاشة. والرسوم في الصورة المرفقة جزء من تصوّر تحريري. في غياب الشاشة يمكن سماع الاتجاهات، أو تلقي تأكيد مسموع أو رسالة على الهاتف المرتبط. ويؤثر هذا في نوع التطبيقات الملائمة للنظارة. فالسؤال عن المنعطف التالي سريع، بينما يسهل الاختيار بين عناوين متشابهة على شاشة. [المصدر · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV15_NEWS_476]]",
+      "caption": "الميزات المتداولة والأسئلة المفتوحة",
+      "headings": [
+        "الموضوع",
+        "الوضع"
+      ],
+      "rows": [
+        [
+          "موعد 2027",
+          "موعد تستهدفه الشركة وفق التقارير ويرتبط بتقدم التطوير"
+        ],
+        [
+          "شاشة العدسات",
+          "تشير التقارير إلى غيابها في الجيل الأول"
+        ],
+        [
+          "إجراءات التطبيقات عبر سيري",
+          "الإطار البرمجي موثق، ودعم النظارات لم يُعلن"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "كيف قد يستخدم سيري تطبيقات آيفون؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تشرح وثائق أبل أن إطار App Intents يتيح للمطورين توفير إجراءات التطبيقات وبياناتها لسيري وخدمات النظام الأخرى. فيمكن لتطبيق موسيقى مثلاً تعريف إجراء لتشغيل ألبوم، ويصبح في وسع سيري طلب ذلك الإجراء وتمرير اسم الألبوم المطلوب. وتفيد بلومبرغ بأن الجيل الأول سيعتمد على برامج آيفون القائمة من دون متجر تطبيقات خاص بالنظارات. [المصدر · developer.apple.com](https://developer.apple.com/documentation/appintents) [المصدر · www.bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) [المصدر · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+    },
+    {
+      "type": "subheading",
+      "text": "كيف ينعكس ذلك على الاستخدام اليومي؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "لنتخيّل طلب حجز طاولة. إذا وفّر التطبيق الإجراء المناسب فقد يمرر سيري وقت الحجز وعدد الأشخاص. وقد يحتاج دفع عربون إلى تأكيد إضافي. هذا مثال لتوضيح طريقة العمل وليس ميزة معلنة. ويتوقف التطبيق العملي على الإجراءات التي يدعمها المطورون والأذونات وطريقة التعامل مع تسجيل الدخول والدفع. ولا يكفي تثبيت التطبيق لإتاحة كل أوامره صوتياً. [المصدر · developer.apple.com](https://developer.apple.com/documentation/appintents) [المصدر · www.digitaltrends.com](https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/)"
+    },
+    {
+      "type": "heading",
+      "text": "الكاميرا والخصوصية والبطارية"
+    },
+    {
+      "type": "subheading",
+      "text": "ما الذي أتاحته أبل للمطورين بالفعل؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تشرح المعاينة المخصصة للمطورين كيف تتيح التطبيقات إجراءاتها ومحتواها لسيري. ويمكن اختبار هذا العمل على الأجهزة الموجودة الآن. وإذا استخدمت النظارات الإطار نفسه فقد يجرّب المطورون إجراءاتهم قبل طرحها للبيع. وسيحتاج المشتري إلى معرفة اللغات والخدمات المتاحة عند الإطلاق ومدى اعتمادها على الإنترنت. ولا تجيب معاينة النظام عن هذه الأسئلة بالنسبة للنظارات. [المصدر · developer.apple.com](https://developer.apple.com/documentation/appintents)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تغيّر الكاميرا عند مستوى العين ظروف التصوير. من الأسئلة العملية متى تعمل، وهل يستطيع المجاورون رؤية مؤشر تشغيلها، وأين تُعالج الصور. وتتنافس الكاميرا والاتصالات اللاسلكية والصوت على طاقة بطارية صغيرة. وسيظل السعر ومدة التشغيل والهواتف المدعومة وطريقة التعامل مع الصور غير معروفة حتى نشر مواصفات المنتج. [المصدر · www.macrumors.com](https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "وقد تكشف أبل للمطورين طريقة تصميم الإجراءات قبل تحديد أسواق البيع ومواعيده. للمزيد اقرأ [تغطية بريزدا لخطط آيفون ومنتجات أبل المقبلة](/articles/apple-iphone-18-foldable-future-products/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر · www.bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan"
+    },
+    {
+      "label": "المصدر · developer.apple.com",
+      "url": "https://developer.apple.com/documentation/appintents"
+    },
+    {
+      "label": "المصدر · www.digitaltrends.com",
+      "url": "https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/"
+    },
+    {
+      "label": "المصدر · www.macrumors.com",
+      "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل أعلنت أبل النظارات؟",
+      "answer": "لا. يستند موعد 2027 والتصميم إلى تقارير عن خطط قيد التطوير."
+    },
+    {
+      "question": "هل تحتوي النظارات على شاشة؟",
+      "answer": "تشير التقارير إلى جيل أول من دون شاشة. الرسوم على العدسات تخيّلية."
+    },
+    {
+      "question": "ما دور سيري؟",
+      "answer": "تشير التقارير إلى تنفيذ إجراءات توفرها تطبيقات آيفون المتوافقة. ويتوقف الدعم على كل تطبيق والنظام النهائي."
+    }
+  ],
+  "readingTimeMinutes": 3
+}
