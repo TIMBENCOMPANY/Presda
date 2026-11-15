@@ -30,6 +30,15 @@ export const newsNov14Articles: Article[] = [
       "Introduced in 2023, the feature suggested items from a phone’s gallery that someone might want to post while browsing Facebook. The regulator found that the app used one broad permission for multiple features and described it in general terms. Gallery suggestions were on by default. An unrestricted grant, the authority said, could allow ongoing reading of the full photo library without showing users which items were actually used. [Italian Data Protection Authority](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)",
       "### Why Italy’s regulator took the case",
       "The decision applies Article 122 of Italy’s privacy code, which implements the EU ePrivacy Directive. The Garante focused on access to information stored on the handset. It rejected Meta’s argument for handling the case in Ireland, saying the ePrivacy rules lack the one-stop-shop mechanism used for certain cross-border GDPR cases. [Italian Data Protection Authority](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)",
+      "## Why an Android permission was only part of the question",
+      "A phone’s permission control answers whether the operating system will let an app read particular files. The regulator examined a second decision: whether someone understood and agreed to Facebook’s use of that access to suggest items while browsing. According to the Garante, a single permission served several purposes and the notice did not tell people clearly that agreeing also enabled gallery suggestions. The feature’s default setting made the distinction consequential even for people who never selected a photo to publish. [Source · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)",
+      "### What access does, and what the ruling establishes",
+      "A user can open a publishing tool to choose an image. A suggestion tool may instead scan available material in order to decide what to recommend. The authority focused on that second use. It said a full grant gave the app continuing access to the gallery, while users and the authority could not verify which records were actually used. The finding concerns access to information stored on the device. It does not establish that all files were copied or that each Android user identified in the penalty calculation was individually affected. [Source · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)",
+      "## How the three deadlines fit together",
+      "The order sets separate milestones for reporting initial action, changing the feature and reporting what has been done. The default-off requirement applies even to people who previously gave the operating system permission. A fresh, specific choice must explain what the feature does and how to turn it off. If the deadline passes without compliance, activation for users without valid consent is barred. The timeline below describes the published order, rather than the status of Meta’s compliance. [Source · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)",
+      "[[META_GALLERY_ORDER]]",
+      "## Why the fine was large and how Meta responded",
+      "The regulator weighed the scale and duration, a previous measure from 2019 and what it described as limited cooperation during the inquiry. It gave some weight to changes made after the complaint, while saying those changes came late and depended on an app update. Meta disputed the decision and told Reuters it intended to appeal. These are distinct claims: the authority has publicly imposed the fine, and the company has publicly stated the position it plans to take. Follow the [history of Facebook and Meta](/articles/mark-zuckerberg-facebook-meta-story/) for the wider company context. [Source · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080) [Source · Reuters, Meta response](https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html)",
       "## What Meta must change",
       "The authority gave Meta 60 days to turn off the feature by default, seek separate consent, and explain how to disable it. Meta must report initial steps within 30 days and measures taken within 90. The decision leaves potential AI training outside its scope, and the regulator reserved separate scrutiny of a cloud-based feature introduced in 2026. [Italian Data Protection Authority](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)",
       "The Garante said the inquiry began in July 2025 after a complaint from a consumer organisation in Bolzano. The case asks whether someone understood what Facebook would do with access already granted to the app. The separate consent order addresses that gap directly. [Euronews](https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso)",
@@ -56,6 +65,14 @@ export const newsNov14Articles: Article[] = [
       {
         "name": "Source · ansa.it",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
+      },
+      {
+        "name": "Garante Privacy, decision summary",
+        "url": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+      },
+      {
+        "name": "Reuters, Meta response",
+        "url": "https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html"
       }
     ],
     "relatedSlugs": [
@@ -71,7 +88,7 @@ export const newsNov14Articles: Article[] = [
         "answer": "The decision focused on device access and consent. It did not examine AI training."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "5 min read"
   },
   {
     "id": "457",

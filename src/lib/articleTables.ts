@@ -8,6 +8,30 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[META_GALLERY_ORDER]]": {
+  "caption": "Remediation timetable in the Italian authority’s published order.",
+  "rows": [
+    [
+      "30 days",
+      "Notify the Garante of steps begun"
+    ],
+    [
+      "60 days",
+      "Ask for separate consent and leave the feature off by default"
+    ],
+    [
+      "90 days",
+      "Report the measures taken"
+    ]
+  ],
+  "headers": [
+    "Deadline",
+    "What Meta must do"
+  ],
+  "minWidthClass": "min-w-[420px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
   "[[DIQUIS_PROTECTED_SITES]]": {
   "caption": "Inscribed component areas from the UNESCO maps. Buffer zones are excluded.",
   "rows": [

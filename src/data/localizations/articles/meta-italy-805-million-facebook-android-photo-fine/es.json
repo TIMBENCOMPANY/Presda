@@ -55,6 +55,61 @@
     },
     {
       "type": "heading",
+      "text": "Por qué el permiso de Android solo resolvía parte de la cuestión"
+    },
+    {
+      "type": "paragraph",
+      "text": "El ajuste del teléfono determina si el sistema permite a una aplicación leer ciertos archivos. El regulador examinó otro aspecto: ¿entendió y aceptó el usuario que Facebook utilizara ese acceso para hacer sugerencias mientras navegaba? Según el Garante, un permiso único cubría varias funciones y la explicación no aclaraba que también habilitaba las sugerencias. Al estar activada por defecto, la función importaba incluso para quienes jamás habían elegido una foto para publicarla. [Fuente · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué permite el acceso y qué estableció la resolución"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona puede abrir un selector para publicar una imagen. Una herramienta de sugerencias, en cambio, puede consultar archivos disponibles para decidir cuáles recomendar. La autoridad se centró en ese segundo uso. Afirmó que un permiso completo permitía acceso continuo a la galería sin que el usuario o el regulador pudieran comprobar qué archivos se usaban en la práctica. El hallazgo se refiere al acceso a información almacenada en el teléfono. No demuestra que se copiaran todos los archivos ni que cada usuario incluido en la estimación se viera afectado individualmente. [Fuente · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo se relacionan los tres plazos"
+    },
+    {
+      "type": "paragraph",
+      "text": "La orden fija fechas distintas para informar de los primeros pasos, cambiar la función y comunicar las medidas adoptadas. La desactivación por defecto también alcanza a quienes habían dado permiso al sistema. La solicitud separada debe explicar qué hace la función y cómo se desactiva. Si vence el plazo sin cumplimiento, no se puede activar para quienes no hayan dado un consentimiento válido. La tabla resume las obligaciones publicadas. [Fuente · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[META_GALLERY_ORDER]]",
+      "caption": "Calendario de obligaciones publicado por la autoridad italiana.",
+      "headings": [
+        "Plazo",
+        "Obligación de Meta"
+      ],
+      "rows": [
+        [
+          "30 días",
+          "Notificar al Garante las primeras medidas"
+        ],
+        [
+          "60 días",
+          "Pedir consentimiento separado y desactivar la función por defecto"
+        ],
+        [
+          "90 días",
+          "Comunicar las medidas adoptadas"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Por qué fue tan alta la multa y cómo respondió Meta"
+    },
+    {
+      "type": "paragraph",
+      "text": "La autoridad ponderó el alcance y la duración, una medida previa de 2019 y lo que describió como escasa cooperación en la investigación. Consideró atenuantes algunos cambios posteriores a la denuncia, aunque dijo que fueron tardíos y dependían de actualizar la aplicación. Meta discrepó y dijo a Reuters que pretendía recurrir. Una cosa es la sanción publicada y otra la postura que la empresa ha anunciado que defenderá. Consulta también [la historia de Facebook y Meta](/articles/mark-zuckerberg-facebook-meta-story/). [Fuente · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080) [Fuente · Reuters, Meta response](https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html)"
+    },
+    {
+      "type": "heading",
       "text": "Qué debe cambiar Meta"
     },
     {
@@ -106,6 +161,14 @@
     {
       "label": "Fuente · ansa.it",
       "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
+    },
+    {
+      "label": "Fuente · Garante Privacy, decision summary",
+      "url": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+    },
+    {
+      "label": "Fuente · Reuters, Meta response",
+      "url": "https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html"
     }
   ],
   "faq": [
@@ -118,5 +181,5 @@
       "answer": "Se centró en el acceso al dispositivo y el consentimiento. El entrenamiento quedó fuera del procedimiento."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

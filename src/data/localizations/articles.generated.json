@@ -278320,6 +278320,61 @@
       },
       {
         "type": "heading",
+        "text": "لماذا كان إذن أندرويد جزءاً من المسألة فقط؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يحدد إعداد الهاتف ما إذا كان النظام يسمح للتطبيق بقراءة ملفات معينة. ودرست هيئة حماية البيانات قراراً آخر: هل فهم المستخدم أن فيسبوك سيستعين بهذا الوصول لاقتراح محتوى أثناء التصفح، وهل وافق على ذلك؟ تقول الهيئة إن إذناً واحداً شمل عدة أغراض وإن الرسالة لم توضح أن الموافقة ستتيح اقتراحات المعرض أيضاً. لذلك كان للتشغيل الافتراضي أثر حتى على من لم يختاروا أي صورة للنشر. [المصدر · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي يتيحه الوصول وما الذي يثبته القرار؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يفتح المستخدم أداة النشر ليختار صورة. أما أداة الاقتراح فقد تفحص الملفات المتاحة لتقرر ما تعرضه. وركزت الهيئة على الاستخدام الثاني، موضحة أن الإذن الكامل يتيح الوصول المستمر إلى المعرض من دون قدرة المستخدم أو الهيئة على التحقق من الملفات المستخدمة فعلياً. ويتعلق القرار بالوصول إلى ما هو مخزن في الهاتف. ولا يثبت نسخ الملفات كلها أو تضرر كل مستخدم أندرويد شمله التقدير عدداً. [المصدر · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف ترتبط المهل الثلاث؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يحدد القرار مواعيد منفصلة للإبلاغ عن الخطوات الأولى وتعديل الميزة ثم الإفادة بما نُفذ. وينطبق الإيقاف الافتراضي حتى على من سبق أن منحوا الإذن على مستوى الهاتف. ويجب أن يوضح الطلب المنفصل وظيفة الميزة وطريقة إيقافها. وإذا انتهت المهلة من دون امتثال فلا يجوز تفعيلها لمن لم يمنح موافقة صالحة. ويعرض الجدول الالتزامات الواردة في القرار. [المصدر · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[META_GALLERY_ORDER]]",
+        "caption": "الجدول الزمني للإجراءات الواردة في قرار الهيئة الإيطالية.",
+        "headings": [
+          "المهلة",
+          "ما يتعين على ميتا فعله"
+        ],
+        "rows": [
+          [
+            "30 يوماً",
+            "إبلاغ الهيئة بالخطوات التي بدأت"
+          ],
+          [
+            "60 يوماً",
+            "طلب موافقة منفصلة وترك الميزة معطّلة افتراضياً"
+          ],
+          [
+            "90 يوماً",
+            "إبلاغ الهيئة بالتدابير المتخذة"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "أسباب الغرامة ورد ميتا"
+      },
+      {
+        "type": "paragraph",
+        "text": "أخذت الهيئة في الحسبان نطاق المخالفة ومدتها وتدبيراً سابقاً من عام 2019 وما وصفته بمحدودية التعاون أثناء التحقيق. وعدّت بعض التعديلات اللاحقة للشكوى عاملاً مخففاً، لكنها رأت أنها تأخرت واقتصرت على من حدّثوا التطبيق. واعترضت ميتا وأبلغت رويترز بأنها تعتزم الطعن. فالغرامة قرار أعلنته الهيئة، والطعن خطوة أعلنت الشركة عزمها عليها. اقرأ أيضاً [تاريخ فيسبوك وميتا](/articles/mark-zuckerberg-facebook-meta-story/). [المصدر · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080) [المصدر · Reuters, Meta response](https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html)"
+      },
+      {
+        "type": "heading",
         "text": "ما الذي يتعين على ميتا تغييره؟"
       },
       {
@@ -278371,6 +278426,14 @@
       {
         "label": "المصدر · ansa.it",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
+      },
+      {
+        "label": "المصدر · Garante Privacy, decision summary",
+        "url": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+      },
+      {
+        "label": "المصدر · Reuters, Meta response",
+        "url": "https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html"
       }
     ],
     "faq": [
@@ -278383,7 +278446,7 @@
         "answer": "ركز القرار على الوصول إلى الجهاز والموافقة، ولم يفحص التدريب."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 4
   },
   {
     "locale": "es",
@@ -278442,6 +278505,61 @@
       },
       {
         "type": "heading",
+        "text": "Por qué el permiso de Android solo resolvía parte de la cuestión"
+      },
+      {
+        "type": "paragraph",
+        "text": "El ajuste del teléfono determina si el sistema permite a una aplicación leer ciertos archivos. El regulador examinó otro aspecto: ¿entendió y aceptó el usuario que Facebook utilizara ese acceso para hacer sugerencias mientras navegaba? Según el Garante, un permiso único cubría varias funciones y la explicación no aclaraba que también habilitaba las sugerencias. Al estar activada por defecto, la función importaba incluso para quienes jamás habían elegido una foto para publicarla. [Fuente · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué permite el acceso y qué estableció la resolución"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una persona puede abrir un selector para publicar una imagen. Una herramienta de sugerencias, en cambio, puede consultar archivos disponibles para decidir cuáles recomendar. La autoridad se centró en ese segundo uso. Afirmó que un permiso completo permitía acceso continuo a la galería sin que el usuario o el regulador pudieran comprobar qué archivos se usaban en la práctica. El hallazgo se refiere al acceso a información almacenada en el teléfono. No demuestra que se copiaran todos los archivos ni que cada usuario incluido en la estimación se viera afectado individualmente. [Fuente · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "heading",
+        "text": "Cómo se relacionan los tres plazos"
+      },
+      {
+        "type": "paragraph",
+        "text": "La orden fija fechas distintas para informar de los primeros pasos, cambiar la función y comunicar las medidas adoptadas. La desactivación por defecto también alcanza a quienes habían dado permiso al sistema. La solicitud separada debe explicar qué hace la función y cómo se desactiva. Si vence el plazo sin cumplimiento, no se puede activar para quienes no hayan dado un consentimiento válido. La tabla resume las obligaciones publicadas. [Fuente · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[META_GALLERY_ORDER]]",
+        "caption": "Calendario de obligaciones publicado por la autoridad italiana.",
+        "headings": [
+          "Plazo",
+          "Obligación de Meta"
+        ],
+        "rows": [
+          [
+            "30 días",
+            "Notificar al Garante las primeras medidas"
+          ],
+          [
+            "60 días",
+            "Pedir consentimiento separado y desactivar la función por defecto"
+          ],
+          [
+            "90 días",
+            "Comunicar las medidas adoptadas"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Por qué fue tan alta la multa y cómo respondió Meta"
+      },
+      {
+        "type": "paragraph",
+        "text": "La autoridad ponderó el alcance y la duración, una medida previa de 2019 y lo que describió como escasa cooperación en la investigación. Consideró atenuantes algunos cambios posteriores a la denuncia, aunque dijo que fueron tardíos y dependían de actualizar la aplicación. Meta discrepó y dijo a Reuters que pretendía recurrir. Una cosa es la sanción publicada y otra la postura que la empresa ha anunciado que defenderá. Consulta también [la historia de Facebook y Meta](/articles/mark-zuckerberg-facebook-meta-story/). [Fuente · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080) [Fuente · Reuters, Meta response](https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html)"
+      },
+      {
+        "type": "heading",
         "text": "Qué debe cambiar Meta"
       },
       {
@@ -278493,6 +278611,14 @@
       {
         "label": "Fuente · ansa.it",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
+      },
+      {
+        "label": "Fuente · Garante Privacy, decision summary",
+        "url": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+      },
+      {
+        "label": "Fuente · Reuters, Meta response",
+        "url": "https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html"
       }
     ],
     "faq": [
@@ -278505,7 +278631,7 @@
         "answer": "Se centró en el acceso al dispositivo y el consentimiento. El entrenamiento quedó fuera del procedimiento."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "fr",
@@ -278564,6 +278690,61 @@
       },
       {
         "type": "heading",
+        "text": "Pourquoi l’autorisation Android ne réglait qu’une partie de la question"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le réglage d’Android détermine si le système permet à une application de lire certains fichiers. Le régulateur a examiné un second choix : l’utilisateur avait-il compris et accepté que Facebook emploie cet accès pour proposer des contenus pendant la navigation ? Selon le Garante, une autorisation unique couvrait plusieurs usages et le texte ne disait pas clairement qu’elle autorisait aussi les suggestions de la galerie. L’activation par défaut rendait cette distinction importante, y compris pour les personnes qui n’avaient choisi aucune photo à publier. [Source · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce que l’accès permet et ce que la décision établit"
+      },
+      {
+        "type": "paragraph",
+        "text": "On peut ouvrir un outil de publication pour y sélectionner une image. Un outil de suggestion peut, lui, examiner les fichiers disponibles pour décider lesquels recommander. Le Garante s’est concentré sur ce second usage. Il estime qu’un accès complet pouvait permettre la lecture continue de la galerie, sans que l’utilisateur ni l’autorité puissent vérifier quels fichiers étaient exploités. Le constat porte sur l’accès au contenu du téléphone. Il ne prouve ni que tous les fichiers ont été copiés ni que chaque utilisateur Android estimé dans le calcul a été touché individuellement. [Source · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment s’articulent les trois délais"
+      },
+      {
+        "type": "paragraph",
+        "text": "La décision fixe des échéances distinctes pour annoncer les premières démarches, modifier la fonction et rendre compte des mesures prises. La désactivation par défaut vaut aussi pour les personnes qui avaient déjà donné une autorisation au système. Un choix distinct doit expliquer la fonction et la manière de l’arrêter. Une fois le délai écoulé, à défaut de mise en conformité, l’activation sans consentement valable est interdite. Le tableau décrit les obligations publiées. [Source · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[META_GALLERY_ORDER]]",
+        "caption": "Calendrier des obligations publié par l’autorité italienne.",
+        "headings": [
+          "Délai",
+          "Obligation de Meta"
+        ],
+        "rows": [
+          [
+            "30 jours",
+            "Informer le Garante des premières démarches"
+          ],
+          [
+            "60 jours",
+            "Demander un consentement distinct et désactiver la fonction par défaut"
+          ],
+          [
+            "90 jours",
+            "Communiquer les mesures prises"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Les facteurs de la sanction et la réponse de Meta"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le régulateur a pris en compte l’étendue et la durée des faits, une mesure antérieure de 2019 et ce qu’il décrit comme une coopération limitée au cours de l’enquête. Certaines modifications après le signalement ont atténué la sanction, mais l’autorité les juge tardives et liées à une mise à jour de l’application. Meta conteste la décision et a déclaré à Reuters vouloir faire appel. Ces éléments distinguent la sanction prononcée de la position que l’entreprise entend défendre. Voir aussi [l’histoire de Facebook et Meta](/articles/mark-zuckerberg-facebook-meta-story/). [Source · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080) [Source · Reuters, Meta response](https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html)"
+      },
+      {
+        "type": "heading",
         "text": "Les changements exigés de Meta"
       },
       {
@@ -278615,6 +278796,14 @@
       {
         "label": "Source · ansa.it",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
+      },
+      {
+        "label": "Source · Garante Privacy, decision summary",
+        "url": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+      },
+      {
+        "label": "Source · Reuters, Meta response",
+        "url": "https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html"
       }
     ],
     "faq": [
@@ -278627,7 +278816,7 @@
         "answer": "Elle porte sur l’accès au téléphone et le consentement. Elle n’examine pas l’entraînement d’IA."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 5
   },
   {
     "locale": "ar",

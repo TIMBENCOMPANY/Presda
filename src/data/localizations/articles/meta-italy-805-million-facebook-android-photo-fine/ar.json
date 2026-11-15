@@ -55,6 +55,61 @@
     },
     {
       "type": "heading",
+      "text": "لماذا كان إذن أندرويد جزءاً من المسألة فقط؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يحدد إعداد الهاتف ما إذا كان النظام يسمح للتطبيق بقراءة ملفات معينة. ودرست هيئة حماية البيانات قراراً آخر: هل فهم المستخدم أن فيسبوك سيستعين بهذا الوصول لاقتراح محتوى أثناء التصفح، وهل وافق على ذلك؟ تقول الهيئة إن إذناً واحداً شمل عدة أغراض وإن الرسالة لم توضح أن الموافقة ستتيح اقتراحات المعرض أيضاً. لذلك كان للتشغيل الافتراضي أثر حتى على من لم يختاروا أي صورة للنشر. [المصدر · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "subheading",
+      "text": "ما الذي يتيحه الوصول وما الذي يثبته القرار؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يفتح المستخدم أداة النشر ليختار صورة. أما أداة الاقتراح فقد تفحص الملفات المتاحة لتقرر ما تعرضه. وركزت الهيئة على الاستخدام الثاني، موضحة أن الإذن الكامل يتيح الوصول المستمر إلى المعرض من دون قدرة المستخدم أو الهيئة على التحقق من الملفات المستخدمة فعلياً. ويتعلق القرار بالوصول إلى ما هو مخزن في الهاتف. ولا يثبت نسخ الملفات كلها أو تضرر كل مستخدم أندرويد شمله التقدير عدداً. [المصدر · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف ترتبط المهل الثلاث؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يحدد القرار مواعيد منفصلة للإبلاغ عن الخطوات الأولى وتعديل الميزة ثم الإفادة بما نُفذ. وينطبق الإيقاف الافتراضي حتى على من سبق أن منحوا الإذن على مستوى الهاتف. ويجب أن يوضح الطلب المنفصل وظيفة الميزة وطريقة إيقافها. وإذا انتهت المهلة من دون امتثال فلا يجوز تفعيلها لمن لم يمنح موافقة صالحة. ويعرض الجدول الالتزامات الواردة في القرار. [المصدر · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[META_GALLERY_ORDER]]",
+      "caption": "الجدول الزمني للإجراءات الواردة في قرار الهيئة الإيطالية.",
+      "headings": [
+        "المهلة",
+        "ما يتعين على ميتا فعله"
+      ],
+      "rows": [
+        [
+          "30 يوماً",
+          "إبلاغ الهيئة بالخطوات التي بدأت"
+        ],
+        [
+          "60 يوماً",
+          "طلب موافقة منفصلة وترك الميزة معطّلة افتراضياً"
+        ],
+        [
+          "90 يوماً",
+          "إبلاغ الهيئة بالتدابير المتخذة"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "أسباب الغرامة ورد ميتا"
+    },
+    {
+      "type": "paragraph",
+      "text": "أخذت الهيئة في الحسبان نطاق المخالفة ومدتها وتدبيراً سابقاً من عام 2019 وما وصفته بمحدودية التعاون أثناء التحقيق. وعدّت بعض التعديلات اللاحقة للشكوى عاملاً مخففاً، لكنها رأت أنها تأخرت واقتصرت على من حدّثوا التطبيق. واعترضت ميتا وأبلغت رويترز بأنها تعتزم الطعن. فالغرامة قرار أعلنته الهيئة، والطعن خطوة أعلنت الشركة عزمها عليها. اقرأ أيضاً [تاريخ فيسبوك وميتا](/articles/mark-zuckerberg-facebook-meta-story/). [المصدر · Garante Privacy, decision summary](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080) [المصدر · Reuters, Meta response](https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html)"
+    },
+    {
+      "type": "heading",
       "text": "ما الذي يتعين على ميتا تغييره؟"
     },
     {
@@ -106,6 +161,14 @@
     {
       "label": "المصدر · ansa.it",
       "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
+    },
+    {
+      "label": "المصدر · Garante Privacy, decision summary",
+      "url": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10321080"
+    },
+    {
+      "label": "المصدر · Reuters, Meta response",
+      "url": "https://www.streetinsider.com/Reuters/Italy%2Bfines%2BMeta%2B%24887%2Bmillion%2Bover%2BAndroid%2Busers%2Bdata%2Baccess/27346127.html"
     }
   ],
   "faq": [
@@ -118,5 +181,5 @@
       "answer": "ركز القرار على الوصول إلى الجهاز والموافقة، ولم يفحص التدريب."
     }
   ],
-  "readingTimeMinutes": 2
+  "readingTimeMinutes": 4
 }
