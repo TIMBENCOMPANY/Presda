@@ -55,6 +55,38 @@
     },
     {
       "type": "heading",
+      "text": "Ce que Paul Julius Reuter vendait en 1851"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuter avait travaillé dans l’édition à Berlin et séjourné à Paris avant de revenir à Londres en 1851. Son bureau du Royal Exchange vendait un service dont la valeur dépendait d’un faible écart de temps : un cours est plus utile lorsqu’il arrive avant que les concurrents en aient connaissance. Le réseau de clients permettait aussi de vendre plusieurs fois la même information. Le télégraphe répondait à ce besoin commercial. Le portrait ci-dessous, réalisé par Nadar vers 1860, date de la première décennie du bureau londonien. [Source · Science Museum Group, Paul Julius Reuter](https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter) [Source · Reuters at 175](https://reutersagency.com/reuters-175-years)"
+    },
+    {
+      "type": "subheading",
+      "text": "Comment les dépêches internationales sont devenues un métier"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Science Museum Group rapporte qu’en 1870 Reuters, Havas et Wolff s’associèrent dans un dispositif international. Les abonnés pouvaient recevoir des nouvelles au-delà de la portée de leur propre rédaction, tandis que les agences avaient intérêt à entretenir des réseaux. De tels accords concentraient aussi la capacité de décider quelles dépêches circulaient. La portée d’un fil dépend de ceux qui collectent l’information, de ceux qui la transmettent et de ceux qui l’achètent. Ces relations comptent autant que la technique de transmission. [Source · Science Museum Group, Paul Julius Reuter](https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que protègent les Trust Principles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters adopta ses principes de confiance en 1941. Ils engagent l’agence à respecter l’intégrité, l’indépendance et l’absence de parti pris. Thomson Reuters indique que leur protection fut renforcée en 1984, lorsque Reuters entra en Bourse et que la Founders Share Company fut créée. Le mécanisme d’actionnariat relève de la gouvernance. Le travail quotidien suppose toujours de vérifier, d’attribuer et de corriger les informations. Le lecteur peut examiner ces principes séparément des décisions propres à chaque dépêche. [Source · Thomson Reuters, Trust Principles](https://www.thomsonreuters.com/en/about-us/trust-principles)"
+    },
+    {
+      "type": "heading",
+      "text": "Du câble au terminal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans les années 1960, Stockmaster diffusait des données de marché par voie électronique. Pour un client financier, cela en faisait un service continu. Pour une rédaction, le passage à la distribution numérique a permis d’actualiser une dépêche et de l’accompagner de photographies ou de vidéos destinées à plusieurs supports. Les publics utilisent l’information rapide pour des tâches différentes. La distinction entre transmettre un message et bâtir un service autour de lui éclaire aussi [l’histoire du premier SMS](/articles/first-text-message-1992-merry-christmas-sms-history/). [Source · Reuters at 175](https://reutersagency.com/reuters-175-years)"
+    },
+    {
+      "type": "heading",
       "text": "Des principes pour protéger l’agence"
     },
     {
@@ -110,6 +142,10 @@
     {
       "label": "Source: archive.annual-report.thomsonreuters.com",
       "url": "https://archive.annual-report.thomsonreuters.com/2008/reports/Annual_Report.pdf"
+    },
+    {
+      "label": "Source · Science Museum Group, Paul Julius Reuter",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter"
     }
   ],
   "faq": [
@@ -122,5 +158,5 @@
       "answer": "Ils transportaient des informations financières entre Aix-la-Chapelle et Bruxelles, sur un trajet où le réseau télégraphique était incomplet."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 5
 }

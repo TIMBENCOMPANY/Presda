@@ -55,6 +55,38 @@
     },
     {
       "type": "heading",
+      "text": "Qué vendía Paul Julius Reuter en 1851"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuter había trabajado en el mundo editorial en Berlín y pasado un tiempo en París antes de regresar a Londres en 1851. Su oficina en el Royal Exchange vendía un servicio cuyo valor dependía de un pequeño margen de tiempo: una cotización es más útil si llega antes de que la conozcan los competidores. La red de clientes permitía vender la misma información varias veces. El telégrafo ayudaba a resolver ese problema comercial. El retrato que aparece debajo, tomado por Nadar hacia 1860, pertenece a la primera década de la agencia londinense. [Fuente · Science Museum Group, Paul Julius Reuter](https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter) [Fuente · Reuters at 175](https://reutersagency.com/reuters-175-years)"
+    },
+    {
+      "type": "subheading",
+      "text": "Cómo la información exterior se convirtió en negocio de agencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Science Museum Group documenta que Reuters, Havas y Wolff formaron un acuerdo internacional en 1870. Los abonados podían recibir noticias de lugares fuera del alcance de su redacción y las agencias tenían motivos para mantener redes estables. Estos acuerdos también concentraban el poder de decidir qué despachos circulaban. El alcance de un servicio depende de quién reúne, transmite y compra la información. Esas relaciones forman parte de la historia junto con la tecnología. [Fuente · Science Museum Group, Paul Julius Reuter](https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué protegen los Principios de Confianza"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters adoptó sus Principios de Confianza en 1941. Incluyen compromisos con la integridad, la independencia y la ausencia de sesgo. Thomson Reuters afirma que la protección se reforzó en 1984, cuando Reuters salió a bolsa y se constituyó la Founders Share Company. El mecanismo accionarial pertenece al gobierno de la empresa. El trabajo diario todavía requiere comprobar, atribuir y corregir la información. El lector puede examinar los compromisos por separado de cualquier despacho. [Fuente · Thomson Reuters, Trust Principles](https://www.thomsonreuters.com/en/about-us/trust-principles)"
+    },
+    {
+      "type": "heading",
+      "text": "Del cable al terminal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stockmaster enviaba datos bursátiles por medios electrónicos en los años sesenta y convirtió ese suministro en un servicio continuo para los clientes financieros. Para las redacciones, la distribución digital permitió actualizar un despacho y acompañarlo de imágenes o vídeo para varios soportes. Ambos públicos usan información rápida para tareas distintas. La diferencia entre transmitir un mensaje y construir un servicio a su alrededor también aparece en [la historia del primer SMS de PRESDA](/articles/first-text-message-1992-merry-christmas-sms-history/). [Fuente · Reuters at 175](https://reutersagency.com/reuters-175-years)"
+    },
+    {
+      "type": "heading",
       "text": "Las reglas de la agencia"
     },
     {
@@ -110,6 +142,10 @@
     {
       "label": "Fuente: archive.annual-report.thomsonreuters.com",
       "url": "https://archive.annual-report.thomsonreuters.com/2008/reports/Annual_Report.pdf"
+    },
+    {
+      "label": "Fuente · Science Museum Group, Paul Julius Reuter",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter"
     }
   ],
   "faq": [
@@ -122,5 +158,5 @@
       "answer": "Transportaban información financiera a través de un tramo sin telégrafo entre Aquisgrán y Bruselas."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 5
 }

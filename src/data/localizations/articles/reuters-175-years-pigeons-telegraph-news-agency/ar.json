@@ -55,6 +55,38 @@
     },
     {
       "type": "heading",
+      "text": "ماذا كان بول يوليوس رويتر يبيع عام 1851؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "عمل رويتر في النشر ببرلين وأقام في باريس قبل عودته إلى لندن سنة 1851. ومن مكتبه في مبنى البورصة الملكية باع خدمة تعتمد قيمتها على فارق زمني ضئيل، فسعر السوق أنفع حين يصل قبل أن ينتشر بين المنافسين. وأتاح له تعدد العملاء بيع المعلومة نفسها أكثر من مرة. وكان التلغراف حلاً لهذه المسألة التجارية. وتعود صورة نادار أدناه، التي التُقطت نحو 1860، إلى أول عقد من عمل الوكالة في لندن. [المصدر · Science Museum Group, Paul Julius Reuter](https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter) [المصدر · Reuters at 175](https://reutersagency.com/reuters-175-years)"
+    },
+    {
+      "type": "subheading",
+      "text": "كيف أصبحت الأخبار الدولية نشاطاً للوكالات؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يوثق متحف العلوم اتفاقاً دولياً جمع رويترز وهافاس وولف عام 1870. واستطاع المشترك تلقي أخبار من مناطق لا تصل إليها غرفة تحريره، بينما استفادت الوكالات من المحافظة على شبكاتها عوضاً عن الاعتماد على بلاغات متفرقة. كما ركزت هذه الترتيبات القدرة على تقرير الأخبار التي تُتداول. فمدى الخدمة يعتمد على من يجمع المعلومة وينقلها ويشتريها، فضلاً عن الأجهزة التي تسرّع وصولها. [المصدر · Science Museum Group, Paul Julius Reuter](https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا تحمي مبادئ الثقة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "أقرت رويترز مبادئ الثقة عام 1941، وتشمل النزاهة والاستقلال والتحرر من التحيز. وتقول تومسون رويترز إن حماية المبادئ تعززت عام 1984 مع الطرح العام وتأسيس شركة حصة المؤسسين. ويتعلق هذا الترتيب بحوكمة الشركة. أما العمل اليومي فيظل قائماً على التحقق ونسبة المعلومات إلى أصحابها وتصحيح الأخطاء. ويمكن للقارئ الاطلاع على التزامات المالك بمعزل عن تقييم خبر بعينه. [المصدر · Thomson Reuters, Trust Principles](https://www.thomsonreuters.com/en/about-us/trust-principles)"
+    },
+    {
+      "type": "heading",
+      "text": "من الكابل إلى شاشة التداول"
+    },
+    {
+      "type": "paragraph",
+      "text": "أرسل ستوك ماستر بيانات الأسواق إلكترونياً في ستينيات القرن العشرين، وحوّلها للعملاء الماليين إلى خدمة متواصلة. وأتاح التوزيع الرقمي للمحررين تحديث التقارير وإرفاق صور أو مقاطع فيديو معدة لعدة وسائط. ويستخدم الجمهوران المعلومة السريعة لمهام مختلفة. ويظهر الفرق بين إرسال رسالة وبناء خدمة حولها أيضاً في [تاريخ أول رسالة نصية لدى PRESDA](/articles/first-text-message-1992-merry-christmas-sms-history/). [المصدر · Reuters at 175](https://reutersagency.com/reuters-175-years)"
+    },
+    {
+      "type": "heading",
       "text": "مبادئ تحكم عمل الوكالة"
     },
     {
@@ -110,6 +142,10 @@
     {
       "label": "المصدر: archive.annual-report.thomsonreuters.com",
       "url": "https://archive.annual-report.thomsonreuters.com/2008/reports/Annual_Report.pdf"
+    },
+    {
+      "label": "المصدر · Science Museum Group, Paul Julius Reuter",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter"
     }
   ],
   "faq": [
@@ -122,5 +158,5 @@
       "answer": "لنقل الأخبار المالية عبر فجوة في شبكة التلغراف بين آخن وبروكسل."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

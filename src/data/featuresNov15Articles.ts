@@ -173,6 +173,14 @@ export const featuresNov15Articles: Article[] = [
       "In 1850 Reuter operated from Aachen, then in Prussia. Homing pigeons bridged a gap in telegraph service between Aachen and Brussels and carried financial information. In London the next year, he used the cable connection to serve customers on both sides of the Channel. His advantage depended on how quickly he could carry useful information between two places. [Thomson Reuters company timeline](https://www.thomsonreuters.com/en/about-us/company-history)",
       "### From market prices to international reporting",
       "The business expanded beyond prices to news for newspapers. As the network reached outside Europe, correspondents and access to transmission lines mattered as much as proximity to financial exchanges. The commercial value was in gathering information in one place and distributing it to many subscribers, each of whom could reach an audience of their own. [Thomson Reuters company timeline](https://www.thomsonreuters.com/en/about-us/company-history)",
+      "## What Paul Julius Reuter was selling in 1851",
+      "Reuter had worked in publishing in Berlin and spent time in Paris before returning to London in 1851. His office at the Royal Exchange offered a service whose value depended on a narrow margin of time: a market price is more valuable when it arrives before it has spread to competitors. A network of customers also let the agency sell information repeatedly. That was the business problem the telegraph helped solve. The portrait below, taken by Nadar around 1860, shows Reuter in the first decade of the London agency. [Source · Science Museum Group, Paul Julius Reuter](https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter) [Source · Reuters at 175](https://reutersagency.com/reuters-175-years)",
+      "### How overseas news became an agency business",
+      "The Science Museum Group records that in 1870 Reuters, Havas and Wolff formed an international news-agency arrangement. A subscriber could obtain information from beyond the reach of its own newsroom, while agencies gained an incentive to maintain networks rather than depend on isolated reports. Such arrangements also concentrated power over which dispatches circulated. A wire’s reach has always depended on who gathers the information, who transmits it and who buys the result. The route is part of the business story, alongside the technology that made messages faster. [Source · Science Museum Group, Paul Julius Reuter](https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter)",
+      "## What the Trust Principles protect",
+      "Reuters adopted its Trust Principles in 1941. The commitments cover integrity, independence and freedom from bias. Thomson Reuters says the arrangements for safeguarding them were reinforced in 1984, when Reuters became publicly traded and the Founders Share Company was established. The share mechanism is a governance measure. The daily work of reporting still requires verification, attribution, correction and judgment about what a dispatch can say. A reader can trace the principles separately from any individual editorial decision and see how the owners describe the agency’s obligations. [Source · Thomson Reuters, Trust Principles](https://www.thomsonreuters.com/en/about-us/trust-principles)",
+      "## Why the shift from the cable to the terminal matters",
+      "Reuters’ Stockmaster sent market data electronically in the 1960s. For a financial customer, that changed how information arrived and made it an ongoing service. For an editor, the similar change from a fixed wire feed to digital distribution meant that a report could be updated and accompanied by pictures, video or other material for several outputs. Both businesses sell timely information, but their customers use it for different tasks. The difference between transmitting a message and building a service around it also shows up in [PRESDA’s history of the first text message](/articles/first-text-message-1992-merry-christmas-sms-history/). [Source · Reuters at 175](https://reutersagency.com/reuters-175-years)",
       "## The rules behind the wire",
       "Reuters adopted its Trust Principles in 1941 amid wartime concern for the agency’s independence. They require integrity, independence and freedom from bias. The principles are governance commitments that outlasted changes in ownership. Their purpose is to protect the credibility of the service that customers rely on. [Thomson Reuters Trust Principles](https://www.thomsonreuters.com/en/about-us/trust-principles)",
       "## When the screen became part of the business",
@@ -200,6 +208,10 @@ export const featuresNov15Articles: Article[] = [
       {
         "name": "Thomson Reuters 2008 annual report",
         "url": "https://archive.annual-report.thomsonreuters.com/2008/reports/Annual_Report.pdf"
+      },
+      {
+        "name": "Science Museum Group, Paul Julius Reuter",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/cp136450/paul-julius-reuter"
       }
     ],
     "relatedSlugs": [
@@ -215,6 +227,6 @@ export const featuresNov15Articles: Article[] = [
         "answer": "They carried financial messages across a gap in the telegraph network between Aachen and Brussels."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "5 min read"
   }
 ];
