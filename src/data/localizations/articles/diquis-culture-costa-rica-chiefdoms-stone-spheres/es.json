@@ -74,6 +74,22 @@
       "text": "Los cuatro sitios de la UNESCO conservan partes distintas de esta historia. Juntos permiten comparar poblados, monumentos y conjuntos de objetos. Su legado documenta cómo se organizó el trabajo y cómo se construyeron espacios de autoridad y pertenencia. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
     },
     {
+      "type": "heading",
+      "text": "Cuatro yacimientos y cuatro tipos de evidencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finca 6 conserva alineaciones de esferas en su emplazamiento original. Permiten estudiar cómo se dispusieron los monumentos cerca de las estructuras de tierra. Batambal destaca por su visibilidad desde lejos. El Silencio alberga la mayor esfera conocida, mientras que Grijalba-2 sobresale por el uso de piedra caliza y se ha interpretado como un centro subordinado. Estas diferencias aportan información que una pieza aislada en un museo difícilmente ofrece: la posición de cada asentamiento en el paisaje, sus materiales y la relación entre esferas y construcciones. [Fuente · whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo recorrer el paisaje arqueológico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los mapas oficiales del Patrimonio Mundial delimitan los cuatro sitios y sus zonas de amortiguamiento. El Museo Nacional de Costa Rica ofrece fotografías aéreas y una visita de 360 grados que sitúan los vestigios entre campos, cursos de agua y poblaciones actuales. Estos materiales ayudan a entender por qué la inscripción protege varios lugares con evidencias distintas. [Fuente · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Fuente · museocostarica.go.cr](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)"
+    },
+    {
       "type": "paragraph",
       "text": "[Las Bolas y el rumor del oro](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
     }
@@ -94,6 +110,14 @@
     {
       "label": "Fuente: www.metmuseum.org",
       "url": "https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica"
+    },
+    {
+      "label": "Fuente · whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/maps/"
+    },
+    {
+      "label": "Fuente · museocostarica.go.cr",
+      "url": "https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/"
     }
   ],
   "faq": [
@@ -105,5 +129,6 @@
       "question": "¿Qué elaboraban sus artesanos?",
       "answer": "Se conservan cerámicas, esculturas monumentales y adornos de oro y sus aleaciones."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

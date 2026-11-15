@@ -74,6 +74,22 @@
       "text": "Le paysage aide à comprendre l’emplacement de l’abri. À Chalcatzingo, les montagnes et les parois accueillaient depuis longtemps des images religieuses. Les glyphes plus tardifs montrent comment une nouvelle tradition écrite a marqué des lieux déjà chargés de sens. [Source: mna.inah.gob.mx](https://mna.inah.gob.mx/detalle_huella.php?pl=Chalcatzingo_Morelos)"
     },
     {
+      "type": "heading",
+      "text": "Comment les chercheurs ont retrouvé les contours"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’équipe a mesuré, cartographié et photographié les signes, puis comparé plusieurs traitements des canaux de couleur. La figure 4 montre ces traitements côte à côte. Les couleurs accentuées aident à distinguer les traces sur la roche et se lisent avec les vues originales. La figure 5 présente le signe de la montagne, dont la partie gauche est érodée, puis le dessin des chercheurs, qui en propose une restitution. [Source · doi.org](https://doi.org/10.15184/aqy.2026.10425)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que révèlent les objets peints"
+    },
+    {
+      "type": "paragraph",
+      "text": "La figure 6 juxtapose une photographie, une image traitée et un dessin. Les auteurs associent le collier de perles, l’étoffe et le projectile à l’équipement guerrier. Dans la figure 7, le cadre étoilé domine une tablette rocheuse qui porte des traces de combustion. Des parallèles dans l’art de Teotihuacan suggèrent un cadre rituel, mais les vestiges ne permettent pas de choisir entre un encensoir et la crémation d’un paquet funéraire. Les signes et les traces de feu sont les éléments les mieux établis. Le déroulement d’une cérémonie relève de l’interprétation. [Source · doi.org](https://doi.org/10.15184/aqy.2026.10425)"
+    },
+    {
       "type": "paragraph",
       "text": "[À lire aussi](/articles/nazca-civilization-peru-lines-cahuachi/)."
     }
@@ -90,6 +106,10 @@
     {
       "label": "Source: mna.inah.gob.mx",
       "url": "https://mna.inah.gob.mx/detalle_huella.php?pl=Chalcatzingo_Morelos"
+    },
+    {
+      "label": "Source · doi.org",
+      "url": "https://doi.org/10.15184/aqy.2026.10425"
     }
   ],
   "faq": [
@@ -101,5 +121,6 @@
       "question": "Les glyphes prouvent-ils une crémation ?",
       "answer": "Les auteurs évoquent cette possibilité. Les traces de feu ne révèlent pas ce qui a brûlé."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

@@ -104,6 +104,10 @@ export const worldHistoryNov15Articles: Article[] = [
       "An Arecibo research team proposed that a transient flare could briefly brighten emission from cold interstellar hydrogen. Its archival comparison provides a possible natural mechanism. It has not identified the actual cloud or flash behind the 1977 event. [Arecibo Wow! hydrogen hypothesis](https://arxiv.org/abs/2408.08513)",
       "## What would resolve the mystery?",
       "Follow-up searches have yielded no confirmed repeat. A model can show that an intermittent emitter might evade detection, but that result depends on assumptions about its behavior. A new observation with independent instruments, precise localization and spectral detail would help distinguish interference, an astrophysical event and a technological source. [MNRAS follow-up analysis](https://academic.oup.com/mnras/article/515/1/1122/6631556)",
+      "## Why Big Ear left two places to search",
+      "Big Ear used two receiver horns. As Earth rotated, a steady source typically crossed both beams in succession. The Wow! event appeared in just one, and the printout did not identify which horn received it. That left two candidate positions in Sagittarius. The rise and fall looked like a source crossing the beam, but the missing second detection left an equally important question: was the signal still present when the other beam passed? [Source · bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)",
+      "## What later telescopes could rule out",
+      "Robert Gray and Kevin Marvel used the Very Large Array to look for a faint, persistent source in the candidate area. They found no convincing counterpart. Gray and Simon Ellingsen then observed from Tasmania for nearly 14 continuous hours on multiple days. Their null result constrains regularly repeating signals bright enough for that instrument and within its observing band. A weaker, rarer or nonperiodic event could still evade those observations. The two searches tested different ideas, so their failures narrow the possibilities without identifying what Big Ear saw. [Source · doi.org](https://doi.org/10.1086/318272) [Source · bigear.org](https://www.bigear.org/Gray-Ellingsen.pdf)",
       "[Voyager’s Golden Record](/articles/voyager-golden-record-message-humanity-space/)."
     ],
     "references": [
@@ -122,6 +126,14 @@ export const worldHistoryNov15Articles: Article[] = [
       {
         "name": "MNRAS follow-up analysis",
         "url": "https://academic.oup.com/mnras/article/515/1/1122/6631556"
+      },
+      {
+        "name": "Source · doi.org",
+        "url": "https://doi.org/10.1086/318272"
+      },
+      {
+        "name": "Source · bigear.org",
+        "url": "https://www.bigear.org/Gray-Ellingsen.pdf"
       }
     ],
     "relatedSlugs": [
@@ -137,7 +149,7 @@ export const worldHistoryNov15Articles: Article[] = [
         "answer": "Several hypotheses exist. No source or repeat detection has been confirmed."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "469",
@@ -174,6 +186,10 @@ export const worldHistoryNov15Articles: Article[] = [
       "Making a monumental sphere required selecting a suitable block, shaping and smoothing it, and organizing its transport. Some source material came from beyond the place where a sphere ended up. The effort makes their public placement significant. The surviving groups cannot tell us whether each sphere carried the same meaning. [Metropolitan Museum of Art](https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica)",
       "## What survives in the delta",
       "The four UNESCO sites preserve different parts of this story. Together they allow comparisons between settlements, monuments and surviving object groups. Their legacy is a record of how people organized work and built places that expressed authority and belonging. [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/)",
+      "## Four sites, four kinds of evidence",
+      "Finca 6 preserves rows of spheres in their original setting, a rare way to examine how people arranged monuments beside earthen structures. At Batambal, the settlement’s visibility from a distance distinguishes it from the other sites. El Silencio preserves the largest known sphere, while Grijalba-2 stands out for its use of limestone and has been interpreted as a subordinate center. Together these contrasts give researchers more to work with than isolated objects in a museum: they can compare each settlement’s place in the landscape, its building material and the relationship between spheres and structures. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/)",
+      "## Explore the settlement landscape",
+      "The official World Heritage maps show the four separate properties and their buffer zones. Costa Rica’s National Museum offers aerial photographs and a 360-degree tour that puts the sites beside modern fields, waterways and communities. The maps are particularly helpful for seeing why the inscription protects a group of places with distinct archaeological evidence. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Source · museocostarica.go.cr](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)",
       "[Las Bolas and the gold rumor](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
     ],
     "references": [
@@ -192,6 +208,14 @@ export const worldHistoryNov15Articles: Article[] = [
       {
         "name": "Metropolitan Museum of Art",
         "url": "https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica"
+      },
+      {
+        "name": "Source · whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1453/maps/"
+      },
+      {
+        "name": "Source · museocostarica.go.cr",
+        "url": "https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/"
       }
     ],
     "relatedSlugs": [
@@ -207,7 +231,7 @@ export const worldHistoryNov15Articles: Article[] = [
         "answer": "The record includes ceramics, monumental stone sculpture, and gold and gold-alloy ornaments."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "470",

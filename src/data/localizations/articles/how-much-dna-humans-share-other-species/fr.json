@@ -82,6 +82,22 @@
       "text": "La fonction fournit une autre comparaison. Dans une expérience, des gènes humains ont pu remplacer environ 47 % de 414 gènes essentiels de levure testés. Le chiffre porte sur la réussite de ces substitutions expérimentales. Il ne mesure pas l’identité de nos génomes. Il faut toujours savoir ce que l’étude compte et quel est son dénominateur. [Source: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
     },
     {
+      "type": "heading",
+      "text": "Pourquoi un génome peut contenir plusieurs arbres de parenté"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur la majeure partie du génome, humains et chimpanzés sont les plus proches parmi les trois espèces comparées. Mais sur environ 30 % du génome, le gorille est plus proche de l’un des deux que ceux-ci ne le sont l’un de l’autre. Certaines variantes existaient avant la séparation des populations ancestrales et se sont transmises selon des combinaisons différentes. Ce tri incomplet des lignées explique pourquoi un fragment peut donner un arbre qui diffère de celui des espèces. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/)"
+    },
+    {
+      "type": "heading",
+      "text": "Trois pourcentages pour trois questions différentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les quelque 98,8 % entre l’humain et le chimpanzé correspondent aux lettres identiques parmi les séquences comparables. Une proportion de gènes ayant un homologue compte plutôt combien de gènes d’un ensemble ont un parent identifiable. L’expérience sur la levure vérifie si un gène humain peut en remplacer un autre dans des conditions précises. Pour interpréter un chiffre, il faut demander ce qui a été compté, quel est le dénominateur et ce que le calcul exclut. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/) [Source · nature.com](https://www.nature.com/articles/nature04072) [Source · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+    },
+    {
       "type": "paragraph",
       "text": "[Comparaison des génomes humain et simiens](/articles/humans-apes-dna-similarity-chimpanzees-evolution/)."
     }
@@ -114,6 +130,10 @@
     {
       "label": "Source: pubmed.ncbi.nlm.nih.gov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/25999509/"
+    },
+    {
+      "label": "Source · pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/"
     }
   ],
   "faq": [
@@ -125,5 +145,6 @@
       "question": "Les gènes partagés fonctionnent-ils de la même façon ?",
       "answer": "Une origine commune ne garantit ni une expression ni une fonction identiques."
     }
-  ]
+  ],
+  "readingTimeMinutes": 4
 }

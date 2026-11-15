@@ -74,6 +74,22 @@
       "text": "Les quatre sites de l’UNESCO conservent différentes parties de cette histoire. Ensemble, ils permettent de comparer villages, monuments et groupes d’objets. Ils témoignent de la manière dont les habitants organisaient le travail et construisaient des lieux exprimant le pouvoir et l’appartenance. [Source: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
     },
     {
+      "type": "heading",
+      "text": "Quatre sites, quatre types de vestiges"
+    },
+    {
+      "type": "paragraph",
+      "text": "À Finca 6, des rangées de sphères subsistent dans leur contexte d’origine. Elles permettent d’étudier comment les monuments étaient disposés près des structures de terre. Batambal se distingue par sa visibilité à distance. El Silencio abrite la plus grande sphère connue, tandis que Grijalba-2, remarquable par l’emploi du calcaire, est interprété comme un centre secondaire. Ces différences donnent aux archéologues des éléments que les pièces isolées d’un musée ne peuvent fournir : la place de chaque établissement dans le paysage, ses matériaux et le rapport entre sphères et constructions. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "heading",
+      "text": "Explorer le paysage archéologique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les cartes officielles du patrimoine mondial délimitent les quatre sites et leurs zones tampons. Le Musée national du Costa Rica propose des vues aériennes et une visite à 360 degrés qui replacent les vestiges parmi les champs, les cours d’eau et les localités d’aujourd’hui. Ces documents aident à comprendre pourquoi l’inscription protège plusieurs lieux aux vestiges distincts. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Source · museocostarica.go.cr](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)"
+    },
+    {
       "type": "paragraph",
       "text": "[Las Bolas et la rumeur de l’or](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
     }
@@ -94,6 +110,14 @@
     {
       "label": "Source: www.metmuseum.org",
       "url": "https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica"
+    },
+    {
+      "label": "Source · whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/maps/"
+    },
+    {
+      "label": "Source · museocostarica.go.cr",
+      "url": "https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/"
     }
   ],
   "faq": [
@@ -105,5 +129,6 @@
       "question": "Que fabriquaient les artisans du Diquís ?",
       "answer": "On a retrouvé de la céramique, des sculptures monumentales et des ornements en or et en alliage."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

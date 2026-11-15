@@ -74,6 +74,22 @@
       "text": "El paisaje explica por qué importa la ubicación del abrigo. En Chalcatzingo, los cerros y paredes rocosas llevaban siglos acogiendo imágenes religiosas. Los glifos posteriores muestran cómo una nueva tradición escrita marcó un terreno que ya tenía significado. [Fuente: mna.inah.gob.mx](https://mna.inah.gob.mx/detalle_huella.php?pl=Chalcatzingo_Morelos)"
     },
     {
+      "type": "heading",
+      "text": "Cómo se recuperaron los contornos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo midió, cartografió y fotografió los signos, y comparó varios tratamientos de los canales de color. La figura 4 permite verlos juntos. Los colores realzados ayudan a distinguir el pigmento de la roca y conviene leerlos junto a las vistas originales. La figura 5 muestra el signo de la montaña, erosionado por la izquierda, y el dibujo de los investigadores, que propone una reconstrucción de esa parte. [Fuente · doi.org](https://doi.org/10.15184/aqy.2026.10425)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué revelan los objetos pintados"
+    },
+    {
+      "type": "paragraph",
+      "text": "La figura 6 reúne una fotografía, una imagen realzada y un dibujo. Los autores relacionan el collar de cuentas, la tela y el dardo con el atuendo guerrero. En la figura 7, el marco estrellado está encima de una repisa con huellas de combustión. Los paralelos con el arte teotihuacano sugieren un contexto ceremonial, pero los restos son insuficientes para distinguir entre un incensario y la cremación de un fardo funerario. Los signos y las huellas de fuego están mejor acreditados que la reconstrucción de un rito concreto. [Fuente · doi.org](https://doi.org/10.15184/aqy.2026.10425)"
+    },
+    {
       "type": "paragraph",
       "text": "[Lectura relacionada](/articles/nazca-civilization-peru-lines-cahuachi/)."
     }
@@ -90,6 +106,10 @@
     {
       "label": "Fuente: mna.inah.gob.mx",
       "url": "https://mna.inah.gob.mx/detalle_huella.php?pl=Chalcatzingo_Morelos"
+    },
+    {
+      "label": "Fuente · doi.org",
+      "url": "https://doi.org/10.15184/aqy.2026.10425"
     }
   ],
   "faq": [
@@ -101,5 +121,6 @@
       "question": "¿Los glifos demuestran que hubo cremaciones?",
       "answer": "Los autores lo plantean como posibilidad. Las huellas de fuego no revelan qué ardió."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

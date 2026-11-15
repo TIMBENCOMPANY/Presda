@@ -74,6 +74,22 @@
       "text": "تحفظ مواقع اليونسكو الأربعة أجزاء مختلفة من هذا التاريخ. وتتيح مجتمعة مقارنة المستوطنات والمعالم ومجموعات القطع الباقية. وهي سجل لكيفية تنظيم السكان للعمل وبناء أماكن تُعبّر عن السلطة والانتماء. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
     },
     {
+      "type": "heading",
+      "text": "أربعة مواقع وأربعة أنواع من الأدلة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تحتفظ فينكا 6 بصفوف من الكرات في مواضعها الأصلية، ما يتيح دراسة ترتيبها بجوار المنشآت الترابية. ويتميز باتامبال بإمكان رؤيته من بعيد، بينما يضم إل سيلينسيو أكبر كرة معروفة. أما غريخالبا-2 فيتميز باستعمال الحجر الجيري، ويُفسَّر على أنه مركز ثانوي. وتتيح هذه الفروق للباحثين مقارنة مواقع المستوطنات في المشهد الطبيعي ومواد البناء وعلاقة الكرات بالمنشآت، وهي معلومات يصعب استعادتها من القطع المعروضة منفردة. [المصدر · whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "heading",
+      "text": "جولة في المشهد الأثري"
+    },
+    {
+      "type": "paragraph",
+      "text": "ترسم خرائط التراث العالمي الرسمية حدود المواقع الأربعة ومناطقها العازلة. ويقدم المتحف الوطني في كوستاريكا صوراً جوية وجولة بزاوية 360 درجة تظهر المواقع بين حقول اليوم ومجاري المياه والتجمعات السكانية. وتوضح هذه المواد سبب شمول التسجيل عدة مواقع يحمل كل منها أدلة أثرية مختلفة. [المصدر · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [المصدر · museocostarica.go.cr](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)"
+    },
+    {
       "type": "paragraph",
       "text": "[لاس بولاس وشائعة الذهب](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
     }
@@ -94,6 +110,14 @@
     {
       "label": "المصدر: www.metmuseum.org",
       "url": "https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica"
+    },
+    {
+      "label": "المصدر · whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/maps/"
+    },
+    {
+      "label": "المصدر · museocostarica.go.cr",
+      "url": "https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/"
     }
   ],
   "faq": [
@@ -105,5 +129,6 @@
       "question": "ماذا صنع حرفيو ديكيس؟",
       "answer": "يشمل السجل فخاراً ومنحوتات حجرية ضخمة وحلياً من الذهب وسبائكه."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

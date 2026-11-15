@@ -25,7 +25,7 @@
   "category": "AI",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/meta-facebook-android-italy-photo-privacy-fine.jpg",
     "alt": "Galerie Facebook sur un téléphone Android près d’un avis de sanction italien stylisé",
@@ -67,6 +67,22 @@
     },
     {
       "type": "heading",
+      "text": "Ce que mesure l’amende"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon le régulateur, les 805 millions d’euros représentent environ 0,47 % du chiffre d’affaires mondial de Meta. Son estimation d’environ 20 millions d’utilisateurs d’Android en Italie décrit l’échelle retenue pour le calcul. Elle ne permet pas de savoir quels fichiers ont été lus ni combien de personnes ont vu leurs fichiers consultés. Le constat porte sur la façon dont l’application a demandé l’autorisation, puis l’a utilisée pour une fonction distincte. [Source · garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "heading",
+      "text": "La réponse de Meta et la portée de la décision"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’agence italienne ANSA a indiqué que Meta préparait un recours. Cette démarche est distincte des conclusions publiées par le régulateur. L’annonce du Garante précise les délais de mise en conformité de la fonction dans l’application et réserve un examen séparé d’une fonction ultérieure de traitement dans le cloud. La décision sur la première ne permet pas de présumer de l’issue d’une enquête sur la seconde. [Source · ansa.it](https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html) [Source · garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "heading",
       "text": "À lire également"
     },
     {
@@ -86,6 +102,10 @@
     {
       "label": "Source: it.euronews.com",
       "url": "https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso"
+    },
+    {
+      "label": "Source · ansa.it",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
     }
   ],
   "faq": [
@@ -97,5 +117,6 @@
       "question": "La décision établit-elle un entraînement d’IA sur les photos ?",
       "answer": "Elle porte sur l’accès au téléphone et le consentement. Elle n’examine pas l’entraînement d’IA."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

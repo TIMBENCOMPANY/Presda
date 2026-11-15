@@ -25,7 +25,7 @@
   "category": "AI",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/meta-facebook-android-italy-photo-privacy-fine.jpg",
     "alt": "رسم لمعرض صور فيسبوك على هاتف أندرويد بجانب إشعار إيطالي تخيلي بالغرامة",
@@ -67,6 +67,22 @@
     },
     {
       "type": "heading",
+      "text": "ماذا يقيس مبلغ الغرامة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "أفادت الهيئة بأن غرامة 805 ملايين يورو تعادل نحو 0.47 في المئة من إيرادات مجموعة ميتا العالمية. ويبيّن تقديرها لوجود نحو 20 مليون مستخدم لأندرويد في إيطاليا حجم السوق الذي أخذته في الاعتبار. ولا يحدد هذا الرقم أي الملفات قُرئت أو عدد الأشخاص الذين جرى الوصول إلى ملفاتهم. وتتعلق المخالفة بطريقة طلب الإذن واستخدامه لتشغيل ميزة مستقلة. [المصدر · garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "heading",
+      "text": "رد ميتا وحدود القرار"
+    },
+    {
+      "type": "paragraph",
+      "text": "أفادت وكالة أنسا الإيطالية بأن ميتا كانت تعد طعناً. والطعن خطوة إجرائية تختلف عن نتائج التحقيق المنشورة. وحددت الهيئة مواعيد تعديل الميزة داخل التطبيق، واحتفظت بإمكانية فحص ميزة سحابية لاحقة على نحو منفصل. لذلك لا تحسم نتائج الملف الأول ما يمكن أن يخلص إليه أي تحقيق في الميزة الثانية. [المصدر · ansa.it](https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html) [المصدر · garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)"
+    },
+    {
+      "type": "heading",
       "text": "اقرأ أيضاً"
     },
     {
@@ -86,6 +102,10 @@
     {
       "label": "المصدر: it.euronews.com",
       "url": "https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso"
+    },
+    {
+      "label": "المصدر · ansa.it",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
     }
   ],
   "faq": [
@@ -97,5 +117,6 @@
       "question": "هل أثبت القرار تدريب الذكاء الاصطناعي على الصور؟",
       "answer": "ركز القرار على الوصول إلى الجهاز والموافقة، ولم يفحص التدريب."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

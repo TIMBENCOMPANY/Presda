@@ -82,6 +82,22 @@
       "text": "La función ofrece otra comparación. En un experimento, equivalentes humanos reemplazaron cerca del 47 % de 414 genes esenciales de levadura ensayados. La cifra mide sustituciones experimentales exitosas. No indica identidad entre genomas. La pregunta útil es qué contó el estudio y cuál fue el denominador. [Fuente: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
     },
     {
+      "type": "heading",
+      "text": "Por qué un genoma puede contener varios árboles de parentesco"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la mayor parte del genoma, humanos y chimpancés son los parientes más cercanos entre las tres especies comparadas. Pero en alrededor del 30 % del genoma, el gorila se parece más a uno de ellos que estos entre sí. Algunas variantes ya existían antes de separarse las poblaciones ancestrales y pasaron a sus descendientes en combinaciones distintas. Esta clasificación incompleta de linajes explica por qué un fragmento puede dibujar un árbol distinto del de las especies. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/)"
+    },
+    {
+      "type": "heading",
+      "text": "Tres porcentajes que responden a tres preguntas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 98,8 % aproximado entre humanos y chimpancés se refiere a letras idénticas entre secuencias comparables. La fracción de genes con un homólogo cuenta cuántos genes de un conjunto tienen un pariente reconocible. Y el experimento con levaduras evalúa si un gen humano puede sustituir a otro en condiciones concretas. Para interpretar cualquier porcentaje hay que preguntar qué se contó, cuál fue el denominador y qué se excluyó. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/) [Fuente · nature.com](https://www.nature.com/articles/nature04072) [Fuente · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+    },
+    {
       "type": "paragraph",
       "text": "[Comparación de los genomas humanos y de los grandes simios](/articles/humans-apes-dna-similarity-chimpanzees-evolution/)."
     }
@@ -114,6 +130,10 @@
     {
       "label": "Fuente: pubmed.ncbi.nlm.nih.gov",
       "url": "https://pubmed.ncbi.nlm.nih.gov/25999509/"
+    },
+    {
+      "label": "Fuente · pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/"
     }
   ],
   "faq": [
@@ -125,5 +145,6 @@
       "question": "¿Funcionan igual los genes compartidos?",
       "answer": "Un origen común no establece idéntica expresión o función."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

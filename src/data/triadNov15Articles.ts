@@ -37,6 +37,10 @@ export const triadNov15Articles: Article[] = [
       "## Plants, fungi and the deepest shared machinery",
       "The Arabidopsis genome revealed both genes found across eukaryotes and gene families characteristic of plants. Deeply conserved machinery helps package DNA and run cells. A universal human-to-plant DNA percentage would hide the difference between that common inheritance and billions of letters with very different histories. [Arabidopsis Genome Initiative](https://www.nature.com/articles/35048692)",
       "Function is another possible comparison. In one experiment, human counterparts could replace about 47% of 414 tested essential yeast genes. That result measures successful substitution in an experiment. It does not mean 47% of the yeast genome matches ours. The useful question is always what the study counted and what it put in the denominator. [Human and yeast gene replacement study](https://pubmed.ncbi.nlm.nih.gov/25999509/)",
+      "## Why one genome can contain different family trees",
+      "Across most of the genome, humans and chimpanzees are each other’s closest relatives among the three species in the gorilla study. But in about 30% of the genome, gorillas are closer to one of those species than those two are to each other. Some variants already existed before the ancestral populations split and were inherited in different combinations. Geneticists call this incomplete lineage sorting. It explains why a particular stretch of DNA can tell a different story from the species tree without overturning that tree. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/)",
+      "## Three percentages that answer three different questions",
+      "About 98.8% for human and chimpanzee refers to matching letters among comparable sequences. A fraction of genes with an identified counterpart instead asks how many genes in a chosen set have a recognizable relative. And the yeast experiment asks whether a specific human gene can replace a yeast gene under particular laboratory conditions. To interpret any headline percentage, first ask what was counted, what the denominator was and what the researchers left out. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/) [Source · nature.com](https://www.nature.com/articles/nature04072) [Source · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25999509/)",
       "[Human and ape genome comparison](/articles/humans-apes-dna-similarity-chimpanzees-evolution/)."
     ],
     "references": [
@@ -67,6 +71,10 @@ export const triadNov15Articles: Article[] = [
       {
         "name": "Human and yeast gene replacement study",
         "url": "https://pubmed.ncbi.nlm.nih.gov/25999509/"
+      },
+      {
+        "name": "Source · pmc.ncbi.nlm.nih.gov",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3303130/"
       }
     ],
     "relatedSlugs": [
@@ -82,7 +90,7 @@ export const triadNov15Articles: Article[] = [
         "answer": "Shared ancestry does not establish identical expression or identical function."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   },
   {
     "id": "473",
@@ -193,6 +201,10 @@ export const triadNov15Articles: Article[] = [
       "Collections survived or were rebuilt, and scholars copied, taught from and circulated books under Ilkhanid rule. Biran traces evidence of that activity through library histories and the biographies of scholars. Baghdad lost its Abbasid court and much of its population and material wealth. The city’s intellectual networks changed and continued to function. [Michal Biran: libraries in Ilkhanid Baghdad](https://doi.org/10.1163/15685209-12341485)",
       "## What ended in 1258 and what moved elsewhere",
       "Baghdad became part of the territories ruled by Hulagu’s dynasty, the Ilkhanids. In 1261 the Mamluks installed an Abbasid caliph in Cairo. That office conferred legitimacy on its patrons while the Mamluk sultans held political power. The Abbasid name endured in a different setting, while Baghdad’s role as the seat of the old caliphate had ended. [Encyclopaedia Iranica: Ilkhanid dynastic history](https://www.iranicaonline.org/articles/il-khanids-i-dynastic-history/)",
+      "## The fall of Baghdad in the wider Mongol campaign",
+      "Baghdad’s fall opened the way for further Mongol expansion toward Syria. Aleppo fell in 1260 and Mongol forces took Damascus. Later that year, the Mamluks defeated the army of Hulagu’s general Kitbuqa at Ayn Jalut. Baghdad remained under Mongol rule, but the Mamluks became the Ilkhanate’s main rivals to the west. Hulagu also faced conflict with the Golden Horde. These fronts explain why a conquest that ended Abbasid rule in Iraq did not produce uninterrupted Mongol expansion across the region. [Source · iranicaonline.org](https://www.iranicaonline.org/articles/hulagu-khan/) [Source · iranicaonline.org](https://www.iranicaonline.org/articles/il-khanids-i-dynastic-history/)",
+      "## How to read the sources for 1258",
+      "Mongol-era and Mamluk writers told the campaign from different political positions. Reuven Amitai notes that historians disagree about how much of Hulagu’s eventual rule in Iran was already intended by his brother Möngke. Some evidence comes from authors writing within the institutions whose legitimacy was at stake. That context helps explain why the conquest and the execution of the caliph are well established, while accounts of motives and particular episodes require greater caution. [Source · iranicaonline.org](https://www.iranicaonline.org/articles/hulagu-khan/)",
       "[The Abbasid Caliphate and Baghdad’s golden age](/articles/abbasid-caliphate-baghdad-islamic-golden-age/)."
     ],
     "references": [
@@ -227,6 +239,6 @@ export const triadNov15Articles: Article[] = [
         "answer": "Rule from Baghdad ended. A Mamluk-backed Abbasid caliphate began in Cairo in 1261."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   }
 ];

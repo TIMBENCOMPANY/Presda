@@ -10,7 +10,7 @@ export const newsNov14Articles: Article[] = [
     "category": "AI",
     "schemaType": "NewsArticle",
     "date": "2026-11-14",
-    "lastUpdated": "2026-11-14",
+    "lastUpdated": "2026-11-15",
     "author": "PRESDA Editorial",
     "status": "published",
     "heroPreserveAspect": true,
@@ -33,6 +33,10 @@ export const newsNov14Articles: Article[] = [
       "## What Meta must change",
       "The authority gave Meta 60 days to turn off the feature by default, seek separate consent, and explain how to disable it. Meta must report initial steps within 30 days and measures taken within 90. The decision leaves potential AI training outside its scope, and the regulator reserved separate scrutiny of a cloud-based feature introduced in 2026. [Italian Data Protection Authority](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)",
       "The Garante said the inquiry began in July 2025 after a complaint from a consumer organisation in Bolzano. The case asks whether someone understood what Facebook would do with access already granted to the app. The separate consent order addresses that gap directly. [Euronews](https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso)",
+      "## What the fine measures",
+      "The €805 million sanction amounted to approximately 0.47% of Meta’s global turnover, according to the regulator. Its estimate of about 20 million Android users in Italy describes the scale it considered. It cannot establish which personal files were read or how many individuals’ files were accessed. The underlying finding concerned the way the app asked users for permission and used that access for a distinct feature. [Source · garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)",
+      "## Meta’s response and the scope of the decision",
+      "Italian news agency ANSA reported that Meta was preparing an appeal. An appeal is a procedural step distinct from the authority’s published findings. The Garante’s announcement sets out the deadlines for changing the in-app feature. It also reserves scrutiny of a later cloud-based feature. Those are separate questions about the design and processing of two features, and the regulator’s ruling on one does not determine the result of any inquiry into the other. [Source · ansa.it](https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html) [Source · garanteprivacy.it](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080)",
       "## Related coverage",
       "[Meta’s corporate history](/articles/mark-zuckerberg-facebook-meta-story/)"
     ],
@@ -48,6 +52,10 @@ export const newsNov14Articles: Article[] = [
       {
         "name": "Euronews",
         "url": "https://it.euronews.com/2026/11/14/meta-multata-per-805-milioni-facebook-accede-alle-foto-degli-smartphone-senza-consenso"
+      },
+      {
+        "name": "Source · ansa.it",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
       }
     ],
     "relatedSlugs": [
@@ -63,7 +71,7 @@ export const newsNov14Articles: Article[] = [
         "answer": "The decision focused on device access and consent. It did not examine AI training."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "457",

@@ -74,6 +74,22 @@
       "text": "Les recherches ultérieures n’ont donné aucune répétition confirmée. Un modèle peut montrer qu’un émetteur intermittent passerait parfois inaperçu, selon les hypothèses retenues. Une nouvelle détection par des instruments indépendants, avec une position précise et un spectre détaillé, aiderait à départager interférences, événement astrophysique et source technologique. [Source: academic.oup.com](https://academic.oup.com/mnras/article/515/1/1122/6631556)"
     },
     {
+      "type": "heading",
+      "text": "Pourquoi Big Ear a laissé deux zones à explorer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Big Ear utilisait deux cornets récepteurs. Avec la rotation terrestre, une source stable traversait normalement les deux faisceaux à tour de rôle. Le signal Wow! n’est apparu que dans l’un d’eux et le relevé ne permet pas de savoir lequel. Deux positions restent donc possibles dans le Sagittaire. La variation d’intensité évoque le passage d’une source dans le faisceau, mais une question subsiste : le signal était-il toujours présent lors du passage du second faisceau ? [Source · bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que les recherches ultérieures permettent d’exclure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Gray et Kevin Marvel ont utilisé le Very Large Array pour chercher une source faible mais permanente dans la zone. Ils n’ont trouvé aucun équivalent convaincant. Depuis la Tasmanie, Gray et Simon Ellingsen ont ensuite observé pendant près de 14 heures d’affilée sur plusieurs journées. Leur résultat limite l’hypothèse d’un signal périodique suffisamment puissant dans la bande étudiée. Un événement plus faible, rare ou irrégulier aurait pu leur échapper. Les deux recherches réduisent le champ des hypothèses sans identifier la source. [Source · doi.org](https://doi.org/10.1086/318272) [Source · bigear.org](https://www.bigear.org/Gray-Ellingsen.pdf)"
+    },
+    {
       "type": "paragraph",
       "text": "[Disque d’or de Voyager](/articles/voyager-golden-record-message-humanity-space/)."
     }
@@ -94,6 +110,14 @@
     {
       "label": "Source: academic.oup.com",
       "url": "https://academic.oup.com/mnras/article/515/1/1122/6631556"
+    },
+    {
+      "label": "Source · doi.org",
+      "url": "https://doi.org/10.1086/318272"
+    },
+    {
+      "label": "Source · bigear.org",
+      "url": "https://www.bigear.org/Gray-Ellingsen.pdf"
     }
   ],
   "faq": [
@@ -105,5 +129,6 @@
       "question": "Le signal est-il expliqué ?",
       "answer": "Plusieurs hypothèses existent. Aucune source ou répétition n’a été confirmée."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

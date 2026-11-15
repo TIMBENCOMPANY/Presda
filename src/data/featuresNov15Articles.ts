@@ -100,6 +100,10 @@ export const featuresNov15Articles: Article[] = [
       "## What the soot can tell us",
       "The largest sign frames the ledge and resembles a star-decorated canopy in related imagery. Fire marks support the idea of burning in the shelter. Incense and the commemoration of warriors fit the comparisons, while cremation remains a possibility proposed by the authors. The ledge and soot do not establish what was burned. [Antiquity study](https://www.cambridge.org/core/journals/antiquity/article/painted-teotihuacan-glyphs-of-cave-19-chalcatzingo-morelos-mexico/536A5E711BB8DFED14BE189F4F1B9259)",
       "The wider landscape helps explain why the position of the shelter matters. At Chalcatzingo, hills and rock faces had long been places for images with religious themes. The later glyphs show how a new writing tradition could mark terrain that already carried meaning. [Museo Nacional de Antropología](https://mna.inah.gob.mx/detalle_huella.php?pl=Chalcatzingo_Morelos)",
+      "## How researchers recovered the outlines",
+      "The team measured and mapped the signs, photographed them and compared enhancements made from different color channels. Figure 4 lets readers compare those treatments. The enhanced colors help separate faint traces from the rock surface and should be read alongside the original views. Figure 5 shows the weathered mountain sign and the authors’ drawing. Its incomplete left side matters because the drawing includes a suggested reconstruction. [Source · doi.org](https://doi.org/10.15184/aqy.2026.10425)",
+      "## What the objects in the paintings can tell us",
+      "Figure 6 sets the photograph alongside an enhanced image and a drawing. The authors identify a beaded necklace, cloth and a dart as signs associated with warrior attire. Figure 7 places the star-decorated frame above a shelf with signs of burning. Parallels in Teotihuacan art suggest a ceremonial setting, but the shelf preserves too little to decide between an incense burner and the cremation of a funerary bundle. The strongest evidence is for the signs and burning themselves. The reconstruction of a particular ceremony remains an interpretation. [Source · doi.org](https://doi.org/10.15184/aqy.2026.10425)",
       "[Related coverage](/articles/nazca-civilization-peru-lines-cahuachi/)."
     ],
     "references": [
@@ -114,6 +118,10 @@ export const featuresNov15Articles: Article[] = [
       {
         "name": "Museo Nacional de Antropología",
         "url": "https://mna.inah.gob.mx/detalle_huella.php?pl=Chalcatzingo_Morelos"
+      },
+      {
+        "name": "Source · doi.org",
+        "url": "https://doi.org/10.15184/aqy.2026.10425"
       }
     ],
     "relatedSlugs": [
@@ -129,7 +137,7 @@ export const featuresNov15Articles: Article[] = [
         "answer": "The researchers discuss cremation as a possibility. The fire traces do not identify what burned."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "466",
@@ -166,6 +174,10 @@ export const featuresNov15Articles: Article[] = [
       "## When the screen became part of the business",
       "The Reuters Monitor brought electronic access to financial information in the 1970s. Later, Monitor Dealing let foreign-exchange dealers transact through video terminals. The company moved from delivering information toward helping customers use it while working. In news, digital delivery likewise let customers receive text, photographs and video through a connected service. [Thomson Reuters company timeline](https://www.thomsonreuters.com/en/about-us/company-history)",
       "Thomson acquired Reuters Group in April 2008, creating Thomson Reuters. The Reuters name still identifies the international news agency within that wider group. Across 175 years, the means of delivery changed repeatedly. The business continued to depend on readers and clients trusting information gathered far from their own desks. [Thomson Reuters 2008 annual report](https://archive.annual-report.thomsonreuters.com/2008/reports/Annual_Report.pdf)",
+      "## How an agency reports across borders",
+      "A wire story can start with a single dispatch and grow as journalists in several cities confirm events and gather reactions. Reuters’ anniversary archive illustrates that process with the 1974 Turkish invasion of Cyprus. Its first alert came from Ankara, and teams in Nicosia, Athens, Washington and New York helped build the broader report. The episode shows how Reuters turned its geographic spread into a reporting advantage. An alert could reach subscribers quickly while a second version explained what the news meant elsewhere. [Source · reutersagency.com](https://reutersagency.com/reuters-175-years)",
+      "## Why Reuters sold news and data together",
+      "Stockmaster, introduced in 1964, sent market prices over transatlantic cables. Its importance was commercial as well as technical: Reuters could supply customers directly instead of depending entirely on intermediaries. The company’s later history traces the same demand for fast, usable information into electronic dealing and distribution. When Thomson acquired Reuters in 2008, the Trust Principles remained the published framework for protecting editorial independence. The combination brought news into a larger information business whose customers also needed financial, legal and other professional data. [Source · reutersagency.com](https://reutersagency.com/reuters-175-years) [Source · thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/company-history) [Source · thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/trust-principles)",
       "[Related coverage](/articles/first-text-message-1992-merry-christmas-sms-history/)."
     ],
     "references": [
@@ -199,6 +211,6 @@ export const featuresNov15Articles: Article[] = [
         "answer": "They carried financial messages across a gap in the telegraph network between Aachen and Brussels."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   }
 ];

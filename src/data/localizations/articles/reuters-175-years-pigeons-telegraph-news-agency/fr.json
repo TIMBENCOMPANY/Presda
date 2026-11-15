@@ -74,6 +74,22 @@
       "text": "Thomson a racheté Reuters Group en avril 2008, donnant naissance à Thomson Reuters. Le nom Reuters désigne toujours l’agence internationale au sein de ce groupe. En 175 ans, les moyens de diffusion ont changé plusieurs fois. L’activité repose toujours sur la confiance des lecteurs et des clients dans des informations recueillies loin de leur bureau. [Source: archive.annual-report.thomsonreuters.com](https://archive.annual-report.thomsonreuters.com/2008/reports/Annual_Report.pdf)"
     },
     {
+      "type": "heading",
+      "text": "Comment une agence couvre une crise au-delà des frontières"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une dépêche peut partir d’une alerte unique, puis s’enrichir quand des journalistes de plusieurs villes vérifient les événements et recueillent des réactions. Les archives du 175e anniversaire de Reuters en donnent un exemple avec l’invasion turque de Chypre en 1974. La première alerte est venue d’Ankara, puis les équipes de Nicosie, d’Athènes, de Washington et de New York ont complété la couverture. Ce réseau permettait d’avertir vite les abonnés et de leur expliquer ensuite la portée de l’événement ailleurs. [Source · reutersagency.com](https://reutersagency.com/reuters-175-years)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi Reuters vendait aussi des données"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lancé en 1964, Stockmaster transmettait les cours par câble transatlantique. L’innovation était aussi commerciale : Reuters pouvait servir directement ses clients et réduire sa dépendance aux intermédiaires. La même demande d’informations rapides et exploitables a ensuite favorisé les transactions et la diffusion électroniques. Après le rachat de Reuters par Thomson en 2008, les Trust Principles sont restés le cadre public de protection de l’indépendance éditoriale. L’agence est entrée dans un ensemble qui fournit aussi des données financières, juridiques et professionnelles. [Source · reutersagency.com](https://reutersagency.com/reuters-175-years) [Source · thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/company-history) [Source · thomsonreuters.com](https://www.thomsonreuters.com/en/about-us/trust-principles)"
+    },
+    {
       "type": "paragraph",
       "text": "[À lire aussi](/articles/first-text-message-1992-merry-christmas-sms-history/)."
     }
@@ -105,5 +121,6 @@
       "question": "Pourquoi Reuter utilisait-il des pigeons ?",
       "answer": "Ils transportaient des informations financières entre Aix-la-Chapelle et Bruxelles, sur un trajet où le réseau télégraphique était incomplet."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

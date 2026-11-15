@@ -74,6 +74,22 @@
       "text": "Las búsquedas posteriores no han confirmado una repetición. Un modelo puede mostrar que un emisor intermitente pasaría inadvertido, según sus supuestos. Una nueva observación con instrumentos independientes, posición precisa y detalle espectral ayudaría a distinguir interferencia, un fenómeno astrofísico y una fuente tecnológica. [Fuente: academic.oup.com](https://academic.oup.com/mnras/article/515/1/1122/6631556)"
     },
     {
+      "type": "heading",
+      "text": "Por qué Big Ear dejó dos zonas por investigar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Big Ear utilizaba dos bocinas receptoras. Con la rotación terrestre, una fuente estable atravesaba normalmente ambos haces en sucesión. La señal Wow! apareció en uno solo y el registro impreso no identificó cuál. Quedaron dos posiciones posibles en Sagitario. La intensidad subió y bajó como al pasar una fuente por el haz, pero queda una pregunta: ¿seguía emitiendo cuando pasó el segundo haz? [Fuente · bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué pudieron descartar los estudios posteriores"
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Gray y Kevin Marvel utilizaron el Very Large Array para buscar una fuente débil y persistente en la zona. No encontraron ninguna candidata convincente. Gray y Simon Ellingsen observaron después desde Tasmania durante casi 14 horas seguidas en varios días. Su resultado acota la hipótesis de una señal periódica lo bastante intensa dentro de la banda observada. Un episodio más débil, infrecuente o irregular podría pasar inadvertido. Las dos búsquedas reducen las posibilidades sin identificar la fuente. [Fuente · doi.org](https://doi.org/10.1086/318272) [Fuente · bigear.org](https://www.bigear.org/Gray-Ellingsen.pdf)"
+    },
+    {
       "type": "paragraph",
       "text": "[Disco de Oro de las Voyager](/articles/voyager-golden-record-message-humanity-space/)."
     }
@@ -94,6 +110,14 @@
     {
       "label": "Fuente: academic.oup.com",
       "url": "https://academic.oup.com/mnras/article/515/1/1122/6631556"
+    },
+    {
+      "label": "Fuente · doi.org",
+      "url": "https://doi.org/10.1086/318272"
+    },
+    {
+      "label": "Fuente · bigear.org",
+      "url": "https://www.bigear.org/Gray-Ellingsen.pdf"
     }
   ],
   "faq": [
@@ -105,5 +129,6 @@
       "question": "¿Se ha explicado la señal?",
       "answer": "Hay varias hipótesis. No se ha confirmado una fuente ni una repetición."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }
