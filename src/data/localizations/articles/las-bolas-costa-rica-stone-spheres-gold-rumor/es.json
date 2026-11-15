@@ -46,6 +46,38 @@
       "text": "Relatos basados en los primeros registros describen a buscadores de tesoros que volaron al menos una esfera con explosivos, descritos habitualmente como dinamita, tras oír que contenía oro. Se desconoce cuántas fueron destruidas de esa manera. En la región sí se han encontrado objetos de oro, un hallazgo distinto que no convierte a las esferas en recipientes. [Fuente: www.celticnz.co.nz](https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm)"
     },
     {
+      "type": "heading",
+      "text": "Cómo las plantaciones convirtieron un hallazgo en un problema arqueológico"
+    },
+    {
+      "type": "paragraph",
+      "text": "El registro moderno comenzó al despejar el terreno. Las obras expusieron objetos enterrados o conservados en el paisaje durante siglos. En algunos lugares los investigadores llegaron cuando ya se estaban produciendo alteraciones. El Museo Nacional recuerda que Doris Stone examinó cinco sitios con esferas entre 1939 y 1941. Algunos planos muestran esferas junto a montículos artificiales. Cuando la agricultura o el saqueo modificaron los lugares, los dibujos conservaron relaciones que ya no podían observarse sobre el terreno. [Fuente · Museo Nacional de Costa Rica, field report](https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué el relato del oro se extendió más que los registros"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia plantea tres preguntas: si alguien rompió una esfera deliberadamente, qué creyó que encontraría y si realmente apareció metal en el interior. Un testimonio de daños puede aclarar las dos primeras sin resolver la tercera. La orfebrería local ayuda a explicar el rumor, pero las piezas de oro y las esculturas de piedra son hallazgos distintos. La repetición del relato tampoco permite contar cuántas esferas se destruyeron. Los informes de excavación y los registros institucionales aportan mejores pruebas sobre cambios en sitios concretos. [Fuente · Museo Nacional de Costa Rica, field report](https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf) [Fuente · Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo leer una esfera en un museo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Metropolitan Museum cataloga una esfera del Diquís tallada en andesita. Una ficha de colección documenta el material y facilita comparaciones. Una exposición responde a preguntas distintas de las de un plano de excavación, incluso cuando reúne las piezas en una hilera. La fotografía muestra una disposición moderna en San José y da una idea de la escala y la variedad. Los registros de campo permiten vincular las esferas con sus edificios, pasos y monumentos vecinos. [Fuente · The Metropolitan Museum of Art, object 2014.632](https://www.metmuseum.org/art/collection/search/321295) [Fuente · Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué evidencia sobrevive cuando se traslada una pieza"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aún se pueden comparar dimensiones, tipos de roca y huellas de talla. Sin embargo, una medida valiosa puede ser la distancia a otra esfera, su posición junto a una entrada o su asociación con un depósito cerámico. Notas, planos y fotografías a veces permiten recuperar parte del contexto. Proteger [los asentamientos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/) conserva más información que reunir esferas sueltas en un solo lugar. [Fuente · Museo Nacional de Costa Rica, field report](https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf) [Fuente · Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+    },
+    {
       "type": "subheading",
       "text": "Lo que se pierde al mover una esfera"
     },
@@ -110,6 +142,14 @@
     {
       "label": "Fuente · museocostarica.go.cr",
       "url": "https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf"
+    },
+    {
+      "label": "Museo Nacional de Costa Rica, field report",
+      "url": "https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf"
+    },
+    {
+      "label": "The Metropolitan Museum of Art, object 2014.632",
+      "url": "https://www.metmuseum.org/art/collection/search/321295"
     }
   ],
   "faq": [
@@ -122,5 +162,5 @@
       "answer": "La UNESCO inscribió el conjunto de cuatro sitios en 2014."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

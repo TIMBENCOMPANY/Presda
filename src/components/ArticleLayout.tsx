@@ -112,6 +112,7 @@ import photographyHeroCaptions from "@/data/photographyHeroCaptions.json";
 import { PhotographyHistoricalImage, photographyImageAtBlock } from "@/components/PhotographyHistoricalImage";
 import { MesopotamiaGrainTablet } from "@/components/MesopotamiaGrainTablet";
 import { WowSignalPrintout } from "@/components/WowSignalPrintout";
+import { DiquisEvidencePhoto } from "@/components/DiquisEvidencePhoto";
 import medicalCannabisHeroCaptions from "@/data/medicalCannabisHeroCaptions.json";
 import butterflyEffectHeroCaptions from "@/data/butterflyEffectHeroCaptions.json";
 import artificialWombsHeroCaptions from "@/data/artificialWombsHeroCaptions.json";
@@ -767,6 +768,12 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               }
               if (article.slug === "wow-signal-1977-72-seconds-6equj5" && originalIndex === 2) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WowSignalPrintout locale={locale} /></div>;
+              }
+              if (article.slug === "las-bolas-costa-rica-stone-spheres-gold-rumor" && originalIndex === 8) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DiquisEvidencePhoto photo="museum" locale={locale} /></div>;
+              }
+              if (article.slug === "diquis-culture-costa-rica-chiefdoms-stone-spheres" && originalIndex === 13) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DiquisEvidencePhoto photo="finca" locale={locale} /></div>;
               }
               if (structured?.type === "table" && structured.sourceMarker === "[[ASTROLOGY_SCIENCE_TABLE]]") return <AstrologyComparisonTable key={originalIndex} table={{ headers: structured.headings, rows: structured.rows }} />;
               if (structured?.type === "table") return <StandardArticleTable key={originalIndex} table={{ caption: structured.caption, headers: structured.headings, rows: structured.rows, minWidthClass: articleTables[structured.sourceMarker ?? ""]?.minWidthClass ?? "min-w-[680px]", boldColumnIndex: articleTables[structured.sourceMarker ?? ""]?.boldColumnIndex ?? 0, rowKeyIndex: articleTables[structured.sourceMarker ?? ""]?.rowKeyIndex ?? 0 }} />;

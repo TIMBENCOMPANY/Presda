@@ -62,6 +62,70 @@
       "text": "Los adornos de oro y aleaciones aportan otra perspectiva sobre la técnica y el intercambio. Con poco metal podían hacerse colgantes elaborados. La cerámica revela otros usos, desde recipientes cotidianos hasta depósitos funerarios. El contexto ayuda a preguntar quién hizo o utilizó un objeto y por qué apareció allí. [Fuente: museosdelbancocentral.org](https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf)"
     },
     {
+      "type": "heading",
+      "text": "Un delta con distintos tipos de asentamientos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cuatro lugares protegidos conservan partes distintas de un paisaje regional. Batambal era visible desde lejos. Finca 6, en la llanura, conserva la relación entre monumentos y estructuras y probablemente fue un centro principal. Grijalba-2 destaca por una arquitectura que incluye piedra caliza y se ha interpretado como centro secundario. El Silencio sobresale por una esfera de gran tamaño. Las diferencias invitan a estudiar cada sitio dentro de su contexto. [Fuente · UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué muestran los límites y las superficies"
+    },
+    {
+      "type": "paragraph",
+      "text": "La UNESCO inscribió el conjunto en 2014. Cada componente tiene su propio perímetro y una zona de amortiguamiento. Un solo punto en el mapa no representa todo el conjunto. Las cifras oficiales de la tabla indican las superficies inscritas. Sirven para la protección y la gestión y no permiten estimar ni la población antigua ni todo el territorio utilizado por cada comunidad. [Fuente · UNESCO World Heritage Centre, maps](https://whc.unesco.org/en/list/1453/maps/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[DIQUIS_PROTECTED_SITES]]",
+      "caption": "Superficies inscritas según los mapas de la UNESCO. Excluyen las zonas de amortiguamiento.",
+      "headings": [
+        "Sitio",
+        "Superficie inscrita",
+        "Vestigios distintivos"
+      ],
+      "rows": [
+        [
+          "Finca 6",
+          "9,55 ha",
+          "Alineación de esferas in situ"
+        ],
+        [
+          "Batambal",
+          "0,80 ha",
+          "Asentamiento visible desde lejos"
+        ],
+        [
+          "El Silencio",
+          "6,16 ha",
+          "Mayor esfera documentada"
+        ],
+        [
+          "Grijalba-2",
+          "8,22 ha",
+          "Arquitectura de piedra caliza"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Qué permite averiguar una alineación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una hilera en su emplazamiento conserva relaciones que una exposición difícilmente puede reproducir. Los equipos pueden medir las distancias y registrar la orientación respecto a plataformas y caminos. La superficie actual puede diferir de la antigua, de modo que la excavación y el registro son tan importantes como la fotografía. Una alineación en contexto muestra una colocación deliberada. Su orientación por sí sola no identifica un astro ni determina qué ceremonia tuvo lugar. [Fuente · UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/) [Fuente · Museo Nacional de Costa Rica](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)"
+    },
+    {
+      "type": "heading",
+      "text": "El paisaje también forma parte de la evidencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las vistas aéreas del museo sitúan los yacimientos entre ríos, campos y poblaciones modernas. Así se entiende por qué los investigadores distinguen la construcción antigua de los cambios posteriores. Una esfera desplazada sigue siendo reconocible, pero cuesta más reconstruir su relación con las estructuras vecinas. El [artículo de PRESDA sobre Las Bolas y la búsqueda de oro](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/) examina lo que se pierde al alterar ese contexto. [Fuente · UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/) [Fuente · Museo Nacional de Costa Rica](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)"
+    },
+    {
       "type": "paragraph",
       "text": "Para fabricar una esfera monumental había que elegir el bloque, darle forma, alisarlo y organizar el traslado. Parte de la piedra procedía de lugares alejados de su destino. Ese esfuerzo da importancia a la colocación pública. Los grupos conservados no permiten atribuir el mismo significado a todas las esferas. [Fuente: www.metmuseum.org](https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica)"
     },
@@ -130,5 +194,5 @@
       "answer": "Se conservan cerámicas, esculturas monumentales y adornos de oro y sus aleaciones."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

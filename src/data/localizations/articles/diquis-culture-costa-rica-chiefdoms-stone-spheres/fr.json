@@ -62,6 +62,70 @@
       "text": "Les ornements d’or et d’alliage éclairent d’autres savoir-faire et les échanges. Les artisans savaient transformer peu de métal en pendentifs élaborés. Les céramiques révèlent d’autres usages, des récipients du quotidien aux dépôts funéraires. Le contexte aide à déterminer qui fabriquait ou utilisait un objet et pourquoi il a été retrouvé à cet endroit. [Source: museosdelbancocentral.org](https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf)"
     },
     {
+      "type": "heading",
+      "text": "Plusieurs types d’établissements dans le delta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les quatre lieux protégés conservent des parties différentes d’un paysage régional. Batambal se distinguait à distance. Finca 6, dans la plaine, conserve la relation entre les monuments et les structures et a probablement servi de centre principal. Grijalba-2 possède une architecture différente, notamment en calcaire, et pourrait avoir constitué un centre secondaire. El Silencio est particulièrement connu pour une sphère de très grande taille. Ces différences invitent à étudier chaque établissement dans son cadre. [Source · UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Lire la carte et les superficies protégées"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’UNESCO a inscrit l’ensemble en 2014. Chaque composante possède ses propres limites et sa zone tampon. Un seul point sur une carte ne suffit donc pas à les représenter. Les superficies ci-dessous proviennent des données officielles et concernent les périmètres inscrits. Elles servent à la protection et à la gestion. Elles ne permettent d’estimer ni la population ancienne ni tout le territoire qu’une communauté utilisait. [Source · UNESCO World Heritage Centre, maps](https://whc.unesco.org/en/list/1453/maps/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[DIQUIS_PROTECTED_SITES]]",
+      "caption": "Superficies inscrites selon les cartes de l’UNESCO, hors zones tampons.",
+      "headings": [
+        "Site",
+        "Superficie inscrite",
+        "Vestiges caractéristiques"
+      ],
+      "rows": [
+        [
+          "Finca 6",
+          "9,55 ha",
+          "Alignement de sphères en place"
+        ],
+        [
+          "Batambal",
+          "0,80 ha",
+          "Établissement visible de loin"
+        ],
+        [
+          "El Silencio",
+          "6,16 ha",
+          "Plus grande sphère connue"
+        ],
+        [
+          "Grijalba-2",
+          "8,22 ha",
+          "Architecture en calcaire"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Ce que permet de comprendre un alignement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une rangée encore en place conserve des relations difficiles à reproduire dans une exposition. Les équipes peuvent relever les distances, l’orientation et la position par rapport aux plateformes et aux passages. Le sol actuel ne correspond pas nécessairement au sol ancien, ce qui rend les fouilles et les relevés aussi importants qu’une photographie. Un alignement en contexte indique un placement délibéré. Son orientation seule ne désigne ni une cible astronomique ni le déroulement d’une cérémonie. [Source · UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/) [Source · Museo Nacional de Costa Rica](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)"
+    },
+    {
+      "type": "heading",
+      "text": "Le paysage fait partie des vestiges"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les vues aériennes du musée placent les sites parmi les rivières, les terres agricoles et les localités modernes. Elles aident à comprendre pourquoi les chercheurs distinguent les constructions anciennes des transformations ultérieures du delta. Une sphère reste reconnaissable après son déplacement, mais il devient plus difficile de retrouver son lien avec les constructions voisines. L’[article de PRESDA sur les sphères et la recherche d’or](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/) explique ce que ces perturbations peuvent détruire. [Source · UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/) [Source · Museo Nacional de Costa Rica](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)"
+    },
+    {
       "type": "paragraph",
       "text": "Pour créer une sphère monumentale, il fallait choisir un bloc, le façonner, le lisser et organiser son transport. Certaines roches venaient d’ailleurs que leur lieu d’installation. L’effort donne du poids à leur implantation publique. Les groupes conservés ne permettent pas de dire si toutes avaient la même signification. [Source: www.metmuseum.org](https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica)"
     },
@@ -130,5 +194,5 @@
       "answer": "On a retrouvé de la céramique, des sculptures monumentales et des ornements en or et en alliage."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

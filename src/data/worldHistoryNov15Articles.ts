@@ -28,6 +28,14 @@ export const worldHistoryNov15Articles: Article[] = [
       "In the late 1930s, workers preparing land for banana plantations in southern Costa Rica exposed stone spheres in the Diquís Delta. Some had long been buried in floodplain sediment. Clearing land brought them to wider attention, but it also threatened the places where they had stood for centuries. The objects that made the delta famous were already starting to lose their archaeological context. [Museo Nacional de Costa Rica](https://diquis.go.cr/en/linea-de-tiempo.html)",
       "## The rumor that some spheres contained gold",
       "Accounts based on the early survey describe treasure seekers using explosives, often described as dynamite, to blast at least one sphere after hearing that gold lay inside. The reports establish a history of damage and rumor, with no reliable total for how many spheres were destroyed this way. Goldwork really does occur at archaeological sites in the region. That evidence concerns separate objects and offers no proof that the spheres were containers. [Account of Lothrop’s sphere records](https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm)",
+      "## How plantation work turned a local find into an archaeological problem",
+      "The modern record begins with land clearance, and the conditions of that discovery matter. Earthmoving exposed objects that had been buried or left in the landscape for centuries. Fieldworkers reached some locations while alterations were already taking place. The National Museum’s later review says Doris Stone examined five sites with spheres between 1939 and 1941. Her plans sometimes recorded spheres near artificially raised mounds. When cultivation or looting changed those places, the old drawings became evidence for relationships that could no longer be observed directly. [Source · Museo Nacional de Costa Rica, field report](https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf)",
+      "### Why the gold story travels farther than the records",
+      "There are three separate questions behind the familiar account: whether someone intentionally broke a sphere, what that person believed might be inside, and whether any metal was actually found there. An account of damage can support the first two without establishing the third. Goldworking in the region makes the rumor understandable, but gold objects and carved stone are different finds with different histories. Neither an illustrated feature about the spheres nor a dramatic retelling can supply a verified count of objects destroyed. The excavation materials and institutional records are stronger evidence for changes to specific sites. [Source · Museo Nacional de Costa Rica, field report](https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf) [Source · Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)",
+      "## How to read a sphere in a museum",
+      "The Metropolitan Museum’s catalogue describes a Diquís sphere made of andesite. A collection entry can document material and provide a stable record for comparing objects. A museum display answers a different question from a field plan, even when objects are shown in a row. The photograph here shows a modern arrangement in San José. It gives a sense of scale and variation, while the excavation records are what connect objects to their original buildings, routes or neighboring monuments. [Source · The Metropolitan Museum of Art, object 2014.632](https://www.metmuseum.org/art/collection/search/321295) [Source · Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)",
+      "## What survives when the evidence has moved",
+      "Researchers can compare dimensions, rock types and working traces on a displaced object. For many questions, however, the most valuable measurement is a relationship: a distance to another sphere, a position next to an entrance or the connection to a deposit of pottery. Notes, plans and photographs can sometimes recover parts of that setting. That is why protecting [the settlements of the Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/) safeguards more evidence than gathering loose spheres in a single place. [Source · Museo Nacional de Costa Rica, field report](https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf) [Source · Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)",
       "### The cost of moving a sphere",
       "Damage was only one way evidence disappeared. A sphere moved to a garden can still be measured, but its original alignment and relationship to a house platform or plaza may be impossible to reconstruct. That makes a sphere still in place more informative than an isolated specimen with a perfect surface. [Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)",
       "## From plantation finds to archaeology",
@@ -60,6 +68,14 @@ export const worldHistoryNov15Articles: Article[] = [
       {
         "name": "Source · museocostarica.go.cr",
         "url": "https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf"
+      },
+      {
+        "name": "Museo Nacional de Costa Rica, field report",
+        "url": "https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf"
+      },
+      {
+        "name": "The Metropolitan Museum of Art, object 2014.632",
+        "url": "https://www.metmuseum.org/art/collection/search/321295"
       }
     ],
     "relatedSlugs": [
@@ -75,7 +91,7 @@ export const worldHistoryNov15Articles: Article[] = [
         "answer": "UNESCO inscribed the four-site property in 2014."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "5 min read"
   },
   {
     "id": "468",
@@ -203,6 +219,15 @@ export const worldHistoryNov15Articles: Article[] = [
       "At Finca 6, stone-faced mounds, paths and spheres are part of a built setting. Large platforms and sculptures required organized labor. Access to prestigious spaces and objects suggests differences in status, which helps explain why archaeologists use the term chiefdoms. The surviving plans show how residents arranged space, even where individual ceremonies cannot be reconstructed. [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/)",
       "## Potters, sculptors and goldworkers",
       "Gold and gold-alloy ornaments add a different view of skill and exchange. Metalworkers could turn small amounts of material into elaborate pendants. Pottery documents other aspects of life, from vessels in daily use to objects deposited in burials. Such contexts allow scholars to ask who made an object, who used it, and why it ended up where excavators found it. [Museos del Banco Central de Costa Rica](https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf)",
+      "## A delta with more than one kind of settlement",
+      "The four protected places preserve different parts of a regional landscape. A prominent settlement like Batambal could be seen from a distance. Finca 6, on the plain, preserves monuments in relation to built structures and was probably a principal centre. Grijalba-2 has a different architectural vocabulary, with limestone, and has been interpreted as a secondary centre. El Silencio is particularly important for a very large sphere. The differences caution against treating every site with a sphere as a replica of the same village. [Source · UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/)",
+      "### How to read the four-site chronology and geography",
+      "UNESCO inscribed the group in 2014. Each component has its own protected boundary and buffer zone, so the designation cannot be understood from a single pin on a map. The official boundary figures below give the size of each inscribed component. These areas are protection and management measurements, and cannot be used to calculate ancient population or the total area in which a community once lived. [Source · UNESCO World Heritage Centre, maps](https://whc.unesco.org/en/list/1453/maps/)",
+      "[[DIQUIS_PROTECTED_SITES]]",
+      "## What an alignment can and cannot show",
+      "A row of spheres in the ground supplies a relationship that a collection arranged for display cannot reproduce. Field teams can record the distances between objects, their orientation and their position relative to platforms and paths. The modern surface does not necessarily coincide with the ancient one, so excavation and documentation matter as much as a photograph. An alignment demonstrates deliberate placement where the context survives. Its orientation alone cannot establish an astronomical target or the purpose of a particular ceremony. [Source · UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/) [Source · Museo Nacional de Costa Rica](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)",
+      "## Why the landscape belongs in the interpretation",
+      "The museum’s aerial records situate the archaeological properties among rivers, agricultural land and modern settlements. That perspective helps explain why archaeological surveys must distinguish ancient construction from later changes in the delta. A sphere may still be recognizable after relocation, but the relationship to nearby structures is harder to recover. The [PRESDA account of Las Bolas and the hunt for gold](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/) follows what can happen to that evidence when sites are disturbed. [Source · UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/) [Source · Museo Nacional de Costa Rica](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)",
       "Making a monumental sphere required selecting a suitable block, shaping and smoothing it, and organizing its transport. Some source material came from beyond the place where a sphere ended up. The effort makes their public placement significant. The surviving groups cannot tell us whether each sphere carried the same meaning. [Metropolitan Museum of Art](https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica)",
       "## What survives in the delta",
       "The four UNESCO sites preserve different parts of this story. Together they allow comparisons between settlements, monuments and surviving object groups. Their legacy is a record of how people organized work and built places that expressed authority and belonging. [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/)",
@@ -252,7 +277,7 @@ export const worldHistoryNov15Articles: Article[] = [
         "answer": "The record includes ceramics, monumental stone sculpture, and gold and gold-alloy ornaments."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "5 min read"
   },
   {
     "id": "470",

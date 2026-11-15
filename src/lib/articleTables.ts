@@ -8,6 +8,39 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[DIQUIS_PROTECTED_SITES]]": {
+  "caption": "Inscribed component areas from the UNESCO maps. Buffer zones are excluded.",
+  "rows": [
+    [
+      "Finca 6",
+      "9.55 ha",
+      "Alignment of spheres in place"
+    ],
+    [
+      "Batambal",
+      "0.80 ha",
+      "Settlement visible from afar"
+    ],
+    [
+      "El Silencio",
+      "6.16 ha",
+      "Largest recorded sphere"
+    ],
+    [
+      "Grijalba-2",
+      "8.22 ha",
+      "Limestone architecture"
+    ]
+  ],
+  "headers": [
+    "Site",
+    "Protected area",
+    "Distinctive evidence"
+  ],
+  "minWidthClass": "min-w-[510px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
   "[[MESOPOTAMIA_MILESTONES]]": {
   "caption": "Milestones in Mesopotamian history. Dates describe specific developments rather than the boundaries of each society.",
   "headers": [

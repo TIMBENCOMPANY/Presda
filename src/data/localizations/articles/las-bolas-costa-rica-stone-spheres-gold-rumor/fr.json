@@ -46,6 +46,38 @@
       "text": "Des récits fondés sur les premiers relevés décrivent des chercheurs de trésors faisant exploser au moins une sphère, selon des récits qui évoquent la dynamite,, persuadés qu’elle cachait de l’or. Le nombre de sphères ainsi détruites reste inconnu. Des objets en or ont bien été retrouvés dans la région, où ils constituent une découverte distincte des sphères. [Source: www.celticnz.co.nz](https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm)"
     },
     {
+      "type": "heading",
+      "text": "Comment les plantations ont transformé une découverte en problème archéologique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dégagement des terres marque le début des observations modernes. Les travaux ont exposé des objets enfouis ou restés dans le paysage depuis des siècles. Sur certains sites, les chercheurs sont arrivés alors que les transformations avaient déjà commencé. Selon la synthèse du Musée national, Doris Stone a étudié cinq sites à sphères entre 1939 et 1941. Ses plans en montrent parfois près de monticules artificiels. Lorsque l’agriculture ou le pillage ont modifié les lieux, ces dessins ont conservé la trace de relations devenues impossibles à observer sur place. [Source · Museo Nacional de Costa Rica, field report](https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi la rumeur dépasse la portée des archives"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le récit soulève trois questions : quelqu’un a-t-il brisé une sphère, que croyait-il y trouver et en a-t-on réellement extrait du métal ? Un rapport de dégradation peut éclairer les deux premières sans établir la troisième. L’orfèvrerie régionale aide à comprendre la rumeur, mais les objets d’or et les sculptures de pierre ont des provenances et des usages distincts. Un récit romancé ne permet pas davantage d’établir le nombre d’objets détruits. Les fouilles et les dossiers institutionnels fournissent des éléments plus solides sur les transformations de chaque site. [Source · Museo Nacional de Costa Rica, field report](https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf) [Source · Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment lire une sphère au musée"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Metropolitan Museum décrit une sphère du Diquís taillée dans l’andésite. Une fiche de collection documente la matière et facilite la comparaison. Une exposition répond à une autre question qu’un plan de fouille, même si les objets sont placés en rangée. La photographie montre une disposition moderne à San José. Elle donne une idée de la taille et de la diversité des pièces. Les relevés de terrain restent nécessaires pour les relier aux constructions, aux voies de passage et aux monuments d’origine. [Source · The Metropolitan Museum of Art, object 2014.632](https://www.metmuseum.org/art/collection/search/321295) [Source · Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qui reste lorsque les objets ont été déplacés"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur une pièce déplacée, on peut comparer les dimensions, la roche et les traces de travail. Pourtant, la mesure la plus précieuse décrit parfois une relation : la distance à une autre sphère, la place près d’une entrée ou l’association avec des céramiques. Les notes, plans et photographies peuvent restituer une partie du contexte. Protéger [les établissements du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/) permet donc de conserver davantage d’informations que de rassembler les sphères isolées. [Source · Museo Nacional de Costa Rica, field report](https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf) [Source · Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+    },
+    {
       "type": "subheading",
       "text": "Ce que coûte le déplacement d’une sphère"
     },
@@ -110,6 +142,14 @@
     {
       "label": "Source · museocostarica.go.cr",
       "url": "https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf"
+    },
+    {
+      "label": "Museo Nacional de Costa Rica, field report",
+      "url": "https://www.diquis.go.cr/investigaciones/InformeDiquis2014-2015.pdf"
+    },
+    {
+      "label": "The Metropolitan Museum of Art, object 2014.632",
+      "url": "https://www.metmuseum.org/art/collection/search/321295"
     }
   ],
   "faq": [
@@ -122,5 +162,5 @@
       "answer": "L’UNESCO a inscrit le bien composé de quatre sites en 2014."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 5
 }
