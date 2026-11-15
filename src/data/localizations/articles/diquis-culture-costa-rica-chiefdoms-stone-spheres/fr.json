@@ -1,0 +1,109 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+  "path": "/fr/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "La culture du Diquís : les chefferies des sphères du Costa Rica",
+  "seoTitle": "Culture du Diquís : chefferies, orfèvrerie et sphères",
+  "description": "Céramiques, orfèvrerie, sépultures et plans de villages éclairent les communautés qui ont sculpté les monuments du delta.",
+  "excerpt": "Céramiques, orfèvrerie, sépultures et plans de villages éclairent les communautés qui ont sculpté les monuments du delta.",
+  "headlineHighlights": {
+    "red": "culture du Diquís",
+    "gold": "sphères du Costa Rica"
+  },
+  "keywords": [
+    "culture du Diquís",
+    "sphères du Costa Rica"
+  ],
+  "searchIntent": "Céramiques, orfèvrerie, sépultures et plans de villages éclairent les communautés qui ont sculpté les monuments du delta.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/diquis-culture-stone-spheres-village-illustration.jpg",
+    "alt": "Village imaginé du Diquís avec sphères, sculpture et poterie",
+    "width": 1280,
+    "height": 714
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une sphère est la trace la plus visible de l’artisanat du Diquís. Un tesson ou des fondations permettent de poser d’autres questions. Dans le sud de l’actuel Costa Rica, l’archéologie suit des communautés qui pratiquaient l’agriculture, travaillaient la pierre et les métaux, et aménageaient des villages de plus en plus complexes. [Source: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+    },
+    {
+      "type": "heading",
+      "text": "Des premières céramiques aux grands villages"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Musée national situe la céramique d’Aguas Buenas entre environ 300 avant notre ère et 800 de notre ère. Après 800, les villages deviennent plus grands, leurs plans plus complexes et les signes de hiérarchie plus marqués. Cette chronologie décrit les changements de la culture matérielle. Elle ne livre pas les noms que les habitants se donnaient. [Source: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que le plan des villages dit du pouvoir"
+    },
+    {
+      "type": "paragraph",
+      "text": "À Finca 6, les tertres revêtus de pierre, les chemins et les sphères forment un ensemble construit. Les grandes plateformes et sculptures exigeaient un travail organisé. L’accès aux espaces et objets de prestige suggère des différences de statut, d’où le terme de chefferies. Les plans renseignent sur l’organisation de l’espace, même quand les cérémonies restent mal connues. [Source: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "heading",
+      "text": "Potiers, sculpteurs et orfèvres"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les ornements d’or et d’alliage éclairent d’autres savoir-faire et les échanges. Les artisans savaient transformer peu de métal en pendentifs élaborés. Les céramiques révèlent d’autres usages, des récipients du quotidien aux dépôts funéraires. Le contexte aide à déterminer qui fabriquait ou utilisait un objet et pourquoi il a été retrouvé à cet endroit. [Source: museosdelbancocentral.org](https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour créer une sphère monumentale, il fallait choisir un bloc, le façonner, le lisser et organiser son transport. Certaines roches venaient d’ailleurs que leur lieu d’installation. L’effort donne du poids à leur implantation publique. Les groupes conservés ne permettent pas de dire si toutes avaient la même signification. [Source: www.metmuseum.org](https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qui subsiste dans le delta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les quatre sites de l’UNESCO conservent différentes parties de cette histoire. Ensemble, ils permettent de comparer villages, monuments et groupes d’objets. Ils témoignent de la manière dont les habitants organisaient le travail et construisaient des lieux exprimant le pouvoir et l’appartenance. [Source: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Las Bolas et la rumeur de l’or](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.museocostarica.go.cr",
+      "url": "https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/"
+    },
+    {
+      "label": "Source: museosdelbancocentral.org",
+      "url": "https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf"
+    },
+    {
+      "label": "Source: www.metmuseum.org",
+      "url": "https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand les chefferies du Diquís se sont-elles développées ?",
+      "answer": "Leurs villages les plus complexes datent de la période qui suit environ 800 de notre ère."
+    },
+    {
+      "question": "Que fabriquaient les artisans du Diquís ?",
+      "answer": "On a retrouvé de la céramique, des sculptures monumentales et des ornements en or et en alliage."
+    }
+  ]
+}

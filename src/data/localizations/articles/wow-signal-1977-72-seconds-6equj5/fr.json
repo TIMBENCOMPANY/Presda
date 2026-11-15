@@ -1,0 +1,109 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/wow-signal-1977-72-seconds-6equj5/",
+  "path": "/fr/articles/wow-signal-1977-72-seconds-6equj5/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Le signal Wow! : 72 secondes qui intriguent les astronomes",
+  "seoTitle": "Signal Wow! : que signifient 6EQUJ5 et les 72 secondes ?",
+  "description": "En 1977, le radiotélescope Big Ear a détecté un signal étroit près de la raie de l’hydrogène. Le relevé donne six intensités, mais sa source demeure inconnue.",
+  "excerpt": "En 1977, le radiotélescope Big Ear a détecté un signal étroit près de la raie de l’hydrogène. Le relevé donne six intensités, mais sa source demeure inconnue.",
+  "headlineHighlights": {
+    "red": "signal Wow!",
+    "gold": "72 secondes"
+  },
+  "keywords": [
+    "signal Wow!",
+    "72 secondes"
+  ],
+  "searchIntent": "En 1977, le radiotélescope Big Ear a détecté un signal étroit près de la raie de l’hydrogène. Le relevé donne six intensités, mais sa source demeure inconnue.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/wow-signal-6equj5-radio-telescope-illustration.jpg",
+    "alt": "Illustration d’une antenne radio et d’une reconstitution du relevé 6EQUJ5",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le 15 août 1977, le radiotélescope Big Ear de l’université d’État de l’Ohio a relevé un signal inhabituel dans un canal étroit en direction du Sagittaire. En examinant le relevé, l’astronome bénévole Jerry Ehman a entouré 6EQUJ5 et inscrit Wow! Le nom est resté. L’instrument avait enregistré une hausse puis une baisse de l’intensité. [Source: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que mesurait 6EQUJ5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les six caractères sont des mesures d’intensité, espacées d’environ 12 secondes. L’imprimante utilisait des chiffres pour les faibles intensités et des lettres pour les plus fortes. U marque le pic, à environ 30 écarts-types du bruit. La courbe ressemble à celle d’une source fixe traversant le faisceau du télescope sous l’effet de la rotation terrestre. [Source: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que signifient les 72 secondes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les 72 secondes décrivent la fenêtre d’observation de Big Ear. Elles ne donnent pas la durée totale de l’émission. Un seul des deux récepteurs l’a captée, ce qui laisse deux zones possibles dans le ciel et aucune seconde trace pour trancher. [Source: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Hydrogène, interférences et hypothèse d’une balise"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une analyse récente des archives du programme SETI de l’Ohio situe la fréquence près de 1420,726 MHz, à proximité de la raie de 21 centimètres de l’hydrogène neutre. La faible largeur a intéressé le SETI. Une fréquence protégée et un profil compatible avec le faisceau ne suffisent toutefois pas à identifier la source. Aucun émetteur terrestre n’a été confirmé. [Source: phl.upr.edu](https://phl.upr.edu/wow/data)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une équipe d’Arecibo propose qu’un sursaut ait brièvement amplifié l’émission d’un nuage d’hydrogène froid. La comparaison avec les archives fournit un mécanisme naturel possible. Le nuage et le sursaut de 1977 restent à identifier. [Source: arxiv.org](https://arxiv.org/abs/2408.08513)"
+    },
+    {
+      "type": "heading",
+      "text": "Que faudrait-il pour résoudre l’énigme ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les recherches ultérieures n’ont donné aucune répétition confirmée. Un modèle peut montrer qu’un émetteur intermittent passerait parfois inaperçu, selon les hypothèses retenues. Une nouvelle détection par des instruments indépendants, avec une position précise et un spectre détaillé, aiderait à départager interférences, événement astrophysique et source technologique. [Source: academic.oup.com](https://academic.oup.com/mnras/article/515/1/1122/6631556)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Disque d’or de Voyager](/articles/voyager-golden-record-message-humanity-space/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.bigear.org",
+      "url": "https://www.bigear.org/Wow30th/wow30th.htm"
+    },
+    {
+      "label": "Source: phl.upr.edu",
+      "url": "https://phl.upr.edu/wow/data"
+    },
+    {
+      "label": "Source: arxiv.org",
+      "url": "https://arxiv.org/abs/2408.08513"
+    },
+    {
+      "label": "Source: academic.oup.com",
+      "url": "https://academic.oup.com/mnras/article/515/1/1122/6631556"
+    }
+  ],
+  "faq": [
+    {
+      "question": "6EQUJ5 était-il un message ?",
+      "answer": "C’était le relevé de six intensités successives."
+    },
+    {
+      "question": "Le signal est-il expliqué ?",
+      "answer": "Plusieurs hypothèses existent. Aucune source ou répétition n’a été confirmée."
+    }
+  ]
+}

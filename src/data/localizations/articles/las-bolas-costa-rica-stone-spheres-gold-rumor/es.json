@@ -1,0 +1,105 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/",
+  "path": "/es/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Las Bolas: las esferas de Costa Rica y la búsqueda del oro oculto",
+  "seoTitle": "Las Bolas de Costa Rica: esferas de piedra y rumores de oro",
+  "description": "Las plantaciones bananeras dejaron al descubierto esferas antiguas en el delta del Diquís. Según los relatos, un rumor sobre oro oculto provocó la destrucción de algunas.",
+  "excerpt": "Las plantaciones bananeras dejaron al descubierto esferas antiguas en el delta del Diquís. Según los relatos, un rumor sobre oro oculto provocó la destrucción de algunas.",
+  "headlineHighlights": {
+    "red": "Las Bolas",
+    "gold": "oro oculto"
+  },
+  "keywords": [
+    "Las Bolas",
+    "oro oculto"
+  ],
+  "searchIntent": "Las plantaciones bananeras dejaron al descubierto esferas antiguas en el delta del Diquís. Según los relatos, un rumor sobre oro oculto provocó la destrucción de algunas.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/las-bolas-diquis-stone-sphere-excavation-illustration.jpg",
+    "alt": "Ilustración de una excavación alrededor de una gran esfera costarricense",
+    "width": 1280,
+    "height": 715
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A finales de los años treinta, trabajadores que preparaban terrenos para plantaciones bananeras descubrieron esferas de piedra en el delta del Diquís, al sur de Costa Rica. Algunas llevaban siglos bajo sedimentos de la llanura aluvial. Las obras les dieron notoriedad y pusieron en peligro los lugares donde habían permanecido. [Fuente: diquis.go.cr](https://diquis.go.cr/en/linea-de-tiempo.html)"
+    },
+    {
+      "type": "heading",
+      "text": "El rumor del oro dentro de las esferas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Relatos basados en los primeros registros describen a buscadores de tesoros que volaron al menos una esfera con explosivos, descritos habitualmente como dinamita, tras oír que contenía oro. Se desconoce cuántas fueron destruidas de esa manera. En la región sí se han encontrado objetos de oro, un hallazgo distinto que no convierte a las esferas en recipientes. [Fuente: www.celticnz.co.nz](https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "Lo que se pierde al mover una esfera"
+    },
+    {
+      "type": "paragraph",
+      "text": "La destrucción fue solo una forma de perder información. Una esfera trasladada a un jardín aún puede medirse, pero su alineación original y su relación con una plataforma doméstica o una plaza pueden volverse imposibles de reconstruir. Una pieza en su lugar aporta así más que un ejemplar aislado de superficie perfecta. [Fuente: whc.unesco.org](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "De la plantación a la arqueología"
+    },
+    {
+      "type": "paragraph",
+      "text": "Doris Stone registró grupos y publicó sus investigaciones iniciales en 1943. Samuel Lothrop trabajó en el delta en 1948 y publicó un estudio más amplio en 1963. Sus registros conservan alineaciones y ubicaciones que los movimientos de tierra y el coleccionismo a veces borraron. El Museo Nacional estudia hoy las esculturas en el contexto de los poblados completos. [Fuente: whc.unesco.org](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué protege la UNESCO"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2014 la UNESCO inscribió cuatro sitios arqueológicos: Finca 6, Batambal, El Silencio y Grijalba-2. La inscripción abarca los asentamientos precolombinos y su relación con las esferas. Finca 6 conserva alineaciones en sus ubicaciones originales. Su significado preciso sigue abierto a la investigación. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cacicazgos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: diquis.go.cr",
+      "url": "https://diquis.go.cr/en/linea-de-tiempo.html"
+    },
+    {
+      "label": "Fuente: www.celticnz.co.nz",
+      "url": "https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/uploads/nominations/1453.pdf"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Se confirmó que hubiera oro dentro de las esferas?",
+      "answer": "No hay confirmación arqueológica fiable. Los adornos de oro son hallazgos distintos."
+    },
+    {
+      "question": "¿Cuándo se inscribieron los sitios?",
+      "answer": "La UNESCO inscribió el conjunto de cuatro sitios en 2014."
+    }
+  ]
+}

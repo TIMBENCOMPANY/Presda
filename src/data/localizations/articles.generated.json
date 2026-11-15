@@ -114414,6 +114414,333 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+    "path": "/ar/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "ثقافة ديكيس: المجتمعات التي صنعت كرات كوستاريكا الحجرية",
+    "seoTitle": "ثقافة ديكيس: المشيخات والذهب والكرات الحجرية",
+    "description": "يكشف الفخار والذهب والمدافن وتخطيط القرى جوانب من حياة المجتمعات التي صنعت منحوتات الدلتا الضخمة.",
+    "excerpt": "يكشف الفخار والذهب والمدافن وتخطيط القرى جوانب من حياة المجتمعات التي صنعت منحوتات الدلتا الضخمة.",
+    "headlineHighlights": {
+      "red": "ثقافة ديكيس",
+      "gold": "كرات كوستاريكا الحجرية"
+    },
+    "keywords": [
+      "ثقافة ديكيس",
+      "كرات كوستاريكا الحجرية"
+    ],
+    "searchIntent": "يكشف الفخار والذهب والمدافن وتخطيط القرى جوانب من حياة المجتمعات التي صنعت منحوتات الدلتا الضخمة.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/diquis-culture-stone-spheres-village-illustration.jpg",
+      "alt": "قرية متخيلة من ديكيس تضم كرات حجرية ومنحوتة وفخاراً",
+      "width": 1280,
+      "height": 714
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "الكرة الحجرية أبرز آثار الحرف في ديكيس، لكن كسرة فخار أو أساس منزل قد يجيب عن أسئلة تعجز المنحوتة عن حسمها. ففي جنوب كوستاريكا الحالية، يوثق السجل الأثري مجتمعات مارست الزراعة وعملت بالحجر والمعادن وبنت قرى تزداد تعقيداً. [المصدر: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+      },
+      {
+        "type": "heading",
+        "text": "من الفخار المبكر إلى القرى الكبرى"
+      },
+      {
+        "type": "paragraph",
+        "text": "يؤرّخ المتحف الوطني فخار أغواس بويناس في المنطقة إلى فترة واسعة تمتد تقريباً من 300 قبل الميلاد إلى 800 ميلادية. وبعد نحو 800 تظهر قرى أكبر وتخطيطات أكثر تعقيداً وأدلة أوضح على التراتب الاجتماعي. ويصف هذا التسلسل تحولات الثقافة المادية، ولا يكشف الأسماء التي أطلقها السكان على أنفسهم. [المصدر: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+      },
+      {
+        "type": "subheading",
+        "text": "كيف يكشف تخطيط القرى ملامح السلطة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "في فينكا 6 تشكّل التلال المكسوّة بالحجارة والممرات والكرات جزءاً من بيئة مبنية. وقد تطلبت المنصات الكبيرة والمنحوتات عملاً منظماً. ويشير الوصول إلى أماكن وقطع ذات مكانة إلى تفاوت اجتماعي، وهو ما يساعد على فهم وصف الباحثين لهذه المجتمعات بالمشيخات. وتبيّن المخططات كيف نُظّم المكان حتى حين يتعذر استعادة تفاصيل المراسم. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+      },
+      {
+        "type": "heading",
+        "text": "الخزّافون والنحّاتون والصاغة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تضيء حلي الذهب وسبائكه مهارات أخرى وشبكات للتبادل. وكان الصاغة يصنعون قلائد دقيقة من كميات صغيرة من المعدن. ويكشف الفخار عن أوانٍ للحياة اليومية وأخرى أودعت في المدافن. ويساعد السياق على فهم من صنع القطعة ومن استخدمها ولماذا وُجدت في مكانها. [المصدر: museosdelbancocentral.org](https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تطلّب صنع كرة ضخمة اختيار كتلة مناسبة وتشكيلها وصقلها وتنظيم نقلها. وجاءت بعض الصخور من أماكن بعيدة عن مواضع نصبها. ويزيد هذا العمل من أهمية وضعها في الأماكن العامة، من دون أن يثبت أن لكل الكرات المعنى نفسه. [المصدر: www.metmuseum.org](https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica)"
+      },
+      {
+        "type": "heading",
+        "text": "ما بقي في الدلتا"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحفظ مواقع اليونسكو الأربعة أجزاء مختلفة من هذا التاريخ. وتتيح مجتمعة مقارنة المستوطنات والمعالم ومجموعات القطع الباقية. وهي سجل لكيفية تنظيم السكان للعمل وبناء أماكن تُعبّر عن السلطة والانتماء. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[لاس بولاس وشائعة الذهب](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.museocostarica.go.cr",
+        "url": "https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1453/"
+      },
+      {
+        "label": "المصدر: museosdelbancocentral.org",
+        "url": "https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf"
+      },
+      {
+        "label": "المصدر: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica"
+      }
+    ],
+    "faq": [
+      {
+        "question": "متى تطورت مشيخات ديكيس؟",
+        "answer": "ترتبط قراها الأكثر تعقيداً بالفترة التي تلت نحو 800 ميلادية."
+      },
+      {
+        "question": "ماذا صنع حرفيو ديكيس؟",
+        "answer": "يشمل السجل فخاراً ومنحوتات حجرية ضخمة وحلياً من الذهب وسبائكه."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+    "path": "/es/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "La cultura del Diquís: los cacicazgos de las esferas de Costa Rica",
+    "seoTitle": "Cultura del Diquís: cacicazgos, orfebrería y esferas",
+    "description": "La cerámica, la orfebrería, las tumbas y el trazado de las aldeas revelan quiénes levantaron las esculturas del delta.",
+    "excerpt": "La cerámica, la orfebrería, las tumbas y el trazado de las aldeas revelan quiénes levantaron las esculturas del delta.",
+    "headlineHighlights": {
+      "red": "cultura del Diquís",
+      "gold": "esferas de Costa Rica"
+    },
+    "keywords": [
+      "cultura del Diquís",
+      "esferas de Costa Rica"
+    ],
+    "searchIntent": "La cerámica, la orfebrería, las tumbas y el trazado de las aldeas revelan quiénes levantaron las esculturas del delta.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/diquis-culture-stone-spheres-village-illustration.jpg",
+      "alt": "Poblado imaginado del Diquís con esferas, una escultura y cerámica",
+      "width": 1280,
+      "height": 714
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Una esfera de piedra es la huella más visible del trabajo artesanal del Diquís. Un fragmento de cerámica o los cimientos de una vivienda responden a otras preguntas. En el sur de la actual Costa Rica, la arqueología muestra comunidades que cultivaban, trabajaban la piedra y los metales y construían aldeas cada vez más complejas. [Fuente: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+      },
+      {
+        "type": "heading",
+        "text": "De las primeras cerámicas a poblados mayores"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Museo Nacional sitúa la cerámica de Aguas Buenas entre aproximadamente 300 a. C. y 800 d. C. Después de alrededor del año 800, aparecen aldeas mayores, trazados más complejos y señales más claras de jerarquía. La cronología describe cambios materiales. No conserva los nombres que usaban los habitantes para identificarse. [Fuente: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Lo que el trazado revela sobre el poder"
+      },
+      {
+        "type": "paragraph",
+        "text": "En Finca 6, montículos revestidos de piedra, caminos y esferas forman un conjunto construido. Las plataformas y esculturas exigían trabajo organizado. El acceso a espacios y objetos de prestigio apunta a diferencias de rango, de ahí el término cacicazgos. Los planos muestran cómo se ordenaba el espacio, aunque no siempre permitan reconstruir las ceremonias. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+      },
+      {
+        "type": "heading",
+        "text": "Alfareros, escultores y orfebres"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los adornos de oro y aleaciones aportan otra perspectiva sobre la técnica y el intercambio. Con poco metal podían hacerse colgantes elaborados. La cerámica revela otros usos, desde recipientes cotidianos hasta depósitos funerarios. El contexto ayuda a preguntar quién hizo o utilizó un objeto y por qué apareció allí. [Fuente: museosdelbancocentral.org](https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para fabricar una esfera monumental había que elegir el bloque, darle forma, alisarlo y organizar el traslado. Parte de la piedra procedía de lugares alejados de su destino. Ese esfuerzo da importancia a la colocación pública. Los grupos conservados no permiten atribuir el mismo significado a todas las esferas. [Fuente: www.metmuseum.org](https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica)"
+      },
+      {
+        "type": "heading",
+        "text": "Lo que perdura en el delta"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los cuatro sitios de la UNESCO conservan partes distintas de esta historia. Juntos permiten comparar poblados, monumentos y conjuntos de objetos. Su legado documenta cómo se organizó el trabajo y cómo se construyeron espacios de autoridad y pertenencia. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Las Bolas y el rumor del oro](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.museocostarica.go.cr",
+        "url": "https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1453/"
+      },
+      {
+        "label": "Fuente: museosdelbancocentral.org",
+        "url": "https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf"
+      },
+      {
+        "label": "Fuente: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Cuándo se desarrollaron los cacicazgos del Diquís?",
+        "answer": "Sus poblados más complejos corresponden a la etapa posterior a alrededor del año 800."
+      },
+      {
+        "question": "¿Qué elaboraban sus artesanos?",
+        "answer": "Se conservan cerámicas, esculturas monumentales y adornos de oro y sus aleaciones."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+    "path": "/fr/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "La culture du Diquís : les chefferies des sphères du Costa Rica",
+    "seoTitle": "Culture du Diquís : chefferies, orfèvrerie et sphères",
+    "description": "Céramiques, orfèvrerie, sépultures et plans de villages éclairent les communautés qui ont sculpté les monuments du delta.",
+    "excerpt": "Céramiques, orfèvrerie, sépultures et plans de villages éclairent les communautés qui ont sculpté les monuments du delta.",
+    "headlineHighlights": {
+      "red": "culture du Diquís",
+      "gold": "sphères du Costa Rica"
+    },
+    "keywords": [
+      "culture du Diquís",
+      "sphères du Costa Rica"
+    ],
+    "searchIntent": "Céramiques, orfèvrerie, sépultures et plans de villages éclairent les communautés qui ont sculpté les monuments du delta.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/diquis-culture-stone-spheres-village-illustration.jpg",
+      "alt": "Village imaginé du Diquís avec sphères, sculpture et poterie",
+      "width": 1280,
+      "height": 714
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Une sphère est la trace la plus visible de l’artisanat du Diquís. Un tesson ou des fondations permettent de poser d’autres questions. Dans le sud de l’actuel Costa Rica, l’archéologie suit des communautés qui pratiquaient l’agriculture, travaillaient la pierre et les métaux, et aménageaient des villages de plus en plus complexes. [Source: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+      },
+      {
+        "type": "heading",
+        "text": "Des premières céramiques aux grands villages"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le Musée national situe la céramique d’Aguas Buenas entre environ 300 avant notre ère et 800 de notre ère. Après 800, les villages deviennent plus grands, leurs plans plus complexes et les signes de hiérarchie plus marqués. Cette chronologie décrit les changements de la culture matérielle. Elle ne livre pas les noms que les habitants se donnaient. [Source: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce que le plan des villages dit du pouvoir"
+      },
+      {
+        "type": "paragraph",
+        "text": "À Finca 6, les tertres revêtus de pierre, les chemins et les sphères forment un ensemble construit. Les grandes plateformes et sculptures exigeaient un travail organisé. L’accès aux espaces et objets de prestige suggère des différences de statut, d’où le terme de chefferies. Les plans renseignent sur l’organisation de l’espace, même quand les cérémonies restent mal connues. [Source: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+      },
+      {
+        "type": "heading",
+        "text": "Potiers, sculpteurs et orfèvres"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les ornements d’or et d’alliage éclairent d’autres savoir-faire et les échanges. Les artisans savaient transformer peu de métal en pendentifs élaborés. Les céramiques révèlent d’autres usages, des récipients du quotidien aux dépôts funéraires. Le contexte aide à déterminer qui fabriquait ou utilisait un objet et pourquoi il a été retrouvé à cet endroit. [Source: museosdelbancocentral.org](https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour créer une sphère monumentale, il fallait choisir un bloc, le façonner, le lisser et organiser son transport. Certaines roches venaient d’ailleurs que leur lieu d’installation. L’effort donne du poids à leur implantation publique. Les groupes conservés ne permettent pas de dire si toutes avaient la même signification. [Source: www.metmuseum.org](https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce qui subsiste dans le delta"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les quatre sites de l’UNESCO conservent différentes parties de cette histoire. Ensemble, ils permettent de comparer villages, monuments et groupes d’objets. Ils témoignent de la manière dont les habitants organisaient le travail et construisaient des lieux exprimant le pouvoir et l’appartenance. [Source: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Las Bolas et la rumeur de l’or](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.museocostarica.go.cr",
+        "url": "https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1453/"
+      },
+      {
+        "label": "Source: museosdelbancocentral.org",
+        "url": "https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf"
+      },
+      {
+        "label": "Source: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quand les chefferies du Diquís se sont-elles développées ?",
+        "answer": "Leurs villages les plus complexes datent de la période qui suit environ 800 de notre ère."
+      },
+      {
+        "question": "Que fabriquaient les artisans du Diquís ?",
+        "answer": "On a retrouvé de la céramique, des sculptures monumentales et des ornements en or et en alliage."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/diwali-india-festival-lights-traditions/",
     "path": "/ar/articles/diwali-india-festival-lights-traditions/",
     "kind": "article",
@@ -252508,6 +252835,321 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/",
+    "path": "/ar/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "لاس بولاس: كرات كوستاريكا الحجرية والبحث عن الذهب المخفي",
+    "seoTitle": "لاس بولاس: كرات كوستاريكا الحجرية وشائعة الذهب",
+    "description": "كشفت أعمال زراعة الموز عن كرات حجرية قديمة في دلتا ديكيس، وتروي روايات أن شائعة الذهب المخفي دفعت إلى تدمير بعضها.",
+    "excerpt": "كشفت أعمال زراعة الموز عن كرات حجرية قديمة في دلتا ديكيس، وتروي روايات أن شائعة الذهب المخفي دفعت إلى تدمير بعضها.",
+    "headlineHighlights": {
+      "red": "لاس بولاس",
+      "gold": "الذهب المخفي"
+    },
+    "keywords": [
+      "لاس بولاس",
+      "الذهب المخفي"
+    ],
+    "searchIntent": "كشفت أعمال زراعة الموز عن كرات حجرية قديمة في دلتا ديكيس، وتروي روايات أن شائعة الذهب المخفي دفعت إلى تدمير بعضها.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/las-bolas-diquis-stone-sphere-excavation-illustration.jpg",
+      "alt": "رسم تحريري لأعمال تنقيب حول كرة حجرية كبيرة في كوستاريكا",
+      "width": 1280,
+      "height": 715
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "في أواخر ثلاثينيات القرن العشرين كشف عمال يمهّدون الأرض لمزارع الموز عن كرات حجرية في دلتا ديكيس جنوبي كوستاريكا. وغطّت رواسب السهل الفيضي بعض الكرات زمناً طويلاً. وقد لفتت أعمال التهيئة الأنظار إليها وهددت في الوقت نفسه المواقع التي بقيت فيها قروناً. [المصدر: diquis.go.cr](https://diquis.go.cr/en/linea-de-tiempo.html)"
+      },
+      {
+        "type": "heading",
+        "text": "شائعة الذهب داخل الكرات"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف روايات تستند إلى المسح المبكر كيف فجّر باحثون عن الكنوز كرة واحدة على الأقل بمتفجرات توصف عادةً بالديناميت بعدما سمعوا أن الذهب مخبأ داخلها. ولا تتوافر حصيلة موثوقة لما دُمّر بهذه الطريقة. وعُثر بالفعل على مصنوعات ذهبية في مواقع أثرية بالمنطقة، لكنها قطع منفصلة لا تثبت أن الكرات كانت حاويات. [المصدر: www.celticnz.co.nz](https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي يضيع عند نقل كرة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "لم يكن التدمير الوسيلة الوحيدة لضياع الأدلة. ويمكن قياس كرة نُقلت إلى حديقة، لكن قد يتعذر استعادة اتجاهها الأصلي أو علاقتها بمنصة سكنية أو ساحة. ولهذا تتيح كرة في موضعها معلومات أكثر من قطعة معزولة متقنة الصقل. [المصدر: whc.unesco.org](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "من المزارع إلى البحث الأثري"
+      },
+      {
+        "type": "paragraph",
+        "text": "سجلت دوريس ستون مجموعات من الكرات ونشرت عملها المبكر عام 1943. وعمل صمويل لوثروب في الدلتا عام 1948 ونشر دراسة أوسع عام 1963. وحفظت سجلاتهما تفاصيل عن صفوف ومواضع طمستها أحياناً أعمال التسوية أو عمليات النقل. وتدرسها أبحاث المتحف الوطني اليوم ضمن المستوطنات بأكملها. [المصدر: whc.unesco.org](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي تحميه اليونسكو؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "أدرجت اليونسكو عام 2014 أربعة مواقع أثرية هي فينكا 6 وباتامبال وإل سيلينسيو وغريخالبا 2. ويشمل الإدراج المستوطنات السابقة لكولومبوس وعلاقتها بالكرات. وتزداد قيمة فينكا 6 لبقاء صفوف حجرية في مواضعها القديمة، فيما تبقى دلالاتها الدقيقة قيد البحث. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[مشيخات ديكيس](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: diquis.go.cr",
+        "url": "https://diquis.go.cr/en/linea-de-tiempo.html"
+      },
+      {
+        "label": "المصدر: www.celticnz.co.nz",
+        "url": "https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/uploads/nominations/1453.pdf"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1453/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل ثبت وجود الذهب داخل الكرات؟",
+        "answer": "لا يوجد تأكيد أثري موثوق، والحلي الذهبية المكتشفة قطع منفصلة."
+      },
+      {
+        "question": "متى أُدرجت المواقع على قائمة التراث العالمي؟",
+        "answer": "أدرجت اليونسكو المجموعة المؤلفة من أربعة مواقع عام 2014."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/",
+    "path": "/es/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "Las Bolas: las esferas de Costa Rica y la búsqueda del oro oculto",
+    "seoTitle": "Las Bolas de Costa Rica: esferas de piedra y rumores de oro",
+    "description": "Las plantaciones bananeras dejaron al descubierto esferas antiguas en el delta del Diquís. Según los relatos, un rumor sobre oro oculto provocó la destrucción de algunas.",
+    "excerpt": "Las plantaciones bananeras dejaron al descubierto esferas antiguas en el delta del Diquís. Según los relatos, un rumor sobre oro oculto provocó la destrucción de algunas.",
+    "headlineHighlights": {
+      "red": "Las Bolas",
+      "gold": "oro oculto"
+    },
+    "keywords": [
+      "Las Bolas",
+      "oro oculto"
+    ],
+    "searchIntent": "Las plantaciones bananeras dejaron al descubierto esferas antiguas en el delta del Diquís. Según los relatos, un rumor sobre oro oculto provocó la destrucción de algunas.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/las-bolas-diquis-stone-sphere-excavation-illustration.jpg",
+      "alt": "Ilustración de una excavación alrededor de una gran esfera costarricense",
+      "width": 1280,
+      "height": 715
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "A finales de los años treinta, trabajadores que preparaban terrenos para plantaciones bananeras descubrieron esferas de piedra en el delta del Diquís, al sur de Costa Rica. Algunas llevaban siglos bajo sedimentos de la llanura aluvial. Las obras les dieron notoriedad y pusieron en peligro los lugares donde habían permanecido. [Fuente: diquis.go.cr](https://diquis.go.cr/en/linea-de-tiempo.html)"
+      },
+      {
+        "type": "heading",
+        "text": "El rumor del oro dentro de las esferas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Relatos basados en los primeros registros describen a buscadores de tesoros que volaron al menos una esfera con explosivos, descritos habitualmente como dinamita, tras oír que contenía oro. Se desconoce cuántas fueron destruidas de esa manera. En la región sí se han encontrado objetos de oro, un hallazgo distinto que no convierte a las esferas en recipientes. [Fuente: www.celticnz.co.nz](https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "Lo que se pierde al mover una esfera"
+      },
+      {
+        "type": "paragraph",
+        "text": "La destrucción fue solo una forma de perder información. Una esfera trasladada a un jardín aún puede medirse, pero su alineación original y su relación con una plataforma doméstica o una plaza pueden volverse imposibles de reconstruir. Una pieza en su lugar aporta así más que un ejemplar aislado de superficie perfecta. [Fuente: whc.unesco.org](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "De la plantación a la arqueología"
+      },
+      {
+        "type": "paragraph",
+        "text": "Doris Stone registró grupos y publicó sus investigaciones iniciales en 1943. Samuel Lothrop trabajó en el delta en 1948 y publicó un estudio más amplio en 1963. Sus registros conservan alineaciones y ubicaciones que los movimientos de tierra y el coleccionismo a veces borraron. El Museo Nacional estudia hoy las esculturas en el contexto de los poblados completos. [Fuente: whc.unesco.org](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué protege la UNESCO"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2014 la UNESCO inscribió cuatro sitios arqueológicos: Finca 6, Batambal, El Silencio y Grijalba-2. La inscripción abarca los asentamientos precolombinos y su relación con las esferas. Finca 6 conserva alineaciones en sus ubicaciones originales. Su significado preciso sigue abierto a la investigación. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Cacicazgos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: diquis.go.cr",
+        "url": "https://diquis.go.cr/en/linea-de-tiempo.html"
+      },
+      {
+        "label": "Fuente: www.celticnz.co.nz",
+        "url": "https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/uploads/nominations/1453.pdf"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1453/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Se confirmó que hubiera oro dentro de las esferas?",
+        "answer": "No hay confirmación arqueológica fiable. Los adornos de oro son hallazgos distintos."
+      },
+      {
+        "question": "¿Cuándo se inscribieron los sitios?",
+        "answer": "La UNESCO inscribió el conjunto de cuatro sitios en 2014."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/",
+    "path": "/fr/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "Las Bolas : les sphères du Costa Rica et la chasse à l’or caché",
+    "seoTitle": "Las Bolas : les sphères du Costa Rica et la rumeur de l’or",
+    "description": "Des travaux dans les bananeraies ont révélé les sphères du delta du Diquís. Une rumeur d’or caché aurait entraîné la destruction de certaines d’entre elles.",
+    "excerpt": "Des travaux dans les bananeraies ont révélé les sphères du delta du Diquís. Une rumeur d’or caché aurait entraîné la destruction de certaines d’entre elles.",
+    "headlineHighlights": {
+      "red": "Las Bolas",
+      "gold": "l’or caché"
+    },
+    "keywords": [
+      "Las Bolas",
+      "l’or caché"
+    ],
+    "searchIntent": "Des travaux dans les bananeraies ont révélé les sphères du delta du Diquís. Une rumeur d’or caché aurait entraîné la destruction de certaines d’entre elles.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/las-bolas-diquis-stone-sphere-excavation-illustration.jpg",
+      "alt": "Illustration d’une fouille autour d’une grande sphère de pierre du Costa Rica",
+      "width": 1280,
+      "height": 715
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "À la fin des années 1930, des ouvriers qui préparaient des terrains pour les bananeraies ont dégagé des sphères de pierre dans le delta du Diquís, au sud du Costa Rica. Certaines étaient enfouies depuis longtemps sous les sédiments. Les travaux les ont fait connaître tout en menaçant les lieux où elles se trouvaient depuis des siècles. [Source: diquis.go.cr](https://diquis.go.cr/en/linea-de-tiempo.html)"
+      },
+      {
+        "type": "heading",
+        "text": "La rumeur de l’or caché"
+      },
+      {
+        "type": "paragraph",
+        "text": "Des récits fondés sur les premiers relevés décrivent des chercheurs de trésors faisant exploser au moins une sphère, selon des récits qui évoquent la dynamite,, persuadés qu’elle cachait de l’or. Le nombre de sphères ainsi détruites reste inconnu. Des objets en or ont bien été retrouvés dans la région, où ils constituent une découverte distincte des sphères. [Source: www.celticnz.co.nz](https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce que coûte le déplacement d’une sphère"
+      },
+      {
+        "type": "paragraph",
+        "text": "La destruction n’était qu’une façon de perdre des indices. On peut mesurer une sphère déplacée dans un jardin, mais son alignement et son rapport avec une terrasse d’habitation ou une place peuvent devenir impossibles à restituer. Une sphère restée en place dit donc davantage qu’un spécimen isolé à la surface parfaite. [Source: whc.unesco.org](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Des bananeraies à l’archéologie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Doris Stone a relevé des groupes de sphères et publié ses recherches en 1943. Samuel Lothrop a travaillé dans le delta en 1948 et publié une étude plus complète en 1963. Leurs relevés conservent des alignements et des emplacements parfois effacés par les réaménagements et les déplacements. Les recherches du Musée national replacent depuis les sculptures dans l’ensemble des villages. [Source: whc.unesco.org](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que protège l’UNESCO"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’UNESCO a inscrit en 2014 quatre sites archéologiques : Finca 6, Batambal, El Silencio et Grijalba-2. L’inscription couvre les établissements précolombiens et les liens entre ceux-ci et les sphères. Finca 6 est particulièrement précieux car des alignements y subsistent à leur emplacement ancien. Leur signification précise reste à étudier. [Source: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Chefferies du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: diquis.go.cr",
+        "url": "https://diquis.go.cr/en/linea-de-tiempo.html"
+      },
+      {
+        "label": "Source: www.celticnz.co.nz",
+        "url": "https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/uploads/nominations/1453.pdf"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1453/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "A-t-on confirmé la présence d’or dans les sphères ?",
+        "answer": "Aucune preuve archéologique fiable ne la confirme. Les ornements en or sont des découvertes distinctes."
+      },
+      {
+        "question": "Quand les sites ont-ils été inscrits ?",
+        "answer": "L’UNESCO a inscrit le bien composé de quatre sites en 2014."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/lebron-james-science-basketball-longevity/",
     "path": "/ar/articles/lebron-james-science-basketball-longevity/",
     "kind": "article",
@@ -275524,6 +276166,381 @@
       {
         "label": "Page Six : reportage original sur le trafic du 9 octobre",
         "url": "https://pagesix.com/2026/10/09/celebrity-news/megan-fox-launches-exclusive-paid-content-site-with-onlyfans-founder-see-the-steamy-new-images-for-subs/"
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/mesopotamia-sumer-akkad-babylon-assyria-history/",
+    "path": "/ar/articles/mesopotamia-sumer-akkad-babylon-assyria-history/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "بلاد الرافدين: مهد حضارة بين نهرين",
+    "seoTitle": "بلاد الرافدين: سومر وأكد وبابل وآشور",
+    "description": "تتبّع سومر وأكد وبابل وآشور من نشأة المدن وسجلات الطين إلى الإمبراطوريات والمكتبات وإرثها.",
+    "excerpt": "تتبّع سومر وأكد وبابل وآشور من نشأة المدن وسجلات الطين إلى الإمبراطوريات والمكتبات وإرثها.",
+    "headlineHighlights": {
+      "red": "بلاد الرافدين",
+      "gold": "بين نهرين"
+    },
+    "keywords": [
+      "بلاد الرافدين",
+      "بين نهرين"
+    ],
+    "searchIntent": "تتبّع سومر وأكد وبابل وآشور من نشأة المدن وسجلات الطين إلى الإمبراطوريات والمكتبات وإرثها.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/mesopotamia-tigris-euphrates-ziggurat-editorial-illustration.jpg",
+      "alt": "مدينة متخيلة في بلاد الرافدين مع زقورة وقارب من القصب وشخصية منحوتة",
+      "width": 1280,
+      "height": 715
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "بلاد الرافدين هي المنطقة التاريخية لدجلة والفرات، ويقع معظمها في العراق الحالي وتمتد أجزاء منها إلى بلدان مجاورة. وربط النهران بين المستوطنات ودعما الزراعة. وعاشت في المنطقة مجتمعات متعددة اللغات على مدى آلاف السنين، وتُمثّل سومر وأكد وبابل وآشور محطات مختلفة في تاريخها. [المصدر: www.britishmuseum.org](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "سومر ونمو المدن"
+      },
+      {
+        "type": "paragraph",
+        "text": "نحو 3200 قبل الميلاد، ضمّت أوروك جنوب بلاد الرافدين مباني ضخمة من اللبن واتسعت إلى حجم قلّما بلغته المستوطنات آنذاك. وصارت أور ومدن جنوبية أخرى جزءاً من العالم السومري. واعتمدت المدن على المزارعين والصيادين والحرفيين والتجار. وساعدت القنوات والري على توزيع المياه، وأتاح الطين البناء وحفظ السجلات. [المصدر: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
+      },
+      {
+        "type": "subheading",
+        "text": "فيم استُخدمت الكتابة المبكرة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "سجلت الألواح الأولى الكميات والحصص والبضائع. ويجسّد سجل للشعير من أوروك حاجة مدينية عملية إلى معرفة ما خُزّن ومن حصل عليه. ومع الزمن أمكن للعلامات المسمارية تدوين لغات منها السومرية والأكدية. واستُخدمت الألواح في الحسابات والرسائل والسجلات القانونية والأدب. [المصدر: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
+      },
+      {
+        "type": "heading",
+        "text": "أكد وبابل"
+      },
+      {
+        "type": "paragraph",
+        "text": "في الألف الثالث قبل الميلاد، جمع سرجون الأكدي مدناً متعددة تحت حكم سلالة إمبراطورية. وانتشرت الأكدية في الإدارة مع استمرار التقاليد الكتابية السومرية. ولم يُحدد موقع العاصمة أكد على نحو قاطع، وتأتي معرفة الإمبراطورية من النقوش وبقايا مدن أخرى. [المصدر: www.metmuseum.org](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities)"
+      },
+      {
+        "type": "paragraph",
+        "text": "برزت بابل في عهد حمورابي في القرن الثامن عشر قبل الميلاد. وتكشف مجموعة القوانين المنقوشة تصوّرات الحكم للعدالة والمكانة الاجتماعية والمعاملات. وعادت بابل مركزاً إمبراطورياً في عهد الملوك البابليين الجدد، ومنهم نبوخذنصر الثاني الذي أعاد بناءها على نطاق ضخم. [المصدر: www.metmuseum.org](https://www.metmuseum.org/de/essays/babylon)"
+      },
+      {
+        "type": "heading",
+        "text": "آشور والمكتبات وإرث النهرين"
+      },
+      {
+        "type": "paragraph",
+        "text": "نشأت آشور في شمال بلاد الرافدين واتسعت حتى أصبحت إمبراطورية. وتبدلت عواصمها وسقطت نينوى عام 612 قبل الميلاد. وظلت بابل مركزاً للسلطة إلى أن دخلها كورش عام 539 قبل الميلاد. وتؤرخ هذه التواريخ تحوّلات سياسية، فيما استمر عمل الكتبة والمعابد وتداول المعرفة في ظل حكّام جدد. [المصدر: 82nd-and-fifth.metmuseum.org](https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تبيّن ألواح مكتبة آشور بانيبال في نينوى اتساع أعمال الجمع والنسخ. وهي جزء من إرث يشمل الأدب وممارسات متقدمة في الرياضيات والفلك. واكتسبت بلاد الرافدين صفتها مهداً للحضارة من اجتماع الحياة المدينية المبكرة والسجلات المكتوبة والمؤسسات التي نقلت المعرفة بين الأجيال. [المصدر: www.britishmuseum.org](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يسجل لوح بابلي يعرف باسم بليمبتون 322 أعداداً بالنظام الستيني. وهو شاهد على ابتكار أقل ظهوراً من الزقورة، إذ تتغيّر قيمة العلامة بحسب موضعها. وتحفظ هذه الألواح عمل الكتبة المتخصصين في الحساب إلى جانب آثار الملوك. [المصدر: www.si.edu](https://www.si.edu/object/nmah_690811)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[المدن السومرية](/articles/sumerians-first-cities-cuneiform-civilization/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.britishmuseum.org",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf"
+      },
+      {
+        "label": "المصدر: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/es/essays/uruk-the-first-city"
+      },
+      {
+        "label": "المصدر: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities"
+      },
+      {
+        "label": "المصدر: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/de/essays/babylon"
+      },
+      {
+        "label": "المصدر: 82nd-and-fifth.metmuseum.org",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html"
+      },
+      {
+        "label": "المصدر: www.si.edu",
+        "url": "https://www.si.edu/object/nmah_690811"
+      }
+    ],
+    "faq": [
+      {
+        "question": "ما النهران اللذان تقوم حولهما بلاد الرافدين؟",
+        "answer": "دجلة والفرات هما نهراها الرئيسيان."
+      },
+      {
+        "question": "هل كانت بلاد الرافدين إمبراطورية واحدة؟",
+        "answer": "كانت منطقة تاريخية ضمت مجتمعات ودولاً عديدة، منها إمبراطوريات أكد وآشور وبابل في أزمنة مختلفة."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/mesopotamia-sumer-akkad-babylon-assyria-history/",
+    "path": "/es/articles/mesopotamia-sumer-akkad-babylon-assyria-history/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "Mesopotamia: una cuna de la civilización entre dos ríos",
+    "seoTitle": "Mesopotamia: Sumer, Acad, Babilonia y Asiria",
+    "description": "Sigue a Sumer, Acad, Babilonia y Asiria desde las primeras ciudades y cuentas en arcilla hasta los imperios, las bibliotecas y su legado.",
+    "excerpt": "Sigue a Sumer, Acad, Babilonia y Asiria desde las primeras ciudades y cuentas en arcilla hasta los imperios, las bibliotecas y su legado.",
+    "headlineHighlights": {
+      "red": "Mesopotamia",
+      "gold": "dos ríos"
+    },
+    "keywords": [
+      "Mesopotamia",
+      "dos ríos"
+    ],
+    "searchIntent": "Sigue a Sumer, Acad, Babilonia y Asiria desde las primeras ciudades y cuentas en arcilla hasta los imperios, las bibliotecas y su legado.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/mesopotamia-tigris-euphrates-ziggurat-editorial-illustration.jpg",
+      "alt": "Ciudad fluvial mesopotámica imaginada con un zigurat, una barca de juncos y una figura tallada",
+      "width": 1280,
+      "height": 715
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Mesopotamia es la región histórica del Tigris y el Éufrates. Se sitúa en gran parte en el actual Irak y se extiende por países vecinos. Los ríos unían poblados y sostenían la agricultura. Sus tierras acogieron sociedades y lenguas diversas durante milenios. Sumer, Acad, Babilonia y Asiria marcan etapas y zonas distintas de esa historia. [Fuente: www.britishmuseum.org](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Sumer y el crecimiento urbano"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hacia 3200 a. C., Uruk, al sur, tenía edificios monumentales de adobe y un tamaño poco común. Ur y otras ciudades meridionales formaron parte del mundo sumerio. Las ciudades dependían de agricultores, pescadores, artesanos y comerciantes. Los canales y el riego distribuían el agua. La arcilla servía para construir y conservar registros. [Fuente: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
+      },
+      {
+        "type": "subheading",
+        "text": "Para qué se usaba la escritura temprana"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las primeras tablillas registraban cantidades, raciones y productos. Una cuenta de cebada de Uruk ilustra una necesidad práctica: saber qué se almacenaba y quién lo recibía. Con el tiempo, los signos cuneiformes sirvieron para escribir sumerio y acadio, entre otras lenguas. Las tablillas recogieron cuentas, cartas, documentos jurídicos y literatura. [Fuente: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
+      },
+      {
+        "type": "heading",
+        "text": "Acad y Babilonia"
+      },
+      {
+        "type": "paragraph",
+        "text": "En el tercer milenio a. C., Sargón de Acad reunió varias ciudades bajo una dinastía imperial. El acadio se difundió en la administración y perduraron las tradiciones escritas sumerias. La capital, Agadé, aún no se ha localizado con certeza. Las inscripciones y los restos de otras ciudades permiten estudiar el imperio. [Fuente: www.metmuseum.org](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Babilonia cobró relevancia bajo Hammurabi en el siglo XVIII a. C. Su colección de leyes inscrita muestra ideas regias sobre justicia, posición social y transacciones. La ciudad recuperó su papel imperial con los reyes neobabilónicos, entre ellos Nabucodonosor II, que la reconstruyó a escala monumental. [Fuente: www.metmuseum.org](https://www.metmuseum.org/de/essays/babylon)"
+      },
+      {
+        "type": "heading",
+        "text": "Asiria, las bibliotecas y el legado de los ríos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Asiria creció desde el norte hasta convertirse en un imperio. Cambió de capital y Nínive cayó en 612 a. C. Babilonia fue un centro de poder hasta que Ciro la tomó en 539 a. C. Son hitos políticos. El trabajo de los escribas, la vida de los templos y la circulación del conocimiento continuaron bajo nuevos gobernantes. [Fuente: 82nd-and-fifth.metmuseum.org](https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las tablillas de la biblioteca de Asurbanipal en Nínive muestran la escala de la recopilación y la copia. Forman parte de un legado de literatura y prácticas elaboradas de matemáticas y astronomía. Mesopotamia debe su fama de cuna de la civilización a la combinación de vida urbana temprana, escritura e instituciones que transmitieron conocimientos. [Fuente: www.britishmuseum.org](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La tablilla babilónica Plimpton 322 registra números en base 60. Es una muestra de una invención menos visible que un zigurat, una notación en la que la posición de un signo cambia su valor. Estas tablillas preservan el trabajo de los escribas matemáticos junto a los monumentos de los reyes. [Fuente: www.si.edu](https://www.si.edu/object/nmah_690811)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Las ciudades sumerias](/articles/sumerians-first-cities-cuneiform-civilization/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.britishmuseum.org",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf"
+      },
+      {
+        "label": "Fuente: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/es/essays/uruk-the-first-city"
+      },
+      {
+        "label": "Fuente: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities"
+      },
+      {
+        "label": "Fuente: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/de/essays/babylon"
+      },
+      {
+        "label": "Fuente: 82nd-and-fifth.metmuseum.org",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html"
+      },
+      {
+        "label": "Fuente: www.si.edu",
+        "url": "https://www.si.edu/object/nmah_690811"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Qué ríos definen Mesopotamia?",
+        "answer": "Sus ríos principales son el Tigris y el Éufrates."
+      },
+      {
+        "question": "¿Mesopotamia fue un solo imperio?",
+        "answer": "Fue una región con muchas sociedades y Estados, entre ellos los imperios acadio, asirio y babilonio en épocas distintas."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/mesopotamia-sumer-akkad-babylon-assyria-history/",
+    "path": "/fr/articles/mesopotamia-sumer-akkad-babylon-assyria-history/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "La Mésopotamie : un berceau de civilisation entre deux fleuves",
+    "seoTitle": "Mésopotamie : Sumer, Akkad, Babylone et Assyrie",
+    "description": "De Sumer à l’Assyrie, en passant par Akkad et Babylone, découvrez les premières villes, les tablettes, les empires et leur héritage.",
+    "excerpt": "De Sumer à l’Assyrie, en passant par Akkad et Babylone, découvrez les premières villes, les tablettes, les empires et leur héritage.",
+    "headlineHighlights": {
+      "red": "Mésopotamie",
+      "gold": "deux fleuves"
+    },
+    "keywords": [
+      "Mésopotamie",
+      "deux fleuves"
+    ],
+    "searchIntent": "De Sumer à l’Assyrie, en passant par Akkad et Babylone, découvrez les premières villes, les tablettes, les empires et leur héritage.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/mesopotamia-tigris-euphrates-ziggurat-editorial-illustration.jpg",
+      "alt": "Cité fluviale mésopotamienne imaginée avec une ziggourat, une barque de roseaux et une figure sculptée",
+      "width": 1280,
+      "height": 715
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La Mésopotamie est la région historique du Tigre et de l’Euphrate, située en grande partie dans l’Irak actuel et prolongée dans les pays voisins. Les fleuves reliaient les agglomérations et soutenaient l’agriculture. Leurs vallées ont abrité des sociétés et des langues diverses au fil des millénaires. Sumer, Akkad, Babylone et l’Assyrie en jalonnent l’histoire. [Source: www.britishmuseum.org](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Sumer et l’essor des villes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vers 3200 avant notre ère, Uruk, dans le sud, possédait des bâtiments monumentaux en briques crues et atteignait une taille rare. Ur et d’autres cités méridionales ont ensuite fait partie du monde sumérien. Les villes dépendaient des agriculteurs, pêcheurs, artisans et marchands. Canaux et irrigation répartissaient l’eau. L’argile servait à bâtir et à conserver des informations. [Source: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
+      },
+      {
+        "type": "subheading",
+        "text": "À quoi servait la première écriture"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les premières tablettes consignaient quantités, rations et marchandises. Un compte d’orge d’Uruk illustre une tâche essentielle : savoir ce qui était stocké et à qui cela revenait. Avec le temps, les signes cunéiformes ont servi à écrire le sumérien et l’akkadien, entre autres. Les tablettes ont accueilli comptes, lettres, actes juridiques et littérature. [Source: www.metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city)"
+      },
+      {
+        "type": "heading",
+        "text": "Akkad et Babylone"
+      },
+      {
+        "type": "paragraph",
+        "text": "Au IIIe millénaire avant notre ère, Sargon d’Akkad a réuni plusieurs cités sous une dynastie impériale. L’akkadien s’est diffusé dans l’administration, tandis que les traditions scribales sumériennes ont perduré. L’emplacement d’Agadé reste incertain. Les inscriptions et les vestiges d’autres villes donnent accès à l’empire. [Source: www.metmuseum.org](https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Babylone a pris de l’importance sous Hammurabi au XVIIIe siècle avant notre ère. Le recueil de lois inscrit à son nom éclaire la conception royale de la justice, les statuts sociaux et les transactions. La ville a retrouvé une place impériale sous les rois néo-babyloniens, dont Nabuchodonosor II, qui l’a reconstruite à une échelle monumentale. [Source: www.metmuseum.org](https://www.metmuseum.org/de/essays/babylon)"
+      },
+      {
+        "type": "heading",
+        "text": "L’Assyrie, ses bibliothèques et l’héritage des fleuves"
+      },
+      {
+        "type": "paragraph",
+        "text": "Issue du nord mésopotamien, l’Assyrie est devenue un empire et a changé de capitale au fil du temps. Ninive est tombée en 612 avant notre ère. Babylone est restée un centre de pouvoir jusqu’à la prise de la ville par Cyrus en 539. Ces dates marquent des tournants politiques, tandis que scribes, temples et savoirs traversaient les changements de régime. [Source: 82nd-and-fifth.metmuseum.org](https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les tablettes de la bibliothèque d’Assurbanipal à Ninive montrent l’ampleur de la collecte et de la copie. Elles appartiennent à un héritage qui comprend la littérature et des pratiques élaborées en mathématiques et en astronomie. La Mésopotamie doit sa réputation de berceau de civilisation à la combinaison de villes précoces, d’archives écrites et d’institutions transmettant les savoirs. [Source: www.britishmuseum.org](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La tablette babylonienne Plimpton 322 conserve des nombres en base 60. Elle témoigne d’une invention moins visible qu’une ziggourat, une notation où la position d’un signe en change la valeur. Ces tablettes gardent la trace des scribes mathématiciens aux côtés des monuments des rois. [Source: www.si.edu](https://www.si.edu/object/nmah_690811)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Les cités sumériennes](/articles/sumerians-first-cities-cuneiform-civilization/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.britishmuseum.org",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf"
+      },
+      {
+        "label": "Source: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/es/essays/uruk-the-first-city"
+      },
+      {
+        "label": "Source: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2003/art-of-the-first-cities"
+      },
+      {
+        "label": "Source: www.metmuseum.org",
+        "url": "https://www.metmuseum.org/de/essays/babylon"
+      },
+      {
+        "label": "Source: 82nd-and-fifth.metmuseum.org",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html"
+      },
+      {
+        "label": "Source: www.si.edu",
+        "url": "https://www.si.edu/object/nmah_690811"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quels fleuves définissent la Mésopotamie ?",
+        "answer": "Ses principaux fleuves sont le Tigre et l’Euphrate."
+      },
+      {
+        "question": "La Mésopotamie était-elle un seul empire ?",
+        "answer": "C’était une région où se sont succédé de nombreux États, dont les empires d’Akkad, d’Assyrie et de Babylone."
       }
     ]
   },
@@ -412809,6 +413826,561 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/unesco-world-heritage-archaeological-sites/",
+    "path": "/ar/articles/unesco-world-heritage-archaeological-sites/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "التراث العالمي لليونسكو: تسعة مواقع أثرية تروي قصصاً مختلفة",
+    "seoTitle": "9 مواقع أثرية على قائمة التراث العالمي لليونسكو",
+    "description": "من أهرام الجيزة إلى رابا نوي، تعرّف إلى تسعة مواقع مدرجة وما بقي فيها وما يشمله تصنيف اليونسكو.",
+    "excerpt": "من أهرام الجيزة إلى رابا نوي، تعرّف إلى تسعة مواقع مدرجة وما بقي فيها وما يشمله تصنيف اليونسكو.",
+    "headlineHighlights": {
+      "red": "التراث العالمي لليونسكو",
+      "gold": "مواقع أثرية"
+    },
+    "keywords": [
+      "التراث العالمي لليونسكو",
+      "مواقع أثرية"
+    ],
+    "searchIntent": "من أهرام الجيزة إلى رابا نوي، تعرّف إلى تسعة مواقع مدرجة وما بقي فيها وما يشمله تصنيف اليونسكو.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/unesco-world-heritage-archaeological-sites-editorial-montage.jpg",
+      "alt": "مونتاج تحريري لمواقع أثرية حول اسم اليونسكو",
+      "width": 1280,
+      "height": 715
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "يعترف الإدراج بالقيمة العالمية الاستثنائية للموقع ويرتبط بصونه. ولا ترتّب اليونسكو المواقع بحسب أهميتها. وتوضح الأمثلة ما يمكن أن يكشفه علم الآثار من المقابر الملكية والشوارع والأسوار والمشاهد المرتبطة بالمراسم. [المصدر: whc.unesco.org](https://whc.unesco.org/en/criteria/)"
+      },
+      {
+        "type": "heading",
+        "text": "أفريقيا"
+      },
+      {
+        "type": "subheading",
+        "text": "أهرام الجيزة، مصر"
+      },
+      {
+        "type": "paragraph",
+        "text": "تندرج أهرام الجيزة وأبو الهول ضمن موقع ممفيس ومقبرتها الأوسع، المدرج عام 1979. وتحفظ مقابر الموقع ومعابده وأهرامه نماذج من العمارة الجنائزية المصرية القديمة تتجاوز المعالم الأشهر. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/86/)"
+      },
+      {
+        "type": "subheading",
+        "text": "زيمبابوي الكبرى، زيمبابوي"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشهد الجدران المبنية بالحجارة الجافة قرب ماسفينغو على مركز للسلطة والتجارة في العصور الوسطى، شيده أسلاف جماعات ناطقة بالشونا. أُدرج المعلم الوطني عام 1986. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/364/)"
+      },
+      {
+        "type": "heading",
+        "text": "غرب آسيا وأوروبا"
+      },
+      {
+        "type": "subheading",
+        "text": "البتراء، الأردن"
+      },
+      {
+        "type": "paragraph",
+        "text": "ازدهرت المدينة النبطية في جنوب الأردن على طرق القوافل. وواجهاتها المحفورة في الصخر أشهر معالم مدينة طوّرت أيضاً وسائل لتخزين المياه وتوزيعها. أُدرجت عام 1985. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/326/)"
+      },
+      {
+        "type": "subheading",
+        "text": "غوبكلي تبه، تركيا"
+      },
+      {
+        "type": "paragraph",
+        "text": "قرب شانلي أورفا، تحدد أعمدة منحوتة على هيئة حرف T حدود منشآت ضخمة من العصر الحجري الحديث قبل الفخار. ويشهد حجمها على قدرة المجتمعات المبكرة على تنظيم أعمال بناء واسعة. أُدرج الموقع عام 2018. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/1572/)"
+      },
+      {
+        "type": "subheading",
+        "text": "الكولوسيوم، إيطاليا"
+      },
+      {
+        "type": "paragraph",
+        "text": "يندرج المدرج الروماني ضمن المركز التاريخي لروما، المدرج لأول مرة عام 1980. وتربط الحدود الأوسع المدرج ببقايا الحياة العامة القديمة وبالمدينة التي نمت حولها. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/91/)"
+      },
+      {
+        "type": "heading",
+        "text": "شرق آسيا وجنوب شرقها"
+      },
+      {
+        "type": "subheading",
+        "text": "سور الصين العظيم، الصين"
+      },
+      {
+        "type": "paragraph",
+        "text": "تطورت التحصينات شمال الصين على مراحل في عهود سلالات مختلفة. وتشكّل الأسوار والممرات وأبراج المراقبة منظومة ممتدة ذات تاريخ بناء طويل. أُدرجت عام 1987. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/438/)"
+      },
+      {
+        "type": "subheading",
+        "text": "أنغكور، كمبوديا"
+      },
+      {
+        "type": "paragraph",
+        "text": "تضم أنغكور قرب سييم ريب معبد أنغكور وات والبايون وبقايا عدة عواصم لإمبراطورية الخمير. ويساعد المشهد المحيط بالمعابد على إدراك حجم تلك المدن. أُدرج الموقع عام 1992. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/668/)"
+      },
+      {
+        "type": "heading",
+        "text": "الأنديز والمحيط الهادئ"
+      },
+      {
+        "type": "subheading",
+        "text": "ماتشو بيتشو، بيرو"
+      },
+      {
+        "type": "paragraph",
+        "text": "يربط المجمع الإنكي فوق نهر أوروبامبا بين المصاطب والبناء الحجري ومنحدرات الأنديز. وأُدرج المحمى عام 1983 موقعاً مختلطاً ثقافياً وطبيعياً، لأهمية المنشآت والبيئة الجبلية معاً. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/274/)"
+      },
+      {
+        "type": "subheading",
+        "text": "منتزه رابا نوي الوطني، تشيلي"
+      },
+      {
+        "type": "paragraph",
+        "text": "على هذه الجزيرة البولينيزية في جنوب شرق المحيط الهادئ، تندرج تماثيل المواي ضمن مشهد يضم منصات للمراسم وأماكن للنحت. أُدرج المنتزه عام 1995. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/715/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[مشيخات ديكيس](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/criteria/"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/86/"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/364/"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/326/"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1572/"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/91/"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/438/"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/668/"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/274/"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/715/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل ترتّب اليونسكو المواقع الأثرية بحسب أهميتها؟",
+        "answer": "لا. تدرج اللجنة المواقع وفق معايير القيمة العالمية الاستثنائية."
+      },
+      {
+        "question": "هل الكولوسيوم موقع منفصل في القائمة؟",
+        "answer": "إنه جزء من موقع المركز التاريخي لروما."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/unesco-world-heritage-archaeological-sites/",
+    "path": "/es/articles/unesco-world-heritage-archaeological-sites/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "Patrimonio Mundial de la UNESCO: nueve sitios arqueológicos y sus historias",
+    "seoTitle": "9 sitios arqueológicos del Patrimonio Mundial de la UNESCO",
+    "description": "De las pirámides de Guiza a Rapa Nui, descubre dónde están nueve lugares inscritos, qué conservan y qué abarca la designación.",
+    "excerpt": "De las pirámides de Guiza a Rapa Nui, descubre dónde están nueve lugares inscritos, qué conservan y qué abarca la designación.",
+    "headlineHighlights": {
+      "red": "Patrimonio Mundial de la UNESCO",
+      "gold": "sitios arqueológicos"
+    },
+    "keywords": [
+      "Patrimonio Mundial de la UNESCO",
+      "sitios arqueológicos"
+    ],
+    "searchIntent": "De las pirámides de Guiza a Rapa Nui, descubre dónde están nueve lugares inscritos, qué conservan y qué abarca la designación.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/unesco-world-heritage-archaeological-sites-editorial-montage.jpg",
+      "alt": "Montaje editorial de sitios arqueológicos alrededor del nombre de la UNESCO",
+      "width": 1280,
+      "height": 715
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La inscripción reconoce el valor universal excepcional de un bien y está vinculada a su conservación. La UNESCO no establece una clasificación. Los ejemplos muestran qué puede recuperar la arqueología de tumbas reales, calles, murallas y paisajes ceremoniales. [Fuente: whc.unesco.org](https://whc.unesco.org/en/criteria/)"
+      },
+      {
+        "type": "heading",
+        "text": "África"
+      },
+      {
+        "type": "subheading",
+        "text": "Las pirámides de Guiza, Egipto"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las pirámides y la Esfinge de Guiza forman parte del conjunto más amplio de Menfis y su necrópolis, inscrito en 1979. Sus tumbas, templos y pirámides conservan la arquitectura funeraria egipcia más allá de su silueta más conocida. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/86/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Gran Zimbabue, Zimbabue"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los muros de piedra seca cerca de Masvingo testimonian un centro medieval de poder y comercio construido por antepasados de comunidades de lengua shona. El monumento nacional fue inscrito en 1986. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/364/)"
+      },
+      {
+        "type": "heading",
+        "text": "Asia occidental y Europa"
+      },
+      {
+        "type": "subheading",
+        "text": "Petra, Jordania"
+      },
+      {
+        "type": "paragraph",
+        "text": "La ciudad nabatea del sur de Jordania prosperó en las rutas caravaneras. Sus fachadas excavadas son la parte más visible de una ciudad que también diseñó sistemas para almacenar y distribuir agua. Inscrita en 1985. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/326/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Göbekli Tepe, Turquía"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cerca de Şanlıurfa, pilares tallados en forma de T delimitan recintos monumentales del Neolítico precerámico. Su escala muestra que comunidades muy tempranas podían organizar grandes obras. Inscrito en 2018. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/1572/)"
+      },
+      {
+        "type": "subheading",
+        "text": "El Coliseo, Italia"
+      },
+      {
+        "type": "paragraph",
+        "text": "El anfiteatro forma parte del centro histórico de Roma, inscrito por primera vez en 1980. El perímetro lo conecta con otros vestigios de la vida pública antigua y con la ciudad que creció a su alrededor. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/91/)"
+      },
+      {
+        "type": "heading",
+        "text": "Asia oriental y sudoriental"
+      },
+      {
+        "type": "subheading",
+        "text": "La Gran Muralla, China"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las defensas del norte de China crecieron por etapas bajo distintas dinastías. Muros, pasos y torres forman un sistema disperso con una larga historia constructiva. Inscrito en 1987. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/438/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Angkor, Camboya"
+      },
+      {
+        "type": "paragraph",
+        "text": "Junto a Siem Reap, Angkor reúne Angkor Wat, el Bayón y los restos de varias capitales del Imperio jemer. El paisaje que rodea los templos permite comprender la extensión de esas ciudades. Inscrito en 1992. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/668/)"
+      },
+      {
+        "type": "heading",
+        "text": "Los Andes y el Pacífico"
+      },
+      {
+        "type": "subheading",
+        "text": "Machu Picchu, Perú"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sobre el Urubamba, el conjunto inca integra terrazas y cantería en las laderas andinas. El santuario fue inscrito en 1983 como bien mixto cultural y natural por el valor de sus construcciones y del entorno montañoso. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/274/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Parque Nacional Rapa Nui, Chile"
+      },
+      {
+        "type": "paragraph",
+        "text": "En esta isla polinesia del Pacífico sudoriental, los moáis pertenecen a un paisaje de plataformas ceremoniales y lugares de producción. El parque fue inscrito en 1995. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/715/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Cacicazgos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/criteria/"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/86/"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/364/"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/326/"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1572/"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/91/"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/438/"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/668/"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/274/"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/715/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿La UNESCO ordena los sitios por importancia?",
+        "answer": "No. El Comité los inscribe según criterios de valor universal excepcional."
+      },
+      {
+        "question": "¿El Coliseo es un bien independiente?",
+        "answer": "Forma parte del bien del centro histórico de Roma."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/unesco-world-heritage-archaeological-sites/",
+    "path": "/fr/articles/unesco-world-heritage-archaeological-sites/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "Patrimoine mondial de l’UNESCO : neuf sites archéologiques et leurs histoires",
+    "seoTitle": "9 sites archéologiques du patrimoine mondial de l’UNESCO",
+    "description": "Des pyramides de Gizeh à Rapa Nui, découvrez où se trouvent neuf sites inscrits, ce qu’ils préservent et ce que couvre le classement.",
+    "excerpt": "Des pyramides de Gizeh à Rapa Nui, découvrez où se trouvent neuf sites inscrits, ce qu’ils préservent et ce que couvre le classement.",
+    "headlineHighlights": {
+      "red": "Patrimoine mondial de l’UNESCO",
+      "gold": "sites archéologiques"
+    },
+    "keywords": [
+      "Patrimoine mondial de l’UNESCO",
+      "sites archéologiques"
+    ],
+    "searchIntent": "Des pyramides de Gizeh à Rapa Nui, découvrez où se trouvent neuf sites inscrits, ce qu’ils préservent et ce que couvre le classement.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/unesco-world-heritage-archaeological-sites-editorial-montage.jpg",
+      "alt": "Montage éditorial de sites archéologiques autour du nom de l’UNESCO",
+      "width": 1280,
+      "height": 715
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Le classement reconnaît la valeur universelle exceptionnelle d’un bien et engage sa conservation. L’UNESCO ne hiérarchise pas les biens. Les exemples qui suivent montrent ce que l’archéologie retrouve dans les tombes royales, les rues, les murs et les paysages cérémoniels. [Source: whc.unesco.org](https://whc.unesco.org/en/criteria/)"
+      },
+      {
+        "type": "heading",
+        "text": "Afrique"
+      },
+      {
+        "type": "subheading",
+        "text": "Les pyramides de Gizeh, Égypte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les pyramides et le Sphinx de Gizeh appartiennent au bien plus vaste de Memphis et de sa nécropole, inscrit en 1979. Ses tombeaux, temples et pyramides documentent l’architecture funéraire de l’Égypte ancienne au-delà de la silhouette la plus connue. [Source: whc.unesco.org](https://whc.unesco.org/en/list/86/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Grand Zimbabwe, Zimbabwe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Près de Masvingo, les murs de pierre sèche témoignent d’un centre médiéval de pouvoir et de commerce bâti par les ancêtres de populations de langue shona. Le monument national a été inscrit en 1986. [Source: whc.unesco.org](https://whc.unesco.org/en/list/364/)"
+      },
+      {
+        "type": "heading",
+        "text": "Asie occidentale et Europe"
+      },
+      {
+        "type": "subheading",
+        "text": "Pétra, Jordanie"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cité nabatéenne du sud de la Jordanie a prospéré grâce aux caravanes. Ses façades taillées dans la roche sont la partie la plus visible d’une ville qui maîtrisait aussi le stockage et la distribution de l’eau. Inscrite en 1985. [Source: whc.unesco.org](https://whc.unesco.org/en/list/326/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Göbekli Tepe, Turquie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Près de Şanlıurfa, des piliers sculptés en T délimitent des enceintes monumentales du Néolithique précéramique. Leur échelle témoigne d’une capacité à organiser tôt de grands chantiers. Le site a été inscrit en 2018. [Source: whc.unesco.org](https://whc.unesco.org/en/list/1572/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Le Colisée, Italie"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’amphithéâtre relève du bien du centre historique de Rome, inscrit pour la première fois en 1980. Le périmètre le relie à d’autres vestiges de la vie publique antique et à la ville qui s’est développée autour d’eux. [Source: whc.unesco.org](https://whc.unesco.org/en/list/91/)"
+      },
+      {
+        "type": "heading",
+        "text": "Asie de l’Est et du Sud-Est"
+      },
+      {
+        "type": "subheading",
+        "text": "La Grande Muraille, Chine"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les défenses du nord de la Chine se sont développées par étapes sous plusieurs dynasties. Murs, passes et tours de guet composent un ensemble dispersé dont la construction s’étend sur des siècles. Inscrit en 1987. [Source: whc.unesco.org](https://whc.unesco.org/en/list/438/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Angkor, Cambodge"
+      },
+      {
+        "type": "paragraph",
+        "text": "Près de Siem Reap, Angkor réunit Angkor Vat, le Bayon et les vestiges de plusieurs capitales de l’Empire khmer. Le paysage autour des temples aide à mesurer l’étendue de ces villes. Inscrit en 1992. [Source: whc.unesco.org](https://whc.unesco.org/en/list/668/)"
+      },
+      {
+        "type": "heading",
+        "text": "Les Andes et le Pacifique"
+      },
+      {
+        "type": "subheading",
+        "text": "Machu Picchu, Pérou"
+      },
+      {
+        "type": "paragraph",
+        "text": "Au-dessus de l’Urubamba, le complexe inca associe terrasses et maçonnerie aux pentes andines. Le sanctuaire a été inscrit en 1983 comme bien mixte, culturel et naturel, en raison de l’importance du site bâti et de son cadre montagneux. [Source: whc.unesco.org](https://whc.unesco.org/en/list/274/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Parc national de Rapa Nui, Chili"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sur cette île polynésienne du Pacifique sud-est, les moaï appartiennent à un paysage de plateformes cérémonielles et de lieux de production. Le parc a été inscrit en 1995. [Source: whc.unesco.org](https://whc.unesco.org/en/list/715/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Chefferies du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/criteria/"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/86/"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/364/"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/326/"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1572/"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/91/"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/438/"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/668/"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/274/"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/715/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "L’UNESCO classe-t-elle les sites par ordre d’importance ?",
+        "answer": "Non. Le Comité inscrit des biens selon des critères de valeur universelle exceptionnelle."
+      },
+      {
+        "question": "Le Colisée est-il inscrit séparément ?",
+        "answer": "Il fait partie du bien du centre historique de Rome."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/united-states-revolution-global-superpower/",
     "path": "/ar/articles/united-states-revolution-global-superpower/",
     "kind": "article",
@@ -440309,6 +441881,333 @@
       }
     ],
     "faq": []
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/wow-signal-1977-72-seconds-6equj5/",
+    "path": "/ar/articles/wow-signal-1977-72-seconds-6equj5/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "إشارة واو: 72 ثانية حيّرت علماء الفلك",
+    "seoTitle": "إشارة واو: معنى 6EQUJ5 والثواني الـ72",
+    "description": "في 1977 التقط مرصد «بيغ إير» إشارة ضيقة قرب خط الهيدروجين. سجلت الورقة ست قراءات للشدة، ولا يزال المصدر مجهولاً.",
+    "excerpt": "في 1977 التقط مرصد «بيغ إير» إشارة ضيقة قرب خط الهيدروجين. سجلت الورقة ست قراءات للشدة، ولا يزال المصدر مجهولاً.",
+    "headlineHighlights": {
+      "red": "إشارة واو",
+      "gold": "72 ثانية"
+    },
+    "keywords": [
+      "إشارة واو",
+      "72 ثانية"
+    ],
+    "searchIntent": "في 1977 التقط مرصد «بيغ إير» إشارة ضيقة قرب خط الهيدروجين. سجلت الورقة ست قراءات للشدة، ولا يزال المصدر مجهولاً.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/wow-signal-6equj5-radio-telescope-illustration.jpg",
+      "alt": "رسم لهوائي راديو وإعادة تمثيل لورقة إشارة واو التي تحمل 6EQUJ5",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "في 15 أغسطس 1977 التقط مرصد «بيغ إير» التابع لجامعة ولاية أوهايو طاقة راديوية غير معتادة في قناة ضيقة باتجاه كوكبة القوس. ولاحقاً أحاط عالم الفلك المتطوع جيري إهمان الرموز 6EQUJ5 بدائرة وكتب «واو!». ومن تلك الملاحظة جاء الاسم. وكانت الأداة قد سجّلت ارتفاعاً في شدة الإشارة ثم انخفاضاً. [المصدر: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي تقيسه الرموز 6EQUJ5؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تمثل الرموز الستة قياسات للشدة سُجلت على فواصل تقارب 12 ثانية. واستخدمت الطابعة الأرقام للقيم الأقل والحروف للقيم الأعلى. ويشير الحرف U إلى الذروة عند نحو 30 انحرافاً معيارياً لضجيج الأداة. ويشبه الصعود والهبوط مرور مصدر ثابت في السماء عبر حزمة المرصد مع دوران الأرض. [المصدر: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "ماذا تعني الثواني الـ72؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف الثواني الـ72 نافذة الرصد في هذه الواقعة، ولا تحدد مدة بث المصدر كاملة. فقد سجّل أحد مستقبلي المرصد الحدث وحده، وبقيت منطقتان محتملتان في السماء من دون أثر ثانٍ يحسم المكان. [المصدر: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "heading",
+        "text": "الهيدروجين والتداخل واحتمال وجود منارة"
+      },
+      {
+        "type": "paragraph",
+        "text": "يضع تحليل حديث لأرشيف برنامج «سيتي» في أوهايو التردد قرب 1420.726 ميغاهرتز، قريباً من خط الهيدروجين المتعادل عند 21 سنتيمتراً. وقد استرعى ضيق النطاق اهتمام الباحثين، لكن التردد المحمي وشكل الإشارة لا يحددان المصدر. ولم يُؤكد أي مرسل أرضي. [المصدر: phl.upr.edu](https://phl.upr.edu/wow/data)"
+      },
+      {
+        "type": "paragraph",
+        "text": "اقترح فريق أريسيبو أن ومضة عابرة ربما زادت مؤقتاً سطوع الإشعاع الصادر من هيدروجين بارد بين النجوم. وتوفر مقارنة الأرشيف آلية طبيعية محتملة، لكنها لا تحدد السحابة أو الومضة المسؤولة عن رصد 1977. [المصدر: arxiv.org](https://arxiv.org/abs/2408.08513)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي قد يحل اللغز؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "لم تسفر المتابعات عن تكرار مؤكد. وقد يبيّن نموذج أن مصدراً متقطعاً يمكن أن يفلت من الرصد، لكن النتيجة تعتمد على افتراضات بشأن سلوكه. وسيساعد رصد جديد بأجهزة مستقلة، مع موقع دقيق وتفاصيل طيفية، في التمييز بين التداخل والظواهر الفلكية والمصدر التقني. [المصدر: academic.oup.com](https://academic.oup.com/mnras/article/515/1/1122/6631556)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[أسطوانة فوياجر الذهبية](/articles/voyager-golden-record-message-humanity-space/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.bigear.org",
+        "url": "https://www.bigear.org/Wow30th/wow30th.htm"
+      },
+      {
+        "label": "المصدر: phl.upr.edu",
+        "url": "https://phl.upr.edu/wow/data"
+      },
+      {
+        "label": "المصدر: arxiv.org",
+        "url": "https://arxiv.org/abs/2408.08513"
+      },
+      {
+        "label": "المصدر: academic.oup.com",
+        "url": "https://academic.oup.com/mnras/article/515/1/1122/6631556"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل كانت 6EQUJ5 رسالة؟",
+        "answer": "إنها ست قراءات متتالية لشدة الإشارة."
+      },
+      {
+        "question": "هل فُسرت الإشارة؟",
+        "answer": "توجد عدة فرضيات، ولم يؤكد مصدرها أو تكرارها."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/wow-signal-1977-72-seconds-6equj5/",
+    "path": "/es/articles/wow-signal-1977-72-seconds-6equj5/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "La señal Wow!: 72 segundos que desconcertaron a los astrónomos",
+    "seoTitle": "Señal Wow!: qué significan 6EQUJ5 y los 72 segundos",
+    "description": "En 1977 Big Ear detectó una señal estrecha cerca de la línea del hidrógeno. El registro conserva seis intensidades y el origen sigue abierto.",
+    "excerpt": "En 1977 Big Ear detectó una señal estrecha cerca de la línea del hidrógeno. El registro conserva seis intensidades y el origen sigue abierto.",
+    "headlineHighlights": {
+      "red": "señal Wow!",
+      "gold": "72 segundos"
+    },
+    "keywords": [
+      "señal Wow!",
+      "72 segundos"
+    ],
+    "searchIntent": "En 1977 Big Ear detectó una señal estrecha cerca de la línea del hidrógeno. El registro conserva seis intensidades y el origen sigue abierto.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/wow-signal-6equj5-radio-telescope-illustration.jpg",
+      "alt": "Ilustración de una antena de radio y una recreación del registro 6EQUJ5",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "El 15 de agosto de 1977, el radiotelescopio Big Ear de la Universidad Estatal de Ohio registró una señal inusual en un canal estrecho en dirección a Sagitario. Al revisar el papel, el astrónomo voluntario Jerry Ehman rodeó 6EQUJ5 y escribió Wow! La anotación dio nombre al episodio. El instrumento había medido una subida y una bajada de intensidad. [Fuente: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué medía 6EQUJ5"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los seis caracteres son medidas de intensidad tomadas a intervalos de unos 12 segundos. La impresora usaba números para valores bajos y letras para los más altos. U marca el máximo, unas 30 desviaciones estándar del ruido. La forma se parece al paso de una fuente fija por el haz mientras gira la Tierra. [Fuente: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué significan los 72 segundos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los 72 segundos corresponden a la ventana de observación. No establecen la duración total de la emisión. Solo uno de los dos receptores la registró, por lo que quedaron dos regiones candidatas y ninguna segunda detección que fijara la posición. [Fuente: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "heading",
+        "text": "Hidrógeno, interferencias y una posible baliza"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un análisis reciente del archivo SETI de Ohio sitúa la frecuencia cerca de 1420,726 MHz, próxima a la línea de 21 centímetros del hidrógeno neutro. La estrechez atrajo la atención de SETI, pero una frecuencia protegida y un perfil compatible con el haz no identifican al emisor. Ningún transmisor terrestre ha sido confirmado. [Fuente: phl.upr.edu](https://phl.upr.edu/wow/data)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un equipo de Arecibo propuso que un destello transitorio pudo intensificar brevemente la emisión de hidrógeno interestelar frío. Sus comparaciones aportan un mecanismo natural posible. Quedan por identificar la nube o el destello del episodio de 1977. [Fuente: arxiv.org](https://arxiv.org/abs/2408.08513)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué permitiría resolver el misterio"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las búsquedas posteriores no han confirmado una repetición. Un modelo puede mostrar que un emisor intermitente pasaría inadvertido, según sus supuestos. Una nueva observación con instrumentos independientes, posición precisa y detalle espectral ayudaría a distinguir interferencia, un fenómeno astrofísico y una fuente tecnológica. [Fuente: academic.oup.com](https://academic.oup.com/mnras/article/515/1/1122/6631556)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Disco de Oro de las Voyager](/articles/voyager-golden-record-message-humanity-space/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.bigear.org",
+        "url": "https://www.bigear.org/Wow30th/wow30th.htm"
+      },
+      {
+        "label": "Fuente: phl.upr.edu",
+        "url": "https://phl.upr.edu/wow/data"
+      },
+      {
+        "label": "Fuente: arxiv.org",
+        "url": "https://arxiv.org/abs/2408.08513"
+      },
+      {
+        "label": "Fuente: academic.oup.com",
+        "url": "https://academic.oup.com/mnras/article/515/1/1122/6631556"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿6EQUJ5 era un mensaje?",
+        "answer": "Era el registro de seis intensidades sucesivas."
+      },
+      {
+        "question": "¿Se ha explicado la señal?",
+        "answer": "Hay varias hipótesis. No se ha confirmado una fuente ni una repetición."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/wow-signal-1977-72-seconds-6equj5/",
+    "path": "/fr/articles/wow-signal-1977-72-seconds-6equj5/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-15",
+      "terminologyChecked": true
+    },
+    "title": "Le signal Wow! : 72 secondes qui intriguent les astronomes",
+    "seoTitle": "Signal Wow! : que signifient 6EQUJ5 et les 72 secondes ?",
+    "description": "En 1977, le radiotélescope Big Ear a détecté un signal étroit près de la raie de l’hydrogène. Le relevé donne six intensités, mais sa source demeure inconnue.",
+    "excerpt": "En 1977, le radiotélescope Big Ear a détecté un signal étroit près de la raie de l’hydrogène. Le relevé donne six intensités, mais sa source demeure inconnue.",
+    "headlineHighlights": {
+      "red": "signal Wow!",
+      "gold": "72 secondes"
+    },
+    "keywords": [
+      "signal Wow!",
+      "72 secondes"
+    ],
+    "searchIntent": "En 1977, le radiotélescope Big Ear a détecté un signal étroit près de la raie de l’hydrogène. Le relevé donne six intensités, mais sa source demeure inconnue.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-15",
+    "updatedAt": "2026-11-15",
+    "image": {
+      "src": "/articles/wow-signal-6equj5-radio-telescope-illustration.jpg",
+      "alt": "Illustration d’une antenne radio et d’une reconstitution du relevé 6EQUJ5",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Le 15 août 1977, le radiotélescope Big Ear de l’université d’État de l’Ohio a relevé un signal inhabituel dans un canal étroit en direction du Sagittaire. En examinant le relevé, l’astronome bénévole Jerry Ehman a entouré 6EQUJ5 et inscrit Wow! Le nom est resté. L’instrument avait enregistré une hausse puis une baisse de l’intensité. [Source: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que mesurait 6EQUJ5"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les six caractères sont des mesures d’intensité, espacées d’environ 12 secondes. L’imprimante utilisait des chiffres pour les faibles intensités et des lettres pour les plus fortes. U marque le pic, à environ 30 écarts-types du bruit. La courbe ressemble à celle d’une source fixe traversant le faisceau du télescope sous l’effet de la rotation terrestre. [Source: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce que signifient les 72 secondes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les 72 secondes décrivent la fenêtre d’observation de Big Ear. Elles ne donnent pas la durée totale de l’émission. Un seul des deux récepteurs l’a captée, ce qui laisse deux zones possibles dans le ciel et aucune seconde trace pour trancher. [Source: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+      },
+      {
+        "type": "heading",
+        "text": "Hydrogène, interférences et hypothèse d’une balise"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une analyse récente des archives du programme SETI de l’Ohio situe la fréquence près de 1420,726 MHz, à proximité de la raie de 21 centimètres de l’hydrogène neutre. La faible largeur a intéressé le SETI. Une fréquence protégée et un profil compatible avec le faisceau ne suffisent toutefois pas à identifier la source. Aucun émetteur terrestre n’a été confirmé. [Source: phl.upr.edu](https://phl.upr.edu/wow/data)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une équipe d’Arecibo propose qu’un sursaut ait brièvement amplifié l’émission d’un nuage d’hydrogène froid. La comparaison avec les archives fournit un mécanisme naturel possible. Le nuage et le sursaut de 1977 restent à identifier. [Source: arxiv.org](https://arxiv.org/abs/2408.08513)"
+      },
+      {
+        "type": "heading",
+        "text": "Que faudrait-il pour résoudre l’énigme ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les recherches ultérieures n’ont donné aucune répétition confirmée. Un modèle peut montrer qu’un émetteur intermittent passerait parfois inaperçu, selon les hypothèses retenues. Une nouvelle détection par des instruments indépendants, avec une position précise et un spectre détaillé, aiderait à départager interférences, événement astrophysique et source technologique. [Source: academic.oup.com](https://academic.oup.com/mnras/article/515/1/1122/6631556)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Disque d’or de Voyager](/articles/voyager-golden-record-message-humanity-space/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.bigear.org",
+        "url": "https://www.bigear.org/Wow30th/wow30th.htm"
+      },
+      {
+        "label": "Source: phl.upr.edu",
+        "url": "https://phl.upr.edu/wow/data"
+      },
+      {
+        "label": "Source: arxiv.org",
+        "url": "https://arxiv.org/abs/2408.08513"
+      },
+      {
+        "label": "Source: academic.oup.com",
+        "url": "https://academic.oup.com/mnras/article/515/1/1122/6631556"
+      }
+    ],
+    "faq": [
+      {
+        "question": "6EQUJ5 était-il un message ?",
+        "answer": "C’était le relevé de six intensités successives."
+      },
+      {
+        "question": "Le signal est-il expliqué ?",
+        "answer": "Plusieurs hypothèses existent. Aucune source ou répétition n’a été confirmée."
+      }
+    ]
   },
   {
     "locale": "ar",

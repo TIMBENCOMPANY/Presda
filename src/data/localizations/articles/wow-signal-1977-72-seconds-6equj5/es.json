@@ -1,0 +1,109 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/wow-signal-1977-72-seconds-6equj5/",
+  "path": "/es/articles/wow-signal-1977-72-seconds-6equj5/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "La señal Wow!: 72 segundos que desconcertaron a los astrónomos",
+  "seoTitle": "Señal Wow!: qué significan 6EQUJ5 y los 72 segundos",
+  "description": "En 1977 Big Ear detectó una señal estrecha cerca de la línea del hidrógeno. El registro conserva seis intensidades y el origen sigue abierto.",
+  "excerpt": "En 1977 Big Ear detectó una señal estrecha cerca de la línea del hidrógeno. El registro conserva seis intensidades y el origen sigue abierto.",
+  "headlineHighlights": {
+    "red": "señal Wow!",
+    "gold": "72 segundos"
+  },
+  "keywords": [
+    "señal Wow!",
+    "72 segundos"
+  ],
+  "searchIntent": "En 1977 Big Ear detectó una señal estrecha cerca de la línea del hidrógeno. El registro conserva seis intensidades y el origen sigue abierto.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/wow-signal-6equj5-radio-telescope-illustration.jpg",
+    "alt": "Ilustración de una antena de radio y una recreación del registro 6EQUJ5",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El 15 de agosto de 1977, el radiotelescopio Big Ear de la Universidad Estatal de Ohio registró una señal inusual en un canal estrecho en dirección a Sagitario. Al revisar el papel, el astrónomo voluntario Jerry Ehman rodeó 6EQUJ5 y escribió Wow! La anotación dio nombre al episodio. El instrumento había medido una subida y una bajada de intensidad. [Fuente: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué medía 6EQUJ5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los seis caracteres son medidas de intensidad tomadas a intervalos de unos 12 segundos. La impresora usaba números para valores bajos y letras para los más altos. U marca el máximo, unas 30 desviaciones estándar del ruido. La forma se parece al paso de una fuente fija por el haz mientras gira la Tierra. [Fuente: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué significan los 72 segundos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los 72 segundos corresponden a la ventana de observación. No establecen la duración total de la emisión. Solo uno de los dos receptores la registró, por lo que quedaron dos regiones candidatas y ninguna segunda detección que fijara la posición. [Fuente: www.bigear.org](https://www.bigear.org/Wow30th/wow30th.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Hidrógeno, interferencias y una posible baliza"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un análisis reciente del archivo SETI de Ohio sitúa la frecuencia cerca de 1420,726 MHz, próxima a la línea de 21 centímetros del hidrógeno neutro. La estrechez atrajo la atención de SETI, pero una frecuencia protegida y un perfil compatible con el haz no identifican al emisor. Ningún transmisor terrestre ha sido confirmado. [Fuente: phl.upr.edu](https://phl.upr.edu/wow/data)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un equipo de Arecibo propuso que un destello transitorio pudo intensificar brevemente la emisión de hidrógeno interestelar frío. Sus comparaciones aportan un mecanismo natural posible. Quedan por identificar la nube o el destello del episodio de 1977. [Fuente: arxiv.org](https://arxiv.org/abs/2408.08513)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué permitiría resolver el misterio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las búsquedas posteriores no han confirmado una repetición. Un modelo puede mostrar que un emisor intermitente pasaría inadvertido, según sus supuestos. Una nueva observación con instrumentos independientes, posición precisa y detalle espectral ayudaría a distinguir interferencia, un fenómeno astrofísico y una fuente tecnológica. [Fuente: academic.oup.com](https://academic.oup.com/mnras/article/515/1/1122/6631556)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Disco de Oro de las Voyager](/articles/voyager-golden-record-message-humanity-space/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.bigear.org",
+      "url": "https://www.bigear.org/Wow30th/wow30th.htm"
+    },
+    {
+      "label": "Fuente: phl.upr.edu",
+      "url": "https://phl.upr.edu/wow/data"
+    },
+    {
+      "label": "Fuente: arxiv.org",
+      "url": "https://arxiv.org/abs/2408.08513"
+    },
+    {
+      "label": "Fuente: academic.oup.com",
+      "url": "https://academic.oup.com/mnras/article/515/1/1122/6631556"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿6EQUJ5 era un mensaje?",
+      "answer": "Era el registro de seis intensidades sucesivas."
+    },
+    {
+      "question": "¿Se ha explicado la señal?",
+      "answer": "Hay varias hipótesis. No se ha confirmado una fuente ni una repetición."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+  "path": "/es/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "La cultura del Diquís: los cacicazgos de las esferas de Costa Rica",
+  "seoTitle": "Cultura del Diquís: cacicazgos, orfebrería y esferas",
+  "description": "La cerámica, la orfebrería, las tumbas y el trazado de las aldeas revelan quiénes levantaron las esculturas del delta.",
+  "excerpt": "La cerámica, la orfebrería, las tumbas y el trazado de las aldeas revelan quiénes levantaron las esculturas del delta.",
+  "headlineHighlights": {
+    "red": "cultura del Diquís",
+    "gold": "esferas de Costa Rica"
+  },
+  "keywords": [
+    "cultura del Diquís",
+    "esferas de Costa Rica"
+  ],
+  "searchIntent": "La cerámica, la orfebrería, las tumbas y el trazado de las aldeas revelan quiénes levantaron las esculturas del delta.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/diquis-culture-stone-spheres-village-illustration.jpg",
+    "alt": "Poblado imaginado del Diquís con esferas, una escultura y cerámica",
+    "width": 1280,
+    "height": 714
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Una esfera de piedra es la huella más visible del trabajo artesanal del Diquís. Un fragmento de cerámica o los cimientos de una vivienda responden a otras preguntas. En el sur de la actual Costa Rica, la arqueología muestra comunidades que cultivaban, trabajaban la piedra y los metales y construían aldeas cada vez más complejas. [Fuente: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+    },
+    {
+      "type": "heading",
+      "text": "De las primeras cerámicas a poblados mayores"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Museo Nacional sitúa la cerámica de Aguas Buenas entre aproximadamente 300 a. C. y 800 d. C. Después de alrededor del año 800, aparecen aldeas mayores, trazados más complejos y señales más claras de jerarquía. La cronología describe cambios materiales. No conserva los nombres que usaban los habitantes para identificarse. [Fuente: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Lo que el trazado revela sobre el poder"
+    },
+    {
+      "type": "paragraph",
+      "text": "En Finca 6, montículos revestidos de piedra, caminos y esferas forman un conjunto construido. Las plataformas y esculturas exigían trabajo organizado. El acceso a espacios y objetos de prestigio apunta a diferencias de rango, de ahí el término cacicazgos. Los planos muestran cómo se ordenaba el espacio, aunque no siempre permitan reconstruir las ceremonias. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "heading",
+      "text": "Alfareros, escultores y orfebres"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los adornos de oro y aleaciones aportan otra perspectiva sobre la técnica y el intercambio. Con poco metal podían hacerse colgantes elaborados. La cerámica revela otros usos, desde recipientes cotidianos hasta depósitos funerarios. El contexto ayuda a preguntar quién hizo o utilizó un objeto y por qué apareció allí. [Fuente: museosdelbancocentral.org](https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para fabricar una esfera monumental había que elegir el bloque, darle forma, alisarlo y organizar el traslado. Parte de la piedra procedía de lugares alejados de su destino. Ese esfuerzo da importancia a la colocación pública. Los grupos conservados no permiten atribuir el mismo significado a todas las esferas. [Fuente: www.metmuseum.org](https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica)"
+    },
+    {
+      "type": "heading",
+      "text": "Lo que perdura en el delta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cuatro sitios de la UNESCO conservan partes distintas de esta historia. Juntos permiten comparar poblados, monumentos y conjuntos de objetos. Su legado documenta cómo se organizó el trabajo y cómo se construyeron espacios de autoridad y pertenencia. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Las Bolas y el rumor del oro](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.museocostarica.go.cr",
+      "url": "https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/"
+    },
+    {
+      "label": "Fuente: museosdelbancocentral.org",
+      "url": "https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf"
+    },
+    {
+      "label": "Fuente: www.metmuseum.org",
+      "url": "https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo se desarrollaron los cacicazgos del Diquís?",
+      "answer": "Sus poblados más complejos corresponden a la etapa posterior a alrededor del año 800."
+    },
+    {
+      "question": "¿Qué elaboraban sus artesanos?",
+      "answer": "Se conservan cerámicas, esculturas monumentales y adornos de oro y sus aleaciones."
+    }
+  ]
+}

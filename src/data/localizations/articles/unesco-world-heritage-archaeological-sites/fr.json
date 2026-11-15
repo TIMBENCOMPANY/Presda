@@ -1,0 +1,185 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/unesco-world-heritage-archaeological-sites/",
+  "path": "/fr/articles/unesco-world-heritage-archaeological-sites/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Patrimoine mondial de l’UNESCO : neuf sites archéologiques et leurs histoires",
+  "seoTitle": "9 sites archéologiques du patrimoine mondial de l’UNESCO",
+  "description": "Des pyramides de Gizeh à Rapa Nui, découvrez où se trouvent neuf sites inscrits, ce qu’ils préservent et ce que couvre le classement.",
+  "excerpt": "Des pyramides de Gizeh à Rapa Nui, découvrez où se trouvent neuf sites inscrits, ce qu’ils préservent et ce que couvre le classement.",
+  "headlineHighlights": {
+    "red": "Patrimoine mondial de l’UNESCO",
+    "gold": "sites archéologiques"
+  },
+  "keywords": [
+    "Patrimoine mondial de l’UNESCO",
+    "sites archéologiques"
+  ],
+  "searchIntent": "Des pyramides de Gizeh à Rapa Nui, découvrez où se trouvent neuf sites inscrits, ce qu’ils préservent et ce que couvre le classement.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/unesco-world-heritage-archaeological-sites-editorial-montage.jpg",
+    "alt": "Montage éditorial de sites archéologiques autour du nom de l’UNESCO",
+    "width": 1280,
+    "height": 715
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le classement reconnaît la valeur universelle exceptionnelle d’un bien et engage sa conservation. L’UNESCO ne hiérarchise pas les biens. Les exemples qui suivent montrent ce que l’archéologie retrouve dans les tombes royales, les rues, les murs et les paysages cérémoniels. [Source: whc.unesco.org](https://whc.unesco.org/en/criteria/)"
+    },
+    {
+      "type": "heading",
+      "text": "Afrique"
+    },
+    {
+      "type": "subheading",
+      "text": "Les pyramides de Gizeh, Égypte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pyramides et le Sphinx de Gizeh appartiennent au bien plus vaste de Memphis et de sa nécropole, inscrit en 1979. Ses tombeaux, temples et pyramides documentent l’architecture funéraire de l’Égypte ancienne au-delà de la silhouette la plus connue. [Source: whc.unesco.org](https://whc.unesco.org/en/list/86/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Grand Zimbabwe, Zimbabwe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Près de Masvingo, les murs de pierre sèche témoignent d’un centre médiéval de pouvoir et de commerce bâti par les ancêtres de populations de langue shona. Le monument national a été inscrit en 1986. [Source: whc.unesco.org](https://whc.unesco.org/en/list/364/)"
+    },
+    {
+      "type": "heading",
+      "text": "Asie occidentale et Europe"
+    },
+    {
+      "type": "subheading",
+      "text": "Pétra, Jordanie"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cité nabatéenne du sud de la Jordanie a prospéré grâce aux caravanes. Ses façades taillées dans la roche sont la partie la plus visible d’une ville qui maîtrisait aussi le stockage et la distribution de l’eau. Inscrite en 1985. [Source: whc.unesco.org](https://whc.unesco.org/en/list/326/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Göbekli Tepe, Turquie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Près de Şanlıurfa, des piliers sculptés en T délimitent des enceintes monumentales du Néolithique précéramique. Leur échelle témoigne d’une capacité à organiser tôt de grands chantiers. Le site a été inscrit en 2018. [Source: whc.unesco.org](https://whc.unesco.org/en/list/1572/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Le Colisée, Italie"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’amphithéâtre relève du bien du centre historique de Rome, inscrit pour la première fois en 1980. Le périmètre le relie à d’autres vestiges de la vie publique antique et à la ville qui s’est développée autour d’eux. [Source: whc.unesco.org](https://whc.unesco.org/en/list/91/)"
+    },
+    {
+      "type": "heading",
+      "text": "Asie de l’Est et du Sud-Est"
+    },
+    {
+      "type": "subheading",
+      "text": "La Grande Muraille, Chine"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les défenses du nord de la Chine se sont développées par étapes sous plusieurs dynasties. Murs, passes et tours de guet composent un ensemble dispersé dont la construction s’étend sur des siècles. Inscrit en 1987. [Source: whc.unesco.org](https://whc.unesco.org/en/list/438/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Angkor, Cambodge"
+    },
+    {
+      "type": "paragraph",
+      "text": "Près de Siem Reap, Angkor réunit Angkor Vat, le Bayon et les vestiges de plusieurs capitales de l’Empire khmer. Le paysage autour des temples aide à mesurer l’étendue de ces villes. Inscrit en 1992. [Source: whc.unesco.org](https://whc.unesco.org/en/list/668/)"
+    },
+    {
+      "type": "heading",
+      "text": "Les Andes et le Pacifique"
+    },
+    {
+      "type": "subheading",
+      "text": "Machu Picchu, Pérou"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au-dessus de l’Urubamba, le complexe inca associe terrasses et maçonnerie aux pentes andines. Le sanctuaire a été inscrit en 1983 comme bien mixte, culturel et naturel, en raison de l’importance du site bâti et de son cadre montagneux. [Source: whc.unesco.org](https://whc.unesco.org/en/list/274/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Parc national de Rapa Nui, Chili"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur cette île polynésienne du Pacifique sud-est, les moaï appartiennent à un paysage de plateformes cérémonielles et de lieux de production. Le parc a été inscrit en 1995. [Source: whc.unesco.org](https://whc.unesco.org/en/list/715/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Chefferies du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/criteria/"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/86/"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/364/"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/326/"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1572/"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/91/"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/438/"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/668/"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/274/"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/715/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "L’UNESCO classe-t-elle les sites par ordre d’importance ?",
+      "answer": "Non. Le Comité inscrit des biens selon des critères de valeur universelle exceptionnelle."
+    },
+    {
+      "question": "Le Colisée est-il inscrit séparément ?",
+      "answer": "Il fait partie du bien du centre historique de Rome."
+    }
+  ]
+}

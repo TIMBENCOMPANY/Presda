@@ -1,0 +1,185 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/unesco-world-heritage-archaeological-sites/",
+  "path": "/ar/articles/unesco-world-heritage-archaeological-sites/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "التراث العالمي لليونسكو: تسعة مواقع أثرية تروي قصصاً مختلفة",
+  "seoTitle": "9 مواقع أثرية على قائمة التراث العالمي لليونسكو",
+  "description": "من أهرام الجيزة إلى رابا نوي، تعرّف إلى تسعة مواقع مدرجة وما بقي فيها وما يشمله تصنيف اليونسكو.",
+  "excerpt": "من أهرام الجيزة إلى رابا نوي، تعرّف إلى تسعة مواقع مدرجة وما بقي فيها وما يشمله تصنيف اليونسكو.",
+  "headlineHighlights": {
+    "red": "التراث العالمي لليونسكو",
+    "gold": "مواقع أثرية"
+  },
+  "keywords": [
+    "التراث العالمي لليونسكو",
+    "مواقع أثرية"
+  ],
+  "searchIntent": "من أهرام الجيزة إلى رابا نوي، تعرّف إلى تسعة مواقع مدرجة وما بقي فيها وما يشمله تصنيف اليونسكو.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/unesco-world-heritage-archaeological-sites-editorial-montage.jpg",
+    "alt": "مونتاج تحريري لمواقع أثرية حول اسم اليونسكو",
+    "width": 1280,
+    "height": 715
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "يعترف الإدراج بالقيمة العالمية الاستثنائية للموقع ويرتبط بصونه. ولا ترتّب اليونسكو المواقع بحسب أهميتها. وتوضح الأمثلة ما يمكن أن يكشفه علم الآثار من المقابر الملكية والشوارع والأسوار والمشاهد المرتبطة بالمراسم. [المصدر: whc.unesco.org](https://whc.unesco.org/en/criteria/)"
+    },
+    {
+      "type": "heading",
+      "text": "أفريقيا"
+    },
+    {
+      "type": "subheading",
+      "text": "أهرام الجيزة، مصر"
+    },
+    {
+      "type": "paragraph",
+      "text": "تندرج أهرام الجيزة وأبو الهول ضمن موقع ممفيس ومقبرتها الأوسع، المدرج عام 1979. وتحفظ مقابر الموقع ومعابده وأهرامه نماذج من العمارة الجنائزية المصرية القديمة تتجاوز المعالم الأشهر. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/86/)"
+    },
+    {
+      "type": "subheading",
+      "text": "زيمبابوي الكبرى، زيمبابوي"
+    },
+    {
+      "type": "paragraph",
+      "text": "تشهد الجدران المبنية بالحجارة الجافة قرب ماسفينغو على مركز للسلطة والتجارة في العصور الوسطى، شيده أسلاف جماعات ناطقة بالشونا. أُدرج المعلم الوطني عام 1986. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/364/)"
+    },
+    {
+      "type": "heading",
+      "text": "غرب آسيا وأوروبا"
+    },
+    {
+      "type": "subheading",
+      "text": "البتراء، الأردن"
+    },
+    {
+      "type": "paragraph",
+      "text": "ازدهرت المدينة النبطية في جنوب الأردن على طرق القوافل. وواجهاتها المحفورة في الصخر أشهر معالم مدينة طوّرت أيضاً وسائل لتخزين المياه وتوزيعها. أُدرجت عام 1985. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/326/)"
+    },
+    {
+      "type": "subheading",
+      "text": "غوبكلي تبه، تركيا"
+    },
+    {
+      "type": "paragraph",
+      "text": "قرب شانلي أورفا، تحدد أعمدة منحوتة على هيئة حرف T حدود منشآت ضخمة من العصر الحجري الحديث قبل الفخار. ويشهد حجمها على قدرة المجتمعات المبكرة على تنظيم أعمال بناء واسعة. أُدرج الموقع عام 2018. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/1572/)"
+    },
+    {
+      "type": "subheading",
+      "text": "الكولوسيوم، إيطاليا"
+    },
+    {
+      "type": "paragraph",
+      "text": "يندرج المدرج الروماني ضمن المركز التاريخي لروما، المدرج لأول مرة عام 1980. وتربط الحدود الأوسع المدرج ببقايا الحياة العامة القديمة وبالمدينة التي نمت حولها. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/91/)"
+    },
+    {
+      "type": "heading",
+      "text": "شرق آسيا وجنوب شرقها"
+    },
+    {
+      "type": "subheading",
+      "text": "سور الصين العظيم، الصين"
+    },
+    {
+      "type": "paragraph",
+      "text": "تطورت التحصينات شمال الصين على مراحل في عهود سلالات مختلفة. وتشكّل الأسوار والممرات وأبراج المراقبة منظومة ممتدة ذات تاريخ بناء طويل. أُدرجت عام 1987. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/438/)"
+    },
+    {
+      "type": "subheading",
+      "text": "أنغكور، كمبوديا"
+    },
+    {
+      "type": "paragraph",
+      "text": "تضم أنغكور قرب سييم ريب معبد أنغكور وات والبايون وبقايا عدة عواصم لإمبراطورية الخمير. ويساعد المشهد المحيط بالمعابد على إدراك حجم تلك المدن. أُدرج الموقع عام 1992. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/668/)"
+    },
+    {
+      "type": "heading",
+      "text": "الأنديز والمحيط الهادئ"
+    },
+    {
+      "type": "subheading",
+      "text": "ماتشو بيتشو، بيرو"
+    },
+    {
+      "type": "paragraph",
+      "text": "يربط المجمع الإنكي فوق نهر أوروبامبا بين المصاطب والبناء الحجري ومنحدرات الأنديز. وأُدرج المحمى عام 1983 موقعاً مختلطاً ثقافياً وطبيعياً، لأهمية المنشآت والبيئة الجبلية معاً. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/274/)"
+    },
+    {
+      "type": "subheading",
+      "text": "منتزه رابا نوي الوطني، تشيلي"
+    },
+    {
+      "type": "paragraph",
+      "text": "على هذه الجزيرة البولينيزية في جنوب شرق المحيط الهادئ، تندرج تماثيل المواي ضمن مشهد يضم منصات للمراسم وأماكن للنحت. أُدرج المنتزه عام 1995. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/715/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[مشيخات ديكيس](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/criteria/"
+    },
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/86/"
+    },
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/364/"
+    },
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/326/"
+    },
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1572/"
+    },
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/91/"
+    },
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/438/"
+    },
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/668/"
+    },
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/274/"
+    },
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/715/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل ترتّب اليونسكو المواقع الأثرية بحسب أهميتها؟",
+      "answer": "لا. تدرج اللجنة المواقع وفق معايير القيمة العالمية الاستثنائية."
+    },
+    {
+      "question": "هل الكولوسيوم موقع منفصل في القائمة؟",
+      "answer": "إنه جزء من موقع المركز التاريخي لروما."
+    }
+  ]
+}

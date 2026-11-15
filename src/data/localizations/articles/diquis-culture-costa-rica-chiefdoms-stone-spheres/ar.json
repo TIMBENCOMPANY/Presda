@@ -1,0 +1,109 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+  "path": "/ar/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "ثقافة ديكيس: المجتمعات التي صنعت كرات كوستاريكا الحجرية",
+  "seoTitle": "ثقافة ديكيس: المشيخات والذهب والكرات الحجرية",
+  "description": "يكشف الفخار والذهب والمدافن وتخطيط القرى جوانب من حياة المجتمعات التي صنعت منحوتات الدلتا الضخمة.",
+  "excerpt": "يكشف الفخار والذهب والمدافن وتخطيط القرى جوانب من حياة المجتمعات التي صنعت منحوتات الدلتا الضخمة.",
+  "headlineHighlights": {
+    "red": "ثقافة ديكيس",
+    "gold": "كرات كوستاريكا الحجرية"
+  },
+  "keywords": [
+    "ثقافة ديكيس",
+    "كرات كوستاريكا الحجرية"
+  ],
+  "searchIntent": "يكشف الفخار والذهب والمدافن وتخطيط القرى جوانب من حياة المجتمعات التي صنعت منحوتات الدلتا الضخمة.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/diquis-culture-stone-spheres-village-illustration.jpg",
+    "alt": "قرية متخيلة من ديكيس تضم كرات حجرية ومنحوتة وفخاراً",
+    "width": 1280,
+    "height": 714
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "الكرة الحجرية أبرز آثار الحرف في ديكيس، لكن كسرة فخار أو أساس منزل قد يجيب عن أسئلة تعجز المنحوتة عن حسمها. ففي جنوب كوستاريكا الحالية، يوثق السجل الأثري مجتمعات مارست الزراعة وعملت بالحجر والمعادن وبنت قرى تزداد تعقيداً. [المصدر: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+    },
+    {
+      "type": "heading",
+      "text": "من الفخار المبكر إلى القرى الكبرى"
+    },
+    {
+      "type": "paragraph",
+      "text": "يؤرّخ المتحف الوطني فخار أغواس بويناس في المنطقة إلى فترة واسعة تمتد تقريباً من 300 قبل الميلاد إلى 800 ميلادية. وبعد نحو 800 تظهر قرى أكبر وتخطيطات أكثر تعقيداً وأدلة أوضح على التراتب الاجتماعي. ويصف هذا التسلسل تحولات الثقافة المادية، ولا يكشف الأسماء التي أطلقها السكان على أنفسهم. [المصدر: www.museocostarica.go.cr](https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/)"
+    },
+    {
+      "type": "subheading",
+      "text": "كيف يكشف تخطيط القرى ملامح السلطة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "في فينكا 6 تشكّل التلال المكسوّة بالحجارة والممرات والكرات جزءاً من بيئة مبنية. وقد تطلبت المنصات الكبيرة والمنحوتات عملاً منظماً. ويشير الوصول إلى أماكن وقطع ذات مكانة إلى تفاوت اجتماعي، وهو ما يساعد على فهم وصف الباحثين لهذه المجتمعات بالمشيخات. وتبيّن المخططات كيف نُظّم المكان حتى حين يتعذر استعادة تفاصيل المراسم. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "heading",
+      "text": "الخزّافون والنحّاتون والصاغة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تضيء حلي الذهب وسبائكه مهارات أخرى وشبكات للتبادل. وكان الصاغة يصنعون قلائد دقيقة من كميات صغيرة من المعدن. ويكشف الفخار عن أوانٍ للحياة اليومية وأخرى أودعت في المدافن. ويساعد السياق على فهم من صنع القطعة ومن استخدمها ولماذا وُجدت في مكانها. [المصدر: museosdelbancocentral.org](https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تطلّب صنع كرة ضخمة اختيار كتلة مناسبة وتشكيلها وصقلها وتنظيم نقلها. وجاءت بعض الصخور من أماكن بعيدة عن مواضع نصبها. ويزيد هذا العمل من أهمية وضعها في الأماكن العامة، من دون أن يثبت أن لكل الكرات المعنى نفسه. [المصدر: www.metmuseum.org](https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica)"
+    },
+    {
+      "type": "heading",
+      "text": "ما بقي في الدلتا"
+    },
+    {
+      "type": "paragraph",
+      "text": "تحفظ مواقع اليونسكو الأربعة أجزاء مختلفة من هذا التاريخ. وتتيح مجتمعة مقارنة المستوطنات والمعالم ومجموعات القطع الباقية. وهي سجل لكيفية تنظيم السكان للعمل وبناء أماكن تُعبّر عن السلطة والانتماء. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[لاس بولاس وشائعة الذهب](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: www.museocostarica.go.cr",
+      "url": "https://www.museocostarica.go.cr/divulgacion/articulos-educativos/historia-profunda/"
+    },
+    {
+      "label": "المصدر: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/"
+    },
+    {
+      "label": "المصدر: museosdelbancocentral.org",
+      "url": "https://museosdelbancocentral.org/wp-content/uploads/2021/03/museo-del-oro-precolombino.pdf"
+    },
+    {
+      "label": "المصدر: www.metmuseum.org",
+      "url": "https://www.metmuseum.org/it/perspectives/stone-sphere-costa-rica"
+    }
+  ],
+  "faq": [
+    {
+      "question": "متى تطورت مشيخات ديكيس؟",
+      "answer": "ترتبط قراها الأكثر تعقيداً بالفترة التي تلت نحو 800 ميلادية."
+    },
+    {
+      "question": "ماذا صنع حرفيو ديكيس؟",
+      "answer": "يشمل السجل فخاراً ومنحوتات حجرية ضخمة وحلياً من الذهب وسبائكه."
+    }
+  ]
+}

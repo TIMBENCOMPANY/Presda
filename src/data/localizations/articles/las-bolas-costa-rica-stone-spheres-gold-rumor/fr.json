@@ -1,0 +1,105 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/",
+  "path": "/fr/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Las Bolas : les sphères du Costa Rica et la chasse à l’or caché",
+  "seoTitle": "Las Bolas : les sphères du Costa Rica et la rumeur de l’or",
+  "description": "Des travaux dans les bananeraies ont révélé les sphères du delta du Diquís. Une rumeur d’or caché aurait entraîné la destruction de certaines d’entre elles.",
+  "excerpt": "Des travaux dans les bananeraies ont révélé les sphères du delta du Diquís. Une rumeur d’or caché aurait entraîné la destruction de certaines d’entre elles.",
+  "headlineHighlights": {
+    "red": "Las Bolas",
+    "gold": "l’or caché"
+  },
+  "keywords": [
+    "Las Bolas",
+    "l’or caché"
+  ],
+  "searchIntent": "Des travaux dans les bananeraies ont révélé les sphères du delta du Diquís. Une rumeur d’or caché aurait entraîné la destruction de certaines d’entre elles.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/las-bolas-diquis-stone-sphere-excavation-illustration.jpg",
+    "alt": "Illustration d’une fouille autour d’une grande sphère de pierre du Costa Rica",
+    "width": 1280,
+    "height": 715
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "À la fin des années 1930, des ouvriers qui préparaient des terrains pour les bananeraies ont dégagé des sphères de pierre dans le delta du Diquís, au sud du Costa Rica. Certaines étaient enfouies depuis longtemps sous les sédiments. Les travaux les ont fait connaître tout en menaçant les lieux où elles se trouvaient depuis des siècles. [Source: diquis.go.cr](https://diquis.go.cr/en/linea-de-tiempo.html)"
+    },
+    {
+      "type": "heading",
+      "text": "La rumeur de l’or caché"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des récits fondés sur les premiers relevés décrivent des chercheurs de trésors faisant exploser au moins une sphère, selon des récits qui évoquent la dynamite,, persuadés qu’elle cachait de l’or. Le nombre de sphères ainsi détruites reste inconnu. Des objets en or ont bien été retrouvés dans la région, où ils constituent une découverte distincte des sphères. [Source: www.celticnz.co.nz](https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que coûte le déplacement d’une sphère"
+    },
+    {
+      "type": "paragraph",
+      "text": "La destruction n’était qu’une façon de perdre des indices. On peut mesurer une sphère déplacée dans un jardin, mais son alignement et son rapport avec une terrasse d’habitation ou une place peuvent devenir impossibles à restituer. Une sphère restée en place dit donc davantage qu’un spécimen isolé à la surface parfaite. [Source: whc.unesco.org](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Des bananeraies à l’archéologie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Doris Stone a relevé des groupes de sphères et publié ses recherches en 1943. Samuel Lothrop a travaillé dans le delta en 1948 et publié une étude plus complète en 1963. Leurs relevés conservent des alignements et des emplacements parfois effacés par les réaménagements et les déplacements. Les recherches du Musée national replacent depuis les sculptures dans l’ensemble des villages. [Source: whc.unesco.org](https://whc.unesco.org/uploads/nominations/1453.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que protège l’UNESCO"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’UNESCO a inscrit en 2014 quatre sites archéologiques : Finca 6, Batambal, El Silencio et Grijalba-2. L’inscription couvre les établissements précolombiens et les liens entre ceux-ci et les sphères. Finca 6 est particulièrement précieux car des alignements y subsistent à leur emplacement ancien. Leur signification précise reste à étudier. [Source: whc.unesco.org](https://whc.unesco.org/en/list/1453/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Chefferies du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: diquis.go.cr",
+      "url": "https://diquis.go.cr/en/linea-de-tiempo.html"
+    },
+    {
+      "label": "Source: www.celticnz.co.nz",
+      "url": "https://www.celticnz.co.nz/Costa%20Rica/StoneBalls4.htm"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/uploads/nominations/1453.pdf"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "A-t-on confirmé la présence d’or dans les sphères ?",
+      "answer": "Aucune preuve archéologique fiable ne la confirme. Les ornements en or sont des découvertes distinctes."
+    },
+    {
+      "question": "Quand les sites ont-ils été inscrits ?",
+      "answer": "L’UNESCO a inscrit le bien composé de quatre sites en 2014."
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/unesco-world-heritage-archaeological-sites/",
+  "path": "/es/articles/unesco-world-heritage-archaeological-sites/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "Patrimonio Mundial de la UNESCO: nueve sitios arqueológicos y sus historias",
+  "seoTitle": "9 sitios arqueológicos del Patrimonio Mundial de la UNESCO",
+  "description": "De las pirámides de Guiza a Rapa Nui, descubre dónde están nueve lugares inscritos, qué conservan y qué abarca la designación.",
+  "excerpt": "De las pirámides de Guiza a Rapa Nui, descubre dónde están nueve lugares inscritos, qué conservan y qué abarca la designación.",
+  "headlineHighlights": {
+    "red": "Patrimonio Mundial de la UNESCO",
+    "gold": "sitios arqueológicos"
+  },
+  "keywords": [
+    "Patrimonio Mundial de la UNESCO",
+    "sitios arqueológicos"
+  ],
+  "searchIntent": "De las pirámides de Guiza a Rapa Nui, descubre dónde están nueve lugares inscritos, qué conservan y qué abarca la designación.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/unesco-world-heritage-archaeological-sites-editorial-montage.jpg",
+    "alt": "Montaje editorial de sitios arqueológicos alrededor del nombre de la UNESCO",
+    "width": 1280,
+    "height": 715
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La inscripción reconoce el valor universal excepcional de un bien y está vinculada a su conservación. La UNESCO no establece una clasificación. Los ejemplos muestran qué puede recuperar la arqueología de tumbas reales, calles, murallas y paisajes ceremoniales. [Fuente: whc.unesco.org](https://whc.unesco.org/en/criteria/)"
+    },
+    {
+      "type": "heading",
+      "text": "África"
+    },
+    {
+      "type": "subheading",
+      "text": "Las pirámides de Guiza, Egipto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pirámides y la Esfinge de Guiza forman parte del conjunto más amplio de Menfis y su necrópolis, inscrito en 1979. Sus tumbas, templos y pirámides conservan la arquitectura funeraria egipcia más allá de su silueta más conocida. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/86/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Gran Zimbabue, Zimbabue"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los muros de piedra seca cerca de Masvingo testimonian un centro medieval de poder y comercio construido por antepasados de comunidades de lengua shona. El monumento nacional fue inscrito en 1986. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/364/)"
+    },
+    {
+      "type": "heading",
+      "text": "Asia occidental y Europa"
+    },
+    {
+      "type": "subheading",
+      "text": "Petra, Jordania"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciudad nabatea del sur de Jordania prosperó en las rutas caravaneras. Sus fachadas excavadas son la parte más visible de una ciudad que también diseñó sistemas para almacenar y distribuir agua. Inscrita en 1985. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/326/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Göbekli Tepe, Turquía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cerca de Şanlıurfa, pilares tallados en forma de T delimitan recintos monumentales del Neolítico precerámico. Su escala muestra que comunidades muy tempranas podían organizar grandes obras. Inscrito en 2018. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/1572/)"
+    },
+    {
+      "type": "subheading",
+      "text": "El Coliseo, Italia"
+    },
+    {
+      "type": "paragraph",
+      "text": "El anfiteatro forma parte del centro histórico de Roma, inscrito por primera vez en 1980. El perímetro lo conecta con otros vestigios de la vida pública antigua y con la ciudad que creció a su alrededor. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/91/)"
+    },
+    {
+      "type": "heading",
+      "text": "Asia oriental y sudoriental"
+    },
+    {
+      "type": "subheading",
+      "text": "La Gran Muralla, China"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las defensas del norte de China crecieron por etapas bajo distintas dinastías. Muros, pasos y torres forman un sistema disperso con una larga historia constructiva. Inscrito en 1987. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/438/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Angkor, Camboya"
+    },
+    {
+      "type": "paragraph",
+      "text": "Junto a Siem Reap, Angkor reúne Angkor Wat, el Bayón y los restos de varias capitales del Imperio jemer. El paisaje que rodea los templos permite comprender la extensión de esas ciudades. Inscrito en 1992. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/668/)"
+    },
+    {
+      "type": "heading",
+      "text": "Los Andes y el Pacífico"
+    },
+    {
+      "type": "subheading",
+      "text": "Machu Picchu, Perú"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sobre el Urubamba, el conjunto inca integra terrazas y cantería en las laderas andinas. El santuario fue inscrito en 1983 como bien mixto cultural y natural por el valor de sus construcciones y del entorno montañoso. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/274/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Parque Nacional Rapa Nui, Chile"
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta isla polinesia del Pacífico sudoriental, los moáis pertenecen a un paisaje de plataformas ceremoniales y lugares de producción. El parque fue inscrito en 1995. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/715/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cacicazgos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/criteria/"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/86/"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/364/"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/326/"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1572/"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/91/"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/438/"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/668/"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/274/"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/715/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿La UNESCO ordena los sitios por importancia?",
+      "answer": "No. El Comité los inscribe según criterios de valor universal excepcional."
+    },
+    {
+      "question": "¿El Coliseo es un bien independiente?",
+      "answer": "Forma parte del bien del centro histórico de Roma."
+    }
+  ]
+}
