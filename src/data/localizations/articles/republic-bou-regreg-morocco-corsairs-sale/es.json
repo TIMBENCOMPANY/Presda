@@ -92,6 +92,49 @@
     {
       "type": "paragraph",
       "text": "El archivo también describe un encuentro de 1631 frente al sur de Portugal entre un capitán inglés y un barco de Rabat con moriscos y renegados europeos a bordo. El testimonio permite seguir esas redes mixtas. Documenta la tripulación de un barco concreto y sería arriesgado extrapolarla a toda la flota. [Fuente · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
+    },
+    {
+      "type": "heading",
+      "text": "Una desembocadura, varios centros de poder"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mapa aclara la ambigüedad de los nombres. La Salé actual se encuentra en la orilla norte del Bu Regreg. La alcazaba de los Udayas y el casco histórico de Rabat se sitúan en la orilla sur. Algunos documentos europeos llaman Nueva Salé a asentamientos del lado de Rabat. Aplicar a estos nombres los límites municipales actuales puede situar un episodio en la orilla equivocada. [Fuente · ICOMOS: Salé heritage guide](https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf) [Fuente · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [Fuente · UNESCO: Rabat](https://whc.unesco.org/en/list/1401/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Lo que revelan los expedientes de rescate"
+    },
+    {
+      "type": "paragraph",
+      "text": "La correspondencia inglesa recoge cautivos y negociaciones porque las autoridades y las familias buscaban conseguir liberaciones. Los documentos aclaran precios e intermediarios cuando los mencionan, pero las prioridades de sus autores condicionan lo que conservan. Son una evidencia menos directa de la vida cotidiana de los cautivos o de quienes nunca trataron con enviados ingleses. Leerlos junto a los estudios sobre el puerto marroquí permite ver un episodio desde ambas orillas. [Fuente · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [Fuente · Leïla Maziane: Salé et ses corsaires](https://www.puc-ed.fr/fr/book/?GCOI=28777100805180)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_473]]",
+      "caption": "Lugares actuales en relación con el estuario.",
+      "headings": [
+        "Lugar actual",
+        "Referencia geográfica"
+      ],
+      "rows": [
+        [
+          "Salé",
+          "Orilla norte del Bu Regreg"
+        ],
+        [
+          "Alcazaba de los Udayas",
+          "Lado de Rabat, en la desembocadura"
+        ],
+        [
+          "Casco histórico de Rabat",
+          "Lado sur del río"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El reportaje de PRESDA sobre [Constantinopla y Estambul](/articles/fall-constantinople-1453-sultan-mehmed-ii/) ofrece otro ejemplo de cómo difiere la toponimia histórica del mapa político actual."
     }
   ],
   "sources": [
@@ -130,5 +173,5 @@
       "answer": "Continuó bajo los sultanes alauíes hasta entrado el siglo XVIII."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

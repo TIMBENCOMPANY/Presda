@@ -331,7 +331,13 @@ export const worldHistoryNov15Articles: Article[] = [
       "## What a World Heritage listing actually covers",
       "UNESCO’s list identifies properties of outstanding universal value against published criteria. Authenticity and integrity, where relevant, and arrangements for protection and management also matter. A famous building may be part of a much larger entry. The Colosseum, for example, belongs to the listing for Rome’s historic center and associated properties. The relevant UNESCO page describes the full property. That distinction matters when comparing places or citing an inscription date. [Source · whc.unesco.org](https://whc.unesco.org/en/glossary/222) [Source · whc.unesco.org](https://whc.unesco.org/en/list/91/)",
       "## Why one entry can appear in several places on a map",
-      "A single inscription can cover separate physical locations. UNESCO’s official map for the Diquís property in Costa Rica lists four component sites, each with its own boundary and buffer zone. Comparing that map with the Rome listing shows how World Heritage boundaries follow the heritage being recognized, whether that means an urban landscape or a series of archaeological sites. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Source · whc.unesco.org](https://whc.unesco.org/en/list/91/) [Read about the four Diquís settlements](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      "A single inscription can cover separate physical locations. UNESCO’s official map for the Diquís property in Costa Rica lists four component sites, each with its own boundary and buffer zone. Comparing that map with the Rome listing shows how World Heritage boundaries follow the heritage being recognized, whether that means an urban landscape or a series of archaeological sites. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Source · whc.unesco.org](https://whc.unesco.org/en/list/91/) [Read about the four Diquís settlements](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/).",
+      "## What the boundaries actually protect",
+      "UNESCO’s listing for Giza follows a chain of pyramid fields south to Dahshur. The Colosseum, by contrast, is one monument within the historic centre of Rome. At Angkor, the temple most visitors recognise sits within a much larger archaeological landscape. For conservation, the difference matters: protecting a single structure does not automatically protect the setting that explains how it worked. [Source · UNESCO: Giza’s pyramids, Egypt](https://whc.unesco.org/en/list/86/) [Source · UNESCO: The Colosseum, Italy](https://whc.unesco.org/en/list/91/) [Source · UNESCO: Angkor, Cambodia](https://whc.unesco.org/en/list/668/)",
+      "### Why a site may be listed for culture and nature",
+      "Machu Picchu is a mixed property. The terraces and stone buildings preserve evidence of Inca engineering, while the mountain forests and the wider Andean environment carry natural value in their own right. At Petra, researchers also consider the setting, but for a different reason: channels, cisterns and the rugged terrain are part of the evidence for how a city functioned in that environment. [Source · UNESCO: Petra, Jordan](https://whc.unesco.org/en/list/326/) [Source · UNESCO: Machu Picchu, Peru](https://whc.unesco.org/en/list/274/)",
+      "[[UPGRADE_470]]",
+      "An inscription date records a decision by the World Heritage Committee. It does not rank the places or date their construction. The [four protected Diquís sites](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/) offer a compact example of several components inscribed together."
     ],
     "references": [
       {
@@ -397,7 +403,7 @@ export const worldHistoryNov15Articles: Article[] = [
         "answer": "It is part of the Historic Centre of Rome World Heritage property."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   },
   {
     "id": "471",

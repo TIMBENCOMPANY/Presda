@@ -84,6 +84,49 @@
     {
       "type": "paragraph",
       "text": "L’APEC se présente comme un forum économique. Son programme comprend la coopération en matière de commerce et d’investissement. Trois dirigeants peuvent discuter en marge de ce programme sans que leurs décisions sur les armes nucléaires deviennent des décisions du forum. [Source · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+    },
+    {
+      "type": "heading",
+      "text": "À quoi reconnaîtrait-on une avancée nucléaire ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une rencontre peut déboucher sur plusieurs résultats bien différents. Une promesse de poursuivre les échanges laisse les questions concrètes en suspens. La nomination de négociateurs ou la fixation d’une date ouvrirait un processus. Un accord contraignant exigerait des clauses précises, notamment sur les armes concernées et la vérification. Les articles sur Shenzhen évoquaient des échanges possibles sans faire état d’un tel dispositif. [Source · Associated Press](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72) [Source · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)"
+    },
+    {
+      "type": "subheading",
+      "text": "Une réunion en marge se distingue d’une décision de l’APEC"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’hôte organise le forum économique, mais chaque gouvernement choisit ses interlocuteurs en marge. Un communiqué commun des trois pays n’aurait pas la même portée qu’une déclaration finale sur les échanges régionaux. Pour savoir ce qui a été décidé, il faudrait comparer les comptes rendus et repérer les formulations communes, surtout sur les prochaines étapes. [Source · APEC Secretariat](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_457]]",
+      "caption": "Comment lire les annonces sur Shenzhen au 15 novembre.",
+      "headings": [
+        "Point",
+        "Statut"
+      ],
+      "rows": [
+        [
+          "Semaine des dirigeants de l’APEC",
+          "Forum économique au calendrier distinct"
+        ],
+        [
+          "Rencontre à trois",
+          "Proposition rapportée par la presse"
+        ],
+        [
+          "Accord nucléaire",
+          "Aucun texte annoncé dans les articles cités"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[L’accord de défense turco-qatari](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/) illustre ce qu’une signature publique peut établir et ce qui relève ensuite de sa mise en œuvre."
     }
   ],
   "sources": [
@@ -118,5 +161,5 @@
       "answer": "Un responsable américain a déclaré à AP qu’aucun accord ne devrait être annoncé."
     }
   ],
-  "readingTimeMinutes": 2
+  "readingTimeMinutes": 3
 }

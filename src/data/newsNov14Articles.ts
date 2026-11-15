@@ -127,7 +127,13 @@ export const newsNov14Articles: Article[] = [
       "## Where the proposed talks stand on November 15",
       "The Associated Press reported on November 15 that Trump planned to travel to Shenzhen after his stop in the Philippines. Its account described trade as a focus in China ahead of the planned discussion with Xi and Putin on nuclear stockpiles. The meeting remains ahead on the reported itinerary. Its scheduling gives the leaders an opportunity to talk, while the outcome and any written commitments remain open. [Source · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)",
       "## What belongs to APEC’s agenda",
-      "APEC describes itself as an economic forum. Its agenda includes trade and investment cooperation. Talks between three visiting or host leaders can take place alongside that agenda without turning decisions on nuclear policy into APEC decisions. [Source · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+      "APEC describes itself as an economic forum. Its agenda includes trade and investment cooperation. Talks between three visiting or host leaders can take place alongside that agenda without turning decisions on nuclear policy into APEC decisions. [Source · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)",
+      "## What would count as progress on nuclear diplomacy?",
+      "A meeting can produce several outcomes that look very different once the leaders leave the room. A pledge to keep talking leaves concrete questions for later. A decision to name negotiators or set a date would create a process. A binding agreement would require specific terms, including which weapons it covers and how each side could verify compliance. The reports about Shenzhen described potential talks, with no published arrangement of that kind. [Source · Associated Press](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72) [Source · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)",
+      "### Why a side meeting is different from an APEC decision",
+      "The host sets the schedule for the economic forum, but individual governments decide whom to meet on the sidelines. A joint statement from the three governments would carry a different significance from a closing declaration about regional trade. To establish what actually happened, readers would need to compare the participants’ readouts and look for shared wording, particularly on any agreed next step. [Source · APEC Secretariat](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)",
+      "[[UPGRADE_457]]",
+      "[The Türkiye–Qatar defence agreement](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/) offers a separate example of what a public signing can establish and what remains for implementation."
     ],
     "references": [
       {
@@ -164,7 +170,7 @@ export const newsNov14Articles: Article[] = [
         "answer": "A U.S. official told AP that no agreement was expected to be announced."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "458",
@@ -203,7 +209,13 @@ export const newsNov14Articles: Article[] = [
       "## What the communiqué puts on the record",
       "The November 13 communiqué identifies an external armed attack on either country or both as the contingency addressed by the agreement. It presents a unified stance as part of a commitment to sovereignty and territorial integrity. A joint communiqué summarizes the two governments’ positions. Readers would need the agreement’s full provisions to assess procedures, timing and what either government would have to do in a specific case. [Source · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)",
       "## A relationship with several formal channels",
-      "This was the strategic committee’s twelfth session. The same statement discusses trade and investment under a separate economic partnership agreement, signed in 2018 and in force since August 2025. The two documents concern different commitments, but their place in the same session shows the breadth of the partnership. [Source · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      "This was the strategic committee’s twelfth session. The same statement discusses trade and investment under a separate economic partnership agreement, signed in 2018 and in force since August 2025. The two documents concern different commitments, but their place in the same session shows the breadth of the partnership. [Source · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)",
+      "## From political commitment to implementation",
+      "The signing answered one question: both governments want a shared response to an external armed attack. The announcement leaves a different question open: what each government would do in a specific crisis. Consultation, logistics and decisions about deploying forces are different commitments. A signing ceremony does not tell readers which authorities take those decisions, how fast they must act or what procedures apply. [Source · Amiri Diwan](https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement) [Source · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)",
+      "### Why separate agreements matter",
+      "The strategic committee brings many areas of cooperation into one meeting. The economic partnership gives trade a distinct legal framework, and the communiqué records its entry into force in 2025. That distinction also matters for defence. The date a treaty is signed and the date its obligations become operative can differ. The trade timeline is documented in the joint text and cannot be used as a proxy for the defence agreement’s timetable. [Source · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)",
+      "[[UPGRADE_458]]",
+      "For comparison, [the proposed Shenzhen meeting](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/) shows the limits of reading side meetings as agreements."
     ],
     "references": [
       {
@@ -232,7 +244,7 @@ export const newsNov14Articles: Article[] = [
         "answer": "The joint communiqué describes stronger collective defence and a common stance against external armed attacks."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "459",
@@ -272,7 +284,13 @@ export const newsNov14Articles: Article[] = [
       "## What a genome and a museum specimen reveal together",
       "The researchers compared genomic data spanning 11 howler species across Central and South America and examined physical traits recorded in museum specimens. One line of evidence can distinguish populations in an evolutionary tree. The other lets taxonomists ask which features can be observed and compared in specimens. With sampled locations as well, the team could revisit where established names had concealed distinct lineages. [Source · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)",
       "## Why the map matters to conservation",
-      "Salford’s researchers highlighted major rivers, including the Xingu and Rio Branco, as barriers that helped separate populations over evolutionary time. A range mapped for an older, more inclusive species designation may cover forest that the newly named population does not inhabit. Conservation assessments need to consider the smaller lineage’s own distribution and the pressures within it. For the southern Amazon lineage, the researchers highlighted loss and fragmentation of habitat. [Source · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [How scientists compare DNA across species](/articles/how-much-dna-humans-share-other-species/)."
+      "Salford’s researchers highlighted major rivers, including the Xingu and Rio Branco, as barriers that helped separate populations over evolutionary time. A range mapped for an older, more inclusive species designation may cover forest that the newly named population does not inhabit. Conservation assessments need to consider the smaller lineage’s own distribution and the pressures within it. For the southern Amazon lineage, the researchers highlighted loss and fragmentation of habitat. [Source · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [How scientists compare DNA across species](/articles/how-much-dna-humans-share-other-species/).",
+      "## What changes when a widespread species is split?",
+      "A single name can hide several populations with distinct evolutionary histories. After a split, a range map and population estimate made for the old grouping cannot simply be assigned to each new species. A loss of forest that looked small on a map of the combined range could take up a much larger fraction of the habitat of one lineage. Assessors need fresh occurrence records and a separate evaluation for each recognised species. [Source · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [Source · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)",
+      "### How to read the boundaries on a howler map",
+      "A river can reduce contact without serving as an absolute boundary for every population. Researchers compare the bank and collection locality of each specimen with the lineages inferred from the genomes. Areas with few samples remain harder to interpret. This is where old collections matter: a reliably labelled museum specimen can add a data point even when contemporary surveys have gaps. [Source · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [Source · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)",
+      "[[UPGRADE_459]]",
+      "For the distinction between genetic comparisons and species relationships, see [how scientists compare human DNA with other species](/articles/how-much-dna-humans-share-other-species/)."
     ],
     "references": [
       {
@@ -302,6 +320,6 @@ export const newsNov14Articles: Article[] = [
         "answer": "The authors combined genome-wide data with diagnostic features of museum specimens."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   }
 ];

@@ -115,6 +115,7 @@ import { WowSignalPrintout } from "@/components/WowSignalPrintout";
 import { DiquisEvidencePhoto } from "@/components/DiquisEvidencePhoto";
 import { HaeckelRadiolariaPlate } from "@/components/HaeckelRadiolariaPlate";
 import { BaghdadChronicleImage } from "@/components/BaghdadChronicleImage";
+import { HeritageEvidencePhoto } from "@/components/HeritageEvidencePhoto";
 import { ReuterNadarPortrait } from "@/components/ReuterNadarPortrait";
 import { ChalcatzingoLandscape } from "@/components/ChalcatzingoLandscape";
 import medicalCannabisHeroCaptions from "@/data/medicalCannabisHeroCaptions.json";
@@ -766,6 +767,12 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "winter-dolphin-prosthetic-tail" && winterImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WinterHistoricalImage id={winterImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "bobby-fischer-chess-legend-america-iceland" && fischerImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FischerHistoricalImage id={fischerImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "first-giraffe-china-1414-bengal-yongle" && originalIndex === 18) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><GiraffeMuseumImage locale={locale} /></div>;
+              const heritagePhoto = article.slug === "unesco-world-heritage-archaeological-sites" && originalIndex === 5
+                ? "great-zimbabwe"
+                : article.slug === "republic-bou-regreg-morocco-corsairs-sale" && originalIndex === 16
+                  ? "bou-regreg"
+                  : undefined;
+              if (heritagePhoto) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HeritageEvidencePhoto id={heritagePhoto} locale={locale} /></div>;
               const structured = localizedBlocks?.[originalIndex];
               if (article.slug === "mesopotamia-sumer-akkad-babylon-assyria-history" && originalIndex === 8) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MesopotamiaGrainTablet locale={locale} /></div>;

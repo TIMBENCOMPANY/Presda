@@ -8,6 +8,202 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[UPGRADE_473]]": {
+  "caption": "Read the historical names against the geography of the estuary.",
+  "headers": [
+    "Modern location",
+    "Geographic reference"
+  ],
+  "rows": [
+    [
+      "Salé",
+      "North bank of the Bou Regreg"
+    ],
+    [
+      "Kasbah of the Udayas",
+      "Rabat side, at the estuary"
+    ],
+    [
+      "Historic centre of Rabat",
+      "South side of the river"
+    ]
+  ],
+  "minWidthClass": "min-w-[420px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
+  "[[UPGRADE_464]]": {
+  "caption": "What three kinds of evidence can tell us.",
+  "headers": [
+    "Study design",
+    "What it measures"
+  ],
+  "rows": [
+    [
+      "Animal lifespan study",
+      "Survival in the study species on specific diets"
+    ],
+    [
+      "Short human diet trial",
+      "Responses measured over the intervention period"
+    ],
+    [
+      "Long human follow-up",
+      "Whether health or functional outcomes differ over time"
+    ]
+  ],
+  "minWidthClass": "min-w-[420px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
+  "[[UPGRADE_459]]": {
+  "caption": "What the study’s different evidence can establish.",
+  "headers": [
+    "Evidence",
+    "Use"
+  ],
+  "rows": [
+    [
+      "Genomes",
+      "Identify and compare evolutionary lineages"
+    ],
+    [
+      "Museum localities",
+      "Connect sampled animals to known places"
+    ],
+    [
+      "Forest and population surveys",
+      "Supply data for separate conservation assessments"
+    ]
+  ],
+  "minWidthClass": "min-w-[420px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
+  "[[UPGRADE_457]]": {
+  "caption": "How to read the Shenzhen announcements as of November 15.",
+  "headers": [
+    "Item",
+    "Status"
+  ],
+  "rows": [
+    [
+      "APEC Leaders’ Week",
+      "Separately scheduled economic forum"
+    ],
+    [
+      "Three-way talks",
+      "Reported proposal"
+    ],
+    [
+      "Nuclear agreement",
+      "No text announced in the cited reports"
+    ]
+  ],
+  "minWidthClass": "min-w-[420px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
+  "[[UPGRADE_458]]": {
+  "caption": "Milestones in Türkiye–Qatar cooperation.",
+  "headers": [
+    "Year",
+    "Documented development"
+  ],
+  "rows": [
+    [
+      "2014",
+      "High Strategic Committee established"
+    ],
+    [
+      "2018",
+      "Trade and Economic Partnership Agreement signed"
+    ],
+    [
+      "2025",
+      "Economic agreement entered into force"
+    ],
+    [
+      "2026",
+      "Joint defence agreement signed in Istanbul"
+    ]
+  ],
+  "minWidthClass": "min-w-[420px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
+  "[[UPGRADE_454]]": {
+  "caption": "How to read Bounou’s international milestones.",
+  "headers": [
+    "Event",
+    "Measure"
+  ],
+  "rows": [
+    [
+      "Morocco–Niger",
+      "100th appearance and an in-game penalty save"
+    ],
+    [
+      "Qatar 2022",
+      "Four clean sheets credited by FIFA"
+    ],
+    [
+      "Spain at Qatar 2022",
+      "Two saves in the shootout"
+    ]
+  ],
+  "minWidthClass": "min-w-[420px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
+  "[[UPGRADE_470]]": {
+  "caption": "UNESCO inscription years for the nine featured places.",
+  "headers": [
+    "Place",
+    "First inscription"
+  ],
+  "rows": [
+    [
+      "Giza pyramid fields",
+      "1979"
+    ],
+    [
+      "Great Zimbabwe",
+      "1986"
+    ],
+    [
+      "Petra",
+      "1985"
+    ],
+    [
+      "Göbekli Tepe",
+      "2018"
+    ],
+    [
+      "Historic centre of Rome",
+      "1980"
+    ],
+    [
+      "Great Wall",
+      "1987"
+    ],
+    [
+      "Angkor",
+      "1992"
+    ],
+    [
+      "Machu Picchu",
+      "1983"
+    ],
+    [
+      "Rapa Nui National Park",
+      "1995"
+    ]
+  ],
+  "minWidthClass": "min-w-[420px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
   "[[CARS_4_YOUTH_TIMELINE]]": {
   "caption": "Milestones documented by ABC News and the National Australia Day Council.",
   "rows": [

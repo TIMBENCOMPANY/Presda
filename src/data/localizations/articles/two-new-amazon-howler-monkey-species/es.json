@@ -88,6 +88,49 @@
     {
       "type": "paragraph",
       "text": "El equipo de Salford destacó el papel de grandes ríos como el Xingú y el Río Branco en la separación evolutiva de poblaciones. El área atribuida a una especie antes definida de manera más amplia puede incluir bosques que el nuevo linaje no habita. Una evaluación debe considerar su distribución real y las presiones dentro de ella. Para el linaje de la Amazonía meridional, los investigadores señalaron la pérdida y fragmentación del hábitat. [Fuente · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [Cómo comparan los científicos el ADN entre especies](/articles/how-much-dna-humans-share-other-species/)."
+    },
+    {
+      "type": "heading",
+      "text": "Qué cambia al dividir una especie de amplia distribución"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un nombre puede agrupar poblaciones de historias evolutivas distintas. Tras una división, ni el área de distribución ni el tamaño poblacional del grupo anterior se pueden atribuir a cada nueva especie. Una pérdida de bosque reducida a escala del conjunto podría representar una fracción considerable del hábitat de un linaje. Se necesitan registros de presencia y una evaluación por especie reconocida. [Fuente · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [Fuente · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+    },
+    {
+      "type": "subheading",
+      "text": "Cómo leer las fronteras en un mapa de los aulladores"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un río puede reducir el contacto entre poblaciones sin constituir una barrera absoluta en todo su curso. El equipo compara la orilla y la localidad de recolección con los linajes inferidos a partir de los genomas. Las zonas poco muestreadas son más difíciles de interpretar. Una pieza de museo bien documentada puede aportar un dato allí donde faltan observaciones modernas. [Fuente · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [Fuente · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_459]]",
+      "caption": "Qué permite establecer cada clase de evidencia.",
+      "headings": [
+        "Evidencia",
+        "Uso"
+      ],
+      "rows": [
+        [
+          "Genomas",
+          "Identificar y comparar linajes evolutivos"
+        ],
+        [
+          "Localidades de colecta",
+          "Vincular los ejemplares a lugares conocidos"
+        ],
+        [
+          "Estudios de bosques y poblaciones",
+          "Aportar datos para evaluaciones de conservación por separado"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sobre las diferencias entre comparación genética y parentesco evolutivo, véase [cómo se compara nuestro ADN con el de otras especies](/articles/how-much-dna-humans-share-other-species/)."
     }
   ],
   "sources": [
@@ -114,5 +157,5 @@
       "answer": "En datos genómicos y rasgos diagnósticos de ejemplares de museo."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

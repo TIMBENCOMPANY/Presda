@@ -92,6 +92,49 @@
     {
       "type": "paragraph",
       "text": "ويروي الأرشيف أيضاً أن قبطاناً إنجليزياً صادف سنة 1631 قبالة جنوب البرتغال سفينة من الرباط تضم موريسكيين وأوروبيين وصفهم بالتنكر لبلدانهم. ويسلط السجل الضوء على شبكات الملاحة المختلطة في ذلك الوقت. وهو يصف طاقم سفينة واحدة، لذلك يصعب تعميمه على الأسطول كله. [المصدر · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
+    },
+    {
+      "type": "heading",
+      "text": "مصب واحد ومراكز متعددة للسلطة"
+    },
+    {
+      "type": "paragraph",
+      "text": "توضح الخريطة سبب الالتباس في الأسماء. تقع سلا الحالية على الضفة الشمالية لنهر أبي رقراق، بينما تقع قصبة الأوداية والقلب التاريخي للرباط جنوباً. وتطلق وثائق أوروبية اسم سلا الجديدة على تجمعات في جهة الرباط. وإذا قرأنا هذه الأسماء وفق الحدود البلدية المعاصرة فقد ننسب أحداثاً إلى الضفة الخطأ. [المصدر · ICOMOS: Salé heritage guide](https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf) [المصدر · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [المصدر · UNESCO: Rabat](https://whc.unesco.org/en/list/1401/)"
+    },
+    {
+      "type": "subheading",
+      "text": "ما الذي تكشفه سجلات الفدية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تناولت المراسلات الإنجليزية الأسرى والمفاوضات لأن المسؤولين والأسر كانوا يسعون إلى الإفراج عنهم. وتساعد هذه الوثائق على معرفة المبالغ والوسطاء عندما تذكرهم، لكن أولويات كُتّابها تحدد ما وصل إلينا. وهي أقل إفادة عن الحياة اليومية للأسرى أو آراء من لم يتعاملوا مع المبعوثين الإنجليز. وتساعد قراءتها إلى جانب الدراسات عن الميناء المغربي على رؤية الحدث من جانبي البحر. [المصدر · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [المصدر · Leïla Maziane: Salé et ses corsaires](https://www.puc-ed.fr/fr/book/?GCOI=28777100805180)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_473]]",
+      "caption": "مواقع معاصرة بالنسبة إلى مصب النهر.",
+      "headings": [
+        "الموقع الحالي",
+        "الموضع الجغرافي"
+      ],
+      "rows": [
+        [
+          "سلا",
+          "الضفة الشمالية لأبي رقراق"
+        ],
+        [
+          "قصبة الأوداية",
+          "جهة الرباط عند المصب"
+        ],
+        [
+          "المركز التاريخي للرباط",
+          "جنوب النهر"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ويعرض ملف بريزدا عن [القسطنطينية وإسطنبول](/articles/fall-constantinople-1453-sultan-mehmed-ii/) مثالاً آخر على اختلاف التسميات التاريخية عن الجغرافيا السياسية الحديثة."
     }
   ],
   "sources": [
@@ -130,5 +173,5 @@
       "answer": "استمرت في عهد السلاطين العلويين إلى القرن الثامن عشر."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

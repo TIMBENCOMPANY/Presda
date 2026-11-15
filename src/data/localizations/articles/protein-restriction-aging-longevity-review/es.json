@@ -88,6 +88,49 @@
     {
       "type": "paragraph",
       "text": "Una intervención puede modificar una hormona o un indicador metabólico durante el estudio. Eso muestra cómo responde el organismo en esas condiciones. Demostrar un beneficio para el envejecimiento humano exigiría medir un cambio duradero en la salud o la supervivencia, con seguimiento suficiente y una comparación que permita aislar el efecto. Los resultados en animales y las respuestas medidas en personas representan niveles distintos de evidencia. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué demostraría un envejecimiento más lento en personas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un marcador sanguíneo puede indicar que el organismo respondió a una dieta. Para demostrar un envejecimiento más lento, un ensayo tendría que seguir resultados como la capacidad física o las enfermedades asociadas con la edad durante el tiempo suficiente para distinguir un efecto duradero de una respuesta breve. Incluso un cambio reproducible en un marcador no revela si esa dieta ayuda a las personas mayores a conservar la fuerza. [Fuente · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/) [Fuente · Nature Metabolism human trial](https://doi.org/10.1038/s42255-025-01236-7)"
+    },
+    {
+      "type": "subheading",
+      "text": "Importa qué sustituye a las proteínas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si baja la proporción de calorías procedente de las proteínas, cambia otro componente. Los investigadores deben averiguar cuál, si el aporte energético total fue semejante y si las demás características de las dietas eran comparables. También cuentan los aminoácidos. Modificar uno solo responde a una pregunta más acotada que sustituir un alimento completo, que puede alterar además la ingesta de fibra o grasa. [Fuente · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_464]]",
+      "caption": "Qué miden tres clases de estudios.",
+      "headings": [
+        "Diseño",
+        "Qué mide"
+      ],
+      "rows": [
+        [
+          "Estudio animal de longevidad",
+          "Supervivencia de la especie estudiada con dietas determinadas"
+        ],
+        [
+          "Ensayo dietético humano breve",
+          "Respuestas durante la intervención"
+        ],
+        [
+          "Seguimiento humano prolongado",
+          "Diferencias de salud o capacidad funcional a lo largo del tiempo"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Otro ejemplo de cómo la medida determina el significado de una cifra es [la guía de PRESDA sobre comparaciones de ADN humano](/articles/how-much-dna-humans-share-other-species/)."
     }
   ],
   "sources": [
@@ -114,5 +157,5 @@
       "answer": "Los estudios midieron principalmente cambios metabólicos de corto plazo. El beneficio en longevidad sigue sin demostrarse."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

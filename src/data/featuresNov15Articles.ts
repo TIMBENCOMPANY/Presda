@@ -38,7 +38,13 @@ export const featuresNov15Articles: Article[] = [
       "## Why the comparison diet matters",
       "Reducing protein in a laboratory diet raises a second question: what replaces it? A diet can change in several ways at once, including its total energy and the balance of carbohydrate and fat. Researchers also distinguish diets with less total protein from diets that restrict a particular amino acid. Those interventions can test different mechanisms, so a result from one cannot automatically be assigned to the other. The review discusses them separately. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)",
       "## From a biological mechanism to a human outcome",
-      "An intervention may change a hormone or a metabolic measurement during a study. That can show how the body responds under those conditions. To establish a benefit for aging in people, researchers would need outcomes that measure a lasting change in health or survival, with enough follow-up and a comparison capable of separating the intervention from other causes. The animal findings and measured human responses therefore belong at different levels of evidence. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+      "An intervention may change a hormone or a metabolic measurement during a study. That can show how the body responds under those conditions. To establish a benefit for aging in people, researchers would need outcomes that measure a lasting change in health or survival, with enough follow-up and a comparison capable of separating the intervention from other causes. The animal findings and measured human responses therefore belong at different levels of evidence. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)",
+      "## What would show slower aging in people?",
+      "A blood marker can indicate that the body responded to a diet. To establish slower aging, a trial would need to show that meaningful outcomes, such as physical function or age-related disease, changed over enough time to distinguish an enduring effect from a short-term response. Even a reproducible result for one marker does not tell researchers whether the same diet helps older adults maintain strength. [Source · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/) [Source · Nature Metabolism human trial](https://doi.org/10.1038/s42255-025-01236-7)",
+      "### What replaces the protein matters",
+      "A diet with a lower share of calories from protein necessarily changes something else. Researchers must ask what replaced it, whether participants ate the same total calories and whether the diets matched in other respects. Comparing diets also requires attention to individual amino acids. An experiment that changes one amino acid tests a narrower question than replacing a whole food, which can also change fibre or fat intake. [Source · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)",
+      "[[UPGRADE_464]]",
+      "For another example of how a scientific number depends on what researchers measured, see [PRESDA’s guide to comparisons of human DNA](/articles/how-much-dna-humans-share-other-species/)."
     ],
     "references": [
       {
@@ -67,7 +73,7 @@ export const featuresNov15Articles: Article[] = [
         "answer": "Human studies mainly measured shorter-term metabolic outcomes. Human lifespan benefits remain unproved."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   },
   {
     "id": "465",

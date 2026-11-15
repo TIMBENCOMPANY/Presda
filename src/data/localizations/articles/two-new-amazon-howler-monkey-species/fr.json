@@ -88,6 +88,49 @@
     {
       "type": "paragraph",
       "text": "L’équipe de Salford souligne le rôle de grands cours d’eau comme le Xingu et le Rio Branco dans la séparation des populations à l’échelle évolutive. L’aire attribuée à une ancienne espèce définie plus largement peut inclure des forêts absentes de l’aire de la nouvelle lignée. Une évaluation doit examiner sa distribution propre et les pressions qu’elle subit. Pour la lignée du sud de l’Amazonie, les chercheurs signalent la perte et le morcellement de l’habitat. [Source · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [Comment les scientifiques comparent l’ADN des espèces](/articles/how-much-dna-humans-share-other-species/)."
+    },
+    {
+      "type": "heading",
+      "text": "Que change la subdivision d’une espèce répandue ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un même nom peut masquer plusieurs populations aux histoires évolutives distinctes. Après une scission, on ne peut pas attribuer à chaque nouvelle espèce l’aire et les effectifs calculés pour l’ancien groupe. Une perte de forêt apparemment faible à l’échelle de l’ensemble peut représenter une part importante de l’habitat d’une lignée. Il faut de nouvelles données de présence et une évaluation par espèce reconnue. [Source · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [Source · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+    },
+    {
+      "type": "subheading",
+      "text": "Comment interpréter les frontières sur une carte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un fleuve peut limiter les échanges entre populations sans constituer partout une limite absolue. Les chercheurs rapprochent la rive et le lieu de collecte des lignées déduites des génomes. Les secteurs peu échantillonnés restent plus difficiles à interpréter. Une ancienne pièce de musée bien documentée est alors utile pour combler une lacune des observations modernes. [Source · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [Source · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_459]]",
+      "caption": "Ce que les éléments de l’étude permettent d’établir.",
+      "headings": [
+        "Élément",
+        "Utilité"
+      ],
+      "rows": [
+        [
+          "Génomes",
+          "Identifier et comparer les lignées évolutives"
+        ],
+        [
+          "Lieux de collecte",
+          "Relier les spécimens à des emplacements connus"
+        ],
+        [
+          "Enquêtes sur les forêts et les populations",
+          "Alimenter les évaluations par espèce"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour distinguer comparaison génétique et parenté entre espèces, voyez [comment les scientifiques comparent notre ADN à celui d’autres espèces](/articles/how-much-dna-humans-share-other-species/)."
     }
   ],
   "sources": [
@@ -114,5 +157,5 @@
       "answer": "Sur des données génomiques et des caractères diagnostiques de spécimens de musée."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

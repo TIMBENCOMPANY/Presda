@@ -100,6 +100,49 @@
     {
       "type": "paragraph",
       "text": "Dans son compte rendu du huitième de finale de 2022, la FIFA relève les arrêts sur Carlos Soler et Sergio Busquets après le tir de Pablo Sarabia sur le poteau. Achraf Hakimi a inscrit le tir décisif après un match sans but. La FIFA crédite aussi Bounou de quatre matchs sans encaisser dans ce Mondial, ce qui replace la séance dans l’ensemble de son tournoi. [Source · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Source · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que mesurent les chiffres d’un gardien"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une sélection correspond à une apparition en équipe nationale. Elle ne précise ni le temps de jeu ni si le gardien a gardé sa cage inviolée. Le Maroc a encaissé un but contre le Niger, même si Bounou a arrêté un penalty. Le score et l’arrêt décrivent donc deux aspects distincts de sa centième sélection. [Source · Match sheet](https://www.live-result.com/football/matches/match1815008_Morocco-Niger-live-online) [Source · african.football](https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Trois manières de lire un même parcours"
+    },
+    {
+      "type": "paragraph",
+      "text": "La FIFA attribue quatre matchs sans encaisser à Bounou au Mondial 2022. Le huitième de finale contre l’Espagne en fait partie, car il s’est terminé sur un 0–0 après prolongation. Les deux tirs au but arrêtés ont pesé sur la qualification, mais la séance est comptabilisée séparément des buts et des penalties en cours de match. Cette différence explique pourquoi les bilans chiffrés peuvent varier selon leur objet. [Source · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Source · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_454]]",
+      "caption": "Les différents repères de la carrière internationale de Bounou.",
+      "headings": [
+        "Événement",
+        "Indicateur"
+      ],
+      "rows": [
+        [
+          "Maroc–Niger",
+          "100e sélection et penalty arrêté en cours de match"
+        ],
+        [
+          "Qatar 2022",
+          "Quatre matchs sans encaisser selon la FIFA"
+        ],
+        [
+          "Espagne au Qatar en 2022",
+          "Deux arrêts lors de la séance"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Une distinction individuelle mesure encore autre chose. La CAF l’a désigné meilleur gardien de la CAN 2025. Son prix porte sur cette édition, alors que le total de la FIFA concerne uniquement le Mondial au Qatar. [Source · CAF Golden Glove](https://www.cafonline.com/afcon2025/news/yassine-bounou-wins-totalenergies-caf-afcon-2025-goalkeeper-of-the-tournament/)"
     }
   ],
   "sources": [
@@ -142,5 +185,5 @@
       "answer": "Il est indiqué titulaire et aucun changement de gardien marocain n’est recensé."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

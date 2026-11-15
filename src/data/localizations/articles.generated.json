@@ -347469,6 +347469,49 @@
       {
         "type": "paragraph",
         "text": "قد يغير تدخل غذائي مستوى هرمون أو مؤشراً للاستقلاب خلال الدراسة. ويبين ذلك كيف يستجيب الجسم في تلك الظروف. أما إثبات فائدة تتعلق بالشيخوخة لدى البشر فيحتاج إلى قياس أثر مستمر في الصحة أو البقاء، ومتابعة كافية ومقارنة تفصل أثر التدخل عن العوامل الأخرى. لذلك تختلف قوة الاستدلال بين تجارب الحيوانات والاستجابات المقيسة لدى البشر. [المصدر · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي يثبت تباطؤ الشيخوخة عند البشر؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن لمؤشر في الدم أن يبيّن أن الجسم استجاب لتغير غذائي. ولإثبات تباطؤ الشيخوخة يلزم تتبّع نتائج ذات أثر ملموس، مثل القدرة البدنية أو الأمراض المرتبطة بالعمر، لمدة تكفي للتمييز بين الأثر الدائم والاستجابة المؤقتة. وحتى تكرار تغيّر مؤشر معين لا يكشف ما إذا كان النظام نفسه سيساعد كبار السن على الاحتفاظ بقوتهم. [المصدر · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/) [المصدر · Nature Metabolism human trial](https://doi.org/10.1038/s42255-025-01236-7)"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي حلّ محل البروتين؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يؤدي انخفاض حصة السعرات الآتية من البروتين إلى تغيّر مكوّن آخر بالضرورة. ولذلك يدرس الباحثون ما حلّ محله، وما إذا بقي إجمالي السعرات متقارباً وتشابهت بقية مكوّنات النظام الغذائي. كما ينبغي التمييز بين الأحماض الأمينية. فتغيير حمض أميني واحد يختبر سؤالاً أضيق من استبدال غذاء كامل قد يغيّر أيضاً كمية الألياف أو الدهون. [المصدر · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_464]]",
+        "caption": "ما الذي تقيسه ثلاثة أنواع من الدراسات؟",
+        "headings": [
+          "تصميم الدراسة",
+          "ما يُقاس"
+        ],
+        "rows": [
+          [
+            "دراسة البقاء لدى الحيوانات",
+            "مدة البقاء لدى النوع المدروس على نظم محددة"
+          ],
+          [
+            "تجربة غذائية قصيرة على البشر",
+            "الاستجابة خلال مدة التدخل"
+          ],
+          [
+            "متابعة طويلة للبشر",
+            "اختلاف مؤشرات الصحة أو القدرة البدنية بمرور الزمن"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "ولمثال آخر على اعتماد تفسير الأرقام على طريقة القياس، اقرأ [دليل بريزدا لمقارنة الحمض النووي البشري](/articles/how-much-dna-humans-share-other-species/)."
       }
     ],
     "sources": [
@@ -347495,7 +347538,7 @@
         "answer": "قاست الدراسات البشرية أساساً مؤشرات أيضية قصيرة الأمد، ولم يثبت الأثر على طول العمر."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 3
   },
   {
     "locale": "es",
@@ -347587,6 +347630,49 @@
       {
         "type": "paragraph",
         "text": "Una intervención puede modificar una hormona o un indicador metabólico durante el estudio. Eso muestra cómo responde el organismo en esas condiciones. Demostrar un beneficio para el envejecimiento humano exigiría medir un cambio duradero en la salud o la supervivencia, con seguimiento suficiente y una comparación que permita aislar el efecto. Los resultados en animales y las respuestas medidas en personas representan niveles distintos de evidencia. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué demostraría un envejecimiento más lento en personas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un marcador sanguíneo puede indicar que el organismo respondió a una dieta. Para demostrar un envejecimiento más lento, un ensayo tendría que seguir resultados como la capacidad física o las enfermedades asociadas con la edad durante el tiempo suficiente para distinguir un efecto duradero de una respuesta breve. Incluso un cambio reproducible en un marcador no revela si esa dieta ayuda a las personas mayores a conservar la fuerza. [Fuente · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/) [Fuente · Nature Metabolism human trial](https://doi.org/10.1038/s42255-025-01236-7)"
+      },
+      {
+        "type": "subheading",
+        "text": "Importa qué sustituye a las proteínas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Si baja la proporción de calorías procedente de las proteínas, cambia otro componente. Los investigadores deben averiguar cuál, si el aporte energético total fue semejante y si las demás características de las dietas eran comparables. También cuentan los aminoácidos. Modificar uno solo responde a una pregunta más acotada que sustituir un alimento completo, que puede alterar además la ingesta de fibra o grasa. [Fuente · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_464]]",
+        "caption": "Qué miden tres clases de estudios.",
+        "headings": [
+          "Diseño",
+          "Qué mide"
+        ],
+        "rows": [
+          [
+            "Estudio animal de longevidad",
+            "Supervivencia de la especie estudiada con dietas determinadas"
+          ],
+          [
+            "Ensayo dietético humano breve",
+            "Respuestas durante la intervención"
+          ],
+          [
+            "Seguimiento humano prolongado",
+            "Diferencias de salud o capacidad funcional a lo largo del tiempo"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Otro ejemplo de cómo la medida determina el significado de una cifra es [la guía de PRESDA sobre comparaciones de ADN humano](/articles/how-much-dna-humans-share-other-species/)."
       }
     ],
     "sources": [
@@ -347613,7 +347699,7 @@
         "answer": "Los estudios midieron principalmente cambios metabólicos de corto plazo. El beneficio en longevidad sigue sin demostrarse."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "fr",
@@ -347705,6 +347791,49 @@
       {
         "type": "paragraph",
         "text": "Une intervention peut modifier une hormone ou un marqueur métabolique pendant l’étude. Cela renseigne sur la réponse dans ces conditions. Pour établir un bénéfice sur le vieillissement humain, il faudrait mesurer un effet durable sur la santé ou la survie, avec un suivi suffisant et une comparaison qui isole l’effet de l’intervention. Les résultats animaux et les réponses humaines mesurées relèvent donc de niveaux de preuve différents. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment établir un ralentissement du vieillissement chez l’humain ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un marqueur sanguin peut indiquer que l’organisme a réagi à l’alimentation. Pour démontrer un ralentissement du vieillissement, un essai devrait suivre assez longtemps des résultats concrets, comme la fonction physique ou les maladies liées à l’âge, afin de distinguer un effet durable d’une réponse brève. Même reproductible, un changement biologique ne garantit pas que des personnes âgées conserveront leur force. [Source · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/) [Source · Nature Metabolism human trial](https://doi.org/10.1038/s42255-025-01236-7)"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce qui remplace les protéines compte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une moindre part de calories issues des protéines modifie forcément autre chose. Il faut savoir ce qui les a remplacées, si l’apport énergétique total était comparable et si le reste des régimes était similaire. Les acides aminés comptent aussi. Modifier un seul acide aminé pose une question plus précise que remplacer un aliment entier, ce qui peut aussi changer l’apport en fibres ou en matières grasses. [Source · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_464]]",
+        "caption": "Ce que mesurent trois types d’études.",
+        "headings": [
+          "Protocole",
+          "Résultat mesuré"
+        ],
+        "rows": [
+          [
+            "Étude animale de longévité",
+            "Survie de l’espèce étudiée selon le régime"
+          ],
+          [
+            "Essai alimentaire humain de courte durée",
+            "Réponses pendant l’intervention"
+          ],
+          [
+            "Suivi humain prolongé",
+            "Évolution à terme de la santé ou des capacités physiques"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Autre exemple de mesure dont le sens dépend de la méthode, [le dossier de PRESDA sur les comparaisons d’ADN](/articles/how-much-dna-humans-share-other-species/)."
       }
     ],
     "sources": [
@@ -347731,7 +347860,7 @@
         "answer": "Les études humaines ont surtout mesuré des effets métaboliques à court terme. Le bénéfice sur la durée de vie reste à démontrer."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "ar",
@@ -357970,6 +358099,49 @@
       {
         "type": "paragraph",
         "text": "ويروي الأرشيف أيضاً أن قبطاناً إنجليزياً صادف سنة 1631 قبالة جنوب البرتغال سفينة من الرباط تضم موريسكيين وأوروبيين وصفهم بالتنكر لبلدانهم. ويسلط السجل الضوء على شبكات الملاحة المختلطة في ذلك الوقت. وهو يصف طاقم سفينة واحدة، لذلك يصعب تعميمه على الأسطول كله. [المصدر · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
+      },
+      {
+        "type": "heading",
+        "text": "مصب واحد ومراكز متعددة للسلطة"
+      },
+      {
+        "type": "paragraph",
+        "text": "توضح الخريطة سبب الالتباس في الأسماء. تقع سلا الحالية على الضفة الشمالية لنهر أبي رقراق، بينما تقع قصبة الأوداية والقلب التاريخي للرباط جنوباً. وتطلق وثائق أوروبية اسم سلا الجديدة على تجمعات في جهة الرباط. وإذا قرأنا هذه الأسماء وفق الحدود البلدية المعاصرة فقد ننسب أحداثاً إلى الضفة الخطأ. [المصدر · ICOMOS: Salé heritage guide](https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf) [المصدر · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [المصدر · UNESCO: Rabat](https://whc.unesco.org/en/list/1401/)"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي تكشفه سجلات الفدية؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تناولت المراسلات الإنجليزية الأسرى والمفاوضات لأن المسؤولين والأسر كانوا يسعون إلى الإفراج عنهم. وتساعد هذه الوثائق على معرفة المبالغ والوسطاء عندما تذكرهم، لكن أولويات كُتّابها تحدد ما وصل إلينا. وهي أقل إفادة عن الحياة اليومية للأسرى أو آراء من لم يتعاملوا مع المبعوثين الإنجليز. وتساعد قراءتها إلى جانب الدراسات عن الميناء المغربي على رؤية الحدث من جانبي البحر. [المصدر · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [المصدر · Leïla Maziane: Salé et ses corsaires](https://www.puc-ed.fr/fr/book/?GCOI=28777100805180)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_473]]",
+        "caption": "مواقع معاصرة بالنسبة إلى مصب النهر.",
+        "headings": [
+          "الموقع الحالي",
+          "الموضع الجغرافي"
+        ],
+        "rows": [
+          [
+            "سلا",
+            "الضفة الشمالية لأبي رقراق"
+          ],
+          [
+            "قصبة الأوداية",
+            "جهة الرباط عند المصب"
+          ],
+          [
+            "المركز التاريخي للرباط",
+            "جنوب النهر"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "ويعرض ملف بريزدا عن [القسطنطينية وإسطنبول](/articles/fall-constantinople-1453-sultan-mehmed-ii/) مثالاً آخر على اختلاف التسميات التاريخية عن الجغرافيا السياسية الحديثة."
       }
     ],
     "sources": [
@@ -358008,7 +358180,7 @@
         "answer": "استمرت في عهد السلاطين العلويين إلى القرن الثامن عشر."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "es",
@@ -358104,6 +358276,49 @@
       {
         "type": "paragraph",
         "text": "El archivo también describe un encuentro de 1631 frente al sur de Portugal entre un capitán inglés y un barco de Rabat con moriscos y renegados europeos a bordo. El testimonio permite seguir esas redes mixtas. Documenta la tripulación de un barco concreto y sería arriesgado extrapolarla a toda la flota. [Fuente · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
+      },
+      {
+        "type": "heading",
+        "text": "Una desembocadura, varios centros de poder"
+      },
+      {
+        "type": "paragraph",
+        "text": "El mapa aclara la ambigüedad de los nombres. La Salé actual se encuentra en la orilla norte del Bu Regreg. La alcazaba de los Udayas y el casco histórico de Rabat se sitúan en la orilla sur. Algunos documentos europeos llaman Nueva Salé a asentamientos del lado de Rabat. Aplicar a estos nombres los límites municipales actuales puede situar un episodio en la orilla equivocada. [Fuente · ICOMOS: Salé heritage guide](https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf) [Fuente · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [Fuente · UNESCO: Rabat](https://whc.unesco.org/en/list/1401/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Lo que revelan los expedientes de rescate"
+      },
+      {
+        "type": "paragraph",
+        "text": "La correspondencia inglesa recoge cautivos y negociaciones porque las autoridades y las familias buscaban conseguir liberaciones. Los documentos aclaran precios e intermediarios cuando los mencionan, pero las prioridades de sus autores condicionan lo que conservan. Son una evidencia menos directa de la vida cotidiana de los cautivos o de quienes nunca trataron con enviados ingleses. Leerlos junto a los estudios sobre el puerto marroquí permite ver un episodio desde ambas orillas. [Fuente · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [Fuente · Leïla Maziane: Salé et ses corsaires](https://www.puc-ed.fr/fr/book/?GCOI=28777100805180)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_473]]",
+        "caption": "Lugares actuales en relación con el estuario.",
+        "headings": [
+          "Lugar actual",
+          "Referencia geográfica"
+        ],
+        "rows": [
+          [
+            "Salé",
+            "Orilla norte del Bu Regreg"
+          ],
+          [
+            "Alcazaba de los Udayas",
+            "Lado de Rabat, en la desembocadura"
+          ],
+          [
+            "Casco histórico de Rabat",
+            "Lado sur del río"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "El reportaje de PRESDA sobre [Constantinopla y Estambul](/articles/fall-constantinople-1453-sultan-mehmed-ii/) ofrece otro ejemplo de cómo difiere la toponimia histórica del mapa político actual."
       }
     ],
     "sources": [
@@ -358142,7 +358357,7 @@
         "answer": "Continuó bajo los sultanes alauíes hasta entrado el siglo XVIII."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "fr",
@@ -358238,6 +358453,49 @@
       {
         "type": "paragraph",
         "text": "Les archives relatent aussi la rencontre, en 1631 au large du sud du Portugal, entre un capitaine anglais et un navire de Rabat dont l’équipage comprenait des morisques et des renégats européens. Le récit éclaire ces réseaux mixtes et nous renseigne sur un équipage précis. Il serait imprudent d’en déduire la composition de toute la flotte. [Source · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
+      },
+      {
+        "type": "heading",
+        "text": "Une embouchure, plusieurs centres de pouvoir"
+      },
+      {
+        "type": "paragraph",
+        "text": "La carte éclaire les ambiguïtés de vocabulaire. L’actuelle Salé se trouve sur la rive nord du Bouregreg. La kasbah des Oudayas et le centre historique de Rabat occupent la rive sud. Des documents européens appellent Nouvelle-Salé des établissements situés du côté de Rabat. Plaquer les limites municipales actuelles sur ces textes peut déplacer un épisode sur la mauvaise rive. [Source · ICOMOS: Salé heritage guide](https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf) [Source · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [Source · UNESCO: Rabat](https://whc.unesco.org/en/list/1401/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Les archives et les deux rives du commerce des rançons"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les documents anglais traitent des captifs et des négociations parce que les familles et les autorités cherchaient à obtenir des libérations. Ils éclairent les montants et les intermédiaires lorsqu’ils les mentionnent. Ils renseignent moins directement sur le quotidien des captifs et les personnes qui n’ont jamais traité avec les envoyés anglais. Les confronter aux études sur le port marocain aide à lire un même épisode depuis les deux rives. [Source · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [Source · Leïla Maziane: Salé et ses corsaires](https://www.puc-ed.fr/fr/book/?GCOI=28777100805180)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_473]]",
+        "caption": "Les lieux contemporains par rapport à l’estuaire.",
+        "headings": [
+          "Lieu actuel",
+          "Repère géographique"
+        ],
+        "rows": [
+          [
+            "Salé",
+            "Rive nord du Bouregreg"
+          ],
+          [
+            "Kasbah des Oudayas",
+            "Côté Rabat, à l’embouchure"
+          ],
+          [
+            "Centre historique de Rabat",
+            "Côté sud du fleuve"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Le dossier de PRESDA sur [Constantinople et Istanbul](/articles/fall-constantinople-1453-sultan-mehmed-ii/) offre un autre exemple de décalage entre toponymie historique et géographie politique actuelle."
       }
     ],
     "sources": [
@@ -358276,7 +358534,7 @@
         "answer": "Elle s’est poursuivie sous les sultans alaouites jusque dans le XVIIIe siècle."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "ar",
@@ -413808,6 +414066,49 @@
       {
         "type": "paragraph",
         "text": "يعرّف منتدى التعاون الاقتصادي لآسيا والمحيط الهادئ نفسه بأنه منتدى اقتصادي. ويشمل برنامجه التعاون في التجارة والاستثمار. ويمكن لقادة ثلاث دول أن يتباحثوا على هامشه، بينما تظل القرارات المحتملة بشأن الأسلحة النووية منفصلة عن قرارات المنتدى الاقتصادي نفسه. [المصدر · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي يمكن اعتباره تقدماً في الدبلوماسية النووية؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يسفر اللقاء عن نتائج متفاوتة. فالوعد بمواصلة الحوار يترك المسائل العملية معلّقة، بينما يفتح تعيين مفاوضين أو تحديد موعد مساراً للعمل. أما الاتفاق الملزم فيحتاج إلى بنود تحدّد الأسلحة المشمولة وطريقة التحقق من الالتزام. وتناولت التقارير عن شنتشن محادثات محتملة من دون الإشارة إلى نشر ترتيبات من هذا النوع. [المصدر · Associated Press](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72) [المصدر · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا يختلف اللقاء الجانبي عن قرار المنتدى؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ينظّم البلد المضيف برنامج المنتدى الاقتصادي، لكن الحكومات تختار لقاءاتها على هامشه. ويختلف بيان مشترك للدول الثلاث في دلالته عن إعلان ختامي بشأن التجارة الإقليمية. ولمعرفة ما اتُّفق عليه، يمكن مقارنة البيانات الصادرة عن المشاركين والبحث عن صياغة مشتركة، ولا سيما بشأن الخطوات التالية. [المصدر · APEC Secretariat](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_457]]",
+        "caption": "كيف تُقرأ إعلانات شنتشن حتى 15 نوفمبر؟",
+        "headings": [
+          "الموضوع",
+          "الوضع"
+        ],
+        "rows": [
+          [
+            "أسبوع قادة أبيك",
+            "منتدى اقتصادي له جدول مستقل"
+          ],
+          [
+            "المحادثات الثلاثية",
+            "مقترح نقلته وسائل الإعلام"
+          ],
+          [
+            "اتفاق نووي",
+            "لم تعلن المصادر المشار إليها نصاً للاتفاق"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "ويبيّن [اتفاق الدفاع بين تركيا وقطر](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/) ما يمكن إثباته بالتوقيع العلني وما يبقى رهناً بالتنفيذ."
       }
     ],
     "sources": [
@@ -413842,7 +414143,7 @@
         "answer": "قال مسؤول أميركي لأسوشيتد برس إن إعلان اتفاق غير متوقع."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 3
   },
   {
     "locale": "es",
@@ -413930,6 +414231,49 @@
       {
         "type": "paragraph",
         "text": "APEC se define como un foro económico. Su programa incluye cooperación en comercio e inversión. Tres dirigentes pueden reunirse al margen de ese programa sin que sus decisiones sobre armas nucleares pasen a ser decisiones del foro. [Fuente · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué supondría un avance en materia nuclear"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una reunión puede producir resultados muy distintos. Una promesa de seguir hablando deja pendientes las cuestiones concretas. Designar negociadores o fijar una fecha abriría un proceso. Un acuerdo vinculante exigiría condiciones específicas sobre las armas incluidas y la verificación del cumplimiento. Los informes sobre Shenzhen hablaban de conversaciones posibles sin publicar un arreglo de ese tipo. [Fuente · Associated Press](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72) [Fuente · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué una reunión paralela difiere de una decisión de APEC"
+      },
+      {
+        "type": "paragraph",
+        "text": "El anfitrión organiza el foro económico, pero cada gobierno decide con quién reunirse al margen. Un comunicado conjunto de los tres países tendría un alcance distinto al de una declaración final sobre comercio regional. Para saber qué se decidió habría que comparar los relatos oficiales y buscar términos comunes, especialmente sobre los próximos pasos. [Fuente · APEC Secretariat](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_457]]",
+        "caption": "Cómo leer los anuncios de Shenzhen al 15 de noviembre.",
+        "headings": [
+          "Asunto",
+          "Situación"
+        ],
+        "rows": [
+          [
+            "Semana de Líderes de APEC",
+            "Foro económico con agenda propia"
+          ],
+          [
+            "Reunión a tres",
+            "Propuesta recogida en la prensa"
+          ],
+          [
+            "Acuerdo nuclear",
+            "Sin texto anunciado en las informaciones citadas"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "El [acuerdo de defensa entre Turquía y Catar](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/) ejemplifica lo que puede establecer una firma pública y lo que queda para la aplicación."
       }
     ],
     "sources": [
@@ -413964,7 +414308,7 @@
         "answer": "Un funcionario estadounidense dijo a AP que no se esperaba el anuncio de un acuerdo."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 3
   },
   {
     "locale": "fr",
@@ -414052,6 +414396,49 @@
       {
         "type": "paragraph",
         "text": "L’APEC se présente comme un forum économique. Son programme comprend la coopération en matière de commerce et d’investissement. Trois dirigeants peuvent discuter en marge de ce programme sans que leurs décisions sur les armes nucléaires deviennent des décisions du forum. [Source · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+      },
+      {
+        "type": "heading",
+        "text": "À quoi reconnaîtrait-on une avancée nucléaire ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une rencontre peut déboucher sur plusieurs résultats bien différents. Une promesse de poursuivre les échanges laisse les questions concrètes en suspens. La nomination de négociateurs ou la fixation d’une date ouvrirait un processus. Un accord contraignant exigerait des clauses précises, notamment sur les armes concernées et la vérification. Les articles sur Shenzhen évoquaient des échanges possibles sans faire état d’un tel dispositif. [Source · Associated Press](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72) [Source · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)"
+      },
+      {
+        "type": "subheading",
+        "text": "Une réunion en marge se distingue d’une décision de l’APEC"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’hôte organise le forum économique, mais chaque gouvernement choisit ses interlocuteurs en marge. Un communiqué commun des trois pays n’aurait pas la même portée qu’une déclaration finale sur les échanges régionaux. Pour savoir ce qui a été décidé, il faudrait comparer les comptes rendus et repérer les formulations communes, surtout sur les prochaines étapes. [Source · APEC Secretariat](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_457]]",
+        "caption": "Comment lire les annonces sur Shenzhen au 15 novembre.",
+        "headings": [
+          "Point",
+          "Statut"
+        ],
+        "rows": [
+          [
+            "Semaine des dirigeants de l’APEC",
+            "Forum économique au calendrier distinct"
+          ],
+          [
+            "Rencontre à trois",
+            "Proposition rapportée par la presse"
+          ],
+          [
+            "Accord nucléaire",
+            "Aucun texte annoncé dans les articles cités"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "[L’accord de défense turco-qatari](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/) illustre ce qu’une signature publique peut établir et ce qui relève ensuite de sa mise en œuvre."
       }
     ],
     "sources": [
@@ -414086,7 +414473,7 @@
         "answer": "Un responsable américain a déclaré à AP qu’aucun accord ne devrait être annoncé."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 3
   },
   {
     "locale": "ar",
@@ -414624,6 +415011,53 @@
       {
         "type": "paragraph",
         "text": "كان هذا الاجتماع الثاني عشر للجنة الاستراتيجية. ويتناول البيان نفسه التجارة والاستثمار في إطار اتفاق منفصل للشراكة الاقتصادية، وُقّع عام 2018 ودخل حيز التنفيذ في أغسطس 2025. وتتعلق الوثيقتان بالتزامات مختلفة، ويكشف تناولهما في الجلسة نفسها اتساع مجالات التعاون بين البلدين. [المصدر · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "heading",
+        "text": "من الالتزام السياسي إلى التنفيذ"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجيب مراسم التوقيع عن سؤال محدد، إذ يريد الطرفان اتخاذ موقف مشترك إزاء هجوم مسلح خارجي. أما ما سيفعله كل طرف في أزمة بعينها فيبقى سؤالاً مفتوحاً. فالتشاور وتقديم الدعم اللوجستي وقرار نشر القوات التزامات مختلفة. ولا تحدد المراسم الجهات المخوّلة بالقرار أو المهل والإجراءات التي ستطبق. [المصدر · Amiri Diwan](https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement) [المصدر · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا ينبغي التمييز بين الاتفاقات؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجمع اللجنة الاستراتيجية مجالات متعددة للتعاون. وللتجارة إطار قانوني مستقل، ويوثق البيان دخول اتفاق الشراكة الاقتصادية حيز النفاذ في 2025. وقد يختلف تاريخ توقيع اتفاق الدفاع أيضاً عن تاريخ بدء سريان التزاماته. لذلك لا يكشف الجدول الزمني للتجارة عن مواعيد تنفيذ الاتفاق الدفاعي. [المصدر · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_458]]",
+        "caption": "محطات في التعاون التركي القطري.",
+        "headings": [
+          "العام",
+          "التطور الموثق"
+        ],
+        "rows": [
+          [
+            "2014",
+            "إنشاء اللجنة الاستراتيجية العليا"
+          ],
+          [
+            "2018",
+            "توقيع اتفاق الشراكة التجارية والاقتصادية"
+          ],
+          [
+            "2025",
+            "دخول الاتفاق الاقتصادي حيز النفاذ"
+          ],
+          [
+            "2026",
+            "توقيع اتفاق الدفاع المشترك في إسطنبول"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "وللمقارنة، يوضح [الاجتماع المقترح في شنتشن](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/) سبب التمييز بين لقاء القادة والتوصل إلى اتفاق."
       }
     ],
     "sources": [
@@ -414650,7 +415084,7 @@
         "answer": "تعزيز الدفاع الجماعي وتوحيد الموقف إزاء الاعتداءات المسلحة الخارجية، وفق البيان."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 3
   },
   {
     "locale": "es",
@@ -414738,6 +415172,53 @@
       {
         "type": "paragraph",
         "text": "Era la duodécima sesión del comité estratégico. El mismo texto trata el comercio y la inversión en el marco de un acuerdo económico separado, firmado en 2018 y en vigor desde agosto de 2025. Los dos instrumentos cubren compromisos diferentes y su presencia en una misma reunión ilustra el alcance de la cooperación. [Fuente · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "heading",
+        "text": "Del compromiso político a su aplicación"
+      },
+      {
+        "type": "paragraph",
+        "text": "La firma responde a una pregunta: ambos gobiernos quieren reaccionar juntos ante un ataque armado externo. Sigue abierta otra: qué haría cada uno en una crisis concreta. Consultar, dar apoyo logístico y decidir un despliegue son compromisos diferentes. La ceremonia no identifica las autoridades responsables, los plazos ni los procedimientos. [Fuente · Amiri Diwan](https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement) [Fuente · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué importa distinguir los acuerdos"
+      },
+      {
+        "type": "paragraph",
+        "text": "El comité estratégico reúne varios ámbitos de cooperación. La asociación económica da al comercio su propio marco jurídico y el comunicado registra su entrada en vigor en 2025. En defensa también pueden diferir la fecha de firma y la de vigencia de las obligaciones. El calendario comercial no permite deducir el del acuerdo militar. [Fuente · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_458]]",
+        "caption": "Hitos de la cooperación entre Turquía y Catar.",
+        "headings": [
+          "Año",
+          "Hecho documentado"
+        ],
+        "rows": [
+          [
+            "2014",
+            "Creación del Alto Comité Estratégico"
+          ],
+          [
+            "2018",
+            "Firma del Acuerdo de Asociación Comercial y Económica"
+          ],
+          [
+            "2025",
+            "Entrada en vigor del acuerdo económico"
+          ],
+          [
+            "2026",
+            "Firma del acuerdo de defensa conjunta en Estambul"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Como comparación, [la reunión propuesta en Shenzhen](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/) ilustra la diferencia entre reunirse y alcanzar un acuerdo."
       }
     ],
     "sources": [
@@ -414764,7 +415245,7 @@
         "answer": "Reforzar la defensa colectiva y mantener una postura común ante ataques armados externos, según el comunicado."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 3
   },
   {
     "locale": "fr",
@@ -414852,6 +415333,53 @@
       {
         "type": "paragraph",
         "text": "Le comité stratégique se réunissait pour la douzième fois. Le même communiqué aborde le commerce et l’investissement au titre d’un partenariat économique distinct, signé en 2018 et entré en vigueur en août 2025. Les deux instruments couvrent des engagements différents et leur présence au cours de la même session montre l’étendue de la coopération. [Source · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "heading",
+        "text": "De l’engagement politique à sa mise en œuvre"
+      },
+      {
+        "type": "paragraph",
+        "text": "La signature répond à une question : les deux gouvernements veulent réagir ensemble à une attaque armée extérieure. Elle laisse ouverte la réaction de chacun dans une crise précise. Se consulter, fournir un appui logistique et décider d’un déploiement sont des engagements différents. La cérémonie n’indique ni les autorités responsables ni les délais et procédures applicables. [Source · Amiri Diwan](https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement) [Source · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "subheading",
+        "text": "Pourquoi distinguer les accords"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le comité stratégique réunit plusieurs formes de coopération. Le partenariat économique donne aux échanges leur propre cadre juridique et le communiqué précise son entrée en vigueur en 2025. Pour la défense aussi, la date de signature et celle de l’entrée en vigueur peuvent différer. Le calendrier du commerce ne permet pas de déduire celui de la défense. [Source · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_458]]",
+        "caption": "Repères de la coopération entre la Turquie et le Qatar.",
+        "headings": [
+          "Année",
+          "Fait documenté"
+        ],
+        "rows": [
+          [
+            "2014",
+            "Création du Haut Comité stratégique"
+          ],
+          [
+            "2018",
+            "Signature de l’accord de partenariat commercial et économique"
+          ],
+          [
+            "2025",
+            "Entrée en vigueur de l’accord économique"
+          ],
+          [
+            "2026",
+            "Signature à Istanbul de l’accord de défense conjointe"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "À titre de comparaison, [la rencontre envisagée à Shenzhen](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/) montre pourquoi une réunion ne vaut pas accord."
       }
     ],
     "sources": [
@@ -414878,7 +415406,7 @@
         "answer": "Le communiqué évoque une défense collective renforcée et une position commune face aux attaques armées extérieures."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 3
   },
   {
     "locale": "ar",
@@ -414970,6 +415498,49 @@
       {
         "type": "paragraph",
         "text": "أبرز فريق جامعة سالفورد دور أنهار كبيرة مثل شينغو وريو برانكو في فصل الجماعات على مدى زمني تطوري. وقد يشمل نطاق النوع المعرّف قديماً غابات لا تعيش فيها السلالة المسماة حديثاً. لذلك يلزم تقييم انتشار هذه السلالة والضغوط داخل نطاقها تحديداً. وبالنسبة إلى سلالة جنوب الأمازون، أشار الباحثون إلى فقدان الموائل وتجزئتها. [المصدر · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [كيف يقارن العلماء الحمض النووي بين الأنواع](/articles/how-much-dna-humans-share-other-species/)."
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي يتغير عند تقسيم نوع واسع الانتشار؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يخفي اسم واحد جماعات ذات تواريخ تطورية مختلفة. وبعد التقسيم لا يمكن إسناد مساحة الانتشار أو العدد المقدّر للمجموعة القديمة إلى كل نوع جديد. فقد تمثّل خسارة غابية تبدو محدودة على الخريطة المجمّعة جزءاً كبيراً من موطن سلالة واحدة. ويحتاج المختصون إلى سجلات رصد إضافية وتقييم مستقل لكل نوع معترف به. [المصدر · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [المصدر · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+      },
+      {
+        "type": "subheading",
+        "text": "كيف نقرأ الحدود على خريطة القرود العوّاءة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يقلّل النهر الاختلاط بين الجماعات من دون أن يكون حاجزاً مطلقاً في كل مكان. ويقارن الباحثون الضفة ومكان جمع العينة بالسلالة التي يشير إليها تحليل الجينوم. وتبقى المناطق قليلة العينات أصعب في التفسير. وهنا تفيد عينة متحفية موثقة المكان في سد فجوة في عمليات المسح الحديثة. [المصدر · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [المصدر · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_459]]",
+        "caption": "ما الذي يمكن أن توضحه الأدلة المختلفة؟",
+        "headings": [
+          "الدليل",
+          "الاستخدام"
+        ],
+        "rows": [
+          [
+            "الجينومات",
+            "تحديد السلالات التطورية ومقارنتها"
+          ],
+          [
+            "مواقع جمع العينات",
+            "ربط الحيوانات المدروسة بأماكن معروفة"
+          ],
+          [
+            "مسوح الغابات والجماعات",
+            "توفير بيانات لتقييم كل نوع على حدة"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "للتفريق بين المقارنة الجينية والقرابة التطورية، اقرأ [كيف يقارن العلماء حمضنا النووي بأنواع أخرى](/articles/how-much-dna-humans-share-other-species/)."
       }
     ],
     "sources": [
@@ -414996,7 +415567,7 @@
         "answer": "جمع المؤلفون بين بيانات الجينوم وسمات تشخيصية في عينات متحفية."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 3
   },
   {
     "locale": "es",
@@ -415088,6 +415659,49 @@
       {
         "type": "paragraph",
         "text": "El equipo de Salford destacó el papel de grandes ríos como el Xingú y el Río Branco en la separación evolutiva de poblaciones. El área atribuida a una especie antes definida de manera más amplia puede incluir bosques que el nuevo linaje no habita. Una evaluación debe considerar su distribución real y las presiones dentro de ella. Para el linaje de la Amazonía meridional, los investigadores señalaron la pérdida y fragmentación del hábitat. [Fuente · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [Cómo comparan los científicos el ADN entre especies](/articles/how-much-dna-humans-share-other-species/)."
+      },
+      {
+        "type": "heading",
+        "text": "Qué cambia al dividir una especie de amplia distribución"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un nombre puede agrupar poblaciones de historias evolutivas distintas. Tras una división, ni el área de distribución ni el tamaño poblacional del grupo anterior se pueden atribuir a cada nueva especie. Una pérdida de bosque reducida a escala del conjunto podría representar una fracción considerable del hábitat de un linaje. Se necesitan registros de presencia y una evaluación por especie reconocida. [Fuente · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [Fuente · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+      },
+      {
+        "type": "subheading",
+        "text": "Cómo leer las fronteras en un mapa de los aulladores"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un río puede reducir el contacto entre poblaciones sin constituir una barrera absoluta en todo su curso. El equipo compara la orilla y la localidad de recolección con los linajes inferidos a partir de los genomas. Las zonas poco muestreadas son más difíciles de interpretar. Una pieza de museo bien documentada puede aportar un dato allí donde faltan observaciones modernas. [Fuente · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [Fuente · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_459]]",
+        "caption": "Qué permite establecer cada clase de evidencia.",
+        "headings": [
+          "Evidencia",
+          "Uso"
+        ],
+        "rows": [
+          [
+            "Genomas",
+            "Identificar y comparar linajes evolutivos"
+          ],
+          [
+            "Localidades de colecta",
+            "Vincular los ejemplares a lugares conocidos"
+          ],
+          [
+            "Estudios de bosques y poblaciones",
+            "Aportar datos para evaluaciones de conservación por separado"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Sobre las diferencias entre comparación genética y parentesco evolutivo, véase [cómo se compara nuestro ADN con el de otras especies](/articles/how-much-dna-humans-share-other-species/)."
       }
     ],
     "sources": [
@@ -415114,7 +415728,7 @@
         "answer": "En datos genómicos y rasgos diagnósticos de ejemplares de museo."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "fr",
@@ -415206,6 +415820,49 @@
       {
         "type": "paragraph",
         "text": "L’équipe de Salford souligne le rôle de grands cours d’eau comme le Xingu et le Rio Branco dans la séparation des populations à l’échelle évolutive. L’aire attribuée à une ancienne espèce définie plus largement peut inclure des forêts absentes de l’aire de la nouvelle lignée. Une évaluation doit examiner sa distribution propre et les pressions qu’elle subit. Pour la lignée du sud de l’Amazonie, les chercheurs signalent la perte et le morcellement de l’habitat. [Source · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [Comment les scientifiques comparent l’ADN des espèces](/articles/how-much-dna-humans-share-other-species/)."
+      },
+      {
+        "type": "heading",
+        "text": "Que change la subdivision d’une espèce répandue ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un même nom peut masquer plusieurs populations aux histoires évolutives distinctes. Après une scission, on ne peut pas attribuer à chaque nouvelle espèce l’aire et les effectifs calculés pour l’ancien groupe. Une perte de forêt apparemment faible à l’échelle de l’ensemble peut représenter une part importante de l’habitat d’une lignée. Il faut de nouvelles données de présence et une évaluation par espèce reconnue. [Source · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [Source · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+      },
+      {
+        "type": "subheading",
+        "text": "Comment interpréter les frontières sur une carte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un fleuve peut limiter les échanges entre populations sans constituer partout une limite absolue. Les chercheurs rapprochent la rive et le lieu de collecte des lignées déduites des génomes. Les secteurs peu échantillonnés restent plus difficiles à interpréter. Une ancienne pièce de musée bien documentée est alors utile pour combler une lacune des observations modernes. [Source · Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf) [Source · University of Salford](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_459]]",
+        "caption": "Ce que les éléments de l’étude permettent d’établir.",
+        "headings": [
+          "Élément",
+          "Utilité"
+        ],
+        "rows": [
+          [
+            "Génomes",
+            "Identifier et comparer les lignées évolutives"
+          ],
+          [
+            "Lieux de collecte",
+            "Relier les spécimens à des emplacements connus"
+          ],
+          [
+            "Enquêtes sur les forêts et les populations",
+            "Alimenter les évaluations par espèce"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour distinguer comparaison génétique et parenté entre espèces, voyez [comment les scientifiques comparent notre ADN à celui d’autres espèces](/articles/how-much-dna-humans-share-other-species/)."
       }
     ],
     "sources": [
@@ -415232,7 +415889,7 @@
         "answer": "Sur des données génomiques et des caractères diagnostiques de spécimens de musée."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "ar",
@@ -417747,6 +418404,73 @@
       {
         "type": "paragraph",
         "text": "قد يجمع إدراج واحد أماكن متباعدة. وتُظهر خريطة ديكيس الرسمية في كوستاريكا أربعة مواقع لكل منها حدوده ومنطقته العازلة. وتوضح مقارنتها بموقع روما أن الحدود تتبع طبيعة التراث المعترف به، سواء أكان مشهداً حضرياً أم مجموعة من المواقع الأثرية. [المصدر · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [المصدر · whc.unesco.org](https://whc.unesco.org/en/list/91/) [اقرأ عن مستوطنات ديكيس الأربع](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي تحميه حدود المواقع؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمتد الموقع المدرج في الجيزة عبر حقول الأهرامات حتى دهشور. والكولوسيوم معلم واحد ضمن المركز التاريخي لروما. وفي أنغكور يقع المعبد الأشهر داخل مشهد أثري أوسع بكثير. قد تحمي صيانة المبنى جدرانه، لكن فهم وظيفته يتطلب أيضاً الحفاظ على محيطه. [المصدر · UNESCO: Giza’s pyramids, Egypt](https://whc.unesco.org/en/list/86/) [المصدر · UNESCO: The Colosseum, Italy](https://whc.unesco.org/en/list/91/) [المصدر · UNESCO: Angkor, Cambodia](https://whc.unesco.org/en/list/668/)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا يجمع بعض المواقع بين التراث الثقافي والطبيعي؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ماتشو بيتشو موقع مختلط. فالمدرجات والمباني الحجرية تشهد على هندسة الإنكا، وللغابات الجبلية وبيئة الأنديز قيمة طبيعية قائمة بذاتها. وفي البتراء تساعدنا البيئة على فهم مسألة أخرى، إذ تفسّر القنوات والصهاريج والتضاريس الوعرة كيف أمكن لمدينة أن تعمل في ذلك المكان. [المصدر · UNESCO: Petra, Jordan](https://whc.unesco.org/en/list/326/) [المصدر · UNESCO: Machu Picchu, Peru](https://whc.unesco.org/en/list/274/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_470]]",
+        "caption": "سنوات إدراج المواقع التسعة الواردة في المقال.",
+        "headings": [
+          "الموقع",
+          "الإدراج الأول"
+        ],
+        "rows": [
+          [
+            "حقول أهرامات الجيزة",
+            "1979"
+          ],
+          [
+            "زيمبابوي الكبرى",
+            "1986"
+          ],
+          [
+            "البتراء",
+            "1985"
+          ],
+          [
+            "غوبكلي تبه",
+            "2018"
+          ],
+          [
+            "المركز التاريخي لروما",
+            "1980"
+          ],
+          [
+            "سور الصين العظيم",
+            "1987"
+          ],
+          [
+            "أنغكور",
+            "1992"
+          ],
+          [
+            "ماتشو بيتشو",
+            "1983"
+          ],
+          [
+            "حديقة رابا نوي الوطنية",
+            "1995"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "يسجّل العام قرار لجنة التراث العالمي، ولا يؤرّخ لبناء الموقع أو يرتّبه مقارنةً بغيره. وتوضح [مواقع ديكيس الأربعة المحمية](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/) كيف يمكن إدراج عدة أجزاء معاً."
       }
     ],
     "sources": [
@@ -417809,7 +418533,7 @@
         "answer": "إنه جزء من موقع المركز التاريخي لروما."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "es",
@@ -417957,6 +418681,73 @@
       {
         "type": "paragraph",
         "text": "Una inscripción puede reunir lugares separados. El mapa oficial del Diquís, en Costa Rica, enumera cuatro componentes, cada uno con límites y zona de amortiguamiento propios. Compararlo con la ficha de Roma muestra cómo los límites se adaptan al patrimonio reconocido, ya sea un paisaje urbano o una serie de yacimientos. [Fuente · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Fuente · whc.unesco.org](https://whc.unesco.org/en/list/91/) [Lee sobre los cuatro asentamientos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      },
+      {
+        "type": "heading",
+        "text": "Qué protegen los límites de cada sitio"
+      },
+      {
+        "type": "paragraph",
+        "text": "La inscripción de Guiza abarca varios campos de pirámides hasta Dahshur. El Coliseo es un monumento dentro del centro histórico de Roma. En Angkor, el templo más conocido pertenece a un paisaje arqueológico mucho mayor. Conservar un edificio no garantiza que se conserve el entorno que explica cómo funcionaba. [Fuente · UNESCO: Giza’s pyramids, Egypt](https://whc.unesco.org/en/list/86/) [Fuente · UNESCO: The Colosseum, Italy](https://whc.unesco.org/en/list/91/) [Fuente · UNESCO: Angkor, Cambodia](https://whc.unesco.org/en/list/668/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué un bien puede ser cultural y natural"
+      },
+      {
+        "type": "paragraph",
+        "text": "Machu Picchu es un bien mixto. Las terrazas y los edificios de piedra testimonian la ingeniería inca, mientras que los bosques montanos y el entorno andino poseen valor natural propio. En Petra, el entorno aporta otro tipo de información. Los canales, las cisternas y el relieve explican cómo pudo funcionar una ciudad allí. [Fuente · UNESCO: Petra, Jordan](https://whc.unesco.org/en/list/326/) [Fuente · UNESCO: Machu Picchu, Peru](https://whc.unesco.org/en/list/274/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_470]]",
+        "caption": "Años de inscripción de los nueve lugares reseñados.",
+        "headings": [
+          "Lugar",
+          "Primera inscripción"
+        ],
+        "rows": [
+          [
+            "Campos de pirámides de Guiza",
+            "1979"
+          ],
+          [
+            "Gran Zimbabue",
+            "1986"
+          ],
+          [
+            "Petra",
+            "1985"
+          ],
+          [
+            "Göbekli Tepe",
+            "2018"
+          ],
+          [
+            "Centro histórico de Roma",
+            "1980"
+          ],
+          [
+            "Gran Muralla",
+            "1987"
+          ],
+          [
+            "Angkor",
+            "1992"
+          ],
+          [
+            "Machu Picchu",
+            "1983"
+          ],
+          [
+            "Parque Nacional Rapa Nui",
+            "1995"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Cada año registra una decisión del Comité del Patrimonio Mundial. No indica cuándo se construyó el lugar ni establece una clasificación. Los [cuatro sitios protegidos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/) ilustran cómo pueden inscribirse varios componentes conjuntamente."
       }
     ],
     "sources": [
@@ -418019,7 +418810,7 @@
         "answer": "Forma parte del bien del centro histórico de Roma."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "fr",
@@ -418167,6 +418958,73 @@
       {
         "type": "paragraph",
         "text": "Une même inscription peut réunir des emplacements distincts. La carte officielle du Diquís, au Costa Rica, distingue quatre composantes, chacune dotée d’un périmètre et d’une zone tampon. Comparer cette carte à la fiche de Rome montre comment les limites suivent la nature du patrimoine, qu’il s’agisse d’un paysage urbain ou d’une série de sites archéologiques. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Source · whc.unesco.org](https://whc.unesco.org/en/list/91/) [Lire sur les quatre établissements du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      },
+      {
+        "type": "heading",
+        "text": "Ce que les périmètres protègent"
+      },
+      {
+        "type": "paragraph",
+        "text": "À Gizeh, le bien inscrit s’étend le long des champs de pyramides jusqu’à Dahchour. Le Colisée, lui, relève du centre historique de Rome. À Angkor, le temple connu du grand public fait partie d’un paysage archéologique bien plus vaste. Protéger un édifice ne suffit pas toujours à préserver le cadre qui explique son fonctionnement. [Source · UNESCO: Giza’s pyramids, Egypt](https://whc.unesco.org/en/list/86/) [Source · UNESCO: The Colosseum, Italy](https://whc.unesco.org/en/list/91/) [Source · UNESCO: Angkor, Cambodia](https://whc.unesco.org/en/list/668/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Pourquoi un bien peut être à la fois culturel et naturel"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le Machu Picchu est un bien mixte. Les terrasses et bâtiments de pierre témoignent de l’ingénierie inca, tandis que les forêts et le milieu andin présentent un intérêt naturel propre. À Pétra, le paysage éclaire un autre aspect du site. Les canaux, les citernes et le relief aident à comprendre comment la ville a pu fonctionner. [Source · UNESCO: Petra, Jordan](https://whc.unesco.org/en/list/326/) [Source · UNESCO: Machu Picchu, Peru](https://whc.unesco.org/en/list/274/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_470]]",
+        "caption": "Années d’inscription des neuf lieux présentés.",
+        "headings": [
+          "Lieu",
+          "Première inscription"
+        ],
+        "rows": [
+          [
+            "Champs de pyramides de Gizeh",
+            "1979"
+          ],
+          [
+            "Grand Zimbabwe",
+            "1986"
+          ],
+          [
+            "Pétra",
+            "1985"
+          ],
+          [
+            "Göbekli Tepe",
+            "2018"
+          ],
+          [
+            "Centre historique de Rome",
+            "1980"
+          ],
+          [
+            "Grande Muraille",
+            "1987"
+          ],
+          [
+            "Angkor",
+            "1992"
+          ],
+          [
+            "Machu Picchu",
+            "1983"
+          ],
+          [
+            "Parc national de Rapa Nui",
+            "1995"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "La date correspond à une décision du Comité du patrimoine mondial. Elle ne classe pas les lieux et ne date pas leur construction. Les [quatre sites protégés du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/) illustrent l’inscription commune de plusieurs éléments."
       }
     ],
     "sources": [
@@ -418229,7 +419087,7 @@
         "answer": "Il fait partie du bien du centre historique de Rome."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "ar",
@@ -449247,6 +450105,49 @@
       {
         "type": "paragraph",
         "text": "في تقرير ثمن نهائي مونديال 2022، سجلت فيفا تصدي بونو لركلتي كارلوس سولير وسيرخيو بوسكيتس بعدما اصطدمت كرة بابلو سارابيا بالقائم. وحسم أشرف حكيمي التأهل بعد مباراة انتهت بلا أهداف. وتحصي فيفا لبونو أيضاً أربع مباريات بشباك نظيفة في البطولة، ما يوضح أن أثره تجاوز ركلات الترجيح. [المصدر · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [المصدر · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي تقيسه أرقام حارس المرمى؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعني المباراة الدولية مشاركة اللاعب مع منتخب بلاده، ولا تكشف وحدها مدة مشاركته أو ما إذا حافظ على نظافة شباكه. تلقّى المغرب هدفاً أمام النيجر رغم تصدّي بونو لركلة جزاء. وهكذا يصف الهدف والتصدّي جانبين مختلفين من مباراته المئة. [المصدر · Match sheet](https://www.live-result.com/football/matches/match1815008_Morocco-Niger-live-online) [المصدر · african.football](https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/)"
+      },
+      {
+        "type": "subheading",
+        "text": "ثلاثة مقاييس لمسيرة واحدة"
+      },
+      {
+        "type": "paragraph",
+        "text": "ينسب الفيفا إلى بونو أربع مباريات بشباك نظيفة في مونديال 2022، من بينها ثمن النهائي أمام إسبانيا، الذي انتهى بالتعادل دون أهداف بعد التمديد. وساهم صدّه ركلتين ترجيحيتين في تأهل المغرب، لكن سجلات الترجيح منفصلة عن الأهداف وركلات الجزاء أثناء اللعب. وهذا يفسّر لماذا تتباين الأرقام بحسب ما يقيسه كل إحصاء. [المصدر · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [المصدر · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_454]]",
+        "caption": "كيف تُقرأ محطات بونو الدولية؟",
+        "headings": [
+          "المناسبة",
+          "المؤشر"
+        ],
+        "rows": [
+          [
+            "المغرب والنيجر",
+            "المشاركة المئة والتصدي لركلة جزاء أثناء اللعب"
+          ],
+          [
+            "قطر 2022",
+            "أربع مباريات بشباك نظيفة وفق الفيفا"
+          ],
+          [
+            "مواجهة إسبانيا في قطر",
+            "تصديان في ركلات الترجيح"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "وتقيس الجائزة الفردية شيئاً آخر. فقد اختار الاتحاد الإفريقي بونو أفضل حارس في كأس أمم إفريقيا 2025، في حين يخص رقم الفيفا نسخة كأس العالم في قطر وحدها. [المصدر · CAF Golden Glove](https://www.cafonline.com/afcon2025/news/yassine-bounou-wins-totalenergies-caf-afcon-2025-goalkeeper-of-the-tournament/)"
       }
     ],
     "sources": [
@@ -449289,7 +450190,7 @@
         "answer": "تسجله ورقة المباراة أساسياً ولا تذكر تغييراً في حراسة مرمى المغرب."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "es",
@@ -449393,6 +450294,49 @@
       {
         "type": "paragraph",
         "text": "El relato de la FIFA sobre los octavos de 2022 recoge sus paradas ante Carlos Soler y Sergio Busquets después de que Pablo Sarabia diera en el poste. Achraf Hakimi convirtió el lanzamiento decisivo tras un partido sin goles. La FIFA también le acredita cuatro porterías a cero en aquel Mundial. La tanda ilustra solo una parte de su actuación en todo el torneo. [Fuente · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Fuente · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué miden las cifras de un portero"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una internacionalidad indica que el jugador participó con su selección. Por sí sola no dice cuánto jugó o si acabó con la portería a cero. Marruecos encajó un gol ante Níger aunque Bono detuvo un penalti. El marcador y la parada describen, por tanto, dos aspectos distintos de su partido número 100. [Fuente · Match sheet](https://www.live-result.com/football/matches/match1815008_Morocco-Niger-live-online) [Fuente · african.football](https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Tres maneras de leer una misma carrera"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FIFA atribuye a Bono cuatro porterías a cero en el Mundial de 2022. Entre ellas figura el cruce de octavos ante España, que acabó 0–0 tras la prórroga. Sus dos paradas en la tanda influyeron en la clasificación, pero la tanda se registra aparte de los goles y penaltis durante el juego. La distinción explica por qué distintas estadísticas pueden ofrecer retratos diferentes. [Fuente · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Fuente · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_454]]",
+        "caption": "Cómo leer los hitos internacionales de Bono.",
+        "headings": [
+          "Evento",
+          "Medida"
+        ],
+        "rows": [
+          [
+            "Marruecos–Níger",
+            "Centésima internacionalidad y un penalti detenido durante el juego"
+          ],
+          [
+            "Catar 2022",
+            "Cuatro porterías a cero según la FIFA"
+          ],
+          [
+            "España en Catar 2022",
+            "Dos paradas en la tanda"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Un premio individual mide algo distinto. La CAF lo eligió mejor portero de la Copa Africana de Naciones de 2025. Ese premio se refiere a aquella edición, mientras que el recuento de la FIFA corresponde únicamente al Mundial de Catar. [Fuente · CAF Golden Glove](https://www.cafonline.com/afcon2025/news/yassine-bounou-wins-totalenergies-caf-afcon-2025-goalkeeper-of-the-tournament/)"
       }
     ],
     "sources": [
@@ -449435,7 +450379,7 @@
         "answer": "El registro lo incluye como titular y no recoge un cambio en la portería marroquí."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "fr",
@@ -449539,6 +450483,49 @@
       {
         "type": "paragraph",
         "text": "Dans son compte rendu du huitième de finale de 2022, la FIFA relève les arrêts sur Carlos Soler et Sergio Busquets après le tir de Pablo Sarabia sur le poteau. Achraf Hakimi a inscrit le tir décisif après un match sans but. La FIFA crédite aussi Bounou de quatre matchs sans encaisser dans ce Mondial, ce qui replace la séance dans l’ensemble de son tournoi. [Source · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Source · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que mesurent les chiffres d’un gardien"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une sélection correspond à une apparition en équipe nationale. Elle ne précise ni le temps de jeu ni si le gardien a gardé sa cage inviolée. Le Maroc a encaissé un but contre le Niger, même si Bounou a arrêté un penalty. Le score et l’arrêt décrivent donc deux aspects distincts de sa centième sélection. [Source · Match sheet](https://www.live-result.com/football/matches/match1815008_Morocco-Niger-live-online) [Source · african.football](https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Trois manières de lire un même parcours"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FIFA attribue quatre matchs sans encaisser à Bounou au Mondial 2022. Le huitième de finale contre l’Espagne en fait partie, car il s’est terminé sur un 0–0 après prolongation. Les deux tirs au but arrêtés ont pesé sur la qualification, mais la séance est comptabilisée séparément des buts et des penalties en cours de match. Cette différence explique pourquoi les bilans chiffrés peuvent varier selon leur objet. [Source · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Source · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[UPGRADE_454]]",
+        "caption": "Les différents repères de la carrière internationale de Bounou.",
+        "headings": [
+          "Événement",
+          "Indicateur"
+        ],
+        "rows": [
+          [
+            "Maroc–Niger",
+            "100e sélection et penalty arrêté en cours de match"
+          ],
+          [
+            "Qatar 2022",
+            "Quatre matchs sans encaisser selon la FIFA"
+          ],
+          [
+            "Espagne au Qatar en 2022",
+            "Deux arrêts lors de la séance"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Une distinction individuelle mesure encore autre chose. La CAF l’a désigné meilleur gardien de la CAN 2025. Son prix porte sur cette édition, alors que le total de la FIFA concerne uniquement le Mondial au Qatar. [Source · CAF Golden Glove](https://www.cafonline.com/afcon2025/news/yassine-bounou-wins-totalenergies-caf-afcon-2025-goalkeeper-of-the-tournament/)"
       }
     ],
     "sources": [
@@ -449581,7 +450568,7 @@
         "answer": "Il est indiqué titulaire et aucun changement de gardien marocain n’est recensé."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "ar",

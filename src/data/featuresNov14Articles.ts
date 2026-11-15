@@ -41,7 +41,13 @@ export const featuresNov14Articles: Article[] = [
       "## Two penalty saves with different stakes",
       "African Football reported that Bounou stopped Youssef Omar’s penalty in the 45th minute in Casablanca with Morocco leading Niger 2–1. It protected the lead before half-time in a game Morocco won 5–1. The save was part of the match itself, which matters when comparing it with his best-known shootout. [Source · african.football](https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/)",
       "## Revisit the night Morocco beat Spain",
-      "FIFA’s account of the 2022 round of 16 records saves from Carlos Soler and Sergio Busquets after Pablo Sarabia hit the post. Achraf Hakimi converted the clinching kick. The match itself had ended level without goals. FIFA separately credits Bounou with four clean sheets at that World Cup, so the shootout heroics tell only part of his tournament story. [Source · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Source · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
+      "FIFA’s account of the 2022 round of 16 records saves from Carlos Soler and Sergio Busquets after Pablo Sarabia hit the post. Achraf Hakimi converted the clinching kick. The match itself had ended level without goals. FIFA separately credits Bounou with four clean sheets at that World Cup, so the shootout heroics tell only part of his tournament story. [Source · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Source · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)",
+      "## What a goalkeeper’s numbers actually measure",
+      "A cap marks an appearance for the national team. It says nothing by itself about how much of a match a player played or whether he kept a clean sheet. Morocco conceded once against Niger, even though Bounou stopped a penalty. The scoreline and the save therefore describe two distinct aspects of his 100th appearance. [Source · Match sheet](https://www.live-result.com/football/matches/match1815008_Morocco-Niger-live-online) [Source · african.football](https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/)",
+      "### Three different measures of the same career",
+      "FIFA credits Bounou with four clean sheets at the 2022 World Cup. The round of 16 match against Spain accounts for one of them because it finished 0–0 after extra time. The two kicks he saved in the shootout decided who advanced, but shootout kicks are recorded separately from goals and penalty saves during play. That distinction helps explain why two compilations can describe his achievements very differently. [Source · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Source · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)",
+      "[[UPGRADE_454]]",
+      "A tournament award is a separate measure again. CAF named him the goalkeeper of the tournament at AFCON 2025. Its award describes his performance across that edition, while FIFA’s clean-sheet total applies only to Qatar 2022. [Source · CAF Golden Glove](https://www.cafonline.com/afcon2025/news/yassine-bounou-wins-totalenergies-caf-afcon-2025-goalkeeper-of-the-tournament/)"
     ],
     "references": [
       {
@@ -86,7 +92,7 @@ export const featuresNov14Articles: Article[] = [
         "answer": "The match record lists him as the starter and shows no Moroccan goalkeeper substitution."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   },
   {
     "id": "455",

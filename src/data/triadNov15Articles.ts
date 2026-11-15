@@ -144,7 +144,13 @@ export const triadNov15Articles: Article[] = [
       "## A letter from Salé to Charles I",
       "Britain’s National Archives preserves a document dated 17 May 1627 under catalogue reference SP 102/2. It purports to come from an Andalusi Morisco and offers service to England’s Charles I. The letter refers to peace with the Andalusian inhabitants of the fortress. English agent John Harrison sent it home while trying to extend English influence. Read together, the transcription and translation show how different parties found different uses for the same agreement. The letter records what a correspondent wanted a king to hear, while the archive explains why Harrison thought it worth sending. [Source · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)",
       "## Shipping and diplomacy met at the port",
-      "The archive also describes an English captain’s encounter in 1631 with a Rabat vessel off southern Portugal whose crew included Moriscos and European renegades. Corsairing depended on such mixed networks. An account from a merchant or captain reveals who was aboard a particular ship. It cannot establish the composition of the fleet as a whole. [Source · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
+      "The archive also describes an English captain’s encounter in 1631 with a Rabat vessel off southern Portugal whose crew included Moriscos and European renegades. Corsairing depended on such mixed networks. An account from a merchant or captain reveals who was aboard a particular ship. It cannot establish the composition of the fleet as a whole. [Source · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)",
+      "## One river mouth, several centres of power",
+      "A map clarifies the naming problem. Modern Salé stands on the northern bank of the Bou Regreg; the Kasbah of the Udayas and the historic core of Rabat are on the southern bank. European records use names such as New Salé for settlements on the Rabat side. Reading those names as though they were modern municipal boundaries can put an episode on the wrong bank. [Source · ICOMOS: Salé heritage guide](https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf) [Source · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [Source · UNESCO: Rabat](https://whc.unesco.org/en/list/1401/)",
+      "### The archive reveals both sides of the ransom economy",
+      "English correspondence documents captives and negotiations because officials and families wanted people released. Those files illuminate prices and intermediaries when they record them, but their priorities also shape what survives. They are much less direct evidence about the captives’ daily lives or the views of people who never dealt with English envoys. Reading that evidence alongside studies of the Moroccan port helps explain the same episode from more than one shore. [Source · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [Source · Leïla Maziane: Salé et ses corsaires](https://www.puc-ed.fr/fr/book/?GCOI=28777100805180)",
+      "[[UPGRADE_473]]",
+      "The ports in [PRESDA’s feature on Istanbul and Constantinople](/articles/fall-constantinople-1453-sultan-mehmed-ii/) offer another example of how a historical place name can refer to a different political landscape from the one on a modern map."
     ],
     "references": [
       {
@@ -185,7 +191,7 @@ export const triadNov15Articles: Article[] = [
         "answer": "The activity continued under the Alaouite sultans into the eighteenth century."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   },
   {
     "id": "474",

@@ -84,6 +84,49 @@
     {
       "type": "paragraph",
       "text": "APEC se define como un foro económico. Su programa incluye cooperación en comercio e inversión. Tres dirigentes pueden reunirse al margen de ese programa sin que sus decisiones sobre armas nucleares pasen a ser decisiones del foro. [Fuente · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué supondría un avance en materia nuclear"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una reunión puede producir resultados muy distintos. Una promesa de seguir hablando deja pendientes las cuestiones concretas. Designar negociadores o fijar una fecha abriría un proceso. Un acuerdo vinculante exigiría condiciones específicas sobre las armas incluidas y la verificación del cumplimiento. Los informes sobre Shenzhen hablaban de conversaciones posibles sin publicar un arreglo de ese tipo. [Fuente · Associated Press](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72) [Fuente · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué una reunión paralela difiere de una decisión de APEC"
+    },
+    {
+      "type": "paragraph",
+      "text": "El anfitrión organiza el foro económico, pero cada gobierno decide con quién reunirse al margen. Un comunicado conjunto de los tres países tendría un alcance distinto al de una declaración final sobre comercio regional. Para saber qué se decidió habría que comparar los relatos oficiales y buscar términos comunes, especialmente sobre los próximos pasos. [Fuente · APEC Secretariat](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_457]]",
+      "caption": "Cómo leer los anuncios de Shenzhen al 15 de noviembre.",
+      "headings": [
+        "Asunto",
+        "Situación"
+      ],
+      "rows": [
+        [
+          "Semana de Líderes de APEC",
+          "Foro económico con agenda propia"
+        ],
+        [
+          "Reunión a tres",
+          "Propuesta recogida en la prensa"
+        ],
+        [
+          "Acuerdo nuclear",
+          "Sin texto anunciado en las informaciones citadas"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El [acuerdo de defensa entre Turquía y Catar](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/) ejemplifica lo que puede establecer una firma pública y lo que queda para la aplicación."
     }
   ],
   "sources": [
@@ -118,5 +161,5 @@
       "answer": "Un funcionario estadounidense dijo a AP que no se esperaba el anuncio de un acuerdo."
     }
   ],
-  "readingTimeMinutes": 2
+  "readingTimeMinutes": 3
 }

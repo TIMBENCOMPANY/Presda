@@ -144,6 +144,73 @@
     {
       "type": "paragraph",
       "text": "Una inscripción puede reunir lugares separados. El mapa oficial del Diquís, en Costa Rica, enumera cuatro componentes, cada uno con límites y zona de amortiguamiento propios. Compararlo con la ficha de Roma muestra cómo los límites se adaptan al patrimonio reconocido, ya sea un paisaje urbano o una serie de yacimientos. [Fuente · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Fuente · whc.unesco.org](https://whc.unesco.org/en/list/91/) [Lee sobre los cuatro asentamientos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    },
+    {
+      "type": "heading",
+      "text": "Qué protegen los límites de cada sitio"
+    },
+    {
+      "type": "paragraph",
+      "text": "La inscripción de Guiza abarca varios campos de pirámides hasta Dahshur. El Coliseo es un monumento dentro del centro histórico de Roma. En Angkor, el templo más conocido pertenece a un paisaje arqueológico mucho mayor. Conservar un edificio no garantiza que se conserve el entorno que explica cómo funcionaba. [Fuente · UNESCO: Giza’s pyramids, Egypt](https://whc.unesco.org/en/list/86/) [Fuente · UNESCO: The Colosseum, Italy](https://whc.unesco.org/en/list/91/) [Fuente · UNESCO: Angkor, Cambodia](https://whc.unesco.org/en/list/668/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué un bien puede ser cultural y natural"
+    },
+    {
+      "type": "paragraph",
+      "text": "Machu Picchu es un bien mixto. Las terrazas y los edificios de piedra testimonian la ingeniería inca, mientras que los bosques montanos y el entorno andino poseen valor natural propio. En Petra, el entorno aporta otro tipo de información. Los canales, las cisternas y el relieve explican cómo pudo funcionar una ciudad allí. [Fuente · UNESCO: Petra, Jordan](https://whc.unesco.org/en/list/326/) [Fuente · UNESCO: Machu Picchu, Peru](https://whc.unesco.org/en/list/274/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_470]]",
+      "caption": "Años de inscripción de los nueve lugares reseñados.",
+      "headings": [
+        "Lugar",
+        "Primera inscripción"
+      ],
+      "rows": [
+        [
+          "Campos de pirámides de Guiza",
+          "1979"
+        ],
+        [
+          "Gran Zimbabue",
+          "1986"
+        ],
+        [
+          "Petra",
+          "1985"
+        ],
+        [
+          "Göbekli Tepe",
+          "2018"
+        ],
+        [
+          "Centro histórico de Roma",
+          "1980"
+        ],
+        [
+          "Gran Muralla",
+          "1987"
+        ],
+        [
+          "Angkor",
+          "1992"
+        ],
+        [
+          "Machu Picchu",
+          "1983"
+        ],
+        [
+          "Parque Nacional Rapa Nui",
+          "1995"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada año registra una decisión del Comité del Patrimonio Mundial. No indica cuándo se construyó el lugar ni establece una clasificación. Los [cuatro sitios protegidos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/) ilustran cómo pueden inscribirse varios componentes conjuntamente."
     }
   ],
   "sources": [
@@ -206,5 +273,5 @@
       "answer": "Forma parte del bien del centro histórico de Roma."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

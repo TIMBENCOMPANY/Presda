@@ -92,6 +92,49 @@
     {
       "type": "paragraph",
       "text": "Les archives relatent aussi la rencontre, en 1631 au large du sud du Portugal, entre un capitaine anglais et un navire de Rabat dont l’équipage comprenait des morisques et des renégats européens. Le récit éclaire ces réseaux mixtes et nous renseigne sur un équipage précis. Il serait imprudent d’en déduire la composition de toute la flotte. [Source · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
+    },
+    {
+      "type": "heading",
+      "text": "Une embouchure, plusieurs centres de pouvoir"
+    },
+    {
+      "type": "paragraph",
+      "text": "La carte éclaire les ambiguïtés de vocabulaire. L’actuelle Salé se trouve sur la rive nord du Bouregreg. La kasbah des Oudayas et le centre historique de Rabat occupent la rive sud. Des documents européens appellent Nouvelle-Salé des établissements situés du côté de Rabat. Plaquer les limites municipales actuelles sur ces textes peut déplacer un épisode sur la mauvaise rive. [Source · ICOMOS: Salé heritage guide](https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf) [Source · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [Source · UNESCO: Rabat](https://whc.unesco.org/en/list/1401/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Les archives et les deux rives du commerce des rançons"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les documents anglais traitent des captifs et des négociations parce que les familles et les autorités cherchaient à obtenir des libérations. Ils éclairent les montants et les intermédiaires lorsqu’ils les mentionnent. Ils renseignent moins directement sur le quotidien des captifs et les personnes qui n’ont jamais traité avec les envoyés anglais. Les confronter aux études sur le port marocain aide à lire un même épisode depuis les deux rives. [Source · The National Archives: Rabat–Salé](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/) [Source · Leïla Maziane: Salé et ses corsaires](https://www.puc-ed.fr/fr/book/?GCOI=28777100805180)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_473]]",
+      "caption": "Les lieux contemporains par rapport à l’estuaire.",
+      "headings": [
+        "Lieu actuel",
+        "Repère géographique"
+      ],
+      "rows": [
+        [
+          "Salé",
+          "Rive nord du Bouregreg"
+        ],
+        [
+          "Kasbah des Oudayas",
+          "Côté Rabat, à l’embouchure"
+        ],
+        [
+          "Centre historique de Rabat",
+          "Côté sud du fleuve"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dossier de PRESDA sur [Constantinople et Istanbul](/articles/fall-constantinople-1453-sultan-mehmed-ii/) offre un autre exemple de décalage entre toponymie historique et géographie politique actuelle."
     }
   ],
   "sources": [
@@ -130,5 +173,5 @@
       "answer": "Elle s’est poursuivie sous les sultans alaouites jusque dans le XVIIIe siècle."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

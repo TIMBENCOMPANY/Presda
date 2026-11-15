@@ -88,6 +88,49 @@
     {
       "type": "paragraph",
       "text": "Une intervention peut modifier une hormone ou un marqueur métabolique pendant l’étude. Cela renseigne sur la réponse dans ces conditions. Pour établir un bénéfice sur le vieillissement humain, il faudrait mesurer un effet durable sur la santé ou la survie, avec un suivi suffisant et une comparaison qui isole l’effet de l’intervention. Les résultats animaux et les réponses humaines mesurées relèvent donc de niveaux de preuve différents. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment établir un ralentissement du vieillissement chez l’humain ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un marqueur sanguin peut indiquer que l’organisme a réagi à l’alimentation. Pour démontrer un ralentissement du vieillissement, un essai devrait suivre assez longtemps des résultats concrets, comme la fonction physique ou les maladies liées à l’âge, afin de distinguer un effet durable d’une réponse brève. Même reproductible, un changement biologique ne garantit pas que des personnes âgées conserveront leur force. [Source · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/) [Source · Nature Metabolism human trial](https://doi.org/10.1038/s42255-025-01236-7)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce qui remplace les protéines compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une moindre part de calories issues des protéines modifie forcément autre chose. Il faut savoir ce qui les a remplacées, si l’apport énergétique total était comparable et si le reste des régimes était similaire. Les acides aminés comptent aussi. Modifier un seul acide aminé pose une question plus précise que remplacer un aliment entier, ce qui peut aussi changer l’apport en fibres ou en matières grasses. [Source · Cell Metabolism review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[UPGRADE_464]]",
+      "caption": "Ce que mesurent trois types d’études.",
+      "headings": [
+        "Protocole",
+        "Résultat mesuré"
+      ],
+      "rows": [
+        [
+          "Étude animale de longévité",
+          "Survie de l’espèce étudiée selon le régime"
+        ],
+        [
+          "Essai alimentaire humain de courte durée",
+          "Réponses pendant l’intervention"
+        ],
+        [
+          "Suivi humain prolongé",
+          "Évolution à terme de la santé ou des capacités physiques"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Autre exemple de mesure dont le sens dépend de la méthode, [le dossier de PRESDA sur les comparaisons d’ADN](/articles/how-much-dna-humans-share-other-species/)."
     }
   ],
   "sources": [
@@ -114,5 +157,5 @@
       "answer": "Les études humaines ont surtout mesuré des effets métaboliques à court terme. Le bénéfice sur la durée de vie reste à démontrer."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }
