@@ -55,6 +55,38 @@
     },
     {
       "type": "heading",
+      "text": "Le pouvoir, les écoles et les bibliothèques n’ont pas la même histoire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les études de 1258 distinguent l’effondrement politique du destin des institutions. Le calife et une grande partie de sa famille furent tués, mettant fin au pouvoir abbasside à Bagdad. Le sac, les morts et les déplacements furent catastrophiques. Pour établir si une école ou une bibliothèque a fermé, rouvert ou déplacé ses livres, les historiens ont cependant besoin de sources propres à l’institution. Une chronique de conquête et un registre signalant l’audition ultérieure d’un texte répondent à des questions différentes. [Source · Reuven Amitai, Encyclopaedia Iranica](https://www.iranicaonline.org/articles/hulagu-khan/) [Source · Michal Biran, Libraries and knowledge in Ilkhanid Baghdad](https://doi.org/10.1163/15685209-12341485)"
+    },
+    {
+      "type": "subheading",
+      "text": "Comment lire la peinture du manuscrit"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’image vient d’une copie du Compendium des chroniques de Rashid al-Din réalisée vers 1430–1434, environ 175 ans après le siège. L’artiste organise les murs, les bâtiments et les groupes opposés pour le lecteur. La peinture renseigne sur la représentation ultérieure de 1258. Elle ne permet pas de restituer le plan de la ville, le visage des protagonistes ni la chronologie éventuellement condensée en une scène. La date et la provenance de l’image font partie de son interprétation. [Source · Bibliothèque nationale de France, manuscript reproduction](https://commons.wikimedia.org/wiki/File:Bagdad1258.jpg)"
+    },
+    {
+      "type": "heading",
+      "text": "Quelles traces ont survécu au sac ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’historienne Michal Biran a étudié des dictionnaires biographiques arabes, des listes de livres et des attestations dites samāʿ, qui peuvent indiquer qu’une personne a entendu un texte transmis. Ces sources permettent de suivre l’enseignement, la lecture et la circulation d’ouvrages après la conquête. Elles attestent l’activité de bibliothèques sous les Ilkhanides. Biran décrit aussi la réouverture de collèges. Ces continuités ne réduisent pas l’ampleur des destructions. Elles montrent que les institutions et les réseaux de la ville ont connu des destins différents. [Source · Michal Biran, Libraries and knowledge in Ilkhanid Baghdad](https://doi.org/10.1163/15685209-12341485) [Source · Michal Biran, the Mongol conquest of Baghdad](https://www.cambridge.org/core/books/abs/violence-in-islamic-thought-from-the-mongols-to-european-imperialism/violence-and-nonviolence-in-the-mongol-conquest-of-baghdad-1258/9C0300C13E7A5C400A2206329AA687D0)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qui a changé avec le retour d’un calife abbasside au Caire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le titre abbasside fut rétabli au Caire sous les Mamelouks en 1261. À Bagdad, la dynastie avait longtemps siégé et exercé le pouvoir en Irak. Au Caire, l’arrangement reposait sur une autre base politique. Les sultans mamelouks gouvernaient et le titre califal pouvait soutenir leurs prétentions à la légitimité. Bagdad restait dans un État gouverné par les Mongols. L’[histoire de la Mésopotamie par PRESDA](/articles/mesopotamia-sumer-akkad-babylon-assyria-history/) replace 1258 dans une histoire plus longue des capitales et de la culture écrite entre les deux fleuves. [Source · Reuven Amitai, Encyclopaedia Iranica](https://www.iranicaonline.org/articles/hulagu-khan/) [Source · Michal Biran, the Mongol conquest of Baghdad](https://www.cambridge.org/core/books/abs/violence-in-islamic-thought-from-the-mongols-to-european-imperialism/violence-and-nonviolence-in-the-mongol-conquest-of-baghdad-1258/9C0300C13E7A5C400A2206329AA687D0)"
+    },
+    {
+      "type": "heading",
       "text": "Les bibliothèques et la légende du Tigre"
     },
     {
@@ -110,6 +142,14 @@
     {
       "label": "Source: www.iranicaonline.org",
       "url": "https://www.iranicaonline.org/articles/il-khanids-i-dynastic-history/"
+    },
+    {
+      "label": "Source · Bibliothèque nationale de France, manuscript reproduction",
+      "url": "https://commons.wikimedia.org/wiki/File:Bagdad1258.jpg"
+    },
+    {
+      "label": "Source · Michal Biran, the Mongol conquest of Baghdad",
+      "url": "https://www.cambridge.org/core/books/abs/violence-in-islamic-thought-from-the-mongols-to-european-imperialism/violence-and-nonviolence-in-the-mongol-conquest-of-baghdad-1258/9C0300C13E7A5C400A2206329AA687D0"
     }
   ],
   "faq": [
@@ -122,5 +162,5 @@
       "answer": "Le pouvoir à Bagdad a pris fin. Un califat abbasside sous patronage mamelouk a débuté au Caire en 1261."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 5
 }

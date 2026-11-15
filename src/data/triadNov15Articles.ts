@@ -217,6 +217,14 @@ export const triadNov15Articles: Article[] = [
       "Hulagu was a grandson of Genghis Khan and brother of the Great Khan Möngke. His campaign expanded Mongol authority westward through Iran. In 1256 his forces captured Alamut, a major stronghold of the Nizari Ismailis. Negotiations with the Abbasid court failed to produce a settlement. By the end of 1257, Mongol forces were converging on Baghdad. [Encyclopaedia Iranica: Hulagu Khan](https://www.iranicaonline.org/articles/hulagu-khan/)",
       "### The siege, surrender and sack",
       "Baghdad’s defenders resisted before surrender. The capture and the caliph’s execution broke the political institutions centered on the Abbasid court. Chroniclers describe extensive killing and looting, but their death tolls differ too widely for a precise figure. Later stories also differ about the manner of al-Musta’sim’s death. His execution is better established than the details attached to it. [Encyclopaedia Iranica: Baghdad under the Mongols](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/)",
+      "## Why a court, a school and a library tell different parts of the story",
+      "The strongest accounts of 1258 distinguish political collapse from what happened to particular institutions. The caliph and much of his family were killed, ending Abbasid rule in Baghdad. The army’s sack and the deaths and dislocations that accompanied it were catastrophic. To learn whether a particular school or library closed, reopened or moved books, however, historians need evidence at the level of that institution. A chronicle of conquest and a later record of someone hearing a text therefore answer different questions. [Source · Reuven Amitai, Encyclopaedia Iranica](https://www.iranicaonline.org/articles/hulagu-khan/) [Source · Michal Biran, Libraries and knowledge in Ilkhanid Baghdad](https://doi.org/10.1163/15685209-12341485)",
+      "### How to read the manuscript painting",
+      "The illustration reproduced here is from a copy of Rashid al-Din’s Compendium of Chronicles made around 1430–1434, roughly 175 years after the siege. The painter gives viewers an organized view of walls, buildings and opposing groups. The image shows how a later manuscript represented 1258. It cannot establish the precise city plan, the appearance of individual people or which moment the artist meant to collapse into a single scene. Its date and provenance are part of the evidence. [Source · Bibliothèque nationale de France, manuscript reproduction](https://commons.wikimedia.org/wiki/File:Bagdad1258.jpg)",
+      "## What evidence survived the sack?",
+      "Historian Michal Biran studied Arabic biographical dictionaries, lists of books and records called samāʿ, which can register that a text was heard or transmitted. Such records let historians ask where people taught, read and circulated books after the conquest. They reveal continued activity in Ilkhanid Baghdad and the functioning of libraries. Biran also describes colleges reopening after the sack. Continuity does not cancel the damage. It establishes that the city’s working institutions and intellectual networks did not all meet the same fate on one date. [Source · Michal Biran, Libraries and knowledge in Ilkhanid Baghdad](https://doi.org/10.1163/15685209-12341485) [Source · Michal Biran, the Mongol conquest of Baghdad](https://www.cambridge.org/core/books/abs/violence-in-islamic-thought-from-the-mongols-to-european-imperialism/violence-and-nonviolence-in-the-mongol-conquest-of-baghdad-1258/9C0300C13E7A5C400A2206329AA687D0)",
+      "## What changed when the Abbasid caliphate returned in Cairo",
+      "The Abbasid title reappeared in Cairo under Mamluk rule in 1261. The Baghdad court had exercised power within Iraq and had a long history as the seat of the dynasty. The Cairo arrangement rested on a different political foundation. The Mamluk sultans ruled, and restoring a caliphal title could serve their claims to legitimacy. Baghdad, meanwhile, remained within a Mongol-ruled polity. Reading this alongside [PRESDA’s history of Mesopotamia](/articles/mesopotamia-sumer-akkad-babylon-assyria-history/) situates 1258 in the much longer history of political centers and written culture between the rivers. [Source · Reuven Amitai, Encyclopaedia Iranica](https://www.iranicaonline.org/articles/hulagu-khan/) [Source · Michal Biran, the Mongol conquest of Baghdad](https://www.cambridge.org/core/books/abs/violence-in-islamic-thought-from-the-mongols-to-european-imperialism/violence-and-nonviolence-in-the-mongol-conquest-of-baghdad-1258/9C0300C13E7A5C400A2206329AA687D0)",
       "## The libraries and the legend of the Tigris",
       "Historian Michal Biran documents real harm to Baghdad’s book collections through looting, fire, disruption and loss. Stories of ink turning the Tigris black or books forming a bridge belong to a later literary tradition and cannot establish the scale of destruction. Nor do those stories prove that the early Abbasid House of Wisdom still existed in its familiar form as a single library in 1258. [Michal Biran: libraries in Ilkhanid Baghdad](https://doi.org/10.1163/15685209-12341485)",
       "Collections survived or were rebuilt, and scholars copied, taught from and circulated books under Ilkhanid rule. Biran traces evidence of that activity through library histories and the biographies of scholars. Baghdad lost its Abbasid court and much of its population and material wealth. The city’s intellectual networks changed and continued to function. [Michal Biran: libraries in Ilkhanid Baghdad](https://doi.org/10.1163/15685209-12341485)",
@@ -244,6 +252,14 @@ export const triadNov15Articles: Article[] = [
       {
         "name": "Encyclopaedia Iranica: Ilkhanid dynastic history",
         "url": "https://www.iranicaonline.org/articles/il-khanids-i-dynastic-history/"
+      },
+      {
+        "name": "Bibliothèque nationale de France, manuscript reproduction",
+        "url": "https://commons.wikimedia.org/wiki/File:Bagdad1258.jpg"
+      },
+      {
+        "name": "Michal Biran, the Mongol conquest of Baghdad",
+        "url": "https://www.cambridge.org/core/books/abs/violence-in-islamic-thought-from-the-mongols-to-european-imperialism/violence-and-nonviolence-in-the-mongol-conquest-of-baghdad-1258/9C0300C13E7A5C400A2206329AA687D0"
       }
     ],
     "relatedSlugs": [
@@ -260,6 +276,6 @@ export const triadNov15Articles: Article[] = [
         "answer": "Rule from Baghdad ended. A Mamluk-backed Abbasid caliphate began in Cairo in 1261."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "5 min read"
   }
 ];
