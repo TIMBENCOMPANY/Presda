@@ -1,3 +1,4 @@
+import { triadNov15Articles } from "@/data/triadNov15Articles";
 import { worldHistoryNov15Articles } from "@/data/worldHistoryNov15Articles";
 import { featuresNov15Articles } from "@/data/featuresNov15Articles";
 import { newsNov15Articles } from "@/data/newsNov15Articles";
@@ -254,6 +255,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  ...triadNov15Articles,
   ...worldHistoryNov15Articles,
   ...featuresNov15Articles,
   ...newsNov15Articles,

@@ -1,0 +1,109 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/baghdad-1258-mongol-siege-fall-abbasids/",
+  "path": "/fr/articles/baghdad-1258-mongol-siege-fall-abbasids/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "BAGDAD EN 1258 : LES MONGOLS ET LA CHUTE DES ABBASSIDES",
+  "seoTitle": "Bagdad en 1258 : siège mongol et chute des Abbassides",
+  "description": "Le siège de Hülegü a mis fin au pouvoir abbasside à Bagdad. Les sources éclairent le sac, la perte de livres et la vie savante des décennies suivantes.",
+  "excerpt": "Le siège de Hülegü a mis fin au pouvoir abbasside à Bagdad. Les sources éclairent le sac, la perte de livres et la vie savante des décennies suivantes.",
+  "headlineHighlights": {
+    "red": "BAGDAD EN 1258",
+    "gold": "CHUTE DES ABBASSIDES"
+  },
+  "keywords": [
+    "BAGDAD EN 1258",
+    "CHUTE DES ABBASSIDES"
+  ],
+  "searchIntent": "Le siège de Hülegü a mis fin au pouvoir abbasside à Bagdad. Les sources éclairent le sac, la perte de livres et la vie savante des décennies suivantes.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/baghdad-1258-mongol-siege-editorial-reconstruction.jpg",
+    "alt": "Illustration dramatique montrant des cavaliers mongols, une ville en feu et des livres dans un fleuve",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En février 1258, les forces de Hülegü ont pris Bagdad. Le sac a fait des victimes, endommagé la ville et mis fin au pouvoir des califes abbassides dans leur capitale. Al-Musta’sim, le dernier calife abbasside à y avoir régné, a été exécuté. Des récits ultérieurs ont fait du désastre la fin de toute vie savante. Les sources permettent de suivre les pertes et les continuités. [Source: www.iranicaonline.org](https://www.iranicaonline.org/articles/hulagu-khan/)"
+    },
+    {
+      "type": "heading",
+      "text": "Une campagne commencée loin de Bagdad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Petit-fils de Gengis Khan et frère du grand khan Möngke, Hülegü a étendu l’autorité mongole vers l’ouest à travers l’Iran. En 1256, ses forces ont pris Alamut, place forte majeure des ismaéliens nizârites. Les négociations avec la cour abbasside n’ont pas abouti. À la fin de 1257, les forces mongoles convergeaient vers Bagdad. [Source: www.iranicaonline.org](https://www.iranicaonline.org/articles/hulagu-khan/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Le siège, la reddition et le sac"
+    },
+    {
+      "type": "paragraph",
+      "text": "La défense de Bagdad a résisté avant la reddition. La prise de la ville et l’exécution du calife ont brisé les institutions centrées sur la cour abbasside. Les chroniques décrivent de vastes tueries et des pillages, mais leurs bilans divergent trop pour avancer un chiffre précis. Les récits varient aussi sur la manière dont al-Musta’sim a été tué. Son exécution est mieux établie que ses modalités. [Source: www.iranicaonline.org](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/)"
+    },
+    {
+      "type": "heading",
+      "text": "Les bibliothèques et la légende du Tigre"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’historienne Michal Biran documente des pertes réelles dans les collections de Bagdad, liées aux pillages, aux incendies et aux bouleversements. Les récits d’un Tigre noir d’encre ou d’un pont de livres appartiennent à une tradition littéraire plus tardive. Ils ne mesurent pas la destruction et n’établissent pas que la Maison de la sagesse des premiers Abbassides existait encore sous la forme d’une bibliothèque unique en 1258. [Source: doi.org](https://doi.org/10.1163/15685209-12341485)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des collections ont survécu ou ont été reconstituées. Sous les Ilkhanides, les savants copiaient des livres, les utilisaient pour enseigner et les faisaient circuler. Biran en retrouve les traces dans les biographies et les histoires de bibliothèques. Bagdad a perdu sa cour et subi de lourdes pertes humaines et matérielles, tandis que ses réseaux savants se transformaient. [Source: doi.org](https://doi.org/10.1163/15685209-12341485)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qui s’est achevé en 1258 et ce qui s’est déplacé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bagdad est entrée dans les territoires des Ilkhanides, la dynastie de Hülegü. En 1261, les Mamelouks ont installé au Caire un calife abbasside qui légitimait leur pouvoir, exercé par les sultans. Le nom abbasside a survécu dans un autre cadre, tandis que Bagdad avait cessé d’être le siège de l’ancien califat. [Source: www.iranicaonline.org](https://www.iranicaonline.org/articles/il-khanids-i-dynastic-history/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Le califat abbasside et l’âge d’or de Bagdad](/articles/abbasid-caliphate-baghdad-islamic-golden-age/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.iranicaonline.org",
+      "url": "https://www.iranicaonline.org/articles/hulagu-khan/"
+    },
+    {
+      "label": "Source: www.iranicaonline.org",
+      "url": "https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/"
+    },
+    {
+      "label": "Source: doi.org",
+      "url": "https://doi.org/10.1163/15685209-12341485"
+    },
+    {
+      "label": "Source: www.iranicaonline.org",
+      "url": "https://www.iranicaonline.org/articles/il-khanids-i-dynastic-history/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le Tigre a-t-il vraiment noirci d’encre ?",
+      "answer": "L’image vient de récits tardifs. Les collections ont subi des pertes réelles, mais l’épisode reste invérifié."
+    },
+    {
+      "question": "Le titre abbasside a-t-il disparu en 1258 ?",
+      "answer": "Le pouvoir à Bagdad a pris fin. Un califat abbasside sous patronage mamelouk a débuté au Caire en 1261."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/how-much-dna-humans-share-other-species/",
+  "path": "/es/articles/how-much-dna-humans-share-other-species/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "¿CUÁNTO ADN COMPARTEN LOS HUMANOS CON OTRAS ESPECIES?",
+  "seoTitle": "¿Cuánto ADN compartimos con otras especies?",
+  "description": "De chimpancés y macacos a aves, plantas y levaduras, la respuesta cambia según se comparen letras del ADN, genes o funciones.",
+  "excerpt": "De chimpancés y macacos a aves, plantas y levaduras, la respuesta cambia según se comparen letras del ADN, genes o funciones.",
+  "headlineHighlights": {
+    "red": "ADN",
+    "gold": "OTRAS ESPECIES"
+  },
+  "keywords": [
+    "ADN",
+    "OTRAS ESPECIES"
+  ],
+  "searchIntent": "De chimpancés y macacos a aves, plantas y levaduras, la respuesta cambia según se comparen letras del ADN, genes o funciones.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/human-dna-shared-ancestry-species-illustration.jpg",
+    "alt": "Ilustración de un ser humano y otros animales alrededor de una doble hélice de ADN",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Una comparación de referencia halló cerca de un 98,8 % de letras idénticas en las secuencias alineadas de humanos y chimpancés. La cifra resulta de restar un 1,23 % de sustituciones al 100 %. Contar genes compartidos o comparar cromosomas completos responde a otra pregunta. La distinción importa más cuanto mayor es la distancia evolutiva. [Fuente: www.nature.com](https://www.nature.com/articles/nature04072)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué cuentan los científicos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una alineación coloca secuencias correspondientes lado a lado y mide coincidencias exactas en posiciones comparables. Inserciones, pérdidas, duplicaciones y reordenamientos afectan a lo que puede alinearse. La ortología pregunta si dos genes descienden del mismo gen ancestral. En una correspondencia uno a uno hay una copia en cada especie según las reglas del estudio. [Fuente: www.nature.com](https://www.nature.com/articles/nature04072)"
+    },
+    {
+      "type": "subheading",
+      "text": "Comparar grandes simios y macacos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio del gorila estimó una divergencia humano-gorila de alrededor del 1,75 %, equivalente a un 98,25 % de identidad con esa medida. Algunas regiones cuentan una historia distinta: una variante ancestral puede persistir durante varias separaciones y distribuirse de manera diferente. En conjunto, el humano y el chimpancé están más emparentados entre sí que con el gorila. [Fuente: www.nature.com](https://www.nature.com/articles/nature10842)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El macaco rhesus, un mono del Viejo Mundo, presentó alrededor de un 93 % de similitud en la comparación de 2007 con humanos y chimpancés. El dato corresponde al rhesus y a ese método. La diversidad de linajes impide dar un único porcentaje para todos los monos. [Fuente: www.genome.gov](https://www.genome.gov/25520551/2007-release-analysis-of-rhesus-monkey-genome-uncovers-genetic-differences-with-humans-chimps)"
+    },
+    {
+      "type": "heading",
+      "text": "Otros mamíferos y aves"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una comparación con un genoma de ratón terminado encontró equivalentes uno a uno para cerca del 80 % de los genes humanos anotados. La proporción cambió al partir de los genes del ratón. Importan el recuento y la referencia. Los genes conservados hacen útil al ratón como modelo, mientras la regulación y la fisiología limitan la extrapolación. [Fuente: pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alrededor del 60 % de los genes del pollo codificantes de proteínas tenían un equivalente humano único. Es una fracción de genes del pollo y no se compara directamente con el 98,8 % de identidad entre letras alineadas de humanos y chimpancés. Ambos datos registran la ascendencia común a escalas distintas. [Fuente: www.nature.com](https://www.nature.com/articles/nature03154)"
+    },
+    {
+      "type": "heading",
+      "text": "Plantas, hongos y mecanismos celulares compartidos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El genoma de Arabidopsis reveló genes conservados entre eucariotas y familias características de plantas. Mecanismos antiguos ayudan a empaquetar el ADN y mantener la célula. Un porcentaje universal ocultaría la diferencia entre esa herencia común y secuencias de trayectorias muy distintas. [Fuente: www.nature.com](https://www.nature.com/articles/35048692)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La función ofrece otra comparación. En un experimento, equivalentes humanos reemplazaron cerca del 47 % de 414 genes esenciales de levadura ensayados. La cifra mide sustituciones experimentales exitosas. No indica identidad entre genomas. La pregunta útil es qué contó el estudio y cuál fue el denominador. [Fuente: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Comparación de los genomas humanos y de los grandes simios](/articles/humans-apes-dna-similarity-chimpanzees-evolution/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.nature.com",
+      "url": "https://www.nature.com/articles/nature04072"
+    },
+    {
+      "label": "Fuente: www.nature.com",
+      "url": "https://www.nature.com/articles/nature10842"
+    },
+    {
+      "label": "Fuente: www.genome.gov",
+      "url": "https://www.genome.gov/25520551/2007-release-analysis-of-rhesus-monkey-genome-uncovers-genetic-differences-with-humans-chimps"
+    },
+    {
+      "label": "Fuente: pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/"
+    },
+    {
+      "label": "Fuente: www.nature.com",
+      "url": "https://www.nature.com/articles/nature03154"
+    },
+    {
+      "label": "Fuente: www.nature.com",
+      "url": "https://www.nature.com/articles/35048692"
+    },
+    {
+      "label": "Fuente: pubmed.ncbi.nlm.nih.gov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25999509/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿El 98,8 % corresponde al genoma completo?",
+      "answer": "Es una identidad aproximada entre letras alineadas y comparables en un estudio."
+    },
+    {
+      "question": "¿Funcionan igual los genes compartidos?",
+      "answer": "Un origen común no establece idéntica expresión o función."
+    }
+  ]
+}

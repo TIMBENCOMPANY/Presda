@@ -1,0 +1,113 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/republic-bou-regreg-morocco-corsairs-sale/",
+  "path": "/es/articles/republic-bou-regreg-morocco-corsairs-sale/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "LA REPÚBLICA DEL BU REGREG: LOS LEGENDARIOS CORSARIOS DE SALÉ",
+  "seoTitle": "República del Bu Regreg y corsarios de Salé",
+  "description": "El exilio morisco, el corso y la diplomacia forjaron una república del siglo XVII entre Rabat y Salé.",
+  "excerpt": "El exilio morisco, el corso y la diplomacia forjaron una república del siglo XVII entre Rabat y Salé.",
+  "headlineHighlights": {
+    "red": "BU REGREG",
+    "gold": "CORSARIOS DE SALÉ"
+  },
+  "keywords": [
+    "BU REGREG",
+    "CORSARIOS DE SALÉ"
+  ],
+  "searchIntent": "El exilio morisco, el corso y la diplomacia forjaron una república del siglo XVII entre Rabat y Salé.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/morocco-bou-regreg-sale-corsair-ships-illustration.jpg",
+    "alt": "Corsario y veleros imaginados frente a un estuario fortificado de Marruecos",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En la desembocadura del Bu Regreg, dos ciudades se miran y tienen acceso al Atlántico. En 1627, un gobierno centrado en la alcazaba de la actual Rabat afirmó su autonomía mientras se fragmentaba el poder saadí. Los europeos llamaban a menudo Salé al puerto, incluso al describir actividades en la orilla de Rabat. La migración, el comercio y las expediciones marítimas dieron fuerza a la república. [Fuente: brill.com](https://brill.com/display/book/9789004730885/BP000019.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo el exilio morisco transformó el puerto"
+    },
+    {
+      "type": "paragraph",
+      "text": "La expulsión ordenada por España desde 1609 empujó a los moriscos, descendientes de musulmanes convertidos al cristianismo, hacia otras orillas, incluido el Marruecos atlántico. Un grupo de Hornachos, en Extremadura, se instaló en la alcazaba. Otros andalusíes se asentaron en la ciudad baja. Sus intereses a veces coincidían y a veces chocaban, sobre todo por las aduanas y el reparto de capturas. [Fuente: brill.com](https://brill.com/display/book/9789004730885/BP000019.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un consejo en la alcazaba"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un consejo, o diván, ejercía la autoridad local. Las alianzas cambiaban entre la alcazaba, la ciudad baja y la antigua Salé en la otra orilla. Los conflictos de comienzos de la década de 1630 muestran lo difícil que era repartir poder e ingresos. El término república describe esa autonomía, sujeta a equilibrios cambiantes entre comunidades y poderes externos. [Fuente: openarchive.icomos.org](https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Incursiones, cautivos y negociaciones europeas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los corsarios perseguían mercantes en rutas atlánticas, incluso en aguas cercanas a Gran Bretaña. Las cargas podían venderse y las personas sufrían cautiverio, esclavitud o rescate. La diplomacia avanzó en paralelo. El enviado inglés John Harrison trató con dirigentes moriscos y una carta de 1627 alude a un acuerdo de paz. Conflictos posteriores y un bloqueo inglés muestran su fragilidad. [Fuente: www.nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/)"
+    },
+    {
+      "type": "heading",
+      "text": "El fin de la autonomía y la continuidad del puerto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Poderes ajenos al estuario intervinieron repetidamente hasta que la consolidación alauí de la década de 1660 puso los puertos bajo control del sultán. La autonomía y el corso tienen cronologías distintas. La historiadora Leïla Maziane estudia cómo la actividad siguió entre 1666 y 1727 dentro del sistema político y comercial del sultanato. [Fuente: www.puc-ed.fr](https://www.puc-ed.fr/fr/book/?GCOI=28777100805180)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La inscripción de Rabat en el Patrimonio Mundial incluye la alcazaba de los Udayas y reconoce las distintas capas de la ciudad. El tejido urbano que perdura ancla la historia en tierra y recuerda las consecuencias del exilio, la negociación y la rivalidad entre comunidades de ambas orillas. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/1401/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Viajes de Ibn Battuta](/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: brill.com",
+      "url": "https://brill.com/display/book/9789004730885/BP000019.pdf"
+    },
+    {
+      "label": "Fuente: openarchive.icomos.org",
+      "url": "https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf"
+    },
+    {
+      "label": "Fuente: www.nationalarchives.gov.uk",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/"
+    },
+    {
+      "label": "Fuente: www.puc-ed.fr",
+      "url": "https://www.puc-ed.fr/fr/book/?GCOI=28777100805180"
+    },
+    {
+      "label": "Fuente: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1401/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo surgió la república?",
+      "answer": "1627 es la fecha habitual para la afirmación de la autonomía."
+    },
+    {
+      "question": "¿Terminó el corso con la autonomía?",
+      "answer": "Continuó bajo los sultanes alauíes hasta entrado el siglo XVIII."
+    }
+  ]
+}

@@ -102,6 +102,8 @@ const publishedPresdaCredits = new Set([
 
 export function getImageRights(source: string): ImageRights {
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.
+  if (["/articles/human-dna-shared-ancestry-species-illustration.jpg","/articles/morocco-bou-regreg-sale-corsair-ships-illustration.jpg","/articles/baghdad-1258-mongol-siege-editorial-reconstruction.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
+  // Approved editorial reconstructions; no unsupported photographer or licence attribution.
   if (["/articles/las-bolas-diquis-stone-sphere-excavation-illustration.jpg","/articles/wow-signal-6equj5-radio-telescope-illustration.jpg","/articles/diquis-culture-stone-spheres-village-illustration.jpg","/articles/unesco-world-heritage-archaeological-sites-editorial-montage.jpg","/articles/mesopotamia-tigris-euphrates-ziggurat-editorial-illustration.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // Approved editorial reconstructions; no unsupported photographer or licence attribution.
   if (["/articles/protein-restriction-aging-nutrition-research.jpg","/articles/chalcatzingo-cave-teotihuacan-warrior-ritual-illustration.jpg","/articles/reuters-175-paul-julius-reuter-pigeon-newsroom.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

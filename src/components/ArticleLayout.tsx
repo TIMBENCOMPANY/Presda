@@ -1,3 +1,4 @@
+import triadNov15HeroCaptions from "@/data/triadNov15HeroCaptions.json";
 import worldHistoryNov15HeroCaptions from "@/data/worldHistoryNov15HeroCaptions.json";
 import featuresNov15HeroCaptions from "@/data/featuresNov15HeroCaptions.json";
 import newsNov15HeroCaptions from "@/data/newsNov15HeroCaptions.json";
@@ -451,6 +452,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug in newsNov15HeroCaptions && <p data-news-nov15-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{newsNov15HeroCaptions[article.slug as keyof typeof newsNov15HeroCaptions][locale]}</p>}
         {article.slug in featuresNov15HeroCaptions && <p data-features-nov15-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{featuresNov15HeroCaptions[article.slug as keyof typeof featuresNov15HeroCaptions][locale]}</p>}
         {article.slug in worldHistoryNov15HeroCaptions && <p data-world-history-nov15-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{worldHistoryNov15HeroCaptions[article.slug as keyof typeof worldHistoryNov15HeroCaptions][locale]}</p>}
+        {article.slug in triadNov15HeroCaptions && <p data-triad-nov15-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{triadNov15HeroCaptions[article.slug as keyof typeof triadNov15HeroCaptions][locale]}</p>}
         {article.slug in heroRefreshNov07Captions && <p data-hero-refresh-nov07-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{heroRefreshNov07Captions[article.slug as keyof typeof heroRefreshNov07Captions][locale]}</p>}
         {article.slug in mbappeChinaHeroCaptions && <p data-mbappe-china-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mbappeChinaHeroCaptions[article.slug as keyof typeof mbappeChinaHeroCaptions][locale]}</p>}
         {article.slug in discoveriesSportNov01HeroCaptions && <p data-discoveries-sport-nov01-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{discoveriesSportNov01HeroCaptions[article.slug as keyof typeof discoveriesSportNov01HeroCaptions][locale]}</p>}

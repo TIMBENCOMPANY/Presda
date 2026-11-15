@@ -1,0 +1,109 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/baghdad-1258-mongol-siege-fall-abbasids/",
+  "path": "/es/articles/baghdad-1258-mongol-siege-fall-abbasids/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "BAGDAD EN 1258: LOS MONGOLES Y LA CAÍDA DE LOS ABASÍES",
+  "seoTitle": "Bagdad en 1258: asedio mongol y caída abasí",
+  "description": "El asedio de Hulagu puso fin al poder abasí en Bagdad. Las fuentes permiten examinar el saqueo, la pérdida de libros y la actividad intelectual posterior.",
+  "excerpt": "El asedio de Hulagu puso fin al poder abasí en Bagdad. Las fuentes permiten examinar el saqueo, la pérdida de libros y la actividad intelectual posterior.",
+  "headlineHighlights": {
+    "red": "BAGDAD EN 1258",
+    "gold": "CAÍDA DE LOS ABASÍES"
+  },
+  "keywords": [
+    "BAGDAD EN 1258",
+    "CAÍDA DE LOS ABASÍES"
+  ],
+  "searchIntent": "El asedio de Hulagu puso fin al poder abasí en Bagdad. Las fuentes permiten examinar el saqueo, la pérdida de libros y la actividad intelectual posterior.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/baghdad-1258-mongol-siege-editorial-reconstruction.jpg",
+    "alt": "Ilustración dramatizada con jinetes mongoles, una ciudad en llamas y libros flotando en un río",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En febrero de 1258, las fuerzas de Hulagu tomaron Bagdad. El saqueo causó muertes y daños y puso fin al gobierno de los califas abasíes desde su capital. Al-Musta’sim, el último califa abasí que gobernó allí, fue ejecutado. Relatos posteriores convirtieron el desastre en el fin de toda vida intelectual. Las fuentes permiten rastrear las pérdidas y las continuidades. [Fuente: www.iranicaonline.org](https://www.iranicaonline.org/articles/hulagu-khan/)"
+    },
+    {
+      "type": "heading",
+      "text": "Una campaña que empezó lejos de Bagdad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hulagu era nieto de Gengis Kan y hermano del gran kan Möngke. Su campaña extendió la autoridad mongola hacia el oeste a través de Irán. En 1256 sus fuerzas tomaron Alamut, un bastión importante de los ismailíes nizaríes. Las negociaciones con la corte abasí fracasaron y a finales de 1257 las tropas convergían sobre Bagdad. [Fuente: www.iranicaonline.org](https://www.iranicaonline.org/articles/hulagu-khan/)"
+    },
+    {
+      "type": "subheading",
+      "text": "El asedio, la rendición y el saqueo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los defensores de Bagdad resistieron antes de rendirse. La toma de la ciudad y la ejecución del califa desmantelaron las instituciones políticas centradas en la corte abasí. Las crónicas describen matanzas y saqueos, pero sus balances difieren demasiado para fijar una cifra. También varían las versiones sobre cómo murió al-Musta’sim. Su ejecución está mejor documentada que el método. [Fuente: www.iranicaonline.org](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/)"
+    },
+    {
+      "type": "heading",
+      "text": "Las bibliotecas y la leyenda del Tigris"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historiadora Michal Biran documenta daños reales a las colecciones de Bagdad por saqueos, incendios, trastornos y pérdidas. Las historias de un Tigris negro de tinta o de un puente de libros pertenecen a una tradición literaria posterior. No permiten medir la destrucción ni establecen que la Casa de la Sabiduría abasí temprana siguiera siendo una sola biblioteca en 1258. [Fuente: doi.org](https://doi.org/10.1163/15685209-12341485)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas colecciones sobrevivieron o se recompusieron. Bajo los iljaníes, los eruditos copiaron libros, los usaron para enseñar y los hicieron circular. Biran rastrea esa actividad en biografías e historias de bibliotecas. Bagdad perdió su corte y padeció grandes pérdidas humanas y materiales, mientras sus redes intelectuales cambiaban y seguían activas. [Fuente: doi.org](https://doi.org/10.1163/15685209-12341485)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué acabó en 1258 y qué pasó a otro lugar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bagdad pasó a los territorios de los iljaníes, la dinastía de Hulagu. En 1261 los mamelucos instalaron a un califa abasí en El Cairo. El cargo daba legitimidad a sus protectores, mientras los sultanes mamelucos ejercían el poder. El nombre abasí perduró en otro contexto y Bagdad dejó de ser la sede del antiguo califato. [Fuente: www.iranicaonline.org](https://www.iranicaonline.org/articles/il-khanids-i-dynastic-history/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[El califato abasí y la edad de oro de Bagdad](/articles/abbasid-caliphate-baghdad-islamic-golden-age/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.iranicaonline.org",
+      "url": "https://www.iranicaonline.org/articles/hulagu-khan/"
+    },
+    {
+      "label": "Fuente: www.iranicaonline.org",
+      "url": "https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/"
+    },
+    {
+      "label": "Fuente: doi.org",
+      "url": "https://doi.org/10.1163/15685209-12341485"
+    },
+    {
+      "label": "Fuente: www.iranicaonline.org",
+      "url": "https://www.iranicaonline.org/articles/il-khanids-i-dynastic-history/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Se volvió negro el Tigris por la tinta?",
+      "answer": "La imagen procede de relatos posteriores. Hubo pérdidas reales de libros, pero la historia sigue sin verificarse."
+    },
+    {
+      "question": "¿Desapareció el título abasí en 1258?",
+      "answer": "Terminó el gobierno desde Bagdad. En 1261 empezó en El Cairo un califato abasí respaldado por los mamelucos."
+    }
+  ]
+}

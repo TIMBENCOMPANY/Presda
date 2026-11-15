@@ -1,0 +1,129 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/how-much-dna-humans-share-other-species/",
+  "path": "/fr/articles/how-much-dna-humans-share-other-species/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "QUELLE PART DE NOTRE ADN PARTAGEONS-NOUS AVEC D’AUTRES ESPÈCES ?",
+  "seoTitle": "Combien d’ADN partageons-nous avec d’autres espèces ?",
+  "description": "Des chimpanzés aux levures, en passant par les oiseaux et les plantes, la réponse dépend de ce que l’on compare : lettres de l’ADN, gènes ou fonctions.",
+  "excerpt": "Des chimpanzés aux levures, en passant par les oiseaux et les plantes, la réponse dépend de ce que l’on compare : lettres de l’ADN, gènes ou fonctions.",
+  "headlineHighlights": {
+    "red": "ADN",
+    "gold": "D’AUTRES ESPÈCES"
+  },
+  "keywords": [
+    "ADN",
+    "D’AUTRES ESPÈCES"
+  ],
+  "searchIntent": "Des chimpanzés aux levures, en passant par les oiseaux et les plantes, la réponse dépend de ce que l’on compare : lettres de l’ADN, gènes ou fonctions.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/human-dna-shared-ancestry-species-illustration.jpg",
+    "alt": "Illustration d’un humain et d’autres animaux autour d’une double hélice d’ADN",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une comparaison de référence trouve environ 98,8 % de lettres identiques dans les séquences alignées de l’humain et du chimpanzé. Ce chiffre correspond à 100 % moins 1,23 % de substitutions. Un pourcentage de gènes communs ou une comparaison de chromosomes entiers répond à une autre question. La distinction devient cruciale quand les espèces sont plus éloignées. [Source: www.nature.com](https://www.nature.com/articles/nature04072)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que les chercheurs comptent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un alignement place côte à côte les séquences correspondantes et mesure l’identité des positions comparables. Insertions, délétions, copies supplémentaires et réarrangements changent la part qu’on peut aligner. L’orthologie cherche plutôt si deux gènes descendent du même gène ancestral. En correspondance un à un, chaque espèce possède une copie correspondante selon les règles de l’étude. [Source: www.nature.com](https://www.nature.com/articles/nature04072)"
+    },
+    {
+      "type": "subheading",
+      "text": "Comparer grands singes et macaques"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étude du génome du gorille a estimé à environ 1,75 % la divergence humain-gorille, soit environ 98,25 % d’identité selon cette mesure. Certaines régions racontent une histoire différente : une variante ancestrale peut persister après plusieurs séparations et se répartir différemment chez les descendants. Dans l’ensemble, humains et chimpanzés restent plus proches entre eux que du gorille. [Source: www.nature.com](https://www.nature.com/articles/nature10842)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans la comparaison génomique publiée en 2007, le macaque rhésus, singe de l’Ancien Monde, montrait environ 93 % de similarité avec l’humain et le chimpanzé. Cette estimation concerne le rhésus et la méthode choisie. La diversité des lignées empêche d’attribuer un seul chiffre à tous les singes. [Source: www.genome.gov](https://www.genome.gov/25520551/2007-release-analysis-of-rhesus-monkey-genome-uncovers-genetic-differences-with-humans-chimps)"
+    },
+    {
+      "type": "heading",
+      "text": "Les autres mammifères et les oiseaux"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une comparaison fondée sur un génome de souris achevé a trouvé un équivalent unique chez la souris pour environ 80 % des gènes humains annotés. En prenant les gènes murins comme point de départ, la proportion changeait. Le décompte et le génome de référence comptent tous deux. Les gènes conservés rendent la souris utile, tandis que la régulation et la physiologie limitent les extrapolations. [Source: pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Environ 60 % des gènes codant des protéines chez le poulet avaient un équivalent humain unique dans l’étude du consortium. Cette fraction de gènes du poulet ne se compare pas directement aux 98,8 % de lettres identiques entre humain et chimpanzé. Les deux résultats renseignent sur la parenté à des échelles différentes. [Source: www.nature.com](https://www.nature.com/articles/nature03154)"
+    },
+    {
+      "type": "heading",
+      "text": "Plantes, champignons et mécanismes cellulaires anciens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le génome de l’arabette révèle à la fois des gènes conservés chez les eucaryotes et des familles caractéristiques des plantes. Des mécanismes anciens contribuent à organiser l’ADN et au fonctionnement cellulaire. Un pourcentage universel masquerait la différence entre cet héritage commun et des séquences aux histoires très différentes. [Source: www.nature.com](https://www.nature.com/articles/35048692)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fonction fournit une autre comparaison. Dans une expérience, des gènes humains ont pu remplacer environ 47 % de 414 gènes essentiels de levure testés. Le chiffre porte sur la réussite de ces substitutions expérimentales. Il ne mesure pas l’identité de nos génomes. Il faut toujours savoir ce que l’étude compte et quel est son dénominateur. [Source: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25999509/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Comparaison des génomes humain et simiens](/articles/humans-apes-dna-similarity-chimpanzees-evolution/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.nature.com",
+      "url": "https://www.nature.com/articles/nature04072"
+    },
+    {
+      "label": "Source: www.nature.com",
+      "url": "https://www.nature.com/articles/nature10842"
+    },
+    {
+      "label": "Source: www.genome.gov",
+      "url": "https://www.genome.gov/25520551/2007-release-analysis-of-rhesus-monkey-genome-uncovers-genetic-differences-with-humans-chimps"
+    },
+    {
+      "label": "Source: pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2680341/"
+    },
+    {
+      "label": "Source: www.nature.com",
+      "url": "https://www.nature.com/articles/nature03154"
+    },
+    {
+      "label": "Source: www.nature.com",
+      "url": "https://www.nature.com/articles/35048692"
+    },
+    {
+      "label": "Source: pubmed.ncbi.nlm.nih.gov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25999509/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "98,8 % correspond-il au génome entier ?",
+      "answer": "C’est une identité approximative des lettres alignées et comparables dans une étude."
+    },
+    {
+      "question": "Les gènes partagés fonctionnent-ils de la même façon ?",
+      "answer": "Une origine commune ne garantit ni une expression ni une fonction identiques."
+    }
+  ]
+}

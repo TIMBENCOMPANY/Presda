@@ -1,0 +1,113 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/republic-bou-regreg-morocco-corsairs-sale/",
+  "path": "/fr/articles/republic-bou-regreg-morocco-corsairs-sale/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-15",
+    "terminologyChecked": true
+  },
+  "title": "LA RÉPUBLIQUE DU BOU REGREG : LES CORSAIRES LÉGENDAIRES DE SALÉ",
+  "seoTitle": "République du Bou Regreg et corsaires de Salé",
+  "description": "L’exil morisque, la course et la diplomatie ont façonné une république du XVIIe siècle entre Rabat et Salé.",
+  "excerpt": "L’exil morisque, la course et la diplomatie ont façonné une république du XVIIe siècle entre Rabat et Salé.",
+  "headlineHighlights": {
+    "red": "BOU REGREG",
+    "gold": "CORSAIRES LÉGENDAIRES DE SALÉ"
+  },
+  "keywords": [
+    "BOU REGREG",
+    "CORSAIRES LÉGENDAIRES DE SALÉ"
+  ],
+  "searchIntent": "L’exil morisque, la course et la diplomatie ont façonné une république du XVIIe siècle entre Rabat et Salé.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-15",
+  "updatedAt": "2026-11-15",
+  "image": {
+    "src": "/articles/morocco-bou-regreg-sale-corsair-ships-illustration.jpg",
+    "alt": "Corsaire et voiliers imaginés devant un estuaire marocain fortifié",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Au débouché du Bou Regreg, deux villes se font face et accèdent à l’Atlantique. En 1627, un gouvernement établi dans la kasbah de l’actuelle Rabat a affirmé son autonomie au moment où le pouvoir saadien se fragmentait. Dans les documents européens, Salé désigne parfois le port et les activités de la rive de Rabat. La migration, le commerce et les expéditions maritimes ont donné sa force à cette république. [Source: brill.com](https://brill.com/display/book/9789004730885/BP000019.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment l’exil morisque a façonné le port"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’expulsion ordonnée par l’Espagne à partir de 1609 a poussé les morisques, descendants de musulmans convertis au christianisme, vers d’autres rives, dont le Maroc atlantique. Des gens de Hornachos, en Estrémadure, se sont installés dans la kasbah. D’autres Andalous ont habité la ville basse. Leurs intérêts se rejoignaient parfois et s’opposaient à d’autres moments, notamment autour des douanes et du partage des prises. [Source: brill.com](https://brill.com/display/book/9789004730885/BP000019.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un conseil dans la kasbah"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un conseil, le diwan, exerçait l’autorité locale. Les alliances évoluaient entre la kasbah, la ville basse et l’ancienne Salé sur l’autre rive. Les conflits du début des années 1630 illustrent la difficulté de partager pouvoir et recettes. Le terme de république désigne cette autonomie, dont l’équilibre variait avec les rapports de force locaux et extérieurs. [Source: openarchive.icomos.org](https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Courses, captifs et négociations européennes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les corsaires poursuivaient des navires marchands sur les routes atlantiques, jusque dans les eaux proches des îles Britanniques. Les cargaisons prises pouvaient être vendues, tandis que les personnes risquaient la captivité, l’esclavage ou la rançon. La diplomatie s’est développée en parallèle. L’envoyé anglais John Harrison a négocié avec les dirigeants morisques. Une lettre de 1627 évoque un accord de paix, dont les conflits ultérieurs et un blocus anglais montrent la fragilité. [Source: www.nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/)"
+    },
+    {
+      "type": "heading",
+      "text": "La fin de l’autonomie et la continuité du port"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des pouvoirs extérieurs sont intervenus à plusieurs reprises avant que la consolidation alaouite des années 1660 place les ports sous l’autorité du sultan. L’autonomie politique et la course ont donc des chronologies différentes. L’historienne Leïla Maziane suit cette activité de 1666 à 1727, dans le cadre politique et commercial du sultanat. [Source: www.puc-ed.fr](https://www.puc-ed.fr/fr/book/?GCOI=28777100805180)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le classement de Rabat au patrimoine mondial comprend la kasbah des Oudayas et reconnaît les différentes strates de la ville. Le tissu urbain subsistant ancre cette histoire à terre. Il rappelle aussi les conséquences de l’exil, des négociations et des rivalités entre les communautés des deux rives. [Source: whc.unesco.org](https://whc.unesco.org/en/list/1401/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Voyages d’Ibn Battûta](/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: brill.com",
+      "url": "https://brill.com/display/book/9789004730885/BP000019.pdf"
+    },
+    {
+      "label": "Source: openarchive.icomos.org",
+      "url": "https://openarchive.icomos.org/1384/1/25112012_sale_guide.pdf"
+    },
+    {
+      "label": "Source: www.nationalarchives.gov.uk",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%C3%A9/"
+    },
+    {
+      "label": "Source: www.puc-ed.fr",
+      "url": "https://www.puc-ed.fr/fr/book/?GCOI=28777100805180"
+    },
+    {
+      "label": "Source: whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1401/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand la république est-elle née ?",
+      "answer": "1627 est la date retenue pour l’affirmation de son autonomie."
+    },
+    {
+      "question": "La course a-t-elle cessé avec l’autonomie ?",
+      "answer": "Elle s’est poursuivie sous les sultans alaouites jusque dans le XVIIIe siècle."
+    }
+  ]
+}
