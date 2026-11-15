@@ -113,6 +113,7 @@ import { PhotographyHistoricalImage, photographyImageAtBlock } from "@/component
 import { MesopotamiaGrainTablet } from "@/components/MesopotamiaGrainTablet";
 import { WowSignalPrintout } from "@/components/WowSignalPrintout";
 import { DiquisEvidencePhoto } from "@/components/DiquisEvidencePhoto";
+import { HaeckelRadiolariaPlate } from "@/components/HaeckelRadiolariaPlate";
 import medicalCannabisHeroCaptions from "@/data/medicalCannabisHeroCaptions.json";
 import butterflyEffectHeroCaptions from "@/data/butterflyEffectHeroCaptions.json";
 import artificialWombsHeroCaptions from "@/data/artificialWombsHeroCaptions.json";
@@ -774,6 +775,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               }
               if (article.slug === "diquis-culture-costa-rica-chiefdoms-stone-spheres" && originalIndex === 13) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DiquisEvidencePhoto photo="finca" locale={locale} /></div>;
+              }
+              if (article.slug === "richard-dawkins-42-tales-from-life-modern-bestiary" && originalIndex === 10) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HaeckelRadiolariaPlate locale={locale} /></div>;
               }
               if (structured?.type === "table" && structured.sourceMarker === "[[ASTROLOGY_SCIENCE_TABLE]]") return <AstrologyComparisonTable key={originalIndex} table={{ headers: structured.headings, rows: structured.rows }} />;
               if (structured?.type === "table") return <StandardArticleTable key={originalIndex} table={{ caption: structured.caption, headers: structured.headings, rows: structured.rows, minWidthClass: articleTables[structured.sourceMarker ?? ""]?.minWidthClass ?? "min-w-[680px]", boldColumnIndex: articleTables[structured.sourceMarker ?? ""]?.boldColumnIndex ?? 0, rowKeyIndex: articleTables[structured.sourceMarker ?? ""]?.rowKeyIndex ?? 0 }} />;

@@ -54,6 +54,38 @@
       "text": "Le sommaire va des pigeons de Darwin aux siphonophores et aux trilobites fossiles. Les pigeons illustrent la modification de caractères héréditaires au fil des générations sous l’effet de la sélection. Un siphonophore pose une question sur l’individualité, puisqu’il forme une colonie d’unités spécialisées. Ces chapitres invitent à relier une structure à son histoire à l’aide des espèces apparentées et des fossiles. [Source: yalebooks.yale.edu](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
     },
     {
+      "type": "heading",
+      "text": "Ce qu’un bestiaire moderne peut expliquer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un bestiaire rapproche des animaux remarquables. Dans un livre sur l’évolution, la comparaison invite à distinguer les questions de parenté et de fonctionnement. De quoi l’organisme a-t-il hérité ? Quels changements ont rendu sa forme actuelle possible ? Quelles observations montreraient qu’un caractère a influé sur la reproduction ? Les exemples de l’éditeur vont de la corne du rhinocéros aux couleurs des colibris. À chaque cas, le lecteur peut se demander à quelle question répond l’essai, car un récit séduisant ne suffit pas à prouver une adaptation. [Source · Yale University Press](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi les ressemblances peuvent tromper"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’éditeur mentionne un rapprochement entre chevaux et lézards. Une ressemblance peut refléter un héritage commun ou apparaître indépendamment sous des contraintes similaires. Les biologistes comparent alors le développement, l’anatomie et les données génétiques de plusieurs espèces pour déterminer quelle explication concorde avec leur arbre de parenté. Le [guide de PRESDA sur l’ADN partagé entre espèces](/articles/how-much-dna-humans-share-other-species/) montre pourquoi le choix de la comparaison compte même lorsque les résultats semblent numériquement précis. [Source · Yale University Press](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "heading",
+      "text": "Observer les radiolaires de Haeckel"
+    },
+    {
+      "type": "paragraph",
+      "text": "La planche 71 de Kunstformen der Natur, publié en 1904, rassemble des radiolaires du groupe Stephoidea. Le dessin agrandit des structures minuscules et permet de comparer leurs pointes, leurs ouvertures et leur symétrie. Cette planche historique est une composition scientifique. L’artiste choisit les spécimens et arrange les vues pour favoriser la comparaison, sans représenter une scène observée dans la nature. L’illustration reproduite ici provient du recueil de 1904. [Source · Ernst Haeckel, plate 71](https://commons.wikimedia.org/wiki/File:Haeckel_Stephoidea_edit.jpg)"
+    },
+    {
+      "type": "heading",
+      "text": "La place du livre dans le parcours de Dawkins"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Gène égoïste, paru en 1976, a présenté une conception de l’évolution centrée sur les gènes à un large public. The Extended Phenotype a suivi en 1982, puis L’Horloger aveugle en 1986. Selon Oxford University Press, Dawkins a été le premier titulaire de la chaire Charles Simonyi pour la compréhension publique des sciences à Oxford de 1995 à 2008. Le bestiaire aborde le même grand sujet par une autre voie. Au lieu de développer un seul argument, il multiplie les formes et les exemples. Les illustrations offrent au lecteur des éléments précis à examiner. [Source · Yale University Press](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/) [Source · Oxford University Press](https://www.oup.com.au/books/general-interest/biological-sciences/9780198788782)"
+    },
+    {
       "type": "subheading",
       "text": "La place des planches d’Ernst Haeckel"
     },
@@ -106,6 +138,14 @@
     {
       "label": "Source · biodiversitylibrary.org",
       "url": "https://www.biodiversitylibrary.org/item/164275?t=87040"
+    },
+    {
+      "label": "Source · Ernst Haeckel, plate 71",
+      "url": "https://commons.wikimedia.org/wiki/File:Haeckel_Stephoidea_edit.jpg"
+    },
+    {
+      "label": "Source · Oxford University Press",
+      "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788782"
     }
   ],
   "faq": [
@@ -118,5 +158,5 @@
       "answer": "Apollo indique le 5 novembre au Royaume-Uni et Yale le 20 octobre aux États-Unis."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

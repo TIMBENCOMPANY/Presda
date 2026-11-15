@@ -54,6 +54,38 @@
       "text": "El índice va de las palomas de Darwin a los sifonóforos y los trilobites fósiles. Las palomas muestran cómo la selección modifica los rasgos heredables entre generaciones. Un sifonóforo plantea otra pregunta sobre la individualidad, pues es una colonia de unidades especializadas. Los capítulos invitan a buscar indicios de la historia de una estructura en sus parientes vivos y en los fósiles. [Fuente: yalebooks.yale.edu](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
     },
     {
+      "type": "heading",
+      "text": "Qué puede explicar un bestiario moderno"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un bestiario reúne animales llamativos. En un libro sobre evolución, esa comparación invita a diferenciar preguntas sobre parentesco y función. ¿Qué heredó el organismo? ¿Qué cambios hicieron posible su forma actual? ¿Qué pruebas mostrarían que un rasgo afectó al éxito reproductivo? Los ejemplos de la editorial van del cuerno del rinoceronte a los colores de los colibríes. Ante cada caso conviene preguntarse qué cuestión responde el ensayo, porque una historia atractiva no demuestra por sí sola que haya habido adaptación. [Fuente · Yale University Press](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué un parecido puede engañar"
+    },
+    {
+      "type": "paragraph",
+      "text": "La editorial señala una comparación entre caballos y lagartos. Un parecido visible puede reflejar herencia común o aparecer de forma independiente bajo presiones similares. Los biólogos pueden comparar desarrollo, anatomía y pruebas genéticas de varias especies para ver qué explicación encaja en su árbol de parentesco. La [guía de PRESDA sobre el ADN que comparten las especies](/articles/how-much-dna-humans-share-other-species/) explica por qué importa elegir la comparación correcta incluso cuando los datos se expresan con porcentajes precisos. [Fuente · Yale University Press](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "heading",
+      "text": "Los radiolarios de Haeckel merecen otra mirada"
+    },
+    {
+      "type": "paragraph",
+      "text": "La lámina 71 de Kunstformen der Natur, de 1904, reúne radiolarios del grupo Stephoidea. El dibujo amplía estructuras diminutas para comparar espinas, aberturas y simetrías. Esta lámina histórica es una composición científica. El artista elige los ejemplares y dispone las vistas para facilitar la comparación, sin presentar una escena observada tal cual en la naturaleza. La ilustración que se reproduce aquí procede de la colección de 1904. [Fuente · Ernst Haeckel, plate 71](https://commons.wikimedia.org/wiki/File:Haeckel_Stephoidea_edit.jpg)"
+    },
+    {
+      "type": "heading",
+      "text": "Dónde encaja el libro en la obra de Dawkins"
+    },
+    {
+      "type": "paragraph",
+      "text": "El gen egoísta, publicado en 1976, llevó a un público amplio una interpretación de la evolución centrada en los genes. Le siguieron El fenotipo extendido en 1982 y El relojero ciego en 1986. Oxford University Press identifica a Dawkins como el primer titular de la cátedra Charles Simonyi para la comprensión pública de la ciencia en Oxford, de 1995 a 2008. El bestiario vuelve al tema por otra vía. Reúne formas y ejemplos variados en vez de articular el libro alrededor de un único argumento. Sus ilustraciones ofrecen al lector detalles concretos que puede examinar. [Fuente · Yale University Press](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/) [Fuente · Oxford University Press](https://www.oup.com.au/books/general-interest/biological-sciences/9780198788782)"
+    },
+    {
       "type": "subheading",
       "text": "Por qué aparecen las láminas de Ernst Haeckel"
     },
@@ -106,6 +138,14 @@
     {
       "label": "Fuente · biodiversitylibrary.org",
       "url": "https://www.biodiversitylibrary.org/item/164275?t=87040"
+    },
+    {
+      "label": "Fuente · Ernst Haeckel, plate 71",
+      "url": "https://commons.wikimedia.org/wiki/File:Haeckel_Stephoidea_edit.jpg"
+    },
+    {
+      "label": "Fuente · Oxford University Press",
+      "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788782"
     }
   ],
   "faq": [
@@ -118,5 +158,5 @@
       "answer": "Apollo indica el 5 de noviembre en el Reino Unido y Yale el 20 de octubre en Estados Unidos."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

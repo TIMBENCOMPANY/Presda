@@ -118,6 +118,14 @@ export const featuresNov14Articles: Article[] = [
       "Apollo, an imprint of Bloomsbury, lists November 5, 2026 for the UK edition. Yale University Press lists October 20, 2026 for its US hardcover and ebooks. Both publishers list 368 pages. The UK hardback ISBN is 9781035924356 and the US hardcover ISBN is 9780300303797. [Bloomsbury UK](https://www.bloomsbury.com/uk/42-tales-from-life-9781035924370/)",
       "## What the creatures reveal about evolution",
       "The contents range from Darwin’s pigeons to siphonophores and fossil trilobites. Pigeons illustrate how selection can shift inherited traits over generations. A siphonophore raises a different question about individuality because it is a colony of specialised units. The chapters invite readers to ask what evidence can connect a structure to its history, from living relatives to fossils. [Yale University Press](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)",
+      "## What a modern bestiary can explain",
+      "A bestiary puts striking animals next to one another. In a book about evolution, the comparison is an invitation to ask separate questions about ancestry and function. What did the organism inherit? What changes made its present form possible? What evidence would show that a trait affected reproductive success? The publisher’s examples range from a rhinoceros horn to a hummingbird’s colors. A useful reading is to pause at each example and ask which of these questions the essay answers, rather than assume that an appealing story is itself evidence of adaptation. [Source · Yale University Press](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)",
+      "### Why resemblance can mislead",
+      "The publisher highlights a comparison between horses and lizards. A visible resemblance might reflect inheritance, or a similar form or behavior might appear independently under similar constraints. Biologists test those explanations with more than a picture. They can compare development, anatomy and genetic evidence in enough species to see which explanation fits the family tree. The [PRESDA guide to how much DNA humans share with other species](/articles/how-much-dna-humans-share-other-species/) explains why the choice of comparison matters even when the evidence seems numerical and exact. [Source · Yale University Press](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)",
+      "## Haeckel’s radiolarians reward a second look",
+      "Plate 71 of Haeckel’s 1904 Kunstformen der Natur arranges radiolarians of the group Stephoidea on a single page. Their minute structures become large enough on paper to compare spines, openings and symmetry. The plate is a historical example of Haeckel’s work. It should be read as a composed scientific illustration: the artist selects the specimens and arranges the views, so their placement on the page conveys comparisons, rather than a scene observed in nature. The illustration reproduced here comes from the 1904 collection. [Source · Ernst Haeckel, plate 71](https://commons.wikimedia.org/wiki/File:Haeckel_Stephoidea_edit.jpg)",
+      "## Where the book fits in Dawkins’s work",
+      "The Selfish Gene, published in 1976, brought a gene-centered account of evolution to a broad readership. The Extended Phenotype followed in 1982 and The Blind Watchmaker in 1986. Oxford University Press identifies Dawkins as the first holder of Oxford’s Charles Simonyi Chair for the Public Understanding of Science, from 1995 until 2008. The bestiary takes a different route into that long-running subject. Instead of organizing an entire book around one argument, it uses many individual forms to show how biological explanations can start from close observation. Its illustrations give the reader something concrete to question. [Source · Yale University Press](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/) [Source · Oxford University Press](https://www.oup.com.au/books/general-interest/biological-sciences/9780198788782)",
       "### Why Ernst Haeckel’s art is here",
       "Haeckel’s illustrations bring the shapes of marine organisms, plants and other subjects into view. A plate can make symmetry and repeated structures easier to see. Modern evolutionary explanations still depend on evidence about ancestry and inheritance. The historical artwork gives the reader an entry point into those questions. [Bloomsbury UK](https://www.bloomsbury.com/uk/42-tales-from-life-9781035924370/)",
       "## The ideas that made Dawkins influential",
@@ -144,6 +152,14 @@ export const featuresNov14Articles: Article[] = [
       {
         "name": "Source · biodiversitylibrary.org",
         "url": "https://www.biodiversitylibrary.org/item/164275?t=87040"
+      },
+      {
+        "name": "Ernst Haeckel, plate 71",
+        "url": "https://commons.wikimedia.org/wiki/File:Haeckel_Stephoidea_edit.jpg"
+      },
+      {
+        "name": "Oxford University Press",
+        "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788782"
       }
     ],
     "relatedSlugs": [
@@ -160,6 +176,6 @@ export const featuresNov14Articles: Article[] = [
         "answer": "Apollo lists November 5 in the UK. Yale University Press lists October 20 in the US."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   }
 ];
