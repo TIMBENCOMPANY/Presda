@@ -102,6 +102,14 @@
       "text": "El anfitrión organiza el foro económico, pero cada gobierno decide con quién reunirse al margen. Un comunicado conjunto de los tres países tendría un alcance distinto al de una declaración final sobre comercio regional. Para saber qué se decidió habría que comparar los relatos oficiales y buscar términos comunes, especialmente sobre los próximos pasos. [Fuente · APEC Secretariat](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
     },
     {
+      "type": "subheading",
+      "text": "El vacío que dejó el Nuevo START"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Nuevo START expiró el 5 de febrero de 2026 sin un tratado sucesor, recordó en septiembre la presidencia de la Asamblea General de la ONU. Establecía límites vinculantes a los arsenales nucleares estratégicos de Estados Unidos y Rusia. China quedaba fuera de ese tratado bilateral. Incorporar a Pekín exigiría decidir qué fuerzas contar, qué declaraciones intercambiar y si las mismas obligaciones se aplicarían a los tres países. Recuperar solo un límite ruso-estadounidense respondería a otra pregunta. [Fuente · United Nations General Assembly](https://www.un.org/pga/81/documents/speeches/nuclear-weapons-elimination-day-29-september-2026/)"
+    },
+    {
       "type": "table",
       "sourceMarker": "[[UPGRADE_457]]",
       "caption": "Cómo leer los anuncios de Shenzhen al 15 de noviembre.",
@@ -149,6 +157,10 @@
     {
       "label": "Fuente · apnews.com",
       "url": "https://apnews.com/article/30ac0f6937301f36904808f278b79b1e"
+    },
+    {
+      "label": "Fuente · United Nations General Assembly",
+      "url": "https://www.un.org/pga/81/documents/speeches/nuclear-weapons-elimination-day-29-september-2026/"
     }
   ],
   "faq": [
@@ -161,5 +173,5 @@
       "answer": "Un funcionario estadounidense dijo a AP que no se esperaba el anuncio de un acuerdo."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

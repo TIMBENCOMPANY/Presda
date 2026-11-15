@@ -132,6 +132,8 @@ export const newsNov14Articles: Article[] = [
       "A meeting can produce several outcomes that look very different once the leaders leave the room. A pledge to keep talking leaves concrete questions for later. A decision to name negotiators or set a date would create a process. A binding agreement would require specific terms, including which weapons it covers and how each side could verify compliance. The reports about Shenzhen described potential talks, with no published arrangement of that kind. [Source · Associated Press](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72) [Source · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)",
       "### Why a side meeting is different from an APEC decision",
       "The host sets the schedule for the economic forum, but individual governments decide whom to meet on the sidelines. A joint statement from the three governments would carry a different significance from a closing declaration about regional trade. To establish what actually happened, readers would need to compare the participants’ readouts and look for shared wording, particularly on any agreed next step. [Source · APEC Secretariat](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)",
+      "### The gap left by New START",
+      "New START expired on February 5, 2026, without a successor, the president of the UN General Assembly said in September. It had put binding limits on US and Russian strategic nuclear arsenals. China was outside that bilateral treaty. Adding Beijing to a future negotiation would require decisions about which forces to count, whose declarations to exchange and whether the same obligations would apply to all three countries. Simply reviving a US–Russian limit would answer a different question. [Source · United Nations General Assembly](https://www.un.org/pga/81/documents/speeches/nuclear-weapons-elimination-day-29-september-2026/)",
       "[[UPGRADE_457]]",
       "[The Türkiye–Qatar defence agreement](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/) offers a separate example of what a public signing can establish and what remains for implementation."
     ],
@@ -155,6 +157,10 @@ export const newsNov14Articles: Article[] = [
       {
         "name": "Source · apnews.com",
         "url": "https://apnews.com/article/30ac0f6937301f36904808f278b79b1e"
+      },
+      {
+        "name": "United Nations General Assembly",
+        "url": "https://www.un.org/pga/81/documents/speeches/nuclear-weapons-elimination-day-29-september-2026/"
       }
     ],
     "relatedSlugs": [
@@ -170,7 +176,7 @@ export const newsNov14Articles: Article[] = [
         "answer": "A U.S. official told AP that no agreement was expected to be announced."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   },
   {
     "id": "458",
@@ -214,6 +220,8 @@ export const newsNov14Articles: Article[] = [
       "The signing answered one question: both governments want a shared response to an external armed attack. The announcement leaves a different question open: what each government would do in a specific crisis. Consultation, logistics and decisions about deploying forces are different commitments. A signing ceremony does not tell readers which authorities take those decisions, how fast they must act or what procedures apply. [Source · Amiri Diwan](https://www.diwan.gov.qa/ar-QA/Briefing-Room/News/Foreign-Visits/2026/November/13/HH-The-Amir-and-Turkish-President-Sign-Joint-Defense-Agreement) [Source · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)",
       "### Why separate agreements matter",
       "The strategic committee brings many areas of cooperation into one meeting. The economic partnership gives trade a distinct legal framework, and the communiqué records its entry into force in 2025. That distinction also matters for defence. The date a treaty is signed and the date its obligations become operative can differ. The trade timeline is documented in the joint text and cannot be used as a proxy for the defence agreement’s timetable. [Source · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)",
+      "### The economic numbers behind the relationship",
+      "The two governments reiterated a target of $5 billion in trade and reported that Turkish contractors had undertaken 206 projects in Qatar worth $20.8 billion. These figures describe different things. The first is a goal for commercial exchange, while the second is the stated cumulative value of construction projects. Neither measures defence spending. They show how much of the relationship already runs through trade, investment and contracting, independently of the new security commitment. [Source · Joint communiqué](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)",
       "[[UPGRADE_458]]",
       "For comparison, [the proposed Shenzhen meeting](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/) shows the limits of reading side meetings as agreements."
     ],
@@ -244,7 +252,7 @@ export const newsNov14Articles: Article[] = [
         "answer": "The joint communiqué describes stronger collective defence and a common stance against external armed attacks."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   },
   {
     "id": "459",

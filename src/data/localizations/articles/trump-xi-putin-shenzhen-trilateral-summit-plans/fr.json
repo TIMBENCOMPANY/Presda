@@ -102,6 +102,14 @@
       "text": "L’hôte organise le forum économique, mais chaque gouvernement choisit ses interlocuteurs en marge. Un communiqué commun des trois pays n’aurait pas la même portée qu’une déclaration finale sur les échanges régionaux. Pour savoir ce qui a été décidé, il faudrait comparer les comptes rendus et repérer les formulations communes, surtout sur les prochaines étapes. [Source · APEC Secretariat](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
     },
     {
+      "type": "subheading",
+      "text": "Le vide laissé par New START"
+    },
+    {
+      "type": "paragraph",
+      "text": "New START a expiré le 5 février 2026 sans successeur, a rappelé en septembre la présidence de l’Assemblée générale de l’ONU. Le traité imposait des plafonds contraignants aux arsenaux nucléaires stratégiques américain et russe. La Chine était extérieure à cet accord bilatéral. Son éventuelle participation obligerait à préciser quelles forces compter, quelles déclarations échanger et si les mêmes obligations s’appliqueraient aux trois pays. Rétablir seulement un plafond américano-russe répondrait à une autre question. [Source · United Nations General Assembly](https://www.un.org/pga/81/documents/speeches/nuclear-weapons-elimination-day-29-september-2026/)"
+    },
+    {
       "type": "table",
       "sourceMarker": "[[UPGRADE_457]]",
       "caption": "Comment lire les annonces sur Shenzhen au 15 novembre.",
@@ -149,6 +157,10 @@
     {
       "label": "Source · apnews.com",
       "url": "https://apnews.com/article/30ac0f6937301f36904808f278b79b1e"
+    },
+    {
+      "label": "Source · United Nations General Assembly",
+      "url": "https://www.un.org/pga/81/documents/speeches/nuclear-weapons-elimination-day-29-september-2026/"
     }
   ],
   "faq": [
@@ -161,5 +173,5 @@
       "answer": "Un responsable américain a déclaré à AP qu’aucun accord ne devrait être annoncé."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }
