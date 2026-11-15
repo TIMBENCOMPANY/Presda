@@ -152036,6 +152036,65 @@
       },
       {
         "type": "heading",
+        "text": "عقبتان يمكن أن يعالجهما التبرع بسيارة"
+      },
+      {
+        "type": "paragraph",
+        "text": "يختلف تعلم القيادة عن امتلاك سيارة بعد اجتياز الاختبار. ويربط برنامج TAC L2P في ولاية فيكتوريا المتعلمين المؤهلين بمتطوعين عندما لا يتوفر لهم مشرف أو مركبة مناسبة، فيتيح تدريباً تحت الإشراف. وتتناول مبادرة Cars 4 Youth المرحلة التالية. يعثر هاينام على سيارة مستعملة ويجهزها للسير ثم يمنحها لشاب يحتاج إلى النقل. ويذكر منظمو الجائزة أن التبرع قد يشمل تسجيل السيارة لستة أشهر، ما يتيح استخدامها من دون تحمل تكلفة التسجيل فوراً. [المصدر · Transport Victoria, TAC L2P](https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/licences/learner-permit/tac-l2p-learner-driver-mentor-program) [المصدر · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "ماذا يحصي رقم السيارات؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يأتي رقم العنوان من تقرير هيئة البث الأسترالية في أغسطس 2025. وهو عدد المركبات التي أفادت الهيئة بأنها سُلّمت حتى ذلك الوقت. أما إعلان جائزة فيكتوريا اللاحق فيوثق الاعتراف بالمبادرة من دون تقديم إحصاء جديد. والتمييز بين التاريخين مهم لأن العدد التراكمي قد يتغير بينما تبقى طريقة عمل المبادرة نفسها. [المصدر · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf) [المصدر · ABC News, Wimmera reporting](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف تؤثر المسافات في حياة المستفيدين؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ترجم تقرير الهيئة في هورشام ومحيطها أثر الهدايا إلى رحلات ملموسة. فتغيرت لشابة تنقلات كانت تقوم بها مشياً، وأصبح على أمٍّ اصطحاب ابنتها إلى المواعيد أيسر. ولا تمثل التجربتان قياساً لجميع السكان، لكنهما توضحان صعوبة رحلات يومية عند عدم توفر سيارة. ويذكر منظمو الجائزة أيضاً العمل والدراسة ورعاية الأسرة ضمن أغراض استخدام المركبات. [المصدر · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf) [المصدر · ABC News, Wimmera reporting](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا تعني الجائزة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "سمّى المجلس الوطني ليوم أستراليا هاينام بطلاً محلياً لولاية فيكتوريا لدورة 2027 في حفل بملبورن يوم 12 نوفمبر 2026. وتشير السنة في اللقب إلى دورة الجائزة، بينما يبين تاريخ الحفل موعد إعلان جوائز الولاية. وكان لكل واحدة من الفئات الأربع فائز مستقل، ونال هاينام فئة البطل المحلي لفيكتوريا. [المصدر · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[CARS_4_YOUTH_TIMELINE]]",
+        "caption": "محطات وثقتها هيئة البث الأسترالية والمجلس الوطني ليوم أستراليا.",
+        "headings": [
+          "السنة",
+          "المحطة"
+        ],
+        "rows": [
+          [
+            "2008",
+            "وفاة بريستون ابن هاينام."
+          ],
+          [
+            "2017",
+            "هاينام يصلح أول سيارتين لشخصين وصلا إلى ويميرا مؤخراً."
+          ],
+          [
+            "2025",
+            "هيئة البث الأسترالية تفيد بتسليم 19 مركبة بحلول أغسطس."
+          ],
+          [
+            "2026",
+            "فيكتوريا تعلن هاينام بطلاً محلياً لدورة 2027."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
         "text": "تسليم 19 سيارة وتكريم على مستوى الولاية"
       },
       {
@@ -152083,6 +152142,10 @@
       {
         "label": "المصدر: uat.australianoftheyear.org.au",
         "url": "https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf"
+      },
+      {
+        "label": "المصدر · Transport Victoria, TAC L2P",
+        "url": "https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/licences/learner-permit/tac-l2p-learner-driver-mentor-program"
       }
     ],
     "faq": [
@@ -152095,7 +152158,7 @@
         "answer": "اختير بطلاً محلياً لولاية فيكتوريا لعام 2027 في حفل نوفمبر 2026."
       }
     ],
-    "readingTimeMinutes": 2
+    "readingTimeMinutes": 4
   },
   {
     "locale": "es",
@@ -152154,6 +152217,65 @@
       },
       {
         "type": "heading",
+        "text": "Las dos barreras que puede resolver un coche donado"
+      },
+      {
+        "type": "paragraph",
+        "text": "Aprender a conducir y disponer de un coche después del examen son problemas distintos. El programa TAC L2P de Victoria empareja a aprendices elegibles con mentores voluntarios cuando carecen de un vehículo o un acompañante adecuado. Así pueden practicar bajo supervisión. Cars 4 Youth interviene después. Hynam busca un coche usado, lo deja apto para circular y se lo da a alguien que necesita transporte. Según los organizadores del premio, la entrega puede incluir seis meses de matrícula para que el destinatario pueda empezar a usarlo sin afrontar de inmediato ese gasto. [Fuente · Transport Victoria, TAC L2P](https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/licences/learner-permit/tac-l2p-learner-driver-mentor-program) [Fuente · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué cuenta la cifra de las entregas"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cifra del titular procede del reportaje de ABC de agosto de 2025 y se refiere a los vehículos entregados hasta ese momento. El anuncio posterior del premio de Victoria documenta el reconocimiento a su labor, sin actualizar el total. El recuento acumulado puede cambiar aunque la iniciativa siga funcionando del mismo modo. [Fuente · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf) [Fuente · ABC News, Wimmera reporting](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué cambian las distancias en la región"
+      },
+      {
+        "type": "paragraph",
+        "text": "ABC describió en Horsham y sus alrededores trayectos concretos. Una joven conductora pudo sustituir desplazamientos que antes hacía a pie. A una madre le resultó más fácil llevar a su hija a citas. Los casos no miden un efecto poblacional, pero muestran lo que puede costar un viaje cotidiano sin coche. Los organizadores también mencionan el trabajo, los estudios y las responsabilidades familiares entre los usos del transporte que ganaron los destinatarios. [Fuente · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf) [Fuente · ABC News, Wimmera reporting](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué significa el reconocimiento"
+      },
+      {
+        "type": "paragraph",
+        "text": "El National Australia Day Council nombró a Hynam héroe local de Victoria para 2027 durante una ceremonia en Melbourne el 12 de noviembre de 2026. El año del título identifica la edición del premio y la fecha señala el momento en que se anunciaron los ganadores estatales. Las cuatro categorías de Victoria tuvieron ganadores distintos. La suya fue la de héroe local. [Fuente · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[CARS_4_YOUTH_TIMELINE]]",
+        "caption": "Hitos documentados por ABC News y el National Australia Day Council.",
+        "headings": [
+          "Año",
+          "Hito"
+        ],
+        "rows": [
+          [
+            "2008",
+            "Muere Preston, hijo de Hynam."
+          ],
+          [
+            "2017",
+            "Hynam repara sus primeros coches para dos personas recién llegadas a Wimmera."
+          ],
+          [
+            "2025",
+            "ABC contabiliza 19 entregas hasta agosto."
+          ],
+          [
+            "2026",
+            "Victoria anuncia a Hynam como héroe local para la edición de 2027."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
         "text": "Diecinueve entregas y un premio estatal"
       },
       {
@@ -152201,6 +152323,10 @@
       {
         "label": "Fuente: uat.australianoftheyear.org.au",
         "url": "https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf"
+      },
+      {
+        "label": "Fuente · Transport Victoria, TAC L2P",
+        "url": "https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/licences/learner-permit/tac-l2p-learner-driver-mentor-program"
       }
     ],
     "faq": [
@@ -152213,7 +152339,7 @@
         "answer": "Fue nombrado Local Hero 2027 de Victoria en la ceremonia estatal de noviembre de 2026."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "fr",
@@ -152272,6 +152398,65 @@
       },
       {
         "type": "heading",
+        "text": "Les deux obstacles auxquels répond un don de voiture"
+      },
+      {
+        "type": "paragraph",
+        "text": "Apprendre à conduire et disposer d’une voiture après l’examen sont deux problèmes distincts. Le programme TAC L2P de l’État de Victoria met les apprentis admissibles en relation avec des bénévoles lorsqu’ils n’ont pas de véhicule ou d’accompagnateur. Il leur permet de pratiquer sous supervision. Cars 4 Youth intervient après cette étape : Hynam trouve un véhicule d’occasion, le remet en état de circuler et le donne à une personne qui en a besoin. Selon les organisateurs du prix, le don peut inclure six mois d’immatriculation, ce qui évite d’avoir à payer immédiatement ces frais. [Source · Transport Victoria, TAC L2P](https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/licences/learner-permit/tac-l2p-learner-driver-mentor-program) [Source · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "Ce que compte le nombre de remises de clés"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le nombre du titre provient du reportage d’ABC d’août 2025. Il correspond aux véhicules dont la chaîne signalait la remise à cette date. L’annonce du prix pour le Victoria est une source ultérieure sur le travail de Hynam, sans fournir de nouveau total. Un chiffre cumulé peut évoluer tandis que le fonctionnement de l’initiative reste le même. [Source · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf) [Source · ABC News, Wimmera reporting](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que changent les distances dans la région"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le reportage d’ABC autour de Horsham traduit le don en trajets concrets. Une jeune conductrice pouvait remplacer des déplacements jusque-là effectués à pied. Une mère pouvait conduire plus aisément son enfant à des rendez-vous. Ces témoignages ne mesurent pas un effet pour toute la population, mais montrent les contraintes que peut imposer l’absence d’une voiture. Les organisateurs du prix citent aussi le travail, les études et les responsabilités familiales. [Source · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf) [Source · ABC News, Wimmera reporting](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que récompense le prix"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le National Australia Day Council a désigné Hynam héros local 2027 du Victoria lors d’une cérémonie à Melbourne le 12 novembre 2026. L’année du titre désigne l’édition du prix. La date et le lieu indiquent quand les lauréats de l’État ont été annoncés. Quatre catégories avaient chacune leur lauréat et Hynam a reçu la distinction de héros local du Victoria. [Source · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[CARS_4_YOUTH_TIMELINE]]",
+        "caption": "Repères documentés par ABC News et le National Australia Day Council.",
+        "headings": [
+          "Année",
+          "Événement"
+        ],
+        "rows": [
+          [
+            "2008",
+            "Décès de Preston, le fils de Hynam."
+          ],
+          [
+            "2017",
+            "Hynam répare ses premières voitures pour deux personnes arrivées dans le Wimmera."
+          ],
+          [
+            "2025",
+            "En août, ABC fait état de 19 véhicules remis."
+          ],
+          [
+            "2026",
+            "L’État de Victoria annonce son héros local pour les prix de 2027."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
         "text": "Dix-neuf voitures et une distinction de l’État"
       },
       {
@@ -152319,6 +152504,10 @@
       {
         "label": "Source: uat.australianoftheyear.org.au",
         "url": "https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf"
+      },
+      {
+        "label": "Source · Transport Victoria, TAC L2P",
+        "url": "https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/licences/learner-permit/tac-l2p-learner-driver-mentor-program"
       }
     ],
     "faq": [
@@ -152331,7 +152520,7 @@
         "answer": "Il a été désigné Local Hero 2027 de Victoria lors de la cérémonie de novembre 2026."
       }
     ],
-    "readingTimeMinutes": 3
+    "readingTimeMinutes": 4
   },
   {
     "locale": "ar",

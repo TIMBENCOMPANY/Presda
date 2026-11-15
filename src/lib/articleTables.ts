@@ -8,6 +8,34 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[CARS_4_YOUTH_TIMELINE]]": {
+  "caption": "Milestones documented by ABC News and the National Australia Day Council.",
+  "rows": [
+    [
+      "2008",
+      "Hynam’s son Preston dies."
+    ],
+    [
+      "2017",
+      "Hynam repairs his first cars for two people who recently moved to the Wimmera."
+    ],
+    [
+      "2025",
+      "ABC reports 19 handovers by August."
+    ],
+    [
+      "2026",
+      "Victoria announces Hynam as its Local Hero for the 2027 awards."
+    ]
+  ],
+  "headers": [
+    "Year",
+    "Milestone"
+  ],
+  "minWidthClass": "min-w-[390px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
   "[[DNA_COMPARISON_DENOMINATORS]]": {
   "caption": "Three reported values with different denominators and meanings.",
   "rows": [

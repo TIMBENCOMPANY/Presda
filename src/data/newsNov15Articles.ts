@@ -116,6 +116,15 @@ export const newsNov15Articles: Article[] = [
       "In 2008 Hynam lost his eldest son, Preston, in an accident shortly before Preston turned 21. Years later, Hynam told ABC that he saw his son’s influence in the work he was doing. Cars 4 Youth grew out of two things he could offer locally, his time as a driving mentor and his skill at putting used cars back on the road. [ABC Wimmera](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)",
       "### A licence opens one door. A car opens another.",
       "Hynam volunteers with Victoria’s L2P program, which helps learners without access to a car or supervising driver get practice. For Robinson, the gift followed the lessons. For Kaitlyn Sommerfield, a first car eased a different problem. She had been walking her daughter to appointments and needed a way to reach a kindergarten across town. Hynam’s initiative addresses the gap between knowing how to drive and being able to get somewhere on your own. [ABC Wimmera](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)",
+      "## The two barriers a donated car can address",
+      "Learning to drive and having a car after the test are separate problems. Victoria’s TAC L2P program pairs eligible learners with volunteer mentors when they lack suitable access to a supervising driver or vehicle. That supplies the supervised practice a learner needs. Cars 4 Youth addresses what happens afterward. Hynam sources a used car, makes it roadworthy, and gives it to a young person who needs transport. The award organizers report that the gift can include six months’ registration, which gives a recipient time to begin using the vehicle without facing immediate registration costs. [Source · Transport Victoria, TAC L2P](https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/licences/learner-permit/tac-l2p-learner-driver-mentor-program) [Source · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)",
+      "### What counts as a handover",
+      "The number in the headline comes from ABC’s August 2025 reporting. It is a count of the vehicles the broadcaster reported had been handed over by that point. The 2027 Victorian Local Hero announcement is a later piece of evidence about his work, not a new count. Keeping the dates apart matters because a cumulative donation figure can change while the nature of the program remains the same. [Source · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf) [Source · ABC News, Wimmera reporting](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)",
+      "## Why the town and its distances matter",
+      "ABC’s reporting in and around Horsham puts the gifts in practical terms. For one young driver, it changed journeys that had previously been made on foot. For a parent, it made it easier to get a child to appointments. Neither example proves a population-wide effect, but both show what several ordinary journeys can require when the person who needs to make them has no car. The award organizers also cite work, study and family responsibilities as uses of the transport recipients gained. [Source · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf) [Source · ABC News, Wimmera reporting](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)",
+      "## What the recognition means",
+      "The National Australia Day Council named Hynam as the 2027 Local Hero for Victoria at its Melbourne ceremony on November 12, 2026. The year in the award title identifies the award cycle. The venue and date record when the state recipients were announced. The four Victorian categories had separate recipients, so the distinction is the state’s Local Hero recognition. [Source · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)",
+      "[[CARS_4_YOUTH_TIMELINE]]",
       "## Nineteen handovers and a state award",
       "ABC documented 19 donated cars by August 2025 and cited the same total in its November 2026 award coverage. It is a documented count, rather than an estimate of every later donation. Hynam has helped finance the project himself, with additional support raised locally. [ABC News](https://www.abc.net.au/news/2026-11-13/australian-of-the-year-victorian-winners/107379768)",
       "## Recognition in Melbourne",
@@ -138,6 +147,10 @@ export const newsNov15Articles: Article[] = [
       {
         "name": "Australian of the Year Awards",
         "url": "https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf"
+      },
+      {
+        "name": "Transport Victoria, TAC L2P",
+        "url": "https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/licences/learner-permit/tac-l2p-learner-driver-mentor-program"
       }
     ],
     "relatedSlugs": [
@@ -153,6 +166,6 @@ export const newsNov15Articles: Article[] = [
         "answer": "He was named Victoria’s 2027 Local Hero at the November 2026 state ceremony."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   }
 ];

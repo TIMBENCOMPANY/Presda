@@ -55,6 +55,65 @@
     },
     {
       "type": "heading",
+      "text": "عقبتان يمكن أن يعالجهما التبرع بسيارة"
+    },
+    {
+      "type": "paragraph",
+      "text": "يختلف تعلم القيادة عن امتلاك سيارة بعد اجتياز الاختبار. ويربط برنامج TAC L2P في ولاية فيكتوريا المتعلمين المؤهلين بمتطوعين عندما لا يتوفر لهم مشرف أو مركبة مناسبة، فيتيح تدريباً تحت الإشراف. وتتناول مبادرة Cars 4 Youth المرحلة التالية. يعثر هاينام على سيارة مستعملة ويجهزها للسير ثم يمنحها لشاب يحتاج إلى النقل. ويذكر منظمو الجائزة أن التبرع قد يشمل تسجيل السيارة لستة أشهر، ما يتيح استخدامها من دون تحمل تكلفة التسجيل فوراً. [المصدر · Transport Victoria, TAC L2P](https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/licences/learner-permit/tac-l2p-learner-driver-mentor-program) [المصدر · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "ماذا يحصي رقم السيارات؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يأتي رقم العنوان من تقرير هيئة البث الأسترالية في أغسطس 2025. وهو عدد المركبات التي أفادت الهيئة بأنها سُلّمت حتى ذلك الوقت. أما إعلان جائزة فيكتوريا اللاحق فيوثق الاعتراف بالمبادرة من دون تقديم إحصاء جديد. والتمييز بين التاريخين مهم لأن العدد التراكمي قد يتغير بينما تبقى طريقة عمل المبادرة نفسها. [المصدر · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf) [المصدر · ABC News, Wimmera reporting](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف تؤثر المسافات في حياة المستفيدين؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "ترجم تقرير الهيئة في هورشام ومحيطها أثر الهدايا إلى رحلات ملموسة. فتغيرت لشابة تنقلات كانت تقوم بها مشياً، وأصبح على أمٍّ اصطحاب ابنتها إلى المواعيد أيسر. ولا تمثل التجربتان قياساً لجميع السكان، لكنهما توضحان صعوبة رحلات يومية عند عدم توفر سيارة. ويذكر منظمو الجائزة أيضاً العمل والدراسة ورعاية الأسرة ضمن أغراض استخدام المركبات. [المصدر · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf) [المصدر · ABC News, Wimmera reporting](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا تعني الجائزة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "سمّى المجلس الوطني ليوم أستراليا هاينام بطلاً محلياً لولاية فيكتوريا لدورة 2027 في حفل بملبورن يوم 12 نوفمبر 2026. وتشير السنة في اللقب إلى دورة الجائزة، بينما يبين تاريخ الحفل موعد إعلان جوائز الولاية. وكان لكل واحدة من الفئات الأربع فائز مستقل، ونال هاينام فئة البطل المحلي لفيكتوريا. [المصدر · National Australia Day Council](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[CARS_4_YOUTH_TIMELINE]]",
+      "caption": "محطات وثقتها هيئة البث الأسترالية والمجلس الوطني ليوم أستراليا.",
+      "headings": [
+        "السنة",
+        "المحطة"
+      ],
+      "rows": [
+        [
+          "2008",
+          "وفاة بريستون ابن هاينام."
+        ],
+        [
+          "2017",
+          "هاينام يصلح أول سيارتين لشخصين وصلا إلى ويميرا مؤخراً."
+        ],
+        [
+          "2025",
+          "هيئة البث الأسترالية تفيد بتسليم 19 مركبة بحلول أغسطس."
+        ],
+        [
+          "2026",
+          "فيكتوريا تعلن هاينام بطلاً محلياً لدورة 2027."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
       "text": "تسليم 19 سيارة وتكريم على مستوى الولاية"
     },
     {
@@ -102,6 +161,10 @@
     {
       "label": "المصدر: uat.australianoftheyear.org.au",
       "url": "https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf"
+    },
+    {
+      "label": "المصدر · Transport Victoria, TAC L2P",
+      "url": "https://transport.vic.gov.au/road-and-active-transport/registration-and-licensing/licences/learner-permit/tac-l2p-learner-driver-mentor-program"
     }
   ],
   "faq": [
@@ -114,5 +177,5 @@
       "answer": "اختير بطلاً محلياً لولاية فيكتوريا لعام 2027 في حفل نوفمبر 2026."
     }
   ],
-  "readingTimeMinutes": 2
+  "readingTimeMinutes": 4
 }
