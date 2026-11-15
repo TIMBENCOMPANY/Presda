@@ -116,6 +116,7 @@ import { DiquisEvidencePhoto } from "@/components/DiquisEvidencePhoto";
 import { HaeckelRadiolariaPlate } from "@/components/HaeckelRadiolariaPlate";
 import { BaghdadChronicleImage } from "@/components/BaghdadChronicleImage";
 import { ReuterNadarPortrait } from "@/components/ReuterNadarPortrait";
+import { ChalcatzingoLandscape } from "@/components/ChalcatzingoLandscape";
 import medicalCannabisHeroCaptions from "@/data/medicalCannabisHeroCaptions.json";
 import butterflyEffectHeroCaptions from "@/data/butterflyEffectHeroCaptions.json";
 import artificialWombsHeroCaptions from "@/data/artificialWombsHeroCaptions.json";
@@ -786,6 +787,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               }
               if (article.slug === "reuters-175-years-pigeons-telegraph-news-agency" && originalIndex === 6) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ReuterNadarPortrait locale={locale} /></div>;
+              }
+              if (article.slug === "chalcatzingo-cave-19-teotihuacan-warrior-glyphs" && originalIndex === 6) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ChalcatzingoLandscape locale={locale} /></div>;
               }
               if (structured?.type === "table" && structured.sourceMarker === "[[ASTROLOGY_SCIENCE_TABLE]]") return <AstrologyComparisonTable key={originalIndex} table={{ headers: structured.headings, rows: structured.rows }} />;
               if (structured?.type === "table") return <StandardArticleTable key={originalIndex} table={{ caption: structured.caption, headers: structured.headings, rows: structured.rows, minWidthClass: articleTables[structured.sourceMarker ?? ""]?.minWidthClass ?? "min-w-[680px]", boldColumnIndex: articleTables[structured.sourceMarker ?? ""]?.boldColumnIndex ?? 0, rowKeyIndex: articleTables[structured.sourceMarker ?? ""]?.rowKeyIndex ?? 0 }} />;

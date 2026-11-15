@@ -55,6 +55,38 @@
     },
     {
       "type": "heading",
+      "text": "Por qué importa el paisaje"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chalcatzingo está al pie de dos cerros en el fértil valle de Morelos. El Instituto Nacional de Antropología e Historia señala que un manantial abastecía al asentamiento. La Cueva 19 es un hueco poco profundo en la cara occidental del Cerro Delgado. El equipo midió 5,43 metros de ancho y una profundidad máxima de 2,24 metros, por lo que lo llama abrigo rocoso. La fotografía muestra un paisaje arqueológico donde conviven plataformas monumentales y arte rupestre. Ayuda a situar el pequeño espacio pintado. [Fuente · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425) [Fuente · Instituto Nacional de Antropología e Historia](https://www.inah.gob.mx/foto-del-dia/chalcatzingo-centro-ceremonial-de-las-piedras-viejas)"
+    },
+    {
+      "type": "subheading",
+      "text": "Cómo se dataron las pinturas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio sitúa las pinturas en el período Clásico, hacia 350–550 d. C., a partir de comparaciones con la escritura y las imágenes de Teotihuacan. La tradición anterior de tallar las laderas pertenece a otra fase. En el conjunto arqueológico se excavaron cerámicas características de Teotihuacan, que ayudan a documentar una actividad posterior. Dan contexto a la interpretación, pero no datan directamente cada línea de pigmento. [Fuente · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425)"
+    },
+    {
+      "type": "heading",
+      "text": "De la repisa ennegrecida a una hipótesis ritual"
+    },
+    {
+      "type": "paragraph",
+      "text": "La repisa queda debajo del motivo pintado más grande. El informe registra ennegrecimiento de la pared y el techo, fragmentos de cerámica en el suelo y un trozo de piedra de moler. La posición importa: un fuego en otro lugar del cerro no tendría el mismo vínculo con el marco pintado. Aun así, quedan varias posibilidades. Los autores consideran la quema de incienso y el tratamiento de un fardo funerario sin poder decidir con certeza entre ellas. [Fuente · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué la interpretación depende de comparar"
+    },
+    {
+      "type": "paragraph",
+      "text": "El posible título militar depende de una combinación de signos. Los investigadores compararon los objetos con el atuendo guerrero de Teotihuacan y el marco estrellado con diseños en cerámica. Las semejanzas permiten proponer una lectura, pero no identifican a todos los participantes ni muestran lo que sucedió en el abrigo. El [artículo de PRESDA sobre los asentamientos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/) examina una distinción similar entre un vestigio y su significado posible. [Fuente · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425)"
+    },
+    {
+      "type": "heading",
       "text": "La montaña y el título guerrero"
     },
     {
@@ -110,6 +142,10 @@
     {
       "label": "Fuente · doi.org",
       "url": "https://doi.org/10.15184/aqy.2026.10425"
+    },
+    {
+      "label": "Fuente · Instituto Nacional de Antropología e Historia",
+      "url": "https://www.inah.gob.mx/foto-del-dia/chalcatzingo-centro-ceremonial-de-las-piedras-viejas"
     }
   ],
   "faq": [
@@ -122,5 +158,5 @@
       "answer": "Los autores lo plantean como posibilidad. Las huellas de fuego no revelan qué ardió."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 4
 }

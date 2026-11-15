@@ -99,6 +99,14 @@ export const featuresNov15Articles: Article[] = [
       "The paintings were documented in the 1980s and surveyed again in August 2022. The authors place this use of the shelter in the fourth to sixth centuries CE. That range comes from archaeological context and comparisons with Classic-period imagery and writing. The paper does not report a direct laboratory date for the pigment. [Antiquity study](https://www.cambridge.org/core/journals/antiquity/article/painted-teotihuacan-glyphs-of-cave-19-chalcatzingo-morelos-mexico/536A5E711BB8DFED14BE189F4F1B9259)",
       "### A site with a much older history",
       "Chalcatzingo lies between two rocky hills and is especially known for earlier reliefs connected to Olmec cultural exchange. Cave 19 belongs to a different phase of activity. Its signs point to later links with Teotihuacan, the major Classic-period city in the Basin of Mexico. [INAH site profile](https://lugares.inah.gob.mx/es/fut-cultura/6514)",
+      "## Why the landscape matters",
+      "Chalcatzingo lies beneath two hills in the fertile Morelos valley. Mexico’s National Institute of Anthropology and History notes that a spring supplied the ancient settlement. At Cave 19, the setting changes from the broad valley to a shallow recess in the western face of Cerro Delgado. The authors measured the shelter at 5.43 metres across and no more than 2.24 metres deep. That scale helps explain why they call it a rock shelter. The photograph shows the wider archaeological landscape, where monumental platforms and rock art coexist. It provides geographical context for the small painted space. [Source · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425) [Source · Instituto Nacional de Antropología e Historia](https://www.inah.gob.mx/foto-del-dia/chalcatzingo-centro-ceremonial-de-las-piedras-viejas)",
+      "### How researchers date the paintings",
+      "The published interpretation puts the painted signs in the Classic period, approximately 350–550 CE. That dating depends on comparison with Teotihuacan writing and imagery. The earlier tradition of carving the hills is a separate chapter in the site’s history. Excavations reported diagnostic Teotihuacan ceramics at the broader site, which help establish later activity there. A nearby ceramic type is context for the argument, but it does not give a direct laboratory date for every pigment line. [Source · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425)",
+      "## From a blackened shelf to a hypothesis about ritual",
+      "The shelf stands below the largest painted design. The report documents blackening on the wall and ceiling above it, scattered pottery fragments on the floor, and a fragment of a grinding stone. Their position is important: traces of fire in a separate part of the hill would not create the same connection with the painted frame. Yet the same evidence leaves several possibilities open. The authors consider the ceremonial burning of incense and the treatment of a funerary bundle, and cannot choose with certainty between them. [Source · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425)",
+      "## Why the interpretation depends on comparison",
+      "The proposed military title rests on a combination of elements rather than on the presence of a human figure. The authors compare the items with warrior regalia in Teotihuacan imagery, and the starry frame with related designs on ceramic objects. Similarity helps propose a reading. It does not provide a complete record of who took part or exactly what happened in the shelter. Compare this distinction between a surviving object and its meaning with [PRESDA’s study of the Diquís settlements](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/). [Source · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425)",
       "## The mountain and the warrior title",
       "The first glyph combines a mountain motif with scrolls that can denote sound. The authors propose a place-name, Singing Mountain, and compare it with murals at Teotihuacan. They interpret the second sign, which incorporates martial equipment and regalia, as a possible title or reference to a warrior order. It does not yield an identified individual. [Antiquity study](https://www.cambridge.org/core/journals/antiquity/article/painted-teotihuacan-glyphs-of-cave-19-chalcatzingo-morelos-mexico/536A5E711BB8DFED14BE189F4F1B9259)",
       "## What the soot can tell us",
@@ -126,6 +134,10 @@ export const featuresNov15Articles: Article[] = [
       {
         "name": "Source · doi.org",
         "url": "https://doi.org/10.15184/aqy.2026.10425"
+      },
+      {
+        "name": "Instituto Nacional de Antropología e Historia",
+        "url": "https://www.inah.gob.mx/foto-del-dia/chalcatzingo-centro-ceremonial-de-las-piedras-viejas"
       }
     ],
     "relatedSlugs": [
@@ -141,7 +153,7 @@ export const featuresNov15Articles: Article[] = [
         "answer": "The researchers discuss cremation as a possibility. The fire traces do not identify what burned."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "5 min read"
   },
   {
     "id": "466",

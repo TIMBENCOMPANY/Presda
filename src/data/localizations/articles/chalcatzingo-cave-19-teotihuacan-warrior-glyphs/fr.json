@@ -55,6 +55,38 @@
     },
     {
       "type": "heading",
+      "text": "Pourquoi le paysage compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chalcatzingo s’étend au pied de deux collines, dans la vallée fertile du Morelos. Selon l’Institut national d’anthropologie et d’histoire du Mexique, une source alimentait l’établissement ancien. La grotte 19 est un renfoncement peu profond sur le versant ouest du Cerro Delgado. Les chercheurs ont mesuré 5,43 mètres de large et 2,24 mètres de profondeur au maximum, d’où leur terme d’abri sous roche. La photographie montre le paysage archéologique où coexistent des plateformes monumentales et de l’art rupestre. Elle situe le petit abri peint dans un ensemble plus vaste. [Source · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425) [Source · Instituto Nacional de Antropología e Historia](https://www.inah.gob.mx/foto-del-dia/chalcatzingo-centro-ceremonial-de-las-piedras-viejas)"
+    },
+    {
+      "type": "subheading",
+      "text": "Comment les chercheurs datent les peintures"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’interprétation publiée situe les peintures dans la période classique, vers 350–550 de notre ère, d’après leur comparaison avec l’écriture et les images de Teotihuacan. La tradition plus ancienne de gravure dans les collines constitue une autre phase du site. Des fouilles ont révélé des céramiques caractéristiques de Teotihuacan dans l’ensemble archéologique. Elles aident à établir une fréquentation ultérieure, mais ne datent pas directement chaque trace de pigment. [Source · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que suggèrent les traces de feu"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tablette rocheuse se trouve sous le plus grand motif peint. L’étude décrit un noircissement sur la paroi et au plafond, des tessons au sol et un fragment de meule. La disposition compte : du feu ailleurs sur la colline n’aurait pas le même lien avec le cadre peint. Ces traces laissent plusieurs possibilités ouvertes. Les auteurs envisagent la combustion d’encens et le traitement d’un paquet funéraire, sans pouvoir trancher entre eux. [Source · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi l’interprétation repose sur des comparaisons"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le titre militaire proposé repose sur la combinaison de plusieurs signes. Les chercheurs rapprochent ces objets de l’équipement guerrier dans l’art de Teotihuacan et le cadre étoilé de motifs sur des céramiques. Les parallèles aident à proposer une lecture, mais n’indiquent ni tous les participants ni le déroulement précis d’un rite. L’[article de PRESDA sur les établissements du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/) examine une distinction comparable entre un vestige et le sens qu’on lui attribue. [Source · Helmke et al., Antiquity](https://doi.org/10.15184/aqy.2026.10425)"
+    },
+    {
+      "type": "heading",
       "text": "La montagne et le titre guerrier"
     },
     {
@@ -110,6 +142,10 @@
     {
       "label": "Source · doi.org",
       "url": "https://doi.org/10.15184/aqy.2026.10425"
+    },
+    {
+      "label": "Source · Instituto Nacional de Antropología e Historia",
+      "url": "https://www.inah.gob.mx/foto-del-dia/chalcatzingo-centro-ceremonial-de-las-piedras-viejas"
     }
   ],
   "faq": [
@@ -122,5 +158,5 @@
       "answer": "Les auteurs évoquent cette possibilité. Les traces de feu ne révèlent pas ce qui a brûlé."
     }
   ],
-  "readingTimeMinutes": 3
+  "readingTimeMinutes": 5
 }
