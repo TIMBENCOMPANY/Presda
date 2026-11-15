@@ -25,7 +25,7 @@
   "category": "Sport",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/yassine-bounou-morocco-tribute-illustration.jpg",
     "alt": "Hommage imaginé avec Yassine Bounou et un enfant tenant un maillot marocain portant le numéro 100",
@@ -84,6 +84,22 @@
     {
       "type": "paragraph",
       "text": "Formé au Wydad Casablanca, Bounou est passé par la réserve de l’Atlético et par un prêt au Real Saragosse. Il a ensuite rejoint Gérone puis Séville, où il a remporté deux Ligues Europa et le Zamora 2021–2022. Il a signé à Al Hilal en 2023. Retrouvez [son parcours en club](/articles/yassine-bounou-africas-safest-hands/). [Source](https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/yassine-bounou-interview?searchOverlay=1)"
+    },
+    {
+      "type": "heading",
+      "text": "Des arrêts aux enjeux différents"
+    },
+    {
+      "type": "paragraph",
+      "text": "African Football rapporte que Bounou a arrêté le penalty de Youssef Omar à la 45e minute à Casablanca, alors que le Maroc menait 2–1 contre le Niger. L’arrêt a préservé l’avantage avant la pause lors d’un match finalement gagné 5–1. Il s’est produit en cours de jeu, ce qui le distingue des tirs au but qui l’ont rendu célèbre. [Source · african.football](https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/)"
+    },
+    {
+      "type": "heading",
+      "text": "Retour sur la victoire face à l’Espagne"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son compte rendu du huitième de finale de 2022, la FIFA relève les arrêts sur Carlos Soler et Sergio Busquets après le tir de Pablo Sarabia sur le poteau. Achraf Hakimi a inscrit le tir décisif après un match sans but. La FIFA crédite aussi Bounou de quatre matchs sans encaisser dans ce Mondial, ce qui replace la séance dans l’ensemble de son tournoi. [Source · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Source · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
     }
   ],
   "sources": [
@@ -102,6 +118,18 @@
     {
       "label": "Source · FIFA career profile",
       "url": "https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/yassine-bounou-interview?searchOverlay=1"
+    },
+    {
+      "label": "Source · african.football",
+      "url": "https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/"
+    },
+    {
+      "label": "Source · fifa.com",
+      "url": "https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez"
+    },
+    {
+      "label": "Source · fifa.com",
+      "url": "https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022"
     }
   ],
   "faq": [
@@ -113,5 +141,6 @@
       "question": "Bounou n’a-t-il joué que la première période ?",
       "answer": "Il est indiqué titulaire et aucun changement de gardien marocain n’est recensé."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

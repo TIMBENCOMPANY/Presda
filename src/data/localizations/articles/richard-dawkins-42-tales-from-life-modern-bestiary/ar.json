@@ -25,7 +25,7 @@
   "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/richard-dawkins-42-tales-modern-bestiary-illustration.jpg",
     "alt": "رسم لريتشارد دوكينز بجانب غلاف تخيلي ورسوم لكائنات بحرية",
@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[الأخطبوط الزجاجي](/articles/glass-octopus-vitreledonella-richardi/)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الأسئلة التي يطرحها دوكينز عن الحيوانات؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يعطي وصف مطبعة ييل فكرة عن تنوع الكتاب، من شكل قرن وحيد القرن وألوان الطيور الطنانة إلى حركة الأسماك وأوجه الشبه بين الخيول والسحالي. ويمكن للقارئ أن يسأل عن دور القرابة والوظيفة الحالية في تفسير كل صفة، وعن الأدلة اللازمة لمعرفة ما إذا كان التفسيران يتكاملان. [المصدر · yalebooks.yale.edu](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "heading",
+      "text": "لوحات هيكل في سياقها الأصلي"
+    },
+    {
+      "type": "paragraph",
+      "text": "رقمنت مكتبة تراث التنوع الحيوي طبعة سنة 1904 من كتاب «أشكال الفن في الطبيعة». وتساعد تصفح لوحاته في التعرف على التقليد البصري الذي يستلهمه كتاب معاصر عن الحيوانات. فاللوحة تسجل ملامح الكائن، وتكشف كذلك اختيارات الرسام في ترتيب الأشكال وإبرازها أمام القارئ. [المصدر · biodiversitylibrary.org](https://www.biodiversitylibrary.org/item/164275?t=87040) [كيف تكشف مقارنة الحمض النووي عن القرابة التطورية](/articles/how-much-dna-humans-share-other-species/)."
     }
   ],
   "sources": [
@@ -86,6 +102,10 @@
     {
       "label": "المصدر: www.oup.com.au",
       "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607"
+    },
+    {
+      "label": "المصدر · biodiversitylibrary.org",
+      "url": "https://www.biodiversitylibrary.org/item/164275?t=87040"
     }
   ],
   "faq": [
@@ -97,5 +117,6 @@
       "question": "هل صدرت الطبعتان في نوفمبر؟",
       "answer": "تحدد أبولو 5 نوفمبر في بريطانيا، وييل 20 أكتوبر في الولايات المتحدة."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

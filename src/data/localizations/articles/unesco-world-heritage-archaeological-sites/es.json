@@ -128,6 +128,22 @@
     {
       "type": "paragraph",
       "text": "[Cacicazgos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    },
+    {
+      "type": "heading",
+      "text": "Qué abarca una inscripción en el Patrimonio Mundial"
+    },
+    {
+      "type": "paragraph",
+      "text": "La UNESCO inscribe bienes de valor universal excepcional según criterios publicados. También importan la autenticidad y la integridad cuando procedan, así como la protección y la gestión. Un edificio famoso puede pertenecer a un conjunto más amplio. El Coliseo forma parte de la inscripción del centro histórico de Roma y bienes asociados. La ficha oficial describe todo el conjunto, una diferencia que conviene tener presente al comparar sitios o citar fechas de inscripción. [Fuente · whc.unesco.org](https://whc.unesco.org/en/glossary/222) [Fuente · whc.unesco.org](https://whc.unesco.org/en/list/91/)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué una inscripción puede aparecer en varios puntos del mapa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una inscripción puede reunir lugares separados. El mapa oficial del Diquís, en Costa Rica, enumera cuatro componentes, cada uno con límites y zona de amortiguamiento propios. Compararlo con la ficha de Roma muestra cómo los límites se adaptan al patrimonio reconocido, ya sea un paisaje urbano o una serie de yacimientos. [Fuente · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Fuente · whc.unesco.org](https://whc.unesco.org/en/list/91/) [Lee sobre los cuatro asentamientos del Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
     }
   ],
   "sources": [
@@ -170,6 +186,14 @@
     {
       "label": "Fuente: whc.unesco.org",
       "url": "https://whc.unesco.org/en/list/715/"
+    },
+    {
+      "label": "Fuente · whc.unesco.org",
+      "url": "https://whc.unesco.org/en/glossary/222"
+    },
+    {
+      "label": "Fuente · whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/maps/"
     }
   ],
   "faq": [
@@ -181,5 +205,6 @@
       "question": "¿El Coliseo es un bien independiente?",
       "answer": "Forma parte del bien del centro histórico de Roma."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

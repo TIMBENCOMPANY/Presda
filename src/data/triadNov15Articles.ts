@@ -127,7 +127,11 @@ export const triadNov15Articles: Article[] = [
       "## How autonomy ended and the port endured",
       "Powers based outside the estuary intervened repeatedly before the Alaouite consolidation of the 1660s brought the ports under royal control. Autonomous government and corsairing therefore have different timelines. Historian Leïla Maziane follows the activity from 1666 to 1727, showing how it persisted within the sultanate’s political and commercial system. [Leïla Maziane: Salé et ses corsaires](https://www.puc-ed.fr/fr/book/?GCOI=28777100805180)",
       "Rabat’s World Heritage listing includes the Kasbah of the Oudayas and recognizes the city’s different layers. The surviving urban fabric gives the story an anchor on land. Its significance reaches beyond the adventures of ship captains to the consequences of exile, negotiation and rivalry in a port shared by communities on both banks. [UNESCO: Rabat](https://whc.unesco.org/en/list/1401/)",
-      "[Ibn Battuta’s travels](/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/)."
+      "[Ibn Battuta’s travels](/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/).",
+      "## A letter from Salé to Charles I",
+      "Britain’s National Archives preserves a document dated 17 May 1627 under catalogue reference SP 102/2. It purports to come from an Andalusi Morisco and offers service to England’s Charles I. The letter refers to peace with the Andalusian inhabitants of the fortress. English agent John Harrison sent it home while trying to extend English influence. Read together, the transcription and translation show how different parties found different uses for the same agreement. The letter records what a correspondent wanted a king to hear, while the archive explains why Harrison thought it worth sending. [Source · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)",
+      "## Shipping and diplomacy met at the port",
+      "The archive also describes an English captain’s encounter in 1631 with a Rabat vessel off southern Portugal whose crew included Moriscos and European renegades. Corsairing depended on such mixed networks. An account from a merchant or captain reveals who was aboard a particular ship. It cannot establish the composition of the fleet as a whole. [Source · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
     ],
     "references": [
       {
@@ -149,6 +153,10 @@ export const triadNov15Articles: Article[] = [
       {
         "name": "UNESCO: Rabat",
         "url": "https://whc.unesco.org/en/list/1401/"
+      },
+      {
+        "name": "Source · nationalarchives.gov.uk",
+        "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/"
       }
     ],
     "relatedSlugs": [
@@ -164,7 +172,7 @@ export const triadNov15Articles: Article[] = [
         "answer": "The activity continued under the Alaouite sultans into the eighteenth century."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "474",

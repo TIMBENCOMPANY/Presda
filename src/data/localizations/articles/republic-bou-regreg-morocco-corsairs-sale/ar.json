@@ -76,6 +76,22 @@
     {
       "type": "paragraph",
       "text": "[رحلات ابن بطوطة](/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/)."
+    },
+    {
+      "type": "heading",
+      "text": "رسالة من سلا إلى تشارلز الأول"
+    },
+    {
+      "type": "paragraph",
+      "text": "يحفظ الأرشيف الوطني البريطاني وثيقة مؤرخة في 17 مايو 1627 تحت الرمز SP 102/2. وتُنسب إلى موريسكي أندلسي يعرض خدماته على تشارلز الأول ملك إنجلترا ويذكر اتفاق سلام مع أندلسيي الحصن. ونقلها المبعوث الإنجليزي جون هاريسون إلى بلاده في سياق مساعيه لتوسيع نفوذها. وتساعد قراءة النص وترجمته على التمييز بين ما أراد المرسل إبلاغه للملك وما دفع هاريسون إلى نقل الوثيقة. [المصدر · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
+    },
+    {
+      "type": "heading",
+      "text": "التقاء الملاحة والدبلوماسية في الميناء"
+    },
+    {
+      "type": "paragraph",
+      "text": "ويروي الأرشيف أيضاً أن قبطاناً إنجليزياً صادف سنة 1631 قبالة جنوب البرتغال سفينة من الرباط تضم موريسكيين وأوروبيين وصفهم بالتنكر لبلدانهم. ويسلط السجل الضوء على شبكات الملاحة المختلطة في ذلك الوقت. وهو يصف طاقم سفينة واحدة، لذلك يصعب تعميمه على الأسطول كله. [المصدر · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
     }
   ],
   "sources": [
@@ -98,6 +114,10 @@
     {
       "label": "المصدر: whc.unesco.org",
       "url": "https://whc.unesco.org/en/list/1401/"
+    },
+    {
+      "label": "المصدر · nationalarchives.gov.uk",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/"
     }
   ],
   "faq": [
@@ -109,5 +129,6 @@
       "question": "هل توقفت القرصنة بانتهاء الحكم الذاتي؟",
       "answer": "استمرت في عهد السلاطين العلويين إلى القرن الثامن عشر."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

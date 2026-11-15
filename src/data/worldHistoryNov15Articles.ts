@@ -34,7 +34,11 @@ export const worldHistoryNov15Articles: Article[] = [
       "Doris Stone recorded groups and published her early work in 1943. Samuel Lothrop worked in the delta in 1948 and published a fuller study in 1963. Their records preserve details of alignments and locations that later landscaping and collecting sometimes erased. Years of National Museum research have since put the sculptures back into the study of entire settlements. [Costa Rica’s World Heritage nomination dossier](https://whc.unesco.org/uploads/nominations/1453.pdf)",
       "## What UNESCO protects",
       "UNESCO inscribed four archaeological sites in 2014: Finca 6, Batambal, El Silencio and Grijalba-2. The designation covers pre-Columbian settlements and their relationships to the spheres. Finca 6 is especially valuable because alignments survive where people originally placed the stones. Their precise meanings remain open to study. [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1453/)",
-      "[Diquís chiefdoms](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      "[Diquís chiefdoms](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/).",
+      "## The plantation records and the archaeological record",
+      "Banana development exposed spheres in the late 1930s. Later fieldwork by Doris Stone and Samuel Lothrop recorded features across several plantation plots. The National Museum’s study lists Fincas 1, 2, 4, 5, 6 and 7 among the areas with surface or buried structures. These records help archaeologists distinguish modern encounters with the stones from the ancient history of the settlements. [Source · diquis.go.cr](https://diquis.go.cr/en/linea-de-tiempo.html) [Source · museocostarica.go.cr](https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf)",
+      "## Why a findspot is as important as a sphere",
+      "An isolated sphere can still be measured and its stone studied. Its setting answers different questions. An undisturbed placement near a platform or in a row lets researchers compare architecture, orientation and the way people moved through a settlement. Once a sphere is removed, later researchers need a map, photograph or field record to reconstruct those relationships. Speculation about what might have been inside cannot recover that lost evidence. [Source · museocostarica.go.cr](https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf) [Explore the settlements behind the stone spheres](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
     ],
     "references": [
       {
@@ -52,6 +56,10 @@ export const worldHistoryNov15Articles: Article[] = [
       {
         "name": "UNESCO World Heritage Centre",
         "url": "https://whc.unesco.org/en/list/1453/"
+      },
+      {
+        "name": "Source · museocostarica.go.cr",
+        "url": "https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf"
       }
     ],
     "relatedSlugs": [
@@ -67,7 +75,7 @@ export const worldHistoryNov15Articles: Article[] = [
         "answer": "UNESCO inscribed the four-site property in 2014."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "468",
@@ -190,7 +198,7 @@ export const worldHistoryNov15Articles: Article[] = [
       "Finca 6 preserves rows of spheres in their original setting, a rare way to examine how people arranged monuments beside earthen structures. At Batambal, the settlement’s visibility from a distance distinguishes it from the other sites. El Silencio preserves the largest known sphere, while Grijalba-2 stands out for its use of limestone and has been interpreted as a subordinate center. Together these contrasts give researchers more to work with than isolated objects in a museum: they can compare each settlement’s place in the landscape, its building material and the relationship between spheres and structures. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/)",
       "## Explore the settlement landscape",
       "The official World Heritage maps show the four separate properties and their buffer zones. Costa Rica’s National Museum offers aerial photographs and a 360-degree tour that puts the sites beside modern fields, waterways and communities. The maps are particularly helpful for seeing why the inscription protects a group of places with distinct archaeological evidence. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Source · museocostarica.go.cr](https://www.museocostarica.go.cr/nuestro-trabajo/investigaciones/arqueologia/diquis/)",
-      "[Las Bolas and the gold rumor](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/)."
+      "[Las Bolas and the gold rumor](/articles/las-bolas-costa-rica-stone-spheres-gold-rumor/). [Compare Diquís with other World Heritage sites](/articles/unesco-world-heritage-archaeological-sites/)."
     ],
     "references": [
       {
@@ -219,7 +227,8 @@ export const worldHistoryNov15Articles: Article[] = [
       }
     ],
     "relatedSlugs": [
-      "las-bolas-costa-rica-stone-spheres-gold-rumor"
+      "las-bolas-costa-rica-stone-spheres-gold-rumor",
+      "unesco-world-heritage-archaeological-sites"
     ],
     "faq": [
       {
@@ -281,7 +290,11 @@ export const worldHistoryNov15Articles: Article[] = [
       "The Inca complex above the Urubamba links terraces and masonry to the steep Andes. The sanctuary was listed as a mixed cultural and natural property in 1983, reflecting the importance of both the built site and its mountain setting. [UNESCO: Machu Picchu, Peru](https://whc.unesco.org/en/list/274/)",
       "### Rapa Nui National Park, Chile",
       "On this Polynesian island in the southeastern Pacific, carved moai belong to a landscape of ceremonial platforms and places of production. The park was inscribed in 1995. [UNESCO: Rapa Nui National Park, Chile](https://whc.unesco.org/en/list/715/)",
-      "[Diquís chiefdoms](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+      "[Diquís chiefdoms](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/).",
+      "## What a World Heritage listing actually covers",
+      "UNESCO’s list identifies properties of outstanding universal value against published criteria. Authenticity and integrity, where relevant, and arrangements for protection and management also matter. A famous building may be part of a much larger entry. The Colosseum, for example, belongs to the listing for Rome’s historic center and associated properties. The relevant UNESCO page describes the full property. That distinction matters when comparing places or citing an inscription date. [Source · whc.unesco.org](https://whc.unesco.org/en/glossary/222) [Source · whc.unesco.org](https://whc.unesco.org/en/list/91/)",
+      "## Why one entry can appear in several places on a map",
+      "A single inscription can cover separate physical locations. UNESCO’s official map for the Diquís property in Costa Rica lists four component sites, each with its own boundary and buffer zone. Comparing that map with the Rome listing shows how World Heritage boundaries follow the heritage being recognized, whether that means an urban landscape or a series of archaeological sites. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Source · whc.unesco.org](https://whc.unesco.org/en/list/91/) [Read about the four Diquís settlements](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
     ],
     "references": [
       {
@@ -323,6 +336,14 @@ export const worldHistoryNov15Articles: Article[] = [
       {
         "name": "UNESCO: Rapa Nui National Park, Chile",
         "url": "https://whc.unesco.org/en/list/715/"
+      },
+      {
+        "name": "Source · whc.unesco.org",
+        "url": "https://whc.unesco.org/en/glossary/222"
+      },
+      {
+        "name": "Source · whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/1453/maps/"
       }
     ],
     "relatedSlugs": [
@@ -339,7 +360,7 @@ export const worldHistoryNov15Articles: Article[] = [
         "answer": "It is part of the Historic Centre of Rome World Heritage property."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "471",
@@ -378,7 +399,11 @@ export const worldHistoryNov15Articles: Article[] = [
       "Assyria grew from northern Mesopotamia into an empire. Its capitals shifted, and Nineveh fell in 612 BCE. Babylon remained a centre of power until Cyrus took it in 539 BCE. These dates mark political changes. Scribal work, temple life and the circulation of knowledge continued under new rulers. [The Met: first-millennium chronology](https://82nd-and-fifth.metmuseum.org/toah/ht/04/wam.html)",
       "The tablets associated with Ashurbanipal’s library at Nineveh show the scale of collecting and copying. They are part of a legacy that includes literature and sophisticated mathematical and astronomical practices. Mesopotamia earned its reputation as a cradle of civilization through this combination of early urban life, written records and institutions that transmitted knowledge across generations. [British Museum: Mesopotamia](https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Mesopotamia_KS2b.pdf)",
       "A surviving Babylonian tablet known as Plimpton 322 records numbers in base 60. It is a tangible example of an invention less visible than a ziggurat: a notation in which the place of a sign changes its value. Such tablets preserve the work of mathematical scribes alongside the monuments associated with kings. [Smithsonian: Babylonian mathematics](https://www.si.edu/object/nmah_690811)",
-      "[The Sumerian cities](/articles/sumerians-first-cities-cuneiform-civilization/)."
+      "[The Sumerian cities](/articles/sumerians-first-cities-cuneiform-civilization/).",
+      "## Read one clay tablet before reading an empire",
+      "A tablet catalogued by the Metropolitan Museum of Art records malt and barley groats. Its survival offers a view of writing before it became a vehicle for the stories and laws most often associated with Mesopotamia. Someone needed to track goods. Clay let the record outlast the transaction. The museum dates the earliest economic tablets to around 3300 BCE and describes their use of pictures and numbers. Within the first half of the third millennium BCE, the script could represent spoken Sumerian closely enough to record poetry. [Source · metmuseum.org](https://www.metmuseum.org/art/collection/search/327385)",
+      "## What made Uruk a city",
+      "Around 3200 BCE Uruk stood out in southern Mesopotamia for its scale and its monumental mud-brick buildings. Some were decorated with mosaics formed from colored clay cones. The buildings and the tablets answer different questions. Architecture shows what people could organize and build together. Accounts and seal impressions reveal how institutions kept track of goods and transactions. [Source · metmuseum.org](https://www.metmuseum.org/art/collection/search/327385) [Source · metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city) [Read about Baghdad under the later Abbasids](/articles/baghdad-1258-mongol-siege-fall-abbasids/)."
     ],
     "references": [
       {
@@ -404,12 +429,17 @@ export const worldHistoryNov15Articles: Article[] = [
       {
         "name": "Smithsonian: Babylonian mathematics",
         "url": "https://www.si.edu/object/nmah_690811"
+      },
+      {
+        "name": "Source · metmuseum.org",
+        "url": "https://www.metmuseum.org/art/collection/search/327385"
       }
     ],
     "relatedSlugs": [
       "sumerians-first-cities-cuneiform-civilization",
       "babylon-history-hammurabi-hanging-gardens",
-      "assyrian-empire-war-machine-rise-fall"
+      "assyrian-empire-war-machine-rise-fall",
+      "baghdad-1258-mongol-siege-fall-abbasids"
     ],
     "faq": [
       {
@@ -421,6 +451,6 @@ export const worldHistoryNov15Articles: Article[] = [
         "answer": "It was a historical region with many societies and states, including the Akkadian, Assyrian and Babylonian empires at different times."
       }
     ],
-    "readingTime": "3 min read"
+    "readingTime": "4 min read"
   }
 ];

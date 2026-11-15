@@ -10,7 +10,7 @@ export const featuresNov14Articles: Article[] = [
     "category": "Sport",
     "schemaType": "NewsArticle",
     "date": "2026-11-14",
-    "lastUpdated": "2026-11-14",
+    "lastUpdated": "2026-11-15",
     "author": "PRESDA Editorial",
     "status": "published",
     "heroPreserveAspect": true,
@@ -37,7 +37,11 @@ export const featuresNov14Articles: Article[] = [
       "## A Morocco timeline",
       "**2013:** senior debut in Tangier. **2018:** first World Cup squad. **2022:** shootout hero against Spain and a World Cup semi-final. **2025 AFCON:** Golden Glove. **2026:** a second World Cup on the pitch and a first-half penalty save against Niger as his Morocco career reached the century mark. [Morocco appearance log](https://dimasbaa.com/fr/p/yassine-bounou)",
       "## From Wydad to Al Hilal",
-      "Bounou came through Wydad Casablanca, joined Atlético Madrid’s reserve side and went on loan to Real Zaragoza. Girona came next, followed by Sevilla, where he won two Europa Leagues and the 2021–22 Zamora Trophy. He joined Al Hilal in 2023. Read more in [PRESDA’s club career profile](/articles/yassine-bounou-africas-safest-hands/). [FIFA career profile](https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/yassine-bounou-interview?searchOverlay=1)"
+      "Bounou came through Wydad Casablanca, joined Atlético Madrid’s reserve side and went on loan to Real Zaragoza. Girona came next, followed by Sevilla, where he won two Europa Leagues and the 2021–22 Zamora Trophy. He joined Al Hilal in 2023. Read more in [PRESDA’s club career profile](/articles/yassine-bounou-africas-safest-hands/). [FIFA career profile](https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/yassine-bounou-interview?searchOverlay=1)",
+      "## Two penalty saves with different stakes",
+      "African Football reported that Bounou stopped Youssef Omar’s penalty in the 45th minute in Casablanca with Morocco leading Niger 2–1. It protected the lead before half-time in a game Morocco won 5–1. The save was part of the match itself, which matters when comparing it with his best-known shootout. [Source · african.football](https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/)",
+      "## Revisit the night Morocco beat Spain",
+      "FIFA’s account of the 2022 round of 16 records saves from Carlos Soler and Sergio Busquets after Pablo Sarabia hit the post. Achraf Hakimi converted the clinching kick. The match itself had ended level without goals. FIFA separately credits Bounou with four clean sheets at that World Cup, so the shootout heroics tell only part of his tournament story. [Source · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [Source · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
     ],
     "references": [
       {
@@ -55,6 +59,18 @@ export const featuresNov14Articles: Article[] = [
       {
         "name": "FIFA career profile",
         "url": "https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/yassine-bounou-interview?searchOverlay=1"
+      },
+      {
+        "name": "Source · african.football",
+        "url": "https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/"
+      },
+      {
+        "name": "Source · fifa.com",
+        "url": "https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez"
+      },
+      {
+        "name": "Source · fifa.com",
+        "url": "https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022"
       }
     ],
     "relatedSlugs": [
@@ -82,7 +98,7 @@ export const featuresNov14Articles: Article[] = [
     "category": "Science",
     "schemaType": "NewsArticle",
     "date": "2026-11-14",
-    "lastUpdated": "2026-11-14",
+    "lastUpdated": "2026-11-15",
     "author": "PRESDA Editorial",
     "status": "published",
     "heroPreserveAspect": true,
@@ -106,7 +122,11 @@ export const featuresNov14Articles: Article[] = [
       "Haeckel’s illustrations bring the shapes of marine organisms, plants and other subjects into view. A plate can make symmetry and repeated structures easier to see. Modern evolutionary explanations still depend on evidence about ancestry and inheritance. The historical artwork gives the reader an entry point into those questions. [Bloomsbury UK](https://www.bloomsbury.com/uk/42-tales-from-life-9781035924370/)",
       "## The ideas that made Dawkins influential",
       "An evolutionary biologist who trained in animal behaviour, Dawkins held Oxford’s first Charles Simonyi chair in public understanding of science from 1995 to 2008. The Selfish Gene (1976) popularised a gene-centred view of selection. The Extended Phenotype (1982) argued that inherited effects can reach beyond an organism’s body, as in structures built by animals. The Blind Watchmaker (1986) explained cumulative selection for general readers. The God Delusion addressed religion and belongs to a different part of his bibliography. [Oxford University Press](https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607)",
-      "[The glass octopus](/articles/glass-octopus-vitreledonella-richardi/)"
+      "[The glass octopus](/articles/glass-octopus-vitreledonella-richardi/)",
+      "## What Dawkins actually asks about the animals",
+      "Yale’s description gives a sense of the book’s scale: it moves from the shape of a rhinoceros horn to the bright colors of hummingbirds, and from the movement of fish to similarities between horses and lizards. A reader can ask whether an observed feature is best explained by inheritance from a common ancestor, by how an animal functions today, or by a combination of historical and functional evidence. [Source · yalebooks.yale.edu](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)",
+      "## See Haeckel’s work in its original setting",
+      "The Biodiversity Heritage Library has digitized the 1904 volume of Kunstformen der Natur. Looking through the plates shows the visual tradition that a contemporary bestiary can draw on. An illustrated plate records both an organism’s form and an artist’s decisions about how to arrange it. [Source · biodiversitylibrary.org](https://www.biodiversitylibrary.org/item/164275?t=87040) [How DNA comparisons reveal shared ancestry](/articles/how-much-dna-humans-share-other-species/)."
     ],
     "references": [
       {
@@ -120,10 +140,15 @@ export const featuresNov14Articles: Article[] = [
       {
         "name": "Oxford University Press",
         "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607"
+      },
+      {
+        "name": "Source · biodiversitylibrary.org",
+        "url": "https://www.biodiversitylibrary.org/item/164275?t=87040"
       }
     ],
     "relatedSlugs": [
-      "glass-octopus-vitreledonella-richardi"
+      "glass-octopus-vitreledonella-richardi",
+      "how-much-dna-humans-share-other-species"
     ],
     "faq": [
       {
@@ -135,6 +160,6 @@ export const featuresNov14Articles: Article[] = [
         "answer": "Apollo lists November 5 in the UK. Yale University Press lists October 20 in the US."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   }
 ];

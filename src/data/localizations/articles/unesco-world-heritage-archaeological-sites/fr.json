@@ -128,6 +128,22 @@
     {
       "type": "paragraph",
       "text": "[Chefferies du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    },
+    {
+      "type": "heading",
+      "text": "Que recouvre une inscription au patrimoine mondial ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’UNESCO inscrit des biens de valeur universelle exceptionnelle selon des critères publics. L’authenticité et l’intégrité, selon le cas, ainsi que la protection et la gestion entrent aussi en compte. Un édifice célèbre peut faire partie d’un ensemble plus vaste. Le Colisée relève ainsi de l’inscription du centre historique de Rome et de biens associés. La fiche officielle décrit l’ensemble, une distinction essentielle pour comparer les lieux ou citer une date d’inscription. [Source · whc.unesco.org](https://whc.unesco.org/en/glossary/222) [Source · whc.unesco.org](https://whc.unesco.org/en/list/91/)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi une inscription peut couvrir plusieurs lieux"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une même inscription peut réunir des emplacements distincts. La carte officielle du Diquís, au Costa Rica, distingue quatre composantes, chacune dotée d’un périmètre et d’une zone tampon. Comparer cette carte à la fiche de Rome montre comment les limites suivent la nature du patrimoine, qu’il s’agisse d’un paysage urbain ou d’une série de sites archéologiques. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [Source · whc.unesco.org](https://whc.unesco.org/en/list/91/) [Lire sur les quatre établissements du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
     }
   ],
   "sources": [
@@ -170,6 +186,14 @@
     {
       "label": "Source: whc.unesco.org",
       "url": "https://whc.unesco.org/en/list/715/"
+    },
+    {
+      "label": "Source · whc.unesco.org",
+      "url": "https://whc.unesco.org/en/glossary/222"
+    },
+    {
+      "label": "Source · whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/maps/"
     }
   ],
   "faq": [
@@ -181,5 +205,6 @@
       "question": "Le Colisée est-il inscrit séparément ?",
       "answer": "Il fait partie du bien du centre historique de Rome."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

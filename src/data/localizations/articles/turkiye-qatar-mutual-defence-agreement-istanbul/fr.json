@@ -25,7 +25,7 @@
   "category": "World",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/turkiye-qatar-mutual-defence-agreement-signing.jpg",
     "alt": "Scène de signature imaginée avec le président turc et l’émir du Qatar devant leurs drapeaux",
@@ -68,6 +68,22 @@
     {
       "type": "paragraph",
       "text": "[la rencontre prévue à Shenzhen](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que le communiqué établit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le communiqué du 13 novembre évoque le cas d’une attaque armée extérieure visant l’un des pays ou les deux. Il présente leur position commune comme un engagement pour la souveraineté et l’intégrité territoriale. Un communiqué résume les positions des gouvernements. Le texte complet de l’accord serait nécessaire pour déterminer les procédures, les délais et les obligations dans un cas précis. [Source · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+    },
+    {
+      "type": "heading",
+      "text": "Une relation suivie par plusieurs instances"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le comité stratégique se réunissait pour la douzième fois. Le même communiqué aborde le commerce et l’investissement au titre d’un partenariat économique distinct, signé en 2018 et entré en vigueur en août 2025. Les deux instruments couvrent des engagements différents et leur présence au cours de la même session montre l’étendue de la coopération. [Source · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
     }
   ],
   "sources": [
@@ -93,5 +109,6 @@
       "question": "Quel est l’objectif annoncé ?",
       "answer": "Le communiqué évoque une défense collective renforcée et une position commune face aux attaques armées extérieures."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

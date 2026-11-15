@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[À lire aussi](/articles/meta-italy-805-million-facebook-android-photo-fine/)."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que l’abonnement ajoute au prix"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au tarif annoncé de 299 dollars par mois, douze mois payants ajoutent 3 588 dollars hors taxes. Le prix de base et ces douze mois représentent ensemble 33 578 dollars avant les autres frais, si le tarif reste stable. Ce calcul illustre la charge récurrente. Chaque acheteur doit consulter les conditions de sa propre invitation. [Source · investing.com](https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212) [Source · tesla.com](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+    },
+    {
+      "type": "heading",
+      "text": "Acheter la voiture ou payer un trajet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters décrit les premières commandes comme des invitations à acheter pour un usage personnel. Le service de courses donne accès à un trajet dans les zones couvertes. Avec l’achat, le client possède le véhicule et paie l’autonomie de façon récurrente. L’existence des courses ne permet pas de déduire où les Cybercab privés pourront circuler. [Source · investing.com](https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212)"
     }
   ],
   "sources": [
@@ -101,5 +117,6 @@
       "question": "Quand sont prévues les livraisons ?",
       "answer": "Tesla estimait les premières livraisons à décembre 2026 pour les clients invités."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

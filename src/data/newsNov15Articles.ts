@@ -34,7 +34,11 @@ export const newsNov15Articles: Article[] = [
       "The butterfly-door two-seater has no steering wheel or pedals for a driver to take over. Riders set destinations through Tesla’s software. The service depends on working connectivity and current software. Tesla can restrict operation by area, road, time or conditions. A buyer should check whether the places they need to reach fall inside the supported area. [Tesla Autonomy Subscription Agreement](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)",
       "## How private sales fit Tesla’s Robotaxi strategy",
       "Tesla said in its third-quarter update that it had begun deploying Cybercabs in its Austin Robotaxi fleet. Selling cars to invited owners adds a second model alongside fares. Both depend on Tesla’s ability to operate and support vehicles in specific markets. The invitation offer does not establish nationwide availability or guarantee that privately owned cars can earn fares. [Tesla Q3 2026 update](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf)",
-      "[Related coverage](/articles/meta-italy-805-million-facebook-android-photo-fine/)."
+      "[Related coverage](/articles/meta-italy-805-million-facebook-android-photo-fine/).",
+      "## What the subscription adds to the cost",
+      "At the advertised $299 monthly rate, 12 paid months add $3,588 before taxes. Added to the advertised base price, that puts the purchase plus 12 paid months at $33,578, before any other charges and assuming the rate stays the same. The calculation is an illustration of the recurring cost rather than a delivery invoice. Buyers need to check the terms attached to their own invitation. [Source · investing.com](https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212) [Source · tesla.com](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)",
+      "## Owning the vehicle and buying rides are different offers",
+      "Reuters describes the initial orders as invitations for personal use. Tesla’s ride service gives passengers access to a trip in areas it serves. The purchase offer instead puts the vehicle and an ongoing autonomy payment with the customer. The existence of the ride service does not establish where privately owned Cybercabs can operate. [Source · investing.com](https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212)"
     ],
     "references": [
       {
@@ -67,7 +71,7 @@ export const newsNov15Articles: Article[] = [
         "answer": "Tesla initially estimated December 2026 for invited customers."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "463",
@@ -103,7 +107,11 @@ export const newsNov15Articles: Article[] = [
       "ABC documented 19 donated cars by August 2025 and cited the same total in its November 2026 award coverage. It is a documented count, rather than an estimate of every later donation. Hynam has helped finance the project himself, with additional support raised locally. [ABC News](https://www.abc.net.au/news/2026-11-13/australian-of-the-year-victorian-winners/107379768)",
       "## Recognition in Melbourne",
       "On November 12 in Melbourne, the awards organizers named him Victoria’s 2027 Local Hero. The state award advances him to the national round in Canberra. Back in the Wimmera, the work can be measured in smaller changes, like a young driver taking a set of keys home after her test. [Australian of the Year Awards](https://uat.australianoftheyear.org.au/sites/default/files/2026-11/vic_recipient_media_release.pdf)",
-      "[Related coverage](/articles/1925-serum-run-nome-sled-dogs-balto-togo/)."
+      "[Related coverage](/articles/1925-serum-run-nome-sled-dogs-balto-togo/).",
+      "## How the first gifts took shape",
+      "ABC traced the initiative to 2017, when Hynam met two recent arrivals in the Wimmera who needed a way to get around. He repaired a used car for each of them. A third donation followed. His skill as a mechanic let him start at a scale he could manage and respond to people he already knew. [Source · abc.net.au](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)",
+      "## One set of keys after the driving test",
+      "ABC documented what the handover meant for Chelsea Robinson, who met Hynam through Victoria’s L2P learner-driver program. After she passed her licence test, he gave her the keys to the car in which they had practiced. She told the broadcaster that she had previously walked everywhere. The same report follows Kaitlyn Sommerfield, whose first car helped her get her daughter to appointments in Horsham. [Source · abc.net.au](https://www.abc.net.au/news/2025-08-18/wimmera-man-fixes-and-gifts-cars-to-disadvantaged-drivers/105646116)"
     ],
     "references": [
       {
@@ -132,6 +140,6 @@ export const newsNov15Articles: Article[] = [
         "answer": "He was named Victoria’s 2027 Local Hero at the November 2026 state ceremony."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   }
 ];

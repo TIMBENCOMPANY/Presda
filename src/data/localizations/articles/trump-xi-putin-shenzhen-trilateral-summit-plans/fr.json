@@ -25,7 +25,7 @@
   "category": "World",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/trump-xi-putin-shenzhen-trilateral-talks.jpg",
     "alt": "Scène imaginée de Donald Trump, Xi Jinping et Vladimir Poutine devant leurs drapeaux",
@@ -68,6 +68,22 @@
     {
       "type": "paragraph",
       "text": "[l’accord de défense entre la Türkiye et le Qatar](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/)"
+    },
+    {
+      "type": "heading",
+      "text": "Où en est la rencontre au 15 novembre ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon l’Associated Press, Donald Trump prévoit de se rendre à Shenzhen après son déplacement aux Philippines. L’agence cite le commerce parmi ses priorités en Chine avant l’échange prévu avec Xi Jinping et Vladimir Poutine sur les arsenaux nucléaires. La réunion figure encore dans le programme à venir. Elle ouvre la possibilité d’un dialogue, tandis que son résultat et d’éventuels engagements écrits restent inconnus. [Source · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qui relève du programme de l’APEC"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’APEC se présente comme un forum économique. Son programme comprend la coopération en matière de commerce et d’investissement. Trois dirigeants peuvent discuter en marge de ce programme sans que leurs décisions sur les armes nucléaires deviennent des décisions du forum. [Source · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
     }
   ],
   "sources": [
@@ -86,6 +102,10 @@
     {
       "label": "Source: www.apec.org",
       "url": "https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters"
+    },
+    {
+      "label": "Source · apnews.com",
+      "url": "https://apnews.com/article/30ac0f6937301f36904808f278b79b1e"
     }
   ],
   "faq": [
@@ -97,5 +117,6 @@
       "question": "Un accord nucléaire est-il attendu ?",
       "answer": "Un responsable américain a déclaré à AP qu’aucun accord ne devrait être annoncé."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

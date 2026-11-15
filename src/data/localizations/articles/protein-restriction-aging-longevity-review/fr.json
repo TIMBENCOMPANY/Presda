@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[À lire aussi](/articles/anti-aging-can-we-slow-down-human-aging/)."
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi le régime de comparaison compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réduire les protéines dans un régime expérimental pose une autre question : par quoi les remplace-t-on ? Plusieurs facteurs peuvent changer à la fois, notamment l’apport énergétique total et l’équilibre entre glucides et lipides. Les chercheurs distinguent la baisse des protéines totales de la restriction d’un acide aminé précis. Ces interventions peuvent tester des mécanismes différents. La revue les examine séparément. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "heading",
+      "text": "Du mécanisme biologique au résultat chez l’humain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une intervention peut modifier une hormone ou un marqueur métabolique pendant l’étude. Cela renseigne sur la réponse dans ces conditions. Pour établir un bénéfice sur le vieillissement humain, il faudrait mesurer un effet durable sur la santé ou la survie, avec un suivi suffisant et une comparaison qui isole l’effet de l’intervention. Les résultats animaux et les réponses humaines mesurées relèvent donc de niveaux de preuve différents. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
     }
   ],
   "sources": [
@@ -97,5 +113,6 @@
       "question": "La longévité humaine est-elle démontrée ?",
       "answer": "Les études humaines ont surtout mesuré des effets métaboliques à court terme. Le bénéfice sur la durée de vie reste à démontrer."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

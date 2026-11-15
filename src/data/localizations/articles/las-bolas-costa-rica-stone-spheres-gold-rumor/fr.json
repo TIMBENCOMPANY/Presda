@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[Chefferies du Diquís](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    },
+    {
+      "type": "heading",
+      "text": "Les archives des plantations et les traces anciennes"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’aménagement des bananeraies a mis au jour des sphères à la fin des années 1930. Doris Stone, puis Samuel Lothrop, ont relevé des structures sur plusieurs parcelles. L’étude du Musée national mentionne des vestiges visibles ou enfouis aux Fincas 1, 2, 4, 5, 6 et 7. Ces relevés aident à distinguer la découverte moderne des pierres de l’histoire ancienne des établissements. [Source · diquis.go.cr](https://diquis.go.cr/en/linea-de-tiempo.html) [Source · museocostarica.go.cr](https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi le lieu de découverte compte autant que la sphère"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une sphère isolée reste mesurable et sa roche peut être étudiée. Son environnement répond à d’autres questions. Une position intacte près d’une plateforme ou dans une rangée permet de comparer l’architecture, l’orientation et la circulation au sein du village. Après un déplacement, une carte, une photo ou un relevé de terrain est nécessaire pour restituer ces relations. Les spéculations sur ce que la pierre aurait contenu ne rendent pas ces données. [Source · museocostarica.go.cr](https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf) [Découvrir les établissements à l’origine des sphères](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
     }
   ],
   "sources": [
@@ -90,6 +106,10 @@
     {
       "label": "Source: whc.unesco.org",
       "url": "https://whc.unesco.org/en/list/1453/"
+    },
+    {
+      "label": "Source · museocostarica.go.cr",
+      "url": "https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf"
     }
   ],
   "faq": [
@@ -101,5 +121,6 @@
       "question": "Quand les sites ont-ils été inscrits ?",
       "answer": "L’UNESCO a inscrit le bien composé de quatre sites en 2014."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

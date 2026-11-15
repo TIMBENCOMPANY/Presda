@@ -34,7 +34,11 @@ export const featuresNov15Articles: Article[] = [
       "A Nature Metabolism study in lean men found higher circulating FGF21 and a change in the energy needed to maintain body weight during protein restriction. A metabolic response over a short period cannot establish whether participants will stay healthy for longer, develop fewer diseases or live longer. Human trials designed around those outcomes would need much longer follow-up. [Nature Metabolism human trial](https://doi.org/10.1038/s42255-025-01236-7)",
       "## Why this does not set a protein target",
       "Protein also helps maintain muscle and physical function. Age, activity, health and what replaces the protein in a diet can change the trade-offs. A useful next test would track physical function and longer-term health alongside biomarkers. For now, the review frames a research question and offers no universal intake target for aging. [European Food Information Council](https://www.eufic.org/en/misinformation/article/what-journalists-need-to-know-about-protein-restriction-and-healthy-aging)",
-      "[Related coverage](/articles/anti-aging-can-we-slow-down-human-aging/)."
+      "[Related coverage](/articles/anti-aging-can-we-slow-down-human-aging/).",
+      "## Why the comparison diet matters",
+      "Reducing protein in a laboratory diet raises a second question: what replaces it? A diet can change in several ways at once, including its total energy and the balance of carbohydrate and fat. Researchers also distinguish diets with less total protein from diets that restrict a particular amino acid. Those interventions can test different mechanisms, so a result from one cannot automatically be assigned to the other. The review discusses them separately. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)",
+      "## From a biological mechanism to a human outcome",
+      "An intervention may change a hormone or a metabolic measurement during a study. That can show how the body responds under those conditions. To establish a benefit for aging in people, researchers would need outcomes that measure a lasting change in health or survival, with enough follow-up and a comparison capable of separating the intervention from other causes. The animal findings and measured human responses therefore belong at different levels of evidence. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
     ],
     "references": [
       {
@@ -63,7 +67,7 @@ export const featuresNov15Articles: Article[] = [
         "answer": "Human studies mainly measured shorter-term metabolic outcomes. Human lifespan benefits remain unproved."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   },
   {
     "id": "465",

@@ -25,7 +25,7 @@
   "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/richard-dawkins-42-tales-modern-bestiary-illustration.jpg",
     "alt": "Illustration de Richard Dawkins près d’une couverture imaginée et de dessins marins",
@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[La pieuvre de verre](/articles/glass-octopus-vitreledonella-richardi/)"
+    },
+    {
+      "type": "heading",
+      "text": "Les questions que Dawkins pose aux animaux"
+    },
+    {
+      "type": "paragraph",
+      "text": "La présentation de Yale donne une idée de l’ampleur du livre : la forme de la corne du rhinocéros, les couleurs des colibris, le déplacement des poissons et les ressemblances entre chevaux et lézards. Devant un trait, le lecteur peut se demander ce qu’expliquent la parenté, la fonction actuelle du trait et les indices qu’il faut réunir pour départager ces explications. [Source · yalebooks.yale.edu](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "heading",
+      "text": "Voir les planches de Haeckel dans leur contexte"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Biodiversity Heritage Library a numérisé l’édition de 1904 de Kunstformen der Natur. Ses planches permettent de voir la tradition visuelle dont s’inspire un bestiaire moderne. Une illustration renseigne à la fois sur la forme d’un organisme et sur les choix faits par l’artiste pour la représenter. [Source · biodiversitylibrary.org](https://www.biodiversitylibrary.org/item/164275?t=87040) [Comment l’ADN révèle les parentés évolutives](/articles/how-much-dna-humans-share-other-species/)."
     }
   ],
   "sources": [
@@ -86,6 +102,10 @@
     {
       "label": "Source: www.oup.com.au",
       "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607"
+    },
+    {
+      "label": "Source · biodiversitylibrary.org",
+      "url": "https://www.biodiversitylibrary.org/item/164275?t=87040"
     }
   ],
   "faq": [
@@ -97,5 +117,6 @@
       "question": "Les deux éditions sont-elles parues en novembre ?",
       "answer": "Apollo indique le 5 novembre au Royaume-Uni et Yale le 20 octobre aux États-Unis."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

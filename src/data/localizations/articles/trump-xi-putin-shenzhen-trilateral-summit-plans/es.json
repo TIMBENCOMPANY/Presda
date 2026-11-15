@@ -25,7 +25,7 @@
   "category": "World",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/trump-xi-putin-shenzhen-trilateral-talks.jpg",
     "alt": "Escena imaginada de Donald Trump, Xi Jinping y Vladímir Putin ante sus banderas",
@@ -68,6 +68,22 @@
     {
       "type": "paragraph",
       "text": "[el acuerdo de defensa entre Turquía y Catar](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/)"
+    },
+    {
+      "type": "heading",
+      "text": "En qué punto está la reunión al 15 de noviembre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Associated Press informó de que Trump planeaba viajar a Shenzhen tras su paso por Filipinas. La agencia señaló el comercio como prioridad de la visita a China antes del diálogo previsto con Xi y Putin sobre arsenales nucleares. La reunión sigue figurando en la agenda futura. Ofrece una oportunidad para conversar y deja abiertas tanto sus conclusiones como la posibilidad de compromisos escritos. [Fuente · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué forma parte de la agenda de APEC"
+    },
+    {
+      "type": "paragraph",
+      "text": "APEC se define como un foro económico. Su programa incluye cooperación en comercio e inversión. Tres dirigentes pueden reunirse al margen de ese programa sin que sus decisiones sobre armas nucleares pasen a ser decisiones del foro. [Fuente · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
     }
   ],
   "sources": [
@@ -86,6 +102,10 @@
     {
       "label": "Fuente: www.apec.org",
       "url": "https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters"
+    },
+    {
+      "label": "Fuente · apnews.com",
+      "url": "https://apnews.com/article/30ac0f6937301f36904808f278b79b1e"
     }
   ],
   "faq": [
@@ -97,5 +117,6 @@
       "question": "¿Se espera un acuerdo nuclear?",
       "answer": "Un funcionario estadounidense dijo a AP que no se esperaba el anuncio de un acuerdo."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

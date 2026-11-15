@@ -83,7 +83,7 @@ export const newsNov14Articles: Article[] = [
     "category": "World",
     "schemaType": "NewsArticle",
     "date": "2026-11-14",
-    "lastUpdated": "2026-11-14",
+    "lastUpdated": "2026-11-15",
     "author": "PRESDA Editorial",
     "status": "published",
     "heroPreserveAspect": true,
@@ -106,7 +106,11 @@ export const newsNov14Articles: Article[] = [
       "## How the meeting fits into APEC",
       "APEC lists its leaders’ meeting for November 18–19 and brings together 21 economies to discuss regional cooperation. The planned three-way conversation sits alongside that economic programme. Its diplomatic significance would come from direct contact among the three leaders at a time of tension. Any outcome would have to be assessed through the governments’ accounts after the meeting. [APEC Secretariat](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)",
       "## Related coverage",
-      "[Türkiye and Qatar’s defence agreement](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/)"
+      "[Türkiye and Qatar’s defence agreement](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/)",
+      "## Where the proposed talks stand on November 15",
+      "The Associated Press reported on November 15 that Trump planned to travel to Shenzhen after his stop in the Philippines. Its account described trade as a focus in China ahead of the planned discussion with Xi and Putin on nuclear stockpiles. The meeting remains ahead on the reported itinerary. Its scheduling gives the leaders an opportunity to talk, while the outcome and any written commitments remain open. [Source · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)",
+      "## What belongs to APEC’s agenda",
+      "APEC describes itself as an economic forum. Its agenda includes trade and investment cooperation. Talks between three visiting or host leaders can take place alongside that agenda without turning decisions on nuclear policy into APEC decisions. [Source · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
     ],
     "references": [
       {
@@ -124,6 +128,10 @@ export const newsNov14Articles: Article[] = [
       {
         "name": "APEC Secretariat",
         "url": "https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters"
+      },
+      {
+        "name": "Source · apnews.com",
+        "url": "https://apnews.com/article/30ac0f6937301f36904808f278b79b1e"
       }
     ],
     "relatedSlugs": [
@@ -151,7 +159,7 @@ export const newsNov14Articles: Article[] = [
     "category": "World",
     "schemaType": "NewsArticle",
     "date": "2026-11-14",
-    "lastUpdated": "2026-11-14",
+    "lastUpdated": "2026-11-15",
     "author": "PRESDA Editorial",
     "status": "published",
     "heroPreserveAspect": true,
@@ -174,7 +182,11 @@ export const newsNov14Articles: Article[] = [
       "## What it signals for the region",
       "The pact gives Ankara and Doha a public basis for closer security coordination. Its practical consequences will depend on how the two governments implement it. The communiqué also calls for de-escalation through diplomacy with Iran, placing the defence commitment alongside an effort to contain regional tensions. [Anadolu](https://www.aa.com.tr/en/politics/turkiye-qatar-reaffirm-defense-ties-call-for-diplomacy-on-iran/4124881)",
       "## Related coverage",
-      "[The planned Shenzhen leaders’ meeting](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/)"
+      "[The planned Shenzhen leaders’ meeting](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/)",
+      "## What the communiqué puts on the record",
+      "The November 13 communiqué identifies an external armed attack on either country or both as the contingency addressed by the agreement. It presents a unified stance as part of a commitment to sovereignty and territorial integrity. A joint communiqué summarizes the two governments’ positions. Readers would need the agreement’s full provisions to assess procedures, timing and what either government would have to do in a specific case. [Source · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)",
+      "## A relationship with several formal channels",
+      "This was the strategic committee’s twelfth session. The same statement discusses trade and investment under a separate economic partnership agreement, signed in 2018 and in force since August 2025. The two documents concern different commitments, but their place in the same session shows the breadth of the partnership. [Source · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
     ],
     "references": [
       {
@@ -215,7 +227,7 @@ export const newsNov14Articles: Article[] = [
     "category": "Science",
     "schemaType": "NewsArticle",
     "date": "2026-11-14",
-    "lastUpdated": "2026-11-14",
+    "lastUpdated": "2026-11-15",
     "author": "PRESDA Editorial",
     "status": "published",
     "heroPreserveAspect": true,
@@ -239,7 +251,11 @@ export const newsNov14Articles: Article[] = [
       "Forest conversion and fragmentation threaten habitat in the southern range. The authors call for an urgent assessment of the Mato Grosso red howler and suggest it could qualify as Critically Endangered. That is their assessment of the risk, pending a formal evaluation. They also identify infrastructure and future climate change as concerns in the region of the Pantepui red howler. [Communications Biology](https://www.nature.com/articles/s42003-026-11187-8_reference.pdf)",
       "A newly recognised species can have a much smaller range than the group in which it was previously included. That makes local forest loss more important to its survival and gives conservation teams a clearer unit to assess. [Mongabay](https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/)",
       "## Related coverage",
-      "[The aye-aye of Madagascar](/articles/aye-aye-madagascar-primate-tap-foraging/)"
+      "[The aye-aye of Madagascar](/articles/aye-aye-madagascar-primate-tap-foraging/)",
+      "## What a genome and a museum specimen reveal together",
+      "The researchers compared genomic data spanning 11 howler species across Central and South America and examined physical traits recorded in museum specimens. One line of evidence can distinguish populations in an evolutionary tree. The other lets taxonomists ask which features can be observed and compared in specimens. With sampled locations as well, the team could revisit where established names had concealed distinct lineages. [Source · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)",
+      "## Why the map matters to conservation",
+      "Salford’s researchers highlighted major rivers, including the Xingu and Rio Branco, as barriers that helped separate populations over evolutionary time. A range mapped for an older, more inclusive species designation may cover forest that the newly named population does not inhabit. Conservation assessments need to consider the smaller lineage’s own distribution and the pressures within it. For the southern Amazon lineage, the researchers highlighted loss and fragmentation of habitat. [Source · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [How scientists compare DNA across species](/articles/how-much-dna-humans-share-other-species/)."
     ],
     "references": [
       {
@@ -256,7 +272,8 @@ export const newsNov14Articles: Article[] = [
       }
     ],
     "relatedSlugs": [
-      "aye-aye-madagascar-primate-tap-foraging"
+      "aye-aye-madagascar-primate-tap-foraging",
+      "how-much-dna-humans-share-other-species"
     ],
     "faq": [
       {
@@ -268,6 +285,6 @@ export const newsNov14Articles: Article[] = [
         "answer": "The authors combined genome-wide data with diagnostic features of museum specimens."
       }
     ],
-    "readingTime": "2 min read"
+    "readingTime": "3 min read"
   }
 ];

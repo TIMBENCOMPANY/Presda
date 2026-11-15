@@ -25,7 +25,7 @@
   "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/amazon-howler-monkey-species-tropical-forest.jpg",
     "alt": "Ilustración de dos monos aulladores vocalizando desde una rama en un bosque tropical",
@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[el aye-aye de Madagascar](/articles/aye-aye-madagascar-primate-tap-foraging/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué revelan juntos los genomas y los especímenes"
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo comparó datos genómicos de 11 especies de monos aulladores de América Central y del Sur y estudió rasgos físicos en especímenes de museo. Los genomas ayudan a distinguir poblaciones en un árbol evolutivo. Los especímenes permiten comparar características observables. Junto con los lugares de muestreo, esos datos revelaron linajes distintos que hasta entonces compartían un nombre. [Fuente · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué el mapa importa para la conservación"
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo de Salford destacó el papel de grandes ríos como el Xingú y el Río Branco en la separación evolutiva de poblaciones. El área atribuida a una especie antes definida de manera más amplia puede incluir bosques que el nuevo linaje no habita. Una evaluación debe considerar su distribución real y las presiones dentro de ella. Para el linaje de la Amazonía meridional, los investigadores señalaron la pérdida y fragmentación del hábitat. [Fuente · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [Cómo comparan los científicos el ADN entre especies](/articles/how-much-dna-humans-share-other-species/)."
     }
   ],
   "sources": [
@@ -97,5 +113,6 @@
       "question": "¿En qué pruebas se basa la clasificación?",
       "answer": "En datos genómicos y rasgos diagnósticos de ejemplares de museo."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

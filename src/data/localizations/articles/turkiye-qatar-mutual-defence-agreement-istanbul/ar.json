@@ -25,7 +25,7 @@
   "category": "World",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/turkiye-qatar-mutual-defence-agreement-signing.jpg",
     "alt": "مشهد تخيلي للرئيس التركي وأمير قطر أثناء التوقيع أمام علمي البلدين",
@@ -68,6 +68,22 @@
     {
       "type": "paragraph",
       "text": "[لقاء القادة المرتقب في شنجن](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي يثبته البيان المشترك؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يحدد بيان 13 نوفمبر حالة وقوع هجوم مسلح خارجي يستهدف إحدى الدولتين أو كلتيهما. ويعرض الموقف الموحد في إطار الالتزام بالسيادة ووحدة الأراضي. فالبيان يلخص موقف الحكومتين، ويظل النص الكامل للاتفاق ضرورياً لمعرفة الإجراءات والمهل وما يتعين على كل طرف فعله في حالة محددة. [المصدر · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+    },
+    {
+      "type": "heading",
+      "text": "شراكة عبر قنوات رسمية متعددة"
+    },
+    {
+      "type": "paragraph",
+      "text": "كان هذا الاجتماع الثاني عشر للجنة الاستراتيجية. ويتناول البيان نفسه التجارة والاستثمار في إطار اتفاق منفصل للشراكة الاقتصادية، وُقّع عام 2018 ودخل حيز التنفيذ في أغسطس 2025. وتتعلق الوثيقتان بالتزامات مختلفة، ويكشف تناولهما في الجلسة نفسها اتساع مجالات التعاون بين البلدين. [المصدر · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
     }
   ],
   "sources": [
@@ -93,5 +109,6 @@
       "question": "ما الهدف المعلن للاتفاقية؟",
       "answer": "تعزيز الدفاع الجماعي وتوحيد الموقف إزاء الاعتداءات المسلحة الخارجية، وفق البيان."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

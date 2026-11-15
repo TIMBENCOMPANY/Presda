@@ -25,7 +25,7 @@
   "category": "World",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/trump-xi-putin-shenzhen-trilateral-talks.jpg",
     "alt": "مشهد تخيلي لدونالد ترامب وشي جين بينغ وفلاديمير بوتين أمام أعلام بلدانهم",
@@ -68,6 +68,22 @@
     {
       "type": "paragraph",
       "text": "[اتفاق الدفاع بين تركيا وقطر](/articles/turkiye-qatar-mutual-defence-agreement-istanbul/)"
+    },
+    {
+      "type": "heading",
+      "text": "أين تقف خطط الاجتماع في 15 نوفمبر؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "ذكرت أسوشيتد برس أن ترامب يعتزم التوجه إلى شنتشن بعد محطته في الفلبين. وأشارت إلى أولوية التجارة في زيارته للصين قبل المحادثات المقررة مع شي جين بينغ وفلاديمير بوتين بشأن الترسانات النووية. ولا يزال الاجتماع بنداً مقبلاً في البرنامج المعلن. وهو يتيح فرصة للحوار، فيما تبقى نتائجه وأي التزامات مكتوبة محتملة غير معروفة. [المصدر · apnews.com](https://apnews.com/article/30ac0f6937301f36904808f278b79b1e)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا يشمل جدول أعمال أبيك؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يعرّف منتدى التعاون الاقتصادي لآسيا والمحيط الهادئ نفسه بأنه منتدى اقتصادي. ويشمل برنامجه التعاون في التجارة والاستثمار. ويمكن لقادة ثلاث دول أن يتباحثوا على هامشه، بينما تظل القرارات المحتملة بشأن الأسلحة النووية منفصلة عن قرارات المنتدى الاقتصادي نفسه. [المصدر · apec.org](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)"
     }
   ],
   "sources": [
@@ -86,6 +102,10 @@
     {
       "label": "المصدر: www.apec.org",
       "url": "https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters"
+    },
+    {
+      "label": "المصدر · apnews.com",
+      "url": "https://apnews.com/article/30ac0f6937301f36904808f278b79b1e"
     }
   ],
   "faq": [
@@ -97,5 +117,6 @@
       "question": "هل يتوقع إعلان اتفاق نووي؟",
       "answer": "قال مسؤول أميركي لأسوشيتد برس إن إعلان اتفاق غير متوقع."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

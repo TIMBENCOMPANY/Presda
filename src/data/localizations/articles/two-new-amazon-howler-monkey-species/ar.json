@@ -25,7 +25,7 @@
   "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/amazon-howler-monkey-species-tropical-forest.jpg",
     "alt": "رسم لقردين عوّاءين يطلقان نداءهما من غصن في غابة استوائية",
@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[قرد الآي آي في مدغشقر](/articles/aye-aye-madagascar-primate-tap-foraging/)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا يكشف الجمع بين الجينوم وعينات المتاحف؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قارن الباحثون بيانات جينومية تشمل 11 نوعاً من القرود العوّاءة في أميركا الوسطى والجنوبية، وفحصوا خصائص جسدية لعينات محفوظة في المتاحف. وتساعد الجينومات في تمييز الجماعات على شجرة التطور، بينما تتيح العينات مقارنة الصفات المرئية. ومع معرفة مواقع أخذ العينات أمكن رصد سلالات مختلفة كانت تُجمع سابقاً تحت اسم واحد. [المصدر · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+    },
+    {
+      "type": "heading",
+      "text": "لماذا تهم الخريطة في الحفظ؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "أبرز فريق جامعة سالفورد دور أنهار كبيرة مثل شينغو وريو برانكو في فصل الجماعات على مدى زمني تطوري. وقد يشمل نطاق النوع المعرّف قديماً غابات لا تعيش فيها السلالة المسماة حديثاً. لذلك يلزم تقييم انتشار هذه السلالة والضغوط داخل نطاقها تحديداً. وبالنسبة إلى سلالة جنوب الأمازون، أشار الباحثون إلى فقدان الموائل وتجزئتها. [المصدر · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [كيف يقارن العلماء الحمض النووي بين الأنواع](/articles/how-much-dna-humans-share-other-species/)."
     }
   ],
   "sources": [
@@ -97,5 +113,6 @@
       "question": "ما أدلة التصنيف؟",
       "answer": "جمع المؤلفون بين بيانات الجينوم وسمات تشخيصية في عينات متحفية."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

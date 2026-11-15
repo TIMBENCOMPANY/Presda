@@ -25,7 +25,7 @@
   "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/amazon-howler-monkey-species-tropical-forest.jpg",
     "alt": "Illustration de deux singes hurleurs qui crient depuis une branche en forêt tropicale",
@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[l’aye-aye de Madagascar](/articles/aye-aye-madagascar-primate-tap-foraging/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que révèlent ensemble les génomes et les spécimens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les chercheurs ont comparé des données génomiques couvrant 11 espèces de hurleurs d’Amérique centrale et du Sud. Ils ont aussi étudié les caractères physiques de spécimens de musée. Le génome distingue des populations dans un arbre évolutif. Les spécimens permettent de comparer des caractères observables. Associées aux lieux de prélèvement, ces données ont révélé des lignées distinctes jusque-là regroupées sous un même nom. [Source · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi la carte compte pour la conservation"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’équipe de Salford souligne le rôle de grands cours d’eau comme le Xingu et le Rio Branco dans la séparation des populations à l’échelle évolutive. L’aire attribuée à une ancienne espèce définie plus largement peut inclure des forêts absentes de l’aire de la nouvelle lignée. Une évaluation doit examiner sa distribution propre et les pressions qu’elle subit. Pour la lignée du sud de l’Amazonie, les chercheurs signalent la perte et le morcellement de l’habitat. [Source · salford.ac.uk](https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey) [Comment les scientifiques comparent l’ADN des espèces](/articles/how-much-dna-humans-share-other-species/)."
     }
   ],
   "sources": [
@@ -97,5 +113,6 @@
       "question": "Sur quelles preuves repose la classification ?",
       "answer": "Sur des données génomiques et des caractères diagnostiques de spécimens de musée."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

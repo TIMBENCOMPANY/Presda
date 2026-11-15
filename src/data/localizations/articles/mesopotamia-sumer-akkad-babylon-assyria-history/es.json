@@ -84,6 +84,22 @@
     {
       "type": "paragraph",
       "text": "[Las ciudades sumerias](/articles/sumerians-first-cities-cuneiform-civilization/)."
+    },
+    {
+      "type": "heading",
+      "text": "Leer una tablilla para entender la economía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una tablilla del Metropolitan Museum of Art registra malta y granos de cebada triturados. Ilustra un uso de la escritura anterior a los relatos y las leyes por los que Mesopotamia es conocida. Alguien necesitaba llevar la cuenta de las mercancías y la arcilla sobrevivió al intercambio. El museo fecha las primeras tablillas económicas hacia 3300 a. C. y describe el uso de imágenes y números. En la primera mitad del tercer milenio a. C., la escritura ya podía reproducir el sumerio lo bastante bien como para registrar poesía. [Fuente · metmuseum.org](https://www.metmuseum.org/art/collection/search/327385)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué hacía de Uruk una ciudad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hacia 3200 a. C. Uruk destacaba en el sur de Mesopotamia por su tamaño y sus edificios monumentales de adobe. Algunos tenían mosaicos de conos de arcilla de colores. La arquitectura muestra lo que la población podía organizar y construir. Las cuentas y las impresiones de sellos revelan cómo las instituciones registraban mercancías e intercambios. [Fuente · metmuseum.org](https://www.metmuseum.org/art/collection/search/327385) [Fuente · metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city) [Lee sobre Bagdad al final de la época abasí](/articles/baghdad-1258-mongol-siege-fall-abbasids/)."
     }
   ],
   "sources": [
@@ -110,6 +126,10 @@
     {
       "label": "Fuente: www.si.edu",
       "url": "https://www.si.edu/object/nmah_690811"
+    },
+    {
+      "label": "Fuente · metmuseum.org",
+      "url": "https://www.metmuseum.org/art/collection/search/327385"
     }
   ],
   "faq": [
@@ -121,5 +141,6 @@
       "question": "¿Mesopotamia fue un solo imperio?",
       "answer": "Fue una región con muchas sociedades y Estados, entre ellos los imperios acadio, asirio y babilonio en épocas distintas."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

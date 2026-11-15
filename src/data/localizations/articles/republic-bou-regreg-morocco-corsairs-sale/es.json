@@ -76,6 +76,22 @@
     {
       "type": "paragraph",
       "text": "[Viajes de Ibn Battuta](/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/)."
+    },
+    {
+      "type": "heading",
+      "text": "Una carta de Salé a Carlos I"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Archivos Nacionales británicos conservan con la referencia SP 102/2 un documento del 17 de mayo de 1627. Su presunto autor, un morisco andalusí, ofrece sus servicios a Carlos I de Inglaterra y menciona la paz acordada con los andalusíes de la fortaleza. El agente inglés John Harrison remitió el documento mientras intentaba ampliar la influencia de su país. La transcripción y la traducción permiten distinguir el mensaje dirigido al rey del interés de Harrison en transmitirlo. [Fuente · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
+    },
+    {
+      "type": "heading",
+      "text": "El puerto unía navegación y diplomacia"
+    },
+    {
+      "type": "paragraph",
+      "text": "El archivo también describe un encuentro de 1631 frente al sur de Portugal entre un capitán inglés y un barco de Rabat con moriscos y renegados europeos a bordo. El testimonio permite seguir esas redes mixtas. Documenta la tripulación de un barco concreto y sería arriesgado extrapolarla a toda la flota. [Fuente · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
     }
   ],
   "sources": [
@@ -98,6 +114,10 @@
     {
       "label": "Fuente: whc.unesco.org",
       "url": "https://whc.unesco.org/en/list/1401/"
+    },
+    {
+      "label": "Fuente · nationalarchives.gov.uk",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/"
     }
   ],
   "faq": [
@@ -109,5 +129,6 @@
       "question": "¿Terminó el corso con la autonomía?",
       "answer": "Continuó bajo los sultanes alauíes hasta entrado el siglo XVIII."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

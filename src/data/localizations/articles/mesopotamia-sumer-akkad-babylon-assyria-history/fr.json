@@ -84,6 +84,22 @@
     {
       "type": "paragraph",
       "text": "[Les cités sumériennes](/articles/sumerians-first-cities-cuneiform-civilization/)."
+    },
+    {
+      "type": "heading",
+      "text": "Lire une tablette avant de lire l’histoire des empires"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une tablette conservée au Metropolitan Museum of Art enregistre du malt et des grains d’orge concassés. Elle montre un usage de l’écriture antérieur aux récits et aux lois qui ont fait la célébrité de la Mésopotamie. Il fallait suivre des marchandises et l’argile a survécu à la transaction. Le musée fait remonter les premières tablettes économiques à environ 3300 avant notre ère. Elles emploient des images et des nombres. Dans la première moitié du IIIe millénaire, l’écriture pouvait transcrire le sumérien avec assez de précision pour consigner des poèmes. [Source · metmuseum.org](https://www.metmuseum.org/art/collection/search/327385)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qui faisait d’Uruk une ville"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vers 3200 avant notre ère, Uruk se distinguait dans le sud mésopotamien par sa taille et ses monuments de briques crues. Certains étaient ornés de mosaïques en cônes d’argile colorée. Les bâtiments témoignent de la capacité à organiser un chantier collectif. Les comptes et les empreintes de sceaux montrent comment les institutions suivaient les marchandises et les échanges. [Source · metmuseum.org](https://www.metmuseum.org/art/collection/search/327385) [Source · metmuseum.org](https://www.metmuseum.org/es/essays/uruk-the-first-city) [Lire sur Bagdad à la fin de l’époque abbasside](/articles/baghdad-1258-mongol-siege-fall-abbasids/)."
     }
   ],
   "sources": [
@@ -110,6 +126,10 @@
     {
       "label": "Source: www.si.edu",
       "url": "https://www.si.edu/object/nmah_690811"
+    },
+    {
+      "label": "Source · metmuseum.org",
+      "url": "https://www.metmuseum.org/art/collection/search/327385"
     }
   ],
   "faq": [
@@ -121,5 +141,6 @@
       "question": "La Mésopotamie était-elle un seul empire ?",
       "answer": "C’était une région où se sont succédé de nombreux États, dont les empires d’Akkad, d’Assyrie et de Babylone."
     }
-  ]
+  ],
+  "readingTimeMinutes": 4
 }

@@ -25,7 +25,7 @@
   "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/richard-dawkins-42-tales-modern-bestiary-illustration.jpg",
     "alt": "Ilustración de Richard Dawkins junto a una cubierta imaginada y dibujos marinos",
@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[El pulpo de cristal](/articles/glass-octopus-vitreledonella-richardi/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué preguntas plantea Dawkins sobre los animales"
+    },
+    {
+      "type": "paragraph",
+      "text": "La descripción de Yale da una idea del alcance del libro: la forma del cuerno del rinoceronte, los colores de los colibríes, el movimiento de los peces y las semejanzas entre caballos y lagartos. Ante un rasgo, el lector puede preguntarse qué explican el parentesco, su función actual y la combinación de ambas líneas de evidencia. [Fuente · yalebooks.yale.edu](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)"
+    },
+    {
+      "type": "heading",
+      "text": "Las láminas de Haeckel en su contexto"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Biodiversity Heritage Library ha digitalizado la edición de 1904 de Kunstformen der Natur. Sus láminas muestran la tradición visual de la que puede nutrirse un bestiario moderno. Cada ilustración registra la forma de un organismo y las decisiones del artista al ordenarla y representarla. [Fuente · biodiversitylibrary.org](https://www.biodiversitylibrary.org/item/164275?t=87040) [Cómo revela el ADN el parentesco evolutivo](/articles/how-much-dna-humans-share-other-species/)."
     }
   ],
   "sources": [
@@ -86,6 +102,10 @@
     {
       "label": "Fuente: www.oup.com.au",
       "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607"
+    },
+    {
+      "label": "Fuente · biodiversitylibrary.org",
+      "url": "https://www.biodiversitylibrary.org/item/164275?t=87040"
     }
   ],
   "faq": [
@@ -97,5 +117,6 @@
       "question": "¿Salieron ambas ediciones en noviembre?",
       "answer": "Apollo indica el 5 de noviembre en el Reino Unido y Yale el 20 de octubre en Estados Unidos."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

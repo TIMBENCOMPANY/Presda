@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[Lectura relacionada](/articles/anti-aging-can-we-slow-down-human-aging/)."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué importa la dieta de comparación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reducir las proteínas en una dieta de laboratorio plantea otra pregunta: ¿con qué se sustituyen? Pueden cambiar a la vez la energía total y las proporciones de carbohidratos y grasas. Los investigadores distinguen reducir toda la proteína de restringir un aminoácido concreto. Son intervenciones que pueden poner a prueba mecanismos distintos, por lo que la revisión las examina por separado. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
+    },
+    {
+      "type": "heading",
+      "text": "Del mecanismo biológico al resultado humano"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una intervención puede modificar una hormona o un indicador metabólico durante el estudio. Eso muestra cómo responde el organismo en esas condiciones. Demostrar un beneficio para el envejecimiento humano exigiría medir un cambio duradero en la salud o la supervivencia, con seguimiento suficiente y una comparación que permita aislar el efecto. Los resultados en animales y las respuestas medidas en personas representan niveles distintos de evidencia. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13501984/)"
     }
   ],
   "sources": [
@@ -97,5 +113,6 @@
       "question": "¿Se demostró una vida más larga en humanos?",
       "answer": "Los estudios midieron principalmente cambios metabólicos de corto plazo. El beneficio en longevidad sigue sin demostrarse."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

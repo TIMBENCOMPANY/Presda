@@ -76,6 +76,22 @@
     {
       "type": "paragraph",
       "text": "[Voyages d’Ibn Battûta](/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/)."
+    },
+    {
+      "type": "heading",
+      "text": "Une lettre de Salé à Charles Ier"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Archives nationales britanniques conservent sous la cote SP 102/2 un document daté du 17 mai 1627. Son auteur présumé, un morisque andalou, offre ses services à Charles Ier d’Angleterre et évoque la paix avec les Andalous de la forteresse. L’agent anglais John Harrison a transmis le document alors qu’il cherchait à étendre l’influence de son pays. La transcription et la traduction permettent de distinguer le message destiné au roi des raisons qui ont poussé Harrison à le relayer. [Source · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
+    },
+    {
+      "type": "heading",
+      "text": "Navigation et diplomatie se croisaient au port"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les archives relatent aussi la rencontre, en 1631 au large du sud du Portugal, entre un capitaine anglais et un navire de Rabat dont l’équipage comprenait des morisques et des renégats européens. Le récit éclaire ces réseaux mixtes et nous renseigne sur un équipage précis. Il serait imprudent d’en déduire la composition de toute la flotte. [Source · nationalarchives.gov.uk](https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/)"
     }
   ],
   "sources": [
@@ -98,6 +114,10 @@
     {
       "label": "Source: whc.unesco.org",
       "url": "https://whc.unesco.org/en/list/1401/"
+    },
+    {
+      "label": "Source · nationalarchives.gov.uk",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-corsair-state-of-rabat-sal%25C3%25A9/"
     }
   ],
   "faq": [
@@ -109,5 +129,6 @@
       "question": "La course a-t-elle cessé avec l’autonomie ?",
       "answer": "Elle s’est poursuivie sous les sultans alaouites jusque dans le XVIIIe siècle."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

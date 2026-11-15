@@ -25,7 +25,7 @@
   "category": "World",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/turkiye-qatar-mutual-defence-agreement-signing.jpg",
     "alt": "Escena imaginada del presidente turco y el emir catarí firmando ante sus banderas",
@@ -68,6 +68,22 @@
     {
       "type": "paragraph",
       "text": "[la reunión prevista en Shenzhen](/articles/trump-xi-putin-shenzhen-trilateral-summit-plans/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué establece el comunicado"
+    },
+    {
+      "type": "paragraph",
+      "text": "El comunicado del 13 de noviembre se refiere a un ataque armado externo contra uno de los dos países o contra ambos. Sitúa la posición común dentro del compromiso con la soberanía y la integridad territorial. El comunicado resume la postura de los gobiernos. Para determinar procedimientos, plazos y obligaciones en un caso concreto haría falta consultar el acuerdo completo. [Fuente · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
+    },
+    {
+      "type": "heading",
+      "text": "Una relación con varios cauces formales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Era la duodécima sesión del comité estratégico. El mismo texto trata el comercio y la inversión en el marco de un acuerdo económico separado, firmado en 2018 y en vigor desde agosto de 2025. Los dos instrumentos cubren compromisos diferentes y su presencia en una misma reunión ilustra el alcance de la cooperación. [Fuente · mfa.gov.tr](https://www.mfa.gov.tr/turkiye-cumhuriyeti-ile-katar-devleti-arasinda-yuksek-stratejik-komite-on-ikinci-toplantisi-ortak-bildirisi--13-kasim-2026.en.mfa)"
     }
   ],
   "sources": [
@@ -93,5 +109,6 @@
       "question": "¿Cuál es el objetivo declarado?",
       "answer": "Reforzar la defensa colectiva y mantener una postura común ante ataques armados externos, según el comunicado."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[اقرأ أيضاً](/articles/meta-italy-805-million-facebook-android-photo-fine/)."
+    },
+    {
+      "type": "heading",
+      "text": "كم يضيف الاشتراك إلى سعر الشراء؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "بالسعر المعلن البالغ 299 دولاراً شهرياً، تضيف اثنا عشر دفعة 3588 دولاراً قبل الضرائب. ومع السعر الأساسي يصبح مجموع الشراء والدفعات الاثنتي عشرة 33578 دولاراً قبل أي رسوم أخرى، إذا بقي السعر ثابتاً. والحساب يوضح حجم الالتزام المتكرر، فيما ينبغي مراجعة شروط دعوة الشراء الخاصة بكل عميل. [المصدر · investing.com](https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212) [المصدر · tesla.com](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&locale=en_US&model=cc&saleType=Sale)"
+    },
+    {
+      "type": "heading",
+      "text": "الشراء يختلف عن دفع أجرة الرحلة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تصف رويترز الطلبات الأولى بأنها دعوات للشراء للاستخدام الشخصي. وتتيح خدمة الرحلات للركاب حجز مشوار داخل المناطق التي تغطيها. أما عرض الشراء فيجعل المركبة ملكاً للعميل ويضيف دفعات دورية مقابل تشغيل القيادة الذاتية. ولا يحدد انتشار خدمة الرحلات وحدود تغطيتها أين تستطيع السيارات المملوكة للأفراد العمل. [المصدر · investing.com](https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212)"
     }
   ],
   "sources": [
@@ -101,5 +117,6 @@
       "question": "متى يُتوقع التسليم؟",
       "answer": "قدّرت تسلا أن يبدأ التسليم للمدعوين في ديسمبر 2026."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

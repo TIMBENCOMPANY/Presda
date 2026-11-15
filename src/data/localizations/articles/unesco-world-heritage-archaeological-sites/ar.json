@@ -128,6 +128,22 @@
     {
       "type": "paragraph",
       "text": "[مشيخات ديكيس](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    },
+    {
+      "type": "heading",
+      "text": "ماذا يشمل إدراج موقع في قائمة التراث العالمي؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تدرج اليونسكو الممتلكات ذات القيمة العالمية الاستثنائية وفق معايير منشورة. وتشمل الاعتبارات الأصالة والسلامة حيثما تنطبقان، إلى جانب الحماية والإدارة. وقد يكون المعلم الشهير جزءاً من نطاق أوسع. فالكولوسيوم مثلاً يدخل ضمن موقع مركز روما التاريخي والممتلكات المرتبطة به. وتصف صفحة اليونسكو الموقع بكامله، وهو فرق مهم عند مقارنة المواقع أو ذكر تاريخ إدراج أحدها. [المصدر · whc.unesco.org](https://whc.unesco.org/en/glossary/222) [المصدر · whc.unesco.org](https://whc.unesco.org/en/list/91/)"
+    },
+    {
+      "type": "heading",
+      "text": "لماذا تظهر بعض المواقع في مواضع متعددة على الخريطة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يجمع إدراج واحد أماكن متباعدة. وتُظهر خريطة ديكيس الرسمية في كوستاريكا أربعة مواقع لكل منها حدوده ومنطقته العازلة. وتوضح مقارنتها بموقع روما أن الحدود تتبع طبيعة التراث المعترف به، سواء أكان مشهداً حضرياً أم مجموعة من المواقع الأثرية. [المصدر · whc.unesco.org](https://whc.unesco.org/en/list/1453/maps/) [المصدر · whc.unesco.org](https://whc.unesco.org/en/list/91/) [اقرأ عن مستوطنات ديكيس الأربع](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
     }
   ],
   "sources": [
@@ -170,6 +186,14 @@
     {
       "label": "المصدر: whc.unesco.org",
       "url": "https://whc.unesco.org/en/list/715/"
+    },
+    {
+      "label": "المصدر · whc.unesco.org",
+      "url": "https://whc.unesco.org/en/glossary/222"
+    },
+    {
+      "label": "المصدر · whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1453/maps/"
     }
   ],
   "faq": [
@@ -181,5 +205,6 @@
       "question": "هل الكولوسيوم موقع منفصل في القائمة؟",
       "answer": "إنه جزء من موقع المركز التاريخي لروما."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }

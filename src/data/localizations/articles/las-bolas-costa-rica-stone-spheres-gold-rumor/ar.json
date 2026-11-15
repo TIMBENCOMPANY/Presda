@@ -72,6 +72,22 @@
     {
       "type": "paragraph",
       "text": "[مشيخات ديكيس](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
+    },
+    {
+      "type": "heading",
+      "text": "سجلات المزارع وآثار الاستيطان القديم"
+    },
+    {
+      "type": "paragraph",
+      "text": "كشفت أعمال تهيئة مزارع الموز عن الكرات في أواخر ثلاثينيات القرن العشرين. ووثقت دوريس ستون ثم صمويل لوثروب منشآت في عدة قطع زراعية. وتذكر دراسة المتحف الوطني بقايا ظاهرة أو مدفونة في فينكا 1 و2 و4 و5 و6 و7. وتساعد هذه السجلات في التمييز بين العثور الحديث على الكرات وتاريخ المستوطنات القديمة. [المصدر · diquis.go.cr](https://diquis.go.cr/en/linea-de-tiempo.html) [المصدر · museocostarica.go.cr](https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "لماذا يوازي موضع العثور أهمية الكرة نفسها؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يمكن قياس الكرة المنفردة ودراسة صخرها، لكن محيطها يجيب عن أسئلة أخرى. فالموضع السليم بجوار منصة أو ضمن صف يتيح مقارنة العمارة والاتجاه ومسارات الحركة داخل المستوطنة. وبعد نقل الكرة يحتاج الباحث إلى خريطة أو صورة أو سجل ميداني لاستعادة هذه العلاقات. ولا يعوض التخمين بشأن ما قد يكون داخل الحجر فقدان تلك الأدلة. [المصدر · museocostarica.go.cr](https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf) [تعرّف على المستوطنات التي صنعت الكرات الحجرية](/articles/diquis-culture-costa-rica-chiefdoms-stone-spheres/)."
     }
   ],
   "sources": [
@@ -90,6 +106,10 @@
     {
       "label": "المصدر: whc.unesco.org",
       "url": "https://whc.unesco.org/en/list/1453/"
+    },
+    {
+      "label": "المصدر · museocostarica.go.cr",
+      "url": "https://www.museocostarica.go.cr/wp-content/uploads/Investigaciones/Arqueolog%C3%ADa/Diquis/Articulos-descarga/asentamientos-precolombinos-con-esferas-2015.pdf"
     }
   ],
   "faq": [
@@ -101,5 +121,6 @@
       "question": "متى أُدرجت المواقع على قائمة التراث العالمي؟",
       "answer": "أدرجت اليونسكو المجموعة المؤلفة من أربعة مواقع عام 2014."
     }
-  ]
+  ],
+  "readingTimeMinutes": 2
 }

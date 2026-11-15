@@ -25,7 +25,7 @@
   "category": "Sport",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "image": {
     "src": "/articles/yassine-bounou-morocco-tribute-illustration.jpg",
     "alt": "رسم تخيلي لياسين بونو وطفل يحملان قميص المغرب بالرقم 100",
@@ -84,6 +84,22 @@
     {
       "type": "paragraph",
       "text": "تكوّن بونو في الوداد البيضاوي ثم انضم إلى رديف أتلتيكو مدريد وأُعير إلى ريال سرقسطة. ولعب بعدها لجيرونا ثم إشبيلية، حيث أحرز لقبين في الدوري الأوروبي وجائزة زامورا لموسم 2021–2022. وانضم إلى الهلال عام 2023. اقرأ [مسيرته مع الأندية](/articles/yassine-bounou-africas-safest-hands/). [المصدر](https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/yassine-bounou-interview?searchOverlay=1)"
+    },
+    {
+      "type": "heading",
+      "text": "تصديات لركلات جزاء في سياقين مختلفين"
+    },
+    {
+      "type": "paragraph",
+      "text": "ذكر موقع أفريكان فوتبول أن بونو تصدى لركلة يوسف عمر في الدقيقة 45 في الدار البيضاء، عندما كان المغرب متقدماً 2–1 على النيجر. وحافظ التصدي على التقدم قبل الاستراحة في مباراة انتهت 5–1. وكانت الركلة في وقت اللعب، بخلاف ركلات الترجيح التي اشتهر بها. [المصدر · african.football](https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/)"
+    },
+    {
+      "type": "heading",
+      "text": "ليلة الفوز على إسبانيا مجدداً"
+    },
+    {
+      "type": "paragraph",
+      "text": "في تقرير ثمن نهائي مونديال 2022، سجلت فيفا تصدي بونو لركلتي كارلوس سولير وسيرخيو بوسكيتس بعدما اصطدمت كرة بابلو سارابيا بالقائم. وحسم أشرف حكيمي التأهل بعد مباراة انتهت بلا أهداف. وتحصي فيفا لبونو أيضاً أربع مباريات بشباك نظيفة في البطولة، ما يوضح أن أثره تجاوز ركلات الترجيح. [المصدر · fifa.com](https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez) [المصدر · fifa.com](https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022)"
     }
   ],
   "sources": [
@@ -102,6 +118,18 @@
     {
       "label": "المصدر · FIFA career profile",
       "url": "https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/yassine-bounou-interview?searchOverlay=1"
+    },
+    {
+      "label": "المصدر · african.football",
+      "url": "https://african.football/morocco-goalkeeper-yassine-bounou-marks-100th-cap-in-5-1-win-over-niger/"
+    },
+    {
+      "label": "المصدر · fifa.com",
+      "url": "https://www.fifa.com/en/articles/the-best-fifa-mens-goalkeeper-shortlist-nominees-alisson-bounou-courtois-ederson-martinez"
+    },
+    {
+      "label": "المصدر · fifa.com",
+      "url": "https://www.fifa.com/es/articles/marruecos-dio-el-golpe-y-elimino-a-espana-por-penales-copa-mundial-qatar-2022"
     }
   ],
   "faq": [
@@ -113,5 +141,6 @@
       "question": "هل لعب بونو الشوط الأول فقط؟",
       "answer": "تسجله ورقة المباراة أساسياً ولا تذكر تغييراً في حراسة مرمى المغرب."
     }
-  ]
+  ],
+  "readingTimeMinutes": 3
 }
