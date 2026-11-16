@@ -1,0 +1,141 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/alibaba-qwen4-max-ai-model-launch/",
+  "path": "/fr/articles/alibaba-qwen4-max-ai-model-launch/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-16",
+    "terminologyChecked": true
+  },
+  "title": "ALIBABA LANCE QWEN4-MAX POUR DÉFIER LES MEILLEURS MODÈLES D’IA AU MONDE",
+  "seoTitle": "Qwen4-Max d’Alibaba : caractéristiques, accès et tests",
+  "description": "Alibaba lance Qwen4-Max avec analyse d’images et un million de jetons de contexte. Décryptage des tests, du prix et de l’accès.",
+  "excerpt": "Alibaba lance Qwen4-Max avec analyse d’images et un million de jetons de contexte. Décryptage des tests, du prix et de l’accès.",
+  "headlineHighlights": {
+    "red": "ALIBABA",
+    "gold": "QWEN4-MAX"
+  },
+  "keywords": [
+    "ALIBABA",
+    "QWEN4-MAX"
+  ],
+  "searchIntent": "Alibaba lance Qwen4-Max avec analyse d’images et un million de jetons de contexte. Décryptage des tests, du prix et de l’accès.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "image": {
+    "src": "/articles/alibaba-qwen4-max-ai-model-illustration.jpg",
+    "alt": "Vague illustrée de Qwen au-dessus de serveurs aux côtés de logos concurrents",
+    "width": 1280,
+    "height": 543
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Alibaba a lancé Qwen4-Max le 16 novembre 2026 après un accès limité en début de mois. Son modèle phare analyse des images et peut traiter un contexte pouvant atteindre un million de jetons. Le groupe vise des projets plus longs qu’une simple question, comme l’analyse de graphiques ou le travail sur un dépôt de code. Les équipes disposent ainsi d’un nouveau service à comparer aux modèles les plus avancés. [Source · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Source · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+    },
+    {
+      "type": "heading",
+      "text": "Que change l’architecture du modèle ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alibaba annonce 2 400 milliards de paramètres au total et 71 milliards actifs par jeton. Ces valeurs apprises orientent les réponses du système. Dans un mélange d’experts parcimonieux, un mécanisme de routage sélectionne les parties du réseau utilisées pour chaque jeton. Le premier chiffre décrit le modèle dans son ensemble, le second la part mobilisée pour une unité de texte. Le temps d’attente dépend aussi du volume d’entrée, de l’effort de raisonnement et de la charge du service. [Source · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV16_NEWS_478]]",
+      "caption": "Caractéristiques annoncées par Alibaba",
+      "headings": [
+        "Indicateur",
+        "Valeur annoncée"
+      ],
+      "rows": [
+        [
+          "Paramètres au total",
+          "2 400 milliards"
+        ],
+        [
+          "Paramètres actifs par jeton",
+          "71 milliards"
+        ],
+        [
+          "Fenêtre de contexte",
+          "1 million de jetons"
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "À quoi sert un million de jetons ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le jeton est une unité d’entrée dont la taille varie selon la langue et le format. Une fenêtre étendue peut éviter de découper en plusieurs requêtes un ensemble de contrats ou de documents techniques. Encore faut-il retrouver la bonne clause et l’interpréter. Pour évaluer le rappel, on peut placer une information connue au milieu d’un dossier long et vérifier que le modèle la restitue avec le passage exact qui l’étaye."
+    },
+    {
+      "type": "heading",
+      "text": "Comment lire les résultats annoncés ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alibaba indique que Qwen4-Max figurait au sixième rang de Code Arena lors du lancement. Cette place correspond à un protocole et à un instant donnés, avec des résultats qui peuvent diverger sur un autre dépôt ou dans une autre langue. Dans son propre test Work360, Alibaba dit avoir réduit de 35 % le nombre de jetons et d’environ 60 % le coût par tâche face à Qwen3.8-Max dans le réglage de raisonnement poussé. Ces chiffres décrivent ce test précis. [Source · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+    },
+    {
+      "type": "subheading",
+      "text": "Évaluer un agent sur le résultat"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un agent de programmation peut faire plusieurs appels avant de rendre une modification. Pour comparer deux services, les équipes peuvent soumettre les mêmes tickets avec les mêmes outils, puis examiner la réussite aux tests et le nombre de tentatives. Une démarche comparable vaut pour les graphiques, où une réponse plausible perd sa valeur si elle confond deux séries ou change l’unité."
+    },
+    {
+      "type": "heading",
+      "text": "Où trouver le modèle et combien coûte-t-il ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’API et le forfait de jetons sont proposés sur QwenCloud. Alibaba cite aussi QwenWork et QwenStudio. Le tarif mis en avant, 0,075 dollar américain par million de jetons, concerne les entrées réutilisées par le cache implicite. Les nouvelles entrées et les réponses générées peuvent relever d’autres tarifs. Pour établir un budget, il faut regarder la grille complète et le coût par tâche réussie. [Source · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Source · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les poids du modèle Max ne sont pas publics. Alibaba prévoit aussi de plus petits modèles Qwen4 dont les poids devraient être téléchargeables. Le choix intéresse les entreprises qui doivent héberger leurs outils elles-mêmes. Voir aussi [les investissements de Samsung dans les centres de données pour l’IA](/articles/samsung-ai-data-center-expansion/). [Source · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Source · thenextweb.com](https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights)"
+    },
+    {
+      "type": "subheading",
+      "text": "Que vérifier avant de changer un flux de travail ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il est utile de noter la version du modèle et le réglage de raisonnement pour que les essais restent comparables. On peut mesurer le délai, les échecs et la qualité sur plusieurs tentatives avec le même ensemble de documents. Pour évaluer l’économie liée au cache, il faut vérifier la fréquence des passages d’entrée réellement réutilisés. Une réponse incomplète peut enfin avoir un coût humain : un rapport volumineux produit rapidement aide moins qu’une réponse qui permet de retrouver les sources à examiner."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · www.alibabacloud.com",
+      "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1"
+    },
+    {
+      "label": "Source · technode.com",
+      "url": "https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/"
+    },
+    {
+      "label": "Source · thenextweb.com",
+      "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qwen4-Max est-il à poids ouverts ?",
+      "answer": "Le modèle phare est hébergé et ses poids sont fermés. Alibaba prévoit des modèles plus petits à poids ouverts."
+    },
+    {
+      "question": "Que signifie un million de jetons ?",
+      "answer": "Il s’agit de la taille maximale du contexte annoncée. Les jetons ne correspondent pas directement à des mots."
+    }
+  ],
+  "readingTimeMinutes": 3
+}

@@ -2,6 +2,20 @@ import { LicensedEditorialImage } from "@/components/LicensedEditorialImage";
 import type { Locale } from "@/lib/i18n/routing";
 
 const photos = {
+  "christmas-island-red-crab": {
+    src: "christmas-island-red-crab-rebecca-dominguez-2006.jpg",
+    height: 825,
+    file: "Christmas_Island_red_crab.jpg",
+    credit: "Rebecca Dominguez",
+    copy: {
+      en: "A Christmas Island red crab (Gecarcoidea natalis), photographed on the island in January 2006.",
+      fr: "Un crabe rouge de l’île Christmas (Gecarcoidea natalis), photographié sur l’île en janvier 2006.",
+      ar: "سرطان أحمر من نوع Gecarcoidea natalis صُوّر في جزيرة كريسماس في يناير 2006.",
+      es: "Un cangrejo rojo (Gecarcoidea natalis) fotografiado en la isla de Navidad en enero de 2006."
+    }
+  },
+
+
   "great-zimbabwe": {
     src: "great-zimbabwe-wall-aart-rietveld-1975.webp",
     height: 837,
@@ -32,12 +46,14 @@ const resizeCredit = { en: "Resized", fr: "Redimensionnée", ar: "أُعيد ت�
 
 export function HeritageEvidencePhoto({ id, locale }: { id: keyof typeof photos; locale: Locale }) {
   const photo = photos[id];
+  const originalCrabPhoto = id === "christmas-island-red-crab";
+  const licenseVersion = originalCrabPhoto ? "3.0" : "4.0";
   return (
     <figure data-heritage-evidence={id} className="my-8 overflow-hidden rounded-xl border border-white/15 bg-[#10131A] text-white">
-      <LicensedEditorialImage src={`/articles/${photo.src}`} alt={photo.copy[locale]} width={1280} height={photo.height} />
+      <LicensedEditorialImage src={`/articles/${photo.src}`} alt={photo.copy[locale]} width={originalCrabPhoto ? 924 : 1280} height={photo.height} />
       <figcaption className="p-5 text-sm leading-6">
         <p>{photo.copy[locale]}</p>
-        <p><a className="underline" href={`https://commons.wikimedia.org/wiki/File:${photo.file}`}>{photo.credit}</a> · <a className="underline" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · {resizeCredit[locale]}</p>
+        <p><a className="underline" href={`https://commons.wikimedia.org/wiki/File:${photo.file}`}>{photo.credit}</a> · <a className="underline" href={`https://creativecommons.org/licenses/by-sa/${licenseVersion}/`} rel="license">CC BY-SA {licenseVersion}</a>{!originalCrabPhoto && ` · ${resizeCredit[locale]}`}</p>
       </figcaption>
     </figure>
   );

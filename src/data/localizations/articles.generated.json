@@ -12935,6 +12935,429 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/alibaba-qwen4-max-ai-model-launch/",
+    "path": "/ar/articles/alibaba-qwen4-max-ai-model-launch/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "علي بابا تطلق Qwen4-Max لمنافسة أقوى نماذج الذكاء الاصطناعي في العالم",
+    "seoTitle": "إطلاق Qwen4-Max من علي بابا ومواصفاته وأسعاره",
+    "description": "أطلقت علي بابا نموذج Qwen4-Max القادر على تحليل الصور بنافذة سياق تبلغ مليون رمز. إليك معنى الأرقام وطريقة الوصول.",
+    "excerpt": "أطلقت علي بابا نموذج Qwen4-Max القادر على تحليل الصور بنافذة سياق تبلغ مليون رمز. إليك معنى الأرقام وطريقة الوصول.",
+    "headlineHighlights": {
+      "red": "علي بابا",
+      "gold": "Qwen4-Max"
+    },
+    "keywords": [
+      "علي بابا",
+      "Qwen4-Max"
+    ],
+    "searchIntent": "أطلقت علي بابا نموذج Qwen4-Max القادر على تحليل الصور بنافذة سياق تبلغ مليون رمز. إليك معنى الأرقام وطريقة الوصول.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/alibaba-qwen4-max-ai-model-illustration.jpg",
+      "alt": "رسم لموجة تحمل شعار كوين فوق خوادم وبجوار شعارات منافسين",
+      "width": 1280,
+      "height": 543
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "أطلقت علي بابا نموذج Qwen4-Max في 16 نوفمبر 2026 بعد إتاحته لفترة محدودة في وقت سابق من الشهر. ويجمع النموذج بين تحليل الصور ونافذة سياق تبلغ مليون رمز. وتطرحه الشركة لمهام تستغرق أكثر من إجابة سريعة، مثل قراءة رسوم بيانية أو العمل على مشروع برمجي. ويضيف الإطلاق خدمة جديدة يمكن مقارنتها بالنماذج الرائدة. [المصدر · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [المصدر · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي تغير في بنية النموذج؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقول الشركة إن للنموذج 2.4 تريليون معامل إجمالاً، ويُفعّل 71 ملياراً منها لكل رمز. والمعاملات قيم عددية يتعلمها النظام وتؤثر في إجاباته. وتوجه بنية مزيج الخبراء كل رمز إلى أجزاء مختارة من الشبكة. يشير الرقم الأكبر إلى الحجم الإجمالي، فيما يصف الأصغر مقدار ما يُستخدم في معالجة رمز واحد. وتقاس سرعة الاستجابة أيضاً بطول المدخلات والجهد الحسابي وحجم الطلب على الخدمة. [المصدر · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_478]]",
+        "caption": "المواصفات التي أعلنتها علي بابا",
+        "headings": [
+          "المؤشر",
+          "القيمة المعلنة"
+        ],
+        "rows": [
+          [
+            "إجمالي المعاملات",
+            "2.4 تريليون"
+          ],
+          [
+            "المعاملات النشطة لكل رمز",
+            "71 ملياراً"
+          ],
+          [
+            "نافذة السياق",
+            "مليون رمز"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "ماذا تعني نافذة المليون رمز؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "الرمز وحدة لمعالجة المدخلات ويختلف عدده باختلاف اللغة والصيغة. وقد تسهّل النافذة الواسعة قراءة مجموعة عقود في طلب واحد. لكن استيعاب المستندات لا يضمن العثور على البند الصحيح أو فهم الجدول. ومن طرق الاختبار وضع معلومة معروفة في وسط مستند طويل ثم التحقق من إشارة النموذج إلى الفقرة التي تدعم إجابته."
+      },
+      {
+        "type": "heading",
+        "text": "كيف نقرأ نتائج الاختبارات؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "أفادت علي بابا بأن النموذج حل سادساً في Code Arena عند الإطلاق. وتقيس تلك المرتبة أداءه وفق قواعد محددة وفي وقت معين. وقد تختلف النتائج عند فحص مشروع آخر أو لغة أخرى. كما ذكرت الشركة أن الاستهلاك انخفض 35٪ وأن متوسط تكلفة المهمة تراجع بنحو 60٪ مقارنة بـQwen3.8-Max في وضع الاستدلال المكثف ضمن اختبارها Work360. ولا تنطبق هذه النسب تلقائياً على كل عميل. [المصدر · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+      },
+      {
+        "type": "subheading",
+        "text": "اختبار الوكيل على نتيجة قابلة للتحقق"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يستخدم الوكيل البرمجي عدة أدوات قبل أن يقترح تعديلاً. ويمكن مقارنة نموذجين بإعطائهما المشكلات نفسها والأدوات نفسها، ثم قياس النجاح في اختبارات المشروع وعدد المحاولات. وفي الرسوم البيانية يمكن التحقق من قراءة القيم المعروفة والتأكد من اختيار السلسلة والوحدة الصحيحتين."
+      },
+      {
+        "type": "heading",
+        "text": "الوصول إلى النموذج والأسعار"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعرض الشركة واجهة برمجية وباقة رموز عبر QwenCloud، وتذكر أيضاً QwenWork وQwenStudio. ويخص سعر 0.075 دولار لكل مليون رمز المدخلات المؤهلة لإعادة الاستخدام من الذاكرة المؤقتة الضمنية. وقد يكون للمدخلات الجديدة والمخرجات سعر مختلف. لذلك يفيد قياس التكلفة لكل مهمة مكتملة ومراجعة جدول الأسعار كاملاً. [المصدر · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [المصدر · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تُقدّم الشركة النموذج الأبرز كخدمة مستضافة بأوزان مغلقة. وتعتزم إتاحة نماذج أصغر من عائلة Qwen4 بأوزان قابلة للتنزيل. وهذا مهم للمؤسسات التي تحتاج إلى تشغيل النماذج داخل بنيتها التحتية. اقرأ أيضاً [استثمارات سامسونغ في مراكز بيانات الذكاء الاصطناعي](/articles/samsung-ai-data-center-expansion/). [المصدر · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [المصدر · thenextweb.com](https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights)"
+      },
+      {
+        "type": "subheading",
+        "text": "ما الذي يستحق الاختبار قبل نقل العمل إلى النموذج؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يفيد تسجيل إصدار النموذج وإعداد الاستدلال بدقة كي تكون المقارنة قابلة للتكرار. ويمكن قياس زمن الإجابة ونسبة الإخفاق وجودة النتائج عبر محاولات متعددة على المستندات نفسها. ولا يُقدّر وفر الذاكرة المؤقتة إلا بعد معرفة مدى تكرار المدخلات الفعلية. كما ينبغي قياس الوقت الذي يحتاج إليه المراجع للتحقق من الإجابة والعودة إلى الفقرات المؤيدة لها."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · www.alibabacloud.com",
+        "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1"
+      },
+      {
+        "label": "المصدر · technode.com",
+        "url": "https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/"
+      },
+      {
+        "label": "المصدر · thenextweb.com",
+        "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل أوزان Qwen4-Max مفتوحة؟",
+        "answer": "النموذج مستضاف وأوزانه مغلقة. وتعتزم الشركة نشر أوزان نماذج أصغر."
+      },
+      {
+        "question": "ماذا يعني مليون رمز؟",
+        "answer": "هو الحد المعلن لنافذة السياق، وليس عدداً ثابتاً من الكلمات."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/alibaba-qwen4-max-ai-model-launch/",
+    "path": "/es/articles/alibaba-qwen4-max-ai-model-launch/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "ALIBABA LANZA QWEN4-MAX PARA DESAFIAR A LOS MEJORES MODELOS DE IA DEL MUNDO",
+    "seoTitle": "Qwen4-Max de Alibaba: acceso, funciones y pruebas",
+    "description": "Alibaba lanza Qwen4-Max con visión y un millón de tokens de contexto. Qué significan sus cifras, su precio y el acceso al modelo.",
+    "excerpt": "Alibaba lanza Qwen4-Max con visión y un millón de tokens de contexto. Qué significan sus cifras, su precio y el acceso al modelo.",
+    "headlineHighlights": {
+      "red": "ALIBABA",
+      "gold": "QWEN4-MAX"
+    },
+    "keywords": [
+      "ALIBABA",
+      "QWEN4-MAX"
+    ],
+    "searchIntent": "Alibaba lanza Qwen4-Max con visión y un millón de tokens de contexto. Qué significan sus cifras, su precio y el acceso al modelo.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/alibaba-qwen4-max-ai-model-illustration.jpg",
+      "alt": "Ilustración de una ola de Qwen sobre servidores junto a logotipos rivales",
+      "width": 1280,
+      "height": 543
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Alibaba lanzó Qwen4-Max el 16 de noviembre de 2026 tras una fase de acceso limitado. El modelo estrella admite imágenes y ofrece una ventana de contexto de un millón de tokens. La empresa lo dirige a tareas que requieren más de una respuesta breve, como examinar gráficos o trabajar en un proyecto de código. El estreno añade un servicio alojado a la lista de sistemas avanzados que pueden comparar los desarrolladores. [Fuente · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Fuente · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué cambió en la arquitectura"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alibaba anuncia 2,4 billones de parámetros totales y 71.000 millones activos por token. Los parámetros son valores aprendidos que intervienen en las respuestas. En una mezcla de expertos dispersa, un mecanismo dirige cada token a ciertas partes de la red. Una cifra describe el tamaño global del modelo y la otra la parte activa para una unidad de entrada. La espera también depende de la longitud de la solicitud, del esfuerzo de razonamiento y de la carga del servicio. [Fuente · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_478]]",
+        "caption": "Especificaciones anunciadas por Alibaba",
+        "headings": [
+          "Indicador",
+          "Valor anunciado"
+        ],
+        "rows": [
+          [
+            "Parámetros totales",
+            "2,4 billones"
+          ],
+          [
+            "Parámetros activos por token",
+            "71.000 millones"
+          ],
+          [
+            "Ventana de contexto",
+            "Un millón de tokens"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Para qué sirve una ventana de un millón de tokens"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los tokens son unidades de entrada cuya cantidad varía según el idioma y el formato. Una ventana amplia puede evitar dividir una colección de contratos en varias consultas. Todavía queda comprobar si el sistema encuentra la cláusula adecuada o si interpreta correctamente una tabla. Una prueba útil sitúa un dato conocido en mitad de un documento extenso y comprueba si el resultado se apoya en el pasaje correcto."
+      },
+      {
+        "type": "heading",
+        "text": "Cómo interpretar los resultados"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alibaba situó el modelo en sexto lugar en Code Arena durante el lanzamiento. La clasificación refleja las reglas y la fecha de esa evaluación. Los resultados pueden cambiar con otro repositorio o idioma. En su prueba propia Work360, la compañía comunicó un 35 % menos de tokens y un coste por tarea alrededor de un 60 % inferior frente a Qwen3.8-Max en su modo de mayor razonamiento. Los porcentajes corresponden a esa comparación concreta. [Fuente · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+      },
+      {
+        "type": "subheading",
+        "text": "Comparar agentes a partir de lo que terminan"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un agente puede llamar a varias herramientas antes de proponer un cambio. Un equipo puede asignar los mismos problemas y permisos a cada sistema, comprobar qué cambios pasan las pruebas y contar cuántos intentos son necesarios. Con gráficos, puede pedir valores conocidos y examinar si el modelo identifica la serie y conserva la unidad correcta."
+      },
+      {
+        "type": "heading",
+        "text": "Acceso, precios y pesos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alibaba ofrece la API y un plan de tokens en QwenCloud y también cita QwenWork y QwenStudio. El precio destacado, 0,075 dólares por millón de tokens, se aplica a las entradas elegibles que ya están en la caché implícita. Las entradas nuevas y las respuestas pueden tener otras tarifas. Para presupuestar el servicio, interesa mirar la tabla completa y medir el coste por tarea resuelta. [Fuente · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Fuente · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los pesos del modelo Max permanecen cerrados. Alibaba prevé otros modelos Qwen4 más pequeños con pesos descargables, una diferencia importante para las organizaciones que gestionan su propia infraestructura. Véase también [cómo Samsung invierte en centros de datos de IA](/articles/samsung-ai-data-center-expansion/). [Fuente · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Fuente · thenextweb.com](https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights)"
+      },
+      {
+        "type": "subheading",
+        "text": "Qué comprobar antes de cambiar un flujo de trabajo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Conviene anotar el modelo y el ajuste de razonamiento para que las pruebas sean comparables. Se pueden medir el tiempo de respuesta, los fallos y la calidad en varios intentos con los mismos documentos. El ahorro de caché depende de la frecuencia real con que se reutilice el comienzo de las solicitudes. También cuenta el trabajo de revisión humana. Un informe extenso y rápido vale poco si cuesta localizar los pasajes que sustentan sus afirmaciones."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · www.alibabacloud.com",
+        "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1"
+      },
+      {
+        "label": "Fuente · technode.com",
+        "url": "https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/"
+      },
+      {
+        "label": "Fuente · thenextweb.com",
+        "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Qwen4-Max tiene pesos abiertos?",
+        "answer": "El modelo estrella es un servicio alojado con pesos cerrados. Alibaba prevé modelos menores de pesos abiertos."
+      },
+      {
+        "question": "¿Qué significa un millón de tokens?",
+        "answer": "Es la capacidad máxima de contexto anunciada, no una cantidad fija de palabras."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/alibaba-qwen4-max-ai-model-launch/",
+    "path": "/fr/articles/alibaba-qwen4-max-ai-model-launch/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "ALIBABA LANCE QWEN4-MAX POUR DÉFIER LES MEILLEURS MODÈLES D’IA AU MONDE",
+    "seoTitle": "Qwen4-Max d’Alibaba : caractéristiques, accès et tests",
+    "description": "Alibaba lance Qwen4-Max avec analyse d’images et un million de jetons de contexte. Décryptage des tests, du prix et de l’accès.",
+    "excerpt": "Alibaba lance Qwen4-Max avec analyse d’images et un million de jetons de contexte. Décryptage des tests, du prix et de l’accès.",
+    "headlineHighlights": {
+      "red": "ALIBABA",
+      "gold": "QWEN4-MAX"
+    },
+    "keywords": [
+      "ALIBABA",
+      "QWEN4-MAX"
+    ],
+    "searchIntent": "Alibaba lance Qwen4-Max avec analyse d’images et un million de jetons de contexte. Décryptage des tests, du prix et de l’accès.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/alibaba-qwen4-max-ai-model-illustration.jpg",
+      "alt": "Vague illustrée de Qwen au-dessus de serveurs aux côtés de logos concurrents",
+      "width": 1280,
+      "height": 543
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Alibaba a lancé Qwen4-Max le 16 novembre 2026 après un accès limité en début de mois. Son modèle phare analyse des images et peut traiter un contexte pouvant atteindre un million de jetons. Le groupe vise des projets plus longs qu’une simple question, comme l’analyse de graphiques ou le travail sur un dépôt de code. Les équipes disposent ainsi d’un nouveau service à comparer aux modèles les plus avancés. [Source · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Source · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+      },
+      {
+        "type": "heading",
+        "text": "Que change l’architecture du modèle ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alibaba annonce 2 400 milliards de paramètres au total et 71 milliards actifs par jeton. Ces valeurs apprises orientent les réponses du système. Dans un mélange d’experts parcimonieux, un mécanisme de routage sélectionne les parties du réseau utilisées pour chaque jeton. Le premier chiffre décrit le modèle dans son ensemble, le second la part mobilisée pour une unité de texte. Le temps d’attente dépend aussi du volume d’entrée, de l’effort de raisonnement et de la charge du service. [Source · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_478]]",
+        "caption": "Caractéristiques annoncées par Alibaba",
+        "headings": [
+          "Indicateur",
+          "Valeur annoncée"
+        ],
+        "rows": [
+          [
+            "Paramètres au total",
+            "2 400 milliards"
+          ],
+          [
+            "Paramètres actifs par jeton",
+            "71 milliards"
+          ],
+          [
+            "Fenêtre de contexte",
+            "1 million de jetons"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "À quoi sert un million de jetons ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le jeton est une unité d’entrée dont la taille varie selon la langue et le format. Une fenêtre étendue peut éviter de découper en plusieurs requêtes un ensemble de contrats ou de documents techniques. Encore faut-il retrouver la bonne clause et l’interpréter. Pour évaluer le rappel, on peut placer une information connue au milieu d’un dossier long et vérifier que le modèle la restitue avec le passage exact qui l’étaye."
+      },
+      {
+        "type": "heading",
+        "text": "Comment lire les résultats annoncés ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alibaba indique que Qwen4-Max figurait au sixième rang de Code Arena lors du lancement. Cette place correspond à un protocole et à un instant donnés, avec des résultats qui peuvent diverger sur un autre dépôt ou dans une autre langue. Dans son propre test Work360, Alibaba dit avoir réduit de 35 % le nombre de jetons et d’environ 60 % le coût par tâche face à Qwen3.8-Max dans le réglage de raisonnement poussé. Ces chiffres décrivent ce test précis. [Source · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+      },
+      {
+        "type": "subheading",
+        "text": "Évaluer un agent sur le résultat"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un agent de programmation peut faire plusieurs appels avant de rendre une modification. Pour comparer deux services, les équipes peuvent soumettre les mêmes tickets avec les mêmes outils, puis examiner la réussite aux tests et le nombre de tentatives. Une démarche comparable vaut pour les graphiques, où une réponse plausible perd sa valeur si elle confond deux séries ou change l’unité."
+      },
+      {
+        "type": "heading",
+        "text": "Où trouver le modèle et combien coûte-t-il ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’API et le forfait de jetons sont proposés sur QwenCloud. Alibaba cite aussi QwenWork et QwenStudio. Le tarif mis en avant, 0,075 dollar américain par million de jetons, concerne les entrées réutilisées par le cache implicite. Les nouvelles entrées et les réponses générées peuvent relever d’autres tarifs. Pour établir un budget, il faut regarder la grille complète et le coût par tâche réussie. [Source · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Source · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les poids du modèle Max ne sont pas publics. Alibaba prévoit aussi de plus petits modèles Qwen4 dont les poids devraient être téléchargeables. Le choix intéresse les entreprises qui doivent héberger leurs outils elles-mêmes. Voir aussi [les investissements de Samsung dans les centres de données pour l’IA](/articles/samsung-ai-data-center-expansion/). [Source · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Source · thenextweb.com](https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights)"
+      },
+      {
+        "type": "subheading",
+        "text": "Que vérifier avant de changer un flux de travail ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il est utile de noter la version du modèle et le réglage de raisonnement pour que les essais restent comparables. On peut mesurer le délai, les échecs et la qualité sur plusieurs tentatives avec le même ensemble de documents. Pour évaluer l’économie liée au cache, il faut vérifier la fréquence des passages d’entrée réellement réutilisés. Une réponse incomplète peut enfin avoir un coût humain : un rapport volumineux produit rapidement aide moins qu’une réponse qui permet de retrouver les sources à examiner."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · www.alibabacloud.com",
+        "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1"
+      },
+      {
+        "label": "Source · technode.com",
+        "url": "https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/"
+      },
+      {
+        "label": "Source · thenextweb.com",
+        "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Qwen4-Max est-il à poids ouverts ?",
+        "answer": "Le modèle phare est hébergé et ses poids sont fermés. Alibaba prévoit des modèles plus petits à poids ouverts."
+      },
+      {
+        "question": "Que signifie un million de jetons ?",
+        "answer": "Il s’agit de la taille maximale du contexte annoncée. Les jetons ne correspondent pas directement à des mots."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/alzheimers-disease-brain-memory-loss/",
     "path": "/ar/articles/alzheimers-disease-brain-memory-loss/",
     "kind": "article",
@@ -88950,6 +89373,417 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/china-ai-education-200-million-students-2030/",
+    "path": "/ar/articles/china-ai-education-200-million-students-2030/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "الصين تريد تعليم 200 مليون طالب الذكاء الاصطناعي بحلول 2030",
+    "seoTitle": "خطة الصين لتعليم الذكاء الاصطناعي في المدارس بحلول 2030",
+    "description": "تسعى الصين إلى تعميم الثقافة الأساسية للذكاء الاصطناعي. ويقدّر عدد طلاب الابتدائي والثانوي بنحو 200 مليون.",
+    "excerpt": "تسعى الصين إلى تعميم الثقافة الأساسية للذكاء الاصطناعي. ويقدّر عدد طلاب الابتدائي والثانوي بنحو 200 مليون.",
+    "headlineHighlights": {
+      "red": "الصين",
+      "gold": "200 مليون طالب"
+    },
+    "keywords": [
+      "الصين",
+      "200 مليون طالب"
+    ],
+    "searchIntent": "تسعى الصين إلى تعميم الثقافة الأساسية للذكاء الاصطناعي. ويقدّر عدد طلاب الابتدائي والثانوي بنحو 200 مليون.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/china-ai-education-classroom-robotics.jpg",
+      "alt": "رسم لطلاب يتعلمون بواسطة ذراع آلية في صف دراسي",
+      "width": 1280,
+      "height": 698
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تسعى الصين إلى تعميم الثقافة الأساسية للذكاء الاصطناعي بين طلاب المدارس بحلول 2030. وتفيد رويترز بأن نحو 200 مليون طالب مسجلون في الابتدائي والثانوي. ويوضح الرقم حجم الفئة المعنية، وليس عدد من أتموا التدريب. وتستهدف خطة أبريل 2026 دمج الذكاء الاصطناعي في التعليم وتنظيم تدريسه لمراحل عمرية مختلفة. [المصدر · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [المصدر · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا تطلب الخطة الوطنية؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشمل الخطة المدارس والجامعات والتعليم المهني والتعلم مدى الحياة. وتضع الوزارة أولوية مختلفة لكل مرحلة، من الثقافة الأساسية في المدارس إلى الجمع بين التخصصات في الجامعة والمهارات العملية في التعليم المهني. فالتحقق من إجابة آلية مهارة تختلف عن بناء نموذج أو تشغيله في مصنع. وتشمل السياسة استخدام التقنية في التدريس والتقييم إلى جانب تعليم الطلاب كيف تعمل. [المصدر · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [المصدر · www.moe.gov.cn](https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_479]]",
+        "caption": "الهدف الوطني ومثال محلي",
+        "headings": [
+          "المؤشر",
+          "ما الذي يقيسه؟"
+        ],
+        "rows": [
+          [
+            "نحو 200 مليون",
+            "المسجلون في الابتدائي والثانوي وفق رويترز"
+          ],
+          [
+            "2030",
+            "أفق الخطة الوطنية"
+          ],
+          [
+            "30 ساعة سنوياً",
+            "الحد الأدنى لكل صف في شنغهاي وفق رويترز"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "كيف يمكن أن يبدو الدرس؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن للمعلم مقارنة إجابتين متعارضتين عن سؤال معروف. يحدد الطلاب ما تدعيه كل إجابة، ويبحثون عن دليل ثم يشرحون سبب ثقتهم بمصدر معين. وفي تمرين آخر يفحصون أخطاء نظام يصنّف صوراً جديدة. ويختبر التمرينان قدرة الطالب على تفسير النتيجة، وهي مهارة لا تكشفها إجابة مصقولة وحدها."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا تكشف تجربتا شنغهاي وبكين؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "وجدت رويترز أن نحو نصف المقاطعات والبلديات التي راجعتها أصدرت خططاً ملزمة. وتفرض شنغهاي وفق الوكالة 30 ساعة تعليم على الأقل سنوياً لكل صف. وتخطط بكين لتخصيص 100 مدرسة تجريبية. يقيس الأول الزمن المخصص للتعليم والثاني عدد مواقع التجربة، ولا يبين أي منهما ما يتلقاه طلاب المناطق الأخرى. [المصدر · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا يعد إعداد المعلمين ضرورياً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن عدّ التراخيص المشتراة بسرعة، لكن إعداد معلم لاختيار تمرين مناسب ورصد الخطأ وتقييم العمل يتطلب وقتاً. وتحتاج المدارس إلى تحديد الأدوات المناسبة لكل عمر وكيفية تقييم الواجبات عندما يُسمح بالمساعدة الآلية. وتخفف المواد المشتركة صعوبة الحصول على الدروس، بينما تبقى جودة الاتصال والدعم المحلي عاملين في تنفيذها. [المصدر · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [المصدر · www.moe.gov.cn](https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف نقيس نجاح التنفيذ؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن التحقق مما إذا كان الطالب يستطيع اكتشاف مرجع مختلق، أو شرح سبب فشل توقع، أو إكمال مهمة مع الاحتفاظ بالقرار النهائي. ومن المفيد فصل التسجيل وإتمام الدورات وإثبات المهارات. كما يطرح استخدام بيانات التلاميذ سؤالاً عن الأشخاص الذين يمكنهم الاطلاع عليها ومدة حفظها. ويبين انتشار نماذج مثل [Qwen4-Max من علي بابا](/articles/alibaba-qwen4-max-ai-model-launch/) أهمية التحقق من الإجابات داخل الصف. [المصدر · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [المصدر · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+      },
+      {
+        "type": "subheading",
+        "text": "كيف يمكن أن يؤدي الانتشار الواسع إلى نتائج مختلفة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تستخدم مدرسة الأداة لمقارنة جواب بكتاب دراسي، وتستخدمها أخرى لصياغة واجب. ويمكن للمدرستين تسجيل استخدام الذكاء الاصطناعي، لكن التمرين الأول وحده يختبر مهارة التحقق مباشرةً. لذلك يهم التمييز بين مجرد التعرف على الأداة وتكرار استخدامها والمهارة المكتسبة، فضلاً عن جودة تجهيز المدارس والدعم الذي يحصل عليه المعلمون قبل تفسير أي تغير في النتائج."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · www.moe.gov.cn",
+        "url": "https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html"
+      },
+      {
+        "label": "المصدر · www.investing.com",
+        "url": "https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222"
+      },
+      {
+        "label": "المصدر · www.moe.gov.cn",
+        "url": "https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل 200 مليون حصة إلزامية؟",
+        "answer": "الرقم تقدير لطلاب الابتدائي والثانوي نقلته رويترز. وتهدف السياسة إلى تعميم الثقافة الأساسية بحلول 2030."
+      },
+      {
+        "question": "هل يتعلم الطلاب المحتوى نفسه؟",
+        "answer": "تختلف الخطط المحلية. وساعات شنغهاي المعلنة لا تمثل حداً أدنى وطنياً."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/china-ai-education-200-million-students-2030/",
+    "path": "/es/articles/china-ai-education-200-million-students-2030/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "CHINA QUIERE ENSEÑAR IA A 200 MILLONES DE ESTUDIANTES PARA 2030",
+    "seoTitle": "El plan de China para enseñar IA en las escuelas",
+    "description": "China busca generalizar la alfabetización en IA para 2030. Los 200 millones reflejan el tamaño aproximado de la población escolar.",
+    "excerpt": "China busca generalizar la alfabetización en IA para 2030. Los 200 millones reflejan el tamaño aproximado de la población escolar.",
+    "headlineHighlights": {
+      "red": "CHINA",
+      "gold": "200 MILLONES DE ESTUDIANTES"
+    },
+    "keywords": [
+      "CHINA",
+      "200 MILLONES DE ESTUDIANTES"
+    ],
+    "searchIntent": "China busca generalizar la alfabetización en IA para 2030. Los 200 millones reflejan el tamaño aproximado de la población escolar.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/china-ai-education-classroom-robotics.jpg",
+      "alt": "Ilustración de estudiantes trabajando con un brazo robótico en clase",
+      "width": 1280,
+      "height": 698
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "China quiere generalizar la alfabetización en inteligencia artificial entre sus escolares para 2030. Reuters cifra en casi 200 millones la matrícula de primaria y secundaria. Ese número refleja la población a la que aspira a llegar y no un recuento de alumnos que ya han completado un curso. El plan de abril de 2026 busca integrar la IA en la enseñanza y organizar su aprendizaje por etapas. [Fuente · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Fuente · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué pide el plan nacional"
+      },
+      {
+        "type": "paragraph",
+        "text": "El documento incluye escuelas, universidades, formación profesional y educación permanente. El ministerio distingue la alfabetización básica en las escuelas, el trabajo interdisciplinario en las universidades y la aplicación práctica en la formación profesional. Detectar una respuesta dudosa exige habilidades distintas de entrenar un modelo o usarlo en una fábrica. El plan también aborda la IA como herramienta para enseñar y evaluar, además de como materia de estudio. [Fuente · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Fuente · www.moe.gov.cn](https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_479]]",
+        "caption": "Objetivo nacional y ejemplo local",
+        "headings": [
+          "Indicador",
+          "Qué mide"
+        ],
+        "rows": [
+          [
+            "Casi 200 millones",
+            "Matrícula en primaria y secundaria citada por Reuters"
+          ],
+          [
+            "2030",
+            "Horizonte del plan nacional"
+          ],
+          [
+            "30 horas al año",
+            "Mínimo por curso en Shanghái según Reuters"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Cómo podría ser una clase"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un docente puede mostrar dos respuestas distintas del mismo tipo de sistema a una pregunta conocida. El alumnado identifica las afirmaciones, busca evidencias y explica en qué fuente confía. En otro ejercicio, puede anotar los errores de un clasificador frente a imágenes nuevas. En ambos casos importa explicar qué ocurrió. Un texto impecable por sí solo revela poco sobre la comprensión del alumno."
+      },
+      {
+        "type": "heading",
+        "text": "Qué muestran Shanghái y Pekín"
+      },
+      {
+        "type": "paragraph",
+        "text": "Reuters encontró planes vinculantes en casi la mitad de las provincias y municipios que revisó. Shanghái exige al menos 30 horas anuales de enseñanza sobre IA por curso, según la agencia. Pekín proyecta 100 escuelas piloto. Una cifra mide tiempo lectivo y la otra centros de experimentación. Ninguna muestra qué recibe un alumno en otra localidad. [Fuente · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué importa preparar al profesorado"
+      },
+      {
+        "type": "paragraph",
+        "text": "Contar licencias es rápido. Capacitar a un docente para elegir el ejercicio, detectar errores y comentar el resultado requiere tiempo. Las escuelas también deben decidir qué herramientas son apropiadas para cada edad y cómo evaluar trabajos asistidos. Los materiales comunes amplían el acceso, aunque el apoyo local y la calidad de la conexión siguen condicionando el uso. [Fuente · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Fuente · www.moe.gov.cn](https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html)"
+      },
+      {
+        "type": "heading",
+        "text": "Cómo sabremos si funciona"
+      },
+      {
+        "type": "paragraph",
+        "text": "Se puede evaluar si un estudiante ha aprendido a detectar una cita inventada, explicar un fallo o acabar una tarea manteniendo el control de las decisiones. Matrícula, cursos completados y competencias demostradas son medidas diferentes. El uso de IA para analizar la actividad escolar también plantea quién accede a los datos y cuánto tiempo se guardan. Herramientas como [Qwen4-Max de Alibaba](/articles/alibaba-qwen4-max-ai-model-launch/) ayudan a entender por qué verificar una respuesta se ha convertido en una habilidad escolar. [Fuente · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Fuente · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué un acceso extendido puede dar resultados distintos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una escuela puede usar la herramienta para contrastar respuestas con un libro y otra para redactar deberes. Las dos pueden declarar que usan IA, aunque solo el primer ejercicio mide directamente la verificación. Evaluar el plan exige distinguir el acceso, la frecuencia de uso y las destrezas adquiridas. También importa tener en cuenta el equipamiento y el apoyo al profesorado antes de atribuir al software cualquier cambio en los resultados."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · www.moe.gov.cn",
+        "url": "https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html"
+      },
+      {
+        "label": "Fuente · www.investing.com",
+        "url": "https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222"
+      },
+      {
+        "label": "Fuente · www.moe.gov.cn",
+        "url": "https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Los 200 millones son una cuota oficial?",
+        "answer": "Es la matrícula aproximada de primaria y secundaria citada por Reuters. La meta nacional es generalizar la alfabetización en IA para 2030."
+      },
+      {
+        "question": "¿Se impartirá el mismo curso en todo el país?",
+        "answer": "Los planes locales difieren. El mínimo de Shanghái no se aplica a todo el país."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/china-ai-education-200-million-students-2030/",
+    "path": "/fr/articles/china-ai-education-200-million-students-2030/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "LA CHINE VEUT FORMER 200 MILLIONS D’ÉLÈVES À L’IA D’ICI 2030",
+    "seoTitle": "Le plan chinois de formation à l’IA d’ici 2030",
+    "description": "La Chine vise une culture de l’IA pour tous ses élèves. Les 200 millions correspondent à l’ordre de grandeur des effectifs scolaires.",
+    "excerpt": "La Chine vise une culture de l’IA pour tous ses élèves. Les 200 millions correspondent à l’ordre de grandeur des effectifs scolaires.",
+    "headlineHighlights": {
+      "red": "LA CHINE",
+      "gold": "200 MILLIONS D’ÉLÈVES"
+    },
+    "keywords": [
+      "LA CHINE",
+      "200 MILLIONS D’ÉLÈVES"
+    ],
+    "searchIntent": "La Chine vise une culture de l’IA pour tous ses élèves. Les 200 millions correspondent à l’ordre de grandeur des effectifs scolaires.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/china-ai-education-classroom-robotics.jpg",
+      "alt": "Illustration d’élèves travaillant avec un bras robotisé",
+      "width": 1280,
+      "height": 698
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La Chine veut généraliser la culture de l’intelligence artificielle chez les élèves d’ici 2030. Selon Reuters, près de 200 millions d’enfants et d’adolescents sont inscrits dans le primaire et le secondaire. Ce chiffre indique le public concerné et ne recense pas les élèves ayant terminé une formation. Le plan d’avril 2026 vise à intégrer l’IA à l’éducation et à organiser son enseignement à différents âges. [Source · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Source · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+      },
+      {
+        "type": "heading",
+        "text": "Que demande le plan national ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le texte couvre l’école, l’université, la formation professionnelle et l’apprentissage tout au long de la vie. Le ministère privilégie les connaissances de base à l’école, le travail interdisciplinaire à l’université et les compétences pratiques dans la formation professionnelle. Reconnaître une réponse douteuse et déployer un outil de contrôle industriel demandent des compétences différentes. Le plan traite aussi de l’usage de l’IA pour enseigner et évaluer, en plus de l’enseignement de son fonctionnement. [Source · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Source · www.moe.gov.cn](https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_479]]",
+        "caption": "Objectif national et exemple local",
+        "headings": [
+          "Indicateur",
+          "Ce qu’il mesure"
+        ],
+        "rows": [
+          [
+            "Près de 200 millions",
+            "Élèves du primaire et du secondaire selon Reuters"
+          ],
+          [
+            "2030",
+            "Horizon de la politique nationale"
+          ],
+          [
+            "30 heures par an",
+            "Minimum par niveau à Shanghai selon Reuters"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "À quoi pourrait ressembler une leçon ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "On peut proposer deux réponses contradictoires à une question familière. Les élèves identifient les affirmations, cherchent de quoi les vérifier et justifient la source qu’ils retiennent. Un autre exercice consiste à noter les erreurs d’un classificateur d’images sur des exemples nouveaux. Dans les deux cas, l’élève doit expliquer ce qu’il a observé. Une réponse bien rédigée ne suffit donc pas à mesurer sa compréhension."
+      },
+      {
+        "type": "heading",
+        "text": "Ce que montrent Shanghai et Pékin"
+      },
+      {
+        "type": "paragraph",
+        "text": "Reuters indique que près de la moitié des provinces et municipalités étudiées ont adopté des plans contraignants. Shanghai exige au moins 30 heures d’enseignement de l’IA par an et par niveau, selon l’agence. Pékin prévoit 100 écoles pilotes. La première mesure porte sur le temps de formation, la seconde sur le nombre d’établissements d’expérimentation. Elles ne décrivent pas l’offre dans une autre région. [Source · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+      },
+      {
+        "type": "subheading",
+        "text": "La formation des enseignants compte autant que l’accès"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il est facile de compter les licences achetées. Il faut davantage de temps pour former les enseignants à choisir les exercices, repérer les erreurs et commenter le travail. Les établissements doivent aussi déterminer quels outils sont adaptés à chaque âge et comment évaluer des travaux réalisés avec leur aide. Les ressources mutualisées facilitent l’accès, mais les besoins de connexion et d’assistance locale restent différents. [Source · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Source · www.moe.gov.cn](https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment juger si le plan fonctionne ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’évaluation peut examiner si un élève sait vérifier une source inventée, expliquer l’échec d’une prédiction ou terminer une tâche en gardant la maîtrise des décisions. Les inscriptions, l’achèvement des cours et les compétences démontrées sont des indicateurs distincts. Les écoles doivent aussi définir qui peut accéder aux données des élèves et combien de temps elles sont gardées. La diffusion de modèles comme [Qwen4-Max d’Alibaba](/articles/alibaba-qwen4-max-ai-model-launch/) donne un enjeu pratique à la vérification des réponses. [Source · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Source · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+      },
+      {
+        "type": "subheading",
+        "text": "Un accès généralisé peut donner des résultats différents"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un même outil peut servir à comparer une réponse avec un manuel ou simplement à rédiger un devoir. Les deux établissements peuvent déclarer avoir utilisé l’IA, mais seul le premier exercice teste directement la vérification. Une évaluation doit donc distinguer la découverte de l’outil, la fréquence d’usage et la compétence acquise. Elle gagne aussi à mesurer l’équipement et l’aide apportée aux enseignants, pour éviter d’attribuer automatiquement au logiciel toute évolution des résultats."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · www.moe.gov.cn",
+        "url": "https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html"
+      },
+      {
+        "label": "Source · www.investing.com",
+        "url": "https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222"
+      },
+      {
+        "label": "Source · www.moe.gov.cn",
+        "url": "https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Les 200 millions constituent-ils un quota officiel ?",
+        "answer": "Reuters les cite comme un ordre de grandeur des effectifs. Le plan vise une culture de l’IA largement partagée d’ici 2030."
+      },
+      {
+        "question": "Les cours seront-ils les mêmes partout ?",
+        "answer": "Les approches locales varient. Le minimum de Shanghai ne vaut pas pour toute la Chine."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/china-robot-revolution-industrial-automation/",
     "path": "/ar/articles/china-robot-revolution-industrial-automation/",
     "kind": "article",
@@ -90813,6 +91647,429 @@
       }
     ],
     "faq": []
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/christmas-island-red-crab-migration-roads/",
+    "path": "/ar/articles/christmas-island-red-crab-migration-roads/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "ملايين السرطانات الحمراء تحوّل طرق جزيرة أسترالية إلى بحر أحمر",
+    "seoTitle": "هجرة السرطانات الحمراء على طرق جزيرة كريسماس",
+    "description": "تعبر ملايين السرطانات الحمراء جزيرة كريسماس الأسترالية للتكاثر. تحدد الأمطار والمد توقيت الرحلة وتُغلق بعض الطرق لحمايتها.",
+    "excerpt": "تعبر ملايين السرطانات الحمراء جزيرة كريسماس الأسترالية للتكاثر. تحدد الأمطار والمد توقيت الرحلة وتُغلق بعض الطرق لحمايتها.",
+    "headlineHighlights": {
+      "red": "السرطانات الحمراء",
+      "gold": "بحر أحمر"
+    },
+    "keywords": [
+      "السرطانات الحمراء",
+      "بحر أحمر"
+    ],
+    "searchIntent": "تعبر ملايين السرطانات الحمراء جزيرة كريسماس الأسترالية للتكاثر. تحدد الأمطار والمد توقيت الرحلة وتُغلق بعض الطرق لحمايتها.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/christmas-island-red-crab-migration-road.jpg",
+      "alt": "رسم لسرطانات حمراء تغطي طريقاً غابياً مبتلاً قرب إشارة عبور",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "في جزيرة كريسماس الأسترالية بالمحيط الهندي، قد تتوقف حركة المرور بسبب رحلة تبدأ في جحور الغابة. تتجه ملايين السرطانات الحمراء من نوع Gecarcoidea natalis إلى الساحل للتكاثر، وقد تغطي طرقاً تعترض مسارها. وبرمجت هيئة المتنزهات الأسترالية بثاً مباشراً في 16 نوفمبر ضمن تغطية موسم 2026. وتشير إلى عدد يقارب مئة مليون على مستوى الجزيرة، وهو تقدير للوفرة ولا يحصي كل سرطان يعبر الطريق. [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/) [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/)"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا تغادر السرطانات الغابة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعيش على اليابسة، لكنها تعتمد على البحر في التكاثر. وتبدأ رحلتها غالباً مع أولى أمطار الموسم الرطب في أكتوبر أو نوفمبر، وقد تتأخر. وتساعدها الرطوبة على اجتياز أماكن مكشوفة بعيداً عن ظل الغابة. وتعبر الطرق لأنها تقع في مسارها إلى مواقع التكاثر على الساحل. [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_481]]",
+        "caption": "من جحور الغابة إلى البحر ثم العودة",
+        "headings": [
+          "المرحلة",
+          "الموعد أو المكان المعتاد"
+        ],
+        "rows": [
+          [
+            "هجرة البالغات",
+            "بداية أمطار الموسم الرطب"
+          ],
+          [
+            "إطلاق البيض",
+            "انحسار المد العالي قرب الربع الأخير للقمر"
+          ],
+          [
+            "عودة الصغار",
+            "بعد طور اليرقات في البحر"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "المطر يطلق الرحلة والمد يحدد موعد البيض"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصل الذكور غالباً أولاً، فتبتل بمياه البحر وتحفر جحوراً قرب الشاطئ. وبعد التزاوج تظل الإناث في الجحور حتى ينمو البيض. وتطلقه قبل الفجر قرب الربع الأخير للقمر مع انحسار المد العالي. لذلك فإن مشاهدة البالغات على الطريق في بداية الموسم لا تعني أن إطلاق البيض سيحدث في الليلة نفسها. [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يحدث بعد وصول البيض إلى البحر؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تنمو اليرقات في البحر ثم يعود الناجون في صورة سرطانات صغيرة تتجه إلى داخل الجزيرة. وقد تبدو العودة موجة جديدة من حيوانات أصغر كثيراً من البالغات. ولا تنجو أعداد كبيرة من اليرقات، ولذلك لا يكشف مشهد البالغات وحده مدى وفرة الجيل العائد، وقد تختلف الأعداد بين المواسم. [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/)"
+      },
+      {
+        "type": "subheading",
+        "text": "كيف تُدار الطرق أثناء الهجرة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تساعد الإغلاقات المؤقتة والجسور المخصصة للسرطانات على حمايتها من المركبات. ويمكن أن تتغير حالة الطريق سريعاً حسب حركة الحيوانات. وتطلب الهيئة من الزوار مراجعة لوحة حالة الطرق أو الاستفسار لدى مركز الزوار واتباع التعليمات. ولا يعني فتح الطريق أمس إمكان استخدامه اليوم. ويمكن مشاهدة البث الرسمي عن بعد. [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/) [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/) [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/)"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا تحمي هذه الإجراءات الغابة أيضاً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تتغذى السرطانات على الأوراق المتساقطة وتعيد المغذيات إلى التربة. وقد يقتلها النمل الأصفر الغازي حيث يشكل مستعمرات كثيفة. وتعمل الهيئة على مكافحة حشرات قشرية ينتج إفرازها السكري غذاءً للنمل. وقد رصدت انخفاضاً في هذه الحشرات، بينما بقي أثر المكافحة في مستعمرات النمل غير محسوم. وللتعرف إلى دور الجغرافيا في الحماية، اقرأ عن [نوعين جديدين من القرود العوّاءة في الأمازون](/articles/two-new-amazon-howler-monkey-species/). [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/discover/nature/conservation/yellow-crazy-ant-biocontrol/)"
+      },
+      {
+        "type": "subheading",
+        "text": "أين يمكن مشاهدة المراحل المختلفة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يذكر المنتزه درمسايت وفلاينغ فيش كوف وشاطئي إيثل وغريتا ضمن الأماكن التي يسهل الوصول إليها. ويتغير المكان المناسب بحسب مرحلة الهجرة. فقد تظهر البالغات بعيداً عن الشاطئ، حيث يصعب مشاهدة إطلاق البيض. ويمكن أن يبقى الشاطئ هادئاً بين موجتي مد مناسبتين. لذلك يميّز المنتزه بين فترة إطلاق البيض المتوقعة وحالة الطرق المتغيرة مع حركة السرطانات. [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/) [المصدر · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/red-crab-migration/"
+      },
+      {
+        "label": "المصدر · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/"
+      },
+      {
+        "label": "المصدر · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/discover/nature/conservation/yellow-crazy-ant-biocontrol/"
+      },
+      {
+        "label": "المصدر · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "متى تبدأ الهجرة عادةً؟",
+        "answer": "مع أولى الأمطار في الموسم الرطب، عادةً في أكتوبر أو نوفمبر، وقد تتأخر."
+      },
+      {
+        "question": "لماذا تُغلق الطرق؟",
+        "answer": "تعبرها السرطانات نحو الساحل وفي طريق العودة. وتقلل الإغلاقات والجسور خطر الدهس."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/christmas-island-red-crab-migration-roads/",
+    "path": "/es/articles/christmas-island-red-crab-migration-roads/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "MILLONES DE CANGREJOS ROJOS TIÑEN LAS CARRETERAS DE UNA ISLA AUSTRALIANA",
+    "seoTitle": "Migración de cangrejos rojos en la isla de Navidad",
+    "description": "Millones de cangrejos rojos atraviesan la isla de Navidad. La lluvia y las mareas marcan la migración, y algunas carreteras cierran.",
+    "excerpt": "Millones de cangrejos rojos atraviesan la isla de Navidad. La lluvia y las mareas marcan la migración, y algunas carreteras cierran.",
+    "headlineHighlights": {
+      "red": "CANGREJOS ROJOS",
+      "gold": "ISLA AUSTRALIANA"
+    },
+    "keywords": [
+      "CANGREJOS ROJOS",
+      "ISLA AUSTRALIANA"
+    ],
+    "searchIntent": "Millones de cangrejos rojos atraviesan la isla de Navidad. La lluvia y las mareas marcan la migración, y algunas carreteras cierran.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/christmas-island-red-crab-migration-road.jpg",
+      "alt": "Ilustración de cangrejos rojos sobre una carretera forestal mojada",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "En la isla de Navidad, territorio australiano en el océano Índico, un viaje que empieza en madrigueras del bosque puede detener el tráfico. Millones de cangrejos rojos, Gecarcoidea natalis, se desplazan a la costa para reproducirse. Algunas rutas cruzan carreteras que los animales llegan a cubrir. Parks Australia programó una retransmisión el 16 de noviembre durante su cobertura de 2026. El parque estima la población en torno a los 100 millones, una cifra de abundancia insular que no equivale a contar los animales que cruzan un tramo. [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/) [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/)"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué salen del bosque hacia el mar"
+      },
+      {
+        "type": "paragraph",
+        "text": "Son cangrejos terrestres que necesitan el océano para reproducirse. Las primeras lluvias de la estación húmeda suelen desencadenar la marcha en octubre o noviembre, aunque pueden llegar más tarde. La humedad facilita que animales habituados al bosque crucen espacios expuestos. Pasan por las carreteras porque estas se interponen en el camino hacia la costa. [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_481]]",
+        "caption": "Del bosque al mar y de regreso",
+        "headings": [
+          "Etapa",
+          "Momento o lugar habitual"
+        ],
+        "rows": [
+          [
+            "Migración adulta",
+            "Primeras lluvias de la estación húmeda"
+          ],
+          [
+            "Liberación de huevos",
+            "Marea alta en descenso cerca del cuarto menguante"
+          ],
+          [
+            "Regreso de las crías",
+            "Tras una fase larvaria en el mar"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "La lluvia inicia el viaje y la marea marca la puesta"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los machos suelen llegar primero, se mojan y excavan madrigueras junto al litoral. Después del apareamiento, las hembras permanecen allí mientras maduran los huevos. El parque describe cómo los liberan antes del amanecer, cuando baja la marea alta cerca del cuarto menguante. Ver los primeros cruces y presenciar la liberación de los huevos son dos experiencias con calendarios distintos. [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué ocurre tras la puesta"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las larvas se desarrollan en el mar. Las supervivientes regresan en forma de diminutos cangrejos y se dirigen al interior. La vuelta puede generar otra oleada de animales mucho más pequeños. Muchas larvas no sobreviven, y el número de crías puede variar entre temporadas. Lo que se observa durante la marcha de los adultos no permite saber cuántos jóvenes regresarán. [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Cómo se gestionan las carreteras durante la migración"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los cierres temporales y los puentes para cangrejos ayudan a protegerlos del tráfico. Un cierre puede cambiar con poca antelación. Parks Australia indica que se consulte el panel de acceso o el centro de visitantes y se sigan las instrucciones del personal. Que una vía estuviera abierta ayer no significa que lo esté hoy. El parque ofrece retransmisiones para quienes siguen el fenómeno desde otros lugares. [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/) [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/) [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/)"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué los cangrejos importan al bosque"
+      },
+      {
+        "type": "paragraph",
+        "text": "Al consumir hojarasca devuelven nutrientes al suelo. Las hormigas locas amarillas invasoras pueden matarlos allí donde forman colonias densas. El parque ha trabajado en un control biológico que actúa sobre las cochinillas cuya melaza alimenta a las hormigas. Parks Australia señala una reducción de las cochinillas, pero aún considera incierto el efecto sobre las supercolonias. Para otro ejemplo de cómo la geografía condiciona la conservación, véase [el descubrimiento de dos especies de monos aulladores amazónicos](/articles/two-new-amazon-howler-monkey-species/). [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/discover/nature/conservation/yellow-crazy-ant-biocontrol/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Dónde observar las distintas etapas"
+      },
+      {
+        "type": "paragraph",
+        "text": "El parque destaca Drumsite, Flying Fish Cove y las playas de Ethel y Greta entre los lugares más accesibles. La elección depende de la etapa. Se pueden ver adultos en el interior sin presenciar la liberación de huevos. Una playa puede estar tranquila entre dos mareas propicias, aunque haya muchos cangrejos cerca. Por eso el parque distingue la ventana de desove prevista de los avisos de carretera, que cambian con el movimiento de los animales. [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/) [Fuente · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/red-crab-migration/"
+      },
+      {
+        "label": "Fuente · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/"
+      },
+      {
+        "label": "Fuente · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/discover/nature/conservation/yellow-crazy-ant-biocontrol/"
+      },
+      {
+        "label": "Fuente · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Cuándo suele empezar la migración?",
+        "answer": "Con las primeras lluvias de la estación húmeda, normalmente en octubre o noviembre, aunque puede retrasarse."
+      },
+      {
+        "question": "¿Por qué se cierran carreteras?",
+        "answer": "Los cangrejos las cruzan hacia la costa y de regreso. Los cierres y puentes específicos ayudan a evitar atropellos."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/christmas-island-red-crab-migration-roads/",
+    "path": "/fr/articles/christmas-island-red-crab-migration-roads/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "DES MILLIONS DE CRABES ROUGES RECOUVRENT LES ROUTES D’UNE ÎLE AUSTRALIENNE",
+    "seoTitle": "Migration des crabes rouges sur l’île Christmas",
+    "description": "La pluie et les marées guident des millions de crabes rouges de la forêt à la mer sur l’île Christmas, où certaines routes ferment.",
+    "excerpt": "La pluie et les marées guident des millions de crabes rouges de la forêt à la mer sur l’île Christmas, où certaines routes ferment.",
+    "headlineHighlights": {
+      "red": "CRABES ROUGES",
+      "gold": "ÎLE AUSTRALIENNE"
+    },
+    "keywords": [
+      "CRABES ROUGES",
+      "ÎLE AUSTRALIENNE"
+    ],
+    "searchIntent": "La pluie et les marées guident des millions de crabes rouges de la forêt à la mer sur l’île Christmas, où certaines routes ferment.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/christmas-island-red-crab-migration-road.jpg",
+      "alt": "Illustration de crabes rouges sur une route humide bordée de forêt",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Sur l’île Christmas, territoire australien dans l’océan Indien, un trajet commencé dans des terriers forestiers peut interrompre la circulation. Des millions de crabes rouges, Gecarcoidea natalis, gagnent la côte pour se reproduire. Ils traversent des routes qu’ils peuvent recouvrir. Parks Australia a programmé une diffusion en direct le 16 novembre pour sa couverture de 2026. Le parc évoque une population de l’ordre de 100 millions, sans prétendre compter chaque passage. [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/) [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/)"
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi les crabes quittent-ils la forêt ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces crabes vivent à terre et dépendent de la mer pour se reproduire. Les premières pluies de la saison humide déclenchent généralement le départ en octobre ou novembre, parfois plus tard. L’humidité facilite la traversée d’espaces exposés pour un animal habitué à la forêt. Les routes se trouvent sur le trajet vers les lieux de reproduction. [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_481]]",
+        "caption": "De la forêt à la mer et retour",
+        "headings": [
+          "Étape",
+          "Repère habituel"
+        ],
+        "rows": [
+          [
+            "Migration des adultes",
+            "Premières pluies de la saison humide"
+          ],
+          [
+            "Libération des œufs",
+            "Marée haute descendante près du dernier quartier de lune"
+          ],
+          [
+            "Retour des jeunes",
+            "Après une phase larvaire en mer"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "La pluie lance la marche et la marée règle la ponte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les mâles arrivent souvent en premier, se mouillent puis creusent des terriers près du rivage. Après l’accouplement, les femelles attendent que leurs œufs se développent. Le parc situe leur libération avant l’aube, au début du reflux de la marée haute, près du dernier quartier de lune. Les premières traversées et la ponte sont donc deux moments différents. Voir les crabes sur la route ne veut pas dire que les œufs seront libérés le même jour. [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/)"
+      },
+      {
+        "type": "heading",
+        "text": "Que deviennent les œufs ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les larves se développent en mer. Les survivantes deviennent de minuscules crabes et gagnent la terre ferme, puis l’intérieur de l’île. Ce retour peut former une autre vague, constituée d’animaux beaucoup plus petits. Beaucoup de larves ne survivent pas. L’abondance des jeunes varie et ne se déduit pas du seul spectacle offert par les adultes. [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Comment les routes restent praticables"
+      },
+      {
+        "type": "paragraph",
+        "text": "Des fermetures temporaires et des ponts dédiés évitent que les crabes soient écrasés. Les mesures peuvent changer rapidement selon leurs déplacements. Le parc conseille de vérifier le tableau d’accès routier ou de consulter le centre des visiteurs, puis de respecter les consignes sur place. Une route ouverte la veille peut être fermée aujourd’hui. Les directs officiels permettent aussi de suivre la migration à distance. [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/) [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/) [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/)"
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi la forêt dépend des crabes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ils décomposent la litière de feuilles et contribuent au retour de nutriments dans le sol. Les fourmis folles jaunes envahissantes peuvent les tuer là où elles forment des colonies denses. Le parc a étudié un contrôle biologique visant les cochenilles dont le miellat nourrit les fourmis. Il signale une baisse des cochenilles, mais indique que l’effet sur les supercolonies restait incertain. Pour un autre exemple de l’importance de la géographie dans la conservation, voyez [les deux nouvelles espèces de singes hurleurs d’Amazonie](/articles/two-new-amazon-howler-monkey-species/). [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/discover/nature/conservation/yellow-crazy-ant-biocontrol/)"
+      },
+      {
+        "type": "subheading",
+        "text": "Où observer les différentes étapes ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le parc cite Drumsite, Flying Fish Cove, Ethel Beach et Greta Beach parmi les endroits les plus accessibles. Il faut choisir selon le stade en cours. On peut voir des adultes loin du rivage sans assister à la libération des œufs, alors qu’une plage peut rester calme entre deux marées favorables. Le guide du parc distingue donc la période propice à la ponte et les informations routières, qui changent avec le déplacement des crabes. [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/red-crab-migration/) [Source · christmasislandnationalpark.gov.au](https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/red-crab-migration/"
+      },
+      {
+        "label": "Source · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/"
+      },
+      {
+        "label": "Source · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/discover/nature/conservation/yellow-crazy-ant-biocontrol/"
+      },
+      {
+        "label": "Source · christmasislandnationalpark.gov.au",
+        "url": "https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quand commence la migration ?",
+        "answer": "Avec les premières pluies de la saison humide, habituellement en octobre ou novembre, parfois plus tard."
+      },
+      {
+        "question": "Pourquoi fermer des routes ?",
+        "answer": "Les crabes les traversent vers la côte puis au retour. Les fermetures et les ponts dédiés réduisent le risque d’écrasement."
+      }
+    ],
+    "readingTimeMinutes": 3
   },
   {
     "locale": "ar",
@@ -417267,6 +418524,414 @@
       }
     ],
     "readingTimeMinutes": 4
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/ultrasound-patch-rem-sleep-43-minutes-study/",
+    "path": "/ar/articles/ultrasound-patch-rem-sleep-43-minutes-study/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "لاصقة جديدة بالموجات فوق الصوتية تعجّل بدء مرحلة الأحلام بـ43 دقيقة",
+    "seoTitle": "دراسة لاصقة الموجات فوق الصوتية ونوم حركة العين السريعة",
+    "description": "أظهرت تجربة صغيرة على ليلتين وصولاً أبكر إلى أول مرحلة من نوم حركة العين السريعة. ولا تثبت علاجاً للأرق.",
+    "excerpt": "أظهرت تجربة صغيرة على ليلتين وصولاً أبكر إلى أول مرحلة من نوم حركة العين السريعة. ولا تثبت علاجاً للأرق.",
+    "headlineHighlights": {
+      "red": "الموجات فوق الصوتية",
+      "gold": "43 دقيقة"
+    },
+    "keywords": [
+      "الموجات فوق الصوتية",
+      "43 دقيقة"
+    ],
+    "searchIntent": "أظهرت تجربة صغيرة على ليلتين وصولاً أبكر إلى أول مرحلة من نوم حركة العين السريعة. ولا تثبت علاجاً للأرق.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/ultrasound-patch-rem-sleep-editorial-illustration.jpg",
+      "alt": "رسم لشخص نائم يرتدي لاصقة قرب شاشة مراقبة",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "ارتبطت لاصقة NEUSLeeP التجريبية ببدء أول مرحلة من نوم حركة العين السريعة في وقت أبكر، في دراسة صغيرة نشرتها نيتشر كوميونيكيشنز في يونيو 2026. وبين 26 تسجيلاً صالحاً للتحليل، هبط متوسط الانتظار من 177 دقيقة إلى 134.7 دقيقة. وقدّر الباحثون الفرق بنحو 43 دقيقة. ويخص الرقم مرحلة تبدأ بعد الدخول في النوم، ولا يعني أن المشاركين غفوا أسرع. [المصدر · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [المصدر · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا قاس الباحثون؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "شارك 28 شخصاً، منهم 16 في مجموعة سليمة و12 لديهم أعراض أرق. واستُبعد تسجيلان بسبب التشويش. خضع الجميع لتحفيز وهمي في الليلة الأولى وموجات فوق صوتية فعلية في الثانية. وصنّف مختص مراحل النوم. وارتفعت حصة نوم حركة العين السريعة من 16.3٪ إلى 20.9٪، أي 4.6 نقاط مئوية. ولم ترصد الدراسة تغيراً معنوياً في كفاءة النوم الإجمالية أو الاستيقاظ. [المصدر · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_480]]",
+        "caption": "متوسطات التسجيلات القابلة للتحليل وعددها 26",
+        "headings": [
+          "المقياس",
+          "ليلة المقارنة",
+          "ليلة التحفيز"
+        ],
+        "rows": [
+          [
+            "الوقت حتى أول نوم حركة عين سريعة",
+            "177 دقيقة",
+            "134.7 دقيقة"
+          ],
+          [
+            "حصة المرحلة من إجمالي النوم",
+            "16.3٪",
+            "20.9٪"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "مرحلة واحدة ضمن دورة النوم"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشيع الأحلام الواضحة في هذه المرحلة، لكن الباحثين اعتمدوا على الإشارات الفسيولوجية ولم يقيسوا محتوى الأحلام. وتساعد حركة العين ونشاط الدماغ في تمييزها. ووقت ظهورها يختلف عن لحظة بدء النوم وعن مدة النوم الإجمالية. وللمزيد عن الصلة بين هذه المرحلة والوعي، اقرأ [شرح بريزدا لشلل النوم](/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/). [المصدر · www.nhlbi.nih.gov](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف تعمل اللاصقة في المختبر؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجمع اللاصقة المرنة بين أقطاب ترصد النشاط الكهربائي ومكوّن يرسل موجات فوق صوتية مركزة عبر الجمجمة. استهدف الفريق النواة تحت المهاد، وهي بنية عميقة ضمن الشبكات المدروسة. ويفيد الشكل القابل للارتداء في اختبار ثبات الاتصال أثناء رصد الإشارات الليلية. ولا تثبت التجربة أن جهازاً منزلياً يستطيع تحديد الهدف وإعادة النتيجة بأمان. [المصدر · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [المصدر · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا يهم ترتيب الليلتين؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "بدأ جميع المشاركين بالتحفيز الوهمي لأن الباحثين لم يعرفوا إن كانت آثار التحفيز الفعلي قد تستمر إلى ليلة المقارنة. لكن الترتيب الثابت يصعّب فصل أثر الجهاز عن أثر الاعتياد على المختبر في الليلة الثانية. وكان تقصير وقت الوصول إلى المرحلة ذا دلالة إحصائية في المجموعة السليمة والتحليل المجمع. ولم تثبت مجموعة المصابين بأعراض الأرق وحدها فائدة مماثلة. [المصدر · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي تحتاج إليه الدراسات المقبلة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحتاج النتيجة إلى تجارب أكبر للتحقق من تكرارها لدى مجموعات أخرى واستمرارها بعد ليلة واحدة. ومن المهم قياس أثر اللاصقة على نشاط النهار وجودة النوم كما يصفها الشخص، وصعوبة بدء النوم أو استمراره. ويحتاج الأمان ومدى تقبّل الجهاز إلى متابعة أيضاً. وتبين الدراسة إمكانية قياس مرحلة واحدة والتأثير فيها ضمن ظروف البحث، دون إثبات علاج للأرق. [المصدر · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [المصدر · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا قد يخفي المتوسط اختلافات بين الليالي؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يجمع المتوسط نتائج أشخاص يبدأ لديهم نوم حركة العين السريعة في أوقات مختلفة. وتشير الدراسة إلى تفاوت واسع بين الأفراد في كلتا الحالتين. لذلك قد يكون التغير عند بعض المشاركين أقل أو أكبر من المتوسط. كما أن الزيادة البالغة 4.6 نقاط تصف توزيع وقت النوم بين المراحل ولا تكشف وحدها شعور الشخص بالراحة. وتفيد متابعة الأفراد في فهم الأثر العملي. [المصدر · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · www.nature.com",
+        "url": "https://www.nature.com/articles/s41467-026-73787-6"
+      },
+      {
+        "label": "المصدر · www.nature.com",
+        "url": "https://www.nature.com/articles/s41467-026-73787-6_reference.pdf"
+      },
+      {
+        "label": "المصدر · www.nhlbi.nih.gov",
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل نام المشاركون قبل موعدهم بـ43 دقيقة؟",
+        "answer": "الفرق يخص الوقت حتى أول مرحلة من نوم حركة العين السريعة بعد بدء النوم."
+      },
+      {
+        "question": "هل أثبتت الدراسة علاجاً للأرق؟",
+        "answer": "لا. كانت تجربة صغيرة من ليلتين بترتيب ثابت."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/ultrasound-patch-rem-sleep-43-minutes-study/",
+    "path": "/es/articles/ultrasound-patch-rem-sleep-43-minutes-study/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "UN NUEVO PARCHE DE ULTRASONIDOS ADELANTA 43 MINUTOS EL SUEÑO REM",
+    "seoTitle": "Parche de ultrasonidos y sueño REM: qué mostró el estudio",
+    "description": "Un ensayo pequeño midió un inicio más temprano de la primera fase REM. El resultado no demuestra un tratamiento para el insomnio.",
+    "excerpt": "Un ensayo pequeño midió un inicio más temprano de la primera fase REM. El resultado no demuestra un tratamiento para el insomnio.",
+    "headlineHighlights": {
+      "red": "PARCHE DE ULTRASONIDOS",
+      "gold": "43 MINUTOS"
+    },
+    "keywords": [
+      "PARCHE DE ULTRASONIDOS",
+      "43 MINUTOS"
+    ],
+    "searchIntent": "Un ensayo pequeño midió un inicio más temprano de la primera fase REM. El resultado no demuestra un tratamiento para el insomnio.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/ultrasound-patch-rem-sleep-editorial-illustration.jpg",
+      "alt": "Ilustración de una persona dormida con un parche y una pantalla de seguimiento",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un dispositivo experimental llamado NEUSLeeP se asoció a una primera fase de sueño REM más temprana en un estudio pequeño publicado en junio de 2026 en Nature Communications. En los 26 registros válidos, el tiempo medio hasta la primera fase REM pasó de 177 a 134,7 minutos. El equipo resumió la diferencia en unos 43 minutos. La medida corresponde a una fase posterior al inicio del sueño y no significa que los voluntarios se durmieran antes. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué midió el equipo"
+      },
+      {
+        "type": "paragraph",
+        "text": "El estudio incluyó a 28 personas, 16 en el grupo sano y 12 con síntomas de insomnio. Dos registros tenían demasiado ruido y se descartaron. Todos pasaron por una noche de estimulación simulada y otra con ultrasonidos activos, en ese orden. Un especialista clasificó las fases. La proporción en REM subió del 16,3 % al 20,9 %, es decir, 4,6 puntos porcentuales. No se detectaron cambios significativos en la eficiencia general ni en los despertares. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_480]]",
+        "caption": "Medias de los 26 registros válidos",
+        "headings": [
+          "Medida",
+          "Noche simulada",
+          "Noche con ultrasonidos"
+        ],
+        "rows": [
+          [
+            "Tiempo hasta la primera fase REM",
+            "177 min",
+            "134,7 min"
+          ],
+          [
+            "Proporción del sueño en fase REM",
+            "16,3 %",
+            "20,9 %"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "REM es una etapa del ciclo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los sueños vívidos resultan frecuentes en REM, pero el estudio clasificó señales fisiológicas y no analizó el contenido de los sueños. Las mediciones de actividad cerebral y movimientos oculares permiten reconocer la fase. Su llegada, el momento de dormirse y la duración total del sueño son medidas diferentes. El artículo de PRESDA sobre [la parálisis del sueño](/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/) explica otro vínculo entre esa fisiología y la consciencia. [Fuente · www.nhlbi.nih.gov](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)"
+      },
+      {
+        "type": "heading",
+        "text": "Cómo funciona el parche en el laboratorio"
+      },
+      {
+        "type": "paragraph",
+        "text": "El dispositivo flexible combina electrodos para registrar actividad eléctrica con un componente que envía ultrasonidos focalizados a través del cráneo. Los investigadores se dirigieron al núcleo subtalámico, una estructura profunda que forma parte de las redes estudiadas. El formato permite examinar si el contacto permanece estable durante el registro nocturno. El estudio no demuestra que un aparato doméstico pueda localizar el objetivo o reproducir el efecto de forma segura. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué importa el orden de las noches"
+      },
+      {
+        "type": "paragraph",
+        "text": "Todos empezaron con la simulación, pues el equipo no sabía si la estimulación dejaría un efecto residual que alterara una noche de control posterior. El orden fijo dificulta distinguir el efecto del aparato del de dormir por segunda vez en un laboratorio. La reducción del tiempo hasta REM fue estadísticamente significativa en el grupo sano y en conjunto. El grupo con insomnio por sí solo no demostró el mismo beneficio. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué falta para saber si tiene utilidad clínica"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hacen falta estudios más amplios que midan si el resultado se reproduce en otras personas y persiste más de una noche. También conviene medir el funcionamiento durante el día, la calidad percibida y las dificultades para conciliar o mantener el sueño. Quedan por estudiar la seguridad y la tolerancia. Este experimento permite examinar una fase del sueño en condiciones controladas y no establece una terapia para el insomnio. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué la media puede ocultar noches diferentes"
+      },
+      {
+        "type": "paragraph",
+        "text": "La media agrupa a personas que llegan a REM en momentos diferentes. El artículo señala una dispersión amplia en ambas condiciones. El cambio puede ser mucho menor o mayor que la media en cada participante. El aumento de 4,6 puntos describe cómo se distribuyó el tiempo de sueño, pero no indica por sí mismo si alguien se sintió más descansado. Los registros individuales y el seguimiento ayudarían a interpretar el efecto práctico. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · www.nature.com",
+        "url": "https://www.nature.com/articles/s41467-026-73787-6"
+      },
+      {
+        "label": "Fuente · www.nature.com",
+        "url": "https://www.nature.com/articles/s41467-026-73787-6_reference.pdf"
+      },
+      {
+        "label": "Fuente · www.nhlbi.nih.gov",
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Se durmieron los participantes 43 minutos antes?",
+        "answer": "La reducción se refiere al tiempo hasta la primera fase REM, después de dormirse."
+      },
+      {
+        "question": "¿Se ha demostrado un tratamiento para el insomnio?",
+        "answer": "No. El estudio fue pequeño, de dos noches y con un orden fijo."
+      }
+    ],
+    "readingTimeMinutes": 3
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/ultrasound-patch-rem-sleep-43-minutes-study/",
+    "path": "/fr/articles/ultrasound-patch-rem-sleep-43-minutes-study/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-16",
+      "terminologyChecked": true
+    },
+    "title": "UN NOUVEAU PATCH À ULTRASONS AVANCE DE 43 MINUTES LE PREMIER SOMMEIL PARADOXAL",
+    "seoTitle": "Patch à ultrasons et sommeil paradoxal : les résultats de l’étude",
+    "description": "Un petit essai de deux nuits a mesuré une arrivée plus précoce du sommeil paradoxal. Le résultat ne valide pas un traitement de l’insomnie.",
+    "excerpt": "Un petit essai de deux nuits a mesuré une arrivée plus précoce du sommeil paradoxal. Le résultat ne valide pas un traitement de l’insomnie.",
+    "headlineHighlights": {
+      "red": "PATCH À ULTRASONS",
+      "gold": "43 MINUTES"
+    },
+    "keywords": [
+      "PATCH À ULTRASONS",
+      "43 MINUTES"
+    ],
+    "searchIntent": "Un petit essai de deux nuits a mesuré une arrivée plus précoce du sommeil paradoxal. Le résultat ne valide pas un traitement de l’insomnie.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "image": {
+      "src": "/articles/ultrasound-patch-rem-sleep-editorial-illustration.jpg",
+      "alt": "Illustration d’une personne endormie portant un patch près d’un écran",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Le dispositif expérimental NEUSLeeP a été associé à un premier épisode de sommeil paradoxal plus précoce dans une petite étude publiée en juin 2026 dans Nature Communications. Sur 26 enregistrements exploitables, le délai moyen est passé de 177 à 134,7 minutes entre les deux nuits. Les auteurs résument la réduction à environ 43 minutes. La mesure concerne une phase survenant après l’endormissement et ne renseigne pas sur la rapidité avec laquelle les volontaires se sont endormis. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Qu’ont mesuré les chercheurs ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les chercheurs ont recruté 28 personnes, dont 16 dans le groupe en bonne santé et 12 avec des symptômes d’insomnie. Deux enregistrements trop bruités ont été écartés. La première nuit servait de comparaison avec une stimulation simulée. La seconde comportait des ultrasons actifs. Un spécialiste a classé les phases du sommeil. La part du sommeil paradoxal a progressé de 16,3 % à 20,9 %, soit 4,6 points. L’efficacité globale du sommeil et les réveils n’ont pas changé de façon significative. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV16_NEWS_480]]",
+        "caption": "Moyennes des 26 enregistrements exploitables",
+        "headings": [
+          "Mesure",
+          "Nuit témoin",
+          "Nuit avec ultrasons"
+        ],
+        "rows": [
+          [
+            "Délai avant le premier sommeil paradoxal",
+            "177 min",
+            "134,7 min"
+          ],
+          [
+            "Part du sommeil paradoxal",
+            "16,3 %",
+            "20,9 %"
+          ]
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Le sommeil paradoxal est une phase du cycle"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les rêves vifs y sont fréquents, mais les chercheurs ont classé des signaux physiologiques sans mesurer le contenu des rêves. Les mouvements des yeux et l’activité cérébrale aident à repérer cette phase. Son délai d’apparition, la durée totale de sommeil et l’endormissement sont trois mesures distinctes. Le dossier sur [la paralysie du sommeil](/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/) explique un autre lien entre cette phase et la conscience. [Source · www.nhlbi.nih.gov](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment le patch fonctionne-t-il en laboratoire ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le dispositif souple associe des électrodes à un composant qui envoie des ultrasons focalisés à travers le crâne. L’équipe visait le noyau sous-thalamique, une structure profonde liée aux réseaux étudiés. Le format portable permet d’examiner si le contact reste stable assez longtemps pour recueillir les signaux pendant la nuit. Cela ne démontre pas qu’un appareil domestique pourrait trouver la cible et reproduire l’effet en toute sécurité. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "Pourquoi l’ordre des nuits compte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tous les volontaires ont commencé par la stimulation simulée, car l’équipe ignorait si une stimulation active pouvait avoir des effets résiduels. Il devient alors difficile de séparer l’effet éventuel du dispositif de celui d’une deuxième nuit dans un lieu déjà connu. La réduction du délai était statistiquement significative dans le groupe en bonne santé et dans l’analyse globale. Le sous-groupe avec symptômes d’insomnie ne suffit pas à établir le même bénéfice. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Que faudrait-il montrer ensuite ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une étude plus vaste devrait examiner si le résultat se répète dans d’autres groupes et au-delà d’une seule nuit de stimulation. Il faudrait aussi mesurer la qualité ressentie, le fonctionnement pendant la journée et d’éventuels changements dans les difficultés à s’endormir ou à rester endormi. La sécurité et la tolérance demandent également un suivi. Cette expérience porte sur une phase du sommeil en laboratoire. Elle ne valide pas un traitement de l’insomnie. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      },
+      {
+        "type": "subheading",
+        "text": "Pourquoi la moyenne peut masquer des nuits différentes"
+      },
+      {
+        "type": "paragraph",
+        "text": "La moyenne regroupe des personnes qui n’entrent pas en sommeil paradoxal au même moment. L’article fait état d’une dispersion importante dans les deux conditions. Certaines personnes ont donc pu connaître des changements beaucoup plus modestes ou plus marqués que la moyenne. La hausse de 4,6 points décrit la répartition du sommeil entre les phases, sans renseigner à elle seule sur le sentiment de repos. Il faut aussi examiner les trajectoires individuelles. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · www.nature.com",
+        "url": "https://www.nature.com/articles/s41467-026-73787-6"
+      },
+      {
+        "label": "Source · www.nature.com",
+        "url": "https://www.nature.com/articles/s41467-026-73787-6_reference.pdf"
+      },
+      {
+        "label": "Source · www.nhlbi.nih.gov",
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Les participants se sont-ils endormis plus vite ?",
+        "answer": "Les 43 minutes concernent l’arrivée du premier épisode de sommeil paradoxal."
+      },
+      {
+        "question": "L’essai valide-t-il un traitement de l’insomnie ?",
+        "answer": "Non. Il s’agit d’une petite expérience menée sur deux nuits dans un ordre fixe."
+      }
+    ],
+    "readingTimeMinutes": 3
   },
   {
     "locale": "ar",

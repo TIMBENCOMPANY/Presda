@@ -1,0 +1,136 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/ultrasound-patch-rem-sleep-43-minutes-study/",
+  "path": "/es/articles/ultrasound-patch-rem-sleep-43-minutes-study/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-16",
+    "terminologyChecked": true
+  },
+  "title": "UN NUEVO PARCHE DE ULTRASONIDOS ADELANTA 43 MINUTOS EL SUEÑO REM",
+  "seoTitle": "Parche de ultrasonidos y sueño REM: qué mostró el estudio",
+  "description": "Un ensayo pequeño midió un inicio más temprano de la primera fase REM. El resultado no demuestra un tratamiento para el insomnio.",
+  "excerpt": "Un ensayo pequeño midió un inicio más temprano de la primera fase REM. El resultado no demuestra un tratamiento para el insomnio.",
+  "headlineHighlights": {
+    "red": "PARCHE DE ULTRASONIDOS",
+    "gold": "43 MINUTOS"
+  },
+  "keywords": [
+    "PARCHE DE ULTRASONIDOS",
+    "43 MINUTOS"
+  ],
+  "searchIntent": "Un ensayo pequeño midió un inicio más temprano de la primera fase REM. El resultado no demuestra un tratamiento para el insomnio.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "image": {
+    "src": "/articles/ultrasound-patch-rem-sleep-editorial-illustration.jpg",
+    "alt": "Ilustración de una persona dormida con un parche y una pantalla de seguimiento",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un dispositivo experimental llamado NEUSLeeP se asoció a una primera fase de sueño REM más temprana en un estudio pequeño publicado en junio de 2026 en Nature Communications. En los 26 registros válidos, el tiempo medio hasta la primera fase REM pasó de 177 a 134,7 minutos. El equipo resumió la diferencia en unos 43 minutos. La medida corresponde a una fase posterior al inicio del sueño y no significa que los voluntarios se durmieran antes. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué midió el equipo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio incluyó a 28 personas, 16 en el grupo sano y 12 con síntomas de insomnio. Dos registros tenían demasiado ruido y se descartaron. Todos pasaron por una noche de estimulación simulada y otra con ultrasonidos activos, en ese orden. Un especialista clasificó las fases. La proporción en REM subió del 16,3 % al 20,9 %, es decir, 4,6 puntos porcentuales. No se detectaron cambios significativos en la eficiencia general ni en los despertares. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV16_NEWS_480]]",
+      "caption": "Medias de los 26 registros válidos",
+      "headings": [
+        "Medida",
+        "Noche simulada",
+        "Noche con ultrasonidos"
+      ],
+      "rows": [
+        [
+          "Tiempo hasta la primera fase REM",
+          "177 min",
+          "134,7 min"
+        ],
+        [
+          "Proporción del sueño en fase REM",
+          "16,3 %",
+          "20,9 %"
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "REM es una etapa del ciclo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sueños vívidos resultan frecuentes en REM, pero el estudio clasificó señales fisiológicas y no analizó el contenido de los sueños. Las mediciones de actividad cerebral y movimientos oculares permiten reconocer la fase. Su llegada, el momento de dormirse y la duración total del sueño son medidas diferentes. El artículo de PRESDA sobre [la parálisis del sueño](/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/) explica otro vínculo entre esa fisiología y la consciencia. [Fuente · www.nhlbi.nih.gov](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo funciona el parche en el laboratorio"
+    },
+    {
+      "type": "paragraph",
+      "text": "El dispositivo flexible combina electrodos para registrar actividad eléctrica con un componente que envía ultrasonidos focalizados a través del cráneo. Los investigadores se dirigieron al núcleo subtalámico, una estructura profunda que forma parte de las redes estudiadas. El formato permite examinar si el contacto permanece estable durante el registro nocturno. El estudio no demuestra que un aparato doméstico pueda localizar el objetivo o reproducir el efecto de forma segura. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué importa el orden de las noches"
+    },
+    {
+      "type": "paragraph",
+      "text": "Todos empezaron con la simulación, pues el equipo no sabía si la estimulación dejaría un efecto residual que alterara una noche de control posterior. El orden fijo dificulta distinguir el efecto del aparato del de dormir por segunda vez en un laboratorio. La reducción del tiempo hasta REM fue estadísticamente significativa en el grupo sano y en conjunto. El grupo con insomnio por sí solo no demostró el mismo beneficio. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué falta para saber si tiene utilidad clínica"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hacen falta estudios más amplios que midan si el resultado se reproduce en otras personas y persiste más de una noche. También conviene medir el funcionamiento durante el día, la calidad percibida y las dificultades para conciliar o mantener el sueño. Quedan por estudiar la seguridad y la tolerancia. Este experimento permite examinar una fase del sueño en condiciones controladas y no establece una terapia para el insomnio. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué la media puede ocultar noches diferentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "La media agrupa a personas que llegan a REM en momentos diferentes. El artículo señala una dispersión amplia en ambas condiciones. El cambio puede ser mucho menor o mayor que la media en cada participante. El aumento de 4,6 puntos describe cómo se distribuyó el tiempo de sueño, pero no indica por sí mismo si alguien se sintió más descansado. Los registros individuales y el seguimiento ayudarían a interpretar el efecto práctico. [Fuente · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · www.nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-73787-6"
+    },
+    {
+      "label": "Fuente · www.nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-73787-6_reference.pdf"
+    },
+    {
+      "label": "Fuente · www.nhlbi.nih.gov",
+      "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Se durmieron los participantes 43 minutos antes?",
+      "answer": "La reducción se refiere al tiempo hasta la primera fase REM, después de dormirse."
+    },
+    {
+      "question": "¿Se ha demostrado un tratamiento para el insomnio?",
+      "answer": "No. El estudio fue pequeño, de dos noches y con un orden fijo."
+    }
+  ],
+  "readingTimeMinutes": 3
+}

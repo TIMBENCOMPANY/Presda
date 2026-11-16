@@ -28,5 +28,29 @@
     "fr": "Visuel éditorial fourni à PRESDA. L’événement représenté n’a pas été vérifié.",
     "ar": "صورة تحريرية مقدّمة لبريزدا. لم نتأكد من المناسبة الظاهرة فيها.",
     "es": "Imagen editorial facilitada a PRESDA. El acto que muestra no se ha verificado."
+  },
+  "alibaba-qwen4-max-ai-model-launch": {
+    "en": "Editorial illustration supplied for PRESDA. The waves do not represent benchmark scores.",
+    "fr": "Illustration fournie à PRESDA. Les vagues ne représentent pas des scores.",
+    "ar": "رسم تحريري مقدم لبريزدا. الموجات لا تمثل نتائج اختبارات.",
+    "es": "Ilustración facilitada a PRESDA. Las ondas no representan puntuaciones."
+  },
+  "china-ai-education-200-million-students-2030": {
+    "en": "Editorial illustration supplied for PRESDA. It depicts a conceptual classroom.",
+    "fr": "Illustration fournie à PRESDA représentant une salle de classe fictive.",
+    "ar": "رسم تحريري مقدم لبريزدا يجسّد فصلاً تخيلياً.",
+    "es": "Ilustración editorial facilitada a PRESDA. Muestra un aula imaginaria."
+  },
+  "ultrasound-patch-rem-sleep-43-minutes-study": {
+    "en": "Editorial illustration supplied for PRESDA. Patch placement and screen graphics are conceptual.",
+    "fr": "Visuel fourni à PRESDA. La position du patch et l’écran sont imaginaires.",
+    "ar": "رسم تحريري مقدم لبريزدا. موضع اللاصقة وما يظهر على الشاشة تخيّليان.",
+    "es": "Ilustración facilitada a PRESDA. La posición del parche y la pantalla son conceptuales."
+  },
+  "christmas-island-red-crab-migration-roads": {
+    "en": "Editorial illustration supplied for PRESDA. See the park’s 2026 footage for documented views.",
+    "fr": "Illustration fournie à PRESDA. Le parc propose des images documentaires filmées en 2026.",
+    "ar": "رسم تحريري مقدم لبريزدا. ويوفر المنتزه مشاهد موثقة من 2026.",
+    "es": "Ilustración facilitada a PRESDA. El parque ofrece imágenes documentales de 2026."
   }
 }

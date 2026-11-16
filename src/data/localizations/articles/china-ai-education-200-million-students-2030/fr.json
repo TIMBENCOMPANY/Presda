@@ -1,0 +1,137 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/china-ai-education-200-million-students-2030/",
+  "path": "/fr/articles/china-ai-education-200-million-students-2030/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-16",
+    "terminologyChecked": true
+  },
+  "title": "LA CHINE VEUT FORMER 200 MILLIONS D’ÉLÈVES À L’IA D’ICI 2030",
+  "seoTitle": "Le plan chinois de formation à l’IA d’ici 2030",
+  "description": "La Chine vise une culture de l’IA pour tous ses élèves. Les 200 millions correspondent à l’ordre de grandeur des effectifs scolaires.",
+  "excerpt": "La Chine vise une culture de l’IA pour tous ses élèves. Les 200 millions correspondent à l’ordre de grandeur des effectifs scolaires.",
+  "headlineHighlights": {
+    "red": "LA CHINE",
+    "gold": "200 MILLIONS D’ÉLÈVES"
+  },
+  "keywords": [
+    "LA CHINE",
+    "200 MILLIONS D’ÉLÈVES"
+  ],
+  "searchIntent": "La Chine vise une culture de l’IA pour tous ses élèves. Les 200 millions correspondent à l’ordre de grandeur des effectifs scolaires.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "image": {
+    "src": "/articles/china-ai-education-classroom-robotics.jpg",
+    "alt": "Illustration d’élèves travaillant avec un bras robotisé",
+    "width": 1280,
+    "height": 698
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La Chine veut généraliser la culture de l’intelligence artificielle chez les élèves d’ici 2030. Selon Reuters, près de 200 millions d’enfants et d’adolescents sont inscrits dans le primaire et le secondaire. Ce chiffre indique le public concerné et ne recense pas les élèves ayant terminé une formation. Le plan d’avril 2026 vise à intégrer l’IA à l’éducation et à organiser son enseignement à différents âges. [Source · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Source · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+    },
+    {
+      "type": "heading",
+      "text": "Que demande le plan national ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le texte couvre l’école, l’université, la formation professionnelle et l’apprentissage tout au long de la vie. Le ministère privilégie les connaissances de base à l’école, le travail interdisciplinaire à l’université et les compétences pratiques dans la formation professionnelle. Reconnaître une réponse douteuse et déployer un outil de contrôle industriel demandent des compétences différentes. Le plan traite aussi de l’usage de l’IA pour enseigner et évaluer, en plus de l’enseignement de son fonctionnement. [Source · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Source · www.moe.gov.cn](https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV16_NEWS_479]]",
+      "caption": "Objectif national et exemple local",
+      "headings": [
+        "Indicateur",
+        "Ce qu’il mesure"
+      ],
+      "rows": [
+        [
+          "Près de 200 millions",
+          "Élèves du primaire et du secondaire selon Reuters"
+        ],
+        [
+          "2030",
+          "Horizon de la politique nationale"
+        ],
+        [
+          "30 heures par an",
+          "Minimum par niveau à Shanghai selon Reuters"
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "À quoi pourrait ressembler une leçon ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "On peut proposer deux réponses contradictoires à une question familière. Les élèves identifient les affirmations, cherchent de quoi les vérifier et justifient la source qu’ils retiennent. Un autre exercice consiste à noter les erreurs d’un classificateur d’images sur des exemples nouveaux. Dans les deux cas, l’élève doit expliquer ce qu’il a observé. Une réponse bien rédigée ne suffit donc pas à mesurer sa compréhension."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que montrent Shanghai et Pékin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters indique que près de la moitié des provinces et municipalités étudiées ont adopté des plans contraignants. Shanghai exige au moins 30 heures d’enseignement de l’IA par an et par niveau, selon l’agence. Pékin prévoit 100 écoles pilotes. La première mesure porte sur le temps de formation, la seconde sur le nombre d’établissements d’expérimentation. Elles ne décrivent pas l’offre dans une autre région. [Source · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+    },
+    {
+      "type": "subheading",
+      "text": "La formation des enseignants compte autant que l’accès"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il est facile de compter les licences achetées. Il faut davantage de temps pour former les enseignants à choisir les exercices, repérer les erreurs et commenter le travail. Les établissements doivent aussi déterminer quels outils sont adaptés à chaque âge et comment évaluer des travaux réalisés avec leur aide. Les ressources mutualisées facilitent l’accès, mais les besoins de connexion et d’assistance locale restent différents. [Source · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Source · www.moe.gov.cn](https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment juger si le plan fonctionne ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’évaluation peut examiner si un élève sait vérifier une source inventée, expliquer l’échec d’une prédiction ou terminer une tâche en gardant la maîtrise des décisions. Les inscriptions, l’achèvement des cours et les compétences démontrées sont des indicateurs distincts. Les écoles doivent aussi définir qui peut accéder aux données des élèves et combien de temps elles sont gardées. La diffusion de modèles comme [Qwen4-Max d’Alibaba](/articles/alibaba-qwen4-max-ai-model-launch/) donne un enjeu pratique à la vérification des réponses. [Source · www.moe.gov.cn](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Source · www.investing.com](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un accès généralisé peut donner des résultats différents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un même outil peut servir à comparer une réponse avec un manuel ou simplement à rédiger un devoir. Les deux établissements peuvent déclarer avoir utilisé l’IA, mais seul le premier exercice teste directement la vérification. Une évaluation doit donc distinguer la découverte de l’outil, la fréquence d’usage et la compétence acquise. Elle gagne aussi à mesurer l’équipement et l’aide apportée aux enseignants, pour éviter d’attribuer automatiquement au logiciel toute évolution des résultats."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · www.moe.gov.cn",
+      "url": "https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html"
+    },
+    {
+      "label": "Source · www.investing.com",
+      "url": "https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222"
+    },
+    {
+      "label": "Source · www.moe.gov.cn",
+      "url": "https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Les 200 millions constituent-ils un quota officiel ?",
+      "answer": "Reuters les cite comme un ordre de grandeur des effectifs. Le plan vise une culture de l’IA largement partagée d’ici 2030."
+    },
+    {
+      "question": "Les cours seront-ils les mêmes partout ?",
+      "answer": "Les approches locales varient. Le minimum de Shanghai ne vaut pas pour toute la Chine."
+    }
+  ],
+  "readingTimeMinutes": 3
+}

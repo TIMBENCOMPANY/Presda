@@ -771,7 +771,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
                 ? "great-zimbabwe"
                 : article.slug === "republic-bou-regreg-morocco-corsairs-sale" && originalIndex === 16
                   ? "bou-regreg"
-                  : undefined;
+                  : article.slug === "christmas-island-red-crab-migration-roads" && originalIndex === 0
+                    ? "christmas-island-red-crab"
+                    : undefined;
               if (heritagePhoto) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HeritageEvidencePhoto id={heritagePhoto} locale={locale} /></div>;
               const structured = localizedBlocks?.[originalIndex];
               if (article.slug === "mesopotamia-sumer-akkad-babylon-assyria-history" && originalIndex === 8) {

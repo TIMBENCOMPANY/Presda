@@ -1,6 +1,287 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "478",
+    "slug": "alibaba-qwen4-max-ai-model-launch",
+    "title": "ALIBABA LAUNCHES QWEN4-MAX TO CHALLENGE THE WORLD'S TOP AI MODELS",
+    "seoTitle": "Alibaba Qwen4-Max launch and benchmark results",
+    "metaDescription": "Alibaba releases Qwen4-Max with vision and a million-token context window. What do the benchmarks, hosted access and cache price mean?",
+    "excerpt": "Alibaba releases Qwen4-Max with vision and a million-token context window. What do the benchmarks, hosted access and cache price mean?",
+    "category": "AI",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-16",
+    "lastUpdated": "2026-11-16",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/alibaba-qwen4-max-ai-model-illustration.jpg",
+    "coverAlt": "Illustrated Qwen wave rising over a server room alongside rival logos",
+    "headlineHighlights": {
+      "red": "ALIBABA",
+      "gold": "QWEN4-MAX"
+    },
+    "tags": [
+      "ALIBABA",
+      "AI"
+    ],
+    "content": [
+      "Alibaba released Qwen4-Max on November 16, 2026, after a limited preview earlier in the month. Its new flagship combines image input with a context window of one million tokens. Alibaba is pitching it for work that extends beyond a quick prompt, from inspecting charts to maintaining a coding project. The launch gives developers another hosted model to compare with the leading systems. It does not settle which model performs best across all tasks. [Alibaba Cloud](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [TechNode](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)",
+      "## What changed in Qwen4-Max?",
+      "Alibaba reports 2.4 trillion total parameters and 71 billion active for each token. Parameters are learned numerical values that help determine the output. In a sparse mixture-of-experts architecture, a routing mechanism directs each token through selected parts of the network. The larger total describes the overall model, while the smaller number describes how much of that model is active for a token. Neither figure alone tells a customer how long a request will take. Waiting time also depends on input size, requested reasoning effort and service load. [Alibaba Cloud](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)",
+      "[[NOV16_NEWS_478]]",
+      "### What a million tokens can and cannot tell you",
+      "A token is a unit of model input. A word can be split into several tokens, and token counts vary across languages and formats. A long context window can reduce the need to split a document collection into separate requests. For an analyst comparing contracts, that may help keep relevant passages together. Reliability is a separate question. A model can still overlook a clause, misread a table or produce a confident answer without supporting evidence. A useful test puts a known answer in the middle of a long file and checks whether the model cites the right passage.",
+      "## Where the benchmark claims come from",
+      "Alibaba reported sixth place on Code Arena at launch and cited other tests covering visual reasoning and agent workflows. A coding position measures performance under a particular evaluation, at a particular time. It cannot establish how well the system will handle a different repository or a conversation in a different language. Alibaba also said the model used 35% fewer tokens in its high-effort setting and cost roughly 60% less per task than Qwen3.8-Max on Work360, its own benchmark. Those figures describe that comparison, with no guarantee that a customer’s invoice will fall by the same amount. [Alibaba Cloud](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)",
+      "### How to compare agent performance in practice",
+      "A coding agent may call tools repeatedly before it offers an answer. That makes successful completion, permissions and the number of retries more useful measures than a single fluent reply. A team comparing providers can use the same issues, tool access and stopping rules, then run its ordinary test suite on every proposed change. A similar approach works for charts: include an image with known values and check that the answer preserves the unit and reads the correct series.",
+      "## Access, pricing and open weights",
+      "Alibaba lists the QwenCloud API and Token Plan, along with QwenWork and QwenStudio. Its highlighted US$0.075 per million tokens is specifically an implicit-cache-hit input rate. That term applies when the service can reuse eligible input it has already processed. A new request may include fresh input and generated output priced under other categories. Teams evaluating a move should check their region and the complete rate card and measure cost per successful task. [Alibaba Cloud](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [TechNode](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)",
+      "The Max model is offered as a hosted service with closed weights. Alibaba separately says it plans smaller Qwen4 models with downloadable weights. That distinction matters for organisations that need to operate a model on their own infrastructure. For the physical side of the market, see [how Samsung is investing in AI data centers](/articles/samsung-ai-data-center-expansion/). [Alibaba Cloud](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [The Next Web](https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights)",
+      "### What to verify before switching a production workflow",
+      "Treat the launch as the start of an evaluation. First record the exact model and reasoning setting used, so a retest can identify an actual change rather than a different configuration. Compare total response time, failure rate and output quality across several attempts, since one task can succeed by chance. Check how often your real prompts reuse the same prefix before estimating cache savings. Finally, decide what happens when an answer is incomplete: a model that generates a long report quickly may offer less value than one that consistently points to the passages a human reviewer needs."
+    ],
+    "references": [
+      {
+        "name": "Alibaba Cloud",
+        "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1"
+      },
+      {
+        "name": "TechNode",
+        "url": "https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/"
+      },
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
+      }
+    ],
+    "relatedSlugs": [
+      "samsung-ai-data-center-expansion"
+    ],
+    "faq": [
+      {
+        "question": "Is Qwen4-Max open-weight?",
+        "answer": "The flagship is hosted with closed weights. Alibaba has announced plans for smaller open-weight models."
+      },
+      {
+        "question": "What does one million tokens mean?",
+        "answer": "It is the advertised maximum context capacity. It is not a word count or a guarantee of accurate recall."
+      }
+    ],
+    "readingTime": "4 min read"
+  },
+  {
+    "id": "479",
+    "slug": "china-ai-education-200-million-students-2030",
+    "title": "CHINA WANTS 200 MILLION STUDENTS TO LEARN AI BY 2030",
+    "seoTitle": "China’s 2030 AI education plan for schools",
+    "metaDescription": "China aims to make AI literacy universal among schoolchildren by 2030. Here is what nearly 200 million students means for classrooms.",
+    "excerpt": "China aims to make AI literacy universal among schoolchildren by 2030. Here is what nearly 200 million students means for classrooms.",
+    "category": "World",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-16",
+    "lastUpdated": "2026-11-16",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/china-ai-education-classroom-robotics.jpg",
+    "coverAlt": "Illustration of students working with a robotic arm in a classroom",
+    "headlineHighlights": {
+      "red": "CHINA",
+      "gold": "200 MILLION STUDENTS"
+    },
+    "tags": [
+      "CHINA",
+      "World"
+    ],
+    "content": [
+      "China wants AI literacy to reach its schoolchildren by 2030. The country counts nearly 200 million students in primary and secondary education, Reuters reported after visiting schools and reviewing provincial plans. The number gives the scale of the effort. It is an enrolment estimate, rather than a government tally of pupils who have completed a course. The April 2026 action plan seeks to integrate AI throughout education and establish a system for teaching it across age groups. [Chinese Ministry of Education action plan](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Reuters classroom reporting](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)",
+      "## What the national plan asks schools to do",
+      "The plan covers primary and secondary schools, universities, vocational training and lifelong learning. The ministry describes a different priority at each level: basic literacy in schools, work across disciplines at universities, and practical skills in vocational education. This matters because recognising when a chatbot is unreliable is a different skill from training a model or using one to inspect manufactured goods. The policy also covers using AI in teaching and assessment, which is distinct from teaching students how AI works. [Chinese Ministry of Education action plan](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Ministry of Education implementation briefing](https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html)",
+      "[[NOV16_NEWS_479]]",
+      "### What AI literacy might look like in class",
+      "A lesson can start with a familiar question and two conflicting chatbot answers. Students can identify the claim each answer makes, look for corroborating evidence and explain which source they trust. Another class could test an image classifier with new examples and record which images it mislabels. Both exercises make students explain the result. Handing in a polished answer would reveal much less about whether they understood the system. This distinction matters when schools use the same tools to help teachers assess the work.",
+      "## What Shanghai and Beijing show about implementation",
+      "Reuters found that nearly half of the provinces and municipalities it reviewed had rolled out binding plans. It reported that Shanghai requires at least 30 hours of AI instruction a year per grade. Beijing plans 100 pilot demonstration schools. One measure is a minimum amount of instructional time, while the other is a network of sites where approaches can be tried. Neither tells us what a student in a different locality receives, or whether an hour of instruction has the same content across schools. [Reuters classroom reporting](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)",
+      "### Why teacher training matters as much as access",
+      "Buying a platform can be counted quickly. Preparing a teacher to choose a good exercise, spot errors and give meaningful feedback takes longer. Schools also need decisions about which tools pupils can use by age and how classroom work should be evaluated when AI assistance is allowed. Shared teaching material can make lessons easier to access. It cannot by itself provide reliable connectivity or local support to every school. The ministry’s plans emphasise institutional capacity and teacher development as well as digital services. [Chinese Ministry of Education action plan](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Ministry of Education implementation briefing](https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html)",
+      "## What will tell us whether the plan is working?",
+      "The strongest evidence would show what students can do after the lessons: check an invented citation, explain why a prediction failed or complete a task without handing the judgment to a chatbot. Participation can be measured separately from proficiency. Reporting enrolment, course completion and demonstrated skills as distinct results would make comparisons clearer. Schools using AI to analyse student activity face another question about who may access the data and how long it is retained. The spread of tools such as [Alibaba’s Qwen4-Max](/articles/alibaba-qwen4-max-ai-model-launch/) helps explain why verifying an AI answer is now a classroom skill. [Chinese Ministry of Education action plan](https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html) [Reuters classroom reporting](https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222)",
+      "### How wide access could produce different outcomes",
+      "The same tool could support very different lessons. In one classroom, a teacher might ask pupils to explain why an answer is wrong after comparing it with their textbook. In another, pupils might use the tool mainly to draft a response. Both schools could report that AI was used, although only the first exercise directly tests verification. That is why an evaluation needs to distinguish exposure, frequency of use and the skill gained. It should also account for differences in equipment and teacher support, so changes in scores are not automatically credited to the software."
+    ],
+    "references": [
+      {
+        "name": "Chinese Ministry of Education action plan",
+        "url": "https://www.moe.gov.cn/srcsite/A16/s3342/202604/t20260410_1433240.html"
+      },
+      {
+        "name": "Reuters classroom reporting",
+        "url": "https://www.investing.com/news/world-news/inside-chinas-drive-to-build-an-ainative-generation-5028222"
+      },
+      {
+        "name": "Ministry of Education implementation briefing",
+        "url": "https://www.moe.gov.cn/jyb_xwfb/s271/202604/t20260410_1433232.html"
+      }
+    ],
+    "relatedSlugs": [
+      "alibaba-qwen4-max-ai-model-launch"
+    ],
+    "faq": [
+      {
+        "question": "Does China have an official target of exactly 200 million students?",
+        "answer": "The number is Reuters’ approximate primary and secondary enrolment figure. The policy goal is broad AI literacy and integration by 2030."
+      },
+      {
+        "question": "Does each pupil take the same course?",
+        "answer": "Local plans vary. Shanghai’s reported hours should not be treated as a nationwide minimum."
+      }
+    ],
+    "readingTime": "4 min read"
+  },
+  {
+    "id": "480",
+    "slug": "ultrasound-patch-rem-sleep-43-minutes-study",
+    "title": "NEW ULTRASOUND PATCH HELPS PEOPLE REACH DREAM SLEEP 43 MINUTES FASTER",
+    "seoTitle": "Ultrasound patch study: first REM sleep 43 minutes earlier",
+    "metaDescription": "In a small two-night study, an experimental ultrasound patch shifted first REM sleep earlier. The result does not establish an insomnia treatment.",
+    "excerpt": "In a small two-night study, an experimental ultrasound patch shifted first REM sleep earlier. The result does not establish an insomnia treatment.",
+    "category": "Science",
+    "schemaType": "Article",
+    "date": "2026-11-16",
+    "lastUpdated": "2026-11-16",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/ultrasound-patch-rem-sleep-editorial-illustration.jpg",
+    "coverAlt": "Concept illustration of a sleeping person with a wearable patch and a monitoring screen",
+    "headlineHighlights": {
+      "red": "ULTRASOUND PATCH",
+      "gold": "43 MINUTES FASTER"
+    },
+    "tags": [
+      "ULTRASOUND PATCH",
+      "Science"
+    ],
+    "content": [
+      "An experimental wearable called NEUSLeeP was associated with an earlier first bout of rapid eye movement, or REM, sleep in a small study published in Nature Communications in June 2026. Across 26 usable recordings compared between nights, average time to first REM fell from 177 minutes to 134.7 minutes. The authors reported the change as about 43 minutes. It concerns the timing of a specific stage after sleep begins. It does not mean that people fell asleep 43 minutes sooner. [Nature Communications study](https://www.nature.com/articles/s41467-026-73787-6) [Study methods and figures](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)",
+      "## What the researchers actually measured",
+      "The team enrolled 28 people, including 16 in a healthy group and 12 in a group with insomnia symptoms. Two participants’ sleep records were too noisy to use. On the first night, participants underwent a sham condition. On the second, they received active focused ultrasound. A trained sleep specialist scored the recordings. The share of total sleep spent in REM rose from 16.3% to 20.9%, a rise of 4.6 percentage points. The study found no significant changes in overall sleep efficiency or awakenings. [Study methods and figures](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)",
+      "[[NOV16_NEWS_480]]",
+      "### REM sleep is one stage of a cycle",
+      "REM is associated with vivid dreams, but the researchers measured sleep stages, rather than what participants dreamed about. Specialists recognise stages from physiological signals such as brain activity and eye movements. A first REM episode is different from the moment a person first falls asleep and from the amount of time they remain asleep. This is why results on the timing and duration of REM cannot substitute for measures of insomnia symptoms or daytime function. [PRESDA’s guide to sleep paralysis](/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/) explains another way that REM physiology and awareness can overlap. [NIH guide to sleep stages](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)",
+      "## How the patch works in the laboratory",
+      "The flexible device combines electrodes that record electrical activity with a component that delivers focused ultrasound through the skull. The researchers aimed the ultrasound at the subthalamic nucleus, a deep structure involved in networks they were investigating. The wearable format addresses a practical engineering question: can researchers keep the interface stable long enough to collect signals while someone sleeps? The study tests that approach under research conditions. Its results do not establish that a home wearable can locate the target or safely reproduce the effect without oversight. [Nature Communications study](https://www.nature.com/articles/s41467-026-73787-6) [Study methods and figures](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)",
+      "### Why the two-night order matters",
+      "Everyone had the sham session first. The researchers chose that order because they did not know whether effects from the active session might carry over into a later sham night. The trade-off is that the effect of the patch cannot be cleanly separated from an effect of sleeping in the lab for a second night. A larger study could account for that with a design suited to testing carryover, randomisation and additional nights. The reduction in REM latency was statistically significant in the healthy subgroup and in the combined analysis. The insomnia subgroup alone did not establish a clear timing benefit. [Study methods and figures](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)",
+      "## What would make the finding clinically useful?",
+      "A follow-up would need to test whether the effect repeats across independent groups and persists beyond a single active night. Practical outcomes would include daytime functioning, perceived sleep quality and whether people actually have less difficulty getting to sleep or staying asleep. Safety, tolerability and targeting would also need further study. This experiment provides evidence that researchers could measure and influence one part of sleep in a controlled setting. It does not establish an insomnia therapy. [Nature Communications study](https://www.nature.com/articles/s41467-026-73787-6) [Study methods and figures](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)",
+      "### Why the same average can hide different nights",
+      "An average compresses records from people who enter REM at different times. The paper reports a wide spread in first-REM timing under both conditions. A mean that shifts by 43 minutes is therefore compatible with much smaller changes for some participants and bigger changes for others. The 4.6-point rise in REM share is another separate measure. It tells us how the recorded sleep time was distributed across stages. It cannot establish by itself that participants felt more rested. Individual records and follow-up outcomes are necessary to judge the practical significance. [Study methods and figures](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    ],
+    "references": [
+      {
+        "name": "Nature Communications study",
+        "url": "https://www.nature.com/articles/s41467-026-73787-6"
+      },
+      {
+        "name": "Study methods and figures",
+        "url": "https://www.nature.com/articles/s41467-026-73787-6_reference.pdf"
+      },
+      {
+        "name": "NIH guide to sleep stages",
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+      }
+    ],
+    "relatedSlugs": [
+      "sleep-paralysis-when-you-wake-up-but-cannot-move"
+    ],
+    "faq": [
+      {
+        "question": "Did people fall asleep 43 minutes sooner?",
+        "answer": "The reported change was in the time to first REM, not sleep onset."
+      },
+      {
+        "question": "Did the trial show a treatment for insomnia?",
+        "answer": "No. The small, fixed-order experiment did not establish clinical benefit for insomnia."
+      }
+    ],
+    "readingTime": "4 min read"
+  },
+  {
+    "id": "481",
+    "slug": "christmas-island-red-crab-migration-roads",
+    "title": "MILLIONS OF RED CRABS TURN AUSTRALIAN ISLAND ROADS INTO A SEA OF RED",
+    "seoTitle": "Christmas Island red crab migration: rainfall, tides and roads",
+    "metaDescription": "Millions of red crabs cross Australia’s Christmas Island to breed. How rain and tides set the timing and why roads close during the migration.",
+    "excerpt": "Millions of red crabs cross Australia’s Christmas Island to breed. How rain and tides set the timing and why roads close during the migration.",
+    "category": "World",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-16",
+    "lastUpdated": "2026-11-16",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/christmas-island-red-crab-migration-road.jpg",
+    "coverAlt": "Illustration of red crabs covering a wet forest road beside a crab crossing sign",
+    "headlineHighlights": {
+      "red": "RED CRABS",
+      "gold": "SEA OF RED"
+    },
+    "tags": [
+      "RED CRABS",
+      "World"
+    ],
+    "content": [
+      "On Australia’s Christmas Island in the Indian Ocean, a journey that begins in forest burrows can bring traffic to a stop. Millions of Christmas Island red crabs, Gecarcoidea natalis, travel to the sea to breed. Some routes cross paved roads, where the animals can cover the carriageway. Parks Australia scheduled a November 16 livestream for its 2026 coverage. The park describes a population on the order of 100 million, a broad estimate of abundance rather than a headcount of animals on a road. [Parks Australia migration guide](https://christmasislandnationalpark.gov.au/red-crab-migration/) [Parks Australia 2026 livestreams](https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/)",
+      "## Why red crabs walk from forest to sea",
+      "These are land crabs that depend on the ocean to reproduce. The first wet-season rains usually set the migration in motion in October or November, although it can start later. Wet conditions help a creature that spends much of the year in a humid forest make the exposed journey. The road is simply in the way. Crabs are moving toward coastal breeding sites, not seeking asphalt or human settlements. [Parks Australia migration guide](https://christmasislandnationalpark.gov.au/red-crab-migration/)",
+      "[[NOV16_NEWS_481]]",
+      "### Rain starts the journey and tides set another deadline",
+      "Males commonly reach the coast first, take a dip and dig burrows near the shore. After mating, females remain in the burrows while their eggs develop. Parks Australia describes egg release in the hours before dawn on a receding high tide around the last-quarter moon. That is a different event from the first adult road crossings. An early rainy spell can help crabs move, but someone arriving then should not assume they will also see egg release. [Parks Australia migration guide](https://christmasislandnationalpark.gov.au/red-crab-migration/)",
+      "## What happens after the eggs reach the water",
+      "Larvae develop at sea before the surviving young come ashore as tiny crabs and begin heading inland. The return can create another wave across the landscape, this time on a much smaller scale per animal. Many larvae do not survive. A spectacular return in one year does not tell us that every breeding season produces the same result, and the timing of an adult march does not describe the abundance of young the following weeks. [Parks Australia migration guide](https://christmasislandnationalpark.gov.au/red-crab-migration/)",
+      "### How roads are managed during the migration",
+      "Temporary road closures and purpose-built bridges help the crabs get past traffic. Closures can change at short notice as animals move. Parks Australia tells visitors to check the Road Access Board or the visitor centre and follow directions from staff. Even if a road was open the day before, that does not mean it can be driven today. The park’s own livestreams offer a view for people following from elsewhere. [Parks Australia migration guide](https://christmasislandnationalpark.gov.au/red-crab-migration/) [Parks Australia 2026 livestreams](https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/) [Parks Australia road guidance](https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/)",
+      "## Why protecting the crabs protects the forest",
+      "Red crabs turn over leaf litter and help return nutrients to the soil. Invasive yellow crazy ants can kill them in areas where the ants form dense colonies. The park has worked on biological control aimed at the scale insects whose honeydew feeds the ants. Parks Australia reports fewer scale insects but says the impact on the ant supercolonies was still uncertain in its description of the programme. A large migration is an important sight, but it cannot alone show how every part of the island is faring. For another example of how geography shapes conservation, see [the identification of two Amazon howler monkey species](/articles/two-new-amazon-howler-monkey-species/). [Parks Australia invasive ant programme](https://christmasislandnationalpark.gov.au/discover/nature/conservation/yellow-crazy-ant-biocontrol/)",
+      "### Where to look and what you may see",
+      "The national park lists Drumsite, Flying Fish Cove, Ethel Beach and Greta Beach among the easiest places to observe different stages. Choose a location based on what is happening that week. Moving adults can be visible well inland, where people are less likely to see the release of eggs. A spawning location may be quiet between suitable tides even when thousands of crabs are close by. This is one reason the park distinguishes the expected spawning window from road conditions and publishes updates alongside its migration guide. [Parks Australia migration guide](https://christmasislandnationalpark.gov.au/red-crab-migration/) [Parks Australia road guidance](https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/)"
+    ],
+    "references": [
+      {
+        "name": "Parks Australia migration guide",
+        "url": "https://christmasislandnationalpark.gov.au/red-crab-migration/"
+      },
+      {
+        "name": "Parks Australia 2026 livestreams",
+        "url": "https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/"
+      },
+      {
+        "name": "Parks Australia invasive ant programme",
+        "url": "https://christmasislandnationalpark.gov.au/discover/nature/conservation/yellow-crazy-ant-biocontrol/"
+      },
+      {
+        "name": "Parks Australia road guidance",
+        "url": "https://christmasislandnationalpark.gov.au/plan/getting-here/getting-around/"
+      }
+    ],
+    "relatedSlugs": [
+      "two-new-amazon-howler-monkey-species"
+    ],
+    "faq": [
+      {
+        "question": "When does the migration normally start?",
+        "answer": "With the first wet-season rainfall, commonly in October or November, although it may be later."
+      },
+      {
+        "question": "Why do roads close?",
+        "answer": "The crabs cross them on the way to and from the coast. Closures and bridges reduce the risk of animals being run over."
+      }
+    ],
+    "readingTime": "4 min read"
+  },
+  {
     "id": "475",
     "slug": "samsung-ai-data-center-expansion",
     "title": "SAMSUNG EXPANDS BEYOND CHIPS TO BUILD AN AI DATA CENTER EMPIRE",

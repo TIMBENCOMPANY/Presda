@@ -1,0 +1,136 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/ultrasound-patch-rem-sleep-43-minutes-study/",
+  "path": "/fr/articles/ultrasound-patch-rem-sleep-43-minutes-study/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-16",
+    "terminologyChecked": true
+  },
+  "title": "UN NOUVEAU PATCH À ULTRASONS AVANCE DE 43 MINUTES LE PREMIER SOMMEIL PARADOXAL",
+  "seoTitle": "Patch à ultrasons et sommeil paradoxal : les résultats de l’étude",
+  "description": "Un petit essai de deux nuits a mesuré une arrivée plus précoce du sommeil paradoxal. Le résultat ne valide pas un traitement de l’insomnie.",
+  "excerpt": "Un petit essai de deux nuits a mesuré une arrivée plus précoce du sommeil paradoxal. Le résultat ne valide pas un traitement de l’insomnie.",
+  "headlineHighlights": {
+    "red": "PATCH À ULTRASONS",
+    "gold": "43 MINUTES"
+  },
+  "keywords": [
+    "PATCH À ULTRASONS",
+    "43 MINUTES"
+  ],
+  "searchIntent": "Un petit essai de deux nuits a mesuré une arrivée plus précoce du sommeil paradoxal. Le résultat ne valide pas un traitement de l’insomnie.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "image": {
+    "src": "/articles/ultrasound-patch-rem-sleep-editorial-illustration.jpg",
+    "alt": "Illustration d’une personne endormie portant un patch près d’un écran",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le dispositif expérimental NEUSLeeP a été associé à un premier épisode de sommeil paradoxal plus précoce dans une petite étude publiée en juin 2026 dans Nature Communications. Sur 26 enregistrements exploitables, le délai moyen est passé de 177 à 134,7 minutes entre les deux nuits. Les auteurs résument la réduction à environ 43 minutes. La mesure concerne une phase survenant après l’endormissement et ne renseigne pas sur la rapidité avec laquelle les volontaires se sont endormis. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Qu’ont mesuré les chercheurs ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les chercheurs ont recruté 28 personnes, dont 16 dans le groupe en bonne santé et 12 avec des symptômes d’insomnie. Deux enregistrements trop bruités ont été écartés. La première nuit servait de comparaison avec une stimulation simulée. La seconde comportait des ultrasons actifs. Un spécialiste a classé les phases du sommeil. La part du sommeil paradoxal a progressé de 16,3 % à 20,9 %, soit 4,6 points. L’efficacité globale du sommeil et les réveils n’ont pas changé de façon significative. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV16_NEWS_480]]",
+      "caption": "Moyennes des 26 enregistrements exploitables",
+      "headings": [
+        "Mesure",
+        "Nuit témoin",
+        "Nuit avec ultrasons"
+      ],
+      "rows": [
+        [
+          "Délai avant le premier sommeil paradoxal",
+          "177 min",
+          "134,7 min"
+        ],
+        [
+          "Part du sommeil paradoxal",
+          "16,3 %",
+          "20,9 %"
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Le sommeil paradoxal est une phase du cycle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les rêves vifs y sont fréquents, mais les chercheurs ont classé des signaux physiologiques sans mesurer le contenu des rêves. Les mouvements des yeux et l’activité cérébrale aident à repérer cette phase. Son délai d’apparition, la durée totale de sommeil et l’endormissement sont trois mesures distinctes. Le dossier sur [la paralysie du sommeil](/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/) explique un autre lien entre cette phase et la conscience. [Source · www.nhlbi.nih.gov](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment le patch fonctionne-t-il en laboratoire ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dispositif souple associe des électrodes à un composant qui envoie des ultrasons focalisés à travers le crâne. L’équipe visait le noyau sous-thalamique, une structure profonde liée aux réseaux étudiés. Le format portable permet d’examiner si le contact reste stable assez longtemps pour recueillir les signaux pendant la nuit. Cela ne démontre pas qu’un appareil domestique pourrait trouver la cible et reproduire l’effet en toute sécurité. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi l’ordre des nuits compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tous les volontaires ont commencé par la stimulation simulée, car l’équipe ignorait si une stimulation active pouvait avoir des effets résiduels. Il devient alors difficile de séparer l’effet éventuel du dispositif de celui d’une deuxième nuit dans un lieu déjà connu. La réduction du délai était statistiquement significative dans le groupe en bonne santé et dans l’analyse globale. Le sous-groupe avec symptômes d’insomnie ne suffit pas à établir le même bénéfice. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Que faudrait-il montrer ensuite ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude plus vaste devrait examiner si le résultat se répète dans d’autres groupes et au-delà d’une seule nuit de stimulation. Il faudrait aussi mesurer la qualité ressentie, le fonctionnement pendant la journée et d’éventuels changements dans les difficultés à s’endormir ou à rester endormi. La sécurité et la tolérance demandent également un suivi. Cette expérience porte sur une phase du sommeil en laboratoire. Elle ne valide pas un traitement de l’insomnie. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6) [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi la moyenne peut masquer des nuits différentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "La moyenne regroupe des personnes qui n’entrent pas en sommeil paradoxal au même moment. L’article fait état d’une dispersion importante dans les deux conditions. Certaines personnes ont donc pu connaître des changements beaucoup plus modestes ou plus marqués que la moyenne. La hausse de 4,6 points décrit la répartition du sommeil entre les phases, sans renseigner à elle seule sur le sentiment de repos. Il faut aussi examiner les trajectoires individuelles. [Source · www.nature.com](https://www.nature.com/articles/s41467-026-73787-6_reference.pdf)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · www.nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-73787-6"
+    },
+    {
+      "label": "Source · www.nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-73787-6_reference.pdf"
+    },
+    {
+      "label": "Source · www.nhlbi.nih.gov",
+      "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Les participants se sont-ils endormis plus vite ?",
+      "answer": "Les 43 minutes concernent l’arrivée du premier épisode de sommeil paradoxal."
+    },
+    {
+      "question": "L’essai valide-t-il un traitement de l’insomnie ?",
+      "answer": "Non. Il s’agit d’une petite expérience menée sur deux nuits dans un ordre fixe."
+    }
+  ],
+  "readingTimeMinutes": 3
+}

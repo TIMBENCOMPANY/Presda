@@ -8,6 +8,101 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV16_NEWS_478]]": {
+    "caption": "Alibaba’s published launch specifications",
+    "headers": [
+      "Metric",
+      "Reported value"
+    ],
+    "rows": [
+      [
+        "Total parameters",
+        "2.4 trillion"
+      ],
+      [
+        "Active parameters per token",
+        "71 billion"
+      ],
+      [
+        "Context window",
+        "1 million tokens"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV16_NEWS_479]]": {
+    "caption": "National ambition and local examples",
+    "headers": [
+      "Scope",
+      "What it measures"
+    ],
+    "rows": [
+      [
+        "Nearly 200 million",
+        "Primary and secondary enrolment cited by Reuters"
+      ],
+      [
+        "2030",
+        "National integration target"
+      ],
+      [
+        "30 hours a year",
+        "Shanghai requirement per grade, as reported by Reuters"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV16_NEWS_480]]": {
+    "caption": "Study means across 26 usable sleep recordings",
+    "headers": [
+      "Measure",
+      "Sham night",
+      "Active ultrasound night"
+    ],
+    "rows": [
+      [
+        "Time to first REM",
+        "177 min",
+        "134.7 min"
+      ],
+      [
+        "Share of sleep in REM",
+        "16.3%",
+        "20.9%"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV16_NEWS_481]]": {
+    "caption": "From forest burrows to the sea and back",
+    "headers": [
+      "Stage",
+      "Typical trigger or location"
+    ],
+    "rows": [
+      [
+        "Adult migration",
+        "First sustained wet-season rains"
+      ],
+      [
+        "Egg release",
+        "Receding high tide near the last-quarter moon"
+      ],
+      [
+        "Young crabs return",
+        "After a larval phase in the sea"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV15_NEWS_475]]": {
     "caption": "Three figures behind Samsung’s expansion",
     "headers": [

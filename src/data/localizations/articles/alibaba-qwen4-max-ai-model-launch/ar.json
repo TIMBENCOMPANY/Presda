@@ -1,0 +1,141 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/alibaba-qwen4-max-ai-model-launch/",
+  "path": "/ar/articles/alibaba-qwen4-max-ai-model-launch/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-16",
+    "terminologyChecked": true
+  },
+  "title": "علي بابا تطلق Qwen4-Max لمنافسة أقوى نماذج الذكاء الاصطناعي في العالم",
+  "seoTitle": "إطلاق Qwen4-Max من علي بابا ومواصفاته وأسعاره",
+  "description": "أطلقت علي بابا نموذج Qwen4-Max القادر على تحليل الصور بنافذة سياق تبلغ مليون رمز. إليك معنى الأرقام وطريقة الوصول.",
+  "excerpt": "أطلقت علي بابا نموذج Qwen4-Max القادر على تحليل الصور بنافذة سياق تبلغ مليون رمز. إليك معنى الأرقام وطريقة الوصول.",
+  "headlineHighlights": {
+    "red": "علي بابا",
+    "gold": "Qwen4-Max"
+  },
+  "keywords": [
+    "علي بابا",
+    "Qwen4-Max"
+  ],
+  "searchIntent": "أطلقت علي بابا نموذج Qwen4-Max القادر على تحليل الصور بنافذة سياق تبلغ مليون رمز. إليك معنى الأرقام وطريقة الوصول.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "image": {
+    "src": "/articles/alibaba-qwen4-max-ai-model-illustration.jpg",
+    "alt": "رسم لموجة تحمل شعار كوين فوق خوادم وبجوار شعارات منافسين",
+    "width": 1280,
+    "height": 543
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "أطلقت علي بابا نموذج Qwen4-Max في 16 نوفمبر 2026 بعد إتاحته لفترة محدودة في وقت سابق من الشهر. ويجمع النموذج بين تحليل الصور ونافذة سياق تبلغ مليون رمز. وتطرحه الشركة لمهام تستغرق أكثر من إجابة سريعة، مثل قراءة رسوم بيانية أو العمل على مشروع برمجي. ويضيف الإطلاق خدمة جديدة يمكن مقارنتها بالنماذج الرائدة. [المصدر · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [المصدر · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي تغير في بنية النموذج؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تقول الشركة إن للنموذج 2.4 تريليون معامل إجمالاً، ويُفعّل 71 ملياراً منها لكل رمز. والمعاملات قيم عددية يتعلمها النظام وتؤثر في إجاباته. وتوجه بنية مزيج الخبراء كل رمز إلى أجزاء مختارة من الشبكة. يشير الرقم الأكبر إلى الحجم الإجمالي، فيما يصف الأصغر مقدار ما يُستخدم في معالجة رمز واحد. وتقاس سرعة الاستجابة أيضاً بطول المدخلات والجهد الحسابي وحجم الطلب على الخدمة. [المصدر · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV16_NEWS_478]]",
+      "caption": "المواصفات التي أعلنتها علي بابا",
+      "headings": [
+        "المؤشر",
+        "القيمة المعلنة"
+      ],
+      "rows": [
+        [
+          "إجمالي المعاملات",
+          "2.4 تريليون"
+        ],
+        [
+          "المعاملات النشطة لكل رمز",
+          "71 ملياراً"
+        ],
+        [
+          "نافذة السياق",
+          "مليون رمز"
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "ماذا تعني نافذة المليون رمز؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "الرمز وحدة لمعالجة المدخلات ويختلف عدده باختلاف اللغة والصيغة. وقد تسهّل النافذة الواسعة قراءة مجموعة عقود في طلب واحد. لكن استيعاب المستندات لا يضمن العثور على البند الصحيح أو فهم الجدول. ومن طرق الاختبار وضع معلومة معروفة في وسط مستند طويل ثم التحقق من إشارة النموذج إلى الفقرة التي تدعم إجابته."
+    },
+    {
+      "type": "heading",
+      "text": "كيف نقرأ نتائج الاختبارات؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "أفادت علي بابا بأن النموذج حل سادساً في Code Arena عند الإطلاق. وتقيس تلك المرتبة أداءه وفق قواعد محددة وفي وقت معين. وقد تختلف النتائج عند فحص مشروع آخر أو لغة أخرى. كما ذكرت الشركة أن الاستهلاك انخفض 35٪ وأن متوسط تكلفة المهمة تراجع بنحو 60٪ مقارنة بـQwen3.8-Max في وضع الاستدلال المكثف ضمن اختبارها Work360. ولا تنطبق هذه النسب تلقائياً على كل عميل. [المصدر · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+    },
+    {
+      "type": "subheading",
+      "text": "اختبار الوكيل على نتيجة قابلة للتحقق"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يستخدم الوكيل البرمجي عدة أدوات قبل أن يقترح تعديلاً. ويمكن مقارنة نموذجين بإعطائهما المشكلات نفسها والأدوات نفسها، ثم قياس النجاح في اختبارات المشروع وعدد المحاولات. وفي الرسوم البيانية يمكن التحقق من قراءة القيم المعروفة والتأكد من اختيار السلسلة والوحدة الصحيحتين."
+    },
+    {
+      "type": "heading",
+      "text": "الوصول إلى النموذج والأسعار"
+    },
+    {
+      "type": "paragraph",
+      "text": "تعرض الشركة واجهة برمجية وباقة رموز عبر QwenCloud، وتذكر أيضاً QwenWork وQwenStudio. ويخص سعر 0.075 دولار لكل مليون رمز المدخلات المؤهلة لإعادة الاستخدام من الذاكرة المؤقتة الضمنية. وقد يكون للمدخلات الجديدة والمخرجات سعر مختلف. لذلك يفيد قياس التكلفة لكل مهمة مكتملة ومراجعة جدول الأسعار كاملاً. [المصدر · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [المصدر · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تُقدّم الشركة النموذج الأبرز كخدمة مستضافة بأوزان مغلقة. وتعتزم إتاحة نماذج أصغر من عائلة Qwen4 بأوزان قابلة للتنزيل. وهذا مهم للمؤسسات التي تحتاج إلى تشغيل النماذج داخل بنيتها التحتية. اقرأ أيضاً [استثمارات سامسونغ في مراكز بيانات الذكاء الاصطناعي](/articles/samsung-ai-data-center-expansion/). [المصدر · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [المصدر · thenextweb.com](https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights)"
+    },
+    {
+      "type": "subheading",
+      "text": "ما الذي يستحق الاختبار قبل نقل العمل إلى النموذج؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يفيد تسجيل إصدار النموذج وإعداد الاستدلال بدقة كي تكون المقارنة قابلة للتكرار. ويمكن قياس زمن الإجابة ونسبة الإخفاق وجودة النتائج عبر محاولات متعددة على المستندات نفسها. ولا يُقدّر وفر الذاكرة المؤقتة إلا بعد معرفة مدى تكرار المدخلات الفعلية. كما ينبغي قياس الوقت الذي يحتاج إليه المراجع للتحقق من الإجابة والعودة إلى الفقرات المؤيدة لها."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر · www.alibabacloud.com",
+      "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1"
+    },
+    {
+      "label": "المصدر · technode.com",
+      "url": "https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/"
+    },
+    {
+      "label": "المصدر · thenextweb.com",
+      "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل أوزان Qwen4-Max مفتوحة؟",
+      "answer": "النموذج مستضاف وأوزانه مغلقة. وتعتزم الشركة نشر أوزان نماذج أصغر."
+    },
+    {
+      "question": "ماذا يعني مليون رمز؟",
+      "answer": "هو الحد المعلن لنافذة السياق، وليس عدداً ثابتاً من الكلمات."
+    }
+  ],
+  "readingTimeMinutes": 3
+}

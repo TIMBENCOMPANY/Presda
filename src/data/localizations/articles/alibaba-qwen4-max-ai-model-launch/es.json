@@ -1,0 +1,141 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/alibaba-qwen4-max-ai-model-launch/",
+  "path": "/es/articles/alibaba-qwen4-max-ai-model-launch/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-16",
+    "terminologyChecked": true
+  },
+  "title": "ALIBABA LANZA QWEN4-MAX PARA DESAFIAR A LOS MEJORES MODELOS DE IA DEL MUNDO",
+  "seoTitle": "Qwen4-Max de Alibaba: acceso, funciones y pruebas",
+  "description": "Alibaba lanza Qwen4-Max con visión y un millón de tokens de contexto. Qué significan sus cifras, su precio y el acceso al modelo.",
+  "excerpt": "Alibaba lanza Qwen4-Max con visión y un millón de tokens de contexto. Qué significan sus cifras, su precio y el acceso al modelo.",
+  "headlineHighlights": {
+    "red": "ALIBABA",
+    "gold": "QWEN4-MAX"
+  },
+  "keywords": [
+    "ALIBABA",
+    "QWEN4-MAX"
+  ],
+  "searchIntent": "Alibaba lanza Qwen4-Max con visión y un millón de tokens de contexto. Qué significan sus cifras, su precio y el acceso al modelo.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "image": {
+    "src": "/articles/alibaba-qwen4-max-ai-model-illustration.jpg",
+    "alt": "Ilustración de una ola de Qwen sobre servidores junto a logotipos rivales",
+    "width": 1280,
+    "height": 543
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Alibaba lanzó Qwen4-Max el 16 de noviembre de 2026 tras una fase de acceso limitado. El modelo estrella admite imágenes y ofrece una ventana de contexto de un millón de tokens. La empresa lo dirige a tareas que requieren más de una respuesta breve, como examinar gráficos o trabajar en un proyecto de código. El estreno añade un servicio alojado a la lista de sistemas avanzados que pueden comparar los desarrolladores. [Fuente · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Fuente · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué cambió en la arquitectura"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alibaba anuncia 2,4 billones de parámetros totales y 71.000 millones activos por token. Los parámetros son valores aprendidos que intervienen en las respuestas. En una mezcla de expertos dispersa, un mecanismo dirige cada token a ciertas partes de la red. Una cifra describe el tamaño global del modelo y la otra la parte activa para una unidad de entrada. La espera también depende de la longitud de la solicitud, del esfuerzo de razonamiento y de la carga del servicio. [Fuente · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV16_NEWS_478]]",
+      "caption": "Especificaciones anunciadas por Alibaba",
+      "headings": [
+        "Indicador",
+        "Valor anunciado"
+      ],
+      "rows": [
+        [
+          "Parámetros totales",
+          "2,4 billones"
+        ],
+        [
+          "Parámetros activos por token",
+          "71.000 millones"
+        ],
+        [
+          "Ventana de contexto",
+          "Un millón de tokens"
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Para qué sirve una ventana de un millón de tokens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los tokens son unidades de entrada cuya cantidad varía según el idioma y el formato. Una ventana amplia puede evitar dividir una colección de contratos en varias consultas. Todavía queda comprobar si el sistema encuentra la cláusula adecuada o si interpreta correctamente una tabla. Una prueba útil sitúa un dato conocido en mitad de un documento extenso y comprueba si el resultado se apoya en el pasaje correcto."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo interpretar los resultados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alibaba situó el modelo en sexto lugar en Code Arena durante el lanzamiento. La clasificación refleja las reglas y la fecha de esa evaluación. Los resultados pueden cambiar con otro repositorio o idioma. En su prueba propia Work360, la compañía comunicó un 35 % menos de tokens y un coste por tarea alrededor de un 60 % inferior frente a Qwen3.8-Max en su modo de mayor razonamiento. Los porcentajes corresponden a esa comparación concreta. [Fuente · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1)"
+    },
+    {
+      "type": "subheading",
+      "text": "Comparar agentes a partir de lo que terminan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un agente puede llamar a varias herramientas antes de proponer un cambio. Un equipo puede asignar los mismos problemas y permisos a cada sistema, comprobar qué cambios pasan las pruebas y contar cuántos intentos son necesarios. Con gráficos, puede pedir valores conocidos y examinar si el modelo identifica la serie y conserva la unidad correcta."
+    },
+    {
+      "type": "heading",
+      "text": "Acceso, precios y pesos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alibaba ofrece la API y un plan de tokens en QwenCloud y también cita QwenWork y QwenStudio. El precio destacado, 0,075 dólares por millón de tokens, se aplica a las entradas elegibles que ya están en la caché implícita. Las entradas nuevas y las respuestas pueden tener otras tarifas. Para presupuestar el servicio, interesa mirar la tabla completa y medir el coste por tarea resuelta. [Fuente · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Fuente · technode.com](https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los pesos del modelo Max permanecen cerrados. Alibaba prevé otros modelos Qwen4 más pequeños con pesos descargables, una diferencia importante para las organizaciones que gestionan su propia infraestructura. Véase también [cómo Samsung invierte en centros de datos de IA](/articles/samsung-ai-data-center-expansion/). [Fuente · www.alibabacloud.com](https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1) [Fuente · thenextweb.com](https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué comprobar antes de cambiar un flujo de trabajo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conviene anotar el modelo y el ajuste de razonamiento para que las pruebas sean comparables. Se pueden medir el tiempo de respuesta, los fallos y la calidad en varios intentos con los mismos documentos. El ahorro de caché depende de la frecuencia real con que se reutilice el comienzo de las solicitudes. También cuenta el trabajo de revisión humana. Un informe extenso y rápido vale poco si cuesta localizar los pasajes que sustentan sus afirmaciones."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · www.alibabacloud.com",
+      "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1"
+    },
+    {
+      "label": "Fuente · technode.com",
+      "url": "https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/"
+    },
+    {
+      "label": "Fuente · thenextweb.com",
+      "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qwen4-Max tiene pesos abiertos?",
+      "answer": "El modelo estrella es un servicio alojado con pesos cerrados. Alibaba prevé modelos menores de pesos abiertos."
+    },
+    {
+      "question": "¿Qué significa un millón de tokens?",
+      "answer": "Es la capacidad máxima de contexto anunciada, no una cantidad fija de palabras."
+    }
+  ],
+  "readingTimeMinutes": 3
+}

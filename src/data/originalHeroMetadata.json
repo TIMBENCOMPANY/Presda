@@ -343,5 +343,25 @@
     "width": 1280,
     "height": 714,
     "type": "image/jpeg"
+  },
+  "/articles/alibaba-qwen4-max-ai-model-illustration.jpg": {
+    "width": 1280,
+    "height": 543,
+    "type": "image/jpeg"
+  },
+  "/articles/china-ai-education-classroom-robotics.jpg": {
+    "width": 1280,
+    "height": 698,
+    "type": "image/jpeg"
+  },
+  "/articles/ultrasound-patch-rem-sleep-editorial-illustration.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/christmas-island-red-crab-migration-road.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
   }
 }
