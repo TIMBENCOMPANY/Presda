@@ -3,7 +3,19 @@ import type { Locale } from "@/lib/i18n/routing";
 
 const publicDomain = "https://creativecommons.org/publicdomain/mark/1.0/";
 
-const evidence = {
+type EvidencePhoto = {
+  afterBlock: number;
+  file: string;
+  width: number;
+  height: number;
+  source: string;
+  credit: string;
+  license: string | null;
+  licenseLabel?: string;
+  captions: Record<Locale, string>;
+};
+
+const evidence: Partial<Record<string, EvidencePhoto>> = {
   "rapa-nui-moai-statues-mystery": {
     afterBlock: 8,
     file: "rano-raraku-unfinished-moai-lbm1948.jpg",
@@ -101,7 +113,7 @@ const evidence = {
 const publicDomainLabel = { en: "Public domain", fr: "Domaine public", ar: "الملكية العامة", es: "Dominio público" };
 
 export function getFeatureEvidence(slug: string, index: number) {
-  const item = evidence[slug as keyof typeof evidence];
+  const item = evidence[slug];
   return item?.afterBlock === index ? item : undefined;
 }
 
@@ -116,7 +128,7 @@ export function FeatureEvidencePhoto({ photo, locale }: { photo: NonNullable<Ret
         <p>{caption}</p>
         <p>
           <a className="underline" href={photo.source}>{photo.credit}</a>
-          {photo.license && <> · <a className="underline" href={photo.license} rel="license">{"licenseLabel" in photo ? photo.licenseLabel : publicDomainLabel[locale]}</a></>}
+          {photo.license && <> · <a className="underline" href={photo.license} rel="license">{photo.licenseLabel ?? publicDomainLabel[locale]}</a></>}
         </p>
       </figcaption>
     </figure>
