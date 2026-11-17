@@ -1,0 +1,201 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/uae-hope-probe-first-arab-mars-mission/",
+  "path": "/es/articles/uae-hope-probe-first-arab-mars-mission/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "LA SONDA HOPE DE EMIRATOS: LA PRIMERA MISIÓN ÁRABE A MARTE",
+  "seoTitle": "Sonda Hope de Emiratos: la primera misión árabe a Marte",
+  "description": "Hope llegó a Marte en 2021. Así estudia el tiempo marciano, las capas de la atmósfera y la luna Deimos con tres instrumentos.",
+  "excerpt": "Hope llegó a Marte en 2021. Así estudia el tiempo marciano, las capas de la atmósfera y la luna Deimos con tres instrumentos.",
+  "headlineHighlights": {
+    "red": "HOPE",
+    "gold": "MARTE"
+  },
+  "keywords": [
+    "HOPE",
+    "MARTE"
+  ],
+  "searchIntent": "Hope llegó a Marte en 2021. Así estudia el tiempo marciano, las capas de la atmósfera y la luna Deimos con tres instrumentos.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/uae-hope-probe-first-arab-mars-mission.jpg",
+    "alt": "Ilustración de la sonda emiratí Hope sobre Marte",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Hope llegó a Marte el 9 de febrero de 2021. Emiratos Árabes Unidos se convirtió así en el primer país árabe en poner una nave en órbita de otro planeta. La sonda, llamada Al Amal en árabe, había despegado meses antes en un cohete japonés. Su objetivo era observar los cambios en la atmósfera marciana a lo largo de un día y entre estaciones. Para ello se eligieron su órbita, los instrumentos y el modo de organizar los resultados. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Fuente · space.gov.ae](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una imagen basta para ver nubes. Entender su formación exige conocer el lugar, la hora local, la estación y las condiciones atmosféricas. El mismo paisaje puede verse muy distinto al amanecer y por la tarde. Hope se diseñó para observar esas variaciones, y buena parte de su valor reside en dónde y cuándo tomó las medidas. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_CULTURE_488]]",
+      "caption": "Tres maneras de observar Marte",
+      "headings": [
+        "Instrumento",
+        "Observación"
+      ],
+      "rows": [
+        [
+          "EXI",
+          "Imágenes visibles y ultravioletas"
+        ],
+        [
+          "EMIRS",
+          "Firmas infrarrojas de temperatura, polvo, nubes y vapor"
+        ],
+        [
+          "EMUS",
+          "Emisiones ultravioletas de la atmósfera superior"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "El lanzamiento, la llegada y la órbita científica"
+    },
+    {
+      "type": "paragraph",
+      "text": "La misión despegó de Tanegashima, en Japón, el 20 de julio de 2020 según la hora local. En tiempo universal coordinado todavía era 19 de julio. Las dos fechas se refieren al mismo lanzamiento. El cohete H-IIA situó a Hope en una trayectoria interplanetaria y, tras separarse, la sonda siguió el viaje. Al acercarse a Marte tuvo que frenar para convertirse en satélite del planeta. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué había que frenar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una nave que llega con demasiada velocidad puede pasar de largo. Hope encendió los motores para entrar en una órbita de captura y después alcanzó la órbita alta y alargada que iba a utilizar para la mayoría de las observaciones. Quedarse en Marte permitía volver a tomar medidas. Un vehículo de descenso habría tenido que posarse y se habría concentrado en un entorno mucho más limitado. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué permite la órbita alta"
+    },
+    {
+      "type": "paragraph",
+      "text": "La órbita científica transcurre aproximadamente entre 20.000 y 43.000 kilómetros de altitud y dura unas 55 horas. Desde allí el sensor abarca grandes extensiones y, al repetir las pasadas, puede ampliar las horas locales observadas. Una nave más próxima suele distinguir detalles menores, algo importante si el interés se centra en un cañón o un cráter. Hope favorece una vista amplia y la variedad de horas de observación. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    },
+    {
+      "type": "subheading",
+      "text": "La hora local también cuenta"
+    },
+    {
+      "type": "paragraph",
+      "text": "La hora registrada por el equipo en la Tierra y la hora solar en el punto observado describen cosas distintas. Comparar una zona al amanecer con otra a mediodía mezcla la geografía con el ciclo diario. Las observaciones repetidas ayudan a distinguirlos. También influyen la estación, la superficie cubierta por el instrumento y los cambios de las condiciones en el terreno. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Fuente · arxiv.org](https://arxiv.org/abs/2204.12850)"
+    },
+    {
+      "type": "heading",
+      "text": "Tres instrumentos para diferentes capas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cámara EXI toma imágenes visibles y ultravioletas que ayudan a estudiar nubes de hielo de agua y el ozono. El espectrómetro EMIRS utiliza el infrarrojo térmico para estudiar temperaturas, polvo, nubes y vapor de agua. EMUS emplea el ultravioleta para observar emisiones de la atmósfera superior, incluidas las del hidrógeno y el oxígeno. Los tres se diseñaron para aportar resultados complementarios. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Fuente · space.gov.ae](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)"
+    },
+    {
+      "type": "subheading",
+      "text": "Lo que se mide y lo que se deduce"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un espectrómetro registra cuánta radiación recibe a distintas longitudes de onda. La calibración y los modelos ayudan a identificar qué materiales contribuyeron a la señal. Una medida precisa puede dejar incertidumbre sobre su procedencia o la cantidad de material. La imagen aporta contexto, y registrar el instrumento, la hora y la geometría permite que otros equipos comprueben la interpretación. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Fuente · sdc.emiratesmarsmission.ae](https://sdc.emiratesmarsmission.ae/data/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué significa observar el tiempo de Marte"
+    },
+    {
+      "type": "paragraph",
+      "text": "La superficie se calienta y se enfría. El polvo altera cómo calienta el Sol y las nubes cambian durante el día. Una investigación comparó las temperaturas obtenidas con EMIRS con mediciones de Curiosity y Perseverance. Un vehículo de superficie observa las condiciones cerca del suelo en un punto concreto. Un orbitador puede abarcar terrenos distintos en una sola observación. Esa diferencia puede afectar al resultado aunque funcionen bien ambos instrumentos. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Fuente · arxiv.org](https://arxiv.org/abs/2204.12850)"
+    },
+    {
+      "type": "subheading",
+      "text": "Cómo se estudia el escape atmosférico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los átomos en la parte superior de la atmósfera pueden escapar al espacio. Medir hidrógeno y oxígeno ayuda a entender cómo se distribuye la materia en altura y cómo cambia. Mirar las capas inferiores permite investigar si las estaciones y el tiempo guardan relación con esos cambios. Las medidas actuales se usan junto con modelos y otras observaciones para estudiar periodos que superan la duración de la misión. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Fuente · space.gov.ae](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)"
+    },
+    {
+      "type": "heading",
+      "text": "Deimos, otra oportunidad de observación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hope también observó Deimos, la menor de las lunas de Marte. Las imágenes y espectros obtenidos en condiciones distintas ayudan a comparar su superficie con observaciones anteriores. La cámara HiRISE de la misión estadounidense Mars Reconnaissance Orbiter tomó una vista de referencia en 2009, antes de Hope. Identificar la fecha y la nave evita confundir el trabajo de una misión con el de otra. [Fuente · space.gov.ae](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission) [Fuente · science.nasa.gov](https://science.nasa.gov/photojournal/martian-moon-deimos-in-high-resolution/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué cambia con un archivo abierto"
+    },
+    {
+      "type": "paragraph",
+      "text": "El centro de datos permite buscar resultados por instrumento, fecha y nivel de procesamiento. Un equipo puede localizar datos del mismo periodo que los de otra nave, examinar la calibración y explicar cómo obtuvo su conclusión. Para otro ejemplo de colecciones que dependen de los registros que las acompañan, consulta [el reportaje de PRESDA sobre la bóveda de Svalbard](/articles/svalbard-global-seed-vault-world-food/). [Fuente · sdc.emiratesmarsmission.ae](https://sdc.emiratesmarsmission.ae/data/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué desarrolló Emiratos con la misión"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Centro Espacial Mohammed bin Rashid dirigió el proyecto con socios internacionales, entre ellos el Laboratorio de Física Atmosférica y Espacial de la Universidad de Colorado en Boulder. El equipo describe la transferencia de conocimientos como parte del trabajo, junto con los instrumentos y las observaciones. Desarrollar una misión exige aprender a revisar comandos y mantener una documentación que sirva a otros científicos. Son trabajos que siguen siendo importantes después de la llegada. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Fuente · space.gov.ae](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)"
+    },
+    {
+      "type": "subheading",
+      "text": "Observar las nubes también revela un ciclo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una cantidad de agua puede producir señales distintas cuando está en una nube, en el aire o congelada en el suelo. Comparar imágenes y temperaturas tomadas a horas compatibles permite explorar qué ocurre. Una serie diaria tomada a la misma hora describe bien esa hora. Las observaciones de Hope en momentos distintos permiten comparar la mañana y la tarde. Al combinar ambas perspectivas se puede comprobar si un modelo capta la ubicación de los cambios y su ritmo diario. Una vuelta completa no coincide con una jornada marciana. Las horas locales cambian de una pasada a otra, y se necesitan varias observaciones para cubrir diferentes condiciones. Al reunir los datos hay que comprobar lo que se está comparando. Un lugar observado varios días seguidos a horas distintas puede haber cambiado también por otras razones. El registro de la hora, la posición y el instrumento permite someter esa comparación a prueba en lugar de suponer que las imágenes cuentan la misma historia. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/"
+    },
+    {
+      "label": "Fuente · space.gov.ae",
+      "url": "https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission"
+    },
+    {
+      "label": "Fuente · sdc.emiratesmarsmission.ae",
+      "url": "https://sdc.emiratesmarsmission.ae/data/"
+    },
+    {
+      "label": "Fuente · arxiv.org",
+      "url": "https://arxiv.org/abs/2204.12850"
+    },
+    {
+      "label": "Fuente · science.nasa.gov",
+      "url": "https://science.nasa.gov/photojournal/martian-moon-deimos-in-high-resolution/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo llegó Hope a Marte?",
+      "answer": "Entró en órbita el 9 de febrero de 2021 tras despegar de Japón en julio de 2020."
+    },
+    {
+      "question": "¿Hope aterrizó en Marte?",
+      "answer": "Es un orbitador que estudia el planeta a distancia."
+    },
+    {
+      "question": "¿Dónde se encuentran sus datos?",
+      "answer": "El centro de datos de la misión permite buscar por fecha, instrumento y nivel de procesamiento."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

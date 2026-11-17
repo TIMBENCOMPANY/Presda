@@ -1,0 +1,201 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/uae-hope-probe-first-arab-mars-mission/",
+  "path": "/fr/articles/uae-hope-probe-first-arab-mars-mission/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "HOPE : LA PREMIÈRE MISSION ARABE VERS MARS",
+  "seoTitle": "La sonde Hope des Émirats : ce qu’elle a révélé sur Mars",
+  "description": "En orbite depuis 2021, Hope étudie l’atmosphère martienne à différentes heures. Les instruments, les observations de Déimos et les données ouvertes.",
+  "excerpt": "En orbite depuis 2021, Hope étudie l’atmosphère martienne à différentes heures. Les instruments, les observations de Déimos et les données ouvertes.",
+  "headlineHighlights": {
+    "red": "HOPE",
+    "gold": "MARS"
+  },
+  "keywords": [
+    "HOPE",
+    "MARS"
+  ],
+  "searchIntent": "En orbite depuis 2021, Hope étudie l’atmosphère martienne à différentes heures. Les instruments, les observations de Déimos et les données ouvertes.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/uae-hope-probe-first-arab-mars-mission.jpg",
+    "alt": "Illustration de la sonde émiratie Hope au-dessus de Mars",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Hope a atteint Mars le 9 février 2021. Les Émirats arabes unis sont ainsi devenus le premier pays arabe à placer une sonde en orbite autour d’une autre planète. L’engin, appelé Al Amal en arabe, avait décollé quelques mois plus tôt à bord d’une fusée japonaise. Sa mission consistait à observer comment l’atmosphère martienne change au cours d’une journée et d’une saison à l’autre. Cet objectif déterminait son orbite et ses instruments, ainsi que la manière dont les chercheurs allaient exploiter leurs mesures. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Source · space.gov.ae](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une photographie peut montrer des nuages. Pour comprendre comment ils se sont formés, il faut connaître le lieu, l’heure locale, la saison et les conditions dans l’air. La même région peut avoir un aspect très différent à l’aube et l’après-midi. Hope a été conçue pour suivre ces variations plutôt que pour observer systématiquement aux mêmes heures locales. Une grande part de l’intérêt des mesures vient donc du moment et du lieu où elles sont prises. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_CULTURE_488]]",
+      "caption": "Trois façons d’observer Mars",
+      "headings": [
+        "Instrument",
+        "Observation"
+      ],
+      "rows": [
+        [
+          "EXI",
+          "Images en lumière visible et ultraviolette"
+        ],
+        [
+          "EMIRS",
+          "Signaux infrarouges de la température, de la poussière, des nuages et de la vapeur d’eau"
+        ],
+        [
+          "EMUS",
+          "Émissions ultraviolettes de la haute atmosphère"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Le lancement, l’arrivée et l’orbite scientifique"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mission est partie de Tanegashima, au Japon, le 20 juillet 2020 en heure locale. En temps universel coordonné, on était encore le 19 juillet. Les deux dates désignent le même décollage. Le lanceur H-IIA a placé Hope sur sa trajectoire interplanétaire. Après la séparation, la sonde a poursuivi le voyage de manière autonome. En approchant de Mars, elle devait ralentir pour en devenir un satellite. Arriver dans le voisinage de la planète et obtenir une orbite de travail sont deux étapes distinctes. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi le freinage était décisif"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une sonde arrive avec une vitesse qui peut l’emporter au-delà de la planète. Hope a actionné ses moteurs pour se placer sur une première orbite de capture. Elle a ensuite rejoint l’orbite haute et allongée choisie pour la plupart des observations. Cette manœuvre lui permettait de revenir sur les mêmes régions à plusieurs reprises. Un engin destiné à se poser aurait dû survivre à la descente et aurait étudié une zone beaucoup plus limitée. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que permet l’orbite haute"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’orbite scientifique se situe à environ 20 000 à 43 000 kilomètres d’altitude. Une révolution dure environ 55 heures. À cette distance, le capteur peut voir une grande partie de la planète, et les passages successifs élargissent la plage des heures locales observées. Une sonde plus proche distinguera souvent des éléments plus petits, ce qui compte pour examiner un canyon, un cratère ou un site précis. Hope privilégie une vue étendue et une plus grande variété d’heures. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    },
+    {
+      "type": "subheading",
+      "text": "L’heure locale fait partie de la mesure"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’heure enregistrée sur Terre et l’heure solaire à l’endroit observé ne décrivent pas la même chose. Comparer une région à l’aube avec une autre à midi mêle deux effets, celui de la géographie et celui du cycle quotidien. Les observations répétées aident à les démêler. Il faut aussi tenir compte de la saison, de la surface couverte par le capteur et des changements qui surviennent au sol. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Source · arxiv.org](https://arxiv.org/abs/2204.12850)"
+    },
+    {
+      "type": "heading",
+      "text": "Trois instruments pour différentes couches"
+    },
+    {
+      "type": "paragraph",
+      "text": "EXI, l’imageur de la mission, prend des vues en lumière visible et dans l’ultraviolet. Il aide notamment à suivre les nuages de glace d’eau et à étudier l’ozone. Le spectromètre EMIRS enregistre le rayonnement infrarouge thermique pour étudier la température, la poussière, les nuages de glace et la vapeur d’eau. Le spectromètre EMUS utilise l’ultraviolet pour examiner des émissions de la haute atmosphère, notamment celles de l’hydrogène et de l’oxygène. Ces mesures sont conçues pour se compléter. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Source · space.gov.ae](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)"
+    },
+    {
+      "type": "subheading",
+      "text": "De la mesure à l’interprétation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un spectromètre indique la quantité de rayonnement reçu à plusieurs longueurs d’onde. Les équipes s’appuient sur des modèles et sur l’étalonnage pour déterminer quelles substances ont contribué au signal. Une mesure précise peut laisser une incertitude sur l’endroit d’où vient le signal ou sur la quantité de matière. Une image apporte du contexte. L’heure, l’instrument et la géométrie d’observation permettent à d’autres équipes d’éprouver l’interprétation. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Source · sdc.emiratesmarsmission.ae](https://sdc.emiratesmarsmission.ae/data/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qu’observe-t-on quand on parle de météo martienne ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La surface se réchauffe puis refroidit, et la poussière modifie l’effet du Soleil. Les nuages évoluent eux aussi dans la journée. Une équipe a comparé des températures déduites d’EMIRS à celles des rovers Curiosity et Perseverance. Un rover relève des conditions près du sol à un endroit connu. L’orbiteur observe une zone plus large, qui peut couvrir d’autres types de terrain. Même si les instruments sont bien réglés, ces différences peuvent avoir un effet sur le résultat. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Source · arxiv.org](https://arxiv.org/abs/2204.12850)"
+    },
+    {
+      "type": "subheading",
+      "text": "Comment étudier les gaz qui s’échappent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au sommet de l’atmosphère, des atomes peuvent s’échapper vers l’espace. Le suivi de l’hydrogène et de l’oxygène donne des indices sur leur distribution en altitude et sur la façon dont elle évolue. Observer les couches inférieures aide à demander si les saisons et la météo y jouent un rôle. Les mesures actuelles sont ensuite combinées à d’autres observations et à des modèles pour étudier des évolutions qui dépassent la durée de la mission. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Source · space.gov.ae](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)"
+    },
+    {
+      "type": "heading",
+      "text": "Déimos, l’autre cible de Hope"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mission a aussi observé Déimos, la plus petite des deux lunes de Mars. Les images et spectres pris sous plusieurs angles permettent d’examiner et de comparer sa surface. La caméra HiRISE de la sonde américaine Mars Reconnaissance Orbiter en avait fourni une vue en 2009. Cette image de référence est antérieure à Hope. Indiquer son instrument et sa date évite de confondre deux observations différentes du même corps. [Source · space.gov.ae](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission) [Source · science.nasa.gov](https://science.nasa.gov/photojournal/martian-moon-deimos-in-high-resolution/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que change une archive ouverte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le centre de données émirati classe les observations par instrument, date et niveau de traitement. Une équipe peut retrouver un passage qui coïncide avec une autre sonde, consulter les données d’étalonnage et décrire comment elle a obtenu un résultat. Pour une autre illustration du rôle des registres, lire [le dossier de PRESDA sur la réserve du Svalbard](/articles/svalbard-global-seed-vault-world-food/). [Source · sdc.emiratesmarsmission.ae](https://sdc.emiratesmarsmission.ae/data/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que les Émirats ont développé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Centre spatial Mohammed ben Rachid a conduit le projet avec des partenaires internationaux, dont le laboratoire de physique atmosphérique et spatiale de l’université du Colorado à Boulder. Le compte rendu de l’équipe insiste sur le transfert de compétences en plus des instruments et des observations. Une mission demande de fabriquer des appareils, de préparer des commandes et de tenir des dossiers utilisables après le vol. Ce dernier travail continue de compter bien après l’arrivée à destination. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Source · space.gov.ae](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)"
+    },
+    {
+      "type": "subheading",
+      "text": "Les nuages renseignent aussi sur le cycle de l’eau"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une quantité d’eau identique peut produire un signal différent selon qu’elle se trouve dans un nuage, dans l’air ou gelée au sol. Comparer images et températures prises à des heures compatibles aide à évaluer les explications possibles. Une observation quotidienne à heure fixe donne une série précise à cette heure. Les passages de Hope à diverses heures permettent de demander ce qui a changé dans la journée. La combinaison permet d’éprouver les modèles de la circulation et du climat. Le temps nécessaire pour boucler une orbite ne correspond pas exactement à une journée martienne. Les heures locales observées se décalent au fil des passages. Une bonne couverture nécessite donc plusieurs observations plutôt qu’une photographie unique réunissant tous les lieux et toutes les heures. Ce décalage donne de la valeur au journal conservé avec les données, car lui seul permet de savoir à quelles conditions correspond chaque mesure. [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/"
+    },
+    {
+      "label": "Source · space.gov.ae",
+      "url": "https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission"
+    },
+    {
+      "label": "Source · sdc.emiratesmarsmission.ae",
+      "url": "https://sdc.emiratesmarsmission.ae/data/"
+    },
+    {
+      "label": "Source · arxiv.org",
+      "url": "https://arxiv.org/abs/2204.12850"
+    },
+    {
+      "label": "Source · science.nasa.gov",
+      "url": "https://science.nasa.gov/photojournal/martian-moon-deimos-in-high-resolution/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand Hope a-t-elle atteint Mars ?",
+      "answer": "La sonde a rejoint son orbite le 9 février 2021, après avoir décollé du Japon en juillet 2020."
+    },
+    {
+      "question": "Hope s’est-elle posée sur Mars ?",
+      "answer": "Il s’agit d’un orbiteur qui étudie la planète à distance."
+    },
+    {
+      "question": "Où trouver ses données ?",
+      "answer": "Le centre de données de la mission les classe par instrument, date et niveau de traitement."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

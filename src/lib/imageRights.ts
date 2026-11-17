@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/ghana-fantasy-coffins-funeral-art.jpg","/articles/uae-hope-probe-first-arab-mars-mission.jpg","/articles/72-days-andes-flight-571-survival.jpg","/articles/finland-three-million-saunas-sauna-culture.jpg","/articles/1904-olympic-marathon-st-louis.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/japan-aging-population-over-65.jpg","/articles/uruguay-98-percent-renewable-electricity.jpg","/articles/svalbard-global-seed-vault-world-food.jpg","/articles/himba-namibia-red-ochre-pastoralism.jpg","/articles/ainu-indigenous-japan-history.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/alibaba-qwen4-max-ai-model-illustration.jpg","/articles/china-ai-education-classroom-robotics.jpg","/articles/ultrasound-patch-rem-sleep-editorial-illustration.jpg","/articles/christmas-island-red-crab-migration-road.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/samsung-ai-data-center-server-racks.jpg","/articles/apple-smart-glasses-siri-ai-concept.jpg","/articles/johnny-depp-red-carpet-ebenezer-box-office.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

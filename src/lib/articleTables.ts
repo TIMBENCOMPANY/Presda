@@ -8,6 +8,135 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV17_CULTURE_487]]": {
+    "caption": "From workshop to collection",
+    "headers": [
+      "Documented example",
+      "What it helps establish"
+    ],
+    "rows": [
+      [
+        "Teshie workshop histories",
+        "Kane Kwei and Ajetey appear in an early account"
+      ],
+      [
+        "1989 Paris exhibition",
+        "Work by Kane Kwei and Paa Joe reaches an international museum audience"
+      ],
+      [
+        "2018 collection donation",
+        "The Museum for Sepulchral Culture receives 28 coffins"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_CULTURE_488]]": {
+    "caption": "Three ways Hope observes Mars",
+    "headers": [
+      "Instrument",
+      "What it observes"
+    ],
+    "rows": [
+      [
+        "EXI",
+        "Visible and ultraviolet images, including atmospheric features"
+      ],
+      [
+        "EMIRS",
+        "Thermal infrared signatures of temperature, dust, clouds and water vapour"
+      ],
+      [
+        "EMUS",
+        "Ultraviolet emissions from the upper atmosphere"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_CULTURE_489]]": {
+    "caption": "The Flight 571 chronology",
+    "headers": [
+      "Date",
+      "Event"
+    ],
+    "rows": [
+      [
+        "October 13, 1972",
+        "Flight 571 crashes in the Andes with 45 aboard"
+      ],
+      [
+        "October 29, 1972",
+        "An avalanche hits the fuselage, killing eight more people"
+      ],
+      [
+        "December 22–23, 1972",
+        "Chilean crews rescue survivors in stages"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_CULTURE_490]]": {
+    "caption": "Three common heating arrangements",
+    "headers": [
+      "Sauna type",
+      "What distinguishes it"
+    ],
+    "rows": [
+      [
+        "Smoke sauna",
+        "Stones store heat and the room is aired before use"
+      ],
+      [
+        "Wood-fired sauna with flue",
+        "A stove burns wood and vents smoke through a flue"
+      ],
+      [
+        "Electric sauna",
+        "Electric elements heat the stones"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_CULTURE_491]]": {
+    "caption": "The official first four finishers",
+    "headers": [
+      "Place",
+      "Runner",
+      "Recorded time"
+    ],
+    "rows": [
+      [
+        "1",
+        "Thomas Hicks",
+        "3:28:53"
+      ],
+      [
+        "2",
+        "Albert Corey",
+        "3:34:52"
+      ],
+      [
+        "3",
+        "Arthur Newton",
+        "3:47:33"
+      ],
+      [
+        "4",
+        "Félix Carvajal",
+        "Time unrecorded in Olympedia"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV17_FEATURE_482]]": {
     "caption": "Japan’s ageing in three measures",
     "headers": [

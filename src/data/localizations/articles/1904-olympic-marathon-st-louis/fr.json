@@ -1,0 +1,210 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/1904-olympic-marathon-st-louis/",
+  "path": "/fr/articles/1904-olympic-marathon-st-louis/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "LE MARATHON OLYMPIQUE DE 1904 : LA COURSE LA PLUS ÉTRANGE",
+  "seoTitle": "Marathon olympique de 1904 : Hicks, Lorz et la course de Saint-Louis",
+  "description": "Quarante kilomètres dans la chaleur, une arrivée en voiture et seulement 14 classés. Ce que les sources établissent sur le marathon de Saint-Louis.",
+  "excerpt": "Quarante kilomètres dans la chaleur, une arrivée en voiture et seulement 14 classés. Ce que les sources établissent sur le marathon de Saint-Louis.",
+  "headlineHighlights": {
+    "red": "MARATHON OLYMPIQUE DE 1904",
+    "gold": "COURSE LA PLUS ÉTRANGE"
+  },
+  "keywords": [
+    "MARATHON OLYMPIQUE DE 1904",
+    "COURSE LA PLUS ÉTRANGE"
+  ],
+  "searchIntent": "Quarante kilomètres dans la chaleur, une arrivée en voiture et seulement 14 classés. Ce que les sources établissent sur le marathon de Saint-Louis.",
+  "category": "Sport",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/1904-olympic-marathon-st-louis.jpg",
+    "alt": "Reconstitution illustrée de coureurs sur une route poussiéreuse aux Jeux olympiques de Saint-Louis",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le 30 août 1904, Fred Lorz est entré le premier dans le stade à la fin du marathon olympique de Saint-Louis. Il a été disqualifié pour avoir parcouru une partie du trajet en voiture. Thomas Hicks a remporté officiellement l’épreuve en 3 heures, 28 minutes et 53 secondes. Sur un parcours d’environ 40 kilomètres, 14 des 32 partants ont terminé. La course est restée célèbre pour l’arrivée de Lorz et pour les conditions qui ont éprouvé le reste des coureurs. [Source · www.olympics.com](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Source · www.olympedia.org](https://www.olympedia.org/results/56131)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saint-Louis accueillait à la fois les Jeux et l’exposition universelle de 1904, organisée autour du centenaire de l’achat de la Louisiane. Routes, spectateurs, véhicules et chaleur estivale entouraient une épreuve internationale encore récente. Ce contexte explique comment plusieurs des épisodes les plus connus ont pu se produire. [Source · www.olympics.com](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Source · www.smithsonianmag.com](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_CULTURE_491]]",
+      "caption": "Les quatre premiers du classement officiel",
+      "headings": [
+        "Place",
+        "Athlète",
+        "Temps"
+      ],
+      "rows": [
+        [
+          "1",
+          "Thomas Hicks",
+          "3:28:53"
+        ],
+        [
+          "2",
+          "Albert Corey",
+          "3:34:52"
+        ],
+        [
+          "3",
+          "Arthur Newton",
+          "3:47:33"
+        ],
+        [
+          "4",
+          "Félix Carvajal",
+          "Temps non indiqué par Olympedia"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Un parcours qui a épuisé les coureurs"
+    },
+    {
+      "type": "paragraph",
+      "text": "La course a commencé dans l’après-midi, par des tours de stade. Les athlètes sont ensuite partis sur les chemins. Olympedia indique environ 32 °C et une distance de 40 kilomètres. Le marathon moderne de 42,195 kilomètres donne une mesure différente. Les véhicules soulevaient de la poussière sur les chemins non goudronnés, et les possibilités de boire étaient rares. L’effort et le terrain ont compté autant que la distance. [Source · www.olympics.com](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Source · www.olympedia.org](https://www.olympedia.org/results/56131)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que dit le nombre de classés"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dix-huit partants ne figurent pas parmi les arrivants officiels, dont Lorz, dont le temps a été écarté. Les abandons ont influé sur la tête de course. Un coureur pouvait dépasser un rival en accélérant ou parce que celui-ci était épuisé après un début trop rapide. Le classement fixe l’ordre d’arrivée reconnu. Les circonstances des abandons et les positions intermédiaires relèvent de récits qui n’offrent pas tous la même précision. [Source · www.olympics.com](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Source · www.olympedia.org](https://www.olympedia.org/results/56131)"
+    },
+    {
+      "type": "heading",
+      "text": "Fred Lorz et le trajet en voiture"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les versions s’accordent sur l’essentiel. Lorz a interrompu sa course, est monté en voiture, puis a repris à pied. Le public l’a d’abord accueilli en vainqueur quand il est entré dans le stade. Son trajet en voiture a été connu et le résultat a été annulé. La distance parcourue ainsi et la façon dont il a expliqué son retour suscitent encore des commentaires. La disqualification, elle, figure au classement. [Source · www.olympics.com](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Source · www.olympedia.org](https://www.olympedia.org/results/56131)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce qu’il a fait après Saint-Louis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorz a remporté le marathon de Boston en 1905. Cette victoire montre qu’il pouvait terminer et gagner un marathon. Les deux épreuves restent distinctes, avec des parcours, des conditions et des concurrents différents. L’ordre chronologique permet d’éviter que la disqualification soit la seule information dont on dispose sur ce coureur. [Source · www.olympedia.org](https://www.olympedia.org/results/56131) [Source · www.smithsonianmag.com](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment l’entourage de Thomas Hicks est intervenu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hicks s’est trouvé en grande difficulté pendant la course. Ses accompagnateurs lui ont notamment donné de la strychnine et plus tard du brandy. La strychnine est un poison. Son usage éclaire les idées et les pratiques de l’époque sur l’aide et la stimulation des athlètes. Les détails varient dans les récits, qui s’accordent toutefois sur l’état de faiblesse de Hicks à l’arrivée. Son temps reste inscrit au tableau officiel. [Source · www.olympics.com](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Source · www.olympedia.org](https://www.olympedia.org/results/56131) [Source · isoh.org](https://isoh.org/wp-content/uploads/2023/12/JOH_3_2023_75dpi.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Le classement et les récits répondent à des questions différentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le classement indique quel athlète a été déclaré vainqueur. Les descriptions de l’assistance aident à comprendre dans quelles conditions il a couru. Les règles et attentes du sport actuel éclairent les risques de ces gestes, mais les catégories d’aujourd’hui ne modifient pas le document historique. Une photographie ou un témoignage peut détailler l’aide. Le tableau officiel tranche l’ordre des places. [Source · www.olympedia.org](https://www.olympedia.org/results/56131) [Source · isoh.org](https://isoh.org/wp-content/uploads/2023/12/JOH_3_2023_75dpi.pdf) [Source · commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:1904_Thomas_J_Hicks.jpg)"
+    },
+    {
+      "type": "heading",
+      "text": "Les autres athlètes qui méritent une place dans le récit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Albert Corey est arrivé deuxième et Arthur Newton troisième. Né français, Corey apparaît sous une affiliation américaine dans les résultats de cette course. Pour le décrire, il faut préciser quelle source fournit le pays indiqué et conserver le classement. Newton avait déjà couru le marathon olympique de Paris en 1900. [Source · www.olympedia.org](https://www.olympedia.org/results/56131)"
+    },
+    {
+      "type": "subheading",
+      "text": "Félix Carvajal et les coureurs sud-africains"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Cubain Félix Carvajal a pris la quatrième place. Le récit de ses vêtements, de ses pommes et de ses douleurs d’estomac varie selon les reprises. Sa place est établie. Len Taunyane et Jan Mashiani ont terminé neuvième et douzième. Leur participation renvoie aussi au contexte de l’exposition universelle. Le CIO raconte que Taunyane a été pourchassé par des chiens. On peut rattacher cette histoire à sa source tout en donnant son résultat. [Source · www.olympics.com](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Source · www.olympedia.org](https://www.olympedia.org/results/56131) [Source · www.smithsonianmag.com](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Les conséquences pour ceux qui ont abandonné"
+    },
+    {
+      "type": "paragraph",
+      "text": "William Garcia a dû s’arrêter et a été hospitalisé plusieurs jours, selon Olympedia. Son cas donne une mesure des difficultés que les seules places ne disent pas. La poussière et les possibilités réduites de boire ont exposé les coureurs à un danger bien réel. Le temps du vainqueur ne rend pas compte de ce coût. [Source · www.olympedia.org](https://www.olympedia.org/results/56131) [Source · www.smithsonianmag.com](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi la course reste dans les mémoires"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorz entre le premier dans le stade mais ne figure pas parmi les classés. Hicks apparaît en tête du tableau et dans les récits comme un homme épuisé. Des anecdotes frappantes peuvent faire oublier les places des autres coureurs. Le rapprochement des sources permet de les distinguer. Pour un autre récit de PRESDA construit à partir de dates et de témoignages, lire [72 jours dans les Andes](/articles/72-days-andes-flight-571-survival/). [Source · www.olympics.com](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Source · www.olympedia.org](https://www.olympedia.org/results/56131) [Source · isoh.org](https://isoh.org/wp-content/uploads/2023/12/JOH_3_2023_75dpi.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Le rôle de l’exposition dans le recrutement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certains Américains avaient de l’expérience sur la distance, comme le montrent leurs résultats à Boston. Taunyane et Mashiani étaient liés à l’exposition sud-africaine et avaient servi comme messagers pendant la guerre sud-africaine. Leur présence rappelle combien le lieu, le coût du voyage et les réseaux qui conduisaient jusqu’au départ influençaient la composition du groupe. [Source · www.olympedia.org](https://www.olympedia.org/results/56131) [Source · www.smithsonianmag.com](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi les photographies ont besoin d’une légende"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le portrait de Hicks reproduit dans le rapport officiel montre comment l’athlète a été présenté. Il ne documente pas qui menait sur une section du parcours ni l’aide reçue avant la prise de vue. L’image de tête de cet article est une reconstitution et ne prétend pas reproduire une photographie d’époque. Une photographie de groupe peut nous rapprocher du moment du départ sans expliquer à quel rythme les coureurs sont partis. Un récit publié après la course peut donner des heures et des positions intermédiaires, mais il lui faut une méthode pour les recueillir sur des chemins éloignés du stade. Il est donc utile de lire les récits d’époque en gardant à l’esprit la position de leurs témoins. Les résultats attestent les places reconnues, alors que les descriptions éclairent des incidents particuliers. Si l’on prélève dans les deux sources pour raconter l’épreuve, attribuer les détails les plus contestés aide à comprendre ce que l’on sait réellement. Cette précaution permet notamment de rendre leur place aux coureurs moins connus. Les listes de départ ont aussi une valeur propre, puisqu’elles montrent qui a tenté la course même quand leurs noms manquent dans le classement final. [Source · isoh.org](https://isoh.org/wp-content/uploads/2023/12/JOH_3_2023_75dpi.pdf) [Source · commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:1904_Thomas_J_Hicks.jpg)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · www.olympics.com",
+      "url": "https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon"
+    },
+    {
+      "label": "Source · www.olympedia.org",
+      "url": "https://www.olympedia.org/results/56131"
+    },
+    {
+      "label": "Source · www.smithsonianmag.com",
+      "url": "https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/"
+    },
+    {
+      "label": "Source · isoh.org",
+      "url": "https://isoh.org/wp-content/uploads/2023/12/JOH_3_2023_75dpi.pdf"
+    },
+    {
+      "label": "Source · commons.wikimedia.org",
+      "url": "https://commons.wikimedia.org/wiki/File:1904_Thomas_J_Hicks.jpg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qui a gagné le marathon olympique de 1904 ?",
+      "answer": "Thomas Hicks en 3:28:53, après la disqualification de Fred Lorz."
+    },
+    {
+      "question": "Pourquoi Lorz a-t-il été disqualifié ?",
+      "answer": "Il a parcouru une partie du trajet en voiture avant de reprendre à pied."
+    },
+    {
+      "question": "Combien ont terminé ?",
+      "answer": "Quatorze des 32 partants figurent au classement officiel."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

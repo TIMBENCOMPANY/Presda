@@ -115,6 +115,7 @@ import { WowSignalPrintout } from "@/components/WowSignalPrintout";
 import { DiquisEvidencePhoto } from "@/components/DiquisEvidencePhoto";
 import { HaeckelRadiolariaPlate } from "@/components/HaeckelRadiolariaPlate";
 import { BaghdadChronicleImage } from "@/components/BaghdadChronicleImage";
+import { FeatureEvidencePhoto, getFeatureEvidence } from "@/components/FeatureEvidencePhoto";
 import { HeritageEvidencePhoto } from "@/components/HeritageEvidencePhoto";
 import { ReuterNadarPortrait } from "@/components/ReuterNadarPortrait";
 import { ChalcatzingoLandscape } from "@/components/ChalcatzingoLandscape";
@@ -775,6 +776,8 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
                     ? "christmas-island-red-crab"
                     : undefined;
               if (heritagePhoto) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HeritageEvidencePhoto id={heritagePhoto} locale={locale} /></div>;
+              const featurePhoto = getFeatureEvidence(article.slug, originalIndex);
+              if (featurePhoto) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FeatureEvidencePhoto photo={featurePhoto} locale={locale} /></div>;
               const structured = localizedBlocks?.[originalIndex];
               if (article.slug === "mesopotamia-sumer-akkad-babylon-assyria-history" && originalIndex === 8) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MesopotamiaGrainTablet locale={locale} /></div>;

@@ -1,6 +1,470 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "487",
+    "slug": "ghana-fantasy-coffins-funeral-art",
+    "title": "GHANA'S FANTASY COFFINS: WHEN FUNERALS BECOME ART",
+    "seoTitle": "Ghana’s fantasy coffins: Ga funeral art and its makers",
+    "metaDescription": "How Ga carpenters in Ghana turn fish, cars and other forms into personal coffins, and how the practice moved from funerals to museum collections.",
+    "excerpt": "How Ga carpenters in Ghana turn fish, cars and other forms into personal coffins, and how the practice moved from funerals to museum collections.",
+    "category": "World",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/ghana-fantasy-coffins-funeral-art.jpg",
+    "coverAlt": "Illustration of a carpenter painting a fish-shaped coffin in a Ghanaian workshop",
+    "headlineHighlights": {
+      "red": "GHANA'S",
+      "gold": "FANTASY COFFINS"
+    },
+    "tags": [
+      "GHANA'S",
+      "World"
+    ],
+    "content": [
+      "At the University of Cambridge’s Museum of Archaeology and Anthropology, a coffin by the Ghanaian carpenter and sculptor Paa Joe takes the shape of a lion. Its form does something an ordinary rectangular casket rarely asks of a visitor: it invites a question about the relationship between an object and a person. In the coastal towns of Greater Accra, where specialist carpenters make figurative coffins, an animal, a vehicle or a work tool can speak to a family’s memory of the deceased. The design is recognisable from across a room, but its significance may be much more particular than its silhouette. [University of Cambridge Museum of Archaeology and Anthropology](https://collections.maa.cam.ac.uk/objects/555381/)",
+      "The Ga term often given for these coffins, abebuu adekai, is commonly translated as “boxes with proverbs.” The term is a better guide to what they can do than the English label “fantasy coffin” on its own. A wooden fish might refer to an occupation, for example, while another design might express a family association or an aspiration. Neither the craft nor its meanings can be reduced to a fixed menu of occupations. The decisions behind an object belong to the people who commission and make it. [University of Cambridge Museum of Archaeology and Anthropology](https://collections.maa.cam.ac.uk/objects/555381/) [Glasgow Museums](https://collections.glasgowmuseums.com/mwebcgi/mweb?request=record%3Bid%3D518589%3Btype%3D101)",
+      "[[NOV17_CULTURE_487]]",
+      "## Why a coffin might look like a fish or a car",
+      "Among the Ga communities most closely associated with the practice, fishing, trade and the movement of people and goods have long shaped life on the coast. Some of the best-known coffin forms draw on those familiar worlds. A carpenter can make a vehicle with the outline of a particular make or era, a fruit with a recognisable skin, or a fish whose fins and scales give it away immediately. The point of choosing a familiar form can be to say something particular about the deceased in a language that others understand. [University of Cambridge Museum of Archaeology and Anthropology](https://collections.maa.cam.ac.uk/objects/555381/) [Glasgow Museums](https://collections.glasgowmuseums.com/mwebcgi/mweb?request=record%3Bid%3D518589%3Btype%3D101) [Associated Press interviews with Ghanaian coffin makers](https://apnews.com/article/01220db5b2e240a12ae8e4ba8820f993)",
+      "### Why the same shape can mean different things",
+      "A fish can be an obvious reference when mourners know someone made a living on the water. In another setting, the same animal might evoke a place or something that happened to a family. A car might refer to driving as work, the importance of a vehicle to a household or a wish linked to travel. A museum label can propose an interpretation, especially when it has a record of a commission. A viewer who has only the object in front of them should leave room for what the label cannot establish. [University of Cambridge Museum of Archaeology and Anthropology](https://collections.maa.cam.ac.uk/objects/555381/) [Glasgow Museums](https://collections.glasgowmuseums.com/mwebcgi/mweb?request=record%3Bid%3D518589%3Btype%3D101)",
+      "This is also why translation matters. A proverb does not always mean what its individual words suggest. The title someone gives to a coffin and an explanation offered by a mourner may tell a reader more than the type of animal or object alone. Workshops can reuse popular shapes, yet an association made at one funeral does not carry over automatically to the next. Even an object that seems humorous to a visitor may be part of a serious act of remembrance.",
+      "## Who started making figurative coffins?",
+      "The safest answer is that several carpenters helped establish the modern practice in the mid-20th century. The Cambridge museum records a widely circulated account in which Seth Kane Kwei and his brother Ajetey made an airplane-shaped coffin for their grandmother in Teshie in the early 1950s. The Smithsonian credits Kane Kwei with helping develop and popularise the form. The Museum for Sepulchral Culture also documents Ataa Oko Addo, a carpenter and palanquin maker whose work complicates the idea of a single inventor. These accounts record different parts of a workshop tradition that was already developing before it became an international art story. [University of Cambridge Museum of Archaeology and Anthropology](https://collections.maa.cam.ac.uk/objects/555381/) [Smithsonian National Museum of African Art](https://africa.si.edu/collection/object/nmafa_2010-9-1) [Museum for Sepulchral Culture](https://www.sepulkralmuseum.de/en/collections/Insights-into-the-collection/28-fantastic-coffins-from-Ghana/)",
+      "### What palanquins add to the history",
+      "A palanquin is a conveyance carried by people. Figurative examples in Ga history help show that sculpting a full-scale shape to carry a body had precedents in local woodworking, ceremony and public display. The relationship between the two forms matters more than the search for an exact birthday for a tradition. Cabinetmakers and other carpenters worked with existing ways of shaping wood, producing recognisable figures and giving objects a role in collective life. [Museum for Sepulchral Culture](https://www.sepulkralmuseum.de/en/collections/Insights-into-the-collection/28-fantastic-coffins-from-Ghana/)",
+      "## What the carpenter has to solve",
+      "A recognisable object is only one part of the commission. A coffin has to open and close, accommodate the deceased, and be strong enough to move. An exaggerated fin or an aircraft’s wing can give the design away instantly while complicating transport. A maker has to decide where to place a join and how to distribute the weight, as well as how to paint the piece so its identity reads from a distance. The craft sits at the intersection of sculpture and practical carpentry. Museum object records offer clues to construction and materials. A funeral adds a set of practical constraints that an exhibition never has to reproduce. [University of Cambridge Museum of Archaeology and Anthropology](https://collections.maa.cam.ac.uk/objects/555381/) [Smithsonian National Museum of African Art](https://africa.si.edu/collection/object/nmafa_2010-9-1) [Glasgow Museums](https://collections.glasgowmuseums.com/mwebcgi/mweb?request=record%3Bid%3D518589%3Btype%3D101)",
+      "### What apprentices learn from commissions",
+      "The Cambridge museum identifies Paa Joe as an apprentice of Kane Kwei. In a workshop, an apprentice has to learn how to choose stock, construct the box, fit a lid and finish surfaces, as well as how to listen when a customer describes a person. A workshop that has made a form before may still need to alter its scale or details. This helps explain the tension between assigning an object to a celebrated artist and recognising the contributions of trained assistants and relatives. Collection records may give one name even where the object emerged from several hands. [University of Cambridge Museum of Archaeology and Anthropology](https://collections.maa.cam.ac.uk/objects/555381/) [Glasgow Museums](https://collections.glasgowmuseums.com/mwebcgi/mweb?request=record%3Bid%3D518589%3Btype%3D101)",
+      "## How the coffins travelled from funerals into museums",
+      "The 1989 exhibition Magiciens de la Terre in Paris documented work attributed to Kane Kwei and Paa Joe, including a Mercedes-shaped example. The exhibition is a useful landmark in international reception. Local clients and carpenters had already given the practice a history of its own. Works made for a curator, a collector or a gallery can remain available for study long after a funeral commission would have been buried. That difference affects what researchers can see and what stories they can tell from the surviving objects. [Smithsonian National Museum of African Art](https://africa.si.edu/collection/object/nmafa_2010-9-1) [Centre Pompidou exhibition archive](https://cataloguedesexpositions.centrepompidou.fr/Magiciens_de_la_Terre)",
+      "### A museum commission has a different afterlife",
+      "The Museum for Sepulchral Culture received 28 figurative coffins associated with Paa Joe’s workshop in a 2018 donation. This is a count of the objects in that donation. It offers a sense of what collecting can preserve while telling us little about the number used in Ghanaian funerals. A curator can display two similarly shaped pieces side by side and record differences in paint and construction. A family choosing one for a burial may care more about a particular person’s connection with the form. Both settings have much to teach, provided the account identifies which one it describes. [Museum for Sepulchral Culture](https://www.sepulkralmuseum.de/en/collections/Insights-into-the-collection/28-fantastic-coffins-from-Ghana/)",
+      "International attention can change how an object is priced, made and described. It can give artists audiences and allow them to develop work for display. It can also lead distant viewers to assume the museum piece describes the use of every comparable object at home. An exhibition record, then, is evidence of a work and of the terms on which it entered an exhibition. It cannot by itself replace a history of the community that uses the form. [Museum for Sepulchral Culture](https://www.sepulkralmuseum.de/en/collections/Insights-into-the-collection/28-fantastic-coffins-from-Ghana/) [Centre Pompidou exhibition archive](https://cataloguedesexpositions.centrepompidou.fr/Magiciens_de_la_Terre)",
+      "## What the form still tells us about remembrance",
+      "A funeral can bring together people who know quite different parts of a life. Neighbours may remember someone’s work, while relatives recall the habits or stories that mattered at home. A single chosen object offers those people a common point of reference. The trade and museum market have made the designs familiar far beyond Ghana, and recent reporting records how individual Ghanaian carpenters continue to understand them in relation to their customers. [Associated Press interviews with Ghanaian coffin makers](https://apnews.com/article/01220db5b2e240a12ae8e4ba8820f993)",
+      "The most useful questions are specific. Ask who made the coffin, who commissioned it and where it was intended to go. Ask whether the explanation comes from a family, a carver or a collector. Those answers can explain why one impressive piece is evidence of a funeral tradition and another reveals the development of a sculptor’s work. For another account of how outwardly visible practices depend on materials, skills and family choices, see [PRESDA’s feature on the Himba of Namibia](/articles/himba-namibia-red-ochre-pastoralism/).",
+      "### Why so few early commissions are available to compare",
+      "A coffin intended for burial usually leaves a different record from something bought by a collector. Its life outside the workshop may be short, and a photograph may show only the exterior. Family memory can preserve who ordered it and what it meant, even when a researcher cannot inspect the original. The Cambridge lion, by contrast, can be examined for its hinge, lining and paint. Those differences in what survives help explain why accounts of the early workshops can disagree without making either the craft or its local roots doubtful. [University of Cambridge Museum of Archaeology and Anthropology](https://collections.maa.cam.ac.uk/objects/555381/) [Museum for Sepulchral Culture](https://www.sepulkralmuseum.de/en/collections/Insights-into-the-collection/28-fantastic-coffins-from-Ghana/)"
+    ],
+    "references": [
+      {
+        "name": "University of Cambridge Museum of Archaeology and Anthropology",
+        "url": "https://collections.maa.cam.ac.uk/objects/555381/"
+      },
+      {
+        "name": "Smithsonian National Museum of African Art",
+        "url": "https://africa.si.edu/collection/object/nmafa_2010-9-1"
+      },
+      {
+        "name": "Museum for Sepulchral Culture",
+        "url": "https://www.sepulkralmuseum.de/en/collections/Insights-into-the-collection/28-fantastic-coffins-from-Ghana/"
+      },
+      {
+        "name": "Centre Pompidou exhibition archive",
+        "url": "https://cataloguedesexpositions.centrepompidou.fr/Magiciens_de_la_Terre"
+      },
+      {
+        "name": "Glasgow Museums",
+        "url": "https://collections.glasgowmuseums.com/mwebcgi/mweb?request=record%3Bid%3D518589%3Btype%3D101"
+      },
+      {
+        "name": "Associated Press interviews with Ghanaian coffin makers",
+        "url": "https://apnews.com/article/01220db5b2e240a12ae8e4ba8820f993"
+      }
+    ],
+    "relatedSlugs": [
+      "himba-namibia-red-ochre-pastoralism"
+    ],
+    "faq": [
+      {
+        "question": "What are Ghana’s fantasy coffins called?",
+        "answer": "The Ga term abebuu adekai is commonly translated as boxes with proverbs."
+      },
+      {
+        "question": "Who made the first fantasy coffin?",
+        "answer": "Kane Kwei, Ajetey and Ataa Oko appear in accounts of the early practice. Surviving evidence supports a history of multiple makers."
+      },
+      {
+        "question": "Are figurative coffins actually used at funerals?",
+        "answer": "Yes. Ga families have commissioned functional coffins for burial. Other examples have been made for display or collection."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "488",
+    "slug": "uae-hope-probe-first-arab-mars-mission",
+    "title": "UAE'S HOPE PROBE: THE FIRST ARAB MISSION TO MARS",
+    "seoTitle": "UAE Hope probe: the first Arab mission to Mars",
+    "metaDescription": "The UAE’s Hope orbiter reached Mars in 2021. How its orbit and three instruments help scientists study weather, atmospheric escape and Deimos.",
+    "excerpt": "The UAE’s Hope orbiter reached Mars in 2021. How its orbit and three instruments help scientists study weather, atmospheric escape and Deimos.",
+    "category": "Science",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/uae-hope-probe-first-arab-mars-mission.jpg",
+    "coverAlt": "Illustration of the UAE’s Hope spacecraft above Mars",
+    "headlineHighlights": {
+      "red": "HOPE PROBE",
+      "gold": "MARS"
+    },
+    "tags": [
+      "HOPE PROBE",
+      "Science"
+    ],
+    "content": [
+      "Hope reached Mars on February 9, 2021. The United Arab Emirates became the first Arab country to put a spacecraft in orbit around another planet. The spacecraft, called Al Amal in Arabic, had launched months earlier on a Japanese rocket. Its purpose was to watch the Martian atmosphere change over the course of a day and across seasons. That goal shaped where it would fly, what it carried and how the resulting observations could be used by researchers on Earth. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [UAE Space Agency](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)",
+      "A single image can show clouds on Mars. To understand what produced them, scientists need to know the place, local time, season and conditions in the air. The pattern a spacecraft sees just after sunrise can look different in the same region during the afternoon. Hope was designed to observe across those changing conditions instead of sampling almost exclusively at the same local hours. Much of its scientific value comes from where and when its measurements were made. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)",
+      "[[NOV17_CULTURE_488]]",
+      "## The launch, the arrival and the science orbit",
+      "The Emirates Mars Mission launched from Tanegashima, Japan, on July 20, 2020 local time. In Coordinated Universal Time it was still July 19. This accounts for the two dates readers encounter. The H-IIA launch vehicle placed Hope on its interplanetary trajectory, and the spacecraft operated independently after separation. At Mars it needed to brake to become a satellite of the planet. Reaching the neighbourhood of Mars and settling into a useful orbit were two distinct engineering milestones. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)",
+      "### Why entering orbit mattered",
+      "A spacecraft arrives with enough speed that it can pass a planet and continue into space unless it loses sufficient velocity relative to it. Hope fired its engines during arrival to enter an initial capture orbit. It subsequently moved to the higher, elongated orbit used to collect most of its planned science observations. The purpose of the manoeuvre was to remain at Mars and take measurements repeatedly. A lander would instead have needed to survive a descent and would have focused on a much more geographically limited setting. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)",
+      "## What Hope’s unusually high orbit makes possible",
+      "The science orbit ranges from roughly 20,000 to 43,000 kilometres above Mars and takes about 55 hours to complete. From that height a sensor can see large portions of the planet. Repeated passes let the team build up coverage at different local times. A closer spacecraft can often see much smaller features, which matters when researchers want to study a particular canyon, crater or ground site. Hope’s approach trades some of that spatial detail for a wider view and a useful spread of observation times. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)",
+      "### Local time is a measurement, too",
+      "When an observation is taken from orbit, the time on an Earth-based mission clock and the time of day over a point on Mars answer different questions. A single image of one place at dawn may show something that is typical only at that hour. If it is compared with a different place at midday, geography and time are both changing at once. Hope’s repeated observations help researchers distinguish daily heating and cooling from geographic patterns, provided they account for season, the instrument footprint and changing conditions on the ground. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Hope instrument team, comparison with Mars rover measurements](https://arxiv.org/abs/2204.12850)",
+      "## Three instruments look at different layers",
+      "Hope carries the Emirates Exploration Imager, or EXI, the Emirates Mars Infrared Spectrometer, or EMIRS, and the Emirates Mars Ultraviolet Spectrometer, or EMUS. EXI collects visible and ultraviolet imagery. It helps trace features such as water-ice clouds and contributes to studies of ozone. EMIRS looks at thermal infrared radiation to investigate temperatures, dust, ice clouds and water vapour. EMUS uses ultraviolet light to study parts of the upper atmosphere, including emissions from hydrogen and oxygen. The instruments were chosen to make the measurements useful together. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [UAE Space Agency](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)",
+      "### What an instrument measures and what researchers infer",
+      "A spectrometer records how much radiation it receives at different wavelengths. Scientists use models and calibration to infer which constituents of the atmosphere contributed to a signal. Even if a measurement is very precise, there can be uncertainty about where the signal came from or how much of a material was present. A visible image provides extra context, but it also needs interpretation. Recording the instrument, location, time and observing geometry makes it possible for other teams to test those interpretations rather than having to take a press release at face value. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Emirates Mars Mission Science Data Center](https://sdc.emiratesmarsmission.ae/data/)",
+      "## What counts as a weather observation on Mars?",
+      "The lower atmosphere changes as the surface heats and cools. Dust can change how sunlight warms the air, and water held in ice clouds behaves differently over the day. Hope provides a way to follow patterns over large areas at more than one hour of the day. In a study using EMIRS, a research team compared temperatures inferred from orbit with measurements by the Curiosity and Perseverance rovers. A rover can take measurements close to the ground at a specific location. An orbiter can observe a broader area, and its estimate may represent a different patch of ground. Those differences matter even when both instruments are working properly. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [Hope instrument team, comparison with Mars rover measurements](https://arxiv.org/abs/2204.12850)",
+      "### How atmospheric escape fits into the picture",
+      "The top of the Martian atmosphere contains atoms that can escape into space. Observations of hydrogen and oxygen help scientists investigate how material is distributed high above the surface and how that distribution changes. Measurements of the lower atmosphere make it possible to ask whether seasons and weather have a connection to those changes. A modern orbiting mission cannot watch billions of years go by, so current measurements are evidence used alongside models and other observations to investigate the planet’s long history. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [UAE Space Agency](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)",
+      "## Hope had a second target in view",
+      "The mission also obtained observations of Deimos, the smaller of Mars’s two moons. Capturing images and spectra under different viewing conditions helps researchers compare its surface with earlier observations. A separate NASA image taken by the Mars Reconnaissance Orbiter in 2009 provides a useful reference point for readers who want to see what the object looks like. That picture predates Hope. Correctly identifying the spacecraft and date lets a reader compare observations without mistaking one mission’s photograph for the other’s. [UAE Space Agency](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission) [NASA Deimos photojournal](https://science.nasa.gov/photojournal/martian-moon-deimos-in-high-resolution/)",
+      "### What an open archive changes",
+      "The Emirates Mars Mission Science Data Center makes science data discoverable by instrument, processing level and date. An early image on a website can show what an instrument sees. An archive makes a different kind of work possible. Researchers can find observations taken at a time that overlaps a separate spacecraft, work with the calibration information and document how they reached a result. There is a parallel in [PRESDA’s look at the Svalbard seed vault](/articles/svalbard-global-seed-vault-world-food/): a collection is more useful when the material is preserved alongside reliable records that explain what it represents. [Emirates Mars Mission Science Data Center](https://sdc.emiratesmarsmission.ae/data/)",
+      "## What the UAE built through the mission",
+      "The Mohammed Bin Rashid Space Centre led a mission developed with international partners, including the University of Colorado Boulder’s Laboratory for Atmospheric and Space Physics. The science team’s account describes knowledge transfer alongside the hardware and observations. Working on an interplanetary mission means learning to build instruments and also to organise the less visible tasks that make data usable, from reviewing commands to maintaining documentation. Those jobs continue to matter after the televised moment a spacecraft arrives. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) [UAE Space Agency](https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission)",
+      "### Why looking for clouds is also looking for a cycle",
+      "Water on Mars can move from one physical state to another. The same amount of water can give a different signal when it is held in a cloud, mixed through the air or frozen at the surface. Temperature measurements and images taken at compatible times help researchers test what might be happening. They also help to see whether an apparent trend is an artefact of the schedule. A spacecraft that observes a region at the same hour every day can offer an excellent fixed-hour record, while Hope’s varying local times make it easier to ask what changed between morning and evening. Combining the two kinds of record can reveal whether a model captures both the geography and the rhythm of the change. The mission’s planners made that combination part of the scientific case, rather than treating the orbit as just a means of keeping instruments above the ground. [Emirates Mars Mission team, Space Science Reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/)"
+    ],
+    "references": [
+      {
+        "name": "Emirates Mars Mission team, Space Science Reviews",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/"
+      },
+      {
+        "name": "UAE Space Agency",
+        "url": "https://space.gov.ae/en/projects-and-initiatives/space-exploration/emirates-mars-mission"
+      },
+      {
+        "name": "Emirates Mars Mission Science Data Center",
+        "url": "https://sdc.emiratesmarsmission.ae/data/"
+      },
+      {
+        "name": "Hope instrument team, comparison with Mars rover measurements",
+        "url": "https://arxiv.org/abs/2204.12850"
+      },
+      {
+        "name": "NASA Deimos photojournal",
+        "url": "https://science.nasa.gov/photojournal/martian-moon-deimos-in-high-resolution/"
+      }
+    ],
+    "relatedSlugs": [
+      "svalbard-global-seed-vault-world-food"
+    ],
+    "faq": [
+      {
+        "question": "When did Hope reach Mars?",
+        "answer": "It entered Mars orbit on February 9, 2021, after launching from Japan in July 2020."
+      },
+      {
+        "question": "Did Hope land on Mars?",
+        "answer": "Hope is an orbiter. It studies Mars remotely from above the atmosphere."
+      },
+      {
+        "question": "Where can I find Hope’s research data?",
+        "answer": "The Emirates Mars Mission Science Data Center offers records by instrument, observation date and processing level."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "489",
+    "slug": "72-days-andes-flight-571-survival",
+    "title": "72 DAYS IN THE ANDES: THE IMPOSSIBLE SURVIVAL",
+    "seoTitle": "72 days in the Andes: how 16 people survived Flight 571",
+    "metaDescription": "The true story of Uruguayan Air Force Flight 571, the October 1972 crash, the avalanche, the trek for help and the December rescue of 16 survivors.",
+    "excerpt": "The true story of Uruguayan Air Force Flight 571, the October 1972 crash, the avalanche, the trek for help and the December rescue of 16 survivors.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/72-days-andes-flight-571-survival.jpg",
+    "coverAlt": "Illustration of people sheltering next to a broken aircraft fuselage in the snowy Andes",
+    "headlineHighlights": {
+      "red": "72 DAYS",
+      "gold": "ANDES"
+    },
+    "tags": [
+      "72 DAYS",
+      "History"
+    ],
+    "content": [
+      "The last people taken off the mountain on December 23, 1972, had survived more than two months in the wreckage of a plane. The Uruguayan Air Force aircraft had been carrying 45 people when it crashed on October 13 in the Andes. Sixteen survived. The number usually associated with the episode, 72 days, counts the ordeal through the final day of rescue. The helicopters had begun taking people out a day earlier. For the families waiting far below, the rescue overturned weeks of uncertainty and loss. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [Chile’s National Aeronautical and Space Museum](https://museoaeronautico.dgac.gob.cl/2024/02/12/visita-de-parte-de-la-tripulacion-que-realizo-rescate-del-avion-uruguayo-accidentado-en-la-cordillera-de-los-andes-en-el-ano-1972/)",
+      "The story is often told through the two men who emerged from the mountains on foot. Their crossing was decisive. It also depended on the people who kept one another alive at the crash site, a muleteer who recognised the urgency of their request, and crews who could return to a place that had defeated the initial search. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [Chile’s National Aeronautical and Space Museum](https://museoaeronautico.dgac.gob.cl/2024/02/12/visita-de-parte-de-la-tripulacion-que-realizo-rescate-del-avion-uruguayo-accidentado-en-la-cordillera-de-los-andes-en-el-ano-1972/)",
+      "[[NOV17_CULTURE_489]]",
+      "## Why Flight 571 was in the Andes",
+      "The aircraft was a Fairchild FH-227D flying a charter for a group that included members of Uruguay’s Old Christians rugby club, relatives and friends. They were travelling from Montevideo to Chile. The trip included a stop in Mendoza, Argentina, and the flight resumed on October 13. That geography explains why the dispatch airport, destination and crash region appear as different places in accounts of the same event. The destination was Santiago. The wreck lay high in the Andes on the Argentine side, and help eventually arrived through Chile. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [Chile’s National Aeronautical and Space Museum](https://museoaeronautico.dgac.gob.cl/2024/02/12/visita-de-parte-de-la-tripulacion-que-realizo-rescate-del-avion-uruguayo-accidentado-en-la-cordillera-de-los-andes-en-el-ano-1972/) [TIME interview with survivor Roberto Canessa](https://time.com/6551709/society-of-the-snow-true-story-netflix/)",
+      "### Why the wreck was difficult to spot",
+      "The fuselage came to rest amid snow and mountains. From below, the valley was remote and difficult to reach. From above, the wreck was inconspicuous against the surrounding terrain. Visibility also depends on where searchers are able to fly and where they believe the aircraft should be. Knowing after the fact that a group was sheltering in a particular part of a white valley is very different from seeing that group from a search aircraft. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [TIME interview with survivor Roberto Canessa](https://time.com/6551709/society-of-the-snow-true-story-netflix/)",
+      "## What people did inside the fuselage",
+      "Those who lived through the crash faced injuries, bitter nights and a rapidly dwindling supply of food. The cabin was the largest shelter available. People rearranged what they found, closed off part of the opening as best they could and cared for those who could not move easily. Clothing and materials brought for a short trip acquired new uses. A small radio receiver recovered from luggage let the group hear outside broadcasts. On the tenth day, according to the museum, they heard that the official search had been suspended. The information changed what they could reasonably expect from waiting. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [TIME interview with survivor Roberto Canessa](https://time.com/6551709/society-of-the-snow-true-story-netflix/)",
+      "### Small tasks mattered as much as major decisions",
+      "Someone had to help the wounded, organise scarce supplies and keep the shelter usable. Those tasks were repeated, even on days when little appeared to change. Injuries meant that people could not all do the same work. Exhaustion made that division of labour more important over time. Accounts of the rescue can make it sound as though the group’s choices began with a long trek. Their ability to attempt one depended on weeks of work at the fuselage. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [TIME interview with survivor Roberto Canessa](https://time.com/6551709/society-of-the-snow-true-story-netflix/)",
+      "## The avalanche and the decision about food",
+      "An avalanche swept over the wreck on October 29, sixteen days after the crash. Eight more people died. The sudden loss made a shelter the survivors depended on temporarily inaccessible from outside. The accident itself had already made food critically scarce. To remain alive, members of the group ate from the bodies of people who had died. It was a decision taken amid starvation and grief. Survivor accounts are the appropriate record for what it meant to them, and they need to be read in the context of the dead and their families. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [TIME interview with survivor Roberto Canessa](https://time.com/6551709/society-of-the-snow-true-story-netflix/)",
+      "The same people could mourn someone, depend on the other survivors and struggle with what survival had come to require. Retellings that reduce the group to a single decision omit the relationships that continued through those weeks. The museum documents both the deaths and the successive attempts to get off the mountain. Its chronology gives each event a place in a story that otherwise tends to compress many weeks into a few familiar images. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/)",
+      "## The walk into Chile",
+      "Nando Parrado and Roberto Canessa reached the Chilean side after walking out from the wreck. Antonio Vizintín had begun the final expedition with them and returned to the fuselage so the others could continue with the available supplies. Conditions and unfamiliar terrain made every estimate of distance uncertain. The men first had to climb away from the crash site. High ground showed further ridges rather than the clear route to a settlement that they had hoped to find. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [TIME interview with survivor Roberto Canessa](https://time.com/6551709/society-of-the-snow-true-story-netflix/)",
+      "### Why the crossing did not end at the river",
+      "The trekkers reached an area where they could see Sergio Catalán, a Chilean muleteer, across a river. The water was loud enough to frustrate a shouted conversation. Communication across the river made it possible for Catalán to understand that other survivors were still waiting and that help had to reach them quickly. He carried word to the authorities. A sighting by itself would have accomplished little if no one could pass the information onward. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [Chile’s National Aeronautical and Space Museum](https://museoaeronautico.dgac.gob.cl/2024/02/12/visita-de-parte-de-la-tripulacion-que-realizo-rescate-del-avion-uruguayo-accidentado-en-la-cordillera-de-los-andes-en-el-ano-1972/)",
+      "## How the rescue unfolded",
+      "Chile’s National Aeronautical and Space Museum records rescue operations on December 22 and 23. Helicopters had to reach a high, exposed site and remove the survivors in stages. For people still at the wreck, the first visit confirmed that the walk had succeeded. The crews evacuated survivors in stages. The December 23 evacuation completed the rescue. That sequence explains why some accounts date the end to December 22 while others give December 23. They are describing different points of an operation that spanned both dates. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [Chile’s National Aeronautical and Space Museum](https://museoaeronautico.dgac.gob.cl/2024/02/12/visita-de-parte-de-la-tripulacion-que-realizo-rescate-del-avion-uruguayo-accidentado-en-la-cordillera-de-los-andes-en-el-ano-1972/)",
+      "### How to read “72 days”",
+      "From October 13 through December 23 inclusive there are 72 calendar days. The people evacuated first left sooner. Parrado and Canessa had already reached help on foot. The number describes the span of the disaster and rescue. It does not assign exactly the same time, route or experience to each survivor. Likewise, the 45 people aboard included crew as well as passengers. Starting the story with 45 and closing it with 16 makes the human cost visible without making each person’s experience interchangeable. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [Chile’s National Aeronautical and Space Museum](https://museoaeronautico.dgac.gob.cl/2024/02/12/visita-de-parte-de-la-tripulacion-que-realizo-rescate-del-avion-uruguayo-accidentado-en-la-cordillera-de-los-andes-en-el-ano-1972/)",
+      "## What later accounts can tell us",
+      "The Museo Andes 1972 in Uruguay records the names and events at the centre of the tragedy. Canessa’s later interviews offer a survivor’s view of events. Film adaptations can bring readers to the underlying history, but screenplays compress time, combine explanations and choose which character to follow. A museum chronology and an interview also do different jobs. The chronology anchors claims about dates and people. An interview offers an individual’s memory and account of what it felt like to live through those dates. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [TIME interview with survivor Roberto Canessa](https://time.com/6551709/society-of-the-snow-true-story-netflix/)",
+      "It is possible to recognise extraordinary determination and cooperation while remembering that the story started with 45 people expecting an ordinary trip. It involved people caring for one another, a long crossing, a stranger taking a message seriously and a rescue crew prepared to act. For a separate look at Uruguay today, see [PRESDA’s feature on the country’s electricity transition](/articles/uruguay-98-percent-renewable-electricity/).",
+      "### How individuals and institutions preserve different memories",
+      "An account told decades later can describe what one person saw or thought at a particular moment. There may be other people who were present, understood it differently or did not know the news until later. For the people still in the fuselage, the walk was weeks of anticipation ending in a helicopter. For the rescue crews, the relevant problems were finding where to land, travelling safely and returning for the next group. For relatives, the questions began before the search and continued after the rescue. The aeronautical museum’s account of the participants helps document one part of that memory. The Montevideo museum and survivor interviews preserve others. Together they make it possible to recognise the work of people who do not appear as often in a dramatisation. [Museo Andes 1972, Uruguay](https://mandes.uy/en/tragedia-milagro/) [Chile’s National Aeronautical and Space Museum](https://museoaeronautico.dgac.gob.cl/2024/02/12/visita-de-parte-de-la-tripulacion-que-realizo-rescate-del-avion-uruguayo-accidentado-en-la-cordillera-de-los-andes-en-el-ano-1972/) [TIME interview with survivor Roberto Canessa](https://time.com/6551709/society-of-the-snow-true-story-netflix/)"
+    ],
+    "references": [
+      {
+        "name": "Museo Andes 1972, Uruguay",
+        "url": "https://mandes.uy/en/tragedia-milagro/"
+      },
+      {
+        "name": "Chile’s National Aeronautical and Space Museum",
+        "url": "https://museoaeronautico.dgac.gob.cl/2024/02/12/visita-de-parte-de-la-tripulacion-que-realizo-rescate-del-avion-uruguayo-accidentado-en-la-cordillera-de-los-andes-en-el-ano-1972/"
+      },
+      {
+        "name": "TIME interview with survivor Roberto Canessa",
+        "url": "https://time.com/6551709/society-of-the-snow-true-story-netflix/"
+      }
+    ],
+    "relatedSlugs": [
+      "uruguay-98-percent-renewable-electricity"
+    ],
+    "faq": [
+      {
+        "question": "How many people survived Flight 571?",
+        "answer": "Sixteen of the 45 people aboard survived."
+      },
+      {
+        "question": "Who found help?",
+        "answer": "Nando Parrado and Roberto Canessa crossed the mountains. Chilean muleteer Sergio Catalán met them and alerted authorities."
+      },
+      {
+        "question": "Why do accounts give two rescue dates?",
+        "answer": "Helicopters began evacuating survivors on December 22 and completed the rescue on December 23, 1972."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "490",
+    "slug": "finland-three-million-saunas-sauna-culture",
+    "title": "FINLAND: THE COUNTRY WITH THREE MILLION SAUNAS",
+    "seoTitle": "Finland’s three million saunas: löyly, history and customs",
+    "metaDescription": "Why Finland has roughly three million saunas, how löyly works, what UNESCO recognized and what to expect in a Finnish public sauna.",
+    "excerpt": "Why Finland has roughly three million saunas, how löyly works, what UNESCO recognized and what to expect in a Finnish public sauna.",
+    "category": "Travel",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/finland-three-million-saunas-sauna-culture.jpg",
+    "coverAlt": "Illustration of hot sauna stones beside an open door overlooking a snowy Finnish lakeshore",
+    "headlineHighlights": {
+      "red": "FINLAND",
+      "gold": "THREE MILLION SAUNAS"
+    },
+    "tags": [
+      "FINLAND",
+      "Travel"
+    ],
+    "content": [
+      "In a Finnish sauna, the sound of water meeting heated stones can tell you when the room is about to feel different. Finnish speakers call the resulting steam and sensation of heat löyly. It is central to the practice that UNESCO inscribed on its Representative List of the Intangible Cultural Heritage of Humanity in 2020. In the same entry, UNESCO cited 3.3 million saunas for about 5.5 million people. The Finnish Heritage Agency gave a figure of 3.2 million. The headline rounds those estimates to three million. Neither source presents the figure as a live count. [UNESCO intangible cultural heritage register](https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596) [Finnish Heritage Agency](https://www.museovirasto.fi/en/articles/sauna-culture-intangible-cultural-heritage/)",
+      "The number makes more sense once you consider where saunas are found. They can be at a summer cottage by a lake, in a shared building, inside an apartment or in a public establishment. Their distribution matters as much as the total. A room used regularly close to home connects the practice to ordinary life in a way a destination that people visit once cannot. [UNESCO intangible cultural heritage register](https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596) [Finnish Heritage Agency](https://www.museovirasto.fi/en/articles/sauna-culture-intangible-cultural-heritage/)",
+      "[[NOV17_CULTURE_490]]",
+      "## How many saunas does Finland have?",
+      "Finland has roughly three million saunas according to the national and UNESCO accounts published around the inscription. If you divide 3.3 million by 5.5 million, you get about six saunas per ten people. That ratio joins two approximate figures from the same account. It does not measure how many private saunas each household owns, or how frequently each person uses one. Shared facilities make it possible for many users to visit the same room, while a cottage with a sauna counts even if it is used only part of the year. [UNESCO intangible cultural heritage register](https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596) [Finnish Heritage Agency](https://www.museovirasto.fi/en/articles/sauna-culture-intangible-cultural-heritage/)",
+      "### Why the count is an estimate",
+      "The round figure can shift depending on the source, the year and the coverage of facilities. A room in a flat, a smoke sauna in a separate building and a public venue all take different forms. A good comparison would need the same counting rules and reference dates on both sides. UNESCO’s total makes the prevalence of the custom intelligible. Its purpose was to document a practice, and it gives no reason to treat the difference between 3.2 and 3.3 million as evidence that exactly 100,000 rooms were added or lost. [UNESCO intangible cultural heritage register](https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596) [Finnish Heritage Agency](https://www.museovirasto.fi/en/articles/sauna-culture-intangible-cultural-heritage/)",
+      "## What löyly is",
+      "Löyly is the burst of steam and heat experienced when water reaches hot stones. The room may already be at steady temperature, but the added moisture changes the sensation on the skin. Other people in the room feel it at the same time. That is one reason etiquette matters. The Finnish Sauna Society encourages visitors at its facilities to take account of others when adding water. The relevant skill is learning the rhythm of a shared room, including who is present and how they respond. [UNESCO intangible cultural heritage register](https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596) [Finnish Sauna Society visitor customs](https://sauna.fi/en/sauna-house-at-vaskiniemi/sauna-bathing-and-customs/)",
+      "### The heat varies within the same room",
+      "A bench higher in the room is generally warmer than a lower one. The positions are useful because people can want different intensities. The stone heater and the way the room is ventilated also help explain why two saunas can feel different. People often associate the experience with a cycle of warming up, stepping out to cool down and returning if they want to. A lake or a snowy landscape can set the scene for one version of that cycle. A public bath in a city can provide another, with a changing room, a shower and a place to sit. [UNESCO intangible cultural heritage register](https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596) [Finnish Sauna Society visitor customs](https://sauna.fi/en/sauna-house-at-vaskiniemi/sauna-bathing-and-customs/)",
+      "## Smoke, wood and electric saunas",
+      "The Finnish Sauna Society’s facilities illustrate the range. Its site at Vaskiniemi lists smoke saunas, conventional wood-burning saunas and an electrically heated sauna. Smoke saunas have a distinctive heating process. Smoke from warming the large mass of stones passes through the room, and the air is cleared before bathing. A conventional wood stove has a flue. An electric heater can bring the stones to temperature without burning fuel in the room. All three can produce löyly if their hot stones are meant for water. [Finnish Sauna Society on the smoke sauna](https://sauna.fi/en/sauna-knowledge/a-good-smoke-sauna/) [Finnish Sauna Society history and facilities](https://sauna.fi/en/sauna-society/)",
+      "### Why a smoke sauna feels different",
+      "A smoke sauna requires preparation before anyone enters. The work of heating the stones and clearing the room happens in advance, and the stored heat is what the bathers use. Soot darkens parts of the interior. In an electric sauna the heater can be integrated into the ordinary schedule of a building. The convenience can matter where people visit at predictable hours or live in a small flat. A community may value an old sauna in part because preparing it is a skill that people share. The methods coexist because different settings make room for them. [Finnish Sauna Society on the smoke sauna](https://sauna.fi/en/sauna-knowledge/a-good-smoke-sauna/) [Finnish Sauna Society history and facilities](https://sauna.fi/en/sauna-society/)",
+      "## What did UNESCO recognise?",
+      "UNESCO inscribed sauna culture in Finland in 2020. Its entry is about knowledge, practices and their transmission. It is separate from UNESCO’s World Heritage list of individual places. The recognition includes the ways people make, heat, use and share saunas. A family can teach a child what to expect through repeated visits. An association can keep a shared room in use and explain its customs to new members. Those are among the ways a living practice can survive changes in architecture and heating. [UNESCO intangible cultural heritage register](https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596) [Finnish Heritage Agency](https://www.museovirasto.fi/en/articles/sauna-culture-intangible-cultural-heritage/)",
+      "### Sauna and the places people gather",
+      "Some saunas are private, while others bring together people who live in the same building or neighbourhood. At a public facility, visitors may share a space with people they have never met. A posted schedule can therefore carry information that friends at a cottage would negotiate by talking to one another. The Finnish Heritage Agency describes safeguarding through cooperation with organisations that teach and support sauna culture. A working room, its maintenance and the people who make others feel welcome all contribute to keeping the practice available. [Finnish Heritage Agency](https://www.museovirasto.fi/en/articles/sauna-culture-intangible-cultural-heritage/) [Finnish Sauna Society history and facilities](https://sauna.fi/en/sauna-society/)",
+      "## What a visitor should know",
+      "The Finnish Sauna Society publishes rules for its own venue. Local customs and opening arrangements can vary. A public establishment may specify whether people should wear swimwear, bring a towel or use a separate room or session. Those rules are useful because Finland has a range of facilities and a visitor may know only one example. It is considerate to read the venue’s guidance, ask if unsure about adding water and allow other people space to cool down or leave. The custom can be quiet or conversational according to the people and the setting. [Finnish Sauna Society visitor customs](https://sauna.fi/en/sauna-house-at-vaskiniemi/sauna-bathing-and-customs/)",
+      "A sauna visit gives the statistics some texture. Millions of rooms matter because large numbers of people can keep returning to a practice they know and can pass it on. The UNESCO listing gives readers a way to see the institution and the ordinary rooms as part of the same history. For another look at the links between northern environments, buildings and traditions of keeping things safe, read [PRESDA’s feature on Norway’s Svalbard seed vault](/articles/svalbard-global-seed-vault-world-food/).",
+      "### What survives when the building changes",
+      "A stove can change faster than the customs around it. Electricity can make it practical to run a sauna where storing wood or tending a fire would be hard, including in a city building with many users. The idea of a shared room, with a place to wash and cool down, can still feel familiar. A smoke sauna requires a different rhythm of preparation. The building and equipment shape the experience, but people carry knowledge about how to take turns and how to make others comfortable from one setting to the next. That helps explain why safeguarding a practice can mean teaching and maintaining facilities as well as preserving structures. [UNESCO intangible cultural heritage register](https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596) [Finnish Heritage Agency](https://www.museovirasto.fi/en/articles/sauna-culture-intangible-cultural-heritage/) [Finnish Sauna Society history and facilities](https://sauna.fi/en/sauna-society/)",
+      "### What a public booking can tell a visitor",
+      "The simplest clues are often on a venue’s own timetable. A shared session, a group’s private slot and a time with different dress rules may all take place in the same room on the same day. Arriving with the right expectations matters more than turning an account of one sauna into a rule for the whole country. The Finnish Sauna Society’s instructions show how a specific venue makes that information available. [Finnish Sauna Society visitor customs](https://sauna.fi/en/sauna-house-at-vaskiniemi/sauna-bathing-and-customs/)"
+    ],
+    "references": [
+      {
+        "name": "UNESCO intangible cultural heritage register",
+        "url": "https://ich.unesco.org/en/RL/sauna-culture-in-finland-01596"
+      },
+      {
+        "name": "Finnish Heritage Agency",
+        "url": "https://www.museovirasto.fi/en/articles/sauna-culture-intangible-cultural-heritage/"
+      },
+      {
+        "name": "Finnish Sauna Society visitor customs",
+        "url": "https://sauna.fi/en/sauna-house-at-vaskiniemi/sauna-bathing-and-customs/"
+      },
+      {
+        "name": "Finnish Sauna Society on the smoke sauna",
+        "url": "https://sauna.fi/en/sauna-knowledge/a-good-smoke-sauna/"
+      },
+      {
+        "name": "Finnish Sauna Society history and facilities",
+        "url": "https://sauna.fi/en/sauna-society/"
+      }
+    ],
+    "relatedSlugs": [
+      "svalbard-global-seed-vault-world-food"
+    ],
+    "faq": [
+      {
+        "question": "How many saunas are there in Finland?",
+        "answer": "UNESCO cites about 3.3 million and the Finnish Heritage Agency cites 3.2 million. Both figures are estimates published around the 2020 inscription."
+      },
+      {
+        "question": "What is löyly?",
+        "answer": "It is the steam and heat bathers feel when water is poured onto hot sauna stones."
+      },
+      {
+        "question": "Does every Finnish sauna have the same rules?",
+        "answer": "Venues can set different arrangements for swimwear, sessions and other practices. Check the instructions at the facility you plan to visit."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "491",
+    "slug": "1904-olympic-marathon-st-louis",
+    "title": "THE 1904 OLYMPIC MARATHON: THE STRANGEST RACE EVER",
+    "seoTitle": "The 1904 Olympic marathon: Hicks, Lorz and St. Louis",
+    "metaDescription": "The course, heat and disputed stories behind the 1904 St. Louis Olympic marathon, from Fred Lorz’s car ride to Thomas Hicks’s official victory.",
+    "excerpt": "The course, heat and disputed stories behind the 1904 St. Louis Olympic marathon, from Fred Lorz’s car ride to Thomas Hicks’s official victory.",
+    "category": "Sport",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/1904-olympic-marathon-st-louis.jpg",
+    "coverAlt": "Editorial recreation of runners on a dusty road during the 1904 St. Louis Olympics",
+    "headlineHighlights": {
+      "red": "1904 OLYMPIC MARATHON",
+      "gold": "STRANGEST RACE"
+    },
+    "tags": [
+      "1904 OLYMPIC MARATHON",
+      "Sport"
+    ],
+    "content": [
+      "Fred Lorz was the first runner to enter the stadium at the end of the St. Louis Olympic marathon on August 30, 1904. That did not make him the champion. He had covered part of the course in a car and was disqualified. Thomas Hicks became the official winner in 3 hours, 28 minutes and 53 seconds. The course was about 40 kilometres, and only 14 of the 32 people who started finished. The car ride was only one of several episodes shaped by the conditions under which the runners competed. [International Olympic Committee](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Olympedia official results and race history](https://www.olympedia.org/results/56131)",
+      "The 1904 Olympics shared St. Louis with the Louisiana Purchase Exposition. Roads, crowds, vehicles and the physical limits of a summer afternoon surrounded a relatively young international sporting event. Following the runners through that landscape offers a better account of the race than treating every striking detail as a free-standing curiosity. [International Olympic Committee](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Smithsonian magazine historical account](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)",
+      "[[NOV17_CULTURE_491]]",
+      "## The course that wore down the field",
+      "The race began in the afternoon, with laps around the stadium before the runners went out onto roads. Olympedia describes a hot day, about 32 degrees Celsius, and a 40-kilometre course. The familiar modern marathon distance of 42.195 kilometres would give a misleading impression of what they had agreed to run. Unpaved roads and the vehicles driving nearby stirred up dust, and drinking opportunities were scarce. Heat, effort and the surfaces runners met made the race much harder to sustain than the distance alone suggests. [International Olympic Committee](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Olympedia official results and race history](https://www.olympedia.org/results/56131)",
+      "### What “only 14 finished” tells us",
+      "Eighteen starters were outside the official finishing list, including Lorz, whose timing did not count after disqualification. Attrition made a difference for the lead throughout the afternoon. A runner catching someone ahead might be going faster, or the other runner might be slowing sharply after overextending earlier. The official result captures the finish order. The changing lead and the circumstances of individual withdrawals are different evidence, preserved with varying detail in contemporary and later accounts. [International Olympic Committee](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Olympedia official results and race history](https://www.olympedia.org/results/56131)",
+      "## Fred Lorz and the car ride",
+      "The accounts broadly agree that Lorz stopped running partway, rode in a car and later resumed on foot. When he arrived back at the stadium, spectators initially treated him as the winner. His use of a car became known and the result did not stand. The distance he rode and his explanation for reappearing at the finish attract more attention than the central, verifiable point. He completed some of the route using assistance that took the place of running it. The disqualification is in the race record. [International Olympic Committee](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Olympedia official results and race history](https://www.olympedia.org/results/56131)",
+      "### What happened after St. Louis",
+      "Lorz subsequently won the 1905 Boston Marathon. That later result is part of the reason the episode cannot be explained simply by assuming that he was incapable of running a marathon. A reader can separate the race in which he was disqualified from the race he won the following year. This is a useful distinction in a history often told as a sequence of punch lines. Each result came from a different field, course and event. [Olympedia official results and race history](https://www.olympedia.org/results/56131) [Smithsonian magazine historical account](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)",
+      "## What Thomas Hicks’s team did",
+      "Hicks struggled badly as the race went on. Accounts describe his attendants giving him strychnine and later brandy, among other forms of aid, as he continued. Strychnine is a poison. The significance of its appearance here is historical. It shows how early ideas about stimulation, assistance and endurance could create additional danger for a runner. Descriptions vary in some details, but the historical accounts agree he was badly weakened before finishing. His time remains on the official result. [International Olympic Committee](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Olympedia official results and race history](https://www.olympedia.org/results/56131) [Journal of Olympic History historical study](https://isoh.org/wp-content/uploads/2023/12/JOH_3_2023_75dpi.pdf)",
+      "### Why the official result and the aid belong side by side",
+      "The result answers who was recognised as the winner. The narrative of the assistance answers how he got there. Discussion of the event often applies contemporary sporting expectations retrospectively. A historical account can recognise the difference between past practice and modern expectations without suggesting the aid was safe or changing what is in the record. Photographs and contemporary descriptions can illuminate the assistance, but the official table is still the authority for who was placed first. [Olympedia official results and race history](https://www.olympedia.org/results/56131) [Journal of Olympic History historical study](https://isoh.org/wp-content/uploads/2023/12/JOH_3_2023_75dpi.pdf) [1904 Olympic report archival portrait of Hicks](https://commons.wikimedia.org/wiki/File:1904_Thomas_J_Hicks.jpg)",
+      "## The runners who complicate the familiar story",
+      "Albert Corey was second and Arthur Newton third. Corey’s nationality and how he was represented illustrate a difficulty with historical Olympic records. The athlete was French-born, while the country label in accounts of this individual race can follow the entry under an American affiliation. The safest way to report the result is to preserve the finishing order and specify which record supplies any country label. Newton was already an Olympic marathon runner from the Paris Games in 1900. [Olympedia official results and race history](https://www.olympedia.org/results/56131)",
+      "### Félix Carvajal and the South African runners",
+      "Cuba’s Félix Carvajal placed fourth. Some narratives dwell on clothes, fruit and stomach trouble. His recorded finish is easier to establish than every detail of those anecdotes. Len Taunyane and Jan Mashiani also appear in the results, in ninth and twelfth place. The men’s presence points to a wider fairground context and to participation that was not organised in the way a modern national delegation is. The IOC recounts a dog chase involving Taunyane. It belongs in an attributed account alongside his actual finishing position. [International Olympic Committee](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Olympedia official results and race history](https://www.olympedia.org/results/56131) [Smithsonian magazine historical account](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)",
+      "### The runners who did not make it back",
+      "William Garcia was among those who failed to finish and became dangerously ill. Olympedia records that he spent several days in hospital. His experience deserves space in an account of the event because it shows the human cost behind the high number of non-finishers. The same dust and shortage of drinking opportunities that make the race visually memorable exposed athletes to real harm. The winner’s time alone cannot communicate that cost. [Olympedia official results and race history](https://www.olympedia.org/results/56131) [Smithsonian magazine historical account](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)",
+      "## Why the story survives",
+      "The race gives historians a compact example of how results and narratives can diverge. Lorz appears first in the stadium story and nowhere among the official finishers. Hicks appears first in the standings and in historical descriptions of a runner who was in very poor condition. Carvajal and the South Africans appear in popular anecdotes that can overshadow their places. A reader who keeps the sources distinct can appreciate the extraordinary story while seeing which parts are recorded, which are contextual and which require attribution. For another PRESDA feature that reconstructs a famous episode through a timeline and eyewitness accounts, read [72 Days in the Andes](/articles/72-days-andes-flight-571-survival/). [International Olympic Committee](https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon) [Olympedia official results and race history](https://www.olympedia.org/results/56131) [Journal of Olympic History historical study](https://isoh.org/wp-content/uploads/2023/12/JOH_3_2023_75dpi.pdf)",
+      "### How a world’s fair shaped who could take part",
+      "The exposition placed the Olympics in a busy international exhibition, but access to the race was uneven. Olympedia describes several of the American entrants as experienced distance runners, including past Boston winners. It also records how some runners came to St. Louis in connection with the fair itself. Taunyane and Mashiani were associated with its South African exhibit and had worked as dispatch runners during the South African War. Recognising those circumstances gives their results more context than the dog-chase anecdote alone. It also shows how much the presence of athletes could owe to the location of the fair, the cost of making the trip and the networks that got people to the start. [Olympedia official results and race history](https://www.olympedia.org/results/56131) [Smithsonian magazine historical account](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)",
+      "### Why old photographs need their own captions",
+      "An archival image can show a runner’s clothing and the setting in which the camera caught him. Its ability to answer what happened over a whole race is limited. A picture of Hicks reproduced in the official report is evidence of how he was recorded and presented. It cannot establish who led on a particular stretch of road or how much help a runner received before reaching the camera. The same distinction applies to the hero illustration here, which depicts the event without claiming to reproduce an archival photograph. [Journal of Olympic History historical study](https://isoh.org/wp-content/uploads/2023/12/JOH_3_2023_75dpi.pdf) [1904 Olympic report archival portrait of Hicks](https://commons.wikimedia.org/wiki/File:1904_Thomas_J_Hicks.jpg)"
+    ],
+    "references": [
+      {
+        "name": "International Olympic Committee",
+        "url": "https://www.olympics.com/ioc/news/the-strange-case-of-the-st-louis-1904-marathon"
+      },
+      {
+        "name": "Olympedia official results and race history",
+        "url": "https://www.olympedia.org/results/56131"
+      },
+      {
+        "name": "Smithsonian magazine historical account",
+        "url": "https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/"
+      },
+      {
+        "name": "Journal of Olympic History historical study",
+        "url": "https://isoh.org/wp-content/uploads/2023/12/JOH_3_2023_75dpi.pdf"
+      },
+      {
+        "name": "1904 Olympic report archival portrait of Hicks",
+        "url": "https://commons.wikimedia.org/wiki/File:1904_Thomas_J_Hicks.jpg"
+      }
+    ],
+    "relatedSlugs": [
+      "72-days-andes-flight-571-survival"
+    ],
+    "faq": [
+      {
+        "question": "Who won the 1904 Olympic marathon?",
+        "answer": "Thomas Hicks won in 3:28:53 after Fred Lorz was disqualified."
+      },
+      {
+        "question": "Why was Fred Lorz disqualified?",
+        "answer": "He covered part of the route in a car and returned to the course on foot."
+      },
+      {
+        "question": "How many runners finished the 1904 Olympic marathon?",
+        "answer": "Fourteen of the 32 starters were official finishers, according to Olympic records."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "482",
     "slug": "japan-aging-population-over-65",
     "title": "JAPAN'S AGING CRISIS: NEARLY 30% OF ITS POPULATION IS OVER 65",
