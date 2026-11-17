@@ -1,0 +1,201 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/chandrayaan-3-india-historic-moon-landing/",
+  "path": "/es/articles/chandrayaan-3-india-historic-moon-landing/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "CHANDRAYAAN-3: EL ATERRIZAJE HISTÓRICO DE INDIA EN LA LUNA",
+  "seoTitle": "Chandrayaan-3: el alunizaje indio y los hallazgos de Pragyan",
+  "description": "Dónde se posó Vikram en 2023, qué midió el rover Pragyan y qué se puede concluir al detectar azufre.",
+  "excerpt": "Dónde se posó Vikram en 2023, qué midió el rover Pragyan y qué se puede concluir al detectar azufre.",
+  "headlineHighlights": {
+    "red": "CHANDRAYAAN-3",
+    "gold": "ATERRIZAJE HISTÓRICO"
+  },
+  "keywords": [
+    "CHANDRAYAAN-3",
+    "ATERRIZAJE HISTÓRICO"
+  ],
+  "searchIntent": "Dónde se posó Vikram en 2023, qué midió el rover Pragyan y qué se puede concluir al detectar azufre.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/chandrayaan-3-india-historic-moon-landing.jpg",
+    "alt": "Ilustración del módulo de aterrizaje y el rover indios en la Luna con la Tierra al fondo",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El 23 de agosto de 2023, el módulo indio Vikram llegó intacto a la superficie lunar. Chandrayaan-3 logró el primer aterrizaje suave en las altas latitudes australes de la Luna. India se convirtió además en el cuarto país capaz de posarse suavemente en la superficie. El lugar está cerca de los 69,37° de latitud sur, a cientos de kilómetros del polo geográfico. Allí, el pequeño rover Pragyan midió la composición del suelo. El objetivo era demostrar que se podía aterrizar con seguridad, desplazarse y hacer ciencia en un sitio que aún no se había examinado así. [Fuente · www.isro.gov.in](https://www.isro.gov.in/Chandrayaan3.html) [Fuente · www.unoosa.org](https://www.unoosa.org/res/osoindex/data/documents/in/st/stsgser_e1198_html/ser1198E.pdf) [Fuente · pradan.issdc.gov.in](https://pradan.issdc.gov.in/ch3/index.xhtml) [Fuente · www.nasa.gov](https://www.nasa.gov/wp-content/uploads/2026/02/42-240a.pdf?emrc=6af73963a70c9)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo llegó a la Luna"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_WORLD_496]]",
+      "caption": "Chandrayaan-3 de un vistazo",
+      "headings": [
+        "Hito",
+        "Qué pasó"
+      ],
+      "rows": [
+        [
+          "14 de julio de 2023",
+          "Lanzamiento en un LVM3"
+        ],
+        [
+          "23 de agosto de 2023",
+          "Vikram se posa cerca de los 69,37° sur"
+        ],
+        [
+          "Operaciones de superficie",
+          "Pragyan analiza el suelo y Vikram realiza otros experimentos"
+        ],
+        [
+          "Archivo público",
+          "ISRO publica datos y documentación"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La misión despegó el 14 de julio de 2023 en un cohete indio LVM3. La nave llevaba un módulo de propulsión, el vehículo de descenso Vikram y el rover en su interior. El módulo llevó el conjunto hacia la Luna y se separó antes del descenso. En 2019, Chandrayaan-2 había colocado un orbitador alrededor de la Luna, pero su módulo no logró posarse con seguridad. El aterrizaje controlado era una prioridad para el intento posterior. [Fuente · www.isro.gov.in](https://www.isro.gov.in/Chandrayaan3.html) [Fuente · pradan.issdc.gov.in](https://pradan.issdc.gov.in/ch3/index.xhtml)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué es un aterrizaje suave"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay que llegar a una velocidad y con una orientación que el vehículo soporte, en un lugar donde pueda funcionar. Durante el descenso se controlan el movimiento y la distancia al suelo. Las cámaras y otros sensores envían datos a los sistemas de a bordo. El archivo de ISRO describe una secuencia autónoma. Una sucesión de mediciones y ajustes permite al vehículo llegar en condiciones de trabajar. [Fuente · www.isro.gov.in](https://www.isro.gov.in/Chandrayaan3.html) [Fuente · pradan.issdc.gov.in](https://pradan.issdc.gov.in/ch3/index.xhtml)"
+    },
+    {
+      "type": "heading",
+      "text": "Dónde se posó Vikram"
+    },
+    {
+      "type": "paragraph",
+      "text": "El registro de India sitúa el punto cerca de los 69,37° sur, en las altas latitudes de la cara visible. El polo geográfico está en los 90° sur. Un estudio técnico de la NASA calcula unos 632 kilómetros desde el lugar hasta el polo. «Región polar sur» describe una zona y las coordenadas ubican un punto. Un mapa también permite comparar el relieve y la iluminación con los de otros lugares. [Fuente · www.unoosa.org](https://www.unoosa.org/res/osoindex/data/documents/in/st/stsgser_e1198_html/ser1198E.pdf) [Fuente · www.nasa.gov](https://www.nasa.gov/wp-content/uploads/2026/02/42-240a.pdf?emrc=6af73963a70c9)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué demuestra una imagen orbital"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cámara de Lunar Reconnaissance Orbiter fotografió el lugar después del aterrizaje. Una vista desde arriba permite localizar el módulo a la escala que resuelve la cámara. El rover puede distinguir rocas y texturas cerca del suelo. Registrar la fecha, la nave y la resolución ayuda a interpretar la imagen. Una ilustración muestra cómo se sitúan el módulo y el rover sin documentar que se colocaran objetos como una bandera. [Fuente · lroc.im-ldi.com](https://lroc.im-ldi.com/posts/1314)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué midió Pragyan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tras salir del módulo, Pragyan usó dos instrumentos. LIBS analiza la luz emitida por una cantidad diminuta de material excitado con láser. APXS, un espectrómetro de rayos X y partículas alfa, utiliza otra técnica para determinar la composición elemental. ISRO informó de que LIBS confirmó la presencia de azufre. Estudios posteriores utilizaron APXS para comparar las muestras del lugar con otro material lunar. Cada medición describe lo que alcanzó el instrumento. [Fuente · www.isro.gov.in](https://www.isro.gov.in/Chandrayaan3.html) [Fuente · pradan.issdc.gov.in](https://pradan.issdc.gov.in/ch3/index.xhtml) [Fuente · www.isro.gov.in](https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué significa encontrar azufre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Identificar un elemento aporta información sobre la composición local. Hace falta investigar por separado su abundancia en otros lugares y si podría aprovecharse como recurso. La detección tampoco demuestra que hubiera hielo de agua en el lugar. Comparar los resultados con meteoritos y muestras de otras partes de la Luna permite plantear hipótesis sobre impactos y procesos geológicos. La explicación debe ajustarse al conjunto de los elementos y al entorno. [Fuente · www.isro.gov.in](https://www.isro.gov.in/Chandrayaan3.html) [Fuente · www.isro.gov.in](https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué hizo Vikram mientras avanzaba el rover"
+    },
+    {
+      "type": "paragraph",
+      "text": "ISRO identifica instrumentos del módulo para registrar la temperatura cerca de la superficie, el movimiento del suelo y las condiciones del plasma. También llevaba un retrorreflector láser pasivo de la NASA. Se trata de tareas distintas de las mediciones químicas de Pragyan. Juntas aportan información sobre propiedades locales que pueden contar partes diferentes de la historia del terreno. [Fuente · www.isro.gov.in](https://www.isro.gov.in/Chandrayaan3.html) [Fuente · pradan.issdc.gov.in](https://pradan.issdc.gov.in/ch3/index.xhtml)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué la noche lunar limitó las operaciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los equipos estaban diseñados para operar con luz solar durante cerca de un día lunar, aproximadamente dos semanas terrestres. Con la noche cambian la energía disponible y las condiciones térmicas. Una misión planificada para el periodo de luz puede cumplir sus objetivos aunque no opere cuando regrese el Sol. Sus observaciones describen ese tiempo y un lugar concreto. [Fuente · www.isro.gov.in](https://www.isro.gov.in/Chandrayaan3.html) [Fuente · pradan.issdc.gov.in](https://pradan.issdc.gov.in/ch3/index.xhtml)"
+    },
+    {
+      "type": "heading",
+      "text": "Dónde consultar la ciencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "ISRO publicó datos y documentación de los instrumentos. Las coordenadas y la fecha sitúan los hechos. La documentación explica cómo se obtuvo una medida y permite compararla con otras. Para un caso parecido, consulta [el reportaje de PRESDA sobre la sonda Hope de Emiratos](/articles/uae-hope-probe-first-arab-mars-mission/). Hope observó una atmósfera desde la órbita, mientras que Chandrayaan-3 hizo mediciones sobre el suelo lunar. [Fuente · www.isro.gov.in](https://www.isro.gov.in/Chandrayaan3.html) [Fuente · pradan.issdc.gov.in](https://pradan.issdc.gov.in/ch3/index.xhtml)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué importa la escala"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un rover puede analizar puntos a los que llega sin peligro. Una imagen orbital da contexto para comparar el relieve, sin reproducir por sí sola una medición química. De la misma manera, una observación del suelo en una parada no representa automáticamente toda la zona visible. El archivo permite comprobar la ubicación y la escala de cada dato. Así se puede combinar información de una imagen y de un instrumento de superficie sin confundir un punto con un mapa. [Fuente · pradan.issdc.gov.in](https://pradan.issdc.gov.in/ch3/index.xhtml) [Fuente · www.isro.gov.in](https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html) [Fuente · lroc.im-ldi.com](https://lroc.im-ldi.com/posts/1314)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo se complementan el nombre, las coordenadas y la imagen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Statio Shiv Shakti identifica el lugar en los documentos de la misión. Las coordenadas lo sitúan en un sistema de referencia lunar. Una fotografía fechada muestra lo que registró una cámara en un momento concreto. El archivo reúne esos datos y conviene recordar qué función cumple cada uno. Dos fotos del mismo lugar pueden estar iluminadas de modo distinto. Dos publicaciones pueden dar coordenadas con una precisión diferente. Para entender la diferencia hay que leer qué observó cada instrumento y cómo se indicó la posición. [Fuente · www.unoosa.org](https://www.unoosa.org/res/osoindex/data/documents/in/st/stsgser_e1198_html/ser1198E.pdf) [Fuente · pradan.issdc.gov.in](https://pradan.issdc.gov.in/ch3/index.xhtml) [Fuente · lroc.im-ldi.com](https://lroc.im-ldi.com/posts/1314)"
+    },
+    {
+      "type": "paragraph",
+      "text": "También importa cuando se compara un resultado local con otro lugar. La medición representa la muestra que alcanzó el aparato. Si dos equipos registran el mismo elemento, eso no basta para comparar la abundancia si miraron materiales o volúmenes distintos. La documentación permite examinar las unidades y las condiciones de cada observación antes de elaborar una explicación sobre la región. Así, el dato de un rover puede aportar evidencia a una pregunta que no se planteó al principio de la misión. Esta distinción también sirve para comparar la huella de la misión con una escena anterior al descenso. En una observación posterior puede verse el vehículo como un rasgo pequeño. La operación del rover se documenta mejor con sus propios registros. Si se desea asociar una medición con una parte de la imagen, se necesitan la posición, la fecha y el instrumento que produjo cada dato. [Fuente · pradan.issdc.gov.in](https://pradan.issdc.gov.in/ch3/index.xhtml) [Fuente · www.isro.gov.in](https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · www.isro.gov.in",
+      "url": "https://www.isro.gov.in/Chandrayaan3.html"
+    },
+    {
+      "label": "Fuente · www.unoosa.org",
+      "url": "https://www.unoosa.org/res/osoindex/data/documents/in/st/stsgser_e1198_html/ser1198E.pdf"
+    },
+    {
+      "label": "Fuente · pradan.issdc.gov.in",
+      "url": "https://pradan.issdc.gov.in/ch3/index.xhtml"
+    },
+    {
+      "label": "Fuente · www.isro.gov.in",
+      "url": "https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html"
+    },
+    {
+      "label": "Fuente · lroc.im-ldi.com",
+      "url": "https://lroc.im-ldi.com/posts/1314"
+    },
+    {
+      "label": "Fuente · www.nasa.gov",
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/02/42-240a.pdf?emrc=6af73963a70c9"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo se posó Chandrayaan-3?",
+      "answer": "Vikram llegó a la superficie el 23 de agosto de 2023."
+    },
+    {
+      "question": "¿Aterrizó en el polo geográfico?",
+      "answer": "El sitio está cerca de los 69,37° sur, a unos 632 kilómetros del polo."
+    },
+    {
+      "question": "¿Pragyan confirmó hielo de agua?",
+      "answer": "Las mediciones locales incluyeron la detección de azufre. Eso no establece que hubiera hielo de agua."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

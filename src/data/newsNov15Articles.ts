@@ -1,6 +1,468 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "492",
+    "slug": "rapa-nui-moai-statues-mystery",
+    "title": "RAPA NUI: THE MYSTERY OF THE GIANT MOAI STATUES",
+    "seoTitle": "Rapa Nui moai: who built them and how they moved",
+    "metaDescription": "Who carved Rapa Nui’s moai, why they stood on ahu and what an experiment shows about how the statues could have walked.",
+    "excerpt": "Who carved Rapa Nui’s moai, why they stood on ahu and what an experiment shows about how the statues could have walked.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/rapa-nui-moai-statues-mystery.jpg",
+    "coverAlt": "Illustration of large stone moai on the coast of Rapa Nui at sunset",
+    "headlineHighlights": {
+      "red": "RAPA NUI",
+      "gold": "GIANT MOAI STATUES"
+    },
+    "tags": [
+      "RAPA NUI",
+      "History"
+    ],
+    "content": [
+      "At Rano Raraku, a volcanic crater on Rapa Nui, one of the best clues to the making of the island’s giant statues is a figure that never left the rock. Unfinished moai preserve stages of the carving process that are difficult to see in a completed sculpture. Elsewhere, figures stand on raised stone platforms, while others lie beside old roads or remain partly buried on the quarry slopes. Together they allow archaeologists to ask different questions about carving, transport, ceremony and the way people changed the landscape over time. [Museo de Rapa Nui](https://www.museorapanui.gob.cl/conozca-rapa-nui) [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/715/)",
+      "## Who made the moai and what did they represent?",
+      "[[NOV17_WORLD_492]]",
+      "The moai were made by the Polynesian people of Rapa Nui, an island in the southeastern Pacific that is today administered by Chile. The island’s museum counts nearly 900 moai across several kinds of site. A count depends on what researchers identify as a separate statue and whether incomplete forms and fragments are included. The number covers far more than the rows of upright figures familiar from photographs. It includes sculptures at sites that served different purposes and figures at different points in their working lives. [Museo de Rapa Nui](https://www.museorapanui.gob.cl/conozca-rapa-nui) [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/715/)",
+      "### Ancestors and ceremonial platforms",
+      "Many moai stood on ceremonial platforms known as ahu. UNESCO describes a connection with the veneration of ancestors. At many coastal settings the figures face back toward the island, where people lived, rather than out to sea. That orientation helps make sense of their place in community life. It is not a rule that identifies every monument at every site. The platform, associated stones and position within a settlement contain evidence alongside the statue itself. A museum inventory of ahu and moai therefore tells a different story from a photograph of a face removed from its surroundings. [Museo de Rapa Nui](https://www.museorapanui.gob.cl/conozca-rapa-nui) [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/715/)",
+      "The distinction matters when visiting a site that has been restored. A standing row can demonstrate the scale of a platform and bring together features studied during excavations. Where archaeologists re-erected statues or repaired a structure, the view also reflects recent conservation decisions. A fallen figure records a different stage in that place’s history. Neither is a reason to assume that every platform looked the same when it was in use, or that the order in which monuments were built can be read straight from what stands today. [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/715/)",
+      "## Why the quarry is more than a backdrop",
+      "Much of the work took place at Rano Raraku, where volcanic tuff offered large surfaces from which to cut the main figures. A visitor can see forms partly freed from the bedrock and figures in other positions on the slopes. Researchers compare these with completed statues to understand the order of work. One useful distinction is between a feature required early for moving or supporting a statue and a feature that could be finished later. Texture and rock type are useful clues, too. Red stone elements called pukao, present on some moai, add another line of inquiry because they were separate pieces and had their own source. [Museo de Rapa Nui](https://www.museorapanui.gob.cl/conozca-rapa-nui) [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/715/)",
+      "### Why the famous heads have bodies",
+      "Some of the quarry statues appear to be isolated heads because only their upper parts rise well above the ground. The sculptures include bodies. Soil accumulated around some of them. The visible part of a figure therefore depends on its position and on what has happened to the ground around it. A comparison with an exposed statue may reveal a torso, arms and hands that would otherwise remain hidden from view. Describing all the statues as heads obscures what the sculptors made and what archaeologists actually have to measure. [Museo de Rapa Nui](https://www.museorapanui.gob.cl/conozca-rapa-nui)",
+      "## Could the statues really walk?",
+      "The walking hypothesis describes a mechanical process. A team rocks an upright figure from side to side with ropes, moving its base forward in small steps. An experiment with a replica showed that controlled movement of this kind is possible for the form tested. Researchers supporting the hypothesis also compare statues found beside roads with those mounted on platforms. Shape, balance, the position of the base and how a figure might fall can help distinguish a statue prepared for transport from one ready for a platform. The argument rests on the combination of these clues and the experiment. [Journal of Archaeological Science research team](https://www.newswise.com/pdf_docs/175984619715954_1-s2.0-S0305440325002328-main.pdf)",
+      "### What the experiment establishes and where it stops",
+      "A successful demonstration establishes feasibility under its own conditions. It does not identify the crew that moved a particular ancient statue or prove everyone used the same approach. The route, the preparation of a sculpture and the size of a figure all matter. A hypothesis about walking can explain one part of a journey while leaving separate questions about how the figure left the quarry, how it was set on an ahu and how a separate pukao was handled. A good answer keeps those tasks distinct. What interests archaeologists most is whether observations made on the island fit the expectations of a given model better than its alternatives. [Journal of Archaeological Science research team](https://www.newswise.com/pdf_docs/175984619715954_1-s2.0-S0305440325002328-main.pdf)",
+      "## What happened to the island’s communities?",
+      "The older story often told about Rapa Nui puts the monuments at the centre of a collapse caused by the islanders themselves. The loss of trees, changing land use and the end of particular practices are questions that require evidence of their own. The relationship between those developments and a supposed sharp drop in population has been challenged. A 2024 study of genomes from 15 ancient individuals found no evidence for the seventeenth-century population crash it was designed to test. A study of that size still has limits, and it answers a specific question. It does not cancel documented suffering after European contact, including the nineteenth-century Peruvian slave raids. [2024 ancient-genome study in Nature](https://www.nature.com/articles/s41586-024-07881-4)",
+      "The interpretation also changes what readers notice. A monument reflects a community able to organise skilled work, and the landscape records livelihoods beyond statue building. If we begin with a prediction that the inhabitants must have caused their own destruction, we risk treating every carved figure as evidence for that story. The dates of events, records of contact and the archaeology of how people farmed and lived need to be weighed in their own right. The people of Rapa Nui and their descendants also have a stake in how that history is narrated. [Museo de Rapa Nui](https://www.museorapanui.gob.cl/conozca-rapa-nui) [2024 ancient-genome study in Nature](https://www.nature.com/articles/s41586-024-07881-4)",
+      "## What Rapa Nui protects today",
+      "Rapa Nui National Park joined the UNESCO World Heritage List in 1995. Chile’s National Forestry Corporation describes its administration with the Indigenous Ma’u Henua community. What matters in a visit is not simply seeing the largest figure. Standing paths, stone features and the parts of a site left undisturbed help preserve context. Rules about access protect material evidence and places that carry cultural meaning. A picture is more useful when it says which site it shows and whether it shows a restored arrangement. For another PRESDA look at how Indigenous people preserve and interpret their history, read [the feature on the Ainu](/articles/ainu-indigenous-japan-history/). [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/715/) [Chile’s National Forestry Corporation](https://www.conaf.cl/parque_nacionales/parque-nacional-rapa-nui/)",
+      "### What a missing piece can tell us",
+      "A figure’s eyes, its uppermost stone and its platform may have different histories. If a carving stands today without an element that survives elsewhere, an archaeologist has to ask whether it was never installed, was taken away, was lost in a fall or was excluded from a restoration. The same missing feature can have more than one explanation. Quarry and platform evidence can help constrain the choices, but the conclusion may differ from site to site. That is one reason specific site names are valuable in descriptions of the moai. [Museo de Rapa Nui](https://www.museorapanui.gob.cl/conozca-rapa-nui) [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/715/)",
+      "## How the same monument can enter several histories",
+      "The stone outcrop, the finished figure and the restored platform each belong to different events. An object moved or photographed later can also acquire an archive of its own. Keeping the quarry, the platform and the present arrangement in view helps readers distinguish what is known about the carving from what is known about its later history. [Museo de Rapa Nui](https://www.museorapanui.gob.cl/conozca-rapa-nui) [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/715/)",
+      "When an interpretation concerns an entire island, its evidence must cover more than one impressive site. A record of where figures are found lets researchers ask which relationships recur and which are local. [Museo de Rapa Nui](https://www.museorapanui.gob.cl/conozca-rapa-nui)"
+    ],
+    "references": [
+      {
+        "name": "Museo de Rapa Nui",
+        "url": "https://www.museorapanui.gob.cl/conozca-rapa-nui"
+      },
+      {
+        "name": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/715/"
+      },
+      {
+        "name": "Journal of Archaeological Science research team",
+        "url": "https://www.newswise.com/pdf_docs/175984619715954_1-s2.0-S0305440325002328-main.pdf"
+      },
+      {
+        "name": "2024 ancient-genome study in Nature",
+        "url": "https://www.nature.com/articles/s41586-024-07881-4"
+      },
+      {
+        "name": "Chile’s National Forestry Corporation",
+        "url": "https://www.conaf.cl/parque_nacionales/parque-nacional-rapa-nui/"
+      }
+    ],
+    "relatedSlugs": [
+      "ainu-indigenous-japan-history"
+    ],
+    "faq": [
+      {
+        "question": "Who built the moai?",
+        "answer": "The Polynesian people of Rapa Nui carved and erected them."
+      },
+      {
+        "question": "Were the moai just heads?",
+        "answer": "No. Many have carved bodies. Soil conceals the lower parts of some quarry figures."
+      },
+      {
+        "question": "Did the statues walk?",
+        "answer": "An experimental replica could move upright with ropes. That supports one hypothesis without proving how every ancient statue traveled."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "493",
+    "slug": "kukur-tihar-nepal-festival-honoring-dogs",
+    "title": "KUKUR TIHAR: NEPAL'S FESTIVAL HONORING DOGS",
+    "seoTitle": "Kukur Tihar: why Nepal honors dogs during Tihar",
+    "metaDescription": "Why dogs receive garlands, tika and food during Nepal’s Tihar festival, and how the day fits into the wider celebration.",
+    "excerpt": "Why dogs receive garlands, tika and food during Nepal’s Tihar festival, and how the day fits into the wider celebration.",
+    "category": "Travel",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/kukur-tihar-nepal-festival-honoring-dogs.jpg",
+    "coverAlt": "Illustration of people placing orange flower garlands on dogs during Kukur Tihar in Nepal",
+    "headlineHighlights": {
+      "red": "KUKUR TIHAR",
+      "gold": "HONORING DOGS"
+    },
+    "tags": [
+      "KUKUR TIHAR",
+      "Travel"
+    ],
+    "content": [
+      "During Kukur Tihar in Nepal, dogs are honoured with flower garlands, a mark called tika and offerings of food. The celebration is part of Tihar, the festival of lights, and Nepal’s tourism board places it on the second day of the customary five-day sequence. The gesture can be intimate, as when a household honours an animal it knows, or public, as at ceremonies for police dogs. The encounter has a religious history as well as an immediate meaning for people whose lives include dogs. [Nepal Tourism Board](https://ntb.gov.np/tihar) [Lumbini Province visitor guide](https://molwcsc.lumbini.gov.np/media/downloads/Lumbini_Visitor_Guide_Book.pdf) [Kathmandu Post photographs from 2024](https://kathmandupost.com/visual-stories/2024/10/31/kukur-tihar-trained-dogs-perform-tricks)",
+      "## When Kukur Tihar takes place",
+      "[[NOV17_WORLD_493]]",
+      "Kukur Tihar falls during Tihar, which is also known as Yamapanchak in connection with Yama, the deity associated with death. The five-day sequence in the Nepal Tourism Board’s account begins with crows, then honours dogs. Other observances are centred on cattle, worship of Lakshmi, also written Laxmi, and relationships between siblings. Those themes are distinct parts of a wider festival. A picture of a garlanded dog can introduce one day, but a reader looking for the meaning of that day should also know what surrounds it. [Nepal Tourism Board](https://ntb.gov.np/tihar) [Lumbini Province visitor guide](https://molwcsc.lumbini.gov.np/media/downloads/Lumbini_Visitor_Guide_Book.pdf)",
+      "### Why a calendar date can move",
+      "The familiar Gregorian months do not determine the timing of the festival. Observances follow a traditional lunisolar calendar, whose dates shift when expressed in the Gregorian system. A second-day description gives the festival’s customary order. Anyone planning to attend in a particular year still needs that year’s published local dates and the timing of the specific event. A family’s celebration is also a different matter from a ceremony organised by an institution. The fact that both mark Kukur Tihar does not say when a visitor is welcome at either. [Nepal Tourism Board](https://ntb.gov.np/tihar) [Lumbini Province visitor guide](https://molwcsc.lumbini.gov.np/media/downloads/Lumbini_Visitor_Guide_Book.pdf)",
+      "## What the garland, tika and offering express",
+      "In photos and local accounts, a dog may wear a flower garland and have a coloured mark placed on its forehead. A food offering can accompany those gestures. They acknowledge an animal and set the occasion apart from an ordinary feeding or encounter. The exact flowers and food may differ. What makes the objects legible is the setting: people are making a deliberate gesture of recognition. A portrait isolated from the wider ceremony may capture the marks on a dog while losing the relationships that gave the act its meaning. [Nepal Tourism Board](https://ntb.gov.np/tihar) [Lumbini Province visitor guide](https://molwcsc.lumbini.gov.np/media/downloads/Lumbini_Visitor_Guide_Book.pdf) [Kathmandu Post photographs from 2024](https://kathmandupost.com/visual-stories/2024/10/31/kukur-tihar-trained-dogs-perform-tricks)",
+      "### Why dogs are associated with Yama",
+      "The Nepal Tourism Board explains that dogs are honoured as agents of Yama. Different retellings can emphasise watchfulness, loyalty or the association with a threshold between life and death. It is useful to distinguish the religious explanation given by the tourism board from the reason a particular household chooses to participate. Families may describe a dog’s companionship or protection in everyday terms while taking part in a festival with a shared religious context. A good account leaves room for both. [Nepal Tourism Board](https://ntb.gov.np/tihar)",
+      "## From household dogs to police dogs",
+      "The practice can include dogs that live with families, dogs people meet in the street and working animals. Nepal Police has also marked the occasion publicly. A Kathmandu Post photo report documents the 2024 Kukur Tihar event at the Central Police Dog Training School. The event brought handlers and dogs together in a setting where their work could be recognised. Because it was organised by an institution, the ceremony also had an audience and a timetable different from those of a household ritual. [Nepal Tourism Board](https://ntb.gov.np/tihar) [Kathmandu Post photographs from 2024](https://kathmandupost.com/visual-stories/2024/10/31/kukur-tihar-trained-dogs-perform-tricks)",
+      "### What police dogs do outside festival day",
+      "In 2026, Kathmandu Post reporting described Nepal Police dogs trained for work that includes searching after floods and other disasters, and their role in criminal investigations. Search work and public demonstrations draw on different circumstances. A controlled demonstration allows people to watch a handler and dog together. A search can require dealing with unfamiliar places and the practical pressure of an emergency. A festival photograph records the moment of recognition, while the report about their work explains a reason people might choose to honour them. [Kathmandu Post reporting on Nepal Police dogs](https://kathmandupost.com/national/2026/11/08/from-flood-hit-areas-to-crime-scenes-nepal-s-police-dogs-sniff-out-vital-clues) [Kathmandu Post photographs from 2024](https://kathmandupost.com/visual-stories/2024/10/31/kukur-tihar-trained-dogs-perform-tricks)",
+      "## How to understand the images without flattening the tradition",
+      "The festival is often represented by a close-up of one animal. The image is memorable, but the same camera angle could be used at a private gathering, in a neighbourhood or at a police event. Identifying the year, location and type of gathering makes the picture more useful as a historical record. It lets the reader distinguish a photograph taken by a reporter from an editorial illustration, and explains why an image from one city may not represent a whole country. Those distinctions also help us recognise the work of people who prepare the flowers and food, and others whose role is less visible in a finished photograph. [Lumbini Province visitor guide](https://molwcsc.lumbini.gov.np/media/downloads/Lumbini_Visitor_Guide_Book.pdf) [Kathmandu Post photographs from 2024](https://kathmandupost.com/visual-stories/2024/10/31/kukur-tihar-trained-dogs-perform-tricks)",
+      "### One day of recognition and the rest of the year",
+      "Ceremony and care are different kinds of attention. The offering is visible. Everyday care includes a dependable supply of suitable food and clean water, and attention to the animal’s condition. An unfamiliar dog may avoid a crowd even when people mean well. For an observer, giving a dog space and asking before approaching someone else’s animal makes it easier to follow the occasion without turning it into a performance for a camera. This practical distinction also helps explain why a photograph taken on one day cannot establish how a dog was treated throughout the year.",
+      "## What the other days add to the story",
+      "Tihar brings together multiple observances. The Nepal Tourism Board describes the worship of Lakshmi and the concluding Bhai Tika observance, when sisters traditionally bless brothers. The Lumbini visitor guide describes other steps in the sequence, including observances associated with cattle. Household and community variations should be understood in relation to this shared festival setting. A reader who knows only the dog day sees one distinctive part of a celebration that also concerns prosperity, kinship and relationships people recognise through ritual. [Nepal Tourism Board](https://ntb.gov.np/tihar) [Lumbini Province visitor guide](https://molwcsc.lumbini.gov.np/media/downloads/Lumbini_Visitor_Guide_Book.pdf)",
+      "A festival can be both public and deeply local. Names, objects, local calendars and the accounts of participants help explain why a practice persists. For another example of how a familiar object gains meaning through the choices of those who use it, read [PRESDA’s feature on Ghana’s figurative coffins](/articles/ghana-fantasy-coffins-funeral-art/). The practices are different. What they share is the need to ask whose interpretation we are hearing.",
+      "### Why following the order matters",
+      "In accounts of the five-day sequence, the animal observances do not all carry the same meaning. Crows, dogs and cattle occupy different places. A visit organised around the dogs may therefore miss the context in which people have already begun preparing lights and decorations for other observances, or in which relatives are making plans to meet. The dog day is distinctive because the animal is the focus of the action in that moment. Keeping the wider sequence visible helps explain why that moment also belongs to a celebration with many other acts of hospitality, worship and recognition. [Nepal Tourism Board](https://ntb.gov.np/tihar) [Lumbini Province visitor guide](https://molwcsc.lumbini.gov.np/media/downloads/Lumbini_Visitor_Guide_Book.pdf)",
+      "### What a dated report adds",
+      "The 2024 report from the police dog school identifies where the ceremony took place, the institution involved and the year. This makes it possible to compare that occasion with reporting about the same institution in 2026. Accounts of the search roles give detail that a photograph of the ceremony cannot show. Conversely, the photograph confirms how a particular public event looked. Using both sources lets us describe the work and the recognition without presenting one year’s practices as a promise about the next. [Kathmandu Post reporting on Nepal Police dogs](https://kathmandupost.com/national/2026/11/08/from-flood-hit-areas-to-crime-scenes-nepal-s-police-dogs-sniff-out-vital-clues) [Kathmandu Post photographs from 2024](https://kathmandupost.com/visual-stories/2024/10/31/kukur-tihar-trained-dogs-perform-tricks)",
+      "## What a visitor can identify in the sequence",
+      "Knowing which ceremony is taking place helps a visitor recognise the type of gathering. A public event can explain its schedule through announcements. A household may have its own arrangements. Seeing the mark, flowers and food together helps identify how that particular occasion expresses recognition. [Nepal Tourism Board](https://ntb.gov.np/tihar) [Lumbini Province visitor guide](https://molwcsc.lumbini.gov.np/media/downloads/Lumbini_Visitor_Guide_Book.pdf)",
+      "The year matters when using a report to plan a visit. A ceremony and its location can be documented without establishing a permanent public timetable. [Kathmandu Post photographs from 2024](https://kathmandupost.com/visual-stories/2024/10/31/kukur-tihar-trained-dogs-perform-tricks)"
+    ],
+    "references": [
+      {
+        "name": "Nepal Tourism Board",
+        "url": "https://ntb.gov.np/tihar"
+      },
+      {
+        "name": "Lumbini Province visitor guide",
+        "url": "https://molwcsc.lumbini.gov.np/media/downloads/Lumbini_Visitor_Guide_Book.pdf"
+      },
+      {
+        "name": "Kathmandu Post reporting on Nepal Police dogs",
+        "url": "https://kathmandupost.com/national/2026/11/08/from-flood-hit-areas-to-crime-scenes-nepal-s-police-dogs-sniff-out-vital-clues"
+      },
+      {
+        "name": "Kathmandu Post photographs from 2024",
+        "url": "https://kathmandupost.com/visual-stories/2024/10/31/kukur-tihar-trained-dogs-perform-tricks"
+      }
+    ],
+    "relatedSlugs": [
+      "ghana-fantasy-coffins-funeral-art"
+    ],
+    "faq": [
+      {
+        "question": "What is Kukur Tihar?",
+        "answer": "A day of Nepal’s Tihar festival when dogs are honoured, often with flowers, tika and food."
+      },
+      {
+        "question": "Why does Nepal honour dogs during Tihar?",
+        "answer": "The Nepal Tourism Board associates the observance with dogs as agents of Yama. Families and institutions may also recognise companionship, protection or service."
+      },
+      {
+        "question": "Does it fall on the same date each year?",
+        "answer": "Its Gregorian date varies. Consult a current Nepalese festival calendar for a specific year."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "494",
+    "slug": "ethiopia-13-month-calendar-pagume-enkutatash",
+    "title": "ETHIOPIA: THE COUNTRY WITH 13 MONTHS IN A YEAR",
+    "seoTitle": "Ethiopian calendar: 13 months, Pagume and New Year",
+    "metaDescription": "How Ethiopia’s 13-month calendar counts leap days, why its years differ from Gregorian dates and when Enkutatash falls.",
+    "excerpt": "How Ethiopia’s 13-month calendar counts leap days, why its years differ from Gregorian dates and when Enkutatash falls.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/ethiopia-13-month-calendar-pagume-enkutatash.jpg",
+    "coverAlt": "Illustration of Ethiopian New Year celebrations with yellow flowers and a rock-hewn church in the background",
+    "headlineHighlights": {
+      "red": "ETHIOPIA",
+      "gold": "13 MONTHS"
+    },
+    "tags": [
+      "ETHIOPIA",
+      "History"
+    ],
+    "content": [
+      "Ethiopia’s calendar divides a solar year into thirteen months. Twelve have thirty days each. The remaining month, Pagume, has five days in an ordinary year and six in a leap year. The result is a year of 365 or 366 days, even though the months are arranged differently from those in the Gregorian calendar. The Ethiopian year begins on 1 Meskerem, which in this century usually falls on September 11 or 12. The holiday marking that beginning is Enkutatash. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Unicode ICU Ethiopic calendar reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html) [Ethiopian News Agency](https://www.ena.et/web/eng/w/en_16865) [Ethiopian Tourism official festivals brochure](https://visitethiopia.et/brochures/ethiopian-festivals/download)",
+      "## How thirteen months fit into a solar year",
+      "[[NOV17_WORLD_494]]",
+      "The longer months account for 360 days: twelve multiplied by thirty. Pagume contains the five remaining days, plus an additional day in a leap year. The arithmetic explains why a country can have thirteen months without a longer year. In the Gregorian system, months have unequal lengths and the additional day is placed in February. In the Ethiopic system documented by Unicode’s calendar implementation, the extra day comes at the end of the year. Both devices are ways of fitting whole dates to a solar cycle that does not last a whole number of days. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Unicode ICU Ethiopic calendar reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)",
+      "### Why the short month matters",
+      "If a calendar gives a date in Pagume, a reader needs to know whether that year has five or six days at the end. A sixth day is valid only in a leap year. The name can be transliterated more than one way. When reading an unfamiliar spelling, it helps to check the month’s position and the calendar in use before assuming that a different month is meant. An Ethiopian date written with numerals alone can also be mistaken for a Gregorian one. Saying explicitly which system is being used removes an ambiguity that the digits themselves cannot resolve. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Unicode ICU Ethiopic calendar reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)",
+      "## Where the calendar comes from",
+      "The calendar is part of the Ethiopic tradition and is closely related in structure to the Coptic calendar. The Unicode International Components for Unicode documentation treats the Coptic and Ethiopic calendars as related systems that can share arithmetic while using their own starting points. The shared pattern of twelve months of thirty days and a short period at the end reflects a much older way of organising a solar year. The calendar today has religious and civic significance. The Oromia statistical abstract, for example, discusses how agencies use different calendar conventions when they present data. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Unicode ICU Ethiopic calendar reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html) [Embassy of Ethiopia](https://ethiopianembassy.org/culture/)",
+      "### Why the year numbers are different",
+      "Year numbering depends on the historical starting point a system uses. The usual Ethiopian era and the Gregorian era use different reckonings within the Christian tradition. They also start their years at different times of year. Those two differences are why a Gregorian year can overlap two named Ethiopian years. Subtracting seven or eight is sometimes a useful orientation, but it cannot identify the right day or month. If a record gives only a year, the uncertainty cannot be resolved by arithmetic alone. If it gives a complete date and the system is known, it can be converted. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Unicode ICU Ethiopic calendar reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)",
+      "## What happens at Ethiopian New Year",
+      "Enkutatash falls on 1 Meskerem. The Ethiopian News Agency associates the holiday with the end of the rainy season and with bright yellow adey abeba flowers. The embassy also describes its religious associations. The beginning of the year has a mathematical definition, and the celebration gives that date social meaning through traditions that people recognise and pass on. Different households can observe the same calendar date in different ways. A description of an official holiday does not tell us exactly how every family spends it. [Ethiopian News Agency](https://www.ena.et/web/eng/w/en_16865) [Embassy of Ethiopia](https://ethiopianembassy.org/culture/) [Ethiopian Tourism official festivals brochure](https://visitethiopia.et/brochures/ethiopian-festivals/download)",
+      "### When September 11 becomes September 12",
+      "The calendar has its own leap rule. If an extra day is added at the end of Pagume, the following year’s first day comes one day later relative to the nearby Gregorian dates. The familiar September 11 or September 12 pattern is a rule of thumb for the present era. The Gregorian calendar skips some century leap days, while the Ethiopian system uses a four-year pattern. A reader working with dates over a long historical span needs a proper conversion rather than extrapolating the familiar September rule indefinitely. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Unicode ICU Ethiopic calendar reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html) [Ethiopian Tourism official festivals brochure](https://visitethiopia.et/brochures/ethiopian-festivals/download)",
+      "## A worked example for September 2026",
+      "September 11, 2026 corresponds to 1 Meskerem 2019 in the Ethiopian calendar. The year 2019 in that system is a leap year, so its last month, Pagume, has six days. The next Ethiopian New Year falls on September 12, 2027. The two Gregorian years in this example are both ordinary Gregorian years. This is why it is misleading to determine the Ethiopian leap day by checking whether February had 29 days in a Gregorian year nearby. The correct procedure uses the Ethiopian year and then converts the complete date. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Unicode ICU Ethiopic calendar reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)",
+      "### Why date conversion matters outside holidays",
+      "Consider a document that covers one year of school enrolment or spending. If it says 2019 without identifying the calendar, the time period can be unclear. Even when the calendar is known, a fiscal year can have a different start from a calendar year, as the Oromia statistical abstract explains. A careful citation can preserve the date as printed and add a Gregorian equivalent when available. It is also useful to keep the original wording when the source gives a range. That way another reader can reproduce the conversion and check what was included. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Unicode ICU Ethiopic calendar reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)",
+      "## What this calendar teaches about dates",
+      "A date combines a rule for counting days with a culture’s way of naming them. Ethiopia’s thirteen months offer a particularly clear example because the difference appears in both the year number and the placement of the short month. The calendar continues to work because its users can recognise and communicate those rules in ordinary life. For another example of how a cultural practice is inherited and maintained in everyday settings, see [PRESDA’s feature on Finnish sauna culture](/articles/finland-three-million-saunas-sauna-culture/).",
+      "### How to make a date usable to the next reader",
+      "A short note can be more helpful than an unexplained conversion. Write the original date, name the calendar and add the equivalent date only when the conversion is known. With a range, specify whether both ends are included. In the 2026 example, saying the year ends on September 11, 2027 and the next one starts on September 12 is clearer than reporting a year range without days. Transliterating Meskerem or Pagume consistently also makes it easier to compare documents. When a source uses an unusual spelling, preserve it in the title or quotation and explain the equivalent term in the surrounding text. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Unicode ICU Ethiopic calendar reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)",
+      "## Why a date range is more useful than a year offset",
+      "A year offset is tempting because it turns a calendar question into one subtraction. A set of dates shows why the shortcut breaks down. The same Ethiopian year can include part of one Gregorian year and part of another. Pagume belongs to the Ethiopian year that is ending. Checking the original month and date avoids moving it accidentally into the new year. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Unicode ICU Ethiopic calendar reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)",
+      "Someone comparing a holiday, a school record and a statistical report also needs the kind of period each source uses. The title of a year identifies the label. The start and end dates identify what the label covers. [Oromia Planning and Development Commission statistical abstract](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf)"
+    ],
+    "references": [
+      {
+        "name": "Oromia Planning and Development Commission statistical abstract",
+        "url": "https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf"
+      },
+      {
+        "name": "Unicode ICU Ethiopic calendar reference",
+        "url": "https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html"
+      },
+      {
+        "name": "Ethiopian News Agency",
+        "url": "https://www.ena.et/web/eng/w/en_16865"
+      },
+      {
+        "name": "Embassy of Ethiopia",
+        "url": "https://ethiopianembassy.org/culture/"
+      },
+      {
+        "name": "Ethiopian Tourism official festivals brochure",
+        "url": "https://visitethiopia.et/brochures/ethiopian-festivals/download"
+      }
+    ],
+    "relatedSlugs": [
+      "finland-three-million-saunas-sauna-culture"
+    ],
+    "faq": [
+      {
+        "question": "Does Ethiopia really have 13 months?",
+        "answer": "Yes. Twelve months have 30 days and the last has five or six."
+      },
+      {
+        "question": "When is Ethiopian New Year?",
+        "answer": "It is 1 Meskerem. In the present era it normally corresponds to September 11 or 12."
+      },
+      {
+        "question": "Why are the year numbers different?",
+        "answer": "The systems use different starting points and different New Year dates, so there is no single subtraction that converts a complete date."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "495",
+    "slug": "iceland-geothermal-district-heating-homes",
+    "title": "ICELAND: THE COUNTRY THAT HEATS HOMES WITH VOLCANIC ENERGY",
+    "seoTitle": "How Iceland heats homes with geothermal energy",
+    "metaDescription": "Iceland’s geothermal heating explained: what the 90% figure means, how district heating works and why lava can threaten pipes.",
+    "excerpt": "Iceland’s geothermal heating explained: what the 90% figure means, how district heating works and why lava can threaten pipes.",
+    "category": "Science",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/iceland-geothermal-district-heating-homes.jpg",
+    "coverAlt": "Illustration of an Icelandic flag beside a geothermal facility, hot water and volcanic rocks",
+    "headlineHighlights": {
+      "red": "ICELAND",
+      "gold": "VOLCANIC ENERGY"
+    },
+    "tags": [
+      "ICELAND",
+      "Science"
+    ],
+    "content": [
+      "A radiator in Reykjavík can draw on heat from below ground without requiring a furnace in the building. That result took more than hot rock. Wells, treatment equipment, pumping stations and pipe networks had to connect a useful source of heat with a dependable demand. Iceland’s National Energy Authority reports that geothermal energy supplied about 90% of the energy used for domestic heating in 2020. This is a measure of heat used in homes. Iceland’s greenhouse-gas inventory reports a smaller geothermal share of electricity production, which is a different measure. [Iceland’s National Energy Authority](https://orkustofnun.is/en/natural_resources/district_heating) [Iceland National Inventory Document](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf)",
+      "## What “volcanic energy” means at home",
+      "[[NOV17_WORLD_495]]",
+      "Iceland’s geology helps make accessible geothermal resources possible, but a town does not need an active lava flow to run its heating system. Heat in the ground warms water and rock. A well can bring hot water or a mixture of water and steam to the surface if the resource has suitable temperature, chemistry and flow. The design varies according to the field. The phrase “volcanic energy” points to the geological setting, while geothermal district heating describes the service that reaches a building. [Iceland’s National Energy Authority](https://orkustofnun.is/en/natural_resources/district_heating) [Veitur Utilities district heating documentation](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)",
+      "### Why the electricity mix has a different answer",
+      "Heating can be supplied as hot water. Electricity is a separate way of carrying energy, and its generation can involve a turbine or another conversion process. A high-temperature geothermal installation may provide power and also help supply a hot-water network, but a utility can use another field only for heat. Iceland’s national inventory distinguishes geothermal space heating from electricity, where hydropower is important. Comparing those percentages without keeping their denominators visible creates a misleading picture of how people use energy. [Iceland’s National Energy Authority](https://orkustofnun.is/en/natural_resources/district_heating) [Iceland National Inventory Document](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf)",
+      "## How hot water reaches a building",
+      "Veitur Utilities describes two sources for its hot-water networks. In one, water from a suitable lower-temperature geothermal field can go into a district network. In the other, geothermal heat is transferred to cold fresh water at a plant, and that heated water is sent to users. A heat exchanger keeps the fluids apart while heat crosses a surface between them. The choice depends on the properties of the resource and on the requirements of the network. Receiving geothermal heat at a radiator does not tell us which path the water followed. [Veitur Utilities district heating documentation](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)",
+      "### What the pipes do",
+      "A district heating works only if heat is available at the right time and in the right place. The network must get the water to buildings at suitable temperatures and pressures and cope with changes in demand. Insulation limits the heat lost along the way. Operators need to know how changing flow in one branch can affect another. A source that looks promising at the wellhead can be a poor match for a town if the pipe route is too difficult or the number of customers too small. The distance and the pattern of demand are part of the engineering, not details that can be settled after the wells are drilled. [Iceland’s National Energy Authority](https://orkustofnun.is/en/natural_resources/district_heating) [Veitur Utilities district heating documentation](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)",
+      "## How Reykjavík made it possible at city scale",
+      "The National Energy Authority describes small early uses before large public projects. In 1930, a pipe about three kilometres long connected geothermal sources in Reykjavík to Austurbæjarskóli, a school. It mattered because it demonstrated a service connecting one location to another. Connecting a whole city required a larger supply, more pipes and institutions with the ability to build and operate the system. New projects also had to work around existing buildings and habits. A resource becomes useful to households when the network reaches them and heat arrives reliably. [Iceland’s National Energy Authority](https://orkustofnun.is/en/natural_resources/district_heating)",
+      "The example shows why this transition cannot be explained by geology alone. A well and a school provided a useful project, while establishing a city service required other customers and the capacity to maintain the network. Work on home heating can also have consequences for the use of streets. Laying a pipe creates construction work up front and maintenance work later. The scale of the network determines which homes gain access, and how easily the operator can connect a new source if the first one cannot meet demand. [Iceland’s National Energy Authority](https://orkustofnun.is/en/natural_resources/district_heating) [Veitur Utilities district heating documentation](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)",
+      "## Why the same geological setting can threaten the network",
+      "HS Orka’s 2024 report documents damage caused by lava flows on the Reykjanes Peninsula. A February flow damaged the Njarðvík hot-water line from the Svartsengi area. A geothermal source can still hold usable heat while a damaged pipe interrupts the delivery of that heat. That distinction matters in events where the question a resident needs answered is when service can reach the building again. Pipeline routes, repairs and alternative connections affect that outcome. [HS Orka Sustainability Report 2024](https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf)",
+      "### What operators have to watch below ground",
+      "Wells draw heat and fluid from reservoirs whose response has to be monitored. The relevant constraints can involve pressure, recharge, temperature and water chemistry. Reykjavík Energy describes reinjection where applicable. Returning geothermal fluid can help manage some field conditions, but the operator still needs to track what changes over time and plan maintenance. The national inventory also records emissions from geothermal plants. At one site, avoiding one source of fuel combustion can coexist with operational emissions, water handling and local impacts that need their own measurements. [Iceland National Inventory Document](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf) [Reykjavík Energy water use report](https://annualreport2023.or.is/umhverfismal/e6-vatnsnotkun/)",
+      "## Which parts of the Icelandic example can travel?",
+      "Different places have different resources. A network may use suitable geothermal water directly, or it may require another source of heat and exchange equipment. A dense group of customers can support a network more easily than widely separated households, and an existing network can change the economics of connecting a new supply. Before treating the Icelandic share as a target to copy, it helps to ask what energy is counted, what temperature is available and what it will take to move heat to users. For another case in which the type of energy counted changes the meaning of a headline, read [PRESDA’s analysis of Uruguay’s electricity transition](/articles/uruguay-98-percent-renewable-electricity/). [Iceland’s National Energy Authority](https://orkustofnun.is/en/natural_resources/district_heating) [Veitur Utilities district heating documentation](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)",
+      "### Why winter peak demand matters",
+      "A network needs to be considered at the hour when buildings need the most heat as well as across the whole year. Two towns may use similar annual amounts while experiencing very different peaks. In those hours, pipe capacity, storage and the ability to bring another supply online can affect whether a building remains warm. Weather and the condition of the buildings can change demand. Monitoring temperatures around the network helps an operator see whether a shortfall begins at the source, along the route or in equipment that transfers heat inside a building. A national percentage cannot provide these answers for a particular neighbourhood. [Iceland’s National Energy Authority](https://orkustofnun.is/en/natural_resources/district_heating) [Veitur Utilities district heating documentation](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)",
+      "## How to compare heat networks",
+      "A useful comparison begins at the point at which the customer receives heat. It asks how heat is transferred, what the network covers and what happens during a disruption. The richness of a resource and the quality of a service are different questions. [Iceland’s National Energy Authority](https://orkustofnun.is/en/natural_resources/district_heating) [Veitur Utilities district heating documentation](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)",
+      "A city with several sources may be able to redirect supply when a line goes down. A place served by one connection faces a different repair problem even if its annual use of geothermal heat is high. [Veitur Utilities district heating documentation](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf) [HS Orka Sustainability Report 2024](https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf)"
+    ],
+    "references": [
+      {
+        "name": "Iceland’s National Energy Authority",
+        "url": "https://orkustofnun.is/en/natural_resources/district_heating"
+      },
+      {
+        "name": "Veitur Utilities district heating documentation",
+        "url": "https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf"
+      },
+      {
+        "name": "Iceland National Inventory Document",
+        "url": "https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf"
+      },
+      {
+        "name": "HS Orka Sustainability Report 2024",
+        "url": "https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf"
+      },
+      {
+        "name": "Reykjavík Energy water use report",
+        "url": "https://annualreport2023.or.is/umhverfismal/e6-vatnsnotkun/"
+      }
+    ],
+    "relatedSlugs": [
+      "uruguay-98-percent-renewable-electricity"
+    ],
+    "faq": [
+      {
+        "question": "How much of Iceland’s household heating comes from geothermal energy?",
+        "answer": "The National Energy Authority put the share at about 90% of domestic heating energy in 2020."
+      },
+      {
+        "question": "Does lava directly heat homes?",
+        "answer": "The network depends on geothermal resources underground, then on equipment and pipes that deliver the heat."
+      },
+      {
+        "question": "Is 90% also the geothermal share of Iceland’s electricity?",
+        "answer": "No. The figure is for domestic heating. Electricity generation has a separate mix."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "496",
+    "slug": "chandrayaan-3-india-historic-moon-landing",
+    "title": "CHANDRAYAAN-3: INDIA'S HISTORIC MOON LANDING",
+    "seoTitle": "Chandrayaan-3: India’s Moon landing and its discoveries",
+    "metaDescription": "India landed Vikram near the lunar south pole in 2023. Where it touched down, what Pragyan measured and what the mission did not establish.",
+    "excerpt": "India landed Vikram near the lunar south pole in 2023. Where it touched down, what Pragyan measured and what the mission did not establish.",
+    "category": "Science",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/chandrayaan-3-india-historic-moon-landing.jpg",
+    "coverAlt": "Illustration of India’s Chandrayaan-3 lander and rover on the Moon with Earth in the background",
+    "headlineHighlights": {
+      "red": "CHANDRAYAAN-3",
+      "gold": "MOON LANDING"
+    },
+    "tags": [
+      "CHANDRAYAAN-3",
+      "Science"
+    ],
+    "content": [
+      "On August 23, 2023, India’s Vikram lander reached the surface of the Moon intact. Chandrayaan-3 was the first mission to make a successful soft landing in the Moon’s southern high-latitude region. India also became the fourth country to soft-land on the Moon. The position was close to latitude 69.37° south, several hundred kilometres from the geographic south pole. From that site, a small rover called Pragyan made measurements of lunar soil. The mission was designed to demonstrate safe landing, movement on the surface and scientific work at a place that had not previously been sampled in person or by a rover. [ISRO Chandrayaan-3 mission record](https://www.isro.gov.in/Chandrayaan3.html) [India’s United Nations space object registration](https://www.unoosa.org/res/osoindex/data/documents/in/st/stsgser_e1198_html/ser1198E.pdf) [ISRO Science Data Archive](https://pradan.issdc.gov.in/ch3/index.xhtml) [NASA technical study of the landing location](https://www.nasa.gov/wp-content/uploads/2026/02/42-240a.pdf?emrc=6af73963a70c9)",
+      "## How Chandrayaan-3 reached the Moon",
+      "[[NOV17_WORLD_496]]",
+      "The mission launched on July 14, 2023, on India’s LVM3 rocket. Its three main elements were a propulsion module, Vikram and the rover inside the lander. The propulsion module carried the lander-and-rover combination toward the Moon and separated before the descent. Chandrayaan-3 followed Chandrayaan-2, whose orbiter reached the Moon in 2019 but whose lander did not complete a safe touchdown. Demonstrating a controlled landing was therefore central to the follow-up mission. [ISRO Chandrayaan-3 mission record](https://www.isro.gov.in/Chandrayaan3.html) [ISRO Science Data Archive](https://pradan.issdc.gov.in/ch3/index.xhtml)",
+      "### What “soft landing” means",
+      "The aim is to arrive at a speed and orientation the vehicle can withstand, at a place where it can carry out its tasks. A controlled descent has to manage both the spacecraft’s motion and its distance from the surface. The camera, navigation system and other sensors provide information that can be used on board as the surroundings change. ISRO’s archive describes an autonomous landing sequence. A safe landing is the point where a sequence of measurements and adjustments produces a lander able to work on the ground. [ISRO Chandrayaan-3 mission record](https://www.isro.gov.in/Chandrayaan3.html) [ISRO Science Data Archive](https://pradan.issdc.gov.in/ch3/index.xhtml)",
+      "## Where Vikram actually landed",
+      "India’s registration records the site near 69.37° south. This places it in the southern high latitudes of the near side. The geographic pole is at 90° south. A NASA technical report places the landing around 632 kilometres from the pole. That distance matters because “south polar region” is a geographic description used with some flexibility, while a coordinate locates a specific site. A drawing of the landing also differs from a map that allows readers to compare the latitude, terrain and lighting of other sites. [India’s United Nations space object registration](https://www.unoosa.org/res/osoindex/data/documents/in/st/stsgser_e1198_html/ser1198E.pdf) [NASA technical study of the landing location](https://www.nasa.gov/wp-content/uploads/2026/02/42-240a.pdf?emrc=6af73963a70c9)",
+      "### What an orbital image can verify",
+      "The Lunar Reconnaissance Orbiter Camera imaged the landing site after touchdown. An image from above can show the lander’s position at the scale the camera resolves. That is different from a surface view, where a lander or rover can see individual rocks and the texture of the ground in front of it. Recording the date, spacecraft and resolution makes the image useful as evidence. An illustration of the landing can help readers see how the lander and rover fit together, but it does not serve as a record of the placement of flags or other objects. [Lunar Reconnaissance Orbiter Camera archive](https://lroc.im-ldi.com/posts/1314)",
+      "## What Pragyan measured",
+      "After deployment, Pragyan used two instruments to study the material around it. LIBS, the laser-induced breakdown spectroscope, examines light emitted from a tiny amount of material excited by a laser. APXS, the alpha particle X-ray spectrometer, uses another technique to determine elemental composition. ISRO reported that LIBS confirmed sulfur at the site. Later analyses used APXS measurements to investigate the characteristics of the soil and compare them with other lunar material. Each measurement describes the material the sensor actually sampled. [ISRO Chandrayaan-3 mission record](https://www.isro.gov.in/Chandrayaan3.html) [ISRO Science Data Archive](https://pradan.issdc.gov.in/ch3/index.xhtml) [ISRO analysis of Pragyan soil measurements](https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html)",
+      "### What detecting sulfur does and does not tell us",
+      "Identifying an element is evidence about the composition of the material within the instrument’s reach. It does not establish how much of the same element exists elsewhere or whether it could be collected economically. It also does not demonstrate that water ice was present at the landing spot. A study that compares the rover’s results with lunar meteorites or with material from elsewhere uses a second line of evidence. The comparison may suggest how impacts or earlier geologic processes shaped the site. The hypothesis still depends on how well it explains the pattern of different elements and the wider setting. [ISRO Chandrayaan-3 mission record](https://www.isro.gov.in/Chandrayaan3.html) [ISRO analysis of Pragyan soil measurements](https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html)",
+      "## What Vikram did while Pragyan moved",
+      "The lander also carried scientific instruments. ISRO’s archive identifies ChaSTE for near-surface thermal measurements, ILSA for ground motion, and a radio experiment for the plasma environment, along with a passive laser retroreflector from NASA. Their tasks were separate from the rover’s chemical measurements. Taken together, they offer a record of more than one property of the local environment. That is useful because the thermal conditions, mechanical signals and composition of a site can each tell a different part of its history. [ISRO Chandrayaan-3 mission record](https://www.isro.gov.in/Chandrayaan3.html) [ISRO Science Data Archive](https://pradan.issdc.gov.in/ch3/index.xhtml)",
+      "### Why the lunar night limited operations",
+      "The lander and rover were designed to operate in sunlight for about one lunar day, roughly two Earth weeks. A lunar night changes both the energy available to solar hardware and the thermal environment. A mission with a stated daylight operating plan can meet its primary objectives without resuming work when sunlight returns. The available data should be read in relation to that schedule. Measurements at one site during one span of daylight describe that span, rather than a full seasonal record of the lunar environment. [ISRO Chandrayaan-3 mission record](https://www.isro.gov.in/Chandrayaan3.html) [ISRO Science Data Archive](https://pradan.issdc.gov.in/ch3/index.xhtml)",
+      "## How to look up the science",
+      "ISRO released observations through its science archive, where researchers can identify instruments and download data products. A landing date and a coordinate tell us where to begin. The instrument documentation tells us what counts as an observation, how it was obtained and how to compare it. For a related example of the value of those records, read [PRESDA’s feature on the UAE’s Hope Mars mission](/articles/uae-hope-probe-first-arab-mars-mission/). Both missions made scientific data available, while one observed a planet’s atmosphere from orbit and the other measured conditions on a patch of the lunar surface. [ISRO Chandrayaan-3 mission record](https://www.isro.gov.in/Chandrayaan3.html) [ISRO Science Data Archive](https://pradan.issdc.gov.in/ch3/index.xhtml)",
+      "### Why the scale of a measurement matters",
+      "A soil measurement near a rover and an image covering a crater answer different questions. The rover can analyse material at the points it can safely reach. An orbital view provides context for the landing and for comparing the surrounding terrain, but it cannot automatically reproduce the rover’s local chemical measurement. Similarly, a finding at one of the rover’s stops need not describe every place within the visible scene. Putting those observations together requires retaining the location and scale of each one. The archive and its instrument documentation let a reader begin that comparison without confusing a single data point with a map. [ISRO Science Data Archive](https://pradan.issdc.gov.in/ch3/index.xhtml) [ISRO analysis of Pragyan soil measurements](https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html) [Lunar Reconnaissance Orbiter Camera archive](https://lroc.im-ldi.com/posts/1314)",
+      "## How place names, coordinates and images fit together",
+      "Statio Shiv Shakti identifies the site in the registration and scientific archive. A coordinate expresses its position in a lunar reference system, while a dated photograph provides evidence of what was seen. Those are complementary records. Scientific work requires keeping them attached to the correct instrument and observation. [India’s United Nations space object registration](https://www.unoosa.org/res/osoindex/data/documents/in/st/stsgser_e1198_html/ser1198E.pdf) [ISRO Science Data Archive](https://pradan.issdc.gov.in/ch3/index.xhtml) [Lunar Reconnaissance Orbiter Camera archive](https://lroc.im-ldi.com/posts/1314)",
+      "That care matters when one result is used to make a broader claim. A measurement in the surface soil can be compared with results from another site, but doing so requires an account of how each instrument sampled the material. [ISRO Science Data Archive](https://pradan.issdc.gov.in/ch3/index.xhtml) [ISRO analysis of Pragyan soil measurements](https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html)"
+    ],
+    "references": [
+      {
+        "name": "ISRO Chandrayaan-3 mission record",
+        "url": "https://www.isro.gov.in/Chandrayaan3.html"
+      },
+      {
+        "name": "India’s United Nations space object registration",
+        "url": "https://www.unoosa.org/res/osoindex/data/documents/in/st/stsgser_e1198_html/ser1198E.pdf"
+      },
+      {
+        "name": "ISRO Science Data Archive",
+        "url": "https://pradan.issdc.gov.in/ch3/index.xhtml"
+      },
+      {
+        "name": "ISRO analysis of Pragyan soil measurements",
+        "url": "https://www.isro.gov.in/Ch3_Alpha_Particle_X-ray_Spectrometer.html"
+      },
+      {
+        "name": "Lunar Reconnaissance Orbiter Camera archive",
+        "url": "https://lroc.im-ldi.com/posts/1314"
+      },
+      {
+        "name": "NASA technical study of the landing location",
+        "url": "https://www.nasa.gov/wp-content/uploads/2026/02/42-240a.pdf?emrc=6af73963a70c9"
+      }
+    ],
+    "relatedSlugs": [
+      "uae-hope-probe-first-arab-mars-mission"
+    ],
+    "faq": [
+      {
+        "question": "When did Chandrayaan-3 land?",
+        "answer": "Vikram touched down on August 23, 2023."
+      },
+      {
+        "question": "Did it land at the geographic south pole?",
+        "answer": "The landing site was near latitude 69.37° south, about 632 kilometres from the pole."
+      },
+      {
+        "question": "Did Pragyan confirm water ice?",
+        "answer": "Its reported local elemental measurements included sulfur. That finding does not establish the presence of water ice at the site."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "487",
     "slug": "ghana-fantasy-coffins-funeral-art",
     "title": "GHANA'S FANTASY COFFINS: WHEN FUNERALS BECOME ART",

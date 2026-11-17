@@ -8,6 +8,142 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV17_WORLD_492]]": {
+    "caption": "What the evidence at Rapa Nui can show",
+    "headers": [
+      "Evidence",
+      "What researchers ask"
+    ],
+    "rows": [
+      [
+        "Unfinished carving at Rano Raraku",
+        "How was the figure cut from the rock?"
+      ],
+      [
+        "Statues beside transport routes",
+        "Do the shape and position fit a transport hypothesis?"
+      ],
+      [
+        "Stone platforms and restored figures",
+        "How did the statues relate to ceremonial spaces?"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_WORLD_493]]": {
+    "caption": "Kukur Tihar at a glance",
+    "headers": [
+      "Element",
+      "What it means in context"
+    ],
+    "rows": [
+      [
+        "Timing",
+        "Customarily the second day of Tihar"
+      ],
+      [
+        "Garland and tika",
+        "Visible gestures used to honour dogs"
+      ],
+      [
+        "Food offering",
+        "Part of the act of recognition"
+      ],
+      [
+        "Police ceremonies",
+        "Public recognition of working dogs, separate from household observances"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_WORLD_494]]": {
+    "caption": "How the Ethiopian year is divided",
+    "headers": [
+      "Part of the year",
+      "Number of days"
+    ],
+    "rows": [
+      [
+        "Months 1 through 12",
+        "30 days each, for a total of 360"
+      ],
+      [
+        "Pagume in an ordinary year",
+        "5 days"
+      ],
+      [
+        "Pagume in a leap year",
+        "6 days"
+      ],
+      [
+        "Full year",
+        "365 or 366 days"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_WORLD_495]]": {
+    "caption": "How heat reaches users",
+    "headers": [
+      "System stage",
+      "What it does"
+    ],
+    "rows": [
+      [
+        "Resource",
+        "A well accesses hot geothermal fluid"
+      ],
+      [
+        "Direct use or heat exchange",
+        "The system uses suitable hot water or transfers its heat to fresh water"
+      ],
+      [
+        "District network",
+        "Insulated pipes deliver heat to connected buildings"
+      ],
+      [
+        "Local equipment",
+        "Radiators or other equipment transfer heat indoors"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_WORLD_496]]": {
+    "caption": "Chandrayaan-3 at a glance",
+    "headers": [
+      "Milestone",
+      "What happened"
+    ],
+    "rows": [
+      [
+        "July 14, 2023",
+        "The mission launches aboard LVM3"
+      ],
+      [
+        "August 23, 2023",
+        "Vikram soft-lands near latitude 69.37° south"
+      ],
+      [
+        "Surface operations",
+        "Pragyan analyses local soil while Vikram carries separate experiments"
+      ],
+      [
+        "Public archive",
+        "ISRO publishes data products and instrument documentation"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV17_CULTURE_487]]": {
     "caption": "From workshop to collection",
     "headers": [

@@ -1,0 +1,193 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/iceland-geothermal-district-heating-homes/",
+  "path": "/es/articles/iceland-geothermal-district-heating-homes/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "ISLANDIA: EL PAÍS QUE CALIENTA SUS HOGARES CON ENERGÍA VOLCÁNICA",
+  "seoTitle": "Cómo funciona la calefacción geotérmica en Islandia",
+  "description": "Qué mide la cifra del 90 %, cómo llega el calor a los hogares y qué pasa si la lava daña una tubería.",
+  "excerpt": "Qué mide la cifra del 90 %, cómo llega el calor a los hogares y qué pasa si la lava daña una tubería.",
+  "headlineHighlights": {
+    "red": "ISLANDIA",
+    "gold": "ENERGÍA VOLCÁNICA"
+  },
+  "keywords": [
+    "ISLANDIA",
+    "ENERGÍA VOLCÁNICA"
+  ],
+  "searchIntent": "Qué mide la cifra del 90 %, cómo llega el calor a los hogares y qué pasa si la lava daña una tubería.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/iceland-geothermal-district-heating-homes.jpg",
+    "alt": "Ilustración de una instalación geotérmica junto a rocas volcánicas y una bandera islandesa",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un radiador de Reikiavik puede aprovechar calor del subsuelo sin depender de una caldera en el edificio. Para conseguirlo hicieron falta pozos, tratamiento, estaciones de bombeo y una red de tuberías. La Autoridad Nacional de la Energía calcula que la geotermia aportó cerca del 90 % de la energía para calefacción doméstica en 2020. El dato describe calor utilizado en los hogares. El inventario nacional de emisiones indica una cuota geotérmica menor en electricidad, que se calcula por separado. [Fuente · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Fuente · unfccc.int](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué significa la energía volcánica en casa"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_WORLD_495]]",
+      "caption": "Cómo llega el calor a los hogares",
+      "headings": [
+        "Etapa",
+        "Función"
+      ],
+      "rows": [
+        [
+          "Pozo",
+          "Llega al fluido geotérmico"
+        ],
+        [
+          "Uso directo o intercambio",
+          "Se utiliza agua apropiada o se transfiere el calor a agua dulce"
+        ],
+        [
+          "Red",
+          "Las tuberías aisladas llegan a los edificios"
+        ],
+        [
+          "Equipo interior",
+          "Radiadores u otros equipos calientan los espacios"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La geología islandesa permite acceder a recursos geotérmicos. El calor subterráneo calienta el agua y la roca. Un pozo puede llevar a la superficie agua caliente o una mezcla con vapor si la temperatura, la composición y el caudal lo permiten. El diseño depende del yacimiento. La expresión «energía volcánica» apunta al entorno geológico, mientras que la calefacción geotérmica urbana es el servicio que recibe el edificio. [Fuente · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Fuente · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué la electricidad se calcula por separado"
+    },
+    {
+      "type": "paragraph",
+      "text": "El agua caliente puede transportar calor. Para generar electricidad se necesita una conversión distinta, por ejemplo mediante turbinas. Una planta de alta temperatura puede aportar electricidad y calor, y hay recursos que solo sirven para calefacción. El inventario nacional distingue los usos. La energía hidroeléctrica tiene peso en la producción eléctrica. Comparar ambos porcentajes exige saber a qué total corresponde cada uno. [Fuente · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Fuente · unfccc.int](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo llega el agua caliente al edificio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Veitur describe dos fuentes para sus redes. Si el agua de un yacimiento de menor temperatura es adecuada, puede pasar a la red. En otros casos una planta transfiere el calor geotérmico a agua dulce fría y distribuye la segunda. Un intercambiador mantiene separados los fluidos mientras permite que pase el calor. La elección depende de las propiedades del recurso y las exigencias de la red. Conocer el origen del calor no basta para saber de dónde procede el agua del radiador. [Fuente · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué hacen las tuberías"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una red tiene que entregar calor en el lugar y el momento necesarios, con temperaturas y presiones apropiadas. El aislamiento limita pérdidas. Los operadores vigilan si los cambios de caudal en una rama afectan a otras. Un pozo prometedor puede quedar lejos de los clientes o requerir una ruta difícil. La distancia y las horas de mayor consumo forman parte del problema desde el principio. [Fuente · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Fuente · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo creció el sistema en Reikiavik"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Autoridad de la Energía registra usos pequeños antes de las grandes obras públicas. En 1930, una conducción de unos tres kilómetros conectó recursos termales de la ciudad con la escuela Austurbæjarskóli. La obra demostró que se podía prestar un servicio entre dos puntos. Conectar a una ciudad exigía más fuentes, tuberías y capacidad para gestionar el conjunto. También había que integrar edificios y hábitos previos. Las familias podían disponer de calor cuando la red llegaba físicamente al barrio. [Fuente · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La transición dependió de las obras tanto como del recurso. Una tubería se instala y después necesita mantenimiento. Importan cuántas viviendas pueden conectarse y si existe una ruta para sumar un abastecimiento nuevo. Una localidad con pocos edificios cerca del pozo tiene opciones distintas de un barrio denso. Incluso si el recurso es similar, cambia lo que cuesta llegar al cliente. [Fuente · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Fuente · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo la lava puede interrumpir el servicio"
+    },
+    {
+      "type": "paragraph",
+      "text": "HS Orka documentó en su informe de 2024 averías por flujos de lava en la península de Reykjanes. En febrero se dañó la conducción de agua caliente de Njarðvík, vinculada al área de Svartsengi. Puede quedar calor utilizable en el subsuelo mientras una rotura interrumpe su entrega. Para saber cuándo volverá el servicio importan el trazado, las reparaciones y las conexiones alternativas. [Fuente · www.hsorka.is](https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué se vigila bajo tierra"
+    },
+    {
+      "type": "paragraph",
+      "text": "El caudal, la presión, la recarga, la temperatura y la química pueden cambiar. Reykjavík Energy describe reinyección en los emplazamientos donde corresponde. Devolver fluido ayuda con algunas condiciones del yacimiento, y hace falta vigilar su evolución. El inventario nacional registra también emisiones de instalaciones geotérmicas. Reducir la combustión en los edificios deja cuestiones de emisiones de la planta, gestión del agua y efectos locales que necesitan sus propias mediciones. [Fuente · unfccc.int](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf) [Fuente · annualreport2023.or.is](https://annualreport2023.or.is/umhverfismal/e6-vatnsnotkun/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué partes del ejemplo pueden trasladarse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada lugar dispone de recursos distintos. Una red puede usar agua apropiada de forma directa o requerir intercambio de calor. Es más fácil conectar clientes cerca unos de otros que viviendas dispersas. Además, una red existente cambia lo que cuesta incorporar una fuente nueva. Para interpretar la cifra de Islandia, conviene preguntar por el tipo de energía, la temperatura y el coste de llevar calor a los usuarios. Lee también [el análisis de PRESDA sobre la electricidad uruguaya](/articles/uruguay-98-percent-renewable-electricity/). [Fuente · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Fuente · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué importa el máximo de demanda invernal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos localidades pueden usar cantidades similares en un año y sufrir picos distintos en invierno. Cuando los edificios piden más calor, importan la capacidad de las tuberías, el almacenamiento y la posibilidad de activar otra fuente. El tiempo y el estado de los edificios modifican la demanda. Medir la temperatura en distintos puntos ayuda a determinar si una falta de calor comienza en el recurso, en el trayecto o en el equipo del inmueble. Un porcentaje nacional describe la escala del uso y deja abiertas preguntas sobre una calle concreta. [Fuente · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Fuente · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo comparar redes de calor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se puede empezar por el lugar en que el usuario recibe el calor. Hace falta conocer cómo se transfiere, qué zona cubre la red y qué ocurre si se interrumpe. Las condiciones del yacimiento informan sobre el recurso. Para valorar la calidad del servicio hay que saber también qué edificios pueden conectarse, qué demanda tienen y qué margen hay para responder a una avería. Un mapa de las temperaturas subterráneas solo responde a una parte de esas preguntas. [Fuente · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Fuente · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una ciudad alimentada por varias fuentes puede tener una ruta para compensar la pérdida de una conexión. Una localidad dependiente de una conducción afronta otro problema, aunque a lo largo del año la geotermia cubra una parte igualmente alta de su calefacción. Durante una reparación importan cuántos edificios perdieron el servicio y cuánto tarda en volver. En una evaluación anual interesa también la cantidad de calor suministrado. Considerar por separado ambos plazos ayuda a explicar por qué una red puede tener un buen balance energético y seguir necesitando obras para resistir interrupciones. La experiencia islandesa también muestra el valor de registrar por separado el lugar de la avería, la interrupción que sufrió el usuario y el momento en que se recuperó el servicio. Así se pueden comparar incidentes sin perder de vista qué parte del sistema falló. [Fuente · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf) [Fuente · www.hsorka.is](https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · orkustofnun.is",
+      "url": "https://orkustofnun.is/en/natural_resources/district_heating"
+    },
+    {
+      "label": "Fuente · eu-assets.contentstack.com",
+      "url": "https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf"
+    },
+    {
+      "label": "Fuente · unfccc.int",
+      "url": "https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf"
+    },
+    {
+      "label": "Fuente · www.hsorka.is",
+      "url": "https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf"
+    },
+    {
+      "label": "Fuente · annualreport2023.or.is",
+      "url": "https://annualreport2023.or.is/umhverfismal/e6-vatnsnotkun/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuánta calefacción doméstica es geotérmica?",
+      "answer": "Alrededor del 90 % de la energía para ese uso en 2020."
+    },
+    {
+      "question": "¿La lava calienta las casas?",
+      "answer": "La red aprovecha recursos geotérmicos del subsuelo y transporta el calor hasta los edificios."
+    },
+    {
+      "question": "¿El 90 % se refiere a electricidad?",
+      "answer": "Se refiere a calefacción doméstica. La generación eléctrica tiene su propia mezcla."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

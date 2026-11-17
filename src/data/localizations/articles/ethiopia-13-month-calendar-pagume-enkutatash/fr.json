@@ -1,0 +1,197 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/ethiopia-13-month-calendar-pagume-enkutatash/",
+  "path": "/fr/articles/ethiopia-13-month-calendar-pagume-enkutatash/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "ÉTHIOPIE : LE PAYS QUI COMPTE 13 MOIS PAR AN",
+  "seoTitle": "Calendrier éthiopien : 13 mois, Pagume et le Nouvel An",
+  "description": "Comment l’Éthiopie répartit 365 ou 366 jours en treize mois, pourquoi les années portent des numéros différents et quand tombe Enkutatash.",
+  "excerpt": "Comment l’Éthiopie répartit 365 ou 366 jours en treize mois, pourquoi les années portent des numéros différents et quand tombe Enkutatash.",
+  "headlineHighlights": {
+    "red": "ÉTHIOPIE",
+    "gold": "13 MOIS"
+  },
+  "keywords": [
+    "ÉTHIOPIE",
+    "13 MOIS"
+  ],
+  "searchIntent": "Comment l’Éthiopie répartit 365 ou 366 jours en treize mois, pourquoi les années portent des numéros différents et quand tombe Enkutatash.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/ethiopia-13-month-calendar-pagume-enkutatash.jpg",
+    "alt": "Illustration du Nouvel An éthiopien avec des fleurs jaunes et une église taillée dans la roche",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le calendrier éthiopien répartit l’année solaire en treize mois. Douze comptent trente jours. Le dernier, Pagume, en compte cinq en année ordinaire et six en année bissextile. L’année comprend donc 365 ou 366 jours avec une répartition différente de celle du calendrier grégorien. L’année éthiopienne commence le 1er meskerem, qui tombe généralement le 11 ou le 12 septembre à notre époque. Le Nouvel An porte le nom d’Enkutatash. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Source · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html) [Source · www.ena.et](https://www.ena.et/web/eng/w/en_16865) [Source · visitethiopia.et](https://visitethiopia.et/brochures/ethiopian-festivals/download)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment faire tenir treize mois dans l’année"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_WORLD_494]]",
+      "caption": "La répartition de l’année éthiopienne",
+      "headings": [
+        "Période",
+        "Durée"
+      ],
+      "rows": [
+        [
+          "Douze premiers mois",
+          "30 jours chacun, soit 360 jours"
+        ],
+        [
+          "Pagume en année ordinaire",
+          "5 jours"
+        ],
+        [
+          "Pagume en année bissextile",
+          "6 jours"
+        ],
+        [
+          "Année entière",
+          "365 ou 366 jours"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Les douze mois réguliers totalisent 360 jours. Pagume accueille les cinq jours restants ainsi que le jour intercalaire lorsqu’il y en a un. Dans le calendrier grégorien, les mois ont des durées inégales et le jour intercalaire vient en février. Dans le calendrier éthiopien documenté par Unicode, il se trouve à la fin de l’année. Les deux systèmes cherchent à faire coïncider un nombre entier de jours avec un cycle solaire qui dure un peu plus de 365 jours. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Source · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi le dernier mois compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une date en Pagume doit être lue avec son année. Le sixième jour n’existe que les années bissextiles. Le nom peut être transcrit de plusieurs façons. Si une graphie surprend, on peut vérifier le rang du mois et le système du document avant de supposer qu’il s’agit d’un autre mois. Une date écrite en chiffres peut aussi passer pour une date grégorienne. Nommer le calendrier lève cette ambiguïté. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Source · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "heading",
+      "text": "D’où vient ce calendrier ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce système appartient à la tradition éthiopienne et sa structure est proche du calendrier copte. La documentation d’Unicode montre que les deux calendriers peuvent partager un mécanisme de calcul tout en ayant des points de départ différents. Douze mois de trente jours suivis d’une courte période représentent une ancienne manière de répartir l’année solaire. Le calendrier intervient aujourd’hui dans la vie civile et religieuse. L’annuaire statistique d’Oromia décrit les conventions que différentes administrations emploient pour présenter leurs données. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Source · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html) [Source · ethiopianembassy.org](https://ethiopianembassy.org/culture/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi les années portent des numéros différents"
+    },
+    {
+      "type": "paragraph",
+      "text": "La numérotation repose sur l’époque choisie comme point de départ. L’ère éthiopienne habituelle et l’ère grégorienne utilisent des références différentes au sein de la tradition chrétienne. Leurs années commencent aussi à des moments différents. Une année grégorienne recouvre donc des parties de deux années éthiopiennes. Soustraire sept ou huit peut aider à s’orienter. Pour connaître le mois et le jour, il faut une date complète et l’identité du calendrier. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Source · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment on célèbre le Nouvel An"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enkutatash se fête le 1er meskerem. L’agence de presse éthiopienne l’associe à la fin de la saison des pluies et aux fleurs jaunes appelées adey abeba. L’ambassade décrit aussi ses liens religieux. La date a une définition mathématique. Des gestes et des souvenirs transmis au fil des années lui donnent sa portée sociale. Les descriptions d’une fête nationale peuvent éclairer les pratiques courantes sans rendre compte de la manière dont chaque foyer la célèbre. [Source · www.ena.et](https://www.ena.et/web/eng/w/en_16865) [Source · ethiopianembassy.org](https://ethiopianembassy.org/culture/) [Source · visitethiopia.et](https://visitethiopia.et/brochures/ethiopian-festivals/download)"
+    },
+    {
+      "type": "subheading",
+      "text": "Quand le 11 septembre devient le 12 septembre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque Pagume reçoit un jour supplémentaire, le début de l’année suivante se décale d’un jour par rapport aux dates grégoriennes voisines. Le 11 ou le 12 septembre sert de repère pour notre époque. Le calendrier grégorien écarte certains jours bissextiles aux années séculaires, tandis que le système éthiopien conserve un cycle de quatre ans. Sur une longue période, une conversion complète est donc préférable à l’extrapolation des dates usuelles de septembre. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Source · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html) [Source · visitethiopia.et](https://visitethiopia.et/brochures/ethiopian-festivals/download)"
+    },
+    {
+      "type": "heading",
+      "text": "L’exemple du 11 septembre 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette date correspond au 1er meskerem 2019. L’année 2019 éthiopienne est bissextile et Pagume y compte six jours. Le Nouvel An suivant tombe le 12 septembre 2027. En revanche, 2026 et 2027 sont des années grégoriennes ordinaires. Regarder si le mois de février a 29 jours ne suffit donc pas pour savoir si Pagume en a six. Il faut identifier l’année éthiopienne et convertir la date complète. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Source · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi cela compte en dehors des fêtes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un document sur les inscriptions scolaires ou les dépenses peut afficher « 2019 » sans préciser le système. Même si le calendrier est nommé, l’exercice budgétaire peut commencer à une autre date, comme l’explique l’annuaire d’Oromia. Une citation attentive conserve la date originale et peut donner l’équivalent grégorien. Elle indique aussi si les bornes d’une période sont comprises. Cela permet à d’autres personnes de reproduire le calcul et de vérifier ce qui a été compté. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Source · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qu’une date nous apprend"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une date unit une manière de compter et une manière de nommer les jours. Les treize mois éthiopiens rendent cette différence particulièrement visible. Les personnes qui utilisent le calendrier savent lire ces conventions et les transmettent au quotidien. Pour un autre exemple de transmission d’une pratique culturelle, lire [le dossier de PRESDA sur le sauna finlandais](/articles/finland-three-million-saunas-sauna-culture/)."
+    },
+    {
+      "type": "subheading",
+      "text": "Comment rendre une date compréhensible au prochain lecteur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une courte note peut être plus utile qu’une conversion sans explication. On conserve la forme originale, on nomme le calendrier et on ajoute un équivalent lorsqu’il est établi. Pour l’exemple de 2026, préciser que l’année se termine le 11 septembre 2027 et que la suivante commence le 12 lève le doute. Une graphie cohérente de Meskerem et Pagume facilite la comparaison. Si le document utilise une autre transcription, on peut la garder dans le titre cité et expliquer son équivalence dans le texte. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Source · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi un intervalle est plus utile qu’un décalage"
+    },
+    {
+      "type": "paragraph",
+      "text": "On peut être tenté de réduire la conversion à une soustraction. Il suffit pourtant de suivre une année éthiopienne à partir du premier jour pour voir le problème. Elle commence au cours d’une année grégorienne et se termine au cours d’une autre. Pagume appartient toujours à l’année éthiopienne qui s’achève. Dans l’exemple de 2019, son sixième jour est le 11 septembre 2027. Le 12 septembre appartient déjà à l’année suivante. Si l’on conserve seulement le mois de septembre, la différence est invisible. Si l’on conserve le jour et le système, le changement devient vérifiable. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [Source · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une fête donne le nom d’une journée, tandis qu’un document administratif peut porter sur une période entière. Le lecteur qui met en regard un registre scolaire et un tableau statistique a besoin de vérifier la première et la dernière date des deux périodes. Une indication comme « année 2019 » n’établit pas à elle seule que les périodes sont identiques. Il peut aussi être utile de distinguer la date à laquelle le tableau est publié des dates des événements qu’il compte. Les renseignements sur le calendrier ont la même fonction que les unités dans une colonne statistique. Ils permettent de savoir ce que l’on compare et à quel moment les données cessent de se recouvrir. Le jour intercalaire devient ainsi une information vérifiable et reproductible. [Source · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · www.oromiaplan.gov.et",
+      "url": "https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf"
+    },
+    {
+      "label": "Source · unicode-org.github.io",
+      "url": "https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html"
+    },
+    {
+      "label": "Source · www.ena.et",
+      "url": "https://www.ena.et/web/eng/w/en_16865"
+    },
+    {
+      "label": "Source · ethiopianembassy.org",
+      "url": "https://ethiopianembassy.org/culture/"
+    },
+    {
+      "label": "Source · visitethiopia.et",
+      "url": "https://visitethiopia.et/brochures/ethiopian-festivals/download"
+    }
+  ],
+  "faq": [
+    {
+      "question": "L’Éthiopie a-t-elle vraiment treize mois ?",
+      "answer": "Oui. Douze mois comptent 30 jours et le dernier en compte cinq ou six."
+    },
+    {
+      "question": "Quand tombe le Nouvel An éthiopien ?",
+      "answer": "Le 1er meskerem, généralement le 11 ou le 12 septembre à notre époque."
+    },
+    {
+      "question": "Pourquoi les années ont-elles des numéros différents ?",
+      "answer": "Les points de départ et les dates du Nouvel An diffèrent. Pour convertir une date, il faut les trois composantes."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

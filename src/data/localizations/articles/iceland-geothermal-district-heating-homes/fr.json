@@ -1,0 +1,193 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/iceland-geothermal-district-heating-homes/",
+  "path": "/fr/articles/iceland-geothermal-district-heating-homes/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "ISLANDE : LE PAYS QUI CHAUFFE SES MAISONS AVEC L’ÉNERGIE VOLCANIQUE",
+  "seoTitle": "Chauffage géothermique en Islande : comment il fonctionne",
+  "description": "Ce que mesurent les 90 % de chauffage géothermique, comment la chaleur rejoint les bâtiments et ce que les coulées de lave peuvent interrompre.",
+  "excerpt": "Ce que mesurent les 90 % de chauffage géothermique, comment la chaleur rejoint les bâtiments et ce que les coulées de lave peuvent interrompre.",
+  "headlineHighlights": {
+    "red": "ISLANDE",
+    "gold": "ÉNERGIE VOLCANIQUE"
+  },
+  "keywords": [
+    "ISLANDE",
+    "ÉNERGIE VOLCANIQUE"
+  ],
+  "searchIntent": "Ce que mesurent les 90 % de chauffage géothermique, comment la chaleur rejoint les bâtiments et ce que les coulées de lave peuvent interrompre.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/iceland-geothermal-district-heating-homes.jpg",
+    "alt": "Illustration d’une installation géothermique, de roches volcaniques et d’un drapeau islandais",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "À Reykjavík, un radiateur peut utiliser une chaleur puisée sous terre sans chaudière dans le bâtiment. Pour y parvenir, il a fallu des puits, du matériel de traitement, des pompes et un réseau de conduites. L’Autorité nationale de l’énergie estime que la géothermie a fourni environ 90 % de l’énergie consacrée au chauffage domestique en 2020. Ce chiffre concerne la chaleur utilisée dans les logements. L’inventaire national des émissions indique une part géothermique plus faible dans la production d’électricité, qui relève d’une autre mesure. [Source · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Source · unfccc.int](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que signifie l’énergie volcanique pour un logement"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_WORLD_495]]",
+      "caption": "De la ressource au logement",
+      "headings": [
+        "Étape",
+        "Fonction"
+      ],
+      "rows": [
+        [
+          "Puits",
+          "Il capte un fluide géothermal"
+        ],
+        [
+          "Usage direct ou échange",
+          "Le réseau utilise l’eau adaptée ou reçoit la chaleur transmise à de l’eau douce"
+        ],
+        [
+          "Distribution",
+          "Les conduites isolées desservent les bâtiments"
+        ],
+        [
+          "Équipement intérieur",
+          "Les radiateurs ou d’autres appareils chauffent les pièces"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La géologie de l’Islande rend accessibles des ressources géothermales. La chaleur du sous-sol réchauffe l’eau et les roches. Un puits peut remonter de l’eau chaude ou un mélange d’eau et de vapeur si la température, le débit et la composition du fluide s’y prêtent. Le choix des équipements varie d’un champ à l’autre. L’expression « énergie volcanique » désigne le contexte géologique. Le chauffage urbain géothermique désigne le service que reçoit le bâtiment. [Source · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Source · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi le chiffre de l’électricité diffère"
+    },
+    {
+      "type": "paragraph",
+      "text": "La chaleur peut circuler sous forme d’eau chaude. Produire de l’électricité suppose un autre mode de conversion, par exemple avec une turbine. Un site à haute température peut fournir de l’électricité et contribuer au réseau de chaleur. Un autre peut être consacré au chauffage. L’inventaire national distingue les deux usages. L’hydroélectricité joue un rôle important dans la production électrique. Une comparaison a besoin de préciser la quantité totale à laquelle chaque part se rapporte. [Source · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Source · unfccc.int](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment l’eau chaude rejoint un bâtiment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Veitur décrit deux sources. Dans un champ géothermal de plus basse température, de l’eau adaptée peut circuler dans le réseau. Ailleurs, une centrale chauffe de l’eau douce froide, puis distribue cette eau. Un échangeur garde les deux fluides séparés tout en permettant à la chaleur de traverser une surface. L’installation dépend de la ressource et du réseau. L’origine géothermique de la chaleur n’établit donc pas par quelle voie l’eau est arrivée dans le radiateur. [Source · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Le rôle des conduites"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le réseau doit livrer la chaleur au lieu et à l’heure où elle est nécessaire. Il doit respecter des températures et des pressions adaptées et absorber les changements de demande. L’isolation limite les pertes. Les équipes suivent les effets qu’une variation de débit peut avoir sur les autres branches. Une ressource prometteuse au puits peut être difficile à exploiter si le trajet des conduites est compliqué ou si les usagers sont trop dispersés. La distance et le profil de la demande interviennent dans les choix dès le départ. [Source · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Source · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment Reykjavík est passée à l’échelle de la ville"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Autorité de l’énergie décrit de petits usages avant les grands projets publics. En 1930, une conduite d’environ trois kilomètres a relié des sources de Reykjavík à l’école Austurbæjarskóli. La démonstration portait sur un service entre deux lieux. Relier une ville demandait davantage de ressources, de conduites et d’organismes capables de gérer l’ensemble. Les travaux devaient également tenir compte des bâtiments existants. La source devenait utile aux familles à mesure que le réseau parvenait à leurs logements. [Source · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La transition dépendait ainsi de la géologie et de l’organisation des travaux. Il fallait trouver les usagers, ouvrir des rues et prévoir l’entretien. La taille d’un réseau influe sur les quartiers desservis et sur la possibilité de raccorder une autre source en cas de besoin. Une commune qui compte peu de clients proches d’un puits n’a pas les mêmes choix qu’une ville où de nombreux immeubles peuvent partager une conduite. [Source · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Source · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi la géologie peut aussi menacer le réseau"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rapport 2024 de HS Orka décrit des dégâts dus aux coulées sur la péninsule de Reykjanes. En février, la lave a endommagé la conduite d’eau chaude de Njarðvík depuis le secteur de Svartsengi. La ressource peut rester chaude alors qu’une rupture empêche la livraison. Pour les habitants, le rétablissement dépend de l’emplacement des conduites, des réparations et des raccordements alternatifs. Le parcours du réseau devient alors aussi important que la température du champ. [Source · www.hsorka.is](https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que les équipes surveillent dans le sous-sol"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le débit, la pression, la recharge, la température et la composition de l’eau peuvent varier. Reykjavík Energy décrit des réinjections là où elles sont adaptées. Le retour de fluide aide à gérer certaines conditions du réservoir et demande un suivi. L’inventaire national relève aussi les émissions des installations. Éviter de brûler du combustible dans un bâtiment laisse subsister des questions sur l’exploitation, le traitement de l’eau et les effets locaux. [Source · unfccc.int](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf) [Source · annualreport2023.or.is](https://annualreport2023.or.is/umhverfismal/e6-vatnsnotkun/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qui peut servir ailleurs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une ville peut utiliser une ressource locale appropriée ou devoir trouver d’autres moyens de produire et transférer la chaleur. Des bâtiments denses se raccordent plus facilement que des maisons éloignées. Un réseau déjà construit change le coût du raccordement d’une nouvelle source. Avant de prendre le chiffre islandais comme objectif, il faut préciser le type d’énergie, la température et le coût de la livraison. Voir [l’analyse de PRESDA sur l’électricité de l’Uruguay](/articles/uruguay-98-percent-renewable-electricity/). [Source · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Source · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi la pointe d’hiver compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le réseau doit satisfaire la demande annuelle et fonctionner lorsque beaucoup de bâtiments réclament de la chaleur au même moment. Deux villes peuvent consommer des quantités proches sur l’année et connaître des pointes différentes. La capacité des conduites, le stockage et la possibilité d’activer une autre source prennent alors du poids. La météo et l’état des bâtiments changent les besoins. Mesurer les températures le long du réseau aide à savoir si le problème commence au puits, pendant le transport ou dans l’installation du bâtiment. Un pourcentage national ne donne pas ces réponses à un quartier précis. [Source · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Source · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment comparer deux réseaux de chaleur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le point de départ est le bâtiment desservi. Il faut savoir comment la chaleur entre, à quels logements le réseau donne accès et quelles solutions existent si le trajet est interrompu. Un gisement chaud peut être très utile et laisser entière la question du service dans une rue mal reliée. Distinguer ces niveaux évite de juger un réseau uniquement par une carte des ressources. [Source · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [Source · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une ville reliée à plusieurs sources peut être en mesure de rediriger les flux. Pour une localité dépendant d’une conduite, la situation est différente même si la géothermie fournit presque tout le chauffage sur l’année. Après une avarie, les mesures utiles sont par exemple le nombre de bâtiments touchés et le temps nécessaire pour rétablir la connexion. Un pourcentage national reste utile pour évaluer l’usage de la chaleur, tandis que ces mesures répondent aux questions de service. [Source · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf) [Source · www.hsorka.is](https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · orkustofnun.is",
+      "url": "https://orkustofnun.is/en/natural_resources/district_heating"
+    },
+    {
+      "label": "Source · eu-assets.contentstack.com",
+      "url": "https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf"
+    },
+    {
+      "label": "Source · unfccc.int",
+      "url": "https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf"
+    },
+    {
+      "label": "Source · www.hsorka.is",
+      "url": "https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf"
+    },
+    {
+      "label": "Source · annualreport2023.or.is",
+      "url": "https://annualreport2023.or.is/umhverfismal/e6-vatnsnotkun/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quelle part du chauffage domestique vient de la géothermie ?",
+      "answer": "Environ 90 % de l’énergie consacrée à cet usage en 2020, selon l’Autorité nationale de l’énergie."
+    },
+    {
+      "question": "La lave chauffe-t-elle directement les maisons ?",
+      "answer": "Le réseau capte la chaleur des ressources souterraines et l’achemine par des équipements et des conduites."
+    },
+    {
+      "question": "Le chiffre vaut-il pour l’électricité ?",
+      "answer": "Il porte sur le chauffage domestique. La production électrique a sa propre répartition."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

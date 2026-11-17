@@ -1,0 +1,193 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/iceland-geothermal-district-heating-homes/",
+  "path": "/ar/articles/iceland-geothermal-district-heating-homes/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "آيسلندا: البلد الذي يدفئ المنازل بالطاقة البركانية",
+  "seoTitle": "كيف تعمل التدفئة بالطاقة الحرارية الجوفية في آيسلندا؟",
+  "description": "ماذا تقيس نسبة 90٪، وكيف تصل الحرارة إلى البيوت، ولماذا تستطيع الحمم قطع الإمداد؟",
+  "excerpt": "ماذا تقيس نسبة 90٪، وكيف تصل الحرارة إلى البيوت، ولماذا تستطيع الحمم قطع الإمداد؟",
+  "headlineHighlights": {
+    "red": "آيسلندا",
+    "gold": "الطاقة البركانية"
+  },
+  "keywords": [
+    "آيسلندا",
+    "الطاقة البركانية"
+  ],
+  "searchIntent": "ماذا تقيس نسبة 90٪، وكيف تصل الحرارة إلى البيوت، ولماذا تستطيع الحمم قطع الإمداد؟",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/iceland-geothermal-district-heating-homes.jpg",
+    "alt": "رسم تحريري لمنشأة حرارية جوفية قرب صخور بركانية وعلم آيسلندا",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "قد تصل إلى مشعاع في ريكيافيك حرارة من تحت الأرض من دون مرجل في المبنى. واحتاج إنشاء الخدمة إلى آبار ومعالجة ومضخات وأنابيب. وتقول الهيئة الوطنية للطاقة إن الحرارة الجوفية وفّرت نحو 90٪ من الطاقة المستخدمة لتدفئة المنازل في 2020. ويقيس الرقم الحرارة المستخدمة في السكن. ويورد الجرد الوطني للانبعاثات حصة أصغر للحرارة الجوفية في توليد الكهرباء، وهو مقياس آخر. [المصدر · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [المصدر · unfccc.int](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا تعني الطاقة البركانية داخل المنزل؟"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_WORLD_495]]",
+      "caption": "مسار الحرارة من المصدر إلى البيت",
+      "headings": [
+        "المرحلة",
+        "الوظيفة"
+      ],
+      "rows": [
+        [
+          "البئر",
+          "الوصول إلى السائل الجوفي الساخن"
+        ],
+        [
+          "الاستخدام المباشر أو التبادل",
+          "استعمال المياه الملائمة أو نقل الحرارة إلى ماء عذب"
+        ],
+        [
+          "شبكة التوزيع",
+          "أنابيب معزولة توصل الحرارة إلى المباني"
+        ],
+        [
+          "التجهيزات الداخلية",
+          "مشعاعات أو وسائل أخرى تدفئ الغرف"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تساعد جيولوجيا آيسلندا على الوصول إلى موارد حرارية جوفية. فالحرارة تحت الأرض تسخن الماء والصخر. وقد يرفع البئر ماء ساخناً أو مزيجاً من الماء والبخار إذا سمحت درجة الحرارة والتدفق وتركيب السائل بذلك. ويختلف التصميم بين الحقول. وتشير الطاقة البركانية إلى السياق الجيولوجي، بينما تصف التدفئة الجوفية عبر شبكة مركزية الخدمة التي تصل إلى المبنى. [المصدر · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [المصدر · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "لماذا تختلف نسبة الكهرباء؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يمكن نقل الحرارة بالماء الساخن. أما توليد الكهرباء فيتطلب تحويلاً مختلفاً مثل استخدام توربين. وقد ينتج حقل مرتفع الحرارة كهرباء ويساعد أيضاً على تدفئة المياه. وقد يُستفاد من حقل آخر للتدفئة فقط. ويحتل التوليد الكهرومائي مكاناً مهماً في إنتاج الكهرباء. ولا تستقيم المقارنة بين النسب من دون معرفة المجموع الذي احتُسبت كل واحدة منه. [المصدر · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [المصدر · unfccc.int](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف يصل الماء الساخن؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تصف شركة فيتور مصدرين لشبكاتها. يمكن إرسال ماء حقل جوفي أقل حرارة إذا كان مناسباً للشبكة. وفي مواقع أخرى تنتقل حرارة السائل الجوفي إلى ماء عذب بارد، ثم يُرسل الماء المسخن إلى المستهلكين. ويبقي المبادل السائلين منفصلين بينما يسمح بمرور الحرارة عبر سطح. ويتوقف الاختيار على خواص المصدر وعلى متطلبات الشبكة. ولا يكشف أصل الحرارة وحده المسار الذي سلكه الماء. [المصدر · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "وظيفة الأنابيب"
+    },
+    {
+      "type": "paragraph",
+      "text": "يجب أن تصل الحرارة وقت الحاجة وفي المكان المقصود بدرجة حرارة وضغط مناسبين. ويقلل العزل ما يفقد في الطريق. ويراقب المشغل أثر تغير التدفق في فرع على فروع أخرى. وقد يكون بئر واعد بعيداً أو يصعب مد الأنابيب منه، وقد تكون المباني التي يمكن أن تستخدمه متباعدة. لذلك تدخل المسافة ومواعيد الطلب في التخطيط نفسه. [المصدر · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [المصدر · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف انتقلت ريكيافيك إلى نطاق المدينة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تذكر الهيئة استخدامات مبكرة صغيرة تلتها مشروعات عامة أكبر. وفي 1930 أوصل أنبوب بطول نحو ثلاثة كيلومترات مورداً حرارياً في ريكيافيك إلى مدرسة أوستوربايارجسكولي. وأثبت المشروع إمكانية إيصال الخدمة من موقع إلى آخر. واحتاج ربط المدينة إلى موارد وخطوط وقدرة على التشغيل والصيانة، وإلى مراعاة المباني القائمة. وصارت الحرارة مفيدة للأسر حين وصلتها الشبكة بانتظام. [المصدر · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating)"
+    },
+    {
+      "type": "paragraph",
+      "text": "يوضح المثال أن التحول يعتمد على أعمال البناء والتنظيم إلى جانب الجيولوجيا. فالأنبوب يحتاج إلى مدّ وصيانة، ويؤثر حجم الشبكة في الأحياء التي تستفيد وفي إمكانية إضافة مصدر جديد. وتختلف الخيارات أمام بلدة ببيوت متفرقة عنها في حي مكتظ، حتى إذا كانت المياه في البئر متشابهة. [المصدر · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [المصدر · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف تهدد الحمم الشبكة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يوثق تقرير شركة إتش إس أوركا لعام 2024 أضرار تدفقات الحمم في شبه جزيرة ريكيانيس. وفي فبراير تضرر خط مياه نيارذفيك القادم من منطقة سفارتسينغي. ويمكن أن تظل الحرارة متاحة في باطن الأرض بينما يمنع انقطاع الأنبوب توصيلها. ويتحدد وقت استعادة الخدمة بمسار الخط وقدرة الفرق على الإصلاح وتوفر مسارات بديلة. [المصدر · www.hsorka.is](https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "ما الذي يراقبه المشغّلون تحت الأرض؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تتغير خصائص الخزان مثل الضغط والتدفق وحرارة المياه وتركيبها. وتصف شركة طاقة ريكيافيك إعادة حقن السوائل حيث يلائم ذلك. وتساعد العملية في إدارة ظروف معينة مع ضرورة متابعة التغير. ويسجل الجرد الوطني أيضاً انبعاثات منشآت جوفية. وإذا قل الوقود المحروق في المنازل، تبقى آثار تشغيل المحطة والتعامل مع المياه مسائل تحتاج إلى قياس خاص بها. [المصدر · unfccc.int](https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf) [المصدر · annualreport2023.or.is](https://annualreport2023.or.is/umhverfismal/e6-vatnsnotkun/)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي يمكن أن تستفيد منه بلدان أخرى؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تختلف الموارد وشبكات التوزيع. وقد يتيح حقل مياهاً قابلة للاستخدام مباشرة، وقد يتطلب حقل آخر تجهيزات لتبادل الحرارة. ويسهل إيصال شبكة إلى مبانٍ قريبة من بعضها، ويختلف ثمن ربط مصدر جديد إذا كانت الشبكة قائمة. وقبل اتخاذ الرقم الآيسلندي معياراً، ينبغي معرفة درجة الحرارة وما يدخل في الحساب وكلفة إيصالها. اقرأ أيضاً [تحليل PRESDA للتحول الكهربائي في أوروغواي](/articles/uruguay-98-percent-renewable-electricity/). [المصدر · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [المصدر · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "لماذا تهم ذروة الشتاء؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تستخدم بلدتان كميات متقاربة على مدار العام وتواجهان طلباً مختلفاً في أكثر ساعاته برودة. وفي هذه الأوقات تؤثر سعة الأنابيب والتخزين والقدرة على تشغيل مصدر آخر في وصول الحرارة. وقد تغير الرياح أو سوء عزل المباني حجم الحاجة. ويمكن لمراقبة الحرارة على طول الشبكة أن تحدد إذا كان النقص بدأ عند البئر أو في الطريق أو في تجهيزات المبنى. ويدخل في التقييم أيضاً ما يمكن فعله عند توقف جزء واحد. فإذا كانت هناك طريقة لتزويد المنطقة من اتجاه آخر، تختلف الاستجابة عن حالة اعتمادها على خط وحيد. ويساعد جمع بيانات الطلب مع معلومات عن مسارات الأنابيب في بيان مَن يستفيد من الحل وكم يستغرق تفعيله. ولا يشير المتوسط السنوي وحده إلى مدى تكرار تلك الساعات أو تفاوتها بين المناطق. ويمكن أن يظهر التحسن في سرعة استعادة الخدمة حتى إذا لم تتغير النسبة الوطنية، لأن هذه النسبة تعكس مصدر الحرارة المستخدمة خلال سنة كاملة. ومن هنا تأتي أهمية فصل تقييم انتشار الطاقة الجوفية عن تقييم قدرة شبكة بعينها على الاستمرار في ظروف صعبة. ولكل سؤال معلومات تختلف عما يحتاج إليه الآخر. [المصدر · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [المصدر · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف نقارن بين شبكتين للتدفئة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تبدأ المقارنة من المكان الذي يتلقى فيه المستخدم الحرارة. فمن المهم معرفة كيف تدخل المبنى وما المناطق التي تغطيها الشبكة وما البدائل عند الانقطاع. ويقدم قياس الحرارة تحت الأرض معلومات عن المورد، فيما يتوقف مستوى الخدمة أيضاً على عدد المباني الممكن ربطها وتوزيع الطلب والقدرة على العمل وقت العطل. وقد يحدد مخطط الشوارع إن كان بالإمكان مد أنبوب آخر قبل شتاء مقبل. وقد تؤثر حالة المبنى في مقدار الحرارة الذي يستفيده المستخدم عند وصول الماء إليه. وتجيب هذه التفاصيل عن أسئلة لا تكفي خريطة الموارد وحدها للإجابة عنها. [المصدر · orkustofnun.is](https://orkustofnun.is/en/natural_resources/district_heating) [المصدر · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "وقد تستطيع مدينة تتصل بعدة مصادر إعادة توجيه التدفق عند فقد خط واحد. وتختلف المعالجة في بلدة تتوقف على أنبوب بعينه حتى لو حصلت طوال العام على معظم تدفئتها من الحرارة الجوفية. وعند العطل يفيد معرفة عدد المباني المتأثرة والوقت الذي استغرقه الإصلاح. أما رقم الاستهلاك السنوي فيكشف كمية الحرارة التي وصلت خلال فترة أطول. ومن الممكن أن يتحسن أحد المؤشرين قبل الآخر. فإصلاح وصلة بديلة قد يقلل زمن الانقطاع من دون أن يغير نوع مصدر الحرارة. وقد يؤدي ربط حقل جديد إلى رفع الحصة الجوفية بينما تظل بعض الأحياء عرضة لعطل في طريق التوزيع. وتفيد المقارنة حين توضح أي نتيجة تحسنت والخطوة التي سمحت بذلك. وتوفر سجلات الصيانة مثالاً عملياً: فهي تبين وقت الإصلاح وطريقة استعادة الإمداد في كل منطقة، ويتيح نشر التوقيت للمتابعين مقارنة استعادة الخدمة بين الحوادث. [المصدر · eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf) [المصدر · www.hsorka.is](https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر · orkustofnun.is",
+      "url": "https://orkustofnun.is/en/natural_resources/district_heating"
+    },
+    {
+      "label": "المصدر · eu-assets.contentstack.com",
+      "url": "https://eu-assets.contentstack.com/v3/assets/blt5bf0023ca96cf071/blt9be2908368418c07/6729f59ecf4e9576fcc3c6e2/Hitaveitan_skjal_fyrir_vottanir_SJE_pdf.pdf"
+    },
+    {
+      "label": "المصدر · unfccc.int",
+      "url": "https://unfccc.int/sites/default/files/resource/NID%202024_Iceland_Submitted%20to%20UNFCCC.pdf"
+    },
+    {
+      "label": "المصدر · www.hsorka.is",
+      "url": "https://www.hsorka.is/media/be0lpkji/lokaskjal_enska_sustainability-report-2024_23425.pdf"
+    },
+    {
+      "label": "المصدر · annualreport2023.or.is",
+      "url": "https://annualreport2023.or.is/umhverfismal/e6-vatnsnotkun/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "كم من طاقة التدفئة المنزلية يأتي من الحرارة الجوفية؟",
+      "answer": "نحو 90٪ في 2020 وفق الهيئة الوطنية للطاقة."
+    },
+    {
+      "question": "هل تدفئ الحمم المنازل؟",
+      "answer": "تستخدم الشبكات حرارة موارد تحت الأرض ثم تنقلها إلى المنازل."
+    },
+    {
+      "question": "هل نسبة 90٪ خاصة بالكهرباء؟",
+      "answer": "تشير إلى التدفئة المنزلية. ولتوليد الكهرباء مزيج منفصل."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

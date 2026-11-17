@@ -4,6 +4,53 @@ import type { Locale } from "@/lib/i18n/routing";
 const publicDomain = "https://creativecommons.org/publicdomain/mark/1.0/";
 
 const evidence = {
+  "rapa-nui-moai-statues-mystery": {
+    afterBlock: 8,
+    file: "rano-raraku-unfinished-moai-lbm1948.jpg",
+    width: 2144,
+    height: 1424,
+    source: "https://commons.wikimedia.org/wiki/File:Rano_Raraku_04.jpg",
+    credit: "LBM1948 / Wikimedia Commons",
+    license: "https://creativecommons.org/licenses/by-sa/4.0/",
+    licenseLabel: "CC BY-SA 4.0",
+    captions: {
+      en: "An unfinished moai in the volcanic rock of the Rano Raraku quarry, Rapa Nui.",
+      fr: "Un moaï inachevé dans la roche volcanique de la carrière de Rano Raraku, à Rapa Nui.",
+      ar: "تمثال مواي غير مكتمل في الصخر البركاني بمحجر رانو راراكو في رابا نوي.",
+      es: "Un moái inacabado en la roca volcánica de la cantera de Rano Raraku, Rapa Nui."
+    }
+  },
+  "kukur-tihar-nepal-festival-honoring-dogs": {
+    afterBlock: 7,
+    file: "kukur-tihar-ritesh-man-tamrakar-2013.jpg",
+    width: 2400,
+    height: 3000,
+    source: "https://commons.wikimedia.org/wiki/File:Kukur_Tihar.jpg",
+    credit: "Ritesh Man Tamrakar / Wikimedia Commons",
+    license: "https://creativecommons.org/licenses/by-sa/2.0/",
+    licenseLabel: "CC BY-SA 2.0",
+    captions: {
+      en: "A black-and-white dog with a red tika and an orange flower garland during Kukur Tihar, photographed on November 2, 2013.",
+      fr: "Un chien noir et blanc portant un tika rouge et une guirlande orange pour Kukur Tihar, photographié le 2 novembre 2013.",
+      ar: "كلب أسود وأبيض يضع علامة تيكا حمراء وإكليلاً برتقالياً خلال كوكور تيهار، في صورة من 2 نوفمبر 2013.",
+      es: "Un perro blanco y negro con una tika roja y una guirnalda naranja durante Kukur Tihar, el 2 de noviembre de 2013."
+    }
+  },
+  "chandrayaan-3-india-historic-moon-landing": {
+    afterBlock: 9,
+    file: "chandrayaan-3-vikram-lroc-2023.png",
+    width: 1100,
+    height: 1100,
+    source: "https://lroc.im-ldi.com/posts/1314",
+    credit: "NASA/GSFC/Arizona State University",
+    license: publicDomain,
+    captions: {
+      en: "Vikram’s landing site imaged by the Lunar Reconnaissance Orbiter Camera on August 27, 2023. The lander is near the centre.",
+      fr: "Le site de Vikram photographié par la caméra de Lunar Reconnaissance Orbiter le 27 août 2023. L’atterrisseur est près du centre.",
+      ar: "موقع هبوط فيكرام كما صورته كاميرا مركبة الاستطلاع القمرية في 27 أغسطس 2023. وتظهر المركبة قرب منتصف الصورة.",
+      es: "Lugar de aterrizaje de Vikram fotografiado por la cámara de Lunar Reconnaissance Orbiter el 27 de agosto de 2023. El módulo está cerca del centro."
+    }
+  },
   "uae-hope-probe-first-arab-mars-mission": {
     afterBlock: 20,
     file: "deimos-hirise-nasa-2009.jpg",
@@ -69,7 +116,7 @@ export function FeatureEvidencePhoto({ photo, locale }: { photo: NonNullable<Ret
         <p>{caption}</p>
         <p>
           <a className="underline" href={photo.source}>{photo.credit}</a>
-          {photo.license && <> · <a className="underline" href={photo.license} rel="license">{publicDomainLabel[locale]}</a></>}
+          {photo.license && <> · <a className="underline" href={photo.license} rel="license">{"licenseLabel" in photo ? photo.licenseLabel : publicDomainLabel[locale]}</a></>}
         </p>
       </figcaption>
     </figure>

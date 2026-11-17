@@ -1,0 +1,197 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/ethiopia-13-month-calendar-pagume-enkutatash/",
+  "path": "/ar/articles/ethiopia-13-month-calendar-pagume-enkutatash/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "إثيوبيا: البلد الذي يضم عامه 13 شهراً",
+  "seoTitle": "التقويم الإثيوبي: 13 شهراً وشهر باغومي ورأس السنة",
+  "description": "كيف توزّع إثيوبيا 365 أو 366 يوماً على ثلاثة عشر شهراً، ولماذا تختلف أرقام السنوات، ومتى يحل عيد إنكوتاتاش؟",
+  "excerpt": "كيف توزّع إثيوبيا 365 أو 366 يوماً على ثلاثة عشر شهراً، ولماذا تختلف أرقام السنوات، ومتى يحل عيد إنكوتاتاش؟",
+  "headlineHighlights": {
+    "red": "إثيوبيا",
+    "gold": "13 شهراً"
+  },
+  "keywords": [
+    "إثيوبيا",
+    "13 شهراً"
+  ],
+  "searchIntent": "كيف توزّع إثيوبيا 365 أو 366 يوماً على ثلاثة عشر شهراً، ولماذا تختلف أرقام السنوات، ومتى يحل عيد إنكوتاتاش؟",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/ethiopia-13-month-calendar-pagume-enkutatash.jpg",
+    "alt": "رسم تحريري لاحتفال رأس السنة الإثيوبية مع زهور صفراء وكنيسة منحوتة في الصخر",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "يقسّم التقويم الإثيوبي السنة الشمسية إلى ثلاثة عشر شهراً. لكل شهر من الأشهر الاثني عشر الأولى ثلاثون يوماً، وللشهر الأخير، باغومي، خمسة أيام في السنة العادية وستة في الكبيسة. ويظل إجمالي السنة 365 أو 366 يوماً، مع توزيع مختلف عن التقويم الميلادي. وتبدأ السنة في الأول من مسكرم، الذي يوافق عادةً 11 أو 12 سبتمبر في الفترة الحالية. ويُعرف الاحتفال برأس السنة باسم إنكوتاتاش. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [المصدر · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html) [المصدر · www.ena.et](https://www.ena.et/web/eng/w/en_16865) [المصدر · visitethiopia.et](https://visitethiopia.et/brochures/ethiopian-festivals/download)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف تتسع السنة لثلاثة عشر شهراً؟"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_WORLD_494]]",
+      "caption": "تقسيم السنة الإثيوبية",
+      "headings": [
+        "الفترة",
+        "المدة"
+      ],
+      "rows": [
+        [
+          "الأشهر الاثنا عشر الأولى",
+          "30 يوماً لكل شهر ومجموعها 360 يوماً"
+        ],
+        [
+          "باغومي في سنة عادية",
+          "5 أيام"
+        ],
+        [
+          "باغومي في سنة كبيسة",
+          "6 أيام"
+        ],
+        [
+          "السنة كلها",
+          "365 أو 366 يوماً"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تبلغ أيام الأشهر الاثني عشر 360 يوماً. ويحتوي باغومي الأيام الخمسة المتبقية، ويُضاف إليه يوم في السنة الكبيسة. وتختلف أطوال الشهور الميلادية ويُوضع اليوم الإضافي فيها في فبراير. أما النظام الإثيوبي الذي توثقه يونيكود فيضعه في نهاية السنة. ويعد كلاهما وسيلة لتقريب عدد صحيح من الأيام إلى دورة شمسية تتجاوز 365 يوماً بقليل. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [المصدر · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "لماذا يهم الشهر القصير؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "على من يقرأ تاريخاً في باغومي أن يعرف السنة. فلا يوجد اليوم السادس إلا في السنة الكبيسة. وقد يكتب اسم الشهر بأكثر من صيغة عند نقله إلى لغة أخرى. ويمكن التحقق من موضعه ونوع التقويم قبل افتراض أن الاسم المختلف يشير إلى شهر آخر. وإذا اقتصر التاريخ على أرقام، قد ينتهي الأمر بقراءته على أنه تاريخ ميلادي. ويمنع ذكر التقويم هذا الالتباس. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [المصدر · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "heading",
+      "text": "ما أصول التقويم؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "ينتمي إلى تقاليد التقويم الإثيوبي وله بنية قريبة من التقويم القبطي. وتوضح وثائق يونيكود أن النظامين يمكن أن يشتركا في طريقة الحساب مع اختلاف نقطة البداية. ويعكس ترتيب اثني عشر شهراً طويلاً وفترة قصيرة طريقة قديمة لتنظيم السنة الشمسية. وللتقويم اليوم أهمية مدنية ودينية. ويشرح الملخص الإحصائي لإقليم أوروميا كيف تعرض الجهات المختلفة البيانات وفق أعراف تقويمية متعددة. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [المصدر · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html) [المصدر · ethiopianembassy.org](https://ethiopianembassy.org/culture/)"
+    },
+    {
+      "type": "subheading",
+      "text": "لماذا تختلف أرقام السنوات؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يبدأ كل نظام ترقيم من مرجع زمني. ويستند الترقيم الإثيوبي المعتاد والترقيم الميلادي إلى حسابين مختلفين في التقليد المسيحي. وتبدأ السنة كذلك في موعد مختلف. لذا تتداخل سنة ميلادية واحدة مع أجزاء من سنتين إثيوبيتين. وقد يساعد طرح سبعة أو ثمانية على التقدير، لكنه لا يحدد الشهر واليوم. ويستلزم التحويل معرفة التاريخ كاملاً وتحديد التقويم الذي ينتمي إليه. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [المصدر · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا يحدث في رأس السنة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يأتي إنكوتاتاش في الأول من مسكرم. وتربطه وكالة الأنباء الإثيوبية بنهاية موسم الأمطار وبزهور أدي أبابا الصفراء. وتعرض السفارة أيضاً علاقته بمناسبات دينية. وتحدد القاعدة الحسابية موعد السنة، في حين تعطي العاداتُ اليومَ معنى اجتماعياً يتعلمه الناس وينقلونه. وقد تتشارك الأسر الموعد وتختلف في تفاصيل الاحتفال. [المصدر · www.ena.et](https://www.ena.et/web/eng/w/en_16865) [المصدر · ethiopianembassy.org](https://ethiopianembassy.org/culture/) [المصدر · visitethiopia.et](https://visitethiopia.et/brochures/ethiopian-festivals/download)"
+    },
+    {
+      "type": "subheading",
+      "text": "متى يصبح 11 سبتمبر هو 12 سبتمبر؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "إذا أضيف يوم في آخر باغومي يتأخر اليوم الأول من السنة التالية يوماً بالنسبة إلى التواريخ الميلادية القريبة. ويصلح 11 أو 12 سبتمبر دليلاً في الفترة الحالية. فالتقويم الميلادي يستثني بعض السنوات الواقعة عند حدود القرون من قاعدة الكبس، بينما يحتفظ الإثيوبي بدورة من أربع سنوات. ولذلك يكون التحويل الكامل أفضل من تطبيق قاعدة سبتمبر على فترات طويلة من التاريخ. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [المصدر · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html) [المصدر · visitethiopia.et](https://visitethiopia.et/brochures/ethiopian-festivals/download)"
+    },
+    {
+      "type": "heading",
+      "text": "مثال من سبتمبر 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "يوافق 11 سبتمبر 2026 الأول من مسكرم عام 2019 في التقويم الإثيوبي. وهو عام كبيس وفي باغومي ستة أيام. ويبدأ العام التالي في 12 سبتمبر 2027. وفي المقابل، كل من 2026 و2027 عام عادي في النظام الميلادي. لذلك لا يكفي التحقق من وجود 29 فبراير لمعرفة طول باغومي. يبدأ الحساب بتحديد السنة الإثيوبية ثم تحويل التاريخ كاملاً. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [المصدر · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "ما أهمية التحويل خارج أيام الأعياد؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يذكر تقرير عن الدراسة أو الإنفاق عام 2019 من دون توضيح النظام. وحتى مع معرفة التقويم، يمكن أن تبدأ السنة المالية في موعد مختلف، كما يشرح الملخص الإحصائي لأوروميا. ويمكن أن يحفظ الاقتباس تاريخ الوثيقة ويضيف مكافئه. وعند استخدام فترة زمنية، من المفيد أيضاً أن يبيّن ما إذا كان اليوم الأول والأخير داخلها. وهكذا يستطيع قارئ آخر إعادة الحساب ومعرفة ما تغطيه الأرقام. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [المصدر · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا نتعلم من هذا التقويم؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يجمع التاريخ بين قاعدة عدّ وطريقة لتسمية الأيام. وتوضح الأشهر الثلاثة عشر شكل هذا الجمع. وتستخدم المجتمعات التقويم لأنها تتعرف إلى قواعده وتستطيع تداولها في حياتها. ولمثال آخر على انتقال ممارسة بين الناس، اقرأ [تقرير PRESDA عن الساونا الفنلندية](/articles/finland-three-million-saunas-sauna-culture/)."
+    },
+    {
+      "type": "subheading",
+      "text": "كيف نكتب تاريخاً يفهمه القارئ التالي؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تكون الملاحظة القصيرة أوضح من رقم محوّل بلا تفسير. احتفظ بالتاريخ الأصلي واذكر نوع التقويم وأضف المقابل إذا أمكن إثباته. وفي مثال 2026، يفيد ذكر أن السنة تنتهي في 11 سبتمبر 2027 وأن التالية تبدأ في 12 سبتمبر. ويقل الالتباس حين تُستخدم كتابة متسقة لمسكرم وباغومي. وإذا كتب المصدر اسماً بطريقة مختلفة، يمكن الحفاظ عليها في الاقتباس وشرح المقابل في النص. وتساعد القاعدة نفسها عند المقارنة بين مواعيد وثائق من مؤسستين. فقد تنشر إحداهما تقريراً عن سنة تقويمية فيما تنشر الثانية أرقاماً عن فترة مالية تحمل الاسم نفسه. ويحتاج القارئ حينئذ إلى أول يوم وآخر يوم وما يعنيه اسم الفترة لدى كل جهة. كما أن تاريخ نشر التقرير يختلف عن الفترة التي يصفها. وقد يكون تاريخ ما كافياً لتحديد موعد عيد، بينما لا يكفي وحده لتحديد الأشهر المشمولة في دراسة. ولتجنّب الخطأ يمكن الرجوع إلى الجهة التي نشرت الوثيقة، وقراءة شرحها للأعمدة والعناوين، وتسجيل طريقة التحويل بجانب النتيجة. بهذا يستطيع شخص آخر قراءة المصدر وفهم المواضع التي قُرئت كما هي والمواضع التي استُخدم فيها تحويل. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [المصدر · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "heading",
+      "text": "لماذا تنفع الفترة المحددة أكثر من طرح عدد من السنوات؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يبدو تحويل التاريخ بطرح رقم من السنة خطوة سريعة. لكن السنة الإثيوبية تبدأ داخل سنة ميلادية وتنتهي داخل سنة أخرى. وينتمي باغومي إلى السنة التي تنتهي. وفي مثال 2019 الإثيوبي يوافق اليوم السادس منه 11 سبتمبر 2027، فيما يبدأ التاريخ الإثيوبي التالي في 12 سبتمبر. وإذا دوّن شخص الشهر والسنة فحسب بقي حد الانتقال غامضاً. ويمكن تجنب ذلك بالاحتفاظ باليوم وبنوع التقويم كما يظهران في المصدر. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf) [المصدر · unicode-org.github.io](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ويختلف تاريخ نشر وثيقة عن الفترة التي تصفها. فقد يُنشر جدول بعد انتهاء السنة المالية، وقد يستخدم عنوانه اسم السنة وحده. وإذا قارنه قارئ بجدول للعام الدراسي، يحتاج إلى معرفة بداية كل سلسلة ونهايتها قبل مقارنة الأعداد. ويمكن لإضافة التاريخ المكافئ أن تجعل الوثيقة مفهومة لمن يستخدم تقويماً آخر، شرط إبقاء الأصل ظاهراً. وتكشف كتابة حدّي الفترة أيضاً إن كانت الأشهر المقصودة متداخلة جزئياً أو مختلفة تماماً. ويمتد ذلك إلى الملفات الرقمية أيضاً. فقد يحفظ النظام ترتيب السجلات بحسب يوم ميلادي، بينما يظل اسم العيد مرتبطاً بالتقويم الإثيوبي. وإذا أضيف بيان عن نوع التقويم، يستطيع المستخدم البحث بالاسم أو تحديد التاريخ المكافئ من دون أن يظن أن السجل يصف مناسبتين مختلفتين. وعند دمج ملفات متعددة، يسهل التحقق من أن اليوم الأخير في كل فترة سُجل مرة واحدة ولم يسقط من العدّ عند الانتقال إلى السنة التالية. [المصدر · www.oromiaplan.gov.et](https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر · www.oromiaplan.gov.et",
+      "url": "https://www.oromiaplan.gov.et/sites/default/files/Oromia%20Statistical%20Abstract_21st%20edition_final%20Version6_11%20final.pdf"
+    },
+    {
+      "label": "المصدر · unicode-org.github.io",
+      "url": "https://unicode-org.github.io/icu-docs/apidoc/dev/icu4j/com/ibm/icu/util/EthiopicCalendar.html"
+    },
+    {
+      "label": "المصدر · www.ena.et",
+      "url": "https://www.ena.et/web/eng/w/en_16865"
+    },
+    {
+      "label": "المصدر · ethiopianembassy.org",
+      "url": "https://ethiopianembassy.org/culture/"
+    },
+    {
+      "label": "المصدر · visitethiopia.et",
+      "url": "https://visitethiopia.et/brochures/ethiopian-festivals/download"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل للسنة في إثيوبيا ثلاثة عشر شهراً فعلاً؟",
+      "answer": "نعم. لكل من الأشهر الاثني عشر الأولى ثلاثون يوماً، وللأخير خمسة أو ستة."
+    },
+    {
+      "question": "متى يأتي رأس السنة الإثيوبية؟",
+      "answer": "في الأول من مسكرم، الموافق عادةً 11 أو 12 سبتمبر حالياً."
+    },
+    {
+      "question": "لماذا يختلف رقم السنة؟",
+      "answer": "لكل تقويم نقطة بداية وموعد مختلف لرأس السنة، لذا يتطلب التحويل تاريخاً كاملاً."
+    }
+  ],
+  "readingTimeMinutes": 7
+}
