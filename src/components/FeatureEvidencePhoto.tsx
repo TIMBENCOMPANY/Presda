@@ -16,6 +16,62 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+  "robert-pattinson-new-james-bond-007": {
+    afterBlock: 11, file: "pattinson-berlinale-2025.jpg", width: 1789, height: 2371,
+    source: "https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg",
+    credit: "Elena Ternovaja / Wikimedia Commons", license: "https://creativecommons.org/licenses/by-sa/3.0/",
+    captions: {
+      en: "Robert Pattinson at the Berlin International Film Festival in February 2025.",
+      fr: "Robert Pattinson au Festival international du film de Berlin en février 2025.",
+      es: "Robert Pattinson en el Festival Internacional de Cine de Berlín en febrero de 2025.",
+      ar: "روبرت باتينسون في مهرجان برلين السينمائي الدولي في فبراير ٢٠٢٥."
+    }
+  },
+  "romania-merry-cemetery-sapanta": {
+    afterBlock: 5, file: "sapanta-merry-cemetery-documentary.jpg", width: 1536, height: 2048,
+    source: "https://commons.wikimedia.org/wiki/File:Cmitrul_Vesel.jpg",
+    credit: "KarelZOauh / Wikimedia Commons", license: "https://creativecommons.org/licenses/by-sa/4.0/",
+    captions: {
+      en: "The Merry Cemetery in Săpânța, Romania, photographed in July 2026.",
+      fr: "Le Cimetière joyeux de Săpânța, en Roumanie, photographié en juillet 2026.",
+      es: "El Cementerio Alegre de Săpânța, en Rumanía, fotografiado en julio de 2026.",
+      ar: "المقبرة المرحة في سابانتسا برومانيا، في صورة التُقطت في يوليو ٢٠٢٦."
+    }
+  },
+  "up-helly-aa-lerwick-shetland-viking-fire-festival": {
+    afterBlock: 11, file: "lerwick-galley-burning-2019.jpg", width: 6000, height: 4000,
+    source: "https://commons.wikimedia.org/wiki/File:Lerwick_Up_Helly_Aa_2019_Galley_Burning.jpg",
+    credit: "Roy Mullay / Wikimedia Commons", license: "https://creativecommons.org/licenses/by/4.0/",
+    captions: {
+      en: "The replica galley burns during Lerwick’s Up Helly Aa in January 2019, seen from King Harald Street.",
+      fr: "La réplique de la galère brûle pendant Up Helly Aa à Lerwick, en janvier 2019. Vue depuis King Harald Street.",
+      es: "La réplica de la galera arde durante Up Helly Aa en Lerwick, en enero de 2019, vista desde King Harald Street.",
+      ar: "إحراق السفينة المقلّدة في مهرجان أب هيلي آ بمدينة ليرويك في يناير ٢٠١٩، كما بدا من شارع كينغ هارالد."
+    }
+  },
+  "great-smog-london-1952-clean-air-act": {
+    afterBlock: 9, file: "great-smog-1953-beaver-report-mortality.png", width: 2304, height: 1404,
+    source: "https://commons.wikimedia.org/wiki/File:1952_Great_London_Smog_mortality-2.png",
+    credit: "UK Committee on Air Pollution, 1953 interim report / Wikimedia Commons", license: publicDomain,
+    captions: {
+      en: "Chart from the 1953 UK air pollution inquiry showing the rise in deaths around the December 1952 smog.",
+      fr: "Graphique de l’enquête britannique sur la pollution de l’air de 1953, montrant la hausse de la mortalité autour du smog de décembre 1952.",
+      es: "Gráfico de la investigación británica de 1953 sobre la contaminación del aire, con el aumento de la mortalidad en torno al esmog de diciembre de 1952.",
+      ar: "رسم بياني من تحقيق بريطاني في تلوث الهواء نُشر عام ١٩٥٣، ويبيّن ارتفاع الوفيات في فترة ضباب ديسمبر ١٩٥٢."
+    }
+  },
+  "lalibela-ethiopia-rock-hewn-churches": {
+    afterBlock: 11, file: "lalibela-bete-giyorgis-overhead.jpg", width: 735, height: 579,
+    source: "https://commons.wikimedia.org/wiki/File:Bet_Gyorgis_Lalibela.jpg",
+    credit: "Erik (uploader) / Wikimedia Commons", license: "https://creativecommons.org/publicdomain/zero/1.0/",
+    captions: {
+      en: "The cross-shaped roof of Biete Ghiorgis viewed from above its excavated enclosure in Lalibela.",
+      fr: "Le toit en croix de Biete Ghiorgis, vu depuis le bord de l’enceinte creusée dans la roche à Lalibela.",
+      es: "El tejado en cruz de Biete Ghiorgis, visto desde el borde del recinto excavado en Lalibela.",
+      ar: "سقف كنيسة بيتي غيورغيس على هيئة صليب، كما يبدو من أعلى الحفرة الصخرية المحيطة به في لاليبيلا."
+    }
+  },
+
   "rapa-nui-moai-statues-mystery": {
     afterBlock: 8,
     file: "rano-raraku-unfinished-moai-lbm1948.jpg",

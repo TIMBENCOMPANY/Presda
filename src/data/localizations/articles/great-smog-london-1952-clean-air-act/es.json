@@ -1,0 +1,189 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/great-smog-london-1952-clean-air-act/",
+  "path": "/es/articles/great-smog-london-1952-clean-air-act/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "EL GRAN SMOG: CUANDO LONDRES NO PODÍA RESPIRAR",
+  "seoTitle": "El gran smog de Londres de 1952: causas, muertes y regulación",
+  "description": "Cómo el carbón y una inversión térmica crearon la niebla contaminada, por qué difieren las cifras de muertos y qué cambió con la ley de 1956.",
+  "excerpt": "Cómo el carbón y una inversión térmica crearon la niebla contaminada, por qué difieren las cifras de muertos y qué cambió con la ley de 1956.",
+  "headlineHighlights": {
+    "red": "GRAN SMOG",
+    "gold": "LONDRES"
+  },
+  "keywords": [
+    "GRAN SMOG",
+    "LONDRES"
+  ],
+  "searchIntent": "Cómo el carbón y una inversión térmica crearon la niebla contaminada, por qué difieren las cifras de muertos y qué cambió con la ley de 1956.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/great-smog-london-1952-clean-air-act.jpg",
+    "alt": "Ilustración en blanco y negro de un peatón y un autobús en el smog londinense",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Del 5 al 9 de diciembre de 1952, una niebla densa cargada de humo cubrió Londres. El frío elevó el consumo de carbón y una capa de aire más cálido retuvo la contaminación a ras de suelo. El humo de casas, centrales e industrias se mezcló con la niebla. Durante cinco días cambió la vida de la ciudad. Los efectos sanitarios duraron más. Una estimación del impacto inmediato y un estudio de los meses siguientes describen intervalos diferentes. [Fuente · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Fuente · www.londonmuseum.org.uk](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [Fuente · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Fuente · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué el humo se quedó cerca del suelo"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_HERITAGE_500]]",
+      "caption": "Fechas y estimaciones del gran smog",
+      "headings": [
+        "Periodo o hecho",
+        "Dato"
+      ],
+      "rows": [
+        [
+          "5 a 9 de diciembre de 1952",
+          "Niebla cargada de humo sobre Londres"
+        ],
+        [
+          "Diciembre de 1952",
+          "Alrededor de 4.000 muertes en exceso, según la cifra que cita Londres"
+        ],
+        [
+          "Diciembre de 1952 a febrero de 1953",
+          "Unas 12.000 muertes en exceso según un estudio posterior"
+        ],
+        [
+          "1956",
+          "La ley permite crear zonas de control del humo"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En condiciones de mezcla, el aire contaminado puede ascender y dispersarse. En una inversión térmica, el aire situado encima de la capa fría es más cálido, lo que limita esa mezcla. La oficina meteorológica británica señala las altas presiones, los vientos débiles y la inversión. Los hogares quemaban carbón y las fábricas y centrales seguían emitiendo. El tiempo influyó en dónde quedaron los contaminantes y cuánto duró la exposición. [Fuente · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Fuente · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog)"
+    },
+    {
+      "type": "subheading",
+      "text": "Cómo la niebla se volvió smog"
+    },
+    {
+      "type": "paragraph",
+      "text": "La niebla consta de pequeñas gotas de agua. Las partículas de la combustión pueden servir de superficie para que se formen. Las gotas y partículas dispersan la luz, y el aire puede contener gases de las mismas fuentes. La visibilidad y la exposición a contaminantes no miden lo mismo. Dos cielos igualmente opacos pueden contener mezclas distintas. La combustión de carbón hizo particularmente peligroso el aire atrapado. [Fuente · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Fuente · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué vivió Londres durante esos cinco días"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Museo de Londres describe trastornos del transporte y la vida diaria. La ciudad conocía la niebla, pero su densidad y persistencia resultaron excepcionales. Peatones, conductores y viajeros apenas podían distinguir lo que tenían delante. La niebla llegó a interiores. Las imágenes y relatos muestran lo que se veía. Los registros de salud y mortalidad permiten estudiar otras consecuencias de respirar aquel aire. [Fuente · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Fuente · www.londonmuseum.org.uk](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Cómo se registra una crisis de mortalidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "El exceso de mortalidad es la diferencia entre las muertes observadas y las esperadas en un periodo. No equivale a contar solo los certificados que mencionan el episodio. Influyen el punto de referencia, la duración y el modo en que se evalúan otras causas. Incluso una cifra conocida necesita el intervalo que le da sentido. [Fuente · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Fuente · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué se habla de 4.000 y de 12.000 muertes"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Autoridad del Gran Londres cita unas 4.000 muertes en exceso durante diciembre de 1952. Michelle Bell y Devra Davis estimaron después alrededor de 12.000 desde diciembre de 1952 hasta febrero de 1953. El segundo periodo incluye diciembre y el estudio aplicó otro método para evaluar efectos persistentes. Sumarlas mezclaría dos cálculos que abarcan parte del mismo tiempo. [Fuente · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Fuente · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué muestra el periodo más largo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La salud puede seguir viéndose afectada después de que se disipe la niebla. Las semanas posteriores permiten evaluar si la mortalidad siguió por encima de lo esperado. También obligan a considerar otros factores. El diseño del análisis y sus supuestos dan sentido al resultado. Una cosa es la duración de la niebla y otra la del riesgo que estudian los investigadores. [Fuente · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Fuente · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Fuente · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué cambió con la ley de 1956"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las emisiones procedían en gran parte de fuentes identificables. La Ley de Aire Limpio de 1956 contempló zonas de control del humo y medidas para hornos y chimeneas. Dio nuevas herramientas a las autoridades locales. Quedaban por decidir combustibles y equipos permitidos, lugares y plazos. La oficina meteorológica recoge acciones posteriores, entre ellas la ley de 1968. [Fuente · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Fuente · www.londonmuseum.org.uk](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [Fuente · www.legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué implicó para los hogares"
+    },
+    {
+      "type": "paragraph",
+      "text": "Limitar el humo cambia lo que se puede quemar y puede exigir otros aparatos de calefacción. La regulación alcanza decisiones cotidianas. También cuentan los cambios en generación eléctrica e industria. Para comparar dos inviernos se tienen que considerar el clima y el combustible. Para otro caso en que importa la fuente del calor doméstico, consulta [el reportaje de PRESDA sobre Islandia](/articles/iceland-geothermal-district-heating-homes/). [Fuente · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Fuente · www.legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué queda en los documentos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los datos meteorológicos explican por qué se acumuló la contaminación. Una foto enseña cuánto se veía en una calle. Los estudios de mortalidad abarcan periodos definidos y la ley recoge los poderes adoptados después. Cada fuente responde a una pregunta distinta. Juntas explican por qué unos días de niebla se convirtieron en un caso clave de contaminación urbana. [Fuente · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Fuente · www.londonmuseum.org.uk](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [Fuente · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/) [Fuente · www.legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)"
+    },
+    {
+      "type": "heading",
+      "text": "Cuatro cronologías de una misma catástrofe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las fechas del episodio meteorológico, el período de exposición, las semanas en las que hubo más defunciones de las esperadas y el tiempo que llevó promulgar una ley responden a preguntas distintas. La niebla se disipó el 9 de diciembre, pero una persona expuesta durante aquellos cinco días podía morir después. Un recuento cerrado en cuanto volvió la visibilidad habría dejado fuera parte de las consecuencias. Los investigadores de la época pudieron relacionar las mediciones del aire y los registros de mortalidad. Décadas después, otros equipos pudieron examinar un período más largo y valorar cuánto del aumento podía explicarse de otras maneras. Para interpretar las cifras siempre conviene acompañarlas de su intervalo de referencia y de una explicación de la mortalidad esperada en condiciones normales. También conviene distinguir entre ver y medir. Los relatos sobre peatones desorientados informan sobre la visibilidad en calles concretas. Los instrumentos registraban la concentración de contaminantes en lugares determinados y permitían estudiar la exposición. Un testimonio sobre la dificultad para avanzar por la calle ayuda a reconstruir la experiencia de Londres, aunque por sí solo no dice cuánto dióxido de azufre respiró quien lo contó. [Fuente · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Fuente · www.londonmuseum.org.uk](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [Fuente · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La legislación siguió su propio calendario. La ley autorizó a los ayuntamientos a delimitar zonas de control del humo. Dentro de ellas, los hogares podían cumplir las restricciones mediante combustibles autorizados o aparatos aprobados, según las condiciones aplicables. Reformar una chimenea, encontrar suministro de combustible adecuado y adoptar las normas locales eran medidas concretas que mediaban entre la aprobación de la ley y la reducción de las emisiones. Por eso la fecha de la ley indica cuándo se abrió una vía de actuación, cuyos efectos llegaron de forma gradual. Además, una fuente doméstica pequeña podía parecer insignificante al lado de una fábrica. Cuando miles de hogares encendían sus chimeneas a la vez bajo una inversión térmica, la suma de esas emisiones tenía consecuencias para todo un barrio. La intervención local abordó ese problema al nivel de las zonas donde solía ocurrir. A medida que cambiaron los equipos y el suministro, cambió también la posibilidad de mantener la calefacción reduciendo el humo. La experiencia de 1952 dio relevancia pública a esa relación entre decisiones cotidianas y condiciones atmosféricas. [Fuente · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Fuente · www.legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · weather.metoffice.gov.uk",
+      "url": "https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog"
+    },
+    {
+      "label": "Fuente · www.londonmuseum.org.uk",
+      "url": "https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/"
+    },
+    {
+      "label": "Fuente · www.london.gov.uk",
+      "url": "https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog"
+    },
+    {
+      "label": "Fuente · pubmed.ncbi.nlm.nih.gov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11427388/"
+    },
+    {
+      "label": "Fuente · www.legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué causó el gran smog?",
+      "answer": "El humo del carbón quedó atrapado cerca del suelo por una inversión térmica y se mezcló con la niebla."
+    },
+    {
+      "question": "¿Cuántas personas murieron?",
+      "answer": "Londres cita unas 4.000 muertes en exceso en diciembre. Un estudio estima unas 12.000 de diciembre a febrero."
+    },
+    {
+      "question": "¿Cómo respondió el Gobierno?",
+      "answer": "La ley de 1956 incluyó zonas de control del humo y otras medidas sobre emisiones."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

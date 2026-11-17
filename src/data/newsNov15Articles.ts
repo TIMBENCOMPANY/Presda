@@ -1,6 +1,444 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "497",
+    "slug": "robert-pattinson-new-james-bond-007",
+    "title": "ROBERT PATTINSON IS THE NEW JAMES BOND: A NEW ERA FOR 007",
+    "seoTitle": "Robert Pattinson is James Bond: what Amazon MGM confirmed",
+    "metaDescription": "Amazon MGM named Robert Pattinson the next James Bond on November 16, 2026. Who is making the film, what changed at the studio and what’s still open.",
+    "excerpt": "Amazon MGM named Robert Pattinson the next James Bond on November 16, 2026. Who is making the film, what changed at the studio and what’s still open.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/robert-pattinson-new-james-bond-007.jpg",
+    "coverAlt": "Editorial illustration of Robert Pattinson in a tuxedo with London and 007 imagery",
+    "headlineHighlights": {
+      "red": "ROBERT PATTINSON",
+      "gold": "JAMES BOND"
+    },
+    "tags": [
+      "ROBERT PATTINSON",
+      "Paparazzi"
+    ],
+    "content": [
+      "Amazon MGM Studios named Robert Pattinson as the next James Bond on November 16, 2026. He succeeds Daniel Craig in the main film series and will work with director Denis Villeneuve and screenwriter Steven Knight. It is the first Bond casting under the creative arrangement Amazon MGM took on in 2025. The announcement settled the question of who plays 007. The film’s title, release date and story remained open in the studio statement. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Amazon MGM Studios screenwriter announcement](https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-screenwriter-steven-knight) [Associated Press reporting on the casting](https://apnews.com/article/4545b257a9924895a69623332db50c97)",
+      "## What Amazon MGM confirmed",
+      "[[NOV17_HERITAGE_497]]",
+      "Pattinson has been cast as James Bond in the studio’s upcoming film. Villeneuve will direct from a screenplay by Knight. Amy Pascal and David Heyman will produce through Pascal Pictures and Heyday Films, with Tanya Lapointe as executive producer. These are the appointments the announcement confirms. The combination says who has responsibility for shaping the film, while the film itself will answer what kind of Bond they have made. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Amazon MGM Studios screenwriter announcement](https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-screenwriter-steven-knight)",
+      "### Why November 16 matters",
+      "Names attached to a casting search can appear in reports for many reasons. An actor may be asked to read, tested for a role or discussed without a final decision. The studio release is evidence of a different event. It names the actor in the role and the film team who will work with him. The Associated Press independently reported the announcement. There is no need to infer the outcome from a shortlist or treat earlier reports about other actors as an official order of preference. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Associated Press reporting on the casting](https://apnews.com/article/4545b257a9924895a69623332db50c97)",
+      "## How this follows Daniel Craig",
+      "Craig’s tenure began with Casino Royale in 2006 and ended with No Time to Die in 2021. The five-film run gave the series a continuity that followed Craig’s character through successive stories. The last film gave that version of Bond an unusually final ending. The next film can begin with a new portrayal while still belonging to the long-running film series. In the Nov. 16 announcement, the studio did not say whether the new story follows a young Bond, an experienced agent or another interpretation. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Associated Press reporting on the casting](https://apnews.com/article/4545b257a9924895a69623332db50c97) [Official James Bond website](https://www.007.com/)",
+      "### Why he is called the seventh Bond",
+      "The usual count refers to the principal theatrical series. It runs from Sean Connery through George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan and Daniel Craig to Pattinson. The count changes if it includes adaptations or films outside that main series. That is why it is clearer to specify the series when reporting the number. The Associated Press describes Pattinson as the seventh and calls the upcoming production the 26th film in the series. Because those numbers count different things, neither identifies a planned title. [Associated Press reporting on the casting](https://apnews.com/article/4545b257a9924895a69623332db50c97) [Official James Bond website](https://www.007.com/)",
+      "## What Pattinson brings to the role",
+      "The studio pointed to work in films with very different demands. Twilight made Pattinson familiar to a large mainstream audience. Independent roles such as Good Time and The Lighthouse drew attention to his character work. The Batman placed him at the centre of another established screen property. Mickey 17 and Die, My Love extended that range in other directions. That career makes the casting interesting without laying down its result. A role in one franchise can demonstrate how an actor inhabits a familiar character, but it cannot tell us how he will approach Bond’s humour, authority or relationship to MI6. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Associated Press reporting on the casting](https://apnews.com/article/4545b257a9924895a69623332db50c97)",
+      "### His connection to Villeneuve predates Bond",
+      "The casting announcement also said Pattinson plays a Face Dancer in Villeneuve’s Dune: Part Three. It described that film as upcoming at the time. A previous collaboration gives the director and actor an established working relationship. What they do on Bond depends on the script and choices made during production. It is possible to note the connection without treating the style of a science-fiction film as a forecast for an espionage story. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film)",
+      "## What changed behind the camera",
+      "Amazon MGM says the 2025 agreement with Barbara Broccoli and Michael G. Wilson formed a joint venture and gave the studio creative control of the James Bond intellectual property rights. That description is more precise than saying the producers were erased from the franchise’s history or that every aspect of ownership changed hands. The agreement reshaped who exercises creative control. The next film’s producer, director and writing appointments show how the studio has begun to exercise it. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Amazon MGM Studios screenwriter announcement](https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-screenwriter-steven-knight)",
+      "### What a creative team can tell us",
+      "Villeneuve brings experience directing large productions. Knight’s credits include Peaky Blinders and Eastern Promises. Pascal and Heyman have worked on long-running film properties. These are useful facts about the team. They cannot establish a period setting, a running time or the identity of a villain. There will be opportunities to verify those details when the studio publishes more information. For now, the personnel list is the public record and the outcome of their collaboration is a separate question. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Amazon MGM Studios screenwriter announcement](https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-screenwriter-steven-knight)",
+      "## What viewers can watch for next",
+      "A title announcement, a production start and a release date can be separate milestones. Casting a lead does not establish when the film will open. A short studio reveal is a promotional announcement with a particular purpose, rather than a trailer from a completed film. Readers can check whether any later claim comes from the studio, a publication citing identifiable reporting or a social post that repeats a rumour. The Nov. 16 announcement remains the clearest reference for the casting and the names of the team. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Associated Press reporting on the casting](https://apnews.com/article/4545b257a9924895a69623332db50c97)",
+      "For another PRESDA feature about the gap between the story an image suggests and the event that evidence can document, read [the account of the 1904 Olympic marathon](/articles/1904-olympic-marathon-st-louis/). The supplied Bond hero is an editorial illustration. It is not presented as a production still or as evidence of the film’s costumes or setting.",
+      "## What a new era means before the first trailer",
+      "Bond has changed actors across multiple decades while remaining recognisable as a series. Putting a new actor in the role gives the filmmakers an opportunity to choose how closely a new interpretation follows the preceding one. The setting, the relationships and the way the film treats intelligence work will matter as much as the person wearing the tuxedo. The creative changes named by Amazon MGM make the next production a milestone even before those choices are visible. The announcement tells us who has been entrusted with making them. More specific conclusions should follow the next pieces of evidence, not precede them. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Amazon MGM Studios screenwriter announcement](https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-screenwriter-steven-knight) [Official James Bond website](https://www.007.com/)",
+      "## How to read the milestones in order",
+      "The studio’s separate announcements show how the public record accumulated. Reporting on the 2025 arrangement described who would have creative control. The production and writing announcements established the people developing the film. The November 2026 release added the performer who will play the lead. Taken together, these dates let a reader reconstruct the project so far without treating every piece of reporting as a production milestone. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Amazon MGM Studios screenwriter announcement](https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-screenwriter-steven-knight)",
+      "The distinction also matters when talking about the film in a year when the actor has work elsewhere. A statement about Pattinson’s work on a different film can be verified for that production. It does not establish how Bond will be scheduled or what sets will be used. The fact that studios can announce a cast member before offering a release date is particularly important here. The statement has value for what it actually confirms. [Amazon MGM Studios casting announcement, November 16, 2026](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film) [Associated Press reporting on the casting](https://apnews.com/article/4545b257a9924895a69623332db50c97)"
+    ],
+    "references": [
+      {
+        "name": "Amazon MGM Studios casting announcement, November 16, 2026",
+        "url": "https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film"
+      },
+      {
+        "name": "Amazon MGM Studios screenwriter announcement",
+        "url": "https://www.aboutamazon.com/news/entertainment/amazon-mgm-studios-james-bond-screenwriter-steven-knight"
+      },
+      {
+        "name": "Associated Press reporting on the casting",
+        "url": "https://apnews.com/article/4545b257a9924895a69623332db50c97"
+      },
+      {
+        "name": "Official James Bond website",
+        "url": "https://www.007.com/"
+      }
+    ],
+    "relatedSlugs": [
+      "1904-olympic-marathon-st-louis"
+    ],
+    "faq": [
+      {
+        "question": "Is Robert Pattinson officially James Bond?",
+        "answer": "Yes. Amazon MGM Studios announced his casting on November 16, 2026."
+      },
+      {
+        "question": "Who is directing and writing the film?",
+        "answer": "Denis Villeneuve is directing and Steven Knight is writing the script."
+      },
+      {
+        "question": "When will the new James Bond film come out?",
+        "answer": "The November 16 announcement did not establish a release date."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "498",
+    "slug": "romania-merry-cemetery-sapanta",
+    "title": "ROMANIA'S MERRY CEMETERY: WHERE DEATH MEETS HUMOR",
+    "seoTitle": "Romania’s Merry Cemetery: the blue crosses of Săpânța",
+    "metaDescription": "Who made Săpânța’s painted crosses, how the first-person epitaphs work and why the Merry Cemetery remains a place of remembrance.",
+    "excerpt": "Who made Săpânța’s painted crosses, how the first-person epitaphs work and why the Merry Cemetery remains a place of remembrance.",
+    "category": "Travel",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/romania-merry-cemetery-sapanta.jpg",
+    "coverAlt": "Editorial illustration of painted blue grave markers at Săpânța’s Merry Cemetery",
+    "headlineHighlights": {
+      "red": "MERRY CEMETERY",
+      "gold": "HUMOR"
+    },
+    "tags": [
+      "MERRY CEMETERY",
+      "Travel"
+    ],
+    "content": [
+      "In Săpânța, a village in Romania’s northern Maramureș region, grave markers offer information a conventional headstone often leaves out. A small carved scene may show a person at work, in a familiar place or in an episode remembered by neighbours. Below the scene, a verse may speak from the first person. The painted wooden crosses, many with a deep blue ground, are the reason the place is known as the Merry Cemetery, or Cimitirul Vesel. The name reflects the unexpected tone of some inscriptions. The site is also the burial ground of a community that commissions the markers to remember its dead. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Maramureș regional guide to the Merry Cemetery](https://maramures.info/sighetu-marmatiei/ce-explorez/cimitirul-vesel/) [Lonely Planet destination entry](https://www.lonelyplanet.com/points-of-interest/merry-cemetery/1055186)",
+      "## Where the Merry Cemetery is",
+      "[[NOV17_HERITAGE_498]]",
+      "Săpânța is near Sighetu Marmației in Maramureș County. The cemetery belongs to a village setting with a local history of woodworking. Its reputation has brought visitors who come specifically to see the crosses. For people with relatives buried there, the same place has another purpose. Keeping the distinction in view helps explain why a short, funny verse may matter beyond being a memorable line. The scene above it and the place where it stands connect the inscription to a person. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Maramureș regional guide to the Merry Cemetery](https://maramures.info/sighetu-marmatiei/ce-explorez/cimitirul-vesel/) [Lonely Planet destination entry](https://www.lonelyplanet.com/points-of-interest/merry-cemetery/1055186)",
+      "### Why the blue crosses lead people to stop",
+      "A repeated shape or colour can tie together many pieces. Within that shared form, makers give individual crosses different painted scenes, ornaments and text. A reader can look first at the craft and then ask what has been chosen to identify a specific life. A photographed detail may look like a picture detached from the grave. At the site, the marker still has a relationship to a name, a date and the others nearby. That setting is one reason short descriptions of the cemetery should name the village and its purpose. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Maramureș regional guide to the Merry Cemetery](https://maramures.info/sighetu-marmatiei/ce-explorez/cimitirul-vesel/)",
+      "## Who started the tradition?",
+      "The memorial house dates Stan Ioan Pătraș’s first verse inscriptions to 1935. The regional guide describes how early broader crosses made room for a written epitaph and identifies local collaborators in the development of the form. It is useful to say exactly what the date marks. It is an origin date for the practice associated with Pătraș, rather than the age of the entire burial ground. Artists working in the village had wood, tools, knowledge of carving and customers for memorials. Adding a painted scene and a short poem made it possible for the marker to carry a more particular account. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Maramureș regional guide to the Merry Cemetery](https://maramures.info/sighetu-marmatiei/ce-explorez/cimitirul-vesel/) [Lonely Planet destination entry](https://www.lonelyplanet.com/points-of-interest/merry-cemetery/1055186)",
+      "### The work behind an epitaph",
+      "A piece follows from decisions about the wood, carving, paint and layout. It also depends on a discussion about what to include. An episode that seems minor to a visitor may be important to a family because it fixes a person in a place or in a kind of work. A larger piece makes room for words, but someone still has to decide which words and what can fit. The image and the verse therefore work together. The task is more specialised than painting a blue background and adding an interchangeable joke. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Maramureș regional guide to the Merry Cemetery](https://maramures.info/sighetu-marmatiei/ce-explorez/cimitirul-vesel/)",
+      "## Why some of the verses sound as if the dead are speaking",
+      "The memorial house describes short verses composed in the first person, often close to local speech. This form can make the voice feel immediate. It remains a crafted account. A sentence in the first person is not necessarily a verbatim statement made by the person who died. It may be how a carver renders a memory or how a family chooses to make a life recognisable. Regional speech, verse and tone can all shape how an inscription sounds to people who know the place. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/)",
+      "### What translation can change",
+      "An unfamiliar term can refer to local work, relationships or the way a line rhymes. Translating the gist of an epitaph may lose a play on words, while reproducing a joke without context may exaggerate its importance. A dated photograph, a transcription and a careful translation serve different purposes. Some markers commemorate work, setbacks or causes of death, and some are more solemn than the cemetery’s popular name suggests. Reading any one example as a summary of local attitudes would overlook that variety. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Maramureș regional guide to the Merry Cemetery](https://maramures.info/sighetu-marmatiei/ce-explorez/cimitirul-vesel/)",
+      "## How the craft continued after Pătraș",
+      "After Pătraș died in 1977, his former pupil Dumitru Pop, known as Tincu, continued the art. The local memorial house and tourism profiles record the place of apprenticeship. Visit Maramureș also profiles Stan Ioan, a craftsman carrying that work into another generation. The continuity is visible in painting, tools and the ability to fit a story to a marker. It also depends on commissions and on teaching a new maker to recognise how a family wants to be represented. Names of later makers matter because a cemetery with many crosses is the work of more than one career. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Visit Maramureș profile of artisan Stan Ioan](https://www.visitmaramures.ro/ro/mesteri-populari/stan-ioan-patras) [Maramureș regional guide to the Merry Cemetery](https://maramures.info/sighetu-marmatiei/ce-explorez/cimitirul-vesel/) [Lonely Planet destination entry](https://www.lonelyplanet.com/points-of-interest/merry-cemetery/1055186)",
+      "### Why the workshop matters as much as the graveyard",
+      "The same pattern can look simple once it has been painted many times. A workshop reveals how much repeated practice goes into familiar shapes. Making room for a verse while preserving the visual balance of a marker is a design problem. Painting over carved or shaped wood adds other constraints. Keeping records of who made later pieces helps readers understand what the tradition borrowed from earlier work and where artisans adapted it to another family or another commission. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Visit Maramureș profile of artisan Stan Ioan](https://www.visitmaramures.ro/ro/mesteri-populari/stan-ioan-patras)",
+      "## How to read what you see",
+      "The painted scene tells us something about the artist’s choice, and the verse offers one account of a life. To establish who wrote it, when it was made and whether it was restored, other records would be needed. This distinction also matters for the hero illustration. It evokes the design of the cemetery. Any text visible in it is part of an illustration and should not be treated as a transcription of an actual epitaph. For another example of funeral artisans using a visible form to describe a life, see [PRESDA’s feature on Ghana’s figurative coffins](/articles/ghana-fantasy-coffins-funeral-art/).",
+      "A visitor looking for a joke may first notice a mischievous verse. The longer story is about what gets remembered and by whom. The pieces leave space for humour alongside grief, work and family. Reading the scene before moving to the text makes it easier to see why a local artist, a commission and a dialect can matter to the memory of a place. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Visit Maramureș profile of artisan Stan Ioan](https://www.visitmaramures.ro/ro/mesteri-populari/stan-ioan-patras) [Maramureș regional guide to the Merry Cemetery](https://maramures.info/sighetu-marmatiei/ce-explorez/cimitirul-vesel/)",
+      "## What a cemetery archive can capture",
+      "If a marker is photographed from both sides and its inscription is recorded, researchers can recover details even if the paint is later renewed. The record can distinguish the object’s date from the photograph’s date and can tell readers where it stands. This is particularly useful where a visitor’s close-up leaves the surroundings out. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Maramureș regional guide to the Merry Cemetery](https://maramures.info/sighetu-marmatiei/ce-explorez/cimitirul-vesel/)",
+      "The records can also follow changes in the workshop. An apprentice who carries on a design might change the size, panel or ornament to fit a new commission. A careful inventory can give credit for that work without requiring every marker to tell the same story about how the tradition began. [Săpânța memorial house](https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/) [Visit Maramureș profile of artisan Stan Ioan](https://www.visitmaramures.ro/ro/mesteri-populari/stan-ioan-patras)"
+    ],
+    "references": [
+      {
+        "name": "Săpânța memorial house",
+        "url": "https://en.sapantamaramures.ro/casa-memoriala-stan-ioan-patras/"
+      },
+      {
+        "name": "Visit Maramureș profile of artisan Stan Ioan",
+        "url": "https://www.visitmaramures.ro/ro/mesteri-populari/stan-ioan-patras"
+      },
+      {
+        "name": "Maramureș regional guide to the Merry Cemetery",
+        "url": "https://maramures.info/sighetu-marmatiei/ce-explorez/cimitirul-vesel/"
+      },
+      {
+        "name": "Lonely Planet destination entry",
+        "url": "https://www.lonelyplanet.com/points-of-interest/merry-cemetery/1055186"
+      }
+    ],
+    "relatedSlugs": [
+      "ghana-fantasy-coffins-funeral-art"
+    ],
+    "faq": [
+      {
+        "question": "Where is the Merry Cemetery?",
+        "answer": "It is in Săpânța, in Romania’s Maramureș County."
+      },
+      {
+        "question": "Who began its painted epitaph tradition?",
+        "answer": "The local memorial house attributes the early verse inscriptions to Stan Ioan Pătraș in 1935."
+      },
+      {
+        "question": "Are all the inscriptions humorous?",
+        "answer": "The tone varies. Humour appears alongside remembrance of work, family and difficult events."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "499",
+    "slug": "up-helly-aa-lerwick-shetland-viking-fire-festival",
+    "title": "UP HELLY AA: SCOTLAND'S SPECTACULAR VIKING FIRE FESTIVAL",
+    "seoTitle": "Up Helly Aa in Lerwick: Shetland’s Viking fire festival",
+    "metaDescription": "How Lerwick’s Up Helly Aa grew from a Victorian winter celebration, what guizers do and why the festival continues after the galley burns.",
+    "excerpt": "How Lerwick’s Up Helly Aa grew from a Victorian winter celebration, what guizers do and why the festival continues after the galley burns.",
+    "category": "Travel",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/up-helly-aa-lerwick-shetland-viking-fire-festival.jpg",
+    "coverAlt": "Editorial illustration of torch bearers and a burning replica galley during Up Helly Aa",
+    "headlineHighlights": {
+      "red": "UP HELLY AA",
+      "gold": "VIKING FIRE FESTIVAL"
+    },
+    "tags": [
+      "UP HELLY AA",
+      "Travel"
+    ],
+    "content": [
+      "A torchlit procession in Lerwick ends with a replica galley burning. That image is the best-known part of Up Helly Aa, a winter festival in Shetland, Scotland. The day itself starts earlier, with rounds of visits and public appearances. It also goes on after the flames. Squads move through halls where they perform and are received by hosts. The organiser’s account makes clear why the galley is only one part of a celebration that takes repeated work, coordination and rehearsal. [Lerwick Up Helly Aa Committee](https://www.uphellyaa.org/) [Lerwick committee’s guide to the festival day](https://www.uphellyaa.org/about-up-helly-aa/up-helly-aa-day/) [Shetland events guide](https://www.shetland.org/visit/events/lerwick-uha)",
+      "## When and where Lerwick holds Up Helly Aa",
+      "[[NOV17_HERITAGE_499]]",
+      "The Lerwick committee schedules its festival for the last Tuesday in January. The Shetland events guide lists the next edition for January 26, 2027. There are separate fire festivals elsewhere in Shetland, with their own organisers and arrangements. A date or route for Lerwick should therefore not be used for another community’s event. Even in Lerwick, the day’s exact access details come from the current programme and local instructions. A date establishes when the festival is held. It does not tell a visitor where to stand or which indoor events welcome the public. [Lerwick Up Helly Aa Committee](https://www.uphellyaa.org/) [Shetland events guide](https://www.shetland.org/visit/events/lerwick-uha)",
+      "### Why the Viking theme has a more recent history",
+      "Shetland’s Norse connections help explain why Viking images have a place in the festivities. The committee’s history traces the recognisable Lerwick event to developments in the nineteenth century. Earlier winter revelry included tar-barrel celebrations. A newer form took shape in the late 1800s. A replica Viking galley appeared in the late 1880s, and the figure of the Guizer Jarl arrived in 1906. These markers describe a festival gradually developing its own institutions. Calling it Viking-inspired identifies the theme without dating the whole tradition to the Viking Age. [Lerwick committee’s history of Up Helly Aa](https://www.uphellyaa.org/about-up-helly-aa/history/)",
+      "## Who does what on festival day",
+      "A guizer is a participant in costume, and participants organise into squads. The Guizer Jarl leads the Jarl Squad, which takes a prominent role in public appearances and the procession. The organisers describe a busy daytime schedule that includes marches and visits. A satirical proclamation called the Bill can be read at the Market Cross. Its place in the schedule shows that the festival has a spoken and written life alongside the costumes and the spectacle. The day brings different groups into town at different hours. [Lerwick Up Helly Aa Committee](https://www.uphellyaa.org/) [Lerwick committee’s guide to the festival day](https://www.uphellyaa.org/about-up-helly-aa/up-helly-aa-day/)",
+      "### The junior event has its own procession",
+      "The committee also describes a junior procession and a smaller galley. The junior Guizer Jarl and squad have their own part in the day, and the senior Jarl group can be present to watch and support them. Distinguishing the two events helps make sense of photographs and programmes that refer to different routes or times. It also shows how younger participants can learn what preparation and collective performance involve. Watching a large boat burn is one part of the experience. Putting on a costume or preparing a visit gives a participant a different understanding of what it takes. [Lerwick committee’s guide to the festival day](https://www.uphellyaa.org/about-up-helly-aa/up-helly-aa-day/)",
+      "## How the parade becomes a fire spectacle",
+      "The torchlit procession and burning of the galley are the dramatic peak of the public evening. The galley is built for the occasion. Musicians, participants, organisers and people managing the streets contribute to an event that has to unfold in coordinated steps. Descriptions of the event often use the word longship because of the visual reference to Viking craft. It helps to call it a replica festival galley when explaining what is burned. That wording distinguishes the object from an archaeological vessel and the event from a reconstruction of a documented ancient ceremony. [Lerwick Up Helly Aa Committee](https://www.uphellyaa.org/) [Lerwick committee’s history of Up Helly Aa](https://www.uphellyaa.org/about-up-helly-aa/history/) [Lerwick committee’s guide to the festival day](https://www.uphellyaa.org/about-up-helly-aa/up-helly-aa-day/)",
+      "### Why the halls matter",
+      "After the burning, squads move among halls. The organisers’ history contrasts private houses opening their doors in the nineteenth century with larger halls staffed by people working together in the modern festival. Squads may prepare performances for the visits. An observer who sees only the procession may miss this part of the occasion. A community’s effort is visible in what it builds outside, but also in food, hospitality, scheduling and the people who keep indoor events running late into the night. [Lerwick committee’s history of Up Helly Aa](https://www.uphellyaa.org/about-up-helly-aa/history/) [Lerwick committee’s guide to the festival day](https://www.uphellyaa.org/about-up-helly-aa/up-helly-aa-day/) [Shetland events guide](https://www.shetland.org/visit/events/lerwick-uha)",
+      "## What has changed in who can participate",
+      "For the 2023 event, the Lerwick committee lifted its long-standing gender restrictions on squad participation. Its account connects the decision to discussions after the festival’s pandemic interruption. The change affects who can join the festival’s squads. It follows a history in which the people organising halls and other work were already important to the event. In describing the shift it is useful to distinguish a rule for participation in Lerwick’s squads from rules at separately organised Shetland festivals. [Lerwick committee’s history of Up Helly Aa](https://www.uphellyaa.org/about-up-helly-aa/history/)",
+      "### What tradition looks like from one year to the next",
+      "A festival can retain recognisable objects and titles while changing its schedule, venues or eligibility rules. The organiser’s record identifies when the galley appeared and when the festival acquired a Jarl. Those dates make it possible to see familiar features as choices made at different moments. The surviving costumes, photographs and galley exhibits then let readers follow changes in design. The most useful historical claims distinguish what a person sees this year from what a report can establish about the first years. [Lerwick Up Helly Aa Committee](https://www.uphellyaa.org/) [Lerwick committee’s history of Up Helly Aa](https://www.uphellyaa.org/about-up-helly-aa/history/)",
+      "## How to understand a festival photograph",
+      "A lift of the torch, a costume or the fire can identify a moment. It still helps to know whether the scene shows a daytime appearance, the junior event, the main procession or the burning. A picture can make the festival recognisable to a reader far away. The order of events explains the work that the picture leaves out. For another PRESDA feature about the difference between a public ceremony and the broader tradition around it, read [the account of Kukur Tihar in Nepal](/articles/kukur-tihar-nepal-festival-honoring-dogs/). [Lerwick committee’s guide to the festival day](https://www.uphellyaa.org/about-up-helly-aa/up-helly-aa-day/) [Shetland events guide](https://www.shetland.org/visit/events/lerwick-uha)",
+      "## What the festival archives reveal",
+      "The committee’s archive helps separate the event’s stages of development. A dated photograph can establish which costumes and objects were present in a particular year. A surviving Bill, the public proclamation associated with festival day, preserves names, local jokes and the subjects that mattered to the writers. An account written decades afterward is useful for tracing how people remember the event, but it answers a different question. Read together, these records explain how a winter celebration became one of Shetland’s best-known public traditions. [Lerwick Up Helly Aa Committee](https://www.uphellyaa.org/) [Lerwick committee’s history of Up Helly Aa](https://www.uphellyaa.org/about-up-helly-aa/history/)",
+      "The handover from the procession to the halls also changes the audience. The crowd in the street sees a shared route and a single ending at the burning site. Indoors, squads visit multiple venues and perform the material prepared for that year. Each hall sees only one part of the schedule at a time. Following the public itinerary therefore gives you a different sense of the event than following one squad from its preparations to its last performance. [Lerwick committee’s guide to the festival day](https://www.uphellyaa.org/about-up-helly-aa/up-helly-aa-day/) [Shetland events guide](https://www.shetland.org/visit/events/lerwick-uha)"
+    ],
+    "references": [
+      {
+        "name": "Lerwick Up Helly Aa Committee",
+        "url": "https://www.uphellyaa.org/"
+      },
+      {
+        "name": "Lerwick committee’s history of Up Helly Aa",
+        "url": "https://www.uphellyaa.org/about-up-helly-aa/history/"
+      },
+      {
+        "name": "Lerwick committee’s guide to the festival day",
+        "url": "https://www.uphellyaa.org/about-up-helly-aa/up-helly-aa-day/"
+      },
+      {
+        "name": "Shetland events guide",
+        "url": "https://www.shetland.org/visit/events/lerwick-uha"
+      }
+    ],
+    "relatedSlugs": [
+      "kukur-tihar-nepal-festival-honoring-dogs"
+    ],
+    "faq": [
+      {
+        "question": "When is Lerwick Up Helly Aa?",
+        "answer": "It is held on the last Tuesday in January. The 2027 event is listed for January 26."
+      },
+      {
+        "question": "Is Up Helly Aa an ancient Viking festival?",
+        "answer": "The Lerwick festival developed its modern form in the nineteenth century using Viking themes."
+      },
+      {
+        "question": "What happens after the galley burns?",
+        "answer": "Squads visit halls where hosts receive them and performances continue."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "500",
+    "slug": "great-smog-london-1952-clean-air-act",
+    "title": "THE GREAT SMOG: WHEN LONDON COULD NOT BREATHE",
+    "seoTitle": "London’s Great Smog of 1952: causes, deaths and clean air law",
+    "metaDescription": "How coal smoke and a temperature inversion created London’s five-day smog, why death estimates differ and what the 1956 Clean Air Act changed.",
+    "excerpt": "How coal smoke and a temperature inversion created London’s five-day smog, why death estimates differ and what the 1956 Clean Air Act changed.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/great-smog-london-1952-clean-air-act.jpg",
+    "coverAlt": "Black-and-white editorial illustration of a pedestrian and a bus in dense London smog",
+    "headlineHighlights": {
+      "red": "GREAT SMOG",
+      "gold": "LONDON"
+    },
+    "tags": [
+      "GREAT SMOG",
+      "History"
+    ],
+    "content": [
+      "From December 5 to 9, 1952, a dense, smoke-laden fog lay over London. Cold conditions increased demand for coal fires, and a layer of warmer air held pollution close to the ground. Smoke from homes, power stations and industry mixed with fog and accumulated where people lived and travelled. The haze changed how the city worked over five days. Its effects on health lasted longer. A contemporary estimate of the immediate toll and a later study of the following months describe different parts of the same disaster. [UK Met Office Great Smog case study](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [London Museum account and archive](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [Greater London Authority analysis](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Bell and Davis mortality reassessment](https://pubmed.ncbi.nlm.nih.gov/11427388/)",
+      "## Why the smoke stayed near the ground",
+      "[[NOV17_HERITAGE_500]]",
+      "Under conditions that allow mixing, polluted air near the ground can be carried away or diluted as it rises. In a temperature inversion, air above a cooler surface layer is warmer. That arrangement restricts vertical mixing. The Met Office describes high pressure, light winds and a temperature inversion as key conditions in December 1952. Meanwhile, households burned coal to keep warm and industrial and power sources continued to emit pollution. The weather affected where the emissions went and how long they remained close to people. [UK Met Office Great Smog case study](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Greater London Authority analysis](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog)",
+      "### How fog became smog",
+      "Fog consists of tiny water droplets. Particles from combustion can serve as surfaces on which the droplets form. The droplets and particles scatter light and the air can contain gases and chemicals from the same pollution sources. A fog that limits visibility and a smog that exposes people to pollutants are related observations, but they do not measure the same thing. Two places with similarly poor visibility may have different mixtures of smoke, moisture and gases. London’s coal use made the quality of that trapped air unusually dangerous. [UK Met Office Great Smog case study](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Greater London Authority analysis](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog)",
+      "## What the city experienced over five days",
+      "The London Museum describes disruption to travel and everyday activity. People were accustomed to fog, yet the density and persistence of that week made it exceptional. A bus, car or pedestrian could have difficulty making out what was ahead. The same haze could reach indoor settings. Travel reports and photographs show what people could see and do. Hospital records and mortality records help reconstruct what that exposure did to health. The two kinds of evidence explain why a scene that looks like a transport story can also belong to public-health history. [UK Met Office Great Smog case study](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [London Museum account and archive](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/)",
+      "### Why the smog became visible in death records",
+      "Medical and vital records allow researchers to look at deaths during and after the episode. Excess mortality means deaths above the number expected over a specified period. It is not a list of every death certificate on which the event was named. The result depends on what baseline is chosen, which period is counted and how other possible causes are handled. That is why it helps to attach an explicit time window to a number, even when the figure has been quoted many times. [Greater London Authority analysis](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Bell and Davis mortality reassessment](https://pubmed.ncbi.nlm.nih.gov/11427388/)",
+      "## Why sources cite about 4,000 and about 12,000",
+      "The Greater London Authority summarises an estimate of about 4,000 excess deaths during December 1952. A peer-reviewed reassessment by Michelle Bell and Devra Davis estimated about 12,000 excess deaths over the longer period from December 1952 through February 1953. The estimates are not separate groups to add together. The longer period includes December, and the later analysis used a different method to assess persistent effects. A comparison that gives the figures without the study and time period makes the apparent disagreement larger than it is. [Greater London Authority analysis](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Bell and Davis mortality reassessment](https://pubmed.ncbi.nlm.nih.gov/11427388/)",
+      "### What the longer window can show",
+      "People can experience health consequences after the visible pollution clears. Studying the weeks that follow allows researchers to test whether mortality remained above expected levels. Extending the window also makes the analysis harder, because other factors can affect health at the same time. The study’s method and assumptions matter more than the appearance of a larger total. The two figures show how a famous event can be measured as both a short period of exceptional weather and a longer period of elevated risk. [UK Met Office Great Smog case study](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [Greater London Authority analysis](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Bell and Davis mortality reassessment](https://pubmed.ncbi.nlm.nih.gov/11427388/)",
+      "## What the 1956 Clean Air Act changed",
+      "Across London, the week raised a question that weather forecasting alone could not solve. The emissions came largely from identifiable sources that used fuel. The Clean Air Act 1956 as enacted provided for smoke control areas and included measures addressing smoke from furnaces and chimneys. It changed the tools available to local authorities. The law still had to be implemented through decisions about fuels, equipment and locations. A date on the Act does not imply that streets became smoke-free overnight, and the Met Office records subsequent efforts and the later 1968 Act. [UK Met Office Great Smog case study](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [London Museum account and archive](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [Clean Air Act 1956 as enacted](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)",
+      "### What London’s change required from households",
+      "A smoke control rule changes what can be burned and can require different equipment. A policy aimed at emissions therefore reaches everyday decisions about how a room is heated and what a household can access. Citywide improvements also depend on changes in power generation and industry. A comparison of one winter with a later one has to account for weather as well as the change in fuel. For another example of how the source of domestic heat matters, read [PRESDA’s account of Iceland’s geothermal networks](/articles/iceland-geothermal-district-heating-homes/). [Greater London Authority analysis](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Clean Air Act 1956 as enacted](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)",
+      "## What survives in the evidence",
+      "The records preserve several versions of the same week. Weather observations show the conditions that kept emissions in place. A museum photograph can show how far a person could see in one street. Mortality studies describe deaths over stated periods, and legislation shows what powers were adopted later. None of those records alone can describe the whole event. Their combination explains why a few days of heavy fog became a lasting example of what happens when air pollution reaches a whole city under unfavourable weather. [UK Met Office Great Smog case study](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [London Museum account and archive](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [Bell and Davis mortality reassessment](https://pubmed.ncbi.nlm.nih.gov/11427388/) [Clean Air Act 1956 as enacted](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)",
+      "## Four different clocks for the same disaster",
+      "The dates of the weather event, the period of exposure, the weeks in which excess deaths occurred and the years it took to pass a law answer different questions. The fog lifted on December 9. Someone exposed during those five days could still die afterward, so a death tally cut off when visibility returned would miss some of the burden. London’s contemporary observers could compare death registrations and air measurements, while later researchers could examine a longer window and test explanations for the winter increase. Their totals should always be read with their dates attached. [UK Met Office Great Smog case study](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [London Museum account and archive](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [Bell and Davis mortality reassessment](https://pubmed.ncbi.nlm.nih.gov/11427388/)",
+      "The legislation had its own timetable. Councils could designate smoke control areas, within which households could comply through approved fuels or installations. Converting a hearth, getting a supply of suitable fuel and establishing local rules were practical steps between passing the Act and reducing emissions. That distinction helps explain why the Act’s date marks a policy change while the air took longer to improve. [Greater London Authority analysis](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [Clean Air Act 1956 as enacted](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)"
+    ],
+    "references": [
+      {
+        "name": "UK Met Office Great Smog case study",
+        "url": "https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog"
+      },
+      {
+        "name": "London Museum account and archive",
+        "url": "https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/"
+      },
+      {
+        "name": "Greater London Authority analysis",
+        "url": "https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog"
+      },
+      {
+        "name": "Bell and Davis mortality reassessment",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11427388/"
+      },
+      {
+        "name": "Clean Air Act 1956 as enacted",
+        "url": "https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted"
+      }
+    ],
+    "relatedSlugs": [
+      "iceland-geothermal-district-heating-homes"
+    ],
+    "faq": [
+      {
+        "question": "What caused the Great Smog of London?",
+        "answer": "Coal smoke accumulated near the ground under stagnant conditions and a temperature inversion, mixing with fog."
+      },
+      {
+        "question": "How many people died?",
+        "answer": "London City Hall cites about 4,000 excess deaths in December. A later study estimated about 12,000 over December through February."
+      },
+      {
+        "question": "What was the government response?",
+        "answer": "The 1956 Clean Air Act provided for smoke control areas and other emission controls."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "501",
+    "slug": "lalibela-ethiopia-rock-hewn-churches",
+    "title": "LALIBELA: ETHIOPIA'S CHURCHES CARVED FROM SOLID ROCK",
+    "seoTitle": "Lalibela: how Ethiopia’s eleven rock-hewn churches were made",
+    "metaDescription": "Explore Lalibela’s eleven UNESCO-listed churches, the cross-shaped Biete Ghiorgis, the archaeology of the carving and the site’s living pilgrimage.",
+    "excerpt": "Explore Lalibela’s eleven UNESCO-listed churches, the cross-shaped Biete Ghiorgis, the archaeology of the carving and the site’s living pilgrimage.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-17",
+    "lastUpdated": "2026-11-17",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/lalibela-ethiopia-rock-hewn-churches.jpg",
+    "coverAlt": "Editorial illustration of the cross-shaped Biete Ghiorgis below ground level with a figure holding a cross",
+    "headlineHighlights": {
+      "red": "LALIBELA",
+      "gold": "SOLID ROCK"
+    },
+    "tags": [
+      "LALIBELA",
+      "History"
+    ],
+    "content": [
+      "At Biete Ghiorgis in Lalibela, the cross on the roof is visible before the building’s walls. The church stands in a deep cut below the surrounding ground. Instead of assembling its main structure from blocks, the makers removed rock to leave a building in place. Its silhouette makes the idea easy to grasp. It is one of eleven medieval churches in the UNESCO World Heritage property, however, and the complex includes spaces that relate to the bedrock in different ways. Lalibela is also a centre of worship and pilgrimage. Architecture and religious life meet in the same places. [UNESCO World Heritage listing](https://whc.unesco.org/en/list/18/) [UNESCO advisory mission on Lalibela](https://whc.unesco.org/document/169702) [Metropolitan Museum of Art essay](https://www.metmuseum.org/ko/essays/the-rock-hewn-churches-of-lalibela)",
+      "## Where Lalibela is and why it is called a New Jerusalem",
+      "[[NOV17_HERITAGE_501]]",
+      "Lalibela is in the Ethiopian highlands. UNESCO describes a medieval complex associated with King Lalibela and the idea of a New Jerusalem. The name expresses a religious geography. It does not mean the churches are replicas of eleven buildings in Jerusalem. Paths, groups of churches and names create relationships between places within the site. The town’s earlier name, Roha, appears in the advisory mission’s historical account. Both names are useful for finding references to different periods. [UNESCO World Heritage listing](https://whc.unesco.org/en/list/18/) [UNESCO advisory mission on Lalibela](https://whc.unesco.org/document/169702) [Metropolitan Museum of Art essay](https://www.metmuseum.org/ko/essays/the-rock-hewn-churches-of-lalibela)",
+      "### Why there are eleven churches in the World Heritage listing",
+      "The eleven figure refers to the churches in the UNESCO property. The listing describes two main groups and the separate Biete Ghiorgis. The advisory mission notes that the original nomination focused on particular precincts amid other sacred spaces carved in the surrounding rock. That helps explain why a visitor encounters more than a list of eleven isolated objects. The surrounding routes and smaller sacred areas form part of the experience and are treated in heritage documentation. [UNESCO World Heritage listing](https://whc.unesco.org/en/list/18/) [UNESCO advisory mission on Lalibela](https://whc.unesco.org/document/169702)",
+      "## How do you make a building by removing rock?",
+      "At a monolithic church, a trench can define an exterior and leave the intended mass in place. People then carve and hollow parts of the remaining block. Openings, pillars and interior spaces have to be planned in relation to what can remain structurally sound. A rock-cut building is shaped by subtraction. That affects the sequence because the removal of material changes how later work can proceed, and the workers cannot assume they can put original rock back. UNESCO describes features such as trenches, tunnels and drainage that developed as part of this landscape. [UNESCO World Heritage listing](https://whc.unesco.org/en/list/18/) [Metropolitan Museum of Art essay](https://www.metmuseum.org/ko/essays/the-rock-hewn-churches-of-lalibela) [Antiquity research on Lalibela’s rock-cut stratigraphy](https://www.cambridge.org/core/journals/antiquity/article/rockcut-stratigraphy-sequencing-the-lalibela-churches/B53C45E7808B62840E6C5BF3F6380B88)",
+      "### Not every church has the same relationship to the rock",
+      "A freestanding monolithic form appears detached from the surrounding rock on its sides, while other spaces remain partly engaged with the mass around them. From one photograph, it is easy to mistake the best-known shape for a model followed everywhere. As a visitor moves between sites, it becomes possible to compare excavated spaces with details that evoke built architecture, such as doors, windows and carved columns. A historian can ask which parts of the design were made to imitate a form and which respond to practical constraints of the stone. [UNESCO World Heritage listing](https://whc.unesco.org/en/list/18/) [Metropolitan Museum of Art essay](https://www.metmuseum.org/ko/essays/the-rock-hewn-churches-of-lalibela) [Antiquity research on Lalibela’s rock-cut stratigraphy](https://www.cambridge.org/core/journals/antiquity/article/rockcut-stratigraphy-sequencing-the-lalibela-churches/B53C45E7808B62840E6C5BF3F6380B88)",
+      "## What Biete Ghiorgis shows especially clearly",
+      "Biete Ghiorgis, the House of Saint George, stands apart from the principal clusters. Its cross-shaped plan is especially legible from above. The depth of the cut is part of that effect. A photograph from the rim gives a clear view of the roof, while movement through access routes reveals how the church is reached. A photograph can identify the plan and the rock around it without revealing the whole approach or the importance of the interior to worshippers. The church is a useful introduction to the site precisely because it leads to those other questions. [UNESCO World Heritage listing](https://whc.unesco.org/en/list/18/) [UNESCO advisory mission on Lalibela](https://whc.unesco.org/document/169702) [Metropolitan Museum of Art essay](https://www.metmuseum.org/ko/essays/the-rock-hewn-churches-of-lalibela)",
+      "### How archaeologists establish a sequence",
+      "The site is traditionally associated with King Lalibela, who ruled around the turn of the thirteenth century. Research published in Antiquity uses relationships between rock cuts to examine the sequence of changes. If one cut interrupts another, the relationship can establish relative order. It may not provide the precise year in which either was made. Later work can remove clues to an earlier use. The Metropolitan Museum’s discussion notes changes of use and later phases. The traditional attribution, the order of particular cuts and a date for a particular building are related claims that need different evidence. [UNESCO advisory mission on Lalibela](https://whc.unesco.org/document/169702) [Metropolitan Museum of Art essay](https://www.metmuseum.org/ko/essays/the-rock-hewn-churches-of-lalibela) [Antiquity research on Lalibela’s rock-cut stratigraphy](https://www.cambridge.org/core/journals/antiquity/article/rockcut-stratigraphy-sequencing-the-lalibela-churches/B53C45E7808B62840E6C5BF3F6380B88)",
+      "## Why Lalibela remains a living place",
+      "UNESCO records a resident religious community and pilgrimage for major feasts of the Ethiopian Christian calendar. The churches are sacred spaces in Ethiopian Orthodox Tewahedo practice. Their use continues to shape how visitors encounter them. The meaning of the passages or an interior can be different for someone attending worship than for someone studying masonry. A photograph preserves the view that the camera saw. The people using the place preserve relationships, knowledge and practices that the photograph cannot capture alone. For an explanation of how feast dates are read in a different calendar, see [PRESDA’s guide to Ethiopia’s thirteen months](/articles/ethiopia-13-month-calendar-pagume-enkutatash/). [UNESCO World Heritage listing](https://whc.unesco.org/en/list/18/) [UNESCO advisory mission on Lalibela](https://whc.unesco.org/document/169702)",
+      "### What conservation has to preserve",
+      "Treating the buildings as part of an excavated landscape changes what needs attention. Drainage is important because water runs through and around the cuts. UNESCO documents that some drains accumulated material and that seismic activity has disrupted parts of the system. A repair also has to account for the water that may reach a neighbouring space. The choices cannot be assessed purely by how much of a church is visible in a photograph. Protection has to address the rock, the setting and continued use by people who worship there. [UNESCO World Heritage listing](https://whc.unesco.org/en/list/18/) [UNESCO advisory mission on Lalibela](https://whc.unesco.org/document/169702)",
+      "## What a good description of the churches can establish",
+      "The count of eleven is the count in the listing. The association with King Lalibela tells us about the site’s history and tradition, and relationships between cuts can help establish phases. The roof of Biete Ghiorgis lets even a distant viewer recognise a design, while the larger record puts it within a community and an evolving site. The more precise the claim, the more important it is to describe which place, which source and which period supports it. Those details preserve the complexity of Lalibela without making the visitor wait to understand what makes the churches extraordinary. [UNESCO World Heritage listing](https://whc.unesco.org/en/list/18/) [UNESCO advisory mission on Lalibela](https://whc.unesco.org/document/169702) [Metropolitan Museum of Art essay](https://www.metmuseum.org/ko/essays/the-rock-hewn-churches-of-lalibela) [Antiquity research on Lalibela’s rock-cut stratigraphy](https://www.cambridge.org/core/journals/antiquity/article/rockcut-stratigraphy-sequencing-the-lalibela-churches/B53C45E7808B62840E6C5BF3F6380B88)",
+      "## Reading the site from above and below",
+      "The cross of Biete Ghiorgis is most legible from ground level above its trench. A person approaching the doorway sees the walls and the passage before seeing the outline of the roof. The two vantage points convey different facts about the same building. They also explain why site conservation has to consider the rock around each church. Water flowing down a slope can collect in the spaces cut around a structure, and repairs that change drainage or circulation can affect other parts of the complex. [UNESCO World Heritage listing](https://whc.unesco.org/en/list/18/) [UNESCO advisory mission on Lalibela](https://whc.unesco.org/document/169702)",
+      "Archaeological recording adds a third viewpoint. At an intersection, a later cut may remove part of an earlier surface. Such evidence can establish an order of work even without giving either phase a calendar date. A sequence inferred this way can coexist with a religious account about the significance of the church. [Metropolitan Museum of Art essay](https://www.metmuseum.org/ko/essays/the-rock-hewn-churches-of-lalibela) [Antiquity research on Lalibela’s rock-cut stratigraphy](https://www.cambridge.org/core/journals/antiquity/article/rockcut-stratigraphy-sequencing-the-lalibela-churches/B53C45E7808B62840E6C5BF3F6380B88)"
+    ],
+    "references": [
+      {
+        "name": "UNESCO World Heritage listing",
+        "url": "https://whc.unesco.org/en/list/18/"
+      },
+      {
+        "name": "UNESCO advisory mission on Lalibela",
+        "url": "https://whc.unesco.org/document/169702"
+      },
+      {
+        "name": "Metropolitan Museum of Art essay",
+        "url": "https://www.metmuseum.org/ko/essays/the-rock-hewn-churches-of-lalibela"
+      },
+      {
+        "name": "Antiquity research on Lalibela’s rock-cut stratigraphy",
+        "url": "https://www.cambridge.org/core/journals/antiquity/article/rockcut-stratigraphy-sequencing-the-lalibela-churches/B53C45E7808B62840E6C5BF3F6380B88"
+      }
+    ],
+    "relatedSlugs": [
+      "ethiopia-13-month-calendar-pagume-enkutatash"
+    ],
+    "faq": [
+      {
+        "question": "How many churches are included at Lalibela?",
+        "answer": "Eleven medieval rock-hewn churches are described in the UNESCO property."
+      },
+      {
+        "question": "Which church has a cross-shaped roof?",
+        "answer": "Biete Ghiorgis, the House of Saint George."
+      },
+      {
+        "question": "Are the churches still used?",
+        "answer": "Yes. Lalibela remains a place of Ethiopian Orthodox Tewahedo worship and pilgrimage."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "492",
     "slug": "rapa-nui-moai-statues-mystery",
     "title": "RAPA NUI: THE MYSTERY OF THE GIANT MOAI STATUES",

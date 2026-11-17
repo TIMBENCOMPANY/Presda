@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV17_HERITAGE_497]]": {
+    "caption": "What is confirmed about the next Bond film",
+    "headers": [
+      "Detail",
+      "Confirmed information"
+    ],
+    "rows": [
+      [
+        "James Bond",
+        "Robert Pattinson"
+      ],
+      [
+        "Direction and script",
+        "Denis Villeneuve and Steven Knight"
+      ],
+      [
+        "Production",
+        "Amy Pascal and David Heyman, with Tanya Lapointe as executive producer"
+      ],
+      [
+        "Release date and title",
+        "Unspecified in Amazon MGM’s November 16 announcement"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_HERITAGE_498]]": {
+    "caption": "How a Săpânța grave marker communicates",
+    "headers": [
+      "Element",
+      "What it contributes"
+    ],
+    "rows": [
+      [
+        "Painted wooden cross",
+        "Shared form and a background for individual designs"
+      ],
+      [
+        "Carved or painted scene",
+        "A reference to work, family or an episode of life"
+      ],
+      [
+        "Verse epitaph",
+        "A voice often composed in the first person"
+      ],
+      [
+        "Village and workshop",
+        "Context for the commission and the craft"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_HERITAGE_499]]": {
+    "caption": "Lerwick Up Helly Aa through the day",
+    "headers": [
+      "Part of the event",
+      "What to look for"
+    ],
+    "rows": [
+      [
+        "Daytime visits",
+        "The Jarl Squad appears around town, with the Bill at the Market Cross"
+      ],
+      [
+        "Junior procession",
+        "Young participants have their own procession and smaller galley"
+      ],
+      [
+        "Evening spectacle",
+        "Torches and the burning of the replica galley"
+      ],
+      [
+        "Halls",
+        "Squad performances and hospitality continue after the fire"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_HERITAGE_500]]": {
+    "caption": "The key dates and estimates",
+    "headers": [
+      "Event or period",
+      "Recorded finding"
+    ],
+    "rows": [
+      [
+        "5–9 December 1952",
+        "Dense smoke-laden fog covers London"
+      ],
+      [
+        "December 1952",
+        "About 4,000 excess deaths in the estimate cited by London City Hall"
+      ],
+      [
+        "December 1952 to February 1953",
+        "About 12,000 excess deaths in a later research estimate"
+      ],
+      [
+        "1956",
+        "Clean Air Act introduces powers for smoke control areas"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_HERITAGE_501]]": {
+    "caption": "Four ways to read Lalibela",
+    "headers": [
+      "Feature",
+      "What it tells us"
+    ],
+    "rows": [
+      [
+        "Eleven listed churches",
+        "The scope of the UNESCO property"
+      ],
+      [
+        "Biete Ghiorgis",
+        "A cross-shaped church standing in an excavated enclosure"
+      ],
+      [
+        "Rock cuts and crossings",
+        "Clues to the sequence of construction and change"
+      ],
+      [
+        "Drainage and worship",
+        "The site remains both a conservation project and a sacred place"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV17_WORLD_492]]": {
     "caption": "What the evidence at Rapa Nui can show",
     "headers": [

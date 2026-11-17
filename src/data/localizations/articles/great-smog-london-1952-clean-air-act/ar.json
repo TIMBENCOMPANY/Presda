@@ -1,0 +1,189 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/great-smog-london-1952-clean-air-act/",
+  "path": "/ar/articles/great-smog-london-1952-clean-air-act/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "الضباب الدخاني العظيم: حين عجزت لندن عن التنفس",
+  "seoTitle": "ضباب لندن الدخاني عام 1952: الأسباب والوفيات وقانون الهواء النظيف",
+  "description": "كيف حبس الطقس دخان الفحم خمسة أيام، ولماذا تختلف تقديرات الوفيات، وماذا غيّر قانون 1956؟",
+  "excerpt": "كيف حبس الطقس دخان الفحم خمسة أيام، ولماذا تختلف تقديرات الوفيات، وماذا غيّر قانون 1956؟",
+  "headlineHighlights": {
+    "red": "الضباب الدخاني العظيم",
+    "gold": "لندن"
+  },
+  "keywords": [
+    "الضباب الدخاني العظيم",
+    "لندن"
+  ],
+  "searchIntent": "كيف حبس الطقس دخان الفحم خمسة أيام، ولماذا تختلف تقديرات الوفيات، وماذا غيّر قانون 1956؟",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/great-smog-london-1952-clean-air-act.jpg",
+    "alt": "رسم تحريري بالأبيض والأسود لشخص وحافلة وسط ضباب دخاني كثيف في لندن",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "من 5 إلى 9 ديسمبر 1952 غطى لندن ضباب كثيف محمل بالدخان. وزاد البرد حرق الفحم، فيما احتجزت طبقة أكثر دفئاً التلوث قرب سطح الأرض. واختلط دخان المنازل والمحطات والمصانع بالضباب حيث عاش الناس وتنقلوا. واضطربت المدينة خمسة أيام، وامتدت الآثار الصحية إلى ما بعد ذلك. ويغطي تقدير الوفيات في ديسمبر فترة تختلف عن الفترة التي تناولتها دراسة لاحقة. [المصدر · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [المصدر · www.londonmuseum.org.uk](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [المصدر · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [المصدر · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/)"
+    },
+    {
+      "type": "heading",
+      "text": "لماذا بقي الدخان قرب الأرض؟"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_HERITAGE_500]]",
+      "caption": "تواريخ الضباب الدخاني وتقديراته",
+      "headings": [
+        "الفترة أو الحدث",
+        "ما سُجّل"
+      ],
+      "rows": [
+        [
+          "5 إلى 9 ديسمبر 1952",
+          "ضباب محمل بالدخان يغطي لندن"
+        ],
+        [
+          "ديسمبر 1952",
+          "نحو أربعة آلاف وفاة زائدة في الرقم الذي تذكره لندن"
+        ],
+        [
+          "ديسمبر 1952 إلى فبراير 1953",
+          "نحو 12 ألف وفاة زائدة في دراسة لاحقة"
+        ],
+        [
+          "1956",
+          "إقرار قانون يتيح مناطق للتحكم بالدخان"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "حين يختلط الهواء رأسياً يمكن أن يتشتت التلوث. وفي الانقلاب الحراري تكون الطبقة الأعلى أدفأ من الهواء القريب من الأرض، فيتراجع الاختلاط. ويصف مكتب الأرصاد البريطاني ضغطاً مرتفعاً ورياحاً ضعيفة وانقلاباً حرارياً. وكانت الأسر تدفئ بيوتها بالفحم، فيما واصلت محطات ومصانع إطلاق الانبعاثات. وأثّر الطقس في مكان تراكمها ومدة بقائها. [المصدر · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [المصدر · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog)"
+    },
+    {
+      "type": "subheading",
+      "text": "كيف أصبح الضباب ملوثاً؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يتكون الضباب من قطرات ماء صغيرة. وقد تتشكل القطرات على جسيمات ناجمة عن الاحتراق، وتتشتت أشعة الضوء عند اصطدامها بها. وقد يحتوي الهواء أيضاً على غازات من المصادر نفسها. وتقيس الرؤية والتعرض للتلوث شيئين مختلفين. فمكانان تتشابه فيهما كثافة الضباب قد يختلفان في الخليط. وزاد حرق الفحم خطورة الهواء المحبوس في لندن. [المصدر · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [المصدر · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا عاشت المدينة في خمسة أيام؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يصف متحف لندن تعطل التنقل وأعمال الحياة اليومية. وعرف الناس الضباب من قبل، ثم واجهوا كثافة واستمراراً غير معتادين. وصعب على السائق والمار رؤية ما أمامه. وبلغ الضباب أماكن داخل مبانٍ. وتظهر الصور والشهادات كيف جرت الحركة. وتساعد سجلات الصحة والوفيات في فهم أثر التعرض على الناس. [المصدر · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [المصدر · www.londonmuseum.org.uk](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/)"
+    },
+    {
+      "type": "subheading",
+      "text": "كيف ظهر الأثر في سجلات الوفيات؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تعني الوفيات الزائدة ما تجاوز العدد المتوقع خلال فترة محددة. ويعتمد التقدير على الفترة وعلى المرجع الذي يحدد العدد المتوقع وكيفية دراسة أسباب أخرى. وقد تظهر الزيادة من دون أن يذكر كل سجل وفاة اسم الحادثة. لذلك من المهم بقاء المدة جزءاً من الرقم عند اقتباسه. [المصدر · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [المصدر · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/)"
+    },
+    {
+      "type": "heading",
+      "text": "لماذا يرد رقما 4 آلاف و12 ألفاً؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تشير هيئة لندن الكبرى إلى نحو أربعة آلاف وفاة زائدة في ديسمبر 1952. وفي إعادة تقييم لاحقة قدّرت ميشيل بيل وديفرا ديفيس نحو 12 ألف وفاة زائدة من ديسمبر 1952 إلى فبراير 1953. ويدخل ديسمبر في الفترتين. فلا يصح جمع الرقمين. كما اختلفت طريقة التحليل لتقييم آثار قد تستمر بعد انقشاع الضباب. [المصدر · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [المصدر · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/)"
+    },
+    {
+      "type": "subheading",
+      "text": "ماذا تفيد الفترة الأطول؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تبقى آثار صحية بعد صفاء الهواء. وتسمح الأسابيع اللاحقة باختبار استمرار الوفيات فوق المتوقع. ويحتاج التحليل الأطول إلى مراعاة أسباب أخرى تؤثر في الصحة. ولهذا ترتبط النتيجة بطريقة الدراسة وافتراضاتها. وتختلف مدة الاضطراب الظاهر في الشارع عن مدة الخطر التي يمكن فحصها في السجلات. [المصدر · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [المصدر · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [المصدر · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/)"
+    },
+    {
+      "type": "heading",
+      "text": "ماذا غيّر قانون 1956؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "جاء معظم التلوث من مصادر وقود قابلة للتحديد. وأتاح قانون الهواء النظيف في 1956 إنشاء مناطق للتحكم بالدخان ووضع تدابير تخص الأفران والمداخن. وأصبح لدى السلطات المحلية أدوات للتعامل مع المشكلة. وكان التنفيذ يتطلب قرارات عن الوقود والأجهزة والأماكن. ويسجل مكتب الأرصاد جهوداً لاحقة منها قانون 1968. [المصدر · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [المصدر · www.londonmuseum.org.uk](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [المصدر · www.legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)"
+    },
+    {
+      "type": "subheading",
+      "text": "ماذا تغير في المنازل؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تؤثر القاعدة على ما تستطيع الأسرة حرقه وقد تتطلب جهازاً مختلفاً. ومن ثم يصل قرار الانبعاثات إلى اختيارات تدفئة الغرف. وتهم التحولات في المحطات والصناعة أيضاً. وعلى من يقارن شتاءين مراعاة الطقس والوقود. ولمثال على صلة مصدر الحرارة بحياة الناس اقرأ [تقرير PRESDA عن التدفئة الجوفية في آيسلندا](/articles/iceland-geothermal-district-heating-homes/). [المصدر · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [المصدر · www.legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي بقي موثقاً؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تصف الأرصاد كيف علق الدخان. وقد تظهر صورة ما كان يمكن رؤيته من شارع بعينه. وتغطي دراسة الوفيات فترة معلنة. ثم يحدد نص القانون ما أُتيح للسلطات بعد ذلك. ويساعد الجمع بينها على فهم كيف أنتجت الانبعاثات والطقس خطراً واسعاً. ويظهر أيضاً لماذا لا تكفي صورة داكنة لإثبات رقم للوفيات، ولماذا لا تخبرنا نتيجة دراسة صحية بمقدار ما كان الناس يرونه على الطريق. ولكل وثيقة نقطة قوة مختلفة. [المصدر · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [المصدر · www.londonmuseum.org.uk](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [المصدر · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/) [المصدر · www.legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted)"
+    },
+    {
+      "type": "heading",
+      "text": "أربع فترات زمنية لفهم كارثة واحدة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تجيب تواريخ الظاهرة الجوية، ومدة تعرض السكان للهواء الملوث، والأسابيع التي ارتفع فيها عدد الوفيات، والفترة اللازمة لسن القانون عن أسئلة مختلفة. فقد انقشع الضباب في التاسع من ديسمبر، لكن شخصاً تعرّض للملوثات أثناء الأيام الخمسة يمكن أن يتوفى في وقت لاحق. ولو توقف الإحصاء عند عودة الرؤية لما شمل جانباً من العواقب الصحية. كان بوسع الباحثين في ذلك الوقت مقابلة قراءات أجهزة القياس بسجلات الوفيات. وأتيح للباحثين لاحقاً أن يتابعوا الوفيات على مدى أطول وأن يختبروا مقدار ما يمكن أن تفسره أسباب أخرى للارتفاع الشتوي. ولهذا ينبغي إرفاق كل تقدير بالفترة التي يغطيها وبشرح لكيفية تقدير عدد الوفيات المتوقع فيها. كما يختلف ما تسجله الحكايات الشخصية عما تلتقطه أجهزة الرصد. فالقصص عن أشخاص تعثروا في الطريق تساعد على تصور مدى ضعف الرؤية في شوارع بعينها. أما الأجهزة فتحدد تركيز المواد الملوثة في مواقع أخذ القياسات، وهي معلومات يحتاج إليها من يدرس شدة التعرض. وقد تتباين الرؤية والتركيز من حي إلى آخر تبعاً لموقع مصادر الدخان وحركة الهواء. ويصبح ذكر هذه الحدود مهماً عند نقل وصف مختصر للحادثة، حتى لا يتحول ما شهده شخص في موضع واحد إلى قياس مفترض لكل سكان المدينة. وتوضح السجلات بعد انقشاع الضباب أيضاً أن التحسن الذي تراه العين لا يحدد وحده وقت انتهاء الآثار الصحية. [المصدر · weather.metoffice.gov.uk](https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog) [المصدر · www.londonmuseum.org.uk](https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/) [المصدر · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11427388/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "وسار التشريع وفق جدول آخر. فقد منح القانون السلطات المحلية حق تحديد مناطق تخضع فيها انبعاثات الدخان لضوابط خاصة. واستطاعت الأسر في تلك المناطق مراعاة المتطلبات باستعمال أنواع وقود مصرح بها أو تجهيزات معتمدة، وفق القواعد السارية في كل حالة. وكان تعديل الموقد وتأمين الوقود المناسب واعتماد القواعد المحلية خطوات عملية بين سن القانون وخفض الانبعاثات. لذا يحدد تاريخ القانون الوقت الذي أصبحت فيه لدى السلطات أدوات للتدخل، فيما ظهرت نتائجها تدريجياً مع تنفيذها. وقد بدا الموقد المنزلي مصدراً صغيراً إلى جوار مصنع، لكن إشعال آلاف المواقد في الوقت ذاته، في ظل ركود الهواء قرب الأرض، جعل مجموع الانبعاثات مهماً على مستوى أحياء كاملة. وقد حاولت صلاحية إنشاء المناطق الخاضعة للرقابة معالجة هذا النوع من الانبعاثات داخل الأماكن التي يتعرض فيها الناس لها. وكان من الضروري أن تتوافر بدائل تتيح للأسر الاستمرار في التدفئة في الشتاء. كما كان للاختصاص المحلي أثر في ترتيب التنفيذ، لأن إعلان منطقة وضبط استخدام المواقد فيها عملان يتطلبان وقتاً وموارد. وهكذا راكمت كل خطوة أثرها حين تحولت الأحكام المكتوبة إلى تغييرات في الوقود والأجهزة المستخدمة فعلياً. وتساعد قراءة القانون نفسه على معرفة الصلاحيات التي أنشأها، بينما توضح السجلات التاريخية المسافة الزمنية بين تلك الصلاحيات وتراجع الدخان في شوارع لندن. [المصدر · www.london.gov.uk](https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog) [المصدر · www.legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted) وتظل تواريخ المقارنة ضرورية عند عرض النتائج في رسم بياني."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر · weather.metoffice.gov.uk",
+      "url": "https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog"
+    },
+    {
+      "label": "المصدر · www.londonmuseum.org.uk",
+      "url": "https://www.londonmuseum.org.uk/collections/london-stories/the-great-smog-of-1952/"
+    },
+    {
+      "label": "المصدر · www.london.gov.uk",
+      "url": "https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog"
+    },
+    {
+      "label": "المصدر · pubmed.ncbi.nlm.nih.gov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11427388/"
+    },
+    {
+      "label": "المصدر · www.legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/ukpga/Eliz2/4-5/52/enacted"
+    }
+  ],
+  "faq": [
+    {
+      "question": "لماذا وقع الضباب الدخاني العظيم؟",
+      "answer": "تراكم دخان الفحم قرب الأرض بسبب انقلاب حراري واختلط بالضباب."
+    },
+    {
+      "question": "كم شخصاً مات؟",
+      "answer": "تشير لندن إلى نحو أربعة آلاف وفاة زائدة في ديسمبر. وتقدّر دراسة نحو 12 ألفاً من ديسمبر إلى فبراير."
+    },
+    {
+      "question": "كيف استجابت الحكومة؟",
+      "answer": "أجاز قانون 1956 مناطق للتحكم بالدخان ووضع ضوابط أخرى للانبعاثات."
+    }
+  ],
+  "readingTimeMinutes": 7
+}
