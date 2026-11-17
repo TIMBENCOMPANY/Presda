@@ -8,6 +8,138 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV17_HISTORY_502]]": {
+    "caption": "A concise chronology, with uncertainty retained",
+    "headers": [
+      "Period",
+      "Documented milestone",
+      "How to read it"
+    ],
+    "rows": [
+      [
+        "9th–10th centuries",
+        "Ministry estimate for the defensive settlement",
+        "Dates of individual excavations may differ"
+      ],
+      [
+        "1963",
+        "Modern rediscovery in official accounts",
+        "A rediscovery date does not date construction"
+      ],
+      [
+        "1965 / 1967",
+        "Different official visitor-opening dates",
+        "Museum and district accounts disagree"
+      ],
+      [
+        "Today",
+        "A limited managed visitor route",
+        "The published 85 m figure describes depth, not an open hall"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_HISTORY_503]]": {
+    "caption": "Milestones in the growth of a production centre",
+    "headers": [
+      "Date or period",
+      "Milestone",
+      "Why it matters"
+    ],
+    "rows": [
+      [
+        "1962",
+        "Lawrence of Arabia among regional productions",
+        "International filming preceded the permanent studios"
+      ],
+      [
+        "1983",
+        "Atlas Studios established",
+        "A base for recurring production work"
+      ],
+      [
+        "1987",
+        "Aït Ben Haddou inscribed on the World Heritage List",
+        "The settlement’s heritage has its own significance"
+      ],
+      [
+        "From 28 March 2022",
+        "30% rebate on eligible expenses under CCM rules",
+        "Conditions and accepted costs determine support"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_HISTORY_504]]": {
+    "caption": "A chronology of Ota Benga’s documented story",
+    "headers": [
+      "Date",
+      "Event",
+      "Evidence and qualification"
+    ],
+    "rows": [
+      [
+        "1904",
+        "Taken to the St Louis World’s Fair",
+        "The accounts of his earlier life remain uneven and contested"
+      ],
+      [
+        "September 1906",
+        "Exhibited at the Bronx Zoo; Black ministers protest",
+        "WCS identifies the week of 8 September"
+      ],
+      [
+        "1910–1916",
+        "Lives in Lynchburg; dies on 20 March 1916",
+        "Local records and historical research document this period"
+      ],
+      [
+        "June 2020",
+        "WCS issues an apology",
+        "A later institutional acknowledgement of the abuse"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_HISTORY_505]]": {
+    "caption": "From market closure to legal abolition",
+    "headers": [
+      "Date or period",
+      "Milestone",
+      "Meaning"
+    ],
+    "rows": [
+      [
+        "Mid-19th century",
+        "Expansion of clove plantations and forced labour",
+        "Zanzibar was both a destination and a transit point"
+      ],
+      [
+        "1873",
+        "Market closure and prohibition of transport by sea",
+        "A restriction on trade, with slavery continuing"
+      ],
+      [
+        "1897",
+        "Abolition of slavery’s legal status",
+        "A separate milestone from the market’s closure"
+      ],
+      [
+        "From 2013",
+        "Conservation and interpretation project at Christ Church",
+        "Preservation of a site of conscience and its public history"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV17_HERITAGE_497]]": {
     "caption": "What is confirmed about the next Bond film",
     "headers": [

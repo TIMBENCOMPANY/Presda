@@ -16,6 +16,51 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+  "derinkuyu-hidden-underground-city-turkey": {
+    afterBlock: 15, file: "derinkuyu-stone-door-tobyj.jpg", width: 2448, height: 3264,
+    source: "https://commons.wikimedia.org/wiki/File:Derinkuyu_door.jpg",
+    credit: "TobyJ / Wikimedia Commons", license: "https://creativecommons.org/licenses/by-sa/4.0/", licenseLabel: "CC BY-SA 4.0",
+    captions: {
+      en: "A circular stone door at Derinkuyu, photographed by TobyJ in August 2012.",
+      fr: "Une porte de pierre circulaire à Derinkuyu, photographiée par TobyJ en août 2012.",
+      es: "Una puerta circular de piedra en Derinkuyu, fotografiada por TobyJ en agosto de 2012.",
+      ar: "باب حجري دائري في ديرينكويو، صوّره توبي جاي في أغسطس ٢٠١٢."
+    }
+  },
+  "ouarzazate-morocco-africas-hollywood": {
+    afterBlock: 9, file: "ouarzazate-atlas-studios-allaway.jpg", width: 1024, height: 683,
+    source: "https://commons.wikimedia.org/wiki/File:Atlas_Studios_Film_Studios,_Ouarzazate,_Morocco_(5545932927).jpg",
+    credit: "Richard Allaway / Wikimedia Commons", license: "https://creativecommons.org/licenses/by/2.0/", licenseLabel: "CC BY 2.0",
+    captions: {
+      en: "Atlas Studios in Ouarzazate, photographed by Richard Allaway in February 2011.",
+      fr: "Les studios Atlas à Ouarzazate, photographiés par Richard Allaway en février 2011.",
+      es: "Los estudios Atlas en Uarzazat, fotografiados por Richard Allaway en febrero de 2011.",
+      ar: "استوديوهات أطلس في ورزازات، في صورة لريتشارد ألاواي من فبراير ٢٠١١."
+    }
+  },
+  "ota-benga-african-man-exhibited-bronx-zoo": {
+    afterBlock: 5, file: "ota-benga-1904-gerhard-sisters.jpg", width: 900, height: 1200,
+    source: "https://commons.wikimedia.org/wiki/File:Ota_Benga_at_1904_World%27s_Fair.jpg",
+    credit: "Gerhard Sisters, 1904 / Wikimedia Commons", license: publicDomain,
+    captions: {
+      en: "Ota Benga at the 1904 St Louis World’s Fair, in a portrait extracted from a group photograph by the Gerhard Sisters. This photograph predates the Bronx Zoo exhibition.",
+      fr: "Ota Benga à l’Exposition universelle de Saint-Louis en 1904, portrait extrait d’une photographie de groupe des sœurs Gerhard. Le document précède l’exhibition au zoo du Bronx.",
+      es: "Ota Benga en la Exposición Universal de San Luis de 1904, retrato extraído de una fotografía de grupo de las hermanas Gerhard. Es anterior a la exhibición en el zoo.",
+      ar: "أوتا بينغا في معرض سانت لويس العالمي سنة ١٩٠٤، في صورة مقتطعة من لقطة جماعية للأختين غيرهارد. تسبق هذه الوثيقة عرضه في حديقة برونكس."
+    }
+  },
+  "zanzibar-slave-market-history-abolition": {
+    afterBlock: 5, file: "zanzibar-market-1909-mission-history.jpg", width: 4013, height: 2546,
+    source: "https://commons.wikimedia.org/wiki/File:Anderson-Morshead_1909_The_Old_Slave_Market,_Zanzibar_historyofuniver00ande_0492.jpg",
+    credit: "Illustration reproduced in A. E. M. Anderson-Morshead’s 1909 mission history / Wikimedia Commons", license: publicDomain,
+    captions: {
+      en: "An illustration of the old slave market reproduced in the 1909 history of the Universities’ Mission to Central Africa. This later publication is an archival illustration, not a photograph of an identified sale.",
+      fr: "Illustration de l’ancien marché reproduite dans l’histoire de la mission universitaire en Afrique centrale publiée en 1909. Ce document est une illustration d’archive.",
+      es: "Ilustración del antiguo mercado reproducida en la historia de la misión universitaria en África central publicada en 1909. Es una ilustración de archivo.",
+      ar: "رسم للسوق القديم أُعيد نشره في تاريخ بعثة الجامعات إلى وسط إفريقيا سنة ١٩٠٩. هذه وثيقة تصويرية أرشيفية وليست صورة فوتوغرافية لعملية بيع محددة."
+    }
+  },
+
   "robert-pattinson-new-james-bond-007": {
     afterBlock: 11, file: "pattinson-berlinale-2025.jpg", width: 1789, height: 2371,
     source: "https://commons.wikimedia.org/wiki/File:Robert_Pattinson_at_Berlinale_2025_(cropped).jpg",
