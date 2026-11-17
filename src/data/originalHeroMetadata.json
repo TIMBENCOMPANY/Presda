@@ -363,5 +363,30 @@
     "width": 1280,
     "height": 720,
     "type": "image/jpeg"
+  },
+  "/articles/japan-aging-population-over-65.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/uruguay-98-percent-renewable-electricity.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/svalbard-global-seed-vault-world-food.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
+  },
+  "/articles/himba-namibia-red-ochre-pastoralism.jpg": {
+    "width": 1280,
+    "height": 721,
+    "type": "image/jpeg"
+  },
+  "/articles/ainu-indigenous-japan-history.jpg": {
+    "width": 1280,
+    "height": 720,
+    "type": "image/jpeg"
   }
 }

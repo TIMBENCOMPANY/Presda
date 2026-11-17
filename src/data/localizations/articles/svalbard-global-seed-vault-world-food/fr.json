@@ -1,0 +1,189 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/svalbard-global-seed-vault-world-food/",
+  "path": "/fr/articles/svalbard-global-seed-vault-world-food/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "EN NORVÈGE, LA RÉSERVE MONDIALE DE SEMENCES PROTÈGE L’AVENIR DE NOTRE ALIMENTATION",
+  "seoTitle": "Réserve mondiale de semences du Svalbard : comment elle fonctionne",
+  "description": "La réserve norvégienne protège les doubles des collections agricoles. Son fonctionnement, les retraits d’ICARDA et les limites de la conservation au froid.",
+  "excerpt": "La réserve norvégienne protège les doubles des collections agricoles. Son fonctionnement, les retraits d’ICARDA et les limites de la conservation au froid.",
+  "headlineHighlights": {
+    "red": "NORVÈGE",
+    "gold": "RÉSERVE MONDIALE DE SEMENCES"
+  },
+  "keywords": [
+    "NORVÈGE",
+    "RÉSERVE MONDIALE DE SEMENCES"
+  ],
+  "searchIntent": "La réserve norvégienne protège les doubles des collections agricoles. Son fonctionnement, les retraits d’ICARDA et les limites de la conservation au froid.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/svalbard-global-seed-vault-world-food.jpg",
+    "alt": "Illustration de l’entrée de la réserve mondiale de semences du Svalbard dans un paysage arctique",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Dans une montagne près de Longyearbyen, la Norvège conserve des boîtes scellées qui peuvent servir à reconstituer une collection agricole. La réserve mondiale de semences du Svalbard a ouvert le 26 février 2008. Elle garde des doubles prélevés dans des banques de gènes actives. Si une institution perd ses stocks ou ne peut plus y accéder, elle peut récupérer cette copie. Le 14 octobre 2026, l’Organisation des Nations unies pour l’alimentation et l’agriculture a annoncé que 21 institutions avaient déposé 16 676 échantillons, en plus des plus de 1,4 million déjà conservés. Le décompte porte sur des échantillons. Le nombre d’espèces et celui des graines individuelles relèvent d’autres mesures. [Source · www.seedvault.no](https://www.seedvault.no/about/the-facility/) [Source · www.fao.org](https://www.fao.org/plant-treaty/news/news-detail/global-cooperation-brings-more-crop-diversity-to-the-svalbard-global-seed-vault/)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi il faut plusieurs copies"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_FEATURE_484]]",
+      "caption": "La réserve du Svalbard en trois dates",
+      "headings": [
+        "Date",
+        "Événement"
+      ],
+      "rows": [
+        [
+          "Février 2008",
+          "Ouverture de la réserve"
+        ],
+        [
+          "2017",
+          "ICARDA redépose plus de 20 000 accessions"
+        ],
+        [
+          "Octobre 2026",
+          "21 institutions déposent 16 676 échantillons"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Une banque de gènes met ses collections à disposition des chercheurs et des sélectionneurs. Elle teste le matériel, tient les registres et renouvelle les graines quand les stocks vieillissent ou diminuent. Une guerre, une catastrophe, une interruption du financement ou une panne peut couper l’accès à la collection. Un double conservé ailleurs réduit le risque de perdre les deux stocks lors d’un même événement. Svalbard constitue le dernier maillon. Après avoir repris ses échantillons, la banque d’origine doit toujours pouvoir les reconnaître et les gérer. [Source · www.seedvault.no](https://www.seedvault.no/about/purpose-operations-and-organisation/) [Source · www.seedvault.no](https://www.seedvault.no/about/the-seeds/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qu’est-ce qu’une accession ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une accession est un échantillon documenté, souvent recueilli dans un lieu précis ou maintenu comme lignée définie. Plusieurs peuvent appartenir à la même espèce cultivée. Une banque peut conserver des blés de différents climats ou des lentilles cultivées sur des sols distincts. Deux échantillons d’une même culture peuvent présenter des variations différentes. Avec le registre et les graines, un chercheur peut retracer l’origine d’une lignée et juger si elle peut répondre à sa question. Des sachets dont on aurait perdu les fiches seraient beaucoup plus difficiles à exploiter."
+    },
+    {
+      "type": "heading",
+      "text": "Où se trouve la réserve et comment elle reste froide"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’installation a été creusée dans la roche du pergélisol au Spitzberg, dans l’archipel norvégien du Svalbard. Son entrée ressemble à celle d’une mine, mais l’ouvrage a été construit spécialement. La réfrigération maintient les chambres à −18 °C. En cas de panne, la roche froide ralentit le réchauffement. L’électricité, l’entretien et la surveillance restent indispensables. La montagne protège le stock de nombreux risques extérieurs, dont l’ampleur peut évoluer. [Source · www.seedvault.no](https://www.seedvault.no/about/the-facility/) [Source · www.seedvault.no](https://www.seedvault.no/about/purpose-operations-and-organisation/) [Source · www.seedvault.no](https://www.seedvault.no/about/history/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qu’est-ce que le réchauffement de l’Arctique change ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Norvège a étanchéifié le tunnel d’accès et modernisé les équipements de refroidissement. L’entrée et les chambres scellées présentent des risques différents. De l’eau peut atteindre la première sans pénétrer dans les secondes. Cette distinction éclaire les travaux. La protection de la collection sur plusieurs décennies exige d’inspecter l’ouvrage, d’entretenir les machines et de suivre l’évolution du milieu autour de la réserve. [Source · www.seedvault.no](https://www.seedvault.no/about/purpose-operations-and-organisation/)"
+    },
+    {
+      "type": "heading",
+      "text": "À qui appartiennent les dépôts ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chaque déposant conserve la maîtrise de ses boîtes. Le principe, dit de la « boîte noire », consiste à garder un envoi pour le compte de l’institution qui peut en demander le retour. La Norvège a construit et financé la réserve. NordGen et le Crop Trust participent à son fonctionnement. Les droits sur les semences restent aux déposants. Un sélectionneur qui cherche une variété s’adresse normalement à la banque d’origine dans le cadre de ses procédures ordinaires. La réserve n’est pas un comptoir de distribution. [Source · www.seedvault.no](https://www.seedvault.no/about/purpose-operations-and-organisation/) [Source · www.seedvault.no](https://www.seedvault.no/about/the-seeds/) [Source · www.croptrust.org](https://www.croptrust.org/what-we-do/programs/svalbard-global-seed-vault/faqs/)"
+    },
+    {
+      "type": "heading",
+      "text": "Le retrait qui a mis la réserve à l’épreuve"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le centre international de recherche agricole ICARDA avait placé des doubles au Svalbard entre 2008 et 2014. La guerre en Syrie a compromis son travail avec la collection près d’Alep. Le centre a demandé le retour de semences et les a multipliées au Liban et au Maroc. Les nouvelles récoltes ont fourni de quoi renvoyer des doubles au Svalbard. Selon la réserve, plus de 20 000 accessions ont été redéposées en 2017. Terre, personnel formé, dossiers et saisons de culture ont permis à l’institution de remettre des collections en service. [Source · www.seedvault.no](https://www.seedvault.no/2017/10/27/icarda-seeds-safe-back-in-lebanon-and-morocco/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi il faut du temps pour multiplier une copie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il faut des conditions de culture adaptées et suffisamment de plantes pour préserver les variations génétiques représentées par l’échantillon. Le suivi de chaque lot compte aussi. En cas de mélange ou d’étiquette perdue, la banque peut se retrouver avec des graines dont elle ne connaît plus l’identité. Séparer les deux stocks protège le matériel d’un sinistre local, tandis que de bons registres et des équipes compétentes rendent son utilisation possible après le retrait."
+    },
+    {
+      "type": "heading",
+      "text": "Quelles cultures exigent d’autres formes de conservation ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le procédé convient surtout aux semences que l’on peut sécher et garder à basse température. Certaines plantes se multiplient plutôt par boutures ou tubercules. D’autres graines supportent mal le séchage ou la congélation conventionnelle. Les banques de gènes utilisent notamment des collections vivantes, la culture de tissus et la cryoconservation. Chaque méthode a ses besoins en espace, en matériel et en compétences. Il faut aussi compter avec les plantes que les agriculteurs continuent à cultiver et à sélectionner. [Source · www.seedvault.no](https://www.seedvault.no/about/the-seeds/) [Source · www.croptrust.org](https://www.croptrust.org/what-we-do/programs/svalbard-global-seed-vault/faqs/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un sélectionneur peut rechercher une variation qui aide une lignée à résister à une maladie ou à pousser dans d’autres conditions. La diversité des collections lui donne du matériel à tester, et les essais déterminent ce qui lui sera utile. Voir [le dossier de PRESDA sur les comparaisons d’ADN](/articles/how-much-dna-humans-share-other-species/)."
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que la date apporte au décompte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rapport d’octobre de la FAO décrit une opération de dépôt. Des institutions apparentées peuvent déposer des copies de lignées déjà conservées et une banque peut renvoyer du matériel frais après multiplication. Ces échanges font partie du fonctionnement normal. La hausse du nombre d’accessions indique que davantage de matériel peut être récupéré après un sinistre. Elle ne permet pas de mesurer la couverture de chaque culture ou la diversité préservée dans les champs. [Source · www.fao.org](https://www.fao.org/plant-treaty/news/news-detail/global-cooperation-brings-more-crop-diversity-to-the-svalbard-global-seed-vault/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prenons le cas d’une banque locale qui conserve des variétés de régions où les agriculteurs ont changé de culture. Connaître le nom de la plante ne suffit pas à retrouver l’échantillon d’origine. Des années de recherche peuvent aussi avoir été nécessaires pour décrire ce lot et ses particularités. Garder la graine préserve le matériel, tandis que garder les dossiers permet de savoir ce qu’il représente, où il a été récolté et comment l’utiliser. Une personne qui reprendra les recherches aura besoin de ces deux ressources pour choisir les essais et faire pousser suffisamment de plantes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · www.seedvault.no",
+      "url": "https://www.seedvault.no/about/the-facility/"
+    },
+    {
+      "label": "Source · www.seedvault.no",
+      "url": "https://www.seedvault.no/about/purpose-operations-and-organisation/"
+    },
+    {
+      "label": "Source · www.seedvault.no",
+      "url": "https://www.seedvault.no/about/the-seeds/"
+    },
+    {
+      "label": "Source · www.fao.org",
+      "url": "https://www.fao.org/plant-treaty/news/news-detail/global-cooperation-brings-more-crop-diversity-to-the-svalbard-global-seed-vault/"
+    },
+    {
+      "label": "Source · www.seedvault.no",
+      "url": "https://www.seedvault.no/2017/10/27/icarda-seeds-safe-back-in-lebanon-and-morocco/"
+    },
+    {
+      "label": "Source · www.seedvault.no",
+      "url": "https://www.seedvault.no/about/history/"
+    },
+    {
+      "label": "Source · www.croptrust.org",
+      "url": "https://www.croptrust.org/what-we-do/programs/svalbard-global-seed-vault/faqs/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Peut-on visiter les chambres ?",
+      "answer": "On peut voir l’extérieur. L’accès aux chambres est réservé au fonctionnement de la réserve."
+    },
+    {
+      "question": "Qui peut retirer des graines ?",
+      "answer": "L’institution déposante garde le contrôle de son matériel et peut demander le retour de ses échantillons."
+    },
+    {
+      "question": "Toutes les cultures vivrières sont-elles représentées ?",
+      "answer": "La collection dépend des dépôts et de la capacité de chaque matériel à supporter une conservation au froid et au sec."
+    }
+  ],
+  "readingTimeMinutes": 6
+}

@@ -1,0 +1,173 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/himba-namibia-red-ochre-pastoralism/",
+  "path": "/fr/articles/himba-namibia-red-ochre-pastoralism/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "LES HIMBAS, LE PEUPLE DE L’OCRE ROUGE EN NAMIBIE",
+  "seoTitle": "Les Himbas de Namibie : ocre rouge et vie pastorale",
+  "description": "Au-delà de l’ocre rouge, comment les familles himbas du Kunene articulent élevage, scolarité et travail, et ce que les études révèlent sur l’otjize.",
+  "excerpt": "Au-delà de l’ocre rouge, comment les familles himbas du Kunene articulent élevage, scolarité et travail, et ce que les études révèlent sur l’otjize.",
+  "headlineHighlights": {
+    "red": "LES HIMBAS",
+    "gold": "OCRE ROUGE"
+  },
+  "keywords": [
+    "LES HIMBAS",
+    "OCRE ROUGE"
+  ],
+  "searchIntent": "Au-delà de l’ocre rouge, comment les familles himbas du Kunene articulent élevage, scolarité et travail, et ce que les études révèlent sur l’otjize.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/himba-namibia-red-ochre-pastoralism.jpg",
+    "alt": "Illustration d’une femme portant des tresses enduites d’ocre et des bijoux dans un paysage rural",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "L’ocre rouge attire souvent d’abord le regard dans un portrait de femme himba. La pratique fait partie d’une vie sociale et économique beaucoup plus vaste. Les Himbas, ou Ovahimbas, vivent principalement dans le nord-ouest aride de la Namibie et de l’autre côté de la frontière, en Angola. Certains ménages élèvent du bétail et se déplacent selon l’eau et les pâturages. D’autres associent l’élevage au travail salarié, à la scolarité ou au commerce. La pâte rouge relie le foyer aux animaux, au monde minéral et à celles et ceux qui préparent ou échangent ses ingrédients. [Source · www.mdpi.com](https://www.mdpi.com/2071-1050/16/4/1582) [Source · www.scielo.org.za](https://www.scielo.org.za/pdf/sajs/v111n3-4/08.pdf) [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC4564224/)"
+    },
+    {
+      "type": "heading",
+      "text": "Où vivent les familles himbas ?"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_FEATURE_485]]",
+      "caption": "Trois façons d’étudier la vie des Himbas",
+      "headings": [
+        "Source",
+        "Ce qu’elle éclaire"
+      ],
+      "rows": [
+        [
+          "Enquête sur le pastoralisme",
+          "L’organisation du pâturage, de l’école et de l’emploi"
+        ],
+        [
+          "Observation de la préparation de l’otjize",
+          "L’usage de l’ocre et de la matière grasse laitière clarifiée"
+        ],
+        [
+          "Essais contrôlés",
+          "La filtration des ultraviolets par certains échantillons"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En Namibie, le Kunene est la région la plus étroitement associée au pastoralisme himba. Les hameaux, les villes, les pâturages et les points d’eau y sont reliés par des itinéraires qui changent au fil de l’année. La frontière angolaise traverse un espace où vivent des communautés apparentées. Les situations diffèrent selon les familles. Dans une même localité, les habitants peuvent disposer de troupeaux, de moyens de transport et de possibilités d’emploi très différents. Une description fondée sur un seul village ou un calendrier unique de déplacements perd cette diversité. [Source · www.mdpi.com](https://www.mdpi.com/2071-1050/16/4/1582) [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC4564224/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Comment élever du bétail en milieu aride"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mobilité pastorale permet de réagir à des ressources inégalement réparties. Lorsque les pluies sont irrégulières, les bons pâturages peuvent être éloignés du lieu de résidence habituel. Il faut évaluer la distance jusqu’à l’eau, la force des animaux et le coût du trajet. Un troupeau peut partir tandis qu’une partie des proches reste près d’une école ou de services. Le déplacement peut être essentiel à l’élevage d’un foyer, même si tous ses membres ne voyagent pas ensemble. [Source · www.mdpi.com](https://www.mdpi.com/2071-1050/16/4/1582)"
+    },
+    {
+      "type": "heading",
+      "text": "Qu’est-ce que l’otjize ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des chercheurs décrivent l’otjize, aussi écrit otjise, comme un mélange d’ocre rouge finement broyée et de matière grasse laitière clarifiée. Dans le Kunene, ils ont observé le broyage du minéral entre des pierres et l’application du mélange sur la peau, les cheveux et des ornements. La graisse suppose d’élever des animaux et de transformer du lait. L’ocre peut se recueillir ou s’obtenir par échange. Le geste mobilise du temps et des savoir-faire, avec des recettes et des motivations qui peuvent varier d’une personne à l’autre. [Source · www.scielo.org.za](https://www.scielo.org.za/pdf/sajs/v111n3-4/08.pdf) [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC4564224/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce qu’une expérience en laboratoire peut établir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des travaux ont étudié la capacité de l’ocre à réduire l’exposition aux rayons ultraviolets. Dans une étude consacrée aux pigments riches en fer, les propriétés variaient selon le matériau testé. Le résultat indique comment réagissent les préparations étudiées. L’apparence, le soin du corps et l’identité peuvent tous compter dans la transmission et l’usage de l’otjize. Pour le comprendre, le témoignage des personnes qui le préparent répond à des questions différentes de celles de l’expérience. Ces mesures ne constituent pas un conseil de remplacer une protection solaire validée par le mélange. [Source · www.scielo.org.za](https://www.scielo.org.za/pdf/sajs/v111n3-4/08.pdf) [Source · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC4564224/)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment le territoire pastoral s’est transformé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les recherches sur l’histoire du Kunene décrivent le poids de l’administration coloniale, des sécheresses et des nouveaux rapports avec les marchés et les institutions. Les règles de circulation peuvent modifier directement les conditions d’élevage. Dans une région sèche, l’eau et l’herbe se trouvent rarement au même endroit toute l’année. Fermer un itinéraire peut rendre une saison beaucoup plus difficile. Les effets dépendent des pâturages de remplacement, des moyens de déplacer les animaux et des revenus qui permettent d’acheter du fourrage. [Source · www.mdpi.com](https://www.mdpi.com/2071-1050/16/4/1582)"
+    },
+    {
+      "type": "subheading",
+      "text": "L’école, l’emploi et l’élevage sous un même toit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les horaires scolaires et professionnels changent l’organisation familiale. Un trimestre peut inciter certains proches à rester sur place. Un salaire peut couvrir des frais scolaires ou aider à nourrir les animaux pendant une année sèche. À l’inverse, surveiller le bétail peut compliquer la prise d’un emploi en ville. L’accès à la terre, aux routes et aux services pèse avec les préférences personnelles. Les enquêtes qualitatives éclairent ces choix dans leur contexte et décrivent avant tout les personnes auprès desquelles elles ont été conduites. [Source · www.mdpi.com](https://www.mdpi.com/2071-1050/16/4/1582)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi la sécheresse ne se résume pas à la pluie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d’une sécheresse, l’herbe et l’eau se raréfient et les distances peuvent augmenter. Les conséquences dépendent aussi de décisions antérieures. Une localité ayant accès à plusieurs zones de pâturage a des options qu’une autre, cernée par des usages concurrents du sol, n’a pas. Les propriétaires de très petits troupeaux disposent de moins de marge pour absorber une perte. Il faut donc demander qui peut se déplacer, qui a accès à l’eau et qui peut s’appuyer sur d’autres ressources. Un même épisode climatique peut produire des résultats très différents. [Source · www.mdpi.com](https://www.mdpi.com/2071-1050/16/4/1582)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qu’un portrait permet de voir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les vêtements, les coiffures et les bijoux peuvent exprimer une histoire et une identité. Une image fixe un instant choisi. Elle ne suffit pas à établir le métier ou les langues d’une personne, son interprétation de la pratique ou ce qu’elle attend des pouvoirs publics. Présenter le visuel comme une illustration évite de prêter un parcours aux personnes représentées. L’ocre est ainsi un point de départ. Elle ouvre sur le travail nécessaire pour obtenir les matières premières, sur les choix de la famille et sur les changements dans l’usage de la terre. Un reportage illustré par une véritable photographie devrait préciser le lieu et la date quand ils sont connus et distinguer ce que l’image montre de ce qu’on en déduit. Les recherches de terrain permettent de suivre les gestes et les décisions d’un ménage au fil des saisons, là où une image fixe seulement un instant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour d’autres exemples de transmission culturelle, lire [le dossier de PRESDA sur les Aïnous](/articles/ainu-indigenous-japan-history/)."
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi les chiffres de population restent difficiles à comparer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des estimations circulent souvent sans date ou sans définition de la population recensée. Le nombre total d’habitants d’une région diffère du nombre de personnes qui se reconnaissent comme Ovahimbas, notamment quand des familles résident ailleurs ou en Angola. Une enquête détaillée auprès de quelques foyers ne fournit pas un total démographique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle peut toutefois montrer comment une famille enseigne un savoir-faire alors que ses membres passent une partie de l’année en ville. L’évolution des pratiques invite à examiner les ressources disponibles, qui les contrôle et comment chacun participe aux décisions. [Source · www.mdpi.com](https://www.mdpi.com/2071-1050/16/4/1582) [Source · www.scielo.org.za](https://www.scielo.org.za/pdf/sajs/v111n3-4/08.pdf)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · www.mdpi.com",
+      "url": "https://www.mdpi.com/2071-1050/16/4/1582"
+    },
+    {
+      "label": "Source · www.scielo.org.za",
+      "url": "https://www.scielo.org.za/pdf/sajs/v111n3-4/08.pdf"
+    },
+    {
+      "label": "Source · pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4564224/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Où vivent les Himbas ?",
+      "answer": "Principalement dans le nord-ouest de la Namibie, notamment le Kunene, et de l’autre côté de la frontière, en Angola."
+    },
+    {
+      "question": "D’où vient la couleur rouge de l’otjize ?",
+      "answer": "De l’ocre rouge broyée, souvent mélangée à de la matière grasse laitière clarifiée."
+    },
+    {
+      "question": "Toute la famille se déplace-t-elle avec le troupeau ?",
+      "answer": "Les familles se répartissent les tâches et peuvent associer l’élevage à l’école, au travail ou à d’autres activités."
+    }
+  ],
+  "readingTimeMinutes": 6
+}

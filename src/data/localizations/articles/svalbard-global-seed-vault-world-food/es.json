@@ -1,0 +1,189 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/svalbard-global-seed-vault-world-food/",
+  "path": "/es/articles/svalbard-global-seed-vault-world-food/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "LA BÓVEDA DEL FIN DEL MUNDO EN NORUEGA PROTEGE EL FUTURO DE LOS ALIMENTOS",
+  "seoTitle": "La bóveda de semillas de Svalbard: cómo protege la agricultura",
+  "description": "Noruega conserva duplicados de los bancos de semillas. Cómo funciona la bóveda de Svalbard, qué recuperó ICARDA y qué cultivos necesitan otras técnicas.",
+  "excerpt": "Noruega conserva duplicados de los bancos de semillas. Cómo funciona la bóveda de Svalbard, qué recuperó ICARDA y qué cultivos necesitan otras técnicas.",
+  "headlineHighlights": {
+    "red": "NORUEGA",
+    "gold": "BÓVEDA DEL FIN DEL MUNDO"
+  },
+  "keywords": [
+    "NORUEGA",
+    "BÓVEDA DEL FIN DEL MUNDO"
+  ],
+  "searchIntent": "Noruega conserva duplicados de los bancos de semillas. Cómo funciona la bóveda de Svalbard, qué recuperó ICARDA y qué cultivos necesitan otras técnicas.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/svalbard-global-seed-vault-world-food.jpg",
+    "alt": "Ilustración de la entrada a la Bóveda Global de Semillas de Svalbard en un paisaje ártico",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En una montaña cerca de Longyearbyen, Noruega guarda cajas selladas que pueden ayudar a recuperar una colección agrícola perdida. La Bóveda Global de Semillas de Svalbard abrió el 26 de febrero de 2008 para conservar duplicados de bancos de germoplasma en funcionamiento. Si la colección original resulta dañada o inaccesible, la institución que la reunió conserva otra copia. El 14 de octubre de 2026, la Organización de las Naciones Unidas para la Alimentación y la Agricultura informó de que 21 instituciones habían depositado 16.676 muestras, que se sumaron a más de 1,4 millones ya almacenadas. El recuento es de muestras. El número de especies y el de semillas individuales se calculan por separado. [Fuente · www.seedvault.no](https://www.seedvault.no/about/the-facility/) [Fuente · www.fao.org](https://www.fao.org/plant-treaty/news/news-detail/global-cooperation-brings-more-crop-diversity-to-the-svalbard-global-seed-vault/)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué hace falta más de una copia"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_FEATURE_484]]",
+      "caption": "Tres hitos de la bóveda de Svalbard",
+      "headings": [
+        "Fecha",
+        "Hito"
+      ],
+      "rows": [
+        [
+          "Febrero de 2008",
+          "Apertura de la bóveda"
+        ],
+        [
+          "2017",
+          "ICARDA vuelve a depositar más de 20.000 accesiones"
+        ],
+        [
+          "Octubre de 2026",
+          "21 instituciones depositan 16.676 muestras"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Un banco de germoplasma facilita el acceso a sus colecciones, comprueba su estado, mantiene los registros y cultiva nuevas semillas cuando el inventario escasea o envejece. Una guerra, un desastre, un recorte de financiación o una avería pueden interrumpir el acceso. Una copia en otro lugar reduce la probabilidad de perder ambas en el mismo incidente. Svalbard es el último eslabón. Al recuperar una muestra, el banco de origen todavía tiene que identificarla y gestionarla. [Fuente · www.seedvault.no](https://www.seedvault.no/about/purpose-operations-and-organisation/) [Fuente · www.seedvault.no](https://www.seedvault.no/about/the-seeds/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué es una accesión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una accesión es una muestra documentada, a menudo recogida en un sitio concreto o mantenida como parte de una línea definida. Un banco puede conservar muchos trigos de climas distintos o lentejas de regiones con suelos diferentes. Varias muestras de la misma especie pueden contener variaciones que interesen por separado. Con el registro y las semillas físicas, un investigador puede averiguar de dónde procede una línea y si sirve para estudiar una cuestión concreta. Una colección de bolsas sin los datos correspondientes sería mucho menos útil."
+    },
+    {
+      "type": "heading",
+      "text": "Dónde está la bóveda y cómo se mantiene fría"
+    },
+    {
+      "type": "paragraph",
+      "text": "La instalación está excavada en roca en el permafrost de Spitsbergen, una isla del archipiélago noruego de Svalbard. Su entrada se parece a la de una mina, aunque la instalación fue construida para conservar semillas. Los refrigeradores mantienen las cámaras a −18 °C, y la roca fría amortigua una interrupción del enfriamiento artificial. El sistema sigue necesitando electricidad, mantenimiento y vigilancia. La montaña reduce la exposición de la colección al ambiente exterior. [Fuente · www.seedvault.no](https://www.seedvault.no/about/the-facility/) [Fuente · www.seedvault.no](https://www.seedvault.no/about/purpose-operations-and-organisation/) [Fuente · www.seedvault.no](https://www.seedvault.no/about/history/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué cambia cuando se calienta el Ártico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Noruega impermeabilizó el túnel de entrada y renovó los equipos de refrigeración. El acceso y las cámaras de almacenamiento tienen riesgos diferentes. Es posible que llegue agua a la entrada y que las cámaras selladas sigan protegidas. La diferencia ayuda a entender la inversión y a evaluar la exposición al calentamiento. La resiliencia también depende de inspeccionar la estructura, mantener los equipos y observar los cambios ambientales alrededor de la bóveda. [Fuente · www.seedvault.no](https://www.seedvault.no/about/purpose-operations-and-organisation/)"
+    },
+    {
+      "type": "heading",
+      "text": "Quién controla los depósitos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las instituciones depositantes conservan el control de sus cajas. El sistema, conocido como almacenamiento en «caja negra», guarda la remesa a nombre de la institución que puede solicitar su devolución. Noruega creó y financió el recinto y comparte su operación con NordGen y el Crop Trust. El control de las semillas sigue en manos de los depositantes. Quien busque material para mejorar un cultivo suele contactar con el banco de origen y seguir sus procedimientos habituales. [Fuente · www.seedvault.no](https://www.seedvault.no/about/purpose-operations-and-organisation/) [Fuente · www.seedvault.no](https://www.seedvault.no/about/the-seeds/) [Fuente · www.croptrust.org](https://www.croptrust.org/what-we-do/programs/svalbard-global-seed-vault/faqs/)"
+    },
+    {
+      "type": "heading",
+      "text": "El retiro que puso a prueba el sistema"
+    },
+    {
+      "type": "paragraph",
+      "text": "El centro internacional de investigación agrícola ICARDA depositó copias entre 2008 y 2014. La guerra en Siria dificultó el trabajo con su colección cerca de Alepo. El centro pidió la devolución de muestras y las multiplicó en Líbano y Marruecos. Las nuevas cosechas permitieron enviar duplicados frescos a Svalbard. Según la bóveda, se volvieron a depositar más de 20.000 accesiones en 2017. La recuperación necesitó terrenos, personal capacitado, documentación y temporadas de cultivo. Las cajas resultaron útiles porque había instituciones capaces de poner las semillas a trabajar de nuevo. [Fuente · www.seedvault.no](https://www.seedvault.no/2017/10/27/icarda-seeds-safe-back-in-lebanon-and-morocco/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué lleva tiempo multiplicar una copia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se necesitan condiciones adecuadas y suficientes plantas para conservar la variación genética que representa la muestra. También hay que seguir la pista de cada lote. Si se mezclan variedades o se pierden las etiquetas, el banco puede acabar con material que ya no puede identificar. Una copia a miles de kilómetros protege frente a un incidente local, mientras que los registros y el personal permiten utilizar el material cuando regresa."
+    },
+    {
+      "type": "heading",
+      "text": "Qué cultivos necesitan otros sistemas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La bóveda funciona mejor con semillas que se pueden secar y guardar a baja temperatura. Algunos cultivos se propagan mediante esquejes o tubérculos, y algunas semillas toleran mal el secado o la congelación convencional. En esos casos se recurre, entre otras opciones, a colecciones vivas, cultivos de tejidos y crioconservación. Cada técnica requiere espacio, equipo y conocimientos propios. También importa la diversidad que los agricultores siguen cultivando y seleccionando. [Fuente · www.seedvault.no](https://www.seedvault.no/about/the-seeds/) [Fuente · www.croptrust.org](https://www.croptrust.org/what-we-do/programs/svalbard-global-seed-vault/faqs/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un mejorador puede necesitar una variante que ayude a una planta a soportar una enfermedad o condiciones de cultivo distintas. Las colecciones ofrecen material para probar esas posibilidades. Para entender cómo se mide la similitud genética, consulta [la guía de PRESDA sobre las comparaciones de ADN](/articles/how-much-dna-humans-share-other-species/)."
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué importa la fecha del depósito"
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe de octubre de la FAO describe una jornada concreta. Una institución puede enviar una copia de una línea que otra ya conserva o volver a depositar semillas después de multiplicarlas. Son actividades normales. El aumento del número de accesiones indica que hay más material disponible para recuperar colecciones dañadas. La representación de cada cultivo y la diversidad mantenida en el campo exigen otras mediciones. [Fuente · www.fao.org](https://www.fao.org/plant-treaty/news/news-detail/global-cooperation-brings-more-crop-diversity-to-the-svalbard-global-seed-vault/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pensemos en un banco que guarda variedades de lugares donde los agricultores han sustituido sus cultivos originales. Conocer el nombre general de la planta no basta para encontrar de nuevo la misma muestra. Puede haber años de trabajo invertidos en describir sus características. Conservar la semilla permite disponer del material y conservar la documentación ayuda a averiguar qué se guardó, dónde se recogió y cómo se gestionó. Un científico necesitará ambos recursos para decidir qué probar, cómo cultivarlo y si una muestra sigue ofreciendo las características que busca. Un duplicado mejora las posibilidades de recuperación. Identificar y multiplicar una línea sigue dependiendo de las instituciones que guardan los registros y conocen su historia."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · www.seedvault.no",
+      "url": "https://www.seedvault.no/about/the-facility/"
+    },
+    {
+      "label": "Fuente · www.seedvault.no",
+      "url": "https://www.seedvault.no/about/purpose-operations-and-organisation/"
+    },
+    {
+      "label": "Fuente · www.seedvault.no",
+      "url": "https://www.seedvault.no/about/the-seeds/"
+    },
+    {
+      "label": "Fuente · www.fao.org",
+      "url": "https://www.fao.org/plant-treaty/news/news-detail/global-cooperation-brings-more-crop-diversity-to-the-svalbard-global-seed-vault/"
+    },
+    {
+      "label": "Fuente · www.seedvault.no",
+      "url": "https://www.seedvault.no/2017/10/27/icarda-seeds-safe-back-in-lebanon-and-morocco/"
+    },
+    {
+      "label": "Fuente · www.seedvault.no",
+      "url": "https://www.seedvault.no/about/history/"
+    },
+    {
+      "label": "Fuente · www.croptrust.org",
+      "url": "https://www.croptrust.org/what-we-do/programs/svalbard-global-seed-vault/faqs/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Se pueden visitar las cámaras?",
+      "answer": "Se puede ver el exterior. El acceso a las cámaras se limita al funcionamiento de la instalación."
+    },
+    {
+      "question": "¿Quién puede retirar semillas?",
+      "answer": "La institución depositante conserva el control de su material y puede solicitar la devolución de sus propias muestras."
+    },
+    {
+      "question": "¿Están representados todos los cultivos alimentarios?",
+      "answer": "La colección depende de los depósitos y de si cada tipo de material admite el almacenamiento en frío y seco."
+    }
+  ],
+  "readingTimeMinutes": 6
+}

@@ -8,6 +8,142 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV17_FEATURE_482]]": {
+    "caption": "Japan’s ageing in three measures",
+    "headers": [
+      "Measure",
+      "Value",
+      "Reference period"
+    ],
+    "rows": [
+      [
+        "Population aged 65 and over",
+        "36.24 million (29.6%)",
+        "September 2026"
+      ],
+      [
+        "Workers aged 65 and over",
+        "9.43 million",
+        "2025"
+      ],
+      [
+        "Share aged 65 and over, medium projection",
+        "38.7%",
+        "2070"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_FEATURE_483]]": {
+    "caption": "Uruguay’s electricity generation in 2025",
+    "headers": [
+      "Source",
+      "Share"
+    ],
+    "rows": [
+      [
+        "Hydropower",
+        "46%"
+      ],
+      [
+        "Wind",
+        "34%"
+      ],
+      [
+        "Biomass",
+        "14%"
+      ],
+      [
+        "Solar",
+        "4%"
+      ],
+      [
+        "Fossil sources",
+        "2%"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_FEATURE_484]]": {
+    "caption": "Svalbard’s backup system in practice",
+    "headers": [
+      "Milestone",
+      "What it shows"
+    ],
+    "rows": [
+      [
+        "February 2008",
+        "Vault opens in Svalbard"
+      ],
+      [
+        "2017",
+        "ICARDA redeposits more than 20,000 accessions"
+      ],
+      [
+        "October 2026",
+        "21 institutions deposit 16,676 seed samples"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_FEATURE_485]]": {
+    "caption": "Three kinds of evidence about Himba life",
+    "headers": [
+      "Evidence",
+      "What it helps explain"
+    ],
+    "rows": [
+      [
+        "Pastoral fieldwork",
+        "How households organise grazing, school and work"
+      ],
+      [
+        "Observations of otjize preparation",
+        "How ochre and clarified milk fat are used"
+      ],
+      [
+        "Controlled tests",
+        "How particular ochre samples filter ultraviolet radiation"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV17_FEATURE_486]]": {
+    "caption": "Milestones in Japan’s modern Ainu policy",
+    "headers": [
+      "Year",
+      "Measure"
+    ],
+    "rows": [
+      [
+        "1899",
+        "Hokkaido assimilation-era law"
+      ],
+      [
+        "1997",
+        "Ainu Cultural Promotion Act"
+      ],
+      [
+        "2008",
+        "Parliament calls for Indigenous recognition"
+      ],
+      [
+        "2019",
+        "Ainu Policy Promotion Act recognises the Ainu as Indigenous"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV16_NEWS_478]]": {
     "caption": "Alibaba’s published launch specifications",
     "headers": [

@@ -1,0 +1,189 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/uruguay-98-percent-renewable-electricity/",
+  "path": "/es/articles/uruguay-98-percent-renewable-electricity/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "URUGUAY, EL PAÍS QUE GENERA EL 98 % DE SU ELECTRICIDAD CON RENOVABLES",
+  "seoTitle": "Uruguay: el 98 % de su electricidad fue renovable en 2025",
+  "description": "La hidráulica, el viento, la biomasa y el sol aportaron el 98 % de la generación eléctrica uruguaya en 2025. Cómo se transformó el sistema.",
+  "excerpt": "La hidráulica, el viento, la biomasa y el sol aportaron el 98 % de la generación eléctrica uruguaya en 2025. Cómo se transformó el sistema.",
+  "headlineHighlights": {
+    "red": "URUGUAY",
+    "gold": "98 %"
+  },
+  "keywords": [
+    "URUGUAY",
+    "98 %"
+  ],
+  "searchIntent": "La hidráulica, el viento, la biomasa y el sol aportaron el 98 % de la generación eléctrica uruguaya en 2025. Cómo se transformó el sistema.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/uruguay-98-percent-renewable-electricity.jpg",
+    "alt": "Ilustración de la bandera uruguaya frente a aerogeneradores",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Uruguay aportó 13.040 gigavatios hora a su sistema eléctrico interconectado en 2025. Según el balance anual del Gobierno, el 98 % de esa generación fue de origen renovable. La hidráulica aportó el 46 %, la eólica el 34 %, la biomasa el 14 % y la solar el 4 %. Las fuentes fósiles cubrieron el 2 % restante. El dato abarca un año entero, tanto los periodos de producción alta como los de producción baja. Para interpretarlo, importa saber qué se midió y en qué año. [Fuente · www.gub.uy](https://www.gub.uy/presidencia/comunicacion/noticias/2025-98-generacion-electrica-uruguay-fue-origen-renovable) [Fuente · www.gub.uy](https://www.gub.uy/presidencia/comunicacion/noticias/directora-energia-destaco-crecimiento-sostenido-movilidad-electrica-2025)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué abarca el 98 %"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_FEATURE_483]]",
+      "caption": "La generación eléctrica de Uruguay en 2025",
+      "headings": [
+        "Fuente",
+        "Cuota"
+      ],
+      "rows": [
+        [
+          "Hidráulica",
+          "46 %"
+        ],
+        [
+          "Eólica",
+          "34 %"
+        ],
+        [
+          "Biomasa",
+          "14 %"
+        ],
+        [
+          "Solar",
+          "4 %"
+        ],
+        [
+          "Fuentes fósiles",
+          "2 %"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La proporción mide el origen de la electricidad generada para el sistema interconectado en 2025. Los combustibles que se queman directamente en coches, barcos, fábricas o edificios pertenecen a un balance energético más amplio. La electricidad generada en Uruguay tampoco equivale a la que se consume allí. La Presidencia informó de que el país exportó el 8 % de su generación de ese año. Las importaciones y las exportaciones se contabilizan por separado para determinar cuánta electricidad estuvo disponible para los consumidores locales. [Fuente · www.gub.uy](https://www.gub.uy/presidencia/comunicacion/noticias/2025-98-generacion-electrica-uruguay-fue-origen-renovable)"
+    },
+    {
+      "type": "subheading",
+      "text": "De los gigavatios a los gigavatios hora"
+    },
+    {
+      "type": "paragraph",
+      "text": "El gigavatio es una unidad de potencia. Sirve, por ejemplo, para expresar lo que una instalación puede producir a pleno rendimiento. El gigavatio hora mide la electricidad generada o utilizada a lo largo de un periodo. Dos años con la misma capacidad eólica pueden dar cantidades distintas de electricidad según el viento y el tiempo que paren las máquinas. Algo parecido sucede con una central hidráulica si cambia el agua que llega al embalse. La tabla de generación no indica el reparto de la capacidad instalada, y anunciar un parque no permite calcular por sí solo su aportación futura."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo transformó Uruguay su sistema eléctrico"
+    },
+    {
+      "type": "paragraph",
+      "text": "La transición se apoyó en centrales hidroeléctricas que ya existían. La política energética aprobada en 2008 fijó una orientación a largo plazo y promovió los recursos renovables del país. El regulador destaca el papel de los contratos de compraventa de electricidad adjudicados mediante licitación. La empresa pública UTE ofreció a los productores un comprador con un horizonte más largo que el del mercado diario. Según la Agencia Internacional de la Energía, un decreto de 2009 abrió una subasta para incorporar 150 MW eólicos y contempló una fase posterior. Se trata de la capacidad ofrecida en una licitación histórica. [Fuente · www.gub.uy](https://www.gub.uy/unidad-reguladora-servicios-energia-agua/comunicacion/noticias/experiencias-reales-promocion-renovables-sistema-electrico-soberania) [Fuente · www.iea.org](https://www.iea.org/policies/5277-windpower-)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué importa el contrato"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un promotor necesita financiación años antes de vender su primera electricidad. Un contrato a largo plazo permite al prestamista evaluar mejor los posibles ingresos. La licitación facilita comparar ofertas bajo las mismas condiciones, y el adjudicatario puede decidir con más seguridad sobre terrenos, equipos y obras. El precio y el reparto de riesgos siguen siendo importantes. El comprador debe cumplir sus compromisos y la red debe aceptar la electricidad en el lugar y a la hora en que se genera. Una oferta barata no construye las líneas de transmisión."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo se complementan las fuentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "La hidráulica fue la primera fuente de generación en 2025 y la eólica encabezó el resto de las renovables. Los aerogeneradores dependen del tiempo, mientras que los paneles siguen el ciclo diario y la nubosidad. Algunas centrales hidráulicas pueden reservar agua para más tarde dentro de los límites de almacenamiento, del río y de la operación. Una central de biomasa puede producir cuando dispone de materia prima, en horarios diferentes a los del viento y el sol. La utilidad del conjunto se aprecia a lo largo del día y de las estaciones. [Fuente · www.gub.uy](https://www.gub.uy/presidencia/comunicacion/noticias/2025-98-generacion-electrica-uruguay-fue-origen-renovable)"
+    },
+    {
+      "type": "subheading",
+      "text": "Equilibrar la red cada hora"
+    },
+    {
+      "type": "paragraph",
+      "text": "La oferta y la demanda tienen que coincidir en todo momento. Un día ventoso con los embalses llenos presenta condiciones muy distintas a una racha seca y en calma. Los intercambios con los vecinos ayudan si los excedentes y los déficits no coinciden. Las centrales térmicas nacionales ofrecen otro recurso y pueden seguir disponibles aunque su peso anual sea pequeño. Cada interconexión tiene una capacidad máxima, y los vecinos pueden sufrir escasez al mismo tiempo."
+    },
+    {
+      "type": "heading",
+      "text": "Qué haría falta para repetir el 98 %"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada año cambian la demanda, la lluvia, el viento, el mantenimiento y el comercio eléctrico. El propio Gobierno observó una variación considerable en las emisiones mensuales por unidad de electricidad en 2025. Una sequía reduce la producción hidráulica aunque sigan funcionando los mismos embalses. Con una demanda creciente, mantener una cuota renovable alta puede exigir más generación, mejores líneas o un cambio en los horarios de consumo. Para valorar la fiabilidad hacen falta datos de las horas más difíciles. [Fuente · www.gub.uy](https://www.gub.uy/presidencia/comunicacion/noticias/2025-98-generacion-electrica-uruguay-fue-origen-renovable)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿La biomasa está libre de emisiones?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante la combustión de biomasa se puede emitir dióxido de carbono. Su efecto neto depende del combustible, de lo que habría pasado con ese material, del uso del suelo y del periodo estudiado. La hidráulica y la eólica también tienen efectos materiales y ambientales que no figuran en el porcentaje anual de generación fósil. La cuota renovable aporta una parte de la información necesaria para evaluar los impactos."
+    },
+    {
+      "type": "heading",
+      "text": "El siguiente desafío está fuera de las centrales"
+    },
+    {
+      "type": "paragraph",
+      "text": "La electricidad puede sustituir al petróleo en vehículos, edificios y procesos industriales. Hacen falta puntos de carga, equipos, financiación y redes capaces de aceptar las nuevas cargas. Si todos los vehículos de un depósito se conectan a la vez al anochecer, la demanda será distinta de la de un depósito que reparte la carga durante la noche. El regulador uruguayo considera que extender la transición más allá del sector eléctrico plantea un desafío propio. Véase también [la cobertura de PRESDA sobre los centros de datos de Samsung](/articles/samsung-ai-data-center-expansion/). [Fuente · www.gub.uy](https://www.gub.uy/unidad-reguladora-servicios-energia-agua/comunicacion/noticias/experiencias-reales-promocion-renovables-sistema-electrico-soberania)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué pueden aprender otros países"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una red con pocos embalses o poco conectada con sus vecinos necesita otras vías para equilibrar oferta y demanda. Una empresa pública también debe poder convocar licitaciones fiables, planificar la transmisión y coordinar la entrada en servicio de las nuevas instalaciones. Para examinar cualquier cifra de electricidad limpia, conviene preguntar qué mide, de qué año procede y en qué condiciones se produjo. Un año excepcional muestra lo que fue posible en esas condiciones. Los datos de un año difícil ayudan a entender el funcionamiento del sistema bajo presión. [Fuente · www.gub.uy](https://www.gub.uy/unidad-reguladora-servicios-energia-agua/comunicacion/noticias/experiencias-reales-promocion-renovables-sistema-electrico-soberania)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para comparar dos años conviene leer los gigavatios hora junto con los porcentajes. Con una demanda alta, la electricidad renovable puede crecer en volumen y perder cuota si otras fuentes aumentan más deprisa. Con una demanda a la baja, la cuota puede subir sin que se instale un solo aerogenerador. Los intercambios también tienen una dimensión horaria. El dato anual de exportación no dice en qué momentos hubo un excedente o si se recurrió a los vecinos en otra parte del año. Esas distinciones permiten seguir la evolución del sistema después de 2025."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · www.gub.uy",
+      "url": "https://www.gub.uy/presidencia/comunicacion/noticias/2025-98-generacion-electrica-uruguay-fue-origen-renovable"
+    },
+    {
+      "label": "Fuente · www.gub.uy",
+      "url": "https://www.gub.uy/presidencia/comunicacion/noticias/directora-energia-destaco-crecimiento-sostenido-movilidad-electrica-2025"
+    },
+    {
+      "label": "Fuente · www.gub.uy",
+      "url": "https://www.gub.uy/unidad-reguladora-servicios-energia-agua/comunicacion/noticias/experiencias-reales-promocion-renovables-sistema-electrico-soberania"
+    },
+    {
+      "label": "Fuente · www.iea.org",
+      "url": "https://www.iea.org/policies/5277-windpower-"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Las renovables aportaron el 98 % de toda la energía?",
+      "answer": "El dato cubre la generación eléctrica del sistema interconectado de 2025. El balance energético general incluye el uso directo de combustibles."
+    },
+    {
+      "question": "¿Cuál fue la mayor fuente de electricidad renovable en 2025?",
+      "answer": "La hidráulica aportó el 46 % de la generación, seguida de la eólica con un 34 %."
+    },
+    {
+      "question": "¿Puede cambiar la cifra de un año a otro?",
+      "answer": "Sí. La hidrología, el tiempo, la demanda, el mantenimiento y los intercambios cambian la mezcla anual."
+    }
+  ],
+  "readingTimeMinutes": 6
+}

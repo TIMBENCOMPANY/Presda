@@ -1,0 +1,189 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/uruguay-98-percent-renewable-electricity/",
+  "path": "/fr/articles/uruguay-98-percent-renewable-electricity/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "L’URUGUAY, LE PAYS QUI PRODUIT 98 % DE SON ÉLECTRICITÉ À PARTIR DE RENOUVELABLES",
+  "seoTitle": "Uruguay : 98 % d’électricité renouvelable en 2025",
+  "description": "Hydraulique, éolien, biomasse et solaire ont fourni 98 % de la production électrique uruguayenne en 2025. Comment le pays a transformé son réseau.",
+  "excerpt": "Hydraulique, éolien, biomasse et solaire ont fourni 98 % de la production électrique uruguayenne en 2025. Comment le pays a transformé son réseau.",
+  "headlineHighlights": {
+    "red": "URUGUAY",
+    "gold": "98 %"
+  },
+  "keywords": [
+    "URUGUAY",
+    "98 %"
+  ],
+  "searchIntent": "Hydraulique, éolien, biomasse et solaire ont fourni 98 % de la production électrique uruguayenne en 2025. Comment le pays a transformé son réseau.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/uruguay-98-percent-renewable-electricity.jpg",
+    "alt": "Illustration du drapeau uruguayen devant des éoliennes",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En 2025, l’Uruguay a injecté 13 040 gigawattheures dans son système électrique interconnecté. D’après le bilan du gouvernement, 98 % de cette production provenait de sources renouvelables. L’hydraulique a fourni 46 %, l’éolien 34 %, la biomasse 14 % et le solaire 4 %. Les sources fossiles ont fourni les 2 % restants. Ce résultat couvre une année entière, avec ses périodes de forte production et ses creux. Pour comprendre ce qu’il signifie, il faut retenir l’année et le périmètre du calcul. [Source · www.gub.uy](https://www.gub.uy/presidencia/comunicacion/noticias/2025-98-generacion-electrica-uruguay-fue-origen-renovable) [Source · www.gub.uy](https://www.gub.uy/presidencia/comunicacion/noticias/directora-energia-destaco-crecimiento-sostenido-movilidad-electrica-2025)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que mesurent les 98 %"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_FEATURE_483]]",
+      "caption": "La production électrique de l’Uruguay en 2025",
+      "headings": [
+        "Source",
+        "Part"
+      ],
+      "rows": [
+        [
+          "Hydraulique",
+          "46 %"
+        ],
+        [
+          "Éolien",
+          "34 %"
+        ],
+        [
+          "Biomasse",
+          "14 %"
+        ],
+        [
+          "Solaire",
+          "4 %"
+        ],
+        [
+          "Sources fossiles",
+          "2 %"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Le chiffre décrit l’origine de l’électricité produite pour le réseau interconnecté en 2025. Le carburant consommé par les voitures, les navires, les usines ou les bâtiments relève d’un bilan énergétique plus large. Il faut aussi distinguer production nationale et consommation intérieure. Selon la présidence, l’Uruguay a exporté 8 % de l’électricité qu’il a produite cette année-là. Les importations et les exportations interviennent séparément dans le calcul de ce qui est disponible pour les usagers du pays. [Source · www.gub.uy](https://www.gub.uy/presidencia/comunicacion/noticias/2025-98-generacion-electrica-uruguay-fue-origen-renovable)"
+    },
+    {
+      "type": "subheading",
+      "text": "Du gigawatt au gigawattheure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le gigawatt mesure une puissance, par exemple celle d’une installation à pleine capacité. Le gigawattheure mesure une énergie produite ou utilisée pendant un certain temps. Des éoliennes de même puissance peuvent fournir des quantités différentes d’une année à l’autre selon le vent et les arrêts. Le débit des cours d’eau et le remplissage des réservoirs jouent un rôle semblable pour les barrages. Un bilan de production ne donne donc pas la répartition des équipements installés. L’annonce d’un parc ne suffit pas davantage à prédire sa contribution l’année suivante."
+    },
+    {
+      "type": "heading",
+      "text": "Comment l’Uruguay a transformé son réseau"
+    },
+    {
+      "type": "paragraph",
+      "text": "La transition actuelle s’est appuyée sur des installations hydroélectriques existantes. En 2008, la politique énergétique nationale a fixé une orientation de long terme et mis en avant les ressources renouvelables du pays. L’autorité de régulation souligne le rôle des contrats d’achat d’électricité attribués par appel d’offres. UTE, l’entreprise publique, a donné aux producteurs un acheteur pour un horizon plus long que celui du marché quotidien. Selon l’Agence internationale de l’énergie, un décret de 2009 a ouvert une enchère pour 150 MW de projets éoliens, avec une phase supplémentaire envisagée. Ces chiffres décrivent une procédure historique, dont le périmètre diffère de celui du parc actuel. [Source · www.gub.uy](https://www.gub.uy/unidad-reguladora-servicios-energia-agua/comunicacion/noticias/experiencias-reales-promocion-renovables-sistema-electrico-soberania) [Source · www.iea.org](https://www.iea.org/policies/5277-windpower-)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi le contrat compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un promoteur doit financer son parc des années avant sa première vente. Un contrat de longue durée permet au prêteur de mieux évaluer les recettes. La mise en concurrence rend les offres comparables, et l’attribution du contrat donne davantage de visibilité sur le terrain, les commandes et le chantier. Reste à fixer le prix et à répartir les risques. Il faut notamment un acheteur qui puisse tenir ses engagements et un réseau capable d’accueillir la production au bon endroit et au bon moment. Un bon prix d’achat ne construit pas une ligne électrique."
+    },
+    {
+      "type": "heading",
+      "text": "Des sources qui se complètent"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’hydraulique est arrivée en tête en 2025 et l’éolien a fourni la plus grande part des autres renouvelables. Les éoliennes dépendent du vent, les panneaux du jour et de la couverture nuageuse. Certaines centrales hydrauliques peuvent retenir de l’eau pour produire plus tard, dans les limites imposées par le stockage, le fleuve et l’exploitation. Une centrale à biomasse dont le combustible est disponible peut fonctionner à d’autres heures. L’intérêt du mélange apparaît donc au fil des heures et des saisons. [Source · www.gub.uy](https://www.gub.uy/presidencia/comunicacion/noticias/2025-98-generacion-electrica-uruguay-fue-origen-renovable)"
+    },
+    {
+      "type": "subheading",
+      "text": "Équilibrer la demande à toute heure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le réseau doit équilibrer l’offre et la demande en permanence. Une journée venteuse avec des réservoirs bien remplis diffère d’une période sèche sans vent. Le commerce avec les voisins est utile si excédents et déficits surviennent à des moments différents. Les centrales thermiques nationales offrent un autre recours. Elles peuvent rester disponibles tout en fournissant une petite part de la production annuelle. Les interconnexions ont une capacité limitée et les pays voisins peuvent connaître leurs propres pénuries."
+    },
+    {
+      "type": "heading",
+      "text": "De quoi dépendrait un nouveau résultat à 98 % ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La demande, la pluie, le vent, les arrêts pour entretien et les échanges modifient le bilan d’une année à l’autre. Le gouvernement a signalé d’importantes variations des émissions mensuelles par unité d’électricité en 2025. Les mêmes barrages produisent moins quand l’eau manque. Si la demande monte, garder une forte part renouvelable peut nécessiter de nouvelles centrales, un réseau renforcé ou une autre répartition des usages dans la journée. Pour connaître la fiabilité du système, il faut regarder ce qui se passe heure par heure pendant les périodes où la production est faible. [Source · www.gub.uy](https://www.gub.uy/presidencia/comunicacion/noticias/2025-98-generacion-electrica-uruguay-fue-origen-renovable)"
+    },
+    {
+      "type": "subheading",
+      "text": "La biomasse est-elle sans émissions ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La biomasse peut libérer du dioxyde de carbone pendant la combustion. Son bilan dépend de la matière utilisée, de ce qu’elle serait devenue, de l’usage des terres et de la période considérée. L’hydraulique et l’éolien ont eux aussi des effets matériels et écologiques que la part annuelle de production fossile ne mesure pas. Le bilan électrique apporte donc un élément à l’évaluation climatique et environnementale."
+    },
+    {
+      "type": "heading",
+      "text": "Le prochain défi se joue hors des centrales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des véhicules, des bâtiments et des procédés industriels peuvent remplacer des produits pétroliers par l’électricité. Cela demande des équipements adaptés, des financements, des bornes et un réseau capable d’absorber de nouveaux usages. Un dépôt où tous les véhicules se branchent chaque soir au même moment sollicite le réseau autrement qu’un site qui décale les recharges pendant la nuit. L’autorité de régulation considère cette extension au-delà du secteur électrique comme une étape à part entière. Voir aussi [le dossier de PRESDA sur les centres de données de Samsung](/articles/samsung-ai-data-center-expansion/). [Source · www.gub.uy](https://www.gub.uy/unidad-reguladora-servicios-energia-agua/comunicacion/noticias/experiencias-reales-promocion-renovables-sistema-electrico-soberania)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que d’autres pays peuvent retenir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un pays disposant de peu de réservoirs ou mal relié à ses voisins aura besoin d’autres solutions pour équilibrer son réseau. L’entreprise publique doit pouvoir organiser des appels d’offres crédibles, planifier le transport et faire coïncider les mises en service des centrales et des lignes. Pour lire un chiffre sur l’électricité propre, il faut donc vérifier ce qu’il mesure, l’année et la situation des réservoirs et du vent. Une très bonne année renseigne sur ce qui a été possible dans certaines conditions. La solidité du système se mesure aussi quand ces conditions se dégradent. [Source · www.gub.uy](https://www.gub.uy/unidad-reguladora-servicios-energia-agua/comunicacion/noticias/experiencias-reales-promocion-renovables-sistema-electrico-soberania)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour comparer deux années, mieux vaut lire les volumes en gigawattheures avec les pourcentages. Une année de forte demande peut voir la production renouvelable augmenter en volume alors que sa part recule. À l’inverse, une baisse de consommation peut faire progresser la proportion sans ajout de turbines ou de panneaux. Le même principe s’applique aux échanges. Un bilan annuel comptabilise des exportations, mais un système peut aussi importer à d’autres moments pour répondre à la demande. Ces distinctions permettent de comprendre le résultat de 2025 et de mesurer ce qui change l’année suivante."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · www.gub.uy",
+      "url": "https://www.gub.uy/presidencia/comunicacion/noticias/2025-98-generacion-electrica-uruguay-fue-origen-renovable"
+    },
+    {
+      "label": "Source · www.gub.uy",
+      "url": "https://www.gub.uy/presidencia/comunicacion/noticias/directora-energia-destaco-crecimiento-sostenido-movilidad-electrica-2025"
+    },
+    {
+      "label": "Source · www.gub.uy",
+      "url": "https://www.gub.uy/unidad-reguladora-servicios-energia-agua/comunicacion/noticias/experiencias-reales-promocion-renovables-sistema-electrico-soberania"
+    },
+    {
+      "label": "Source · www.iea.org",
+      "url": "https://www.iea.org/policies/5277-windpower-"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Les renouvelables ont-elles fourni 98 % de toute l’énergie uruguayenne ?",
+      "answer": "Le chiffre couvre la production électrique du réseau interconnecté en 2025. Le bilan énergétique global inclut aussi les usages directs de combustibles."
+    },
+    {
+      "question": "Quelle était la première source d’électricité renouvelable en 2025 ?",
+      "answer": "L’hydraulique a fourni 46 % de la production, devant l’éolien à 34 %."
+    },
+    {
+      "question": "La part peut-elle changer d’une année à l’autre ?",
+      "answer": "Oui. L’hydrologie, la météo, la demande, la maintenance et les échanges modifient le bilan annuel."
+    }
+  ],
+  "readingTimeMinutes": 6
+}

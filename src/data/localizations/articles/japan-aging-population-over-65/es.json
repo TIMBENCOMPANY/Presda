@@ -1,0 +1,185 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/japan-aging-population-over-65/",
+  "path": "/es/articles/japan-aging-population-over-65/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-17",
+    "terminologyChecked": true
+  },
+  "title": "LA CRISIS DEMOGRÁFICA DE JAPÓN: CASI EL 30 % DE LA POBLACIÓN TIENE 65 AÑOS O MÁS",
+  "seoTitle": "Envejecimiento de Japón: el 29,6 % tiene 65 años o más",
+  "description": "En septiembre de 2026, el 29,6 % de la población de Japón tenía 65 años o más. Qué dicen las cifras sobre el empleo, los cuidados y el horizonte de 2070.",
+  "excerpt": "En septiembre de 2026, el 29,6 % de la población de Japón tenía 65 años o más. Qué dicen las cifras sobre el empleo, los cuidados y el horizonte de 2070.",
+  "headlineHighlights": {
+    "red": "JAPÓN",
+    "gold": "30 %"
+  },
+  "keywords": [
+    "JAPÓN",
+    "30 %"
+  ],
+  "searchIntent": "En septiembre de 2026, el 29,6 % de la población de Japón tenía 65 años o más. Qué dicen las cifras sobre el empleo, los cuidados y el horizonte de 2070.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "image": {
+    "src": "/articles/japan-aging-population-over-65.jpg",
+    "alt": "Ilustración de peatones mayores junto a cerezos en flor y una pagoda en Japón",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El 15 de septiembre de 2026 vivían en Japón, según las estimaciones oficiales, 36,24 millones de personas de 65 años o más. Representaban el 29,6 % de la población, el porcentaje más alto de la serie que publica la Oficina de Estadística con motivo del Día del Respeto a las Personas Mayores. El umbral incluye a quienes acaban de cumplir los 65. El cálculo toma como referencia a toda la población. Si los grupos más jóvenes se reducen, el porcentaje puede subir incluso cuando el número de personas mayores cambia poco o empieza a caer. [Fuente · www.stat.go.jp](https://www.stat.go.jp/data/topics/topi1490.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué significa ese casi 30 %"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV17_FEATURE_482]]",
+      "caption": "El envejecimiento de Japón en tres cifras",
+      "headings": [
+        "Indicador",
+        "Valor",
+        "Periodo"
+      ],
+      "rows": [
+        [
+          "Población de 65 años o más",
+          "36,24 millones (29,6 %)",
+          "Septiembre de 2026"
+        ],
+        [
+          "Ocupados de 65 años o más",
+          "9,43 millones",
+          "2025"
+        ],
+        [
+          "Población de 65 años o más, escenario medio",
+          "38,7 %",
+          "2070"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Pensemos en un pueblo de mil habitantes con la misma distribución por edad que Japón. Unas 296 personas tendrían 65 años o más. Harían falta otras cifras para saber cuántas han dejado de trabajar, necesitan ayuda o viven cerca de su familia. Esa distinción también importa en las comparaciones internacionales. Japón ocupó el primer puesto entre los 39 países que incluyó la Oficina de Estadística. El resultado se refiere a ese conjunto, que no abarca todos los países y territorios. [Fuente · www.stat.go.jp](https://www.stat.go.jp/data/topics/topi1490.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Cómo pueden divergir la proporción y el número de habitantes"
+    },
+    {
+      "type": "paragraph",
+      "text": "El boletín de septiembre cuenta unas 20.000 personas mayores más que en la estimación que toma como referencia para el año anterior. En ese intervalo, el porcentaje pasó del 29,4 % al 29,6 %. Las publicaciones anteriores pueden dar totales distintos para una misma fecha porque las estimaciones se revisan. El aumento porcentual muestra cómo está cambiando la estructura por edades. Para planificar servicios conviene leer ambas cifras. Las proporciones apuntan a cambios en la población y la base fiscal. Los totales permiten estimar cuántas consultas, plazas o profesionales harán falta. [Fuente · www.stat.go.jp](https://www.stat.go.jp/data/topics/topi1490.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo llegó Japón hasta aquí"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el envejecimiento confluyen varios cambios. Más personas llegan a edades avanzadas, las generaciones numerosas pasan juntas de un tramo de edad a otro y las que vienen detrás son menos numerosas. El auge de nacimientos de la posguerra dio lugar a una generación amplia que acabó superando el umbral de los 65 años. Al cruzar ese límite, la estructura cambia aunque nadie entre al país ni salga de él. Para recuperar el perfil anterior harían falta nuevas generaciones capaces de reponer los grupos jóvenes. El libro blanco de la Oficina del Gabinete documenta esa transformación a lo largo de décadas. [Fuente · www8.cao.go.jp](https://www8.cao.go.jp/kourei/whitepaper/w-2026/html/zenbun/s1_1_1.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué mide la tasa de fecundidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Ministerio de Salud, Trabajo y Bienestar estimó una tasa global de fecundidad de 1,14 en 2025. El indicador combina las tasas de nacimientos por edad de ese año para calcular el número hipotético de hijos durante una vida. Sirve para comparar años y países, pero no dice cuántos hijos tiene una familia concreta ni cuántos tendrán quienes ahora rondan los veinte años. También importa cuántas personas están en las edades en las que tener hijos es más frecuente. Por eso la fecundidad puede recuperarse y, aun así, seguir habiendo pocos nacimientos durante varios años. [Fuente · www.mhlw.go.jp](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei25/dl/04_houdouR07.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los plazos importan. Las ayudas para el cuidado infantil o una mayor estabilidad laboral pueden facilitar hoy las decisiones de muchas familias. Quienes nazcan este año no cubrirán los puestos de cuidados vacantes el año próximo. Las medidas que pueden modificar la estructura demográfica a largo plazo tienen un calendario distinto al de las que ayudan a las familias y los empleadores durante la transición."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo es trabajar a una edad avanzada"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según la encuesta de población activa que cita el boletín de septiembre, en 2025 trabajaban 9,43 millones de personas de 65 años o más, equivalentes al 13,8 % de todos los ocupados. Entre los asalariados de esa edad, descontados los cargos directivos, el 76,1 % tenía un empleo no regular. El primer dato toma como referencia a todas las personas ocupadas. El segundo se limita a un grupo de asalariados y deja fuera a los trabajadores por cuenta propia. Conocer la edad de alguien dice poco sobre si trabaja o sobre la calidad y las condiciones de su empleo. [Fuente · www.stat.go.jp](https://www.stat.go.jp/data/topics/topi1490.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Aprovechar la experiencia y conservar la capacidad de elegir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un empleado mayor puede querer una jornada más corta, un horario previsible o una tarea que aproveche sus conocimientos sin exigirle levantar cargas pesadas. Una empresa puede reorganizar los puestos o incorporar herramientas que reduzcan el esfuerzo físico. Eso ayuda a conservar a quienes desean seguir trabajando y beneficia a compañeros más jóvenes que hacen las mismas tareas. El objetivo es ampliar las opciones de quienes pueden continuar y también de quienes necesitan dejar el trabajo o cuidar de alguien cercano."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo se nota el cambio en los cuidados y servicios"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un barrio puede necesitar cada vez más visitas a domicilio mientras pierde conductores, cuidadores y personal de apoyo. El problema se agrava allí donde las viviendas están dispersas. En un pueblo pequeño puede haber poca gente que necesite atención, pero cada visita exigir un trayecto largo. En una zona densa ocurre otra cosa: un mismo edificio puede concentrar a muchas personas que requieren servicios y contar con pocas viviendas accesibles o lugares donde reunirse."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Oficina del Gabinete distingue el conjunto de personas de 65 años o más de otros grupos, como el de 75 años o más. La categoría amplia reúne situaciones muy distintas de salud, empleo y convivencia. Un servicio útil para alguien activo de 68 años puede servir de poco a una persona de 85 que no puede desplazarse al centro de salud. Planificar implica traducir las cifras en preguntas sobre vivienda, transporte, descanso de los familiares cuidadores y disponibilidad de profesionales. [Fuente · www8.cao.go.jp](https://www8.cao.go.jp/kourei/whitepaper/w-2026/html/zenbun/s1_1_1.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo interpretar la proyección para 2070"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Instituto Nacional de Investigación sobre Población y Seguridad Social proyectó en 2023 que Japón tendría 87 millones de residentes en 2070 y que el 38,7 % tendría al menos 65 años en su escenario de fecundidad y mortalidad intermedias. El modelo parte del censo de 2020 y aplica supuestos sobre nacimientos, defunciones y migración. Cambiar esos supuestos cambia el resultado. La proyección contiene menos personas mayores en 2070 que en la estimación de 2026, aunque representen una parte mayor de una población total considerablemente menor. [Fuente · www.ipss.go.jp](https://www.ipss.go.jp/pp-zenkoku/e/zenkoku_e2023/pp2023e_Summary.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tarea inmediata de los gobiernos y empleadores es adaptar los servicios y las condiciones de trabajo mientras la población atraviesa la transición. El perfil demográfico describe quién vive hoy en Japón. La encuesta laboral indica quién trabaja y el escenario a largo plazo estima qué podría pasar bajo determinadas condiciones. Para abordar el envejecimiento desde la biología, consulta [la guía de PRESDA sobre la ciencia del envejecimiento humano](/articles/anti-aging-can-we-slow-down-human-aging/)."
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué la pirámide de población no revela toda la demanda"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos municipios con el mismo porcentaje de personas mayores pueden tener necesidades muy diferentes. Cuántas viven solas, a qué distancia queda el hospital y cuántas viviendas son accesibles influye en la atención que se puede organizar. Si las autoridades miden el tiempo de desplazamiento de una visita domiciliaria y la longitud de las listas de espera junto con las estadísticas demográficas, podrán ver si los servicios alcanzan a quienes los necesitan aun cuando el porcentaje nacional apenas cambie."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · www.stat.go.jp",
+      "url": "https://www.stat.go.jp/data/topics/topi1490.html"
+    },
+    {
+      "label": "Fuente · www8.cao.go.jp",
+      "url": "https://www8.cao.go.jp/kourei/whitepaper/w-2026/html/zenbun/s1_1_1.html"
+    },
+    {
+      "label": "Fuente · www.mhlw.go.jp",
+      "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei25/dl/04_houdouR07.pdf"
+    },
+    {
+      "label": "Fuente · www.ipss.go.jp",
+      "url": "https://www.ipss.go.jp/pp-zenkoku/e/zenkoku_e2023/pp2023e_Summary.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué porcentaje de Japón tiene 65 años o más?",
+      "answer": "La Oficina de Estadística lo estimó en el 29,6 %, equivalente a 36,24 millones de personas, el 15 de septiembre de 2026."
+    },
+    {
+      "question": "¿Todas esas personas están jubiladas?",
+      "answer": "La oficina contabilizó 9,43 millones de personas ocupadas de 65 años o más en 2025."
+    },
+    {
+      "question": "¿Es una predicción la cifra de 2070?",
+      "answer": "Es un escenario basado en supuestos de fecundidad, mortalidad y migración."
+    }
+  ],
+  "readingTimeMinutes": 6
+}
