@@ -16,6 +16,84 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"morocco-independence-day-71-years-1955-2026": {
+  "afterBlock": 13,
+  "file": "morocco-mohammed-v-berkeley-1957.jpg",
+  "width": 640,
+  "height": 833,
+  "source": "https://commons.wikimedia.org/wiki/File:Mohammed_V_Morocco_1957.lowres.jpeg",
+  "credit": "Lawrence Berkeley National Laboratory / Wikimedia Commons",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "captions": {
+    "en": "Mohammed V during his visit to Lawrence Berkeley Laboratory on December 5, 1957. This documented visit followed independence; it is separate from the supplied signing image.",
+    "fr": "Mohammed V lors de sa visite au laboratoire Lawrence Berkeley le 5 décembre 1957. Cette visite documentée est postérieure à l’indépendance et distincte de l’image de signature fournie.",
+    "ar": "محمد الخامس خلال زيارته مختبر لورنس بيركلي في ٥ ديسمبر ١٩٥٧. هذه زيارة موثّقة بعد الاستقلال، وهي منفصلة عن صورة التوقيع المقدّمة.",
+    "es": "Mohamed V durante su visita al laboratorio Lawrence Berkeley el 5 de diciembre de 1957. La visita documentada fue posterior a la independencia y es distinta de la imagen de la firma."
+  }
+},
+"egypt-saqqara-250-ancient-coffins-discovery": {
+  "afterBlock": 12,
+  "file": "egypt-tabakenkhonsu-coffin-met.jpg",
+  "width": 3779,
+  "height": 3219,
+  "source": "https://commons.wikimedia.org/wiki/File:Outer_Coffin_of_Tabakenkhonsu_MET_1718.jpg",
+  "credit": "The Metropolitan Museum of Art, 96.4.1a, b / Wikimedia Commons",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "licenseLabel": "CC0",
+  "captions": {
+    "en": "The outer coffin of Tabakenkhonsu, about 680–670 BCE, in the Metropolitan Museum of Art. This comparative object is not one of the 250 coffins announced at Saqqara in 2022.",
+    "fr": "Cercueil extérieur de Tabakenkhonsou, vers 680–670 avant notre ère, au Metropolitan Museum of Art. Cet objet de comparaison ne provient pas des 250 cercueils annoncés à Saqqara en 2022.",
+    "ar": "التابوت الخارجي لتاباكنخونسو، نحو ٦٨٠–٦٧٠ قبل الميلاد، في متحف المتروبوليتان. هذا مثال للمقارنة وليس من توابيت سقارة الـ٢٥٠ المعلنة في ٢٠٢٢.",
+    "es": "Ataúd exterior de Tabakenkhonsu, hacia 680–670 a. C., en el Metropolitan Museum of Art. Es una comparación y no uno de los 250 ataúdes de Saqqara anunciados en 2022."
+  }
+},
+"battle-vertieres-haiti-napoleon-army-1803": {
+  "afterBlock": 8,
+  "file": "haiti-crete-pierrot-raffet-1839.jpg",
+  "width": 1395,
+  "height": 1032,
+  "source": "https://commons.wikimedia.org/wiki/File:Combat_et_prise_de_la_Cr%C3%AAte-%C3%A0-Pierrot_-_Auguste_Raffet.jpg",
+  "credit": "Auguste Raffet, engraving by Hébert, published 1839 / Wikimedia Commons",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "captions": {
+    "en": "An 1839 engraving after Auguste Raffet depicting the fighting at Crête-à-Pierrot in March 1802. It illustrates the earlier campaign, not the November 1803 Battle of Vertières.",
+    "fr": "Gravure publiée en 1839 d’après Auguste Raffet représentant les combats de la Crête-à-Pierrot en mars 1802. Elle évoque la campagne antérieure, et non Vertières en novembre 1803.",
+    "ar": "نقش منشور سنة ١٨٣٩ عن رسم لأوغوست رافيه يصوّر قتال كريت آ بييرو في مارس ١٨٠٢. يوضح مرحلة سابقة من الحملة، وليس معركة فيرتيير في نوفمبر ١٨٠٣.",
+    "es": "Grabado de 1839 a partir de Auguste Raffet que representa Crête-à-Pierrot en marzo de 1802. Ilustra una campaña anterior, no la batalla de Vertières de noviembre de 1803."
+  }
+},
+"merida-roman-wall-paintings-huerta-otero-2026": {
+  "afterBlock": 16,
+  "file": "merida-amphitheatre-paintings-nunez-2017.jpg",
+  "width": 4000,
+  "height": 3000,
+  "source": "https://commons.wikimedia.org/wiki/File:Pinturas_del_Podium_del_anfiteatro,_M%C3%A9rida,_Espa%C3%B1a,_2017.jpg",
+  "credit": "Benjamín Núñez González / Wikimedia Commons",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "licenseLabel": "CC BY-SA 4.0",
+  "captions": {
+    "en": "Paintings from Mérida’s amphitheatre podium, photographed in 2017. This museum example provides local context and is distinct from the newly exposed Huerta de Otero paintings.",
+    "fr": "Peintures du podium de l’amphithéâtre de Mérida, photographiées en 2017. Cet exemple muséal fournit un contexte local et se distingue des nouvelles peintures de Huerta de Otero.",
+    "ar": "رسوم منصة مدرّج ميريدا، في صورة من ٢٠١٧. يقدّم هذا المثال المتحفي سياقاً محلياً، وهو مختلف عن جداريات هويرتا دي أوتيرو التي كُشفت حديثاً.",
+    "es": "Pinturas del podio del anfiteatro de Mérida, fotografiadas en 2017. Este ejemplo de museo aporta contexto local y es distinto del nuevo hallazgo de Huerta de Otero."
+  }
+},
+"bagan-myanmar-ancient-kingdom-thousands-temples": {
+  "afterBlock": 10,
+  "file": "bagan-ananda-ye-phyo-paing-2017.jpg",
+  "width": 3309,
+  "height": 2206,
+  "source": "https://commons.wikimedia.org/wiki/File:Ananda_temple_in_bagan.jpg",
+  "credit": "Ye Phyo Paing / Wikimedia Commons",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "licenseLabel": "CC BY-SA 4.0",
+  "captions": {
+    "en": "Ananda Temple at Bagan, photographed by Ye Phyo Paing on July 7, 2017. The dated photograph documents an identifiable monument rather than current access or condition.",
+    "fr": "Le temple Ananda à Bagan, photographié par Ye Phyo Paing le 7 juillet 2017. Cette vue datée documente un monument identifiable sans établir son accès ou son état actuels.",
+    "ar": "معبد أناندا في باغان، صوّره يي فيو باينغ في ٧ يوليو ٢٠١٧. توثّق الصورة معلماً محدّداً في تاريخها، ولا تثبت حالته أو إمكان دخوله حالياً.",
+    "es": "Templo Ananda de Bagan, fotografiado por Ye Phyo Paing el 7 de julio de 2017. La imagen fechada documenta un monumento concreto y no su acceso o estado actuales."
+  }
+},
 "kindertransport-trains-saved-10000-children": {
   "afterBlock": 7,
   "file": "kindertransport-harwich-1938-bundesarchiv.jpg",

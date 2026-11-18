@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV18_HERITAGE_511]]": {
+    "caption": "Milestones in Morocco’s independence process. Sources: Moroccan government, French diplomatic archives and Spanish official gazette.",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "January 11, 1944",
+        "Presentation of the Independence Manifesto"
+      ],
+      [
+        "August 20, 1953",
+        "Removal and exile of Mohammed V"
+      ],
+      [
+        "November 18, 1955",
+        "Speech commemorated on Independence Day"
+      ],
+      [
+        "March 2 and April 7, 1956",
+        "French and Spanish recognition respectively"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV18_HERITAGE_512]]": {
+    "caption": "Reading the verified announcement. Sources: Egyptian Ministry of Tourism and Antiquities and State Information Service.",
+    "headers": [
+      "Evidence",
+      "What the record establishes"
+    ],
+    "rows": [
+      [
+        "Announcement",
+        "May 30, 2022, at Saqqara"
+      ],
+      [
+        "Coffins",
+        "250 closed painted wooden coffins"
+      ],
+      [
+        "Other principal group",
+        "150 bronze statues"
+      ],
+      [
+        "Chronology",
+        "Late Period, approximately 2,500 years ago"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV18_HERITAGE_513]]": {
+    "caption": "From revolution to independence. Sources: BnF, US Office of the Historian and Château de Joux.",
+    "headers": [
+      "Date",
+      "Event"
+    ],
+    "rows": [
+      [
+        "1791",
+        "Major uprising begins in Saint-Domingue"
+      ],
+      [
+        "1802",
+        "Leclerc’s expedition arrives; Louverture is deported"
+      ],
+      [
+        "November 18–19, 1803",
+        "Victory at Vertières and French capitulation"
+      ],
+      [
+        "January 1, 1804",
+        "Haitian independence declared"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV18_HERITAGE_514]]": {
+    "caption": "Huerta de Otero in context. Sources: UNESCO, Mérida City Council and the Consorcio excavation record.",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "25 BCE",
+        "Foundation of Augusta Emerita"
+      ],
+      [
+        "1976",
+        "Initial excavation at Huerta de Otero"
+      ],
+      [
+        "2019",
+        "Work resumes through the Barraeca programme"
+      ],
+      [
+        "November 17, 2026",
+        "City council confirms newly exposed peristyle paintings"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV18_HERITAGE_515]]": {
+    "caption": "Bagan’s historical and conservation timeline. Sources: Getty, UNESCO and the World Bank.",
+    "headers": [
+      "Period",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "Eleventh–thirteenth centuries",
+        "Peak of Bagan’s royal and monumental development"
+      ],
+      [
+        "1975 and 2016",
+        "Major damaging earthquakes"
+      ],
+      [
+        "2019",
+        "World Heritage inscription"
+      ],
+      [
+        "2026",
+        "Committee calls for continued post-2025 earthquake monitoring"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV18_RESILIENCE_506]]": {
     "caption": "A chronology of rescue and separation",
     "headers": [
