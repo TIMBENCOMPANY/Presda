@@ -6,6 +6,7 @@ const publicDomain = "https://creativecommons.org/publicdomain/mark/1.0/";
 type EvidencePhoto = {
   afterBlock: number;
   file: string;
+  localizedFiles?: Partial<Record<Locale, string>>;
   width: number;
   height: number;
   source: string;
@@ -16,6 +17,42 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"turkey-constitutional-court-prostitution-law-article-128-2026": {
+  "afterBlock": 7,
+  "file": "turkey-article-128-official-judgment-page1.png",
+  "width": 910,
+  "height": 1287,
+  "source": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf",
+  "credit": "Constitutional Court of Türkiye / Official Gazette, November 17, 2026",
+  "license": null,
+  "captions": {
+    "en": "First page of judgment E.2025/144, K.2026/164, published in Türkiye’s Official Gazette on November 17, 2026. This is a reproduced legal document, separate from the supplied hero illustration.",
+    "fr": "Première page de l’arrêt E.2025/144, K.2026/164, publié au Journal officiel turc le 17 novembre 2026. Ce document juridique reproduit est distinct de l’illustration d’ouverture fournie.",
+    "ar": "الصفحة الأولى من الحكم E.2025/144، K.2026/164 المنشور في الجريدة الرسمية التركية في ١٧ نوفمبر ٢٠٢٦. هذه نسخة من وثيقة قانونية، منفصلة عن الرسم التحريري في افتتاح المقال.",
+    "es": "Primera página de la sentencia E.2025/144, K.2026/164, publicada en el Boletín Oficial turco el 17 de noviembre de 2026. Es una reproducción documental, distinta de la ilustración de cabecera."
+  }
+},
+"achraf-hakimi-foundation-lwalida-mothers-kenitra": {
+  "afterBlock": 12,
+  "file": "hakimi-morocco-employment-2025-en.png",
+  "localizedFiles": {
+    "en": "hakimi-morocco-employment-2025-en.png",
+    "fr": "hakimi-morocco-employment-2025-fr.png",
+    "ar": "hakimi-morocco-employment-2025-ar.png",
+    "es": "hakimi-morocco-employment-2025-es.png"
+  },
+  "width": 1100,
+  "height": 650,
+  "source": "https://www.hcp.ma/file/249358/",
+  "credit": "PRESDA · HCP, Women in Figures 2026",
+  "license": null,
+  "captions": {
+    "en": "Original PRESDA graphic using HCP’s 2025 national employment rates: women 15.1%, men 61.1%, population aged 15 and over. These are employment rates, not labour-force participation or L’WALIDA outcomes.",
+    "fr": "Graphique original de PRESDA à partir des taux d’emploi nationaux du HCP pour 2025 : femmes 15,1 %, hommes 61,1 %, population de 15 ans et plus. Il ne s’agit ni du taux d’activité ni de résultats de L’WALIDA.",
+    "ar": "رسم أصلي من PRESDA باستخدام معدلات الشغل الوطنية لعام ٢٠٢٥ لدى المندوبية: النساء ١٥٫١٪ والرجال ٦١٫١٪، لمن تبلغ أعمارهم ١٥ عاماً فأكثر. هذه معدلات شغل، وليست معدلات نشاط اقتصادي أو نتائج «الواليدة».",
+    "es": "Gráfico original de PRESDA con tasas nacionales de empleo del HCP de 2025: mujeres 15,1 %, hombres 61,1 %, población de 15 años o más. No son tasas de participación laboral ni resultados de L’WALIDA."
+  }
+},
 "morocco-independence-day-71-years-1955-2026": {
   "afterBlock": 13,
   "file": "morocco-mohammed-v-berkeley-1957.jpg",
@@ -381,7 +418,7 @@ export function FeatureEvidencePhoto({ photo, locale }: { photo: NonNullable<Ret
   return (
     <figure data-feature-evidence={photo.file} className="my-8 overflow-hidden rounded-xl border border-white/15 bg-[#10131A] text-white">
       <div className="mx-auto" style={{ maxWidth: photo.width }}>
-        <LicensedEditorialImage src={`/articles/${photo.file}`} alt={caption} width={photo.width} height={photo.height} />
+        <LicensedEditorialImage src={`/articles/${photo.localizedFiles?.[locale] ?? photo.file}`} alt={caption} width={photo.width} height={photo.height} />
       </div>
       <figcaption className="p-5 text-sm leading-6">
         <p>{caption}</p>

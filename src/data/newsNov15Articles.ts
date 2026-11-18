@@ -1,6 +1,210 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "516",
+    "slug": "turkey-constitutional-court-prostitution-law-article-128-2026",
+    "title": "TURKEY'S TOP COURT STRIKES DOWN 96-YEAR-OLD PROSTITUTION LAW",
+    "seoTitle": "Turkey court annuls Article 128: what the prostitution ruling means",
+    "metaDescription": "Turkey’s Constitutional Court annuls a 1930 provision underpinning state-supervised prostitution. What changed, when it took effect and what it does not ban.",
+    "excerpt": "Turkey’s Constitutional Court annuls a 1930 provision underpinning state-supervised prostitution. What changed, when it took effect and what it does not ban.",
+    "category": "World",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-19",
+    "lastUpdated": "2026-11-19",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/turkey-constitutional-court-prostitution-law-article-128-2026.jpg",
+    "coverAlt": "Editorial illustration of the Turkish flag outside a building bearing the Constitutional Court’s name",
+    "headlineHighlights": {
+      "red": "TURKEY'S TOP COURT",
+      "gold": "PROSTITUTION LAW"
+    },
+    "tags": [
+      "TURKEY'S TOP COURT",
+      "World"
+    ],
+    "content": [
+      "Turkey’s Constitutional Court has annulled a 1930 provision underpinning the state-supervised prostitution system. The judgment, published on November 17, 2026, concerns Article 128 of the Public Health Law. It is a major constitutional intervention in the legal framework for prostitution, but it is not a ruling that makes every instance of prostitution a new criminal offence. [Constitutional Court: Article 128 annulment, November 17, 2026](https://anayasa.gov.tr/tr/haberler/norm-denetimi-basin-duyurulari/1593-sayili-umumi-hifzissihha-kanunu-nun-128-maddesine-iliskin-itiraz-basvurulari-hakkinda-karar) [Official Gazette: E.2025/144, K.2026/164, published November 17, 2026](https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf)",
+      "That distinction matters for anyone trying to understand the headline. A court can remove the statutory basis for an administrative system without writing a replacement criminal code. The practical questions now concern the remaining law, the response of public authorities and the protection of people whose lives and livelihoods are affected.",
+      "[[NOV19_NEWS2_516]]",
+      "## What exactly did the court strike down?",
+      "The Constitutional Court decided case E.2025/144, K.2026/164 on July 16, 2026. It found the first sentence of Article 128’s first paragraph unconstitutional. The second sentence was also annulled because it could no longer operate after the first was removed. This was not the annulment of the entire Public Health Law. [Official Gazette: E.2025/144, K.2026/164, published November 17, 2026](https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf)",
+      "The first sentence empowered the health and interior ministries to set rules, through a joint regulation, governing women engaged in prostitution and brothels, including measures intended to prevent the spread of communicable diseases. Its terminology reflected the administrative and gender assumptions of an earlier period. The law dates from April 24, 1930, which explains the reference to a 96-year-old provision. [Constitutional Court: Article 128 annulment, November 17, 2026](https://anayasa.gov.tr/tr/haberler/norm-denetimi-basin-duyurulari/1593-sayili-umumi-hifzissihha-kanunu-nun-128-maddesine-iliskin-itiraz-basvurulari-hakkinda-karar)",
+      "### Why two dates appear in the news",
+      "July 16 is the date of the court’s decision. November 17 is its publication date in the Official Gazette, issue 33433. Under Article 153 of the Constitution, an annulled provision ceases to have effect upon Gazette publication unless the court specifies a later date. This judgment contains no deferred commencement in its operative order, making November 17 the relevant date of effect. [Official Gazette: E.2025/144, K.2026/164, published November 17, 2026](https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf) [Constitutional Court: Constitution of the Republic of Türkiye](https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf)",
+      "The Constitution also states that annulment decisions do not operate retrospectively. Readers should therefore avoid assuming that every earlier administrative decision has automatically disappeared. The consequences for a particular case require analysis of that case and the applicable law, rather than a conclusion drawn from a headline alone. [Constitutional Court: Constitution of the Republic of Türkiye](https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf)",
+      "## How the case reached the court",
+      "The case arose through constitutional referrals in administrative litigation. The referring bodies were Erzurum Regional Administrative Court’s Third Administrative Litigation Chamber, Mardin Third Administrative Court and the Council of State’s Fourth Chamber. The underlying disputes concerned administrative measures involving the temporary closure and sealing of premises. [Official Gazette: E.2025/144, K.2026/164, published November 17, 2026](https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf)",
+      "The objections challenged the breadth of the delegation to the executive. They argued that the statute did not adequately define the people and premises covered, the limits of administrative power or the measures that could be imposed. That procedural background helps explain why this is a constitutional review of a statutory provision, rather than a criminal prosecution of an individual.",
+      "## The reasoning: dignity and the state’s protective duties",
+      "The court examined the rule under Articles 5 and 17 of the Constitution. These concern the state’s fundamental duties and the protection and development of a person’s physical and spiritual existence. Its reasoning placed human dignity and the state’s positive protective obligations at the centre of the analysis. [Constitutional Court: Article 128 annulment, November 17, 2026](https://anayasa.gov.tr/tr/haberler/norm-denetimi-basin-duyurulari/1593-sayili-umumi-hifzissihha-kanunu-nun-128-maddesine-iliskin-itiraz-basvurulari-hakkinda-karar) [Constitutional Court: Constitution of the Republic of Türkiye](https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf)",
+      "In the court’s view, placing prostitution within a legal framework of state supervision, even for public health and safety purposes, did not make it compatible with human dignity. It argued that the state should address structural circumstances pushing people into prostitution and combat the people and organisations acting as intermediaries. These are the court’s findings and constitutional reasoning, not newly enacted criminal offences. [Constitutional Court: Article 128 annulment, November 17, 2026](https://anayasa.gov.tr/tr/haberler/norm-denetimi-basin-duyurulari/1593-sayili-umumi-hifzissihha-kanunu-nun-128-maddesine-iliskin-itiraz-basvurulari-hakkinda-karar)",
+      "The unanimous result removed the statutory provision and its dependent sentence. It did not supply a detailed replacement system covering housing, income support, access to healthcare or administrative transition. Those questions are important precisely because the people affected do not cease to need protection when a legal provision is annulled.",
+      "## What the judgment does not establish",
+      "The ruling should not be described as a complete new ban on prostitution. It does not itself create a new offence, prescribe a new punishment or announce that every person selling sexual services can now be prosecuted for doing so. The constitutional principle that offences and penalties require a legal basis is separate from the annulment of an administrative framework. [Constitutional Court: Constitution of the Republic of Türkiye](https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf)",
+      "Nor should it be presented as a comprehensive legalisation or deregulation. Removing one statutory foundation does not erase every other criminal, administrative or public health rule that may apply. The legality of a particular activity, premises or official action cannot be decided simply by treating Article 128 as the whole legal system.",
+      "### Why existing rules and future action must be distinguished",
+      "An administrative regulation, a statute and a constitutional judgment are different legal instruments. The judgment changes the status of the provision it identifies. Any claim about a new nationwide enforcement policy, replacement licensing system or additional criminal liability needs its own legal source. The decision alone is insufficient evidence for those further claims.",
+      "This also limits what can responsibly be predicted. It is reasonable to expect attention to implementation and legislative choices. It is not responsible to announce an unverified closure timetable, automatic compensation scheme or new police power. PRESDA’s account separates the judgment’s operative effect from questions that will depend on subsequent official action.",
+      "## Public health and rights remain part of the story",
+      "The old provision’s disease-control purpose explains part of its historical setting. But constitutional arguments about dignity and contemporary public health policy are different questions. Access to confidential, non-discriminatory care remains important to people affected by prostitution, whatever terminology a legal system uses. Stigma must not be mistaken for a health intervention.",
+      "UNFPA’s published work in Türkiye has included sexual health training with sex workers and organisations working with them. That dated programme provides useful context for the distinction between a legal framework and practical access to information and services; it does not establish that the same activities or arrangements are operating today. [UNFPA Türkiye: dated sexual health training programme](https://turkiye.unfpa.org/en/news/train-trainers-sexual-health-sex-workers)",
+      "The wider questions overlap with [the history of women’s rights](/articles/feminism-movement-redefined-womens-rights/): who has access to protection, how economic constraints shape choices and how the state exercises power over people’s bodies. A careful news account should keep those human questions visible without assigning the same experience or motives to everyone affected.",
+      "## What to watch next",
+      "The next reliable developments will be official legislative texts, published administrative measures and court decisions clarifying implementation. Readers should check their dates and scope. A ministry statement is not interchangeable with a new law, and a commentary about likely consequences is not evidence that those consequences have already occurred.",
+      "This report was checked on November 19, 2026 against the court’s announcement, the published judgment and the Constitution. The clearest conclusion is also the most precise: a 1930 statutory basis for state-supervised prostitution has been annulled. The judgment’s significance is substantial without turning it into a claim that the court has written a blanket criminal ban."
+    ],
+    "references": [
+      {
+        "name": "Constitutional Court: Article 128 annulment, November 17, 2026",
+        "url": "https://anayasa.gov.tr/tr/haberler/norm-denetimi-basin-duyurulari/1593-sayili-umumi-hifzissihha-kanunu-nun-128-maddesine-iliskin-itiraz-basvurulari-hakkinda-karar"
+      },
+      {
+        "name": "Official Gazette: E.2025/144, K.2026/164, published November 17, 2026",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf"
+      },
+      {
+        "name": "Constitutional Court: Constitution of the Republic of Türkiye",
+        "url": "https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf"
+      },
+      {
+        "name": "UNFPA Türkiye: dated sexual health training programme",
+        "url": "https://turkiye.unfpa.org/en/news/train-trainers-sexual-health-sex-workers"
+      }
+    ],
+    "relatedSlugs": [
+      "feminism-movement-redefined-womens-rights"
+    ],
+    "faq": [
+      {
+        "question": "Did Turkey’s court completely ban prostitution?",
+        "answer": "No. It annulled Article 128’s first sentence and its dependent second sentence. The judgment does not itself enact a blanket criminal offence covering all prostitution."
+      },
+      {
+        "question": "Why is it described as a 96-year-old law?",
+        "answer": "The Public Health Law dates from April 24, 1930. The 2026 judgment concerns a provision within that law, not the whole statute."
+      },
+      {
+        "question": "When did the annulment take effect?",
+        "answer": "The judgment was published on November 17, 2026. Its operative order contains no postponement; Article 153 makes publication the relevant date in that situation."
+      },
+      {
+        "question": "Why did the court annul the provision?",
+        "answer": "It found the state-supervised framework incompatible with the protective obligations arising under Articles 5 and 17, reasoning in terms of human dignity."
+      },
+      {
+        "question": "Does the judgment settle every individual case?",
+        "answer": "No. Earlier actions, remaining rules and any subsequent measures require separate examination. This report explains the judgment and is not individual legal advice."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "517",
+    "slug": "achraf-hakimi-foundation-lwalida-mothers-kenitra",
+    "title": "ACHRAF HAKIMI FOUNDATION LAUNCHES L'WALIDA TO EMPOWER MOROCCAN MOTHERS",
+    "seoTitle": "Hakimi Foundation launches L’WALIDA for mothers in Kénitra",
+    "metaDescription": "Achraf Hakimi Foundation announces L’WALIDA in Kénitra. Confirmed partners, educational aims and the context for supporting Moroccan mothers’ independence.",
+    "excerpt": "Achraf Hakimi Foundation announces L’WALIDA in Kénitra. Confirmed partners, educational aims and the context for supporting Moroccan mothers’ independence.",
+    "category": "World",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-19",
+    "lastUpdated": "2026-11-19",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/achraf-hakimi-foundation-lwalida-mothers-kenitra.jpg",
+    "coverAlt": "Supplied editorial image depicting Achraf Hakimi in a white polo outside a colourful educational building",
+    "headlineHighlights": {
+      "red": "ACHRAF HAKIMI FOUNDATION",
+      "gold": "L'WALIDA"
+    },
+    "tags": [
+      "ACHRAF HAKIMI FOUNDATION",
+      "World"
+    ],
+    "content": [
+      "The Achraf Hakimi Foundation has announced L’WALIDA, a programme dedicated to mothers’ education, opportunity and independence. Its official launch post, dated November 18, 2026, places the initiative in Kénitra and identifies a partnership with the Fondation Crédit Agricole du Maroc pour le Développement Durable. [Achraf Hakimi Foundation: official L’WALIDA launch post, November 18, 2026](https://www.instagram.com/achrafhakimifoundation/p/Df4_No6EUAT/)",
+      "The announcement also thanks Kénitra’s Provincial Directorate of National Education for its collaboration. That makes this a story about a locally connected education initiative as well as a footballer’s foundation. The public statement establishes the programme’s purpose and partners; it does not yet establish measured results for participating mothers.",
+      "[[NOV19_NEWS2_517]]",
+      "## What has been confirmed about L’WALIDA?",
+      "The Foundation describes L’WALIDA as a project close to its heart, linking support for mothers with opportunities for the next generation. The name evokes the mother in Moroccan Arabic. The emphasis is on education and independence, rather than a claim that a single launch event can remove all the obstacles facing women. [Achraf Hakimi Foundation: official L’WALIDA launch post, November 18, 2026](https://www.instagram.com/achrafhakimifoundation/p/Df4_No6EUAT/)",
+      "Kénitra is the confirmed launch location. The published caption does not provide a national rollout calendar, a total beneficiary count or a detailed curriculum. It would therefore be premature to turn the announcement into a report that thousands of mothers have completed training or that a nationwide service is already available.",
+      "### The difference between a launch and an impact report",
+      "A launch tells readers what an organisation intends to do. An impact report should explain who participated, what support was delivered and what changed over time. These are different stages of evidence. L’WALIDA’s stated objectives are newsworthy, but they should be reported as objectives until the Foundation publishes results that can be assessed.",
+      "As of November 19, the verified launch statement did not set out a budget, application process, eligibility criteria, course duration or employment guarantees. This does not prove that the organisers have no operational plans. It means those details cannot responsibly be supplied from the announcement alone.",
+      "## Why support mothers through education?",
+      "The programme’s central idea is intergenerational: supporting a mother’s ability to learn and make decisions can also shape the environment in which children grow up. That is the Foundation’s stated rationale, rather than a measured finding about this new programme. It connects adult opportunity with the organisation’s existing focus on young people. [Achraf Hakimi Foundation: official L’WALIDA launch post, November 18, 2026](https://www.instagram.com/achrafhakimifoundation/p/Df4_No6EUAT/) [Achraf Hakimi Foundation: mission and programmes](https://www.achrafhakimifoundation.com/)",
+      "The Foundation’s website describes work with local associations and schools across education, sport and personal development. It presents workshops, training and community projects as ways of building skills and confidence. L’WALIDA places mothers within that wider account of community support, while remaining a distinct initiative whose delivery needs to be documented. [Achraf Hakimi Foundation: mission and programmes](https://www.achrafhakimifoundation.com/)",
+      "This perspective also changes the questions worth asking. Education is not only about distributing materials or opening a room. For an adult learner, a useful opportunity must fit real circumstances. The timing of classes, accessible locations and respectful communication can matter as much as the publicity surrounding an announcement.",
+      "## The national context, with the numbers kept in scope",
+      "Morocco’s High Commission for Planning provides a clear statistical backdrop. Its 2026 publication, Women in Figures, reports that women’s labour-force participation stood at 19.0% in 2025. This is a national indicator for women aged 15 and over, not a statistic about mothers enrolled in L’WALIDA. [HCP: Women in Figures 2026, 2025 labour-market indicators](https://www.hcp.ma/file/249358/)",
+      "The same publication gives a 2025 employment rate of 15.1% for women and 61.1% for men aged 15 and over. Employment and labour-force participation are different measures: the labour force includes people who are employed and unemployed people who are actively in the labour market. These figures should not be used interchangeably. [HCP: Women in Figures 2026, 2025 labour-market indicators](https://www.hcp.ma/file/249358/)",
+      "Nor do the national figures reveal the circumstances of every woman in Kénitra. Some mothers have paid employment, some study, some undertake unpaid care and some combine several responsibilities. The statistics show a broad disparity; they do not establish why an individual woman participates or what a particular course will change.",
+      "### What the figures cannot tell us",
+      "These are 2025 national observations published in 2026. They are not a baseline survey of programme participants or an evaluation of Hakimi’s Foundation. They cannot show that L’WALIDA has raised employment, increased income or changed school performance. Those would require programme-specific evidence and a clear account of the period measured.",
+      "Keeping these limits visible makes the story more informative. It explains why the initiative addresses a relevant social issue while preserving the difference between the scale of a national challenge and the reach of one organisation. A strong programme does not need inflated numbers to justify public attention.",
+      "## What the partners bring to the announcement",
+      "The launch post names the Crédit Agricole foundation for sustainable development as a partner. The banking group’s official description says that this foundation was created in 2011 and works on agriculture, rural development and sustainability, including pilot projects and educational activity. That background helps identify the institution involved. [Crédit Agricole du Maroc: Foundation for Sustainable Development](https://www.creditagricole.ma/fr/filiale/fondation-credit-agricole-du-maroc-pour-le-developpement-durable)",
+      "It does not establish that L’WALIDA is a loan programme or that participants will receive grants, bank accounts or a particular financial product. Those claims would need explicit confirmation. Similarly, the education directorate’s collaboration should not be expanded into an unannounced certification arrangement or a promise of public-sector employment.",
+      "The partnership is significant because the public statement places a local education authority alongside a charitable initiative and a development foundation. The practical division of responsibilities, however, has not been detailed in that statement. Readers should be able to distinguish the named institutions from assumptions about what each will deliver.",
+      "## What meaningful follow-through would look like",
+      "A useful update would explain how mothers can obtain information, whether participation is free and what learning opportunities are actually offered. It would also clarify accessibility, scheduling and the support available to participants with care responsibilities. These are questions for future reporting, not features confirmed by the launch caption.",
+      "Over time, informative measures could include enrolment, attendance and course completion, followed by participants’ own accounts of the programme’s usefulness. Any claim about employment or income would need a defined follow-up period. Counting attendance at an opening ceremony would answer a different question from whether participants gained a lasting opportunity.",
+      "Reporting should also recognise mothers as individuals with their own ambitions. A programme can value their role in family life without reducing their education to benefits for children alone. Independence includes the ability to set personal goals, make informed choices and decide what kind of support is useful.",
+      "## Beyond the football headline",
+      "Hakimi’s public profile can draw attention to a project that might otherwise receive less coverage. Readers following [his career and Moroccan legacy](/articles/achraf-hakimi-king-of-africa/) will recognise the wider interest surrounding his activities. But the quality of L’WALIDA will ultimately depend on its implementation and the experiences of participants, rather than the reach of a football headline.",
+      "There is also a broader connection with [education that adapts to barriers to access](/articles/bangladesh-floating-schools-flood-classrooms/). The contexts are different, but both invite a practical question: how can an educational opportunity reach people whose circumstances make conventional provision difficult? The answer requires specific delivery, not just a persuasive slogan.",
+      "For now, the verified news is precise: the Foundation announced a mothers-focused programme in Kénitra on November 18, with a named development partner and collaboration from the provincial education directorate. Its ambitions deserve attention. Its outcomes remain a subject for subsequent reporting, supported by transparent information and the voices of the mothers involved."
+    ],
+    "references": [
+      {
+        "name": "Achraf Hakimi Foundation: official L’WALIDA launch post, November 18, 2026",
+        "url": "https://www.instagram.com/achrafhakimifoundation/p/Df4_No6EUAT/"
+      },
+      {
+        "name": "Achraf Hakimi Foundation: mission and programmes",
+        "url": "https://www.achrafhakimifoundation.com/"
+      },
+      {
+        "name": "HCP: Women in Figures 2026, 2025 labour-market indicators",
+        "url": "https://www.hcp.ma/file/249358/"
+      },
+      {
+        "name": "Crédit Agricole du Maroc: Foundation for Sustainable Development",
+        "url": "https://www.creditagricole.ma/fr/filiale/fondation-credit-agricole-du-maroc-pour-le-developpement-durable"
+      }
+    ],
+    "relatedSlugs": [
+      "achraf-hakimi-king-of-africa",
+      "bangladesh-floating-schools-flood-classrooms"
+    ],
+    "faq": [
+      {
+        "question": "What is L’WALIDA?",
+        "answer": "It is an Achraf Hakimi Foundation initiative announced to support mothers through education, opportunity and independence."
+      },
+      {
+        "question": "Where and when was it announced?",
+        "answer": "The Foundation’s official launch post is dated November 18, 2026 and identifies Kénitra as the launch location."
+      },
+      {
+        "question": "Who are the named collaborators?",
+        "answer": "The announcement names the Fondation Crédit Agricole du Maroc pour le Développement Durable as a partner and thanks Kénitra’s Provincial Directorate of National Education for its collaboration."
+      },
+      {
+        "question": "How can mothers apply?",
+        "answer": "The verified launch statement does not provide application instructions or eligibility criteria. Readers should use the Foundation’s official channels for confirmed programme information."
+      },
+      {
+        "question": "Has L’WALIDA already demonstrated employment results?",
+        "answer": "No such results appear in the verified launch statement. National employment statistics provide context and must not be presented as outcomes of the programme."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
     "id": "511",
     "slug": "morocco-independence-day-71-years-1955-2026",
     "title": "MOROCCO'S INDEPENDENCE DAY: 71 YEARS OF FREEDOM AND SOVEREIGNTY",

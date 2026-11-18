@@ -8,6 +8,62 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV19_NEWS2_516]]": {
+    "caption": "Key dates and legal effect. Sources: Constitutional Court, Official Gazette and Constitution, Article 153.",
+    "headers": [
+      "Date",
+      "What happened"
+    ],
+    "rows": [
+      [
+        "April 24, 1930",
+        "Public Health Law 1593 dates from this day."
+      ],
+      [
+        "July 16, 2026",
+        "The Constitutional Court decided E.2025/144, K.2026/164."
+      ],
+      [
+        "November 17, 2026",
+        "Publication in Official Gazette 33433; no deferred commencement."
+      ],
+      [
+        "November 19, 2026",
+        "PRESDA verified the decision and its constitutional context."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV19_NEWS2_517]]": {
+    "caption": "National context, not programme outcomes. Source: HCP, Women in Figures 2026, reporting 2025 data for people aged 15 and over.",
+    "headers": [
+      "Indicator",
+      "Verified context"
+    ],
+    "rows": [
+      [
+        "Women’s labour-force participation",
+        "19.0% nationally in 2025."
+      ],
+      [
+        "Women’s employment rate",
+        "15.1% nationally in 2025."
+      ],
+      [
+        "Men’s employment rate",
+        "61.1% nationally in 2025."
+      ],
+      [
+        "L’WALIDA results",
+        "The launch statement does not publish an impact evaluation."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV18_HERITAGE_511]]": {
     "caption": "Milestones in Morocco’s independence process. Sources: Moroccan government, French diplomatic archives and Spanish official gazette.",
     "headers": [
