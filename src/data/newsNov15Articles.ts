@@ -1,6 +1,564 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "506",
+    "slug": "kindertransport-trains-saved-10000-children",
+    "title": "KINDERTRANSPORT: THE TRAINS THAT SAVED 10,000 CHILDREN",
+    "seoTitle": "Kindertransport: how nearly 10,000 children escaped Nazi rule",
+    "metaDescription": "How the Kindertransport worked, who organised the rescue, why parents stayed behind and what happened to children after reaching Britain.",
+    "excerpt": "How the Kindertransport worked, who organised the rescue, why parents stayed behind and what happened to children after reaching Britain.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-18",
+    "lastUpdated": "2026-11-18",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/kindertransport-trains-saved-10000-children.jpg",
+    "coverAlt": "Editorial reconstruction of children and families at a railway departure associated with the Kindertransport",
+    "headlineHighlights": {
+      "red": "KINDERTRANSPORT",
+      "gold": "10,000 CHILDREN"
+    },
+    "tags": [
+      "KINDERTRANSPORT",
+      "History"
+    ],
+    "content": [
+      "Between late 1938 and the outbreak of war in September 1939, the Kindertransport brought nearly 10,000 mostly Jewish children from Nazi-controlled Europe to Britain. Trains carried them across borders and ferries completed many journeys. Their arrival was a rescue, but it began a new life separated from parents whose own escape remained uncertain. The number in the title describes a collective effort assembled from thousands of individual decisions. [United States Holocaust Memorial Museum overview](https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40) [Holocaust Memorial Day Trust history](https://hmd.org.uk/learn-about-the-holocaust-and-genocides/the-holocaust/kindertransport-refugees/)",
+      "## Why did the rescue begin in 1938?",
+      "[[NOV18_RESILIENCE_506]]",
+      "On November 9–10, 1938, the Nazi regime unleashed anti-Jewish violence across Germany and annexed Austria. Synagogues, homes and businesses were attacked, and Jewish men were arrested and imprisoned. The November pogroms intensified a refugee crisis already shaped by years of persecution. Families who wanted to leave faced immigration restrictions, costs and the difficulty of finding a country willing to admit them. The British decision to admit children emerged from that emergency and from sustained lobbying by aid organisations. [United States Holocaust Memorial Museum overview](https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40) [Imperial War Museums Holocaust galleries guide](https://www.iwm.org.uk/sites/default/files/files/2023-10/holocaust_galleries_large_print_guide.pdf)",
+      "### What Britain agreed to do",
+      "The government temporarily relaxed entry requirements for children under 17. The arrangement depended on private guarantees and charitable support for their care and eventual onward travel. A £50 guarantee was required for each child. This was an immigration condition, rather than a sum handed to each arriving child. Parents did not gain admission through the same arrangement. The policy therefore opened a route to safety for a child while leaving the family’s reunion unresolved. [United States Holocaust Memorial Museum overview](https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40)",
+      "## Who organised the Kindertransport?",
+      "Jewish community organisations in the countries of departure prepared applications and journeys. In Britain, Jewish and non-Jewish relief groups, volunteers and foster families arranged accommodation and support. The Movement for the Care of Children from Germany, later renamed the Refugee Children’s Movement, coordinated much of the receiving work. Calling the rescue a single train or one person’s project would hide the offices, donors, escorts and households on which it depended. [United States Holocaust Memorial Museum overview](https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40) [Wiener Holocaust Library collection guide](https://wienerholocaustlibrary.org/what-we-do/learn/subject-guides/kindertransport/)",
+      "### The work in Vienna and Prague",
+      "Research on Vienna traces the involvement of the Jewish community’s welfare office and its correspondence with British organisers. Files had to connect a child’s identity, family situation, paperwork and prospective placement. In Czechoslovakia, Nicholas Winton became associated with the rescue of 669 children through a network that included people working locally and in Britain. The museum’s account also identifies the refugee relief context in which Doreen Wariner and Trevor Chadwick worked. Winton’s contribution belongs within that wider network. [Vienna Kindertransport research, Jewish Historical Studies](https://discovery.ucl.ac.uk/id/eprint/10100969/1/10.14324_111.444.jhs.2020v51.003.pdf) [USHMM account of the Czechoslovak rescue](https://encyclopedia.ushmm.org/content/en/article/nicholas-winton-and-the-rescue-of-children-from-czechoslovakia-1938-1939)",
+      "## How did the journeys work?",
+      "The first organised group arrived at Harwich on December 2, 1938. A common route took children by rail through the Netherlands to the Hook of Holland, followed by a ferry to England. Some then continued to London or another receiving place. A ticket could describe only one stage in a journey that involved several authorities and languages. At each change of transport, escorts and receiving volunteers had to account for children travelling without their parents. [United States Holocaust Memorial Museum overview](https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40) [Imperial War Museums Holocaust galleries guide](https://www.iwm.org.uk/sites/default/files/files/2023-10/holocaust_galleries_large_print_guide.pdf)",
+      "### What the familiar labels meant",
+      "Identification labels and travel documents helped organisers match children with records and placements. A label was one practical element in a much larger system of lists, permissions and guarantees. It could not remove the fear of separation or explain a new language. The supplied hero reconstructs a departure scene. Its faces, flags and labels should be read as illustrative details, not evidence about a specific 1938 train or official procedure. The supporting archival photograph has its own date and provenance.",
+      "## What happened after arrival?",
+      "Some children joined relatives or foster families; others stayed in hostels, schools and group homes. The earliest arrivals could spend time in reception camps while accommodation was found. Harwich was therefore a point of entry rather than the end of the story. Arranging a bed, education, food and care for an arriving group required continuing money and labour. A place on a transport did not ensure that siblings would remain together or that every placement would meet a child’s needs. [United States Holocaust Memorial Museum overview](https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40) [Holocaust Memorial Day Trust history](https://hmd.org.uk/learn-about-the-holocaust-and-genocides/the-holocaust/kindertransport-refugees/)",
+      "### Safety and belonging were separate challenges",
+      "Children had left familiar homes and people, often with little English. The transition could include affection and opportunity alongside loneliness, uncertainty and difficult relationships. Experiences differed by age, household and circumstances. A source describing a successful placement cannot stand for every child. For that reason, a fuller account puts institutional records beside individual testimony. The records can show where someone was sent; the person’s recollection can explain what living there felt like and how the experience changed over time. [Wiener Holocaust Library collection guide](https://wienerholocaustlibrary.org/what-we-do/learn/subject-guides/kindertransport/)",
+      "## What does the figure of 10,000 mean?",
+      "Museums and memorial organisations generally use “about” or “nearly” 10,000 for the rescue to Britain. It is a rounded historical total for an organised movement, whose participants came from several territories. The Wiener Holocaust Library warns that it does not hold one comprehensive list of every child. Its collections include departure and arrival lists with different coverage. A name appearing in two records may describe one journey, while a missing name in one collection does not prove that a child never travelled. [Wiener Holocaust Library collection guide](https://wienerholocaustlibrary.org/what-we-do/learn/subject-guides/kindertransport/) [Holocaust Memorial Day Trust history](https://hmd.org.uk/learn-about-the-holocaust-and-genocides/the-holocaust/kindertransport-refugees/)",
+      "### Why the dates sometimes extend to 1940",
+      "The main programme ended when war began in September 1939 and disrupted the routes. A scheduled departure from Prague was cancelled. There was also an exceptional evacuation from the Netherlands in May 1940, when Gertruida Wijsmuller-Meijer helped bring 74 refugee children to Britain by sea. This helps explain why some historical descriptions use 1938–1939 and others 1938–1940. A concise chronology should define the main programme and retain the later exception, instead of making the two date ranges appear contradictory. [United States Holocaust Memorial Museum overview](https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40)",
+      "## What did the war change for the children?",
+      "War made communication with families harder and altered conditions in Britain. Some older refugees were classified as enemy aliens and interned, despite having fled Nazi persecution. Others experienced evacuation or changing placements. The designation “enemy alien” arose from nationality-based wartime policy. It says nothing about a refugee child’s loyalties or the danger from which that child had escaped. This is one reason the story cannot end at a photograph of a welcoming station platform. [United States Holocaust Memorial Museum overview](https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40)",
+      "### Parents and the search after the war",
+      "Many children later learned that their parents and other relatives had been murdered in the Holocaust. Others faced searches and reunions complicated by years apart. A child’s survival and a family’s survival are different measures of rescue. The relief effort saved lives while the exclusion of parents had devastating consequences. Both belong in an account of the policy. The emotional meaning of an old letter or photograph can also change after a family discovers what happened to the person who sent it. [Holocaust Memorial Day Trust history](https://hmd.org.uk/learn-about-the-holocaust-and-genocides/the-holocaust/kindertransport-refugees/)",
+      "## How historians recover individual stories",
+      "Passenger lists, immigration papers, placement files, letters and oral histories answer different questions. A contemporary list can establish a departure, while a later testimony may describe a farewell remembered decades afterward. Neither should be made to supply what it does not contain. The library’s guide points researchers towards several collections and countries, reflecting the international nature of the journeys. Responsible reconstruction follows those links and distinguishes documented details from later interpretation. [Wiener Holocaust Library collection guide](https://wienerholocaustlibrary.org/what-we-do/learn/subject-guides/kindertransport/) [Vienna Kindertransport research, Jewish Historical Studies](https://discovery.ucl.ac.uk/id/eprint/10100969/1/10.14324_111.444.jhs.2020v51.003.pdf)",
+      "### Objects preserve the scale of childhood",
+      "Imperial War Museums uses children’s belongings, including a puppet carried by a young refugee, to bring the history back to ordinary life. A toy records something different from an official guarantee or passport. It can reveal what a child took from home and what was preserved through displacement. It cannot tell every part of the journey on its own. Read together, such objects and documents make the number of rescued children understandable as lives, relationships and interrupted childhoods. [Imperial War Museums Holocaust galleries guide](https://www.iwm.org.uk/sites/default/files/files/2023-10/holocaust_galleries_large_print_guide.pdf)",
+      "## Why the history remains difficult and important",
+      "The Kindertransport demonstrates what coordinated action made possible under restrictive conditions. It also requires attention to the people who were not admitted and to parents who made decisions under extreme pressure. Commemoration should preserve that complexity rather than treating rescue as an uncomplicated ending. For another aspect of the same war, PRESDA’s account of the [Night Witches and Soviet night bombing](/articles/night-witches-soviet-women-night-bombers/) examines military service on the Eastern Front. It concerns a different experience within a shared historical period."
+    ],
+    "references": [
+      {
+        "name": "United States Holocaust Memorial Museum overview",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/kindertransport-1938-40"
+      },
+      {
+        "name": "Wiener Holocaust Library collection guide",
+        "url": "https://wienerholocaustlibrary.org/what-we-do/learn/subject-guides/kindertransport/"
+      },
+      {
+        "name": "USHMM account of the Czechoslovak rescue",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/nicholas-winton-and-the-rescue-of-children-from-czechoslovakia-1938-1939"
+      },
+      {
+        "name": "Imperial War Museums Holocaust galleries guide",
+        "url": "https://www.iwm.org.uk/sites/default/files/files/2023-10/holocaust_galleries_large_print_guide.pdf"
+      },
+      {
+        "name": "Holocaust Memorial Day Trust history",
+        "url": "https://hmd.org.uk/learn-about-the-holocaust-and-genocides/the-holocaust/kindertransport-refugees/"
+      },
+      {
+        "name": "Vienna Kindertransport research, Jewish Historical Studies",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10100969/1/10.14324_111.444.jhs.2020v51.003.pdf"
+      }
+    ],
+    "relatedSlugs": [
+      "night-witches-soviet-women-night-bombers"
+    ],
+    "faq": [
+      {
+        "question": "What was the Kindertransport?",
+        "answer": "An organised rescue that brought nearly 10,000 mostly Jewish children from Nazi-controlled Europe to Britain, principally in 1938–1939."
+      },
+      {
+        "question": "Did all the children travel only by train?",
+        "answer": "Many journeys combined rail travel across Europe with a ferry crossing to England, followed by further travel to a placement."
+      },
+      {
+        "question": "Why did parents stay behind?",
+        "answer": "The special British admission arrangement covered children. It did not give their parents the same right to enter."
+      },
+      {
+        "question": "Did Nicholas Winton organise the whole operation?",
+        "answer": "He was an important figure in the Czechoslovak rescue, associated with 669 children. The wider movement depended on many organisations and individuals."
+      },
+      {
+        "question": "Why do some accounts end in 1940?",
+        "answer": "The principal programme ended in September 1939, but an exceptional evacuation from the Netherlands brought 74 children to Britain in May 1940."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "507",
+    "slug": "night-witches-soviet-women-night-bombers",
+    "title": "THE NIGHT WITCHES: THE WOMEN WHO TERRIFIED NAZI PILOTS",
+    "seoTitle": "The Night Witches: Soviet women and the night bombing war",
+    "metaDescription": "Who the Night Witches were, how their Po-2 biplanes operated and what the 588th regiment’s missions, crews and wartime losses reveal.",
+    "excerpt": "Who the Night Witches were, how their Po-2 biplanes operated and what the 588th regiment’s missions, crews and wartime losses reveal.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-18",
+    "lastUpdated": "2026-11-18",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/night-witches-soviet-women-night-bombers.jpg",
+    "coverAlt": "Editorial reconstruction of Soviet women aviators beside a biplane, distinct from an archival photograph",
+    "headlineHighlights": {
+      "red": "NIGHT WITCHES",
+      "gold": "WOMEN"
+    },
+    "tags": [
+      "NIGHT WITCHES",
+      "History"
+    ],
+    "content": [
+      "The “Night Witches” were Soviet women who flew repeated night-bombing sorties against German forces during the Second World War. Their regiment used slow, lightly equipped Polikarpov biplanes and depended on pilots, navigators, mechanics and armourers working as one system. The famous nickname belongs to the 588th Night Bomber Regiment, later the 46th Guards. Its main story is sustained combat against targets on the ground, rather than a series of aerial duels. [National WWII Museum history of the regiment](https://www.nationalww2museum.org/war/articles/night-witches-soviet-women-pilots-who-terrified-nazi-soldiers) [Pacific Air Forces historical chronology](https://www.pacaf.af.mil/Portals/6/documents/WeekInHistory/Week%20in%20History%20Oct%2011.pdf?ver=2015-12-16-151142-533)",
+      "## Who were the Night Witches?",
+      "[[NOV18_RESILIENCE_507]]",
+      "The Soviet Union created three women’s aviation regiments after Nazi Germany invaded in June 1941. Marina Raskova, already a celebrated navigator, helped secure official support for women’s military flying. The units had different roles: the 586th was a fighter regiment, the 587th a bomber regiment and the 588th a night-bombing regiment. The 588th remained an all-women unit, including its ground personnel, through the war. Its commander was Yevdokiya Bershanskaya. Raskova’s organising role should be distinguished from the command of this regiment. [Pacific Air Forces historical chronology](https://www.pacaf.af.mil/Portals/6/documents/WeekInHistory/Week%20in%20History%20Oct%2011.pdf?ver=2015-12-16-151142-533) [Marine Corps University Press research on women’s wartime service](https://www.usmcu.edu/Portals/218/MCUJ_Special%20Issue_Gender_2018_web.pdf?ver=2018-11-02-081012-970)",
+      "### Training was part of the achievement",
+      "Recruits had to become military crews under the pressure of an invasion. Flying ability was only one requirement. Navigation, bombing procedures, aircraft servicing and coordination with an airfield all had to become repeatable work. An experienced civilian aviator still needed to learn the tasks of a combat unit. The women also faced doubts about their ability to serve in roles that the military had treated as male. Training was therefore both technical preparation and a struggle for recognition. [Museum of Flight account of the women’s aviation units](https://blog.museumofflight.org/who-are-the-night-witches)",
+      "## Why did they fly small wooden biplanes?",
+      "The Polikarpov aircraft, commonly called the Po-2, had been developed as a trainer and was made largely from wood and fabric. Its open cockpit offered little protection from cold and wind. It was much slower and carried far less than the large bombers familiar from strategic bombing campaigns. Those limitations shaped the regiment’s mission. It could make short attacks against positions and supply targets, return, reload and fly again. Night operations reduced some of the disadvantages of its modest performance. [Museum of Flight account of the women’s aviation units](https://blog.museumofflight.org/who-are-the-night-witches) [Aeroseum aviation museum account](https://aeroseum.se/en/objects/the-night-witches/)",
+      "### Slow flight offered possibilities and serious risks",
+      "A slow aircraft gives its crew time to observe, but also keeps it exposed for longer. Its handling at low speed could make it difficult for a much faster fighter to match its movement, yet that did not make it immune to attack. Searchlights, antiaircraft fire, weather and obstacles remained dangerous. A general performance figure for a Po-2 also depends on variant and load. Speed alone cannot explain success; the conditions and purpose of a flight matter just as much. [Aeroseum aviation museum account](https://aeroseum.se/en/objects/the-night-witches/)",
+      "## How did a night mission work?",
+      "A pilot flew the aircraft while a navigator helped determine the route and release the bombs. The crew needed to find the target and return to an airfield in darkness, often using limited equipment. Accounts describe low approaches and a quieter final glide after reducing or cutting engine power. Air moving past the aircraft’s bracing still made sound. The familiar comparison with a witch’s broom comes from descriptions of that final approach, when an aircraft could be heard only shortly before an attack. [National WWII Museum history of the regiment](https://www.nationalww2museum.org/war/articles/night-witches-soviet-women-pilots-who-terrified-nazi-soldiers) [Museum of Flight account of the women’s aviation units](https://blog.museumofflight.org/who-are-the-night-witches)",
+      "### Why the glide did not remove the danger",
+      "A quieter approach could make detection harder, but a gliding aircraft still needed enough height and speed to complete its flight. The crew had to manage a limited margin and then regain power or reach a safe landing. Darkness concealed the attacker while concealing hazards from the attacker as well. The skill involved was therefore not simply making an engine quiet. It was carrying out a sequence reliably while navigating, identifying a target and surviving the return.",
+      "## What were the raids intended to achieve?",
+      "Night attacks could damage supplies, transport and positions while denying soldiers sleep. Repeated disruption mattered even when one aircraft carried only a small load. A depot or road under intermittent attack could require extra guards, repairs and changes to movement. The National WWII Museum emphasises the impact on morale as well as material targets. That objective explains why the unit’s contribution should be assessed through the pattern of operations, rather than a comparison with the bomb load of one large aircraft. [National WWII Museum history of the regiment](https://www.nationalww2museum.org/war/articles/night-witches-soviet-women-pilots-who-terrified-nazi-soldiers)",
+      "### The number of sorties needs a definition",
+      "A sortie generally counts one aircraft’s operational flight. A crew returning several times in a night could therefore contribute several sorties, even over the same general area. PACAF’s historical summary gives more than 23,000 sorties for the regiment, while the National WWII Museum describes more than 24,000 missions. The summaries use different totals, so attaching the source is more accurate than pretending to an exact universal number. Neither figure counts enemy aircraft shot down or distinct targets destroyed. [Pacific Air Forces historical chronology](https://www.pacaf.af.mil/Portals/6/documents/WeekInHistory/Week%20in%20History%20Oct%2011.pdf?ver=2015-12-16-151142-533) [National WWII Museum history of the regiment](https://www.nationalww2museum.org/war/articles/night-witches-soviet-women-pilots-who-terrified-nazi-soldiers)",
+      "## What happened between each flight?",
+      "Bombs and fuel had to be replenished, damage assessed and aircraft kept serviceable. Navigators prepared for another route while ground personnel worked in the same darkness and weather as the returning crews. A repeated-sortie campaign depended on that turnaround. The prominence of a pilot in a photograph can obscure the work that made the next takeoff possible. The regiment’s all-women identity included those people on the ground, not only the figures seated in the cockpits. [Pacific Air Forces historical chronology](https://www.pacaf.af.mil/Portals/6/documents/WeekInHistory/Week%20in%20History%20Oct%2011.pdf?ver=2015-12-16-151142-533) [Marine Corps University Press research on women’s wartime service](https://www.usmcu.edu/Portals/218/MCUJ_Special%20Issue_Gender_2018_web.pdf?ver=2018-11-02-081012-970)",
+      "### Why fatigue belongs in the history",
+      "Flying again after landing changes the meaning of a “successful mission.” The crew had to recover enough attention to navigate and make decisions on another flight. Ground personnel also had to keep working as aircraft returned at different times. Repetition can make a task efficient, but fatigue can erode its safety. Thinking about a night as a sequence of departures, arrivals and maintenance helps explain the human effort behind a campaign total. It also gives the routine work its place alongside exceptional acts.",
+      "## Why did the regiment’s name change?",
+      "In 1943, the 588th received Guards status and became the 46th Guards Night Bomber Regiment. These are successive identities of the same unit, rather than two separate groups of Night Witches. The change matters when reading captions, service histories and awards. A photograph labelled “46th Guards” can belong to the history of the unit initially formed as the 588th. A chronology should follow that continuity instead of adding the two units’ totals together. [Marine Corps University Press research on women’s wartime service](https://www.usmcu.edu/Portals/218/MCUJ_Special%20Issue_Gender_2018_web.pdf?ver=2018-11-02-081012-970)",
+      "### Honours did not cancel the losses",
+      "The unit received major distinctions, and individual members became Heroes of the Soviet Union. Its operations also cost lives. PACAF’s summary records 30 combat deaths, a figure that should retain its definition and source when quoted. Other commemorative counts may frame losses differently. Whatever total is used, combat service involved people who did not return, as well as survivors who carried the experience afterward. A celebratory nickname should not make those risks disappear. [Pacific Air Forces historical chronology](https://www.pacaf.af.mil/Portals/6/documents/WeekInHistory/Week%20in%20History%20Oct%2011.pdf?ver=2015-12-16-151142-533)",
+      "## Where does the nickname end and the history begin?",
+      "“Nachthexen” means “Night Witches.” Museum accounts attribute the term to German forces reacting to the night raids. Repetition has made the nickname more familiar than the unit’s formal name. Popular retellings sometimes add claims about supernatural abilities, universal fear or guaranteed rewards for shooting down an aircraft. Each additional claim needs its own evidence. The documented operation is remarkable without embellishment: women repeatedly flew demanding combat missions in aircraft whose limitations they understood and worked around. [National WWII Museum history of the regiment](https://www.nationalww2museum.org/war/articles/night-witches-soviet-women-pilots-who-terrified-nazi-soldiers) [Museum of Flight account of the women’s aviation units](https://blog.museumofflight.org/who-are-the-night-witches)",
+      "### A photograph is evidence of a moment",
+      "The supplied hero is an editorial reconstruction. Its uniforms, decorations and faces do not identify an actual crew at a documented briefing. The archival supporting photograph has a date and source and can be read within that narrower frame. Captions are especially important where images of different Soviet women’s units circulate under the same nickname. A fighter pilot’s portrait and a night bomber crew can both belong to women’s wartime aviation while documenting different service.",
+      "## Why their work still matters",
+      "The regiment challenges an account of the air war organised only around famous male aces and advanced machines. It shows how purpose, training and maintenance could turn an unglamorous aircraft into a useful wartime tool. It also belongs to a broader history of women’s service whose roles differed across countries and units. For another account of how military effects depended on organisation and perception, read PRESDA’s feature on the [Ghost Army’s battlefield deception](/articles/ghost-army-wwii-inflatable-tanks-deception/). The connection lies in adapting available means to a specific wartime task."
+    ],
+    "references": [
+      {
+        "name": "National WWII Museum history of the regiment",
+        "url": "https://www.nationalww2museum.org/war/articles/night-witches-soviet-women-pilots-who-terrified-nazi-soldiers"
+      },
+      {
+        "name": "Museum of Flight account of the women’s aviation units",
+        "url": "https://blog.museumofflight.org/who-are-the-night-witches"
+      },
+      {
+        "name": "Pacific Air Forces historical chronology",
+        "url": "https://www.pacaf.af.mil/Portals/6/documents/WeekInHistory/Week%20in%20History%20Oct%2011.pdf?ver=2015-12-16-151142-533"
+      },
+      {
+        "name": "Aeroseum aviation museum account",
+        "url": "https://aeroseum.se/en/objects/the-night-witches/"
+      },
+      {
+        "name": "Marine Corps University Press research on women’s wartime service",
+        "url": "https://www.usmcu.edu/Portals/218/MCUJ_Special%20Issue_Gender_2018_web.pdf?ver=2018-11-02-081012-970"
+      }
+    ],
+    "relatedSlugs": [
+      "ghost-army-wwii-inflatable-tanks-deception"
+    ],
+    "faq": [
+      {
+        "question": "Who were the Night Witches?",
+        "answer": "The women of the Soviet 588th Night Bomber Regiment, later the 46th Guards, who conducted night attacks during the Second World War."
+      },
+      {
+        "question": "Was Marina Raskova their commander?",
+        "answer": "She helped organise the women’s aviation units. Yevdokiya Bershanskaya commanded the night-bombing regiment."
+      },
+      {
+        "question": "What aircraft did they fly?",
+        "answer": "Polikarpov biplanes commonly known as Po-2s, originally developed for training and adapted for light night bombing."
+      },
+      {
+        "question": "How many missions did they fly?",
+        "answer": "PACAF gives more than 23,000 sorties, while the National WWII Museum uses more than 24,000 missions. These campaign counts are not totals of enemy aircraft destroyed."
+      },
+      {
+        "question": "Why were they called Night Witches?",
+        "answer": "Museum accounts connect the German nickname to the sound of their quieter night approaches, compared with a witch’s broom."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "508",
+    "slug": "bangladesh-floating-schools-flood-classrooms",
+    "title": "BANGLADESH'S FLOATING SCHOOLS: CLASSROOMS THAT SAIL DURING FLOODS",
+    "seoTitle": "Bangladesh’s floating schools: how classrooms stay accessible",
+    "metaDescription": "How Shidhulai’s school boats collect children, run lessons, use solar electricity and keep education within reach during monsoon flooding.",
+    "excerpt": "How Shidhulai’s school boats collect children, run lessons, use solar electricity and keep education within reach during monsoon flooding.",
+    "category": "World",
+    "schemaType": "Article",
+    "date": "2026-11-18",
+    "lastUpdated": "2026-11-18",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/bangladesh-floating-schools-flood-classrooms.jpg",
+    "coverAlt": "Editorial illustration of pupils and a teacher aboard a solar-equipped school boat in Bangladesh",
+    "headlineHighlights": {
+      "red": "FLOATING SCHOOLS",
+      "gold": "CLASSROOMS"
+    },
+    "tags": [
+      "FLOATING SCHOOLS",
+      "World"
+    ],
+    "content": [
+      "In Bangladesh’s flood-prone wetlands, some children reach class because their classroom comes to them. Shidhulai Swanirvar Sangstha’s school boats collect pupils at riverside stops, then dock for lessons. The organisation began operating school boats in 2002 and combines local boatbuilding with classrooms, teachers and solar electricity. The innovation is a way to keep education accessible when the road to a conventional school disappears under water. [Shidhulai programme description](https://shidhulai.org/our-work.html) [Shidhulai boat design and innovations](https://shidhulai.org/our-innovations.html)",
+      "## Where do the floating schools work?",
+      "[[NOV18_RESILIENCE_508]]",
+      "The programme is associated with the Chalan Beel wetlands in northwestern Bangladesh. Seasonal rises in water can connect waterways while submerging earthen roads and disrupting ordinary journeys. A village may remain inhabited while its usual school route becomes difficult. Moving the service by boat responds to that particular geography. UNESCO’s 2026 account describes a locally developed system drawing on the knowledge of communities who already build and use boats. It should not be read as a description of every school in Bangladesh. [UNESCO 2025 literacy prize announcement](https://www.unesco.org/en/articles/bangladeshs-sidhulai-swanirvar-sangstha-receives-unesco-confucius-literacy-prize-2025?hub=67252-2)",
+      "### What problem does the boat actually solve?",
+      "A school building can survive a flood while its pupils still cannot reach it. Access involves the whole route between home and the classroom, including crossings and places where a child can board safely. The boat changes that route by collecting children closer to home. It does not make distance, weather or supervision disappear. Its value lies in adapting the location of a service to the movement of water and the people who need it.",
+      "## How does a school day operate?",
+      "The organisation describes a boat that first acts as a school bus, making scheduled collection stops. It then docks and becomes a classroom. Lessons are therefore not simply conducted while a vessel sails through a flood. Teachers and pupils need a stable setting in which to read, write and use equipment. The same boat can organise three classes in a day, serving successive groups rather than requiring one group to remain aboard throughout all its movements. [Shidhulai programme description](https://shidhulai.org/our-work.html)",
+      "### Thirty seats are not the same as thirty annual pupils",
+      "Shidhulai describes classroom space for 30 students and primary education through grade V. That is a capacity statement about a class. The number of children served over a year requires enrolment and attendance records. Likewise, three daily classes do not automatically prove that every seat is occupied each time. Distinguishing classroom size, class sessions and enrolled pupils makes it possible to discuss reach without inflating the programme’s scale. [Shidhulai programme description](https://shidhulai.org/our-work.html)",
+      "## How is the boat designed for teaching?",
+      "The operator describes metal beams that support an open interior, wooden floors, a higher ceiling and a waterproof roof carrying solar panels. Classroom design has to work within a hull that can move and dock. Books, writing space and room for a teacher remain essential. Large openings can bring in daylight and air, while a usable roof shelters the learning space. These features show the meeting of boatbuilding and educational design. A classroom has to be both transportable and workable after arrival. [Shidhulai boat design and innovations](https://shidhulai.org/our-innovations.html)",
+      "### Why local repair knowledge matters",
+      "Timber, joints, roofing and equipment all need care under wet conditions. A useful design is one that can be maintained, not only launched. Local builders’ familiarity with materials and waterways can help connect a new service to an existing repair economy. UNESCO emphasises that knowledge in its account of the initiative. The practical question extends beyond whether a boat floats: it must remain available on the days when pupils and teachers expect it. [UNESCO 2025 literacy prize announcement](https://www.unesco.org/en/articles/bangladeshs-sidhulai-swanirvar-sangstha-receives-unesco-confucius-literacy-prize-2025?hub=67252-2)",
+      "## What does solar power do on board?",
+      "Solar electricity supports lighting, computers and other learning equipment. Shidhulai also describes solar lanterns and evening activities. The panels generate electricity from sunlight, which can be stored and used according to the equipment installed. Describing a boat as “solar-powered” does not by itself establish that its propulsion is entirely solar. Classroom electricity and the energy needed to move the hull are different uses, and the equipment’s specifications determine which is being supplied. [Shidhulai programme description](https://shidhulai.org/our-work.html) [Shidhulai boat design and innovations](https://shidhulai.org/our-innovations.html)",
+      "### Electricity helps, but teachers still organise the lesson",
+      "A laptop can make resources available where a fixed connection or grid supply is difficult. It does not establish how often the device is usable, what pupils learn from it or whether every lesson requires it. Books and teacher-led activities remain part of the classroom described by the operator. For broader context on the difference between electricity supply and total energy use, see PRESDA’s article on [Uruguay’s renewable electricity system](/articles/uruguay-98-percent-renewable-electricity/).",
+      "## How many school boats are there?",
+      "UNESCO’s article, updated in July 2026, reports 56 vessels in Shidhulai’s wider fleet. It identifies 26 as classrooms, 10 as libraries and computer laboratories, and eight as training centres. Other boats serve healthcare, play and transportation. The important distinction is between the full fleet and its school component. Calling all 56 vessels schools would erase the roles assigned to other services and exaggerate the number of classrooms. [UNESCO 2025 literacy prize announcement](https://www.unesco.org/en/articles/bangladeshs-sidhulai-swanirvar-sangstha-receives-unesco-confucius-literacy-prize-2025?hub=67252-2)",
+      "### Why older sources give different numbers",
+      "UNICEF’s 2015 summary describes 54 mixed-use vessels. An earlier UNDP study also describes a fleet of 54, with 20 school boats in that account. Those figures belong to their reporting periods and classifications. They are useful records of the programme’s development, but they should not replace a dated 2026 description. Nor should figures from different years be added together, since many vessels could be counted repeatedly. Current fleet size, cumulative pupils reached and daily attendance answer different questions. [UNICEF State of the World’s Children 2015 summary](https://papuanewguinea.un.org/en/download/4152/21249) [UNDP Equator Prize programme study](https://sustainabledevelopment.un.org/content/documents/731undp.pdf)",
+      "## Why access matters especially for girls",
+      "The operator identifies distance and restrictions on girls’ travel as barriers that a nearby collection route can reduce. Keeping education close to a community can also make the service more acceptable to families. The programme connects schooling with information about rights and opportunities for women and girls. These are the organisation’s stated aims and explanations. To establish how much any outcome changed, an evaluation would still need attendance, progression and comparison data, together with the views of the families involved. [Shidhulai programme description](https://shidhulai.org/our-work.html)",
+      "### What recognition can and cannot establish",
+      "The initiative was selected for the UNESCO Confucius Literacy Prize 2025, with the formal presentation described in UNESCO’s 2026 report. The recognition concerns innovation and educational access in difficult geography. It is evidence of institutional recognition, while a claim about examination results or a reduction in dropout requires its own data. Keeping those measures distinct makes the achievement easier to assess. A programme can be valuable and still require careful measurement of what it delivers over time. [UNESCO 2025 literacy prize announcement](https://www.unesco.org/en/articles/bangladeshs-sidhulai-swanirvar-sangstha-receives-unesco-confucius-literacy-prize-2025?hub=67252-2)",
+      "## What else does the wider fleet provide?",
+      "The organisation describes library boats with books and digital resources, training facilities and floating health services. UNDP’s study places these activities within outreach to communities isolated by seasonal water. A school boat is therefore one element in a wider service network. A family may need information about agriculture or healthcare as well as a child’s lessons. Sharing a water-based approach across those tasks can make local navigation and docking knowledge useful for more than one public need. [Shidhulai programme description](https://shidhulai.org/our-work.html) [UNDP Equator Prize programme study](https://sustainabledevelopment.un.org/content/documents/731undp.pdf)",
+      "### Shared infrastructure has coordination costs",
+      "Several services using waterways still need timetables, staff and suitable equipment. A place convenient for a classroom might have different requirements from a clinic. A boat assigned to one purpose cannot simply be assumed available for another. This is why a fleet breakdown matters to planning as well as to statistics. The design challenge includes distributing services and keeping commitments, rather than treating every floating building as interchangeable.",
+      "## What are the limitations of the model?",
+      "The boat has to be built, maintained and staffed; collection points and routes have to remain usable. Conditions that permit an ordinary school day may differ from those during an extreme storm. A floating classroom cannot compensate for every interruption, and it does not replace the need for safe buildings, transport planning and educational investment on land. The model is best understood as a response to a specific access problem. Its transfer elsewhere would depend on local waterways, distances, maintenance and the education system it is meant to support.",
+      "### Flood adaptation can take very different forms",
+      "Some communities move a service with the water; others need to protect buildings that remain fixed. PRESDA’s account of [Shibam’s earthen tower houses](/articles/shibam-yemen-mud-brick-skyscrapers/) explores the maintenance of a settlement in a flood-prone landscape. The materials and institutions differ, but both stories show why understanding the local environment is central to keeping a community’s services and buildings usable."
+    ],
+    "references": [
+      {
+        "name": "Shidhulai programme description",
+        "url": "https://shidhulai.org/our-work.html"
+      },
+      {
+        "name": "Shidhulai boat design and innovations",
+        "url": "https://shidhulai.org/our-innovations.html"
+      },
+      {
+        "name": "Shidhulai institutional website",
+        "url": "https://www.shidhulai.org/"
+      },
+      {
+        "name": "UNESCO 2025 literacy prize announcement",
+        "url": "https://www.unesco.org/en/articles/bangladeshs-sidhulai-swanirvar-sangstha-receives-unesco-confucius-literacy-prize-2025?hub=67252-2"
+      },
+      {
+        "name": "UNDP Equator Prize programme study",
+        "url": "https://sustainabledevelopment.un.org/content/documents/731undp.pdf"
+      },
+      {
+        "name": "UNICEF State of the World’s Children 2015 summary",
+        "url": "https://papuanewguinea.un.org/en/download/4152/21249"
+      }
+    ],
+    "relatedSlugs": [
+      "uruguay-98-percent-renewable-electricity",
+      "shibam-yemen-mud-brick-skyscrapers"
+    ],
+    "faq": [
+      {
+        "question": "How do Bangladesh’s floating schools work?",
+        "answer": "The boats collect children at riverside stops, then dock for lessons. The vessel combines transport and classroom functions."
+      },
+      {
+        "question": "Who operates the programme described here?",
+        "answer": "Shidhulai Swanirvar Sangstha, led by architect Mohammed Rezwan, has operated school boats since 2002."
+      },
+      {
+        "question": "How many of its boats are classrooms?",
+        "answer": "UNESCO’s July 2026 update identifies 26 classrooms in a wider fleet of 56 vessels."
+      },
+      {
+        "question": "Do the solar panels propel the boats?",
+        "answer": "The programme describes solar electricity for learning equipment and lighting. That description alone does not establish the energy source for propulsion."
+      },
+      {
+        "question": "Do floating schools replace ordinary schools?",
+        "answer": "They address access in particular water-based communities. Their usefulness depends on local conditions and the wider education system."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "509",
+    "slug": "shibam-yemen-mud-brick-skyscrapers",
+    "title": "SHIBAM: YEMEN'S ANCIENT SKYSCRAPERS MADE OF MUD",
+    "seoTitle": "Shibam: how Yemen’s mud-brick tower houses endure",
+    "metaDescription": "Explore Shibam’s earthen towers, urban history, building methods and continuing conservation needs in Yemen’s Wadi Hadramaut.",
+    "excerpt": "Explore Shibam’s earthen towers, urban history, building methods and continuing conservation needs in Yemen’s Wadi Hadramaut.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-18",
+    "lastUpdated": "2026-11-18",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/shibam-yemen-mud-brick-skyscrapers.jpg",
+    "coverAlt": "Supplied editorial illustration of Shibam’s clustered earthen tower houses in Wadi Hadramaut",
+    "headlineHighlights": {
+      "red": "SHIBAM",
+      "gold": "SKYSCRAPERS"
+    },
+    "tags": [
+      "SHIBAM",
+      "History"
+    ],
+    "content": [
+      "Shibam’s skyline rises from Yemen’s Wadi Hadramaut in a compact cluster of earthen tower houses. The buildings demonstrate how sun-dried brick, skilled maintenance and a dense urban plan can support several storeys of domestic life. Calling them “mud skyscrapers” communicates their striking height, but the more revealing story is how people built, inhabited and repaired them. The town’s survival depends on those continuing relationships as much as on the outline seen in photographs. [UNESCO Old Walled City of Shibam listing](https://whc.unesco.org/en/list/192/) [Aga Khan Award rehabilitation project](https://the.akdn/en/akdn/pt/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/rehabilitation-old-city)",
+      "## Which Shibam is this?",
+      "[[NOV18_RESILIENCE_509]]",
+      "The World Heritage property is the Old Walled City of Shibam in Hadramaut, eastern Yemen. The name should be distinguished from Shibam near Kawkaban in the western highlands. Photographs of the two places can appear together in searches, although they show different settlements. In Hadramaut, the tower houses stand together within a walled plan of streets and squares. The surrounding wadi is a landscape of seasonal water, cultivation and routes across southern Arabia. [UNESCO Old Walled City of Shibam listing](https://whc.unesco.org/en/list/192/)",
+      "### Why the setting matters",
+      "A wadi can be dry for long periods and still carry destructive floodwater. Settlement beside it therefore involves both opportunity and exposure. Water supports cultivation and the materials used in construction, while flooding can damage the urban fabric. A skyline photograph tends to separate the towers from that working landscape. Understanding the fields, water and access routes restores the environmental context in which the city developed.",
+      "## How old is the city?",
+      "Shibam’s settlement history reaches into the pre-Islamic period, but UNESCO describes the surviving urban ensemble principally through its sixteenth-century development and later continuity. Its account notes an earlier settlement partly destroyed by a major flood in 1532–1533. Older elements include the Friday mosque, dating largely to the ninth and tenth centuries, and the castle associated with the thirteenth century. “Ancient” in the title therefore describes a long urban history; it does not mean every visible tower has stood untouched since antiquity. [UNESCO Old Walled City of Shibam listing](https://whc.unesco.org/en/list/192/)",
+      "### A city can be old while its fabric changes",
+      "In a living town, a building may be repaired, rebuilt or altered while the settlement’s street pattern and use continue. The age of a wall surface differs from the age of a plan or a foundation. This matters especially for earth construction, where protective layers are renewed. A fresh repair is not automatically evidence that the heritage is inauthentic. The question is what was repaired, with which techniques, and how the work relates to the building’s continued use.",
+      "## What are the towers made from?",
+      "The houses use sun-dried earth bricks, often described as adobe. Soil is shaped into units and dried, rather than fired in a kiln like many modern bricks. Their strength depends on the material, its preparation, the wall’s dimensions and protection from prolonged wetting. A tower is therefore a designed masonry structure. Its apparent simplicity from a distance hides the selection, manufacture and arrangement of many individual components, alongside the timber and finishes needed to make rooms usable. [UNESCO Old Walled City of Shibam listing](https://whc.unesco.org/en/list/192/) [Archnet Shibam Urban Development Project archive](https://www.archnet.org/sites/5215)",
+      "### How can earthen walls carry several storeys?",
+      "A load-bearing wall supports the weight above it and transfers that weight toward the ground. Thickness, alignment and the size of openings affect that load path. Lower parts of a tall masonry building generally require enough mass and stability to carry the upper structure. Floors also need reliable support where they meet the walls. These basic principles explain why the skyline is an achievement of construction knowledge. “Made of mud” identifies a material without explaining the engineering that turns it into a house.",
+      "## Why build upwards?",
+      "A compact walled settlement has limited ground area. Increasing the height of houses creates more usable space within that boundary, while proximity supports a dense network of streets and neighbours. UNESCO identifies Shibam as an outstanding example of urban planning based on multi-storeyed construction, with houses reaching up to seven storeys in its description. The towers form a town, rather than a collection of isolated monuments. Their relationship to one another is part of the heritage being protected. [UNESCO Old Walled City of Shibam listing](https://whc.unesco.org/en/list/192/)",
+      "### Height also changes domestic organisation",
+      "A vertical house divides activities through stairs and levels. Storage, receiving visitors and family life require different kinds of access and privacy. The arrangement can allow several spaces on one small footprint, but moving between them is a daily task. Stairs, ventilation, daylight and the upkeep of floors all matter to the people living inside. A label such as “skyscraper” captures height while leaving those domestic questions unanswered. Looking at a house as an inhabited structure makes the architecture more intelligible.",
+      "## How does the city manage water?",
+      "Earth construction is particularly vulnerable where water concentrates or remains trapped. Roofs, wall surfaces, drainage and the ground around a building therefore form one protection system. Repairs to a visible facade alone cannot solve a problem originating at a roof edge or a blocked route for water. The city’s exposure to flooding is a continuing conservation issue identified by UNESCO. Maintenance has to consider the settlement and its surroundings, not only the most photogenic towers. [UNESCO Old Walled City of Shibam listing](https://whc.unesco.org/en/list/192/) [UNESCO 2015 conservation decision](https://whc.unesco.org/en/decisions/6315/)",
+      "### Why a protective surface must be renewed",
+      "A protective coating receives weathering that would otherwise act more directly on the masonry beneath it. Over time, cracks or lost patches can let water reach vulnerable areas. Renewing a surface is part of keeping the building functional. The appropriate repair depends on how old and new materials behave together. A hard-looking replacement is not automatically a better solution if it changes moisture movement or damages adjacent fabric. Conservation work therefore depends on material knowledge and observation as well as appearance. [Archnet Shibam Urban Development Project archive](https://www.archnet.org/sites/5215)",
+      "## What did the rehabilitation programme do?",
+      "A joint Yemeni-German initiative supported owners with technical and financial help to repair housing and sustain the city’s social life. The project received the Aga Khan Award for Architecture in the 2005–2007 cycle. The award’s account emphasises economic and social structures alongside preservation, and describes renovation of almost half the housing stock at that stage. This is a record of a particular programme and period. It should not be presented as a current count of all houses in good condition. [Aga Khan Award rehabilitation project](https://the.akdn/en/akdn/pt/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/rehabilitation-old-city)",
+      "### Why owners and craftspeople are central",
+      "A lived-in tower needs someone to notice a leak, organise repairs and find the people able to carry them out. Training and financial support can help keep those tasks within reach. If residents cannot maintain a building or choose to leave, an attractive exterior alone does not secure its future. The rehabilitation approach treated the city as a place to live and work. That makes livelihoods, services and the transmission of skills part of the architectural story. [Aga Khan Award rehabilitation project](https://the.akdn/en/akdn/pt/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/rehabilitation-old-city) [Archnet Shibam Urban Development Project archive](https://www.archnet.org/sites/5215)",
+      "## Why is Shibam on the danger list?",
+      "UNESCO inscribed Shibam on the World Heritage List in 1982 and placed it on the List of World Heritage in Danger in 2015. It remains on that danger list. The 2015 decision connected conservation needs with Yemen’s security situation and called for rehabilitation and a management framework when feasible. The designation identifies a need for protection; it is not a declaration that every building has been destroyed. Conservation must contend with resources, access and the continuing vulnerability of the urban fabric. [UNESCO Old Walled City of Shibam listing](https://whc.unesco.org/en/list/192/) [UNESCO 2015 conservation decision](https://whc.unesco.org/en/decisions/6315/)",
+      "### Old reports need their dates",
+      "A project report can document repairs completed before conflict, while a later decision can identify a different set of needs. Reading them as if they described one present-day inspection would produce a misleading picture. The same applies to percentages of houses recorded or repaired. Those figures depend on a date, a survey area and a definition of completion. The most careful account keeps the timeline visible and treats a recorded achievement as a basis for further work, rather than a permanent guarantee.",
+      "## How should the “Manhattan of the desert” nickname be read?",
+      "The comparison points to clustered tall buildings and a memorable silhouette. It cannot explain Shibam’s materials, ownership, history or relationship with the wadi. Those have to be investigated on their own terms. Earthen construction follows a building tradition with its own strengths, constraints and requirements for care. The nickname can introduce the view, while the homes and the people using them explain what the view contains.",
+      "### What photographs and illustrations can establish",
+      "The supplied hero is labelled as editorial imagery. A supporting documentary photograph records the city at a specified date, rather than certifying its present condition. Both should be identified precisely as Shibam in Hadramaut. To examine another place where architecture must be understood through material, setting and continuing religious use, read PRESDA’s feature on [Lalibela’s rock-hewn churches](/articles/lalibela-ethiopia-rock-hewn-churches/).",
+      "## What makes Shibam’s survival significant?",
+      "The towers show that longevity can depend on repeated maintenance rather than freedom from change. Their fabric, skills and urban relationships have to be renewed together. This is why preservation includes documentation and repairs but also support for the people doing the work. For a different adaptation to seasonal water, PRESDA’s article on [Bangladesh’s floating schools](/articles/bangladesh-floating-schools-flood-classrooms/) follows a service designed to move. Shibam’s challenge is to care for buildings that stay, within a landscape that continues to change around them."
+    ],
+    "references": [
+      {
+        "name": "UNESCO Old Walled City of Shibam listing",
+        "url": "https://whc.unesco.org/en/list/192/"
+      },
+      {
+        "name": "UNESCO 2015 conservation decision",
+        "url": "https://whc.unesco.org/en/decisions/6315/"
+      },
+      {
+        "name": "Aga Khan Award rehabilitation project",
+        "url": "https://the.akdn/en/akdn/pt/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/rehabilitation-old-city"
+      },
+      {
+        "name": "Archnet Shibam Urban Development Project archive",
+        "url": "https://www.archnet.org/sites/5215"
+      },
+      {
+        "name": "Aga Khan Award 2007 project publication",
+        "url": "https://static.the.akdn/53832/1641876890-2007-akaa_book.pdf"
+      }
+    ],
+    "relatedSlugs": [
+      "lalibela-ethiopia-rock-hewn-churches",
+      "bangladesh-floating-schools-flood-classrooms"
+    ],
+    "faq": [
+      {
+        "question": "Where is the tower-house city of Shibam?",
+        "answer": "In Wadi Hadramaut, eastern Yemen. It is distinct from Shibam near Kawkaban in the western highlands."
+      },
+      {
+        "question": "How old are the towers?",
+        "answer": "UNESCO associates the principal ensemble with sixteenth-century development and later continuity. The settlement itself has earlier origins."
+      },
+      {
+        "question": "How tall are the houses?",
+        "answer": "UNESCO’s description identifies houses up to seven storeys high. Individual buildings and measurement conventions vary."
+      },
+      {
+        "question": "How can mud-brick buildings survive?",
+        "answer": "Sound construction, suitable protective surfaces, drainage and recurring skilled maintenance help protect their load-bearing walls."
+      },
+      {
+        "question": "Why is Shibam on UNESCO’s danger list?",
+        "answer": "The listing began in 2015 amid serious conservation needs and Yemen’s security crisis. It identifies the need for protection and rehabilitation."
+      }
+    ],
+    "readingTime": "9 min read"
+  },
+  {
+    "id": "510",
+    "slug": "rjukan-norway-sun-mirrors-winter-sunlight",
+    "title": "RJUKAN: THE NORWEGIAN TOWN THAT INSTALLED ARTIFICIAL SUNLIGHT",
+    "seoTitle": "Rjukan’s sun mirrors: how winter sunlight reaches the square",
+    "metaDescription": "How Rjukan’s mountainside heliostats redirect natural sunlight, why the town lies in winter shade and what the 2013 installation actually changes.",
+    "excerpt": "How Rjukan’s mountainside heliostats redirect natural sunlight, why the town lies in winter shade and what the 2013 installation actually changes.",
+    "category": "Travel",
+    "schemaType": "Article",
+    "date": "2026-11-18",
+    "lastUpdated": "2026-11-18",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/rjukan-norway-sun-mirrors-winter-sunlight.jpg",
+    "coverAlt": "Editorial illustration imagining sun mirrors beside Rjukan’s square; the real mirrors stand on the mountainside",
+    "headlineHighlights": {
+      "red": "RJUKAN",
+      "gold": "SUNLIGHT"
+    },
+    "tags": [
+      "RJUKAN",
+      "Travel"
+    ],
+    "content": [
+      "Rjukan’s winter sun mirrors redirect natural sunlight from a mountainside to the town square below. The installation opened in 2013, realising an idea discussed a century earlier. The effect can look like an artificial sunbeam, but the light itself comes from the sun. Computer-controlled mirrors change its path so that people can stand in a patch of direct light where the surrounding mountains would otherwise cast shade. [VisitRjukan official sun mirror description](https://visitrjukan.com/en/things-to-do/the-sun-mirror/) [Hydro account of the 2013 project](https://www.hydro.com/en/global/media/news/2013/majestic-mirrors-bring-light-to-old-hydro-town/)",
+      "## Why does Rjukan lose direct winter sunshine?",
+      "[[NOV18_RESILIENCE_510]]",
+      "The Norwegian town occupies a deep valley with mountains that block the low winter sun. VisitRjukan describes shade from roughly mid-October to mid-March at the valley bottom. That is a local horizon problem. The sun still rises, and higher slopes can receive light while buildings below remain in shadow. The exact experience varies by position and date, which explains why the return of sunlight moves across different parts of town rather than occurring everywhere at one instant. [VisitRjukan official sun mirror description](https://visitrjukan.com/en/things-to-do/the-sun-mirror/)",
+      "### Daylight and direct sunshine are different",
+      "A place in shadow can still receive light scattered by the sky. Direct sunshine is the beam that reaches a surface along an unobstructed path from the sun. A mountain can block that path without making the whole day dark. This distinction explains both the problem and the solution at Rjukan. The mirrors provide a new path for some direct sunlight, while the town continues to receive ordinary diffuse daylight according to the weather.",
+      "## Where are the real mirrors?",
+      "The three mirrors stand on the mountainside above Rjukan, at a location with access to winter sun. They reflect light down to a chosen area of the square. The supplied hero imagines large mirrors beside the town’s buildings; it is labelled as an illustration. Its arrangement should not be used to locate the actual installation. Documentary photographs of the real mountainside system provide the geographic evidence. The difference is central to understanding why the project works. [VisitRjukan official sun mirror description](https://visitrjukan.com/en/things-to-do/the-sun-mirror/)",
+      "### Why a mirror in the shade would not solve the problem",
+      "A mirror can redirect a beam that reaches it. If it stands in the same mountain shadow as the square, it lacks the direct sunlight the project is intended to deliver. Choosing a sunny installation point and a clear route to the receiving area therefore comes before tracking and control. The design uses the valley’s geometry to connect a sunlit surface above with a shaded public space below.",
+      "## How do the heliostats follow the sun?",
+      "A heliostat is a mirror system that changes orientation to keep reflected sunlight directed towards a chosen target. The sun’s apparent position changes through the day and the seasons. A fixed mirror would sweep a moving patch across its surroundings; a tracking system adjusts the reflecting surface instead. At Rjukan, computer control keeps the reflected light aimed at the square within the operating conditions. The engineering report in Optica describes technology associated with solar installations adapted to this public-space project. [Optica engineering report](https://www.optica-opn.org/home/newsroom/2013/november/mirrors_convey_sunshine_to_dark_valley_town/)",
+      "### The basic geometry behind the beam",
+      "Reflection follows the relationship between the incoming ray, the mirror’s surface and the outgoing ray. As the incoming direction changes, the surface has to turn if the target is to remain fixed. That adjustment is why a heliostat needs more than a shiny panel. It also requires a mount, movement, control and a structure capable of holding its orientation. The mechanism can guide sunlight; the available light still depends on the sun reaching the mirrors.",
+      "## How much of the square receives light?",
+      "VisitRjukan lists each mirror as 17 square metres and describes an approximately 600-square-metre elliptical illuminated area on the square. These are different measurements: the collecting mirror surface and the patch of light below. The footprint depends on geometry and conditions, and the installation does not supply direct sun to every street or home. A person can move into the illuminated part of the square while nearby places remain in the mountain’s shadow. [VisitRjukan official sun mirror description](https://visitrjukan.com/en/things-to-do/the-sun-mirror/)",
+      "### An illuminated area is not an energy-efficiency rating",
+      "Square metres describe area. They cannot by themselves tell us how much light arrives per square metre, how bright the patch feels or the system’s energy efficiency. Reflection, angle and the size of the footprint influence the result. Photographs may also be taken at a time chosen to show the effect clearly. A useful explanation therefore keeps surface area, brightness and electricity consumption separate. The mirrors direct light rather than turning the square into an electrically illuminated outdoor room.",
+      "## Who first proposed the idea?",
+      "VisitRjukan credits bookkeeper Oscar Kittilsen with proposing a sun mirror in 1913 and describes support from Sam Eyde, a founder of the industrial town. Visit Norway and Hydro foreground Eyde’s ambition to bring winter sunshine to the population. Those accounts describe different contributors within the early history. The local explanation is more informative than reducing a century-long project to a single inventor. An idea also needs technology, financing and a decision to make it work in a particular place. [VisitRjukan official sun mirror description](https://visitrjukan.com/en/things-to-do/the-sun-mirror/) [Visit Norway sun mirror history](https://www.visitnorway.com/listings/solspeilet/16430/) [Hydro account of the 2013 project](https://www.hydro.com/en/global/media/news/2013/majestic-mirrors-bring-light-to-old-hydro-town/)",
+      "### The cable car was another historical response",
+      "In 1928, Krossobanen provided a way to take residents up to winter sunshine. This approach moved people towards light instead of redirecting the light down to them. Its history shows that the desire for sunshine was part of life in the industrial valley long before the mirrors opened. The cable car and the heliostats belong to different moments in that history, with different engineering and practical requirements. [Visit Norway sun mirror history](https://www.visitnorway.com/listings/solspeilet/16430/)",
+      "## How did the modern installation happen?",
+      "Artist and resident Martin Andersen revived the mirror idea in 2005. The project developed into the three-mirror installation unveiled on October 30, 2013. SKF’s engineering account describes heliostats on the steep mountains above the town, while Optica reports a project cost of five million Norwegian kroner. That is a historical nominal project figure, not a current annual operating bill. Equipment, supporting structures, installation and control formed part of turning a visual idea into a working system. [SKF account of the heliostat installation](https://evolution.skf.com/living-in-shadows/) [Optica engineering report](https://www.optica-opn.org/home/newsroom/2013/november/mirrors_convey_sunshine_to_dark_valley_town/)",
+      "### Why it is also discussed as public art",
+      "The system changes a shared place and invites people to gather in the resulting light. Its public effect is therefore more than a technical measurement. Andersen has described the work as an art project, a framing retained in the local tourism account. That does not replace the optical explanation. It adds a question about how a town chooses to alter its surroundings and what an ordinary experience such as standing in sunshine can mean collectively. [VisitRjukan official sun mirror description](https://visitrjukan.com/en/things-to-do/the-sun-mirror/)",
+      "## What links the mirrors to Rjukan’s industrial history?",
+      "Rjukan formed part of the industrial landscape built around hydroelectric power and fertiliser production. UNESCO’s Rjukan–Notodden Industrial Heritage Site recognises the relationship between power generation, industry, transport and workers’ settlements. The sun mirrors are a later project, rather than the reason for that World Heritage listing. They belong in an account of a town whose environment repeatedly prompted engineering responses. The setting explains both the industrial opportunity and the winter shade experienced by its residents. [UNESCO Rjukan–Notodden Industrial Heritage Site](https://whc.unesco.org/en/list/1486/)",
+      "### Different ways of using natural energy",
+      "Hydropower, redirected sunlight and solar electricity involve different physical processes. A mirror changes the direction of light. A photovoltaic panel converts some incoming solar energy into electricity. Keeping these functions distinct helps make sense of photographs that show superficially similar flat panels. PRESDA’s feature on [Bangladesh’s solar-equipped floating schools](/articles/bangladesh-floating-schools-flood-classrooms/) explores electricity used for learning, while its account of [Iceland’s geothermal heating networks](/articles/iceland-geothermal-district-heating-homes/) follows heat used in homes.",
+      "## What are the practical limits?",
+      "Cloud cover can reduce or remove the direct beam, and the sun’s position determines when the installation can operate usefully. Snow, the condition of reflective surfaces, moving parts and control equipment all matter to maintenance. The project adds light to a selected place within those constraints. It does not change the valley’s climate or establish a medical treatment. A bright photograph documents an effect under particular conditions; it is not a promise of identical light on every winter day.",
+      "### What a visitor can actually look for",
+      "The informative comparison is between the illuminated patch and the surrounding shadow, together with the mountainside location of the mirrors. That shows the path the project creates. Current local information is the appropriate source for operation and access, since weather and maintenance can affect the experience. Understanding the mechanism makes the sight more interesting: the light in the square has travelled along an engineered route from an otherwise inaccessible winter sun."
+    ],
+    "references": [
+      {
+        "name": "VisitRjukan official sun mirror description",
+        "url": "https://visitrjukan.com/en/things-to-do/the-sun-mirror/"
+      },
+      {
+        "name": "Visit Norway sun mirror history",
+        "url": "https://www.visitnorway.com/listings/solspeilet/16430/"
+      },
+      {
+        "name": "Hydro account of the 2013 project",
+        "url": "https://www.hydro.com/en/global/media/news/2013/majestic-mirrors-bring-light-to-old-hydro-town/"
+      },
+      {
+        "name": "Optica engineering report",
+        "url": "https://www.optica-opn.org/home/newsroom/2013/november/mirrors_convey_sunshine_to_dark_valley_town/"
+      },
+      {
+        "name": "SKF account of the heliostat installation",
+        "url": "https://evolution.skf.com/living-in-shadows/"
+      },
+      {
+        "name": "UNESCO Rjukan–Notodden Industrial Heritage Site",
+        "url": "https://whc.unesco.org/en/list/1486/"
+      }
+    ],
+    "relatedSlugs": [
+      "bangladesh-floating-schools-flood-classrooms",
+      "iceland-geothermal-district-heating-homes"
+    ],
+    "faq": [
+      {
+        "question": "Is Rjukan’s sunlight artificial?",
+        "answer": "The light is natural sunlight. The engineered part is the system that reflects and directs it."
+      },
+      {
+        "question": "Where are the mirrors?",
+        "answer": "On the mountainside above town, where they can receive winter sunlight and redirect it to the square."
+      },
+      {
+        "question": "How many mirrors are there?",
+        "answer": "Three computer-controlled mirrors. VisitRjukan lists each as 17 square metres."
+      },
+      {
+        "question": "Does the system light the whole town?",
+        "answer": "It directs sunlight to a selected area of the square. The surrounding valley can remain shaded."
+      },
+      {
+        "question": "Does it work in cloudy weather?",
+        "answer": "Its useful direct beam depends on sunlight reaching the mirrors, so weather affects the visible result."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
     "id": "502",
     "slug": "derinkuyu-hidden-underground-city-turkey",
     "title": "DERINKUYU: THE HIDDEN CITY BENEATH TURKEY",

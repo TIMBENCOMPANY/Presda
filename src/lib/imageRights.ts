@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/kindertransport-trains-saved-10000-children.jpg","/articles/night-witches-soviet-women-night-bombers.jpg","/articles/bangladesh-floating-schools-flood-classrooms.jpg","/articles/shibam-yemen-mud-brick-skyscrapers.jpg","/articles/rjukan-norway-sun-mirrors-winter-sunlight.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/derinkuyu-hidden-underground-city-turkey.jpg","/articles/ouarzazate-morocco-africas-hollywood.jpg","/articles/ota-benga-african-man-exhibited-bronx-zoo.jpg","/articles/zanzibar-slave-market-history-abolition.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/robert-pattinson-new-james-bond-007.jpg","/articles/romania-merry-cemetery-sapanta.jpg","/articles/up-helly-aa-lerwick-shetland-viking-fire-festival.jpg","/articles/great-smog-london-1952-clean-air-act.jpg","/articles/lalibela-ethiopia-rock-hewn-churches.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/rapa-nui-moai-statues-mystery.jpg","/articles/kukur-tihar-nepal-festival-honoring-dogs.jpg","/articles/ethiopia-13-month-calendar-pagume-enkutatash.jpg","/articles/iceland-geothermal-district-heating-homes.jpg","/articles/chandrayaan-3-india-historic-moon-landing.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

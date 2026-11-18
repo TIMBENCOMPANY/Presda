@@ -8,6 +8,171 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV18_RESILIENCE_506]]": {
+    "caption": "A chronology of rescue and separation",
+    "headers": [
+      "Date",
+      "Milestone",
+      "Historical significance"
+    ],
+    "rows": [
+      [
+        "9–10 November 1938",
+        "Anti-Jewish pogroms in Germany and annexed Austria",
+        "Pressure for a practical rescue route intensified"
+      ],
+      [
+        "2 December 1938",
+        "First organised arrivals at Harwich",
+        "Rail and sea journeys brought children to Britain"
+      ],
+      [
+        "September 1939",
+        "War interrupted the main programme",
+        "Parents and children faced further separation"
+      ],
+      [
+        "May 1940",
+        "Exceptional evacuation of 74 children from the Netherlands",
+        "Explains the later endpoint used in some accounts"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV18_RESILIENCE_507]]": {
+    "caption": "From formation to the 46th Guards",
+    "headers": [
+      "Date or period",
+      "Milestone",
+      "What it establishes"
+    ],
+    "rows": [
+      [
+        "October 1941",
+        "Three women’s aviation regiments authorised",
+        "Their fighter, bomber and night-bomber roles differed"
+      ],
+      [
+        "Mid-1942",
+        "588th operating against German forces",
+        "Beginning of its combat period in PACAF’s chronology"
+      ],
+      [
+        "1943",
+        "588th becomes the 46th Guards",
+        "A new designation for the same regiment"
+      ],
+      [
+        "1945",
+        "Operations continue to the war’s end",
+        "Campaign totals count repeated operational flights"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV18_RESILIENCE_508]]": {
+    "caption": "Development and the meaning of the fleet figures",
+    "headers": [
+      "Date or measure",
+      "Recorded detail",
+      "How to interpret it"
+    ],
+    "rows": [
+      [
+        "2002",
+        "First Shidhulai school boat began operating",
+        "Programme milestone reported by the operator"
+      ],
+      [
+        "2015 UNICEF account",
+        "54 mixed-use vessels",
+        "A historical fleet snapshot"
+      ],
+      [
+        "July 2026 UNESCO update",
+        "56 vessels, including 26 classrooms",
+        "Total fleet and school boats are different counts"
+      ],
+      [
+        "Operator’s class description",
+        "30 places and three classes per day",
+        "Capacity and sessions do not establish annual enrolment"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV18_RESILIENCE_509]]": {
+    "caption": "Shibam’s layers of history and conservation",
+    "headers": [
+      "Date or period",
+      "Milestone",
+      "How to interpret it"
+    ],
+    "rows": [
+      [
+        "Pre-Islamic period",
+        "Origins of the settlement",
+        "Earlier than the surviving tower-house ensemble"
+      ],
+      [
+        "1532–1533 and the 16th century",
+        "Major flood and later urban development",
+        "The city’s long history includes rebuilding"
+      ],
+      [
+        "1982 / 2007",
+        "World Heritage inscription / Aga Khan rehabilitation award",
+        "Two distinct forms of recognition"
+      ],
+      [
+        "2015 onwards",
+        "World Heritage in Danger listing",
+        "Continuing conservation needs, not a count of destroyed houses"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV18_RESILIENCE_510]]": {
+    "caption": "A century from proposal to reflected sunshine",
+    "headers": [
+      "Date",
+      "Milestone",
+      "Meaning"
+    ],
+    "rows": [
+      [
+        "1913",
+        "Early mirror proposal associated with Kittilsen and Eyde",
+        "The local problem predates the modern technology"
+      ],
+      [
+        "1928",
+        "Krossobanen cable car opens",
+        "Residents could travel up towards winter sun"
+      ],
+      [
+        "2005",
+        "Martin Andersen revives the mirror idea",
+        "Start of the modern project’s development"
+      ],
+      [
+        "30 October 2013",
+        "Three-mirror system unveiled",
+        "Natural sunlight redirected towards the square"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV17_HISTORY_502]]": {
     "caption": "A concise chronology, with uncertainty retained",
     "headers": [

@@ -1,0 +1,250 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/rjukan-norway-sun-mirrors-winter-sunlight/",
+  "path": "/fr/articles/rjukan-norway-sun-mirrors-winter-sunlight/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-18",
+    "terminologyChecked": true
+  },
+  "title": "RJUKAN : LA VILLE NORVÉGIENNE QUI A INSTALLÉ UN SOLEIL ARTIFICIEL",
+  "seoTitle": "Rjukan : comment les miroirs apportent le soleil en hiver",
+  "description": "Des miroirs sur la montagne à la place du centre : comprendre la lumière réfléchie, l’ombre hivernale et les limites du projet inauguré en 2013.",
+  "excerpt": "Des miroirs sur la montagne à la place du centre : comprendre la lumière réfléchie, l’ombre hivernale et les limites du projet inauguré en 2013.",
+  "headlineHighlights": {
+    "red": "RJUKAN",
+    "gold": "SOLEIL ARTIFICIEL"
+  },
+  "keywords": [
+    "RJUKAN",
+    "SOLEIL ARTIFICIEL"
+  ],
+  "searchIntent": "Des miroirs sur la montagne à la place du centre : comprendre la lumière réfléchie, l’ombre hivernale et les limites du projet inauguré en 2013.",
+  "category": "Travel",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "image": {
+    "src": "/articles/rjukan-norway-sun-mirrors-winter-sunlight.jpg",
+    "alt": "Illustration imaginant des miroirs près de la place de Rjukan ; l’installation réelle se situe sur la montagne",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Les miroirs de Rjukan redirigent la lumière naturelle depuis un versant vers la place de la ville. L’installation ouvre en 2013, concrétisant une idée évoquée un siècle auparavant. L’effet peut rappeler un soleil artificiel, mais la lumière provient bien du soleil. Des miroirs pilotés par ordinateur modifient son trajet pour créer une zone de rayonnement direct dans l’ombre des montagnes. [Source · visitrjukan.com](https://visitrjukan.com/en/things-to-do/the-sun-mirror/) [Source · www.hydro.com](https://www.hydro.com/en/global/media/news/2013/majestic-mirrors-bring-light-to-old-hydro-town/)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi Rjukan perd-elle le soleil direct en hiver ?"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV18_RESILIENCE_510]]",
+      "caption": "Un siècle entre l’idée et la lumière réfléchie",
+      "headings": [
+        "Date",
+        "Étape",
+        "Signification"
+      ],
+      "rows": [
+        [
+          "1913",
+          "Proposition associée à Kittilsen et Eyde",
+          "Le besoin local précède la technologie actuelle"
+        ],
+        [
+          "1928",
+          "Ouverture du téléphérique Krossobanen",
+          "Les habitants peuvent monter vers le soleil d’hiver"
+        ],
+        [
+          "2005",
+          "Martin Andersen reprend l’idée",
+          "Développement du projet moderne"
+        ],
+        [
+          "30 octobre 2013",
+          "Inauguration des trois miroirs",
+          "Soleil naturel redirigé vers la place"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La ville norvégienne occupe une vallée profonde dont les montagnes masquent le soleil bas de l’hiver. VisitRjukan décrit une période d’ombre approximativement de la mi-octobre à la mi-mars au fond de la vallée. Le problème tient à l’horizon local. Le soleil se lève encore et les pentes hautes peuvent recevoir ses rayons tandis que les bâtiments restent dans l’ombre. L’effet varie selon l’emplacement et la date, et le retour des rayons se déplace progressivement dans la ville. [Source · visitrjukan.com](https://visitrjukan.com/en/things-to-do/the-sun-mirror/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Lumière du jour et soleil direct"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un lieu à l’ombre reçoit de la lumière diffusée par le ciel. Le soleil direct suppose un trajet sans obstacle entre l’astre et la surface. La montagne peut bloquer ce trajet sans rendre la journée entièrement sombre. Cette différence explique le problème et sa solution. Les miroirs créent une nouvelle route pour une partie des rayons directs, tandis que la ville reçoit la lumière diffuse habituelle selon la météo."
+    },
+    {
+      "type": "heading",
+      "text": "Où se trouvent les vrais miroirs ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les trois miroirs sont placés sur la montagne au-dessus de Rjukan, là où le soleil hivernal les atteint. Ils renvoient la lumière vers une partie choisie de la place. L’image principale imagine des miroirs auprès des bâtiments et porte la mention d’illustration. Sa disposition ne permet pas de localiser l’équipement réel. Les photographies documentaires du versant donnent cette information géographique. Cette différence est essentielle pour comprendre pourquoi le système fonctionne. [Source · visitrjukan.com](https://visitrjukan.com/en/things-to-do/the-sun-mirror/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi un miroir à l’ombre ne suffirait pas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un miroir redirige le faisceau qui l’atteint. S’il reste dans la même ombre que la place, il manque du soleil direct recherché. Choisir un point ensoleillé et une trajectoire dégagée vers la zone réceptrice précède donc le suivi et le pilotage. Le projet utilise la géométrie de la vallée pour relier une surface éclairée en hauteur à un espace public ombragé plus bas."
+    },
+    {
+      "type": "heading",
+      "text": "Comment les héliostats suivent-ils le soleil ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un héliostat change l’orientation d’un miroir pour maintenir les rayons réfléchis vers une cible. La position apparente du soleil évolue au fil de la journée et des saisons. Avec un miroir fixe, la tache lumineuse se déplacerait. Le suivi ajuste la surface pour conserver la direction voulue. À Rjukan, l’ordinateur vise la place dans les conditions d’utilisation. Le compte rendu d’Optica décrit une technologie issue des installations solaires et adaptée à ce projet d’espace public. [Source · www.optica-opn.org](https://www.optica-opn.org/home/newsroom/2013/november/mirrors_convey_sunshine_to_dark_valley_town/)"
+    },
+    {
+      "type": "subheading",
+      "text": "La géométrie derrière le faisceau"
+    },
+    {
+      "type": "paragraph",
+      "text": "La réflexion dépend de la direction du rayon entrant, de la surface et du rayon sortant. Si l’arrivée change, le miroir doit tourner pour maintenir la cible. L’héliostat exige donc une monture, du mouvement, une commande et une structure capable de garder l’orientation. Le mécanisme guide les rayons ; leur disponibilité continue de dépendre de l’arrivée du soleil sur les miroirs."
+    },
+    {
+      "type": "heading",
+      "text": "Quelle surface de la place reçoit la lumière ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "VisitRjukan donne 17 mètres carrés par miroir et une zone éclairée elliptique d’environ 600 mètres carrés. Ce sont deux mesures différentes : la surface réfléchissante et l’empreinte en contrebas. Celle-ci dépend de la géométrie et des conditions. Le système ne fournit pas le soleil direct à chaque rue ou maison. Une personne peut rejoindre la zone éclairée tandis que les espaces voisins restent à l’ombre de la montagne. [Source · visitrjukan.com](https://visitrjukan.com/en/things-to-do/the-sun-mirror/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Une superficie ne donne pas un rendement énergétique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des mètres carrés indiquent une surface. Ils ne suffisent pas à déterminer la lumière reçue par unité de surface, la luminosité ressentie ou le rendement énergétique. Réflexion, angle et étendue de la zone influencent le résultat. Une photographie peut également être prise au moment le plus favorable. L’explication doit donc distinguer superficie, luminosité et consommation électrique. Le système dirige la lumière naturelle vers la place."
+    },
+    {
+      "type": "heading",
+      "text": "Qui a proposé l’idée ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "VisitRjukan attribue la proposition d’un miroir solaire au comptable Oscar Kittilsen en 1913 et décrit le soutien de Sam Eyde, fondateur de la ville industrielle. Visit Norway et Hydro mettent davantage en avant l’ambition d’Eyde d’apporter le soleil hivernal aux habitants. Ces récits soulignent différents acteurs. L’histoire locale devient plus instructive quand elle suit ces contributions. Une idée nécessite aussi technique, financement et décision pour devenir un équipement dans un lieu précis. [Source · visitrjukan.com](https://visitrjukan.com/en/things-to-do/the-sun-mirror/) [Source · www.visitnorway.com](https://www.visitnorway.com/listings/solspeilet/16430/) [Source · www.hydro.com](https://www.hydro.com/en/global/media/news/2013/majestic-mirrors-bring-light-to-old-hydro-town/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Le téléphérique, une réponse historique différente"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1928, Krossobanen permet de monter vers le soleil d’hiver. Il déplace les habitants vers la lumière au lieu de renvoyer celle-ci vers eux. Son histoire montre que le désir de soleil appartient à la vie de la vallée industrielle longtemps avant les miroirs. Téléphérique et héliostats correspondent à deux étapes de cette histoire, avec des dispositifs techniques et des exigences pratiques différents. [Source · www.visitnorway.com](https://www.visitnorway.com/listings/solspeilet/16430/)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment le projet moderne aboutit-il ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’artiste et habitant Martin Andersen reprend l’idée en 2005. Elle devient l’installation à trois miroirs inaugurée le 30 octobre 2013. Le récit technique de SKF situe les héliostats sur les pentes au-dessus de la ville ; Optica rapporte un coût de cinq millions de couronnes norvégiennes. Il s’agit d’un montant historique de projet, distinct d’une facture annuelle actuelle. Structures, équipements, pose et commande transforment l’idée visuelle en un système opérationnel. [Source · evolution.skf.com](https://evolution.skf.com/living-in-shadows/) [Source · www.optica-opn.org](https://www.optica-opn.org/home/newsroom/2013/november/mirrors_convey_sunshine_to_dark_valley_town/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi parler aussi d’art public ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’installation modifie un lieu commun et invite à se réunir dans la lumière. Son effet public dépasse donc une mesure technique. Andersen la présente comme un projet artistique, cadre retenu par l’organisme touristique local. Cela ajoute à l’optique une question sur la façon dont une ville choisit de modifier son environnement et sur le sens collectif d’une expérience ordinaire comme se tenir au soleil. Les dimensions techniques et sociales se rencontrent sur la place. [Source · visitrjukan.com](https://visitrjukan.com/en/things-to-do/the-sun-mirror/)"
+    },
+    {
+      "type": "heading",
+      "text": "Quel lien avec l’histoire industrielle ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rjukan appartient au paysage industriel développé autour de l’hydroélectricité et des engrais. Le site Rjukan–Notodden inscrit par l’UNESCO reconnaît les liens entre production d’énergie, industrie, transport et habitat ouvrier. Les miroirs sont un projet ultérieur ; ils ne constituent pas le motif de cette inscription. Ils s’intègrent à l’histoire d’une ville où l’environnement a suscité plusieurs réponses techniques. Le cadre explique les ressources industrielles et l’ombre hivernale vécue par les habitants. [Source · whc.unesco.org](https://whc.unesco.org/en/list/1486/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Différentes façons d’utiliser l’énergie naturelle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hydroélectricité, réflexion du soleil et électricité solaire reposent sur des processus différents. Le miroir change la direction de la lumière ; un panneau photovoltaïque convertit une partie de l’énergie reçue en électricité. Les distinguer aide à lire des photographies de surfaces planes d’apparence proche. PRESDA explore les usages électriques dans les [écoles flottantes du Bangladesh](/articles/bangladesh-floating-schools-flood-classrooms/) et la chaleur domestique dans les [réseaux géothermiques d’Islande](/articles/iceland-geothermal-district-heating-homes/)."
+    },
+    {
+      "type": "heading",
+      "text": "Quelles sont les limites pratiques ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les nuages peuvent réduire ou supprimer le faisceau direct, et la position solaire détermine les périodes utiles. Neige, état des surfaces, pièces mobiles et commandes demandent de l’entretien. L’installation éclaire un lieu sélectionné dans ces limites. Elle ne modifie pas le climat de la vallée et ne constitue pas une preuve de traitement médical. Une photographie lumineuse montre un effet dans certaines conditions, avec une intensité qui peut varier d’un jour d’hiver à l’autre."
+    },
+    {
+      "type": "subheading",
+      "text": "Ce qu’un visiteur peut observer"
+    },
+    {
+      "type": "paragraph",
+      "text": "La comparaison utile relie la tache éclairée, l’ombre alentour et l’emplacement des miroirs sur la montagne. Elle rend visible la trajectoire créée. Les informations locales actuelles sont la référence pour le fonctionnement et l’accès, affectés par la météo ou l’entretien. Comprendre le mécanisme enrichit le spectacle : la lumière de la place a emprunté un parcours aménagé depuis un soleil hivernal autrement masqué."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · visitrjukan.com",
+      "url": "https://visitrjukan.com/en/things-to-do/the-sun-mirror/"
+    },
+    {
+      "label": "Source · www.visitnorway.com",
+      "url": "https://www.visitnorway.com/listings/solspeilet/16430/"
+    },
+    {
+      "label": "Source · www.hydro.com",
+      "url": "https://www.hydro.com/en/global/media/news/2013/majestic-mirrors-bring-light-to-old-hydro-town/"
+    },
+    {
+      "label": "Source · www.optica-opn.org",
+      "url": "https://www.optica-opn.org/home/newsroom/2013/november/mirrors_convey_sunshine_to_dark_valley_town/"
+    },
+    {
+      "label": "Source · evolution.skf.com",
+      "url": "https://evolution.skf.com/living-in-shadows/"
+    },
+    {
+      "label": "Source · whc.unesco.org",
+      "url": "https://whc.unesco.org/en/list/1486/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le soleil de Rjukan est-il artificiel ?",
+      "answer": "La lumière est naturelle. Le dispositif technique la réfléchit et la dirige."
+    },
+    {
+      "question": "Où sont les miroirs ?",
+      "answer": "Sur la montagne au-dessus de la ville, dans une zone ensoleillée en hiver, d’où ils renvoient les rayons vers la place."
+    },
+    {
+      "question": "Combien y a-t-il de miroirs ?",
+      "answer": "Trois miroirs commandés par ordinateur, chacun de 17 mètres carrés selon VisitRjukan."
+    },
+    {
+      "question": "Éclairent-ils toute la ville ?",
+      "answer": "Ils dirigent le soleil vers une zone de la place. Le reste de la vallée peut rester à l’ombre."
+    },
+    {
+      "question": "Fonctionnent-ils sous les nuages ?",
+      "answer": "Le faisceau direct dépend de l’arrivée du soleil sur les miroirs, et la météo modifie donc l’effet visible."
+    }
+  ],
+  "readingTimeMinutes": 8
+}

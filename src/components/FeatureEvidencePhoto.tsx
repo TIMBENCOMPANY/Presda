@@ -16,6 +16,86 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"kindertransport-trains-saved-10000-children": {
+  "afterBlock": 7,
+  "file": "kindertransport-harwich-1938-bundesarchiv.jpg",
+  "width": 796,
+  "height": 566,
+  "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1987-0928-501,_England,_J%C3%BCdische_Fl%C3%BCchtlingskinder.jpg",
+  "credit": "Bundesarchiv, Bild 183-1987-0928-501 / photographer unknown / Wikimedia Commons",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+  "licenseLabel": "CC BY-SA 3.0 DE",
+  "captions": {
+    "en": "Refugee children arriving at Harwich in December 1938, in a documentary photograph preserved by the German Federal Archives.",
+    "fr": "Enfants réfugiés arrivant à Harwich en décembre 1938, photographie documentaire conservée par les Archives fédérales allemandes.",
+    "ar": "أطفال لاجئون يصلون إلى هارويتش في ديسمبر ١٩٣٨، في صورة وثائقية محفوظة لدى الأرشيف الاتحادي الألماني.",
+    "es": "Niños refugiados llegan a Harwich en diciembre de 1938, en una fotografía documental conservada por el Archivo Federal alemán."
+  }
+},
+"night-witches-soviet-women-night-bombers": {
+  "afterBlock": 11,
+  "file": "night-witches-po2-carlos-delgado.jpg",
+  "width": 2816,
+  "height": 2112,
+  "source": "https://commons.wikimedia.org/wiki/File:Polikarpov_Po-2.jpg",
+  "credit": "Carlos Delgado; CC-BY-SA / Wikimedia Commons",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "licenseLabel": "CC BY-SA 3.0",
+  "captions": {
+    "en": "A preserved Polikarpov Po-2 photographed by Carlos Delgado in 2010. It illustrates the aircraft type, rather than a wartime sortie by the regiment.",
+    "fr": "Un Polikarpov Po-2 conservé, photographié par Carlos Delgado en 2010. L’image montre le type d’appareil, sans représenter une sortie de guerre du régiment.",
+    "ar": "طائرة بوليكاربوف بو-٢ محفوظة، صوّرها كارلوس ديلغادو سنة ٢٠١٠. توضّح نوع الطائرة ولا توثّق طلعة حربية للفوج.",
+    "es": "Un Polikarpov Po-2 conservado, fotografiado por Carlos Delgado en 2010. Ilustra el tipo de avión y no una salida de guerra del regimiento."
+  }
+},
+"bangladesh-floating-schools-flood-classrooms": {
+  "afterBlock": 13,
+  "file": "bangladesh-tanguar-haor-marufish.jpg",
+  "width": 4288,
+  "height": 2848,
+  "source": "https://commons.wikimedia.org/wiki/File:Bangladesh_Floating_school_in_Tanguar_Haor,_Bangladesh_(3943677608).jpg",
+  "credit": "Marufish / Wikimedia Commons",
+  "license": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "licenseLabel": "CC BY-SA 2.0",
+  "captions": {
+    "en": "A floating school at Tanguar Haor, photographed in August 2009. This is a separate regional example; Shidhulai’s fleet figures in this article refer to its Chalan Beel programme.",
+    "fr": "École flottante à Tanguar Haor, photographiée en août 2009. Cet exemple régional est distinct du programme de Shidhulai à Chalan Beel auquel se rapportent les chiffres de l’article.",
+    "ar": "مدرسة عائمة في تانغوار هاور، في صورة من أغسطس ٢٠٠٩. هذا مثال إقليمي مستقل؛ أرقام أسطول شيدولاي الواردة في المقال تخص برنامجها في تشالان بيل.",
+    "es": "Escuela flotante en Tanguar Haor, fotografiada en agosto de 2009. Es un ejemplo regional distinto; las cifras de Shidhulai corresponden a su programa de Chalan Beel."
+  }
+},
+"shibam-yemen-mud-brick-skyscrapers": {
+  "afterBlock": 33,
+  "file": "shibam-hadhramaut-jialiang-gao.jpg",
+  "width": 2000,
+  "height": 1320,
+  "source": "https://commons.wikimedia.org/wiki/File:Shibam_Wadi_Hadhramaut_Yemen.jpg",
+  "credit": "Jialiang Gao / Wikimedia Commons",
+  "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "licenseLabel": "CC BY-SA 3.0",
+  "captions": {
+    "en": "Shibam’s tower houses in Wadi Hadramaut, photographed by Jialiang Gao in September 1999. This dated view records the city at that time.",
+    "fr": "Les maisons-tours de Shibam dans le Wadi Hadramaut, photographiées par Jialiang Gao en septembre 1999. Cette vue documente la ville à cette date.",
+    "ar": "بيوت شبام البرجية في وادي حضرموت، صوّرها جياليانغ غاو في سبتمبر ١٩٩٩. توثّق الصورة المدينة في ذلك التاريخ.",
+    "es": "Casas torre de Shibam en Wadi Hadramaut, fotografiadas por Jialiang Gao en septiembre de 1999. La imagen documenta la ciudad en esa fecha."
+  }
+},
+"rjukan-norway-sun-mirrors-winter-sunlight": {
+  "afterBlock": 5,
+  "file": "rjukan-gausta-winter-bengt-inge-larsson.jpg",
+  "width": 3264,
+  "height": 1836,
+  "source": "https://commons.wikimedia.org/wiki/File:Rjukan_from_Gausta_20190316.jpg",
+  "credit": "Bengt-Inge Larsson / Wikimedia Commons",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "licenseLabel": "CC BY-SA 4.0",
+  "captions": {
+    "en": "Rjukan’s valley seen from Gausta on 16 March 2019. The winter landscape explains the mountain shade; this wide view does not show the mirrors themselves.",
+    "fr": "La vallée de Rjukan vue depuis Gausta le 16 mars 2019. Le paysage hivernal explique l’ombre des montagnes ; les miroirs eux-mêmes ne sont pas visibles sur cette vue.",
+    "ar": "وادي ريوكان كما يُرى من غاوستا في ١٦ مارس ٢٠١٩. يوضّح المشهد الشتوي ظل الجبال، ولا تُظهر هذه اللقطة الواسعة المرايا نفسها.",
+    "es": "El valle de Rjukan visto desde Gausta el 16 de marzo de 2019. El paisaje invernal explica la sombra de las montañas; esta vista no muestra los espejos."
+  }
+},
   "derinkuyu-hidden-underground-city-turkey": {
     afterBlock: 15, file: "derinkuyu-stone-door-tobyj.jpg", width: 2448, height: 3264,
     source: "https://commons.wikimedia.org/wiki/File:Derinkuyu_door.jpg",
