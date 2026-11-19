@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/trump-xi-putin-shenzhen-three-way-summit-2026.jpg","/articles/gta-vi-launch-november-19-2026-13-years.jpg","/articles/south-korea-one-trillion-exports-2026.jpg","/articles/formula-1-lego-22-driver-minifigures-2027.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/turkey-constitutional-court-prostitution-law-article-128-2026.jpg","/articles/achraf-hakimi-foundation-lwalida-mothers-kenitra.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/morocco-independence-day-71-years-1955-2026.jpg","/articles/egypt-saqqara-250-ancient-coffins-discovery.jpg","/articles/battle-vertieres-haiti-napoleon-army-1803.jpg","/articles/merida-roman-wall-paintings-huerta-otero-2026.jpg","/articles/bagan-myanmar-ancient-kingdom-thousands-temples.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/kindertransport-trains-saved-10000-children.jpg","/articles/night-witches-soviet-women-night-bombers.jpg","/articles/bangladesh-floating-schools-flood-classrooms.jpg","/articles/shibam-yemen-mud-brick-skyscrapers.jpg","/articles/rjukan-norway-sun-mirrors-winter-sunlight.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

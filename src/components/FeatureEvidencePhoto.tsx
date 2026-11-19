@@ -17,6 +17,90 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"trump-xi-putin-shenzhen-three-way-summit-2026": {
+  "afterBlock": 12,
+  "file": "news4-summit-timeline-en.png",
+  "localizedFiles": {
+    "en": "news4-summit-timeline-en.png",
+    "fr": "news4-summit-timeline-fr.png",
+    "ar": "news4-summit-timeline-ar.png",
+    "es": "news4-summit-timeline-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.fmprc.gov.cn/eng/xw/wsrc/202611/t20261116_12059663.html",
+  "credit": "PRESDA · www.fmprc.gov.cn",
+  "license": null,
+  "captions": {
+    "en": "PRESDA timeline distinguishing the summit announcement, APEC’s scheduled gathering and AP’s report of the three leaders’ meeting. It does not depict an agreed treaty or settlement.",
+    "fr": "Chronologie PRESDA distinguant l’annonce du sommet, le calendrier de l’APEC et le compte rendu de la rencontre par l’AP. Elle ne représente pas un traité ou un règlement conclu.",
+    "ar": "خط زمني من PRESDA يميز إعلان القمة وموعد أبيك وتقرير أسوشيتد برس عن لقاء القادة. ولا يمثل معاهدة أو تسوية متفقاً عليها.",
+    "es": "Cronología de PRESDA que distingue el anuncio, el calendario de APEC y la información de AP sobre la reunión. No representa un tratado ni una solución acordada."
+  }
+},
+"gta-vi-launch-november-19-2026-13-years": {
+  "afterBlock": 12,
+  "file": "news4-gta-timeline-en.png",
+  "localizedFiles": {
+    "en": "news4-gta-timeline-en.png",
+    "fr": "news4-gta-timeline-fr.png",
+    "ar": "news4-gta-timeline-ar.png",
+    "es": "news4-gta-timeline-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.rockstargames.com/VI",
+  "credit": "PRESDA · www.rockstargames.com",
+  "license": null,
+  "captions": {
+    "en": "PRESDA timeline of GTA V’s original date, GTA VI’s dated release announcement, pre-loading and the November 19 launch. The interval is between releases, not a claimed continuous production schedule.",
+    "fr": "Chronologie PRESDA de la date initiale de GTA V, de l’annonce de GTA VI, du préchargement et du lancement du 19 novembre. L’intervalle sépare les sorties, sans décrire une production continue.",
+    "ar": "خط زمني من PRESDA لموعد GTA V الأصلي وإعلان GTA VI والتحميل المسبق وإطلاق ١٩ نوفمبر. الفاصل بين إصدارين، وليس ادعاءً بمدة إنتاج مستمرة.",
+    "es": "Cronología de PRESDA de GTA V, el anuncio de GTA VI, la precarga y el estreno del 19 de noviembre. El intervalo es entre lanzamientos, no un calendario de producción continua."
+  }
+},
+"south-korea-one-trillion-exports-2026": {
+  "afterBlock": 12,
+  "file": "news4-korea-timeline-en.png",
+  "localizedFiles": {
+    "en": "news4-korea-timeline-en.png",
+    "fr": "news4-korea-timeline-fr.png",
+    "ar": "news4-korea-timeline-ar.png",
+    "es": "news4-korea-timeline-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172422/view",
+  "credit": "PRESDA · www.motir.go.kr",
+  "license": null,
+  "captions": {
+    "en": "Selected first annual export thresholds from MOTIR’s November 19 historical table. Figures are nominal US dollars; the 2026 crossing is provisional and is not a trade-surplus figure.",
+    "fr": "Premiers seuils annuels sélectionnés du tableau ministériel du 19 novembre. Dollars américains nominaux ; le seuil 2026 est provisoire et ne mesure pas l’excédent commercial.",
+    "ar": "حدود سنوية مختارة من جدول الوزارة التاريخي المنشور في ١٩ نوفمبر. القيم بالدولار الاسمي؛ عبور ٢٠٢٦ أولي وليس رقماً للفائض التجاري.",
+    "es": "Primeros umbrales anuales seleccionados de la tabla ministerial del 19 de noviembre. Dólares nominales; el cruce de 2026 es provisional y no representa superávit comercial."
+  }
+},
+"formula-1-lego-22-driver-minifigures-2027": {
+  "afterBlock": 12,
+  "file": "news4-lego-timeline-en.png",
+  "localizedFiles": {
+    "en": "news4-lego-timeline-en.png",
+    "fr": "news4-lego-timeline-fr.png",
+    "ar": "news4-lego-timeline-ar.png",
+    "es": "news4-lego-timeline-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.lego.com/en-mx/aboutus/news/2026/november/lego-f1-las-vegas-grand-prix-2027-portfolio-reveal",
+  "credit": "PRESDA · www.lego.com",
+  "license": null,
+  "captions": {
+    "en": "PRESDA timeline separating the partnership, collection reveal, promotional race and March 1, 2027 retail release. The product range represents the 2026 grid.",
+    "fr": "Chronologie PRESDA distinguant partenariat, présentation, course promotionnelle et sortie commerciale du 1er mars 2027. La gamme représente la grille 2026.",
+    "ar": "خط زمني من PRESDA يفصل الشراكة والكشف والسباق الترويجي والإصدار التجاري في ١ مارس ٢٠٢٧. تمثل المجموعة شبكة ٢٠٢٦.",
+    "es": "Cronología de PRESDA que separa asociación, presentación, carrera promocional y venta desde el 1 de marzo de 2027. La gama representa la parrilla de 2026."
+  }
+},
 "turkey-constitutional-court-prostitution-law-article-128-2026": {
   "afterBlock": 7,
   "file": "turkey-article-128-official-judgment-page1.png",

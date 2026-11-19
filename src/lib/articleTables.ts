@@ -8,6 +8,118 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV19_NEWS4_518]]": {
+    "caption": "The sequence of events. Sources: China’s foreign ministry, APEC and AP. Announcements and outcomes are distinct.",
+    "headers": [
+      "Date",
+      "Verified development"
+    ],
+    "rows": [
+      [
+        "November 13, 2026",
+        "China announced Xi’s APEC participation and related meetings."
+      ],
+      [
+        "November 16, 2026",
+        "China announced the November 19 three-way summit."
+      ],
+      [
+        "November 18–19, 2026",
+        "APEC leaders’ meeting scheduled in Shenzhen."
+      ],
+      [
+        "November 19, 2026",
+        "AP reported Trump, Xi and Putin had met."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV19_NEWS4_519]]": {
+    "caption": "From GTA V to GTA VI. Sources: Rockstar’s dated announcements and contemporary launch reporting.",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "September 17, 2013",
+        "Original release date announced for GTA V."
+      ],
+      [
+        "November 6, 2025",
+        "Rockstar announced GTA VI’s November 19, 2026 date."
+      ],
+      [
+        "November 10, 2026",
+        "Rockstar confirmed pre-loading was available."
+      ],
+      [
+        "November 19, 2026",
+        "GTA VI launch; contemporary reporting confirms player access."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV19_NEWS4_520]]": {
+    "caption": "Selected first annual export thresholds. Source: Ministry of Trade, Industry and Resources, November 19, 2026. Nominal US dollars.",
+    "headers": [
+      "Year",
+      "First threshold reached"
+    ],
+    "rows": [
+      [
+        "1995",
+        "US$100 billion."
+      ],
+      [
+        "2011",
+        "US$500 billion."
+      ],
+      [
+        "2025",
+        "US$700 billion; final annual total US$709.3 billion."
+      ],
+      [
+        "2026",
+        "US$1 trillion provisionally crossed on November 19."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV19_NEWS4_521]]": {
+    "caption": "Reveal, pre-orders and release. Sources: official LEGO and Formula 1 announcements. The 2026 grid is represented in products releasing in 2027.",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "2024",
+        "LEGO dates the start of its Formula 1 partnership."
+      ],
+      [
+        "November 18–19, 2026",
+        "Official reveal and regional pre-order rollout."
+      ],
+      [
+        "November 21, 2026",
+        "Announced Las Vegas LEGO Race, separate from retail sets."
+      ],
+      [
+        "March 1, 2027",
+        "Scheduled release of the new Speed Champions products."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV19_NEWS2_516]]": {
     "caption": "Key dates and legal effect. Sources: Constitutional Court, Official Gazette and Constitution, Article 153.",
     "headers": [
