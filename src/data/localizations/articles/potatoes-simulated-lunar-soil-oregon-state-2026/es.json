@@ -1,0 +1,245 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/potatoes-simulated-lunar-soil-oregon-state-2026/",
+  "path": "/es/articles/potatoes-simulated-lunar-soil-oregon-state-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-19",
+    "terminologyChecked": true
+  },
+  "title": "CIENTÍFICOS CULTIVAN PATATAS COMESTIBLES EN SUELO LUNAR SIMULADO",
+  "seoTitle": "Patatas en suelo lunar simulado: qué encontró el estudio",
+  "description": "Oregon State cultiva patatas en simulantes lunares mejorados. Los hallazgos nutricionales de noviembre de 2026 y los límites antes de una granja lunar.",
+  "excerpt": "Oregon State cultiva patatas en simulantes lunares mejorados. Los hallazgos nutricionales de noviembre de 2026 y los límites antes de una granja lunar.",
+  "headlineHighlights": {
+    "red": "PATATAS COMESTIBLES",
+    "gold": "SUELO LUNAR SIMULADO"
+  },
+  "keywords": [
+    "PATATAS COMESTIBLES",
+    "SUELO LUNAR SIMULADO"
+  ],
+  "searchIntent": "Oregon State cultiva patatas en simulantes lunares mejorados. Los hallazgos nutricionales de noviembre de 2026 y los límites antes de una granja lunar.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-19",
+  "updatedAt": "2026-11-19",
+  "image": {
+    "src": "/articles/potatoes-simulated-lunar-soil-oregon-state-2026.jpg",
+    "alt": "Ilustración editorial facilitada de plantas de patata en un invernadero controlado con paisaje de aspecto lunar en el exterior",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Científicos de Oregon State University cultivaron patatas en suelo lunar simulado y encontraron perfiles nutricionales generalmente comparables a los de un control terrestre. El estudio, publicado en npj Microgravity el 19 de noviembre de 2026, resulta alentador para la agricultura espacial. Se realizó en un invernadero terrestre con simulantes suplementados, no en la Luna ni en material lunar intacto. [Fuente · www.nature.com](https://www.nature.com/articles/s41526-026-00668-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La precisión hace más interesante el resultado. El equipo no preguntó solo si una planta podía sobrevivir en un sustrato extraño: examinó crecimiento, tubérculos cosechables, estrés molecular y composición alimentaria. Una futura granja necesita producir comida útil de forma fiable, no únicamente una fotografía de hojas verdes."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV19_CULTURE5_522]]",
+      "caption": "Qué establece el estudio del 19 de noviembre. Fuente: Handy y colaboradores, npj Microgravity. Ensayos terrestres en invernadero.",
+      "headings": [
+        "Elemento investigado",
+        "Significado verificado"
+      ],
+      "rows": [
+        [
+          "Primer ensayo de mezclas",
+          "LMS-1E con 0 %, 15 % o 30 % de vermicompost en volumen, más fertilizante."
+        ],
+        [
+          "Comparación de cinco simulantes",
+          "5 % de vermicompost; hubo tubérculos, pero menos rendimiento que el control."
+        ],
+        [
+          "Composición alimentaria",
+          "Perfiles comparables, con algunos metales que requieren vigilancia."
+        ],
+        [
+          "Aplicación lunar",
+          "Perspectiva de investigación, no una granja demostrada en la Luna."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué cultivaron realmente?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo utilizó Modoc, una variedad temprana de piel roja y carne blanca. Plantó minitubérculos en ensayos controlados, con suelo arenoso de la serie Adkins de Oregón como referencia terrestre. La comparación ampliada incluyó cinco simulantes que representan distintos materiales de los mares y las tierras altas lunares. [Fuente · www.nature.com](https://www.nature.com/articles/s41526-026-00668-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El regolito es el material suelto que cubre la roca. Un simulante se fabrica en la Tierra para reproducir ciertas características. Permite comparar tratamientos sin consumir muestras lunares escasas, pero no replica todas sus propiedades ni toda la historia del material expuesto en la Luna."
+    },
+    {
+      "type": "subheading",
+      "text": "Importan el compost y el fertilizante"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el primer experimento se comparó LMS-1E con 0 %, 15 % y 30 % de vermicompost en volumen. Las proporciones de simulante eran 100 %, 85 % y 70 %. El vermicompost es materia orgánica procesada por lombrices. Su uso como enmienda no demuestra que se criaran lombrices en la Luna. [Fuente · www.nature.com](https://www.nature.com/articles/s41526-026-00668-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los métodos también especifican fertilizante adicional de liberación lenta. El resultado no se consiguió únicamente con minerales de aspecto lunar y agua. Los nutrientes permitieron estudiar el estrés del sustrato sin confundirlo con una simple deficiencia nutricional. Omitir los insumos describiría mal el experimento."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué mejoró y qué siguió siendo difícil?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El LMS-1E puro restringió mucho raíces y biomasa. Con un 30 % de vermicompost, la biomasa y la morfología se aproximaron al control terrestre. Es un resultado de esa mezcla concreta, no una prueba de que la misma proporción resuelva todos los sustratos lunares o todos los problemas agrícolas. [Fuente · www.nature.com](https://www.nature.com/articles/s41526-026-00668-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El segundo ensayo comparó cinco simulantes con un 5 % de vermicompost en volumen. Las plantas completaron su ciclo y produjeron tubérculos, pero el dosel y el rendimiento siguieron por debajo del control terrestre. Obtener una cosecha y obtener una productividad equivalente son logros distintos."
+    },
+    {
+      "type": "paragraph",
+      "text": "También importaron las diferencias entre mezclas. La expresión genética de las hojas mostró respuestas de estrés distintas según el sustrato. No existía una reacción uniforme a todos los materiales lunares simulados. Un sistema futuro tendría que considerar el material concreto, sin tratar todos los regolitos como intercambiables para cultivar."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué significa «comestibles» en este estudio?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado prometedor es que los perfiles metabólicos de los tubérculos cambiaron poco pese al estrés. También se analizaron los glicoalcaloides solanina y chaconina, sin aumentos estadísticamente significativos en las comparaciones principales. El estrés no se tradujo automáticamente en una composición radicalmente alterada. [Fuente · www.nature.com](https://www.nature.com/articles/s41526-026-00668-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no constituye un certificado general de seguridad alimentaria. Cobre, zinc y aluminio aumentaron modestamente en algunos tratamientos, y el artículo pide seguir vigilando y verificando. No informa de un ensayo de alimentación humana ni establece la seguridad de toda cosecha posible durante una vida de consumo."
+    },
+    {
+      "type": "subheading",
+      "text": "Nutrición y rendimiento son preguntas diferentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un tubérculo nutricionalmente prometedor puede proceder de una planta poco productiva. A la inversa, una gran cosecha no elimina la necesidad de analizar su composición. El equipo examinó ambas cuestiones: cuánto alimento se produce y qué contiene. Deben mantenerse separadas al interpretar el éxito experimental."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así se evita un atajo atractivo pero engañoso. El trabajo apoya seguir desarrollando el cultivo en simulantes mejorados. No demuestra que los astronautas puedan recoger polvo lunar bruto, añadir una patata de siembra y obtener comida ilimitada sin un sistema cuidadosamente gestionado."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué investigar la patata"
+    },
+    {
+      "type": "paragraph",
+      "text": "La patata ofrece un órgano de reserva cosechable bajo la planta, apropiado para seguir un ciclo completo. El ensayo partió de minitubérculos, no solo de semillas germinando para una breve demostración. Las mediciones llegaron a la parte que se convertiría en alimento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oregon State ya había presentado la investigación apoyada por la NASA en mayo de 2026. El registro del proyecto NASA describe el trabajo sobre crecimiento, fisiología y nutrición en simulantes. El artículo de noviembre proporciona el detalle experimental. Son fechas que distinguen la divulgación previa del proyecto de la publicación revisada por pares. [Fuente · agsci.oregonstate.edu](https://agsci.oregonstate.edu/bpp/article/spuds-space-nasa-backed-research-grows-potatoes-moon-soil-oregon-state-university) [Fuente · taskbook.nasaprs.com](https://taskbook.nasaprs.com/tbp/index.cfm?TASKID=FFA4C54687F95123CEB83CB8740EFB88&action=public_query_taskbook_content)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El atractivo para futuras misiones supera la novedad. Producir parte de la comida donde se vive podría reducir la dependencia de suministros terrestres. Pero el balance debe incluir masa y energía de todo el sistema, enmiendas y nutrientes incluidos. Este experimento no calcula el presupuesto completo de transporte o electricidad de una granja lunar."
+    },
+    {
+      "type": "heading",
+      "text": "En qué difiere del experimento de 2022"
+    },
+    {
+      "type": "paragraph",
+      "text": "La NASA informó en 2022 de que investigadores de la Universidad de Florida cultivaron Arabidopsis thaliana en muestras reales de regolito Apollo, en la Tierra. Las pequeñas plantas crecieron con menos vigor que los controles. Eran otra especie, otro experimento y material auténtico, no este estudio de patatas. [Fuente · www.nasa.gov](https://www.nasa.gov/humans-in-space/scientists-grow-plants-in-lunar-soil/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ambos trabajos ayudan a formular mejores preguntas, pero no deben mezclarse para afirmar que ya crecieron patatas en suelo Apollo o sobre la Luna. El propio artículo de 2026 advierte de las limitaciones de los simulantes y de posibles respuestas diferentes al material auténtico."
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo de PRESDA sobre [las pruebas de las misiones Apollo](/articles/moon-landing-conspiracy-apollo-evidence/) explica el valor de las muestras retornadas. Son un recurso científico limitado; los simulantes permiten ensayar más comparaciones controladas y posibles soluciones."
+    },
+    {
+      "type": "heading",
+      "text": "Qué seguiría necesitando una granja lunar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un invernadero terrestre aporta condiciones que la Luna no proporciona de forma natural. Un hábitat tendría que gestionar presión, temperatura, agua, luz y protección de personas y cultivos. Obtener un tubérculo en un sustrato de invernadero es solo una parte de un problema de ingeniería mucho mayor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quedan preguntas sobre cosechas repetidas, cambios químicos del sustrato y sostenibilidad de los insumos. Un sistema debe mantener el rendimiento en el tiempo, no solo completar un lote. La calidad alimentaria requeriría análisis continuos conforme se reutilicen materiales y cambien las prácticas."
+    },
+    {
+      "type": "subheading",
+      "text": "Qué pruebas resultarían útiles ahora"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensayos mayores, ciclos repetidos, materiales bien caracterizados y análisis detallados del tejido comestible reforzarían la evidencia. Los experimentos con material lunar real responderían a otra pregunta. Ninguno de esos pasos debe presentarse como terminado porque los primeros resultados sean prometedores."
+    },
+    {
+      "type": "paragraph",
+      "text": "El contexto de exploración puede seguirse en [el regreso lunar previsto por la NASA](/articles/artemis-2028-nasa-return-moon/). Un calendario de misión es distinto de una capacidad agrícola validada. Los resultados son un avance hacia esa capacidad, no el anuncio de una granja lista para alimentar a una tripulación."
+    },
+    {
+      "type": "heading",
+      "text": "Un avance útil con límites claros"
+    },
+    {
+      "type": "paragraph",
+      "text": "La conclusión más sólida es concreta: las patatas pueden completar su ciclo y producir tubérculos nutricionalmente prometedores en simulantes mejorados, bajo las condiciones ensayadas. La materia orgánica ayudó, se empleó fertilizante adicional y siguen abiertas cuestiones de crecimiento y seguridad."
+    },
+    {
+      "type": "paragraph",
+      "text": "El logro merece atención precisamente porque sus límites son medibles. Lleva el debate desde si puede brotar una planta hasta el rendimiento de un cultivo alimentario. El camino entre un invernadero de Oregón y cosechas lunares fiables sigue siendo largo, pero el experimento aporta pruebas para elegir los pasos siguientes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · www.nature.com",
+      "url": "https://www.nature.com/articles/s41526-026-00668-z"
+    },
+    {
+      "label": "Fuente · agsci.oregonstate.edu",
+      "url": "https://agsci.oregonstate.edu/bpp/article/spuds-space-nasa-backed-research-grows-potatoes-moon-soil-oregon-state-university"
+    },
+    {
+      "label": "Fuente · www.nasa.gov",
+      "url": "https://www.nasa.gov/humans-in-space/scientists-grow-plants-in-lunar-soil/"
+    },
+    {
+      "label": "Fuente · taskbook.nasaprs.com",
+      "url": "https://taskbook.nasaprs.com/tbp/index.cfm?TASKID=FFA4C54687F95123CEB83CB8740EFB88&action=public_query_taskbook_content"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Se cultivaron estas patatas en la Luna?",
+      "answer": "No. El trabajo se hizo en un invernadero de Oregon State, en la Tierra, utilizando simulantes de regolito lunar."
+    },
+    {
+      "question": "¿Crecieron en suelo lunar simulado puro?",
+      "answer": "El LMS-1E sin mejorar restringió mucho el crecimiento. El cultivo satisfactorio utilizó materia orgánica y los métodos especifican también fertilizante adicional."
+    },
+    {
+      "question": "¿Por qué el titular dice «comestibles»?",
+      "answer": "El artículo describe tubérculos nutricionalmente aceptables y una composición comparable. También identifica ciertos metales y la necesidad de vigilancia, sin certificar todas las cosechas futuras."
+    },
+    {
+      "question": "¿Qué representa el 30 %?",
+      "answer": "Vermicompost en volumen en el primer ensayo con LMS-1E. La comparación separada de cinco simulantes utilizó un 5 %."
+    },
+    {
+      "question": "¿Significa que una granja lunar está lista?",
+      "answer": "No. Ingeniería del hábitat, ciclos repetidos, insumos, rendimiento y control continuo de calidad aún deben resolverse."
+    }
+  ],
+  "readingTimeMinutes": 8
+}

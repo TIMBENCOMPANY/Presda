@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV19_CULTURE5_522]]": {
+    "caption": "What the November 19 study establishes. Source: Handy and colleagues, npj Microgravity. These are Earth greenhouse experiments.",
+    "headers": [
+      "Research element",
+      "Verified meaning"
+    ],
+    "rows": [
+      [
+        "First mixture experiment",
+        "LMS-1E with 0%, 15% or 30% vermicompost by volume, plus fertilizer."
+      ],
+      [
+        "Five-simulant comparison",
+        "5% vermicompost; tubers formed but yields remained below the Earth control."
+      ],
+      [
+        "Food composition",
+        "Broadly comparable profiles, with some metal elevations requiring monitoring."
+      ],
+      [
+        "Lunar application",
+        "A research prospect, not a demonstrated farm on the Moon."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV19_CULTURE5_523]]": {
+    "caption": "Four aspects of traditional zellige. Sources: Museum of Ethnography, The Met and UNESCO. These describe a craft, not a universal specification for every tile product.",
+    "headers": [
+      "Aspect",
+      "What to look for"
+    ],
+    "rows": [
+      [
+        "Material",
+        "Glazed terracotta pieces assembled as mosaic."
+      ],
+      [
+        "Technique",
+        "Preparation, firing, hand-cutting and fitted assembly."
+      ],
+      [
+        "Geometry",
+        "Repeated and interlacing shapes within an architectural surface."
+      ],
+      [
+        "Transmission",
+        "Skills taught through makers, workshops and new generations."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV19_CULTURE5_524]]": {
+    "caption": "Griezmann’s 2026 MLS regular season. Sources: MLS and Orlando’s November 17 award announcements. Goals and assists combine to 22 direct contributions.",
+    "headers": [
+      "Measure",
+      "Official figure"
+    ],
+    "rows": [
+      [
+        "Appearances",
+        "18."
+      ],
+      [
+        "Goals",
+        "14."
+      ],
+      [
+        "Assists",
+        "8."
+      ],
+      [
+        "Award announcement",
+        "November 17, 2026; MLS Newcomer of the Year."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV19_CULTURE5_525]]": {
+    "caption": "Ramsay’s Hollywood honour and production context. Sources: Hollywood Walk of Fame and FOX Corporation.",
+    "headers": [
+      "Milestone",
+      "Confirmed detail"
+    ],
+    "rows": [
+      [
+        "2016",
+        "Studio Ramsay launched in the UK."
+      ],
+      [
+        "2021",
+        "Studio Ramsay Global announced with FOX Entertainment."
+      ],
+      [
+        "November 18, 2026",
+        "Completed dedication of the 2,864th Walk of Fame star."
+      ],
+      [
+        "Category and location",
+        "Television; 6201 Hollywood Boulevard."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV19_CULTURE5_526]]": {
+    "caption": "Reus’s 2026 MLS regular season. Source: LA Galaxy’s November 18 team-awards announcement. Key passes are separate from goals plus assists.",
+    "headers": [
+      "Measure",
+      "Official figure"
+    ],
+    "rows": [
+      [
+        "Appearances and starts",
+        "31 appearances, 24 starts."
+      ],
+      [
+        "Goals",
+        "8."
+      ],
+      [
+        "Assists",
+        "15; goals plus assists total 23."
+      ],
+      [
+        "Key passes",
+        "74; eighth in MLS in the club’s account."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV19_NEWS4_518]]": {
     "caption": "The sequence of events. Sources: China’s foreign ministry, APEC and AP. Announcements and outcomes are distinct.",
     "headers": [

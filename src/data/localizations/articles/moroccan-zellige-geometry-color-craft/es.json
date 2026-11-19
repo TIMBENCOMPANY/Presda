@@ -1,0 +1,265 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/moroccan-zellige-geometry-color-craft/",
+  "path": "/es/articles/moroccan-zellige-geometry-color-craft/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-19",
+    "terminologyChecked": true
+  },
+  "title": "ZELLIGE MARROQUÍ: EL ARTE ANCESTRAL DE LA GEOMETRÍA Y EL COLOR",
+  "seoTitle": "Zellige marroquí: historia, geometría y artesanía viva",
+  "description": "Cómo el zellige transforma barro esmaltado en mosaicos geométricos. Su historia, talla manual, contexto arquitectónico y transmisión a nuevos artesanos.",
+  "excerpt": "Cómo el zellige transforma barro esmaltado en mosaicos geométricos. Su historia, talla manual, contexto arquitectónico y transmisión a nuevos artesanos.",
+  "headlineHighlights": {
+    "red": "ZELLIGE MARROQUÍ",
+    "gold": "GEOMETRÍA Y EL COLOR"
+  },
+  "keywords": [
+    "ZELLIGE MARROQUÍ",
+    "GEOMETRÍA Y EL COLOR"
+  ],
+  "searchIntent": "Cómo el zellige transforma barro esmaltado en mosaicos geométricos. Su historia, talla manual, contexto arquitectónico y transmisión a nuevos artesanos.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-19",
+  "updatedAt": "2026-11-19",
+  "image": {
+    "src": "/articles/moroccan-zellige-geometry-color-craft.jpg",
+    "alt": "Ilustración editorial facilitada de un artesano tallando una pieza esmaltada junto a un mosaico de estilo marroquí",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Desde lejos, el zellige marroquí parece casi sin juntas: estrellas se abren en bandas entrelazadas, rombos pequeños se unen a polígonos mayores y el color recorre el muro. De cerca aparecen piezas separadas de barro esmaltado. La precisión no procede de una superficie impresa, sino de un oficio que combina materia, geometría y una mano entrenada. [Fuente · www.neprajz.hu](https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html) [Fuente · www.metmuseum.org](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zellige, también escrito zellij o zilij, es un mosaico arquitectónico de terracota esmaltada y recortada. Está profundamente vinculado con Marruecos, especialmente Fez y Tetuán, y con una historia más amplia de intercambios entre el norte de África y al-Ándalus. Comprenderlo exige mirar más allá de un acabado de moda hacia los conocimientos necesarios para componerlo."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV19_CULTURE5_523]]",
+      "caption": "Cuatro aspectos del zellige tradicional. Fuentes: Museo de Etnografía, Met y UNESCO. Describen un oficio, no una norma universal para toda baldosa.",
+      "headings": [
+        "Aspecto",
+        "Qué observar"
+      ],
+      "rows": [
+        [
+          "Material",
+          "Piezas de terracota esmaltada ensambladas como mosaico."
+        ],
+        [
+          "Técnica",
+          "Preparación, cocción, recorte manual y montaje ajustado."
+        ],
+        [
+          "Geometría",
+          "Formas repetidas y entrelazadas en una superficie arquitectónica."
+        ],
+        [
+          "Transmisión",
+          "Habilidades enseñadas por artesanos y talleres a nuevas generaciones."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué distingue al zellige?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su relación esencial une pequeñas piezas con una superficie mayor organizada. Una pieza puede ser sencilla, pero sus bordes y ángulos deben encajar con las demás. El resultado nace del montaje: color, contorno y repetición forman un diseño continuo en lugar de una suma de azulejos aislados. [Fuente · www.neprajz.hu](https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso diferencia un mosaico recortado de una superficie con un patrón completo impreso o pintado. Ambos pueden decorar, pero implican procesos distintos. Llamar zellige a cualquier baldosa geométrica puede ocultar el trabajo y las decisiones materiales del oficio tradicional."
+    },
+    {
+      "type": "subheading",
+      "text": "Del barro a una composición ajustada"
+    },
+    {
+      "type": "paragraph",
+      "text": "El oficio incluye preparar y cocer el barro, esmaltar, recortar a mano con precisión y ensamblar. El artesano considera cada pieza parte de un sistema. Una pequeña desviación puede cambiar los encuentros, especialmente donde el patrón gira o se acerca al borde. [Fuente · www.neprajz.hu](https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo une planificación y ajuste. La geometría aporta relaciones y la experiencia guía el manejo. No toda superficie artesanal es mecánicamente idéntica: la destreza consiste en organizar piezas individuales en un conjunto coherente, atendiendo a las condiciones reales del barro cocido y el esmalte."
+    },
+    {
+      "type": "heading",
+      "text": "Una historia más larga que una tendencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "La exposición de 2026 del Museo de Etnografía sobre zellige marroquí sitúa su desarrollo temprano en Fez en el siglo X y sigue su evolución meriní y saadí. Es un relato institucional que aporta contexto, no una prueba de un inventor único ni del inicio de todas las tradiciones de mosaico relacionadas. [Fuente · www.neprajz.hu](https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La arquitectura conservada ofrece una vía más concreta. Los materiales educativos del Met datan el patio y la fuente de la madrasa Attarin de Fez en 1323–1325. Explican también conexiones entre decoración marroquí y artes del sur de España en los siglos XIV y XV. [Fuente · www.metmuseum.org](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esas relaciones no vuelven anónima la artesanía marroquí. Muestran cómo una tradición reconocible se desarrolla mediante intercambio, patrocinio y generaciones de práctica. Su historia supera la idea de que cada motivo surgiera aislado o de que los artesanos repitieran una fórmula antigua inmutable."
+    },
+    {
+      "type": "heading",
+      "text": "Geometría más allá del panel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al analizar el Patio Marroquí, el Met describe diseños que irradian del centro de una estrella hacia estrellas entrelazadas, pentágonos y otras formas. La repetición sugiere que la composición podría continuar fuera del borde. El muro termina, pero su lógica visual parece prolongarse. [Fuente · www.metmuseum.org](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El efecto puede comprenderse mediante repetición, rotación y reflexión. Un grupo limitado de formas genera una superficie compleja si sus relaciones permanecen consistentes. El espectador no necesita calcular cada ángulo para sentir el ritmo; el artesano sí debe controlar el encaje."
+    },
+    {
+      "type": "subheading",
+      "text": "Las matemáticas no eliminan la mano"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sería insuficiente describir la superficie como si naciera enteramente de una ecuación. Eso omite el paso del dibujo al barro. Grosor, cantos, esmalte y montaje pertenecen al objeto. El patrón es matemático, pero la obra también es material y arquitectónica."
+    },
+    {
+      "type": "paragraph",
+      "text": "La complejidad tampoco justifica inventar códigos. Un número de puntas o un color no tienen automáticamente un significado espiritual universal en cada edificio. Interpretar exige atender al lugar, sus promotores, sus fabricantes y las pruebas disponibles."
+    },
+    {
+      "type": "heading",
+      "text": "El color forma parte de la estructura"
+    },
+    {
+      "type": "paragraph",
+      "text": "El color ayuda al ojo a distinguir recorridos. Una estrella destaca de las formas vecinas y una banda contrastada vuelve legible un entrelazado. Cambiar las relaciones cromáticas puede alterar la lectura de la misma geometría, con otro equilibrio entre centro, fondo y borde."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Museo de Etnografía presenta color, geometría y habilidad artesanal como elementos inseparables del lenguaje del zellige. Así se evita reducir el oficio a matemáticas o a una paleta separada de la fabricación y colocación de las piezas. [Fuente · www.neprajz.hu](https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un ejercicio útil es seguir un color por el panel y buscar después las formas repetidas. A menudo la superficie se vuelve comprensible por etapas. Lo que parecía un rompecabezas abrumador revela una secuencia ordenada de centros, conexiones y retornos."
+    },
+    {
+      "type": "heading",
+      "text": "La arquitectura proporciona el entorno"
+    },
+    {
+      "type": "paragraph",
+      "text": "El zellige no es solo un objeto aislado. El Met describe patios con azulejos de colores en la zona baja, yeso tallado encima y madera en un nivel superior. Fuente, luz natural y habitaciones circundantes completan la experiencia espacial. [Fuente · www.metmuseum.org](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El punto de vista importa. Un panel observado a través del agua, desde una puerta o de cerca muestra relaciones diferentes entre detalle y conjunto. Su efecto depende de cómo se encuentra dentro del edificio, no solo de la belleza de una muestra bajo iluminación uniforme."
+    },
+    {
+      "type": "paragraph",
+      "text": "PRESDA ofrece contexto sobre los mundos cambiantes de estas artes en [la historia de las dinastías de Marruecos](/articles/morocco-history-dynasties-kingdom-independence/). Encargos y construcción pertenecen a la historia política y social, mientras el corte y montaje se transmiten mediante personas y talleres."
+    },
+    {
+      "type": "heading",
+      "text": "Un oficio vivo, no un fósil de museo"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2011, artesanos de Fez ayudaron a crear el Patio Marroquí Patti Cadby Birch del Met, en Nueva York. La familia Naji y su empresa Arabesque realizaron el espacio con materiales y técnicas tradicionales. La película del museo documenta experiencia contemporánea, no un oficio extinguido hace siglos. [Fuente · www.metmuseum.org](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12) [Fuente · www.metmuseum.org](https://www.metmuseum.org/fr/perspectives/building-the-moroccan-court)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El proyecto diferencia la obra moderna de los objetos históricos que la rodean. Un patio nuevo interpreta una tradición sin convertirse en monumento medieval auténtico. Parte de su valor es demostrar que el conocimiento sigue siendo útil y que fabricantes identificados, no un pasado abstracto, producen el espacio."
+    },
+    {
+      "type": "subheading",
+      "text": "Transmitir exige más que admirar"
+    },
+    {
+      "type": "paragraph",
+      "text": "La UNESCO describe una visita en 2024 al taller del maestro Mohamed El Messal en Tetuán y un proyecto conjunto con el ministerio marroquí para transmitir conocimientos a los jóvenes. Documenta formación práctica, no solo aprecio por una superficie bella. [Fuente · www.unesco.org](https://www.unesco.org/en/articles/jazz-catalyst-peace-celebrated-tangier-morocco)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El perfil de Tetuán en Ciudades Creativas también sitúa el zellige en barrios artesanos y en el patrimonio árabe-andalusí. Estas fuentes acreditan habilidades vivas; no prueban que cada oficio mencionado en una web UNESCO tenga una inscripción individual en Patrimonio Mundial o patrimonio inmaterial. [Fuente · www.unesco.org](https://www.unesco.org/en/creative-cities/tetouan)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo mirar con mayor atención"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comience por el entorno y acérquese después a la junta entre dos piezas. Observe cómo el borde resuelve el encuentro del patrón con la arquitectura, la diferencia entre esmalte y corte, y cómo varios elementos pequeños producen una forma mayor."
+    },
+    {
+      "type": "paragraph",
+      "text": "La misma atención vale para fotografías. Una imagen bella no identifica por sí sola taller, fecha o lugar. La cabecera facilitada es una ilustración editorial, no documentación de un maestro identificado en un monumento verificado. Mantener la distinción respeta a las personas y lugares reales del oficio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quien explore los entornos visuales de Marruecos puede leer también [la historia urbana de Chefchaouen](/articles/chefchaouen-story-morocco-blue-city/). Sus tradiciones de color son otro tema, pero ambas historias invitan a ir más allá de una imagen atractiva hacia contexto, historia y vida actual."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué sigue importando"
+    },
+    {
+      "type": "paragraph",
+      "text": "El zellige une lo repetible y lo individual. Un sistema geométrico puede prolongarse, pero cada panel debe fabricarse y ajustarse en algún lugar. Así organiza espacios mientras recompensa la atención a la pieza más pequeña."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su continuidad exige más que copiar una estrella. Necesita transmisión de conocimientos materiales, práctica paciente y reconocimiento de los artesanos. El arte ancestral de geometría y color sigue vivo porque hay personas que aprenden a convertir barro cocido en un conjunto convincente."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · www.neprajz.hu",
+      "url": "https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html"
+    },
+    {
+      "label": "Fuente · www.metmuseum.org",
+      "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12"
+    },
+    {
+      "label": "Fuente · www.metmuseum.org",
+      "url": "https://www.metmuseum.org/fr/perspectives/building-the-moroccan-court"
+    },
+    {
+      "label": "Fuente · www.unesco.org",
+      "url": "https://www.unesco.org/en/articles/jazz-catalyst-peace-celebrated-tangier-morocco"
+    },
+    {
+      "label": "Fuente · www.unesco.org",
+      "url": "https://www.unesco.org/en/creative-cities/tetouan"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué es el zellige marroquí?",
+      "answer": "Mosaico arquitectónico formado por piezas de terracota esmaltada, vinculado a la artesanía marroquí y a una historia norteafricana y andalusí más amplia."
+    },
+    {
+      "question": "¿Es cualquier baldosa cerámica con motivos?",
+      "answer": "No. Un mosaico recortado y una baldosa impresa o pintada implican técnicas distintas, aunque sus motivos puedan parecerse."
+    },
+    {
+      "question": "¿Por qué importa la geometría?",
+      "answer": "Organiza encaje y repetición. Rotación, reflexión y entrelazado pueden hacer que un panel parezca continuar más allá de sus bordes."
+    },
+    {
+      "question": "¿Sigue habiendo artesanos que lo fabriquen?",
+      "answer": "Sí. El Patio Marroquí del Met de 2011 y el proyecto de formación de Tetuán documentado por UNESCO muestran práctica y transmisión actuales."
+    },
+    {
+      "question": "¿Cada color o estrella tiene un significado fijo?",
+      "answer": "No debe suponerse una lectura universal. Los significados deben relacionarse con obras, lugares y pruebas históricas concretas."
+    }
+  ],
+  "readingTimeMinutes": 8
+}

@@ -1,6 +1,551 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "522",
+    "slug": "potatoes-simulated-lunar-soil-oregon-state-2026",
+    "title": "SCIENTISTS GROW EDIBLE POTATOES IN SIMULATED MOON SOIL",
+    "seoTitle": "Potatoes in simulated Moon soil: what the study found",
+    "metaDescription": "Oregon State researchers grow potatoes in amended lunar-soil simulants. The November 2026 paper, nutritional findings and limits before lunar farming.",
+    "excerpt": "Oregon State researchers grow potatoes in amended lunar-soil simulants. The November 2026 paper, nutritional findings and limits before lunar farming.",
+    "category": "Science",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-19",
+    "lastUpdated": "2026-11-19",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/potatoes-simulated-lunar-soil-oregon-state-2026.jpg",
+    "coverAlt": "Supplied editorial illustration of potato plants growing in a controlled greenhouse with a lunar-style landscape outside",
+    "headlineHighlights": {
+      "red": "POTATOES",
+      "gold": "MOON SOIL"
+    },
+    "tags": [
+      "POTATOES",
+      "Science"
+    ],
+    "content": [
+      "Scientists at Oregon State University have grown potatoes in simulated lunar soil and found that the harvested tubers retained broadly comparable nutritional profiles to potatoes grown in an Earth-soil control. The study, published in npj Microgravity on November 19, 2026, is encouraging for future space agriculture. It was conducted in a greenhouse on Earth, using supplemented simulants, not on the Moon or in untouched lunar material. [Handy and colleagues: potato growth and molecular responses, npj Microgravity, November 19, 2026](https://www.nature.com/articles/s41526-026-00668-z)",
+      "That qualification makes the result more interesting, rather than less. The researchers did not simply ask whether a plant could stay alive in unusual dirt. They examined growth, harvestable tubers, molecular stress and food composition. The challenge for a future lunar farm is to produce useful food reliably, not merely a photograph of green leaves.",
+      "[[NOV19_CULTURE5_522]]",
+      "## What did the researchers actually grow?",
+      "The team used Modoc, an early-maturing potato variety with red skin and white flesh. Mini-tubers were planted in controlled greenhouse experiments, with Adkins-series sandy soil from Oregon providing a terrestrial reference. The wider comparison covered five lunar regolith simulants representing different mare and highland materials. [Handy and colleagues: potato growth and molecular responses, npj Microgravity, November 19, 2026](https://www.nature.com/articles/s41526-026-00668-z)",
+      "Regolith is the loose surface material covering rock. A simulant is an Earth-made material designed to reproduce selected characteristics of it. Such mixtures are research tools: they let scientists compare treatments without consuming scarce lunar samples, but they cannot reproduce every property or the full history of material exposed on the Moon.",
+      "### The compost, and the fertilizer, matter",
+      "In the first experiment, researchers compared LMS-1E simulant with 0%, 15% and 30% vermicompost by volume. The corresponding simulant shares were 100%, 85% and 70%. Vermicompost is organic material processed by earthworms. The experiment used it as an amendment, not as evidence that worms had been cultivated on the Moon. [Handy and colleagues: potato growth and molecular responses, npj Microgravity, November 19, 2026](https://www.nature.com/articles/s41526-026-00668-z)",
+      "The methods also specify supplemental slow-release fertilizer. That is a crucial detail: the result was not achieved with lunar-style minerals and water alone. Adding nutrients helped the team investigate substrate stress without confusing it with straightforward nutrient deficiency. A headline that omits all the inputs would misdescribe the experiment.",
+      "## What improved, and what remained difficult?",
+      "Pure LMS-1E sharply restricted growth, including roots and biomass. At 30% vermicompost, plant biomass and morphology approached the terrestrial control. This result belongs to that particular mixture experiment; it is not proof that adding the same proportion solves every possible lunar substrate or every crop-production problem. [Handy and colleagues: potato growth and molecular responses, npj Microgravity, November 19, 2026](https://www.nature.com/articles/s41526-026-00668-z)",
+      "The second experiment compared five simulants with 5% vermicompost by volume. Plants completed their life cycle and produced tubers, but canopy size and tuber yield remained below the Earth-soil control. That combination is important: producing a harvest and producing an equally productive crop are different achievements.",
+      "Differences between the mixtures also mattered. The researchers analysed leaves’ gene-expression patterns and found distinct stress responses across substrates. There was no single uniform reaction to all lunar-style materials. A future growing system would need to account for the actual material being used, rather than assume that all regolith is agriculturally interchangeable.",
+      "## What does “edible” mean in this study?",
+      "The promising finding is that tuber metabolite profiles changed relatively little despite the plants’ stress. The researchers also examined the potato glycoalkaloids solanine and chaconine and did not find statistically significant increases in their principal comparisons. Growing under stress did not automatically translate into a strongly altered tuber composition. [Handy and colleagues: potato growth and molecular responses, npj Microgravity, November 19, 2026](https://www.nature.com/articles/s41526-026-00668-z)",
+      "That is not a blanket food-safety certificate. Copper, zinc and aluminium were modestly elevated in some treatments, and the paper calls for continued monitoring and further verification. The study does not report a human feeding trial or establish the safety of every possible harvest over a lifetime of consumption.",
+      "### Nutrition and yield are separate questions",
+      "A nutritionally promising tuber can come from a plant with poor yield. Conversely, a large harvest would not eliminate the need to test composition. The team’s approach matters because it considers both sides: how much food is produced and what is in the food. Those questions must remain separate when interpreting a successful experiment.",
+      "The distinction also prevents an attractive but misleading shortcut. The paper supports further development of potato cultivation in amended simulants. It does not show that astronauts can scoop up raw lunar dust, add a seed potato and obtain an unrestricted food supply without a carefully managed growing system.",
+      "## Why potatoes are a useful crop to investigate",
+      "Potatoes offer a harvestable storage organ beneath the plant, making them a practical subject for research that follows an entire crop cycle. This study started with mini-tubers, not just seeds germinating for a short demonstration. Its measurements reached the part of the plant that would actually become food.",
+      "Oregon State had already highlighted the NASA-supported research in May 2026, while NASA’s project record describes work on potato growth, physiology and nutrition in lunar simulant media. The November paper supplies the detailed experimental account. These dates distinguish earlier public discussion of a project from publication of the peer-reviewed results. [Oregon State: NASA-supported lunar potato research, May 12, 2026](https://agsci.oregonstate.edu/bpp/article/spuds-space-nasa-backed-research-grows-potatoes-moon-soil-oregon-state-university) [NASA Task Book: potato growth and lunar simulant project](https://taskbook.nasaprs.com/tbp/index.cfm?TASKID=FFA4C54687F95123CEB83CB8740EFB88&action=public_query_taskbook_content)",
+      "For future missions, the attraction is not simply novelty. Producing some food where people live could reduce dependence on supplies from Earth. But the accounting has to include the mass and energy needed for the entire system, including amendments and nutrients. This experiment does not provide a complete lunar farm’s transport or power budget.",
+      "## How this differs from the 2022 Moon-soil experiment",
+      "NASA reported in 2022 that University of Florida researchers grew Arabidopsis thaliana in actual Apollo regolith samples on Earth. Those small research plants grew less robustly than the controls. That was a different species, a different experiment and genuine returned material, not this potato study. [NASA: 2022 Arabidopsis experiment in actual Apollo regolith](https://www.nasa.gov/humans-in-space/scientists-grow-plants-in-lunar-soil/)",
+      "Both results help ask better questions, but they should not be merged into a claim that potatoes have already been grown in Apollo soil or on the lunar surface. The 2026 paper itself warns that simulants have limitations and that responses to genuine lunar material can differ.",
+      "PRESDA’s account of [the evidence from the Apollo missions](/articles/moon-landing-conspiracy-apollo-evidence/) provides context for why returned samples are scientifically valuable. They are a limited research resource, while simulants allow more extensive testing of controlled comparisons and potential remedies.",
+      "## What a lunar farm would still need",
+      "An Earth greenhouse supplies conditions that the lunar environment does not supply naturally. A future habitat would have to manage pressure, temperature, water, light and protection for both people and crops. Growing a tuber in a greenhouse substrate is therefore one component of a much larger engineering problem.",
+      "The study also leaves questions about repeated harvests, changing substrate chemistry and the sustainability of the inputs. A working life-support system would need to maintain performance over time, rather than succeed in one batch. Consistent food quality would require continued testing as materials are reused and management practices change.",
+      "### The next useful evidence",
+      "Larger trials, repeated crop cycles, carefully characterised materials and detailed analysis of edible tissue would strengthen the evidence. Experiments involving actual lunar material would answer a different question again. None of those next steps should be reported as complete simply because the first findings are promising.",
+      "The broader exploration context can be followed in PRESDA’s report on [NASA’s planned return to the Moon](/articles/artemis-2028-nasa-return-moon/). A mission schedule is distinct from a validated agricultural capability. The potato results are a research advance toward that capability, not an announcement that a lunar farm is ready to feed a crew.",
+      "## A useful advance with clear boundaries",
+      "The strongest conclusion is specific: potatoes can complete their life cycle and produce nutritionally promising tubers in amended lunar regolith simulants under the conditions tested. Organic amendments helped, additional fertilizer was used, and important growth and safety questions remain.",
+      "The achievement deserves attention precisely because those boundaries are measurable. It moves the discussion from whether a plant can emerge to how a food crop performs. The road from a greenhouse in Oregon to dependable harvests on the Moon remains long, but this experiment supplies evidence for choosing the next steps."
+    ],
+    "references": [
+      {
+        "name": "Handy and colleagues: potato growth and molecular responses, npj Microgravity, November 19, 2026",
+        "url": "https://www.nature.com/articles/s41526-026-00668-z"
+      },
+      {
+        "name": "Oregon State: NASA-supported lunar potato research, May 12, 2026",
+        "url": "https://agsci.oregonstate.edu/bpp/article/spuds-space-nasa-backed-research-grows-potatoes-moon-soil-oregon-state-university"
+      },
+      {
+        "name": "NASA: 2022 Arabidopsis experiment in actual Apollo regolith",
+        "url": "https://www.nasa.gov/humans-in-space/scientists-grow-plants-in-lunar-soil/"
+      },
+      {
+        "name": "NASA Task Book: potato growth and lunar simulant project",
+        "url": "https://taskbook.nasaprs.com/tbp/index.cfm?TASKID=FFA4C54687F95123CEB83CB8740EFB88&action=public_query_taskbook_content"
+      }
+    ],
+    "relatedSlugs": [
+      "moon-landing-conspiracy-apollo-evidence",
+      "artemis-2028-nasa-return-moon"
+    ],
+    "faq": [
+      {
+        "question": "Were these potatoes grown on the Moon?",
+        "answer": "No. The work was conducted in an Oregon State greenhouse on Earth using lunar regolith simulants."
+      },
+      {
+        "question": "Did the plants grow in pure simulated Moon soil?",
+        "answer": "Unamended LMS-1E severely restricted growth. Successful cultivation involved organic amendments, and the methods also specify supplemental fertilizer."
+      },
+      {
+        "question": "Why does the headline call the potatoes edible?",
+        "answer": "The paper reports nutritionally acceptable tubers and broadly comparable composition. It also identifies metal elevations and the need for further monitoring, rather than certifying every future harvest as safe."
+      },
+      {
+        "question": "What does the 30% figure describe?",
+        "answer": "Vermicompost by volume in the first LMS-1E mixture experiment. The separate comparison of five simulants used 5% vermicompost."
+      },
+      {
+        "question": "Does the finding mean a lunar farm is ready?",
+        "answer": "No. Habitat engineering, repeated harvests, inputs, yield and continuing food-quality monitoring still need to be addressed."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "523",
+    "slug": "moroccan-zellige-geometry-color-craft",
+    "title": "MOROCCAN ZELLIGE: THE ANCIENT ART OF GEOMETRY AND COLOR",
+    "seoTitle": "Moroccan zellige: history, geometry and living craftsmanship",
+    "metaDescription": "How Moroccan zellige turns glazed clay into geometric mosaics. Its history, hand-cut craft, architectural setting and transmission to new artisans.",
+    "excerpt": "How Moroccan zellige turns glazed clay into geometric mosaics. Its history, hand-cut craft, architectural setting and transmission to new artisans.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-19",
+    "lastUpdated": "2026-11-19",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/moroccan-zellige-geometry-color-craft.jpg",
+    "coverAlt": "Supplied editorial illustration of an artisan cutting a glazed mosaic piece beside Moroccan-style zellige tilework",
+    "headlineHighlights": {
+      "red": "MOROCCAN ZELLIGE",
+      "gold": "GEOMETRY AND COLOR"
+    },
+    "tags": [
+      "MOROCCAN ZELLIGE",
+      "History"
+    ],
+    "content": [
+      "At a distance, Moroccan zellige can look almost impossibly seamless: stars open into interlacing bands, small diamonds join larger polygons, and colour seems to travel across a wall. Up close, the design resolves into separate pieces of glazed clay. The precision belongs not to a printed surface but to a craft that brings material, geometry and the trained hand together. [Museum of Ethnography: Moroccan zellige history and living heritage](https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html) [The Met: Moroccan Court, geometric design and 2011 craftsmanship](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12)",
+      "Zellige, also written zellij or zilij, is a form of architectural mosaic assembled from cut glazed terracotta. It is deeply associated with Morocco, especially cities such as Fez and Tétouan, while belonging to a wider history of exchange across North Africa and al-Andalus. Understanding it means looking beyond a fashionable tile finish to the knowledge required to make a composition work.",
+      "[[NOV19_CULTURE5_523]]",
+      "## What makes zellige distinctive?",
+      "The essential relationship is between small shaped pieces and a larger patterned surface. A single piece may be visually simple, but its edges and angles matter because it has to meet other pieces. The finished effect comes from assembly: colour, contour and repetition become a continuous design rather than a collection of isolated tiles. [Museum of Ethnography: Moroccan zellige history and living heritage](https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html)",
+      "That distinguishes a cut mosaic from a surface on which a complete pattern is merely printed or painted. Both can be decorative, but they involve different processes. Calling every geometric ceramic tile “zellige” can hide the labour and material decisions that define the traditional craft.",
+      "### From clay to a fitted composition",
+      "The craft includes preparing and firing clay, glazing, precise hand-cutting and assembly. The artisan must think about a piece as part of a system. A small deviation can alter how shapes meet, especially where a pattern changes direction or approaches a border. [Museum of Ethnography: Moroccan zellige history and living heritage](https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html)",
+      "The work therefore joins planning and adjustment. Geometry provides relationships, while experience guides the handling of the material. The point is not that every handmade surface is mechanically identical. It is that a skilled maker can organise individual pieces into a coherent whole while working with the realities of fired clay and glaze.",
+      "## A history longer than a design trend",
+      "The Museum of Ethnography’s 2026 exhibition on Moroccan zellige traces early development to tenth-century Fez and follows the craft through the Marinid and Saadian periods. Such an institutional account provides historical context, rather than proof of a single inventor or a moment when every related mosaic tradition began. [Museum of Ethnography: Moroccan zellige history and living heritage](https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html)",
+      "Surviving architecture offers a more concrete way to encounter that history. The Met’s teaching material identifies the courtyard and fountain of the Attarin Madrasa in Fez with the dates 1323–25. It also explains the connections between Moroccan courtyard decoration and the arts of southern Spain in the fourteenth and fifteenth centuries. [The Met: Moroccan Court, geometric design and 2011 craftsmanship](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12)",
+      "These connections do not make Moroccan craftsmanship anonymous. They show how a recognisable local tradition can develop through exchange, patronage and generations of practice. Its history is richer than a claim that every motif appeared in isolation or that later makers simply repeated an unchanging ancient formula.",
+      "## Geometry that extends beyond the panel",
+      "In its analysis of the Moroccan Court, The Met describes designs radiating from a star’s centre into interlacing stars, pentagons and other shapes. Repetition makes the composition seem capable of continuing beyond the physical border. The wall ends, but the visual logic suggests a larger field. [The Met: Moroccan Court, geometric design and 2011 craftsmanship](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12)",
+      "That effect can be understood through operations such as repetition, rotation and reflection. A limited group of shapes can generate a complex surface when the relationships between them remain consistent. The viewer does not need to calculate every angle to feel the rhythm, but the maker has to control how the pieces fit.",
+      "### Mathematics does not cancel the human hand",
+      "It is tempting to describe a geometric surface as if it were produced entirely by an equation. That misses the transformation from drawing to clay. Thickness, cut edges, glaze and the conditions of assembly all belong to the object. The pattern is mathematical, but the finished work is also material and architectural.",
+      "Equally, apparent complexity should not invite invented codes. A particular star count or colour does not automatically have one universal spiritual meaning in every building. Interpretation needs the context of the place, its patrons, its makers and the evidence available, rather than a list of symbolic meanings applied indiscriminately.",
+      "## Colour is part of the structure",
+      "Colour helps the eye distinguish paths through a design. A star can stand out against its surrounding shapes; a contrasting band can make an interlacing route legible. Change the colour relationships and the same geometry can be read differently, with a different balance between centre, background and border.",
+      "The Museum of Ethnography treats colour, geometric form and artisanal skill as inseparable aspects of zellige’s visual language. That is a useful approach because it avoids reducing the craft to either mathematics alone or a palette detached from the work of making and placing the pieces. [Museum of Ethnography: Moroccan zellige history and living heritage](https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html)",
+      "For the observer, a practical exercise is to follow one colour across a panel, then look again for the repeated shapes. The surface often becomes easier to read in stages. What first appears to be an overwhelming puzzle can reveal a disciplined sequence of centres, connections and returns.",
+      "## Architecture gives the mosaic its setting",
+      "Zellige is not only an object to inspect in isolation. The Met describes a traditional courtyard arrangement with coloured tilework low on the walls, carved plaster above and wood at a higher level. A fountain, natural light and the surrounding rooms complete an experience of space. [The Met: Moroccan Court, geometric design and 2011 craftsmanship](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12)",
+      "The changing viewpoint matters. A panel seen across water, from a doorway or at close range offers different relationships between detail and whole. The craft’s effect comes partly from how it is encountered within a building, not only from the beauty of a small sample held under uniform lighting.",
+      "PRESDA’s feature on [Morocco’s dynasties and historical transformations](/articles/morocco-history-dynasties-kingdom-independence/) provides wider context for the changing worlds in which architectural arts developed. Patronage and construction belong to political and social history, while the skill of cutting and assembling is transmitted through people and workshops.",
+      "## A living craft, not a museum fossil",
+      "In 2011, craftsmen from Fez helped create The Met’s Patti Cadby Birch Moroccan Court in New York. The Naji family and their company, Arabesque, made an architectural setting using traditional materials and techniques. The museum’s film follows that work, demonstrating contemporary expertise rather than presenting craft as something that ended centuries ago. [The Met: Moroccan Court, geometric design and 2011 craftsmanship](https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12) [The Met: Building the Moroccan Court](https://www.metmuseum.org/fr/perspectives/building-the-moroccan-court)",
+      "The project also helps distinguish a modern work from the historical objects around it. A newly built courtyard can interpret an architectural tradition without becoming an original medieval monument. Its value includes showing that the knowledge remains usable and that named makers, not an abstract past, bring the space into being.",
+      "### Transmission requires more than admiration",
+      "UNESCO’s account of a 2024 visit to master craftsman Mohamed El Messal’s workshop in Tétouan describes a joint project with Morocco’s ministry to preserve knowledge through transmission to younger generations. It documents a practical training effort, not merely an expression of appreciation for a beautiful surface. [UNESCO: transmission of zellige skills in Tétouan](https://www.unesco.org/en/articles/jazz-catalyst-peace-celebrated-tangier-morocco)",
+      "UNESCO’s Creative Cities profile also places zellige within Tétouan’s broader craft neighbourhoods and Arab-Andalusian heritage. Those sources establish a context of living skills. They should not be confused with a separate claim that every craft mentioned on a UNESCO webpage has its own World Heritage or intangible-heritage inscription. [UNESCO: Tétouan’s craft context](https://www.unesco.org/en/creative-cities/tetouan)",
+      "## How to look at zellige with greater attention",
+      "Start with the whole setting, then move toward the join between two pieces. Notice how a border handles the meeting of a pattern and an architectural edge. Look at the difference between the glaze’s surface and the geometry of the cut, and at how several small elements produce a larger form.",
+      "The same care can be taken with photographs. A beautiful image does not by itself identify the workshop, age or location of the work. The supplied hero for this article is an editorial illustration, not documentation of a named master at a verified historic site. Keeping that distinction visible respects the real people and places behind the craft.",
+      "Readers exploring Morocco’s visual environments can also turn to [Chefchaouen’s distinctive urban story](/articles/chefchaouen-story-morocco-blue-city/). Its colour traditions are a different subject, but both stories encourage looking beyond an attractive image to the history, context and continuing life of a place.",
+      "## Why the tradition still matters",
+      "Zellige joins the repeatable and the individual. A geometric system can be extended, but every physical panel has to be made and fitted somewhere. That relationship explains why the craft continues to interest architects and viewers: it can organise a space while rewarding attention to the smallest piece.",
+      "Its continuity depends on more than copying a star pattern. It requires the transmission of material knowledge, patient practice and recognition of the artisans who carry it. The ancient art of geometry and colour remains a living activity because people continue to learn how to turn fired clay into a convincing whole."
+    ],
+    "references": [
+      {
+        "name": "Museum of Ethnography: Moroccan zellige history and living heritage",
+        "url": "https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html"
+      },
+      {
+        "name": "The Met: Moroccan Court, geometric design and 2011 craftsmanship",
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-three/featured-works-of-art/image-12"
+      },
+      {
+        "name": "The Met: Building the Moroccan Court",
+        "url": "https://www.metmuseum.org/fr/perspectives/building-the-moroccan-court"
+      },
+      {
+        "name": "UNESCO: transmission of zellige skills in Tétouan",
+        "url": "https://www.unesco.org/en/articles/jazz-catalyst-peace-celebrated-tangier-morocco"
+      },
+      {
+        "name": "UNESCO: Tétouan’s craft context",
+        "url": "https://www.unesco.org/en/creative-cities/tetouan"
+      }
+    ],
+    "relatedSlugs": [
+      "morocco-history-dynasties-kingdom-independence",
+      "chefchaouen-story-morocco-blue-city"
+    ],
+    "faq": [
+      {
+        "question": "What is Moroccan zellige?",
+        "answer": "Architectural mosaic made from shaped pieces of glazed terracotta, strongly associated with Moroccan craftsmanship and a wider North African and Andalusian history."
+      },
+      {
+        "question": "Is it the same as any patterned ceramic tile?",
+        "answer": "No. A cut-piece mosaic and a tile carrying a printed or painted pattern involve different techniques, even when their visual motifs resemble one another."
+      },
+      {
+        "question": "Why are geometric patterns so important?",
+        "answer": "They organise how pieces fit and repeat. Rotation, reflection and interlacing can make a bounded panel appear to extend beyond its edges."
+      },
+      {
+        "question": "Is zellige still made by living artisans?",
+        "answer": "Yes. The Met’s 2011 Moroccan Court and UNESCO’s documented Tétouan training project provide examples of continuing practice and transmission."
+      },
+      {
+        "question": "Does every colour or star have one fixed meaning?",
+        "answer": "No universal interpretation should be assumed. Meanings need to be connected to a specific work, place and historical evidence."
+      }
+    ],
+    "readingTime": "9 min read"
+  },
+  {
+    "id": "524",
+    "slug": "griezmann-mls-newcomer-year-2026",
+    "title": "GRIEZMANN WINS MLS NEWCOMER OF THE YEAR",
+    "seoTitle": "Griezmann wins 2026 MLS Newcomer of the Year",
+    "metaDescription": "MLS names Orlando City’s Antoine Griezmann its 2026 Newcomer of the Year. His goals, assists, voting result and the award’s precise meaning.",
+    "excerpt": "MLS names Orlando City’s Antoine Griezmann its 2026 Newcomer of the Year. His goals, assists, voting result and the award’s precise meaning.",
+    "category": "Sport",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-19",
+    "lastUpdated": "2026-11-19",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/griezmann-mls-newcomer-year-2026.jpg",
+    "coverAlt": "Supplied editorial illustration depicting Antoine Griezmann in Orlando City colours holding a trophy, not verified ceremony photography",
+    "headlineHighlights": {
+      "red": "GRIEZMANN",
+      "gold": "MLS NEWCOMER OF THE YEAR"
+    },
+    "tags": [
+      "GRIEZMANN",
+      "Sport"
+    ],
+    "content": [
+      "Antoine Griezmann has been named the 2026 MLS Newcomer of the Year, recognition of a first Orlando City season that produced 14 goals and eight assists in 18 league appearances. Major League Soccer announced the award on November 17, confirming a result grounded in his regular-season impact rather than a prediction about the playoffs. [MLS: official November 17 Newcomer of the Year announcement](https://www.mlssoccer.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year)",
+      "For an established World Cup winner, the word “newcomer” can initially sound unusual. In this award, it means new to MLS, not new to professional football. That distinction is central to the story: the league is recognising how an experienced arrival adapted and contributed in his first MLS regular season.",
+      "[[NOV19_CULTURE5_524]]",
+      "## What does the award recognise?",
+      "MLS defines the honour as recognising an impactful player with previous professional experience who made an MLS debut during the 2026 regular season. Griezmann is therefore being judged as a new arrival to the competition. The award is not a youth prize, a rookie designation or the league’s overall Most Valuable Player award. [MLS: official November 17 Newcomer of the Year announcement](https://www.mlssoccer.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year)",
+      "Orlando’s own announcement confirms the league decision and the statistical account. Griezmann signed as a Designated Player on March 24, made his MLS debut on July 22 and accumulated a club-leading 22 goal contributions. The signing and debut dates are separate: a transfer announcement does not mean a player has already appeared in a league match. [Orlando City: club confirmation and voting breakdown](https://www.orlandocitysc.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year)",
+      "### Why a short first season can still make a major impression",
+      "Eighteen appearances provide a much shorter opportunity to accumulate totals than a full campaign. Fourteen goals and eight assists show that Griezmann influenced attacks as both scorer and provider. The award recognises that output without requiring the fiction that he was present for every match Orlando played.",
+      "The distinction between total contribution and rate also matters. A player can have an excellent rate over a short spell, while another contributes more through a longer season. Neither measure should erase the other. The stronger reading asks what happened in the time available and how much of a team’s schedule that time represents.",
+      "## The numbers behind the recognition",
+      "The league says Griezmann reached 20 goal contributions in 15 appearances, the second-fastest such mark in MLS history, behind Lionel Messi’s 14-game record. That is a specific milestone defined by goals plus assists, not a claim that the two players had identical roles, opponents or match situations. [MLS: official November 17 Newcomer of the Year announcement](https://www.mlssoccer.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year)",
+      "His 22 contributions consist of 14 goals and eight assists. Adding those two categories is useful for describing direct attacking output, but it does not measure every action that helped Orlando score. Movement away from the ball, an earlier pass and defensive work can matter without appearing in that sum.",
+      "### Per appearance is not per 90 minutes",
+      "The official release records 0.79 goals and 1.24 goal contributions per 90 minutes among eligible newcomers. Those rates use playing time, not simply the number of matches in which a player appeared. Dividing 22 by 18 produces a different statistic and should not be labelled his per-90 rate. [MLS: official November 17 Newcomer of the Year announcement](https://www.mlssoccer.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year)",
+      "That small distinction is important for readers comparing players. An appearance can be a full match or a shorter outing. Minutes-based rates help adjust for that difference, but they still need a sample-size and competition context. A single rate is evidence to interpret, not a complete ranking of footballing quality.",
+      "## How the voting worked",
+      "The decision was made through votes from MLS players, club technical staff and media. The published breakdown gives Griezmann 57.89% of the media vote, 50.00% of the player vote and 45.16% of the club vote, with a listed overall result of 51.02%. He led each of the three groups. [Orlando City: club confirmation and voting breakdown](https://www.orlandocitysc.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year)",
+      "Those numbers should not be described as the percentage of all Orlando supporters or of the entire football audience. They describe the award’s voting categories. The agreement across the groups is notable, but it remains a result within a defined selection process rather than a universal public referendum.",
+      "The other leading names in the published table are Guilherme of Houston Dynamo and André Luiz of Sporting Kansas City. Griezmann’s win therefore reflects comparison with other eligible first-year MLS players, not a contest involving every established player in the league. Keeping that field clear gives the award its proper meaning.",
+      "## A first for Orlando and for a French player",
+      "MLS identifies Griezmann as Orlando’s first winner of the Newcomer of the Year award and the first French player to receive it. It also describes him as the second former FIFA World Cup winner to take the honour, following Thiago Almada. These are specific historical distinctions within this particular award. [MLS: official November 17 Newcomer of the Year announcement](https://www.mlssoccer.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year)",
+      "The league’s winners list places him after Anders Dreyer in 2025 and Gabriel Pec in 2024. Earlier recipients include players whose first MLS seasons became important chapters in their clubs’ stories. That history explains why the award can carry significance beyond a single announcement, without guaranteeing the path any winner’s career will take.",
+      "### A familiar reputation, a new competitive setting",
+      "An international reputation creates attention before a ball is played. The award shifts the evidence toward what Griezmann actually delivered in MLS. His name explains why the arrival was followed closely; the regular-season goals, assists and voting explain why this honour followed.",
+      "Adapting to a new team also involves relationships with teammates. A scorer needs service and a provider needs runners and finishers. The statistical record documents individual involvement in team attacks, rather than proof that one player created every opportunity alone. Celebrating him does not require making the rest of Orlando’s work invisible.",
+      "## What the Designated Player label means",
+      "Orlando identifies Griezmann as a Designated Player. MLS roster rules allow clubs, within their chosen roster model, to use that mechanism for players whose compensation and acquisition costs exceed the normal maximum salary-budget charge. The label concerns roster construction; it is not another performance award. [Orlando City: club confirmation and voting breakdown](https://www.orlandocitysc.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year) [MLS: 2026 roster rules and Designated Player framework](https://www.mlssoccer.com/news/2026-mls-roster-rules-and-regulations)",
+      "It also does not provide a complete public account of a player’s private contract. A roster mechanism should not be converted into an invented salary, transfer fee or promise about future recruitment. What matters here is that the club made a significant roster commitment and the player’s first league campaign produced a documented return on the pitch.",
+      "## The regular season is not the whole competition",
+      "The Newcomer award concerns the regular season. It does not establish who will win MLS Cup or whether Orlando will go on a long postseason run. A player can deserve individual recognition before a knockout campaign has produced its final result.",
+      "The difference can be seen alongside PRESDA’s report on [Marco Reus’s LA Galaxy Player of the Year award](/articles/marco-reus-la-galaxy-player-year-2026/). Reus’s honour is selected within his club, while Griezmann’s is a league award for eligible newcomers. Their names can share a news cycle without the awards becoming interchangeable.",
+      "Readers interested in the relationship between individuals and team systems can also explore [Johan Cruyff’s football legacy](/articles/johan-cruyff-man-changed-football-forever/). That historical perspective is a different story, but it encourages attention to movement, combination and collective organisation beyond a simple goals table.",
+      "## How to read his season from here",
+      "The strongest next assessments will keep competitions and time periods explicit. Later playoff statistics should not silently replace the regular-season totals attached to this award. New honours, injuries or contract developments would each require their own dated confirmation.",
+      "The immediate achievement is already clear. In 18 league appearances, Griezmann combined scoring and creation strongly enough to lead Orlando’s contribution total and win support across all three voting groups. A famous arrival became a recognised MLS performer through documented work, not merely through the announcement of a transfer.",
+      "The award does not settle every debate about his season or his future. It does establish how MLS judged this first campaign among its experienced newcomers. That is a substantial conclusion, and one that can be celebrated without inventing a trophy ceremony, a quotation or a postseason outcome."
+    ],
+    "references": [
+      {
+        "name": "MLS: official November 17 Newcomer of the Year announcement",
+        "url": "https://www.mlssoccer.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year"
+      },
+      {
+        "name": "Orlando City: club confirmation and voting breakdown",
+        "url": "https://www.orlandocitysc.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year"
+      },
+      {
+        "name": "MLS: 2026 roster rules and Designated Player framework",
+        "url": "https://www.mlssoccer.com/news/2026-mls-roster-rules-and-regulations"
+      }
+    ],
+    "relatedSlugs": [
+      "marco-reus-la-galaxy-player-year-2026",
+      "johan-cruyff-man-changed-football-forever"
+    ],
+    "faq": [
+      {
+        "question": "Did Griezmann win MLS Newcomer of the Year?",
+        "answer": "Yes. MLS announced the Orlando City forward as its 2026 winner on November 17."
+      },
+      {
+        "question": "Does newcomer mean he is a young or inexperienced player?",
+        "answer": "No. The award is for an eligible MLS debutant with previous professional experience. It is not a youth or rookie award."
+      },
+      {
+        "question": "What were his regular-season attacking totals?",
+        "answer": "The official release records 14 goals and eight assists in 18 appearances, giving 22 goal contributions."
+      },
+      {
+        "question": "Was the award decided by a general fan vote?",
+        "answer": "The published process uses MLS players, club technical staff and media. Their voting percentages should not be described as a percentage of all fans."
+      },
+      {
+        "question": "Does this mean he won MLS MVP or MLS Cup?",
+        "answer": "No. Newcomer of the Year is a separate regular-season individual honour and does not establish the outcome of another award or competition."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "525",
+    "slug": "gordon-ramsay-hollywood-walk-fame-star-2026",
+    "title": "GORDON RAMSAY RECEIVES HOLLYWOOD WALK OF FAME STAR",
+    "seoTitle": "Gordon Ramsay receives Hollywood Walk of Fame star",
+    "metaDescription": "Gordon Ramsay’s November 18, 2026 Hollywood star honours television. The confirmed ceremony, his production career and how this differs from Michelin recognition.",
+    "excerpt": "Gordon Ramsay’s November 18, 2026 Hollywood star honours television. The confirmed ceremony, his production career and how this differs from Michelin recognition.",
+    "category": "Lifestyle",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-19",
+    "lastUpdated": "2026-11-19",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/gordon-ramsay-hollywood-walk-fame-star-2026.jpg",
+    "coverAlt": "Supplied editorial illustration depicting Gordon Ramsay beside a Hollywood-style pavement star, not verified event photography",
+    "headlineHighlights": {
+      "red": "GORDON RAMSAY",
+      "gold": "HOLLYWOOD WALK OF FAME"
+    },
+    "tags": [
+      "GORDON RAMSAY",
+      "Lifestyle"
+    ],
+    "content": [
+      "Gordon Ramsay has received a star on the Hollywood Walk of Fame, with the official directory confirming a November 18, 2026 ceremony at 6201 Hollywood Boulevard. The 2,864th star honours his work in Television. It is recognition of an entertainment career built around food, rather than a new restaurant rating or a culinary competition victory. [Hollywood Walk of Fame: completed ceremony and star facts](https://walkoffame.com/gordon-ramsay/)",
+      "That category captures an important part of Ramsay’s public identity. He is a chef, but millions know him through programmes that turn kitchens into settings for competition, instruction, pressure and transformation. The Hollywood honour recognises that screen presence and the work of making television, not simply the fact that a well-known restaurateur visited Los Angeles.",
+      "[[NOV19_CULTURE5_525]]",
+      "## What happened at the ceremony?",
+      "The Walk of Fame’s completed event account identifies entertainment journalist Kevin Frazier as emcee and actors Bradley Cooper and Joel McHale as participants. It records the ceremony at 11:30 a.m. Pacific time on November 18. The directory’s past-tense account confirms that this was a completed dedication, not only a proposed future honour. [Hollywood Walk of Fame: completed ceremony and star facts](https://walkoffame.com/gordon-ramsay/)",
+      "The Hollywood Chamber’s advance announcement described Ramsay as the first British chef to receive a Walk of Fame star. That is the institution’s stated distinction. It should not be expanded into a claim that no chef of any nationality had ever been honoured, or that the award created a new Michelin achievement. [Hollywood Chamber: first British chef announcement](https://walkoffame.com/press_releases/hollywood-chamber-of-commerce-to-honor-chef-gordon-ramsay-with-star-on-the-hollywood-walk-of-fame-ramsay-is-the-first-british-chef-to-be-honored-with-a-star/)",
+      "### Why the date and category matter",
+      "Advance announcements and completed-event records answer different questions. One establishes what was planned; the other establishes what the organiser says took place. In this case, both identify November 18, with the directory supplying confirmation after the event.",
+      "The category is equally specific. Television recognises the part of Ramsay’s career that reaches audiences through programmes and production. A Hollywood pavement star and a restaurant guide’s assessment belong to different systems. Their shared use of the word “star” is an opportunity for a headline, not a reason to confuse their meaning.",
+      "## From a chef on screen to a television institution",
+      "Ramsay’s programmes offer several different ways to organise a story around food. Hell’s Kitchen uses competition and professional pressure. Kitchen Nightmares centres on struggling restaurants and attempted change. MasterChef and MasterChef Junior make assessment and development part of a contest involving cooks at different stages. These are distinct formats within a recognisable screen identity. [Hollywood Walk of Fame: completed ceremony and star facts](https://walkoffame.com/gordon-ramsay/)",
+      "Their appeal is not reducible to watching a dish being prepared. Viewers follow decisions, personalities and the gap between a participant’s ambition and performance. Food supplies tangible stakes: a result can be presented, judged and compared, while the preparation creates a sequence of problems and responses.",
+      "That is an analysis of the formats, not a claim that an edited television programme reveals everything about a real kitchen. A broadcast selects moments and constructs a narrative. The confidence of a screen persona should not be mistaken for a complete record of all the labour, planning and collaboration behind it.",
+      "## The production career behind the familiar face",
+      "FOX’s corporate account dates the original UK Studio Ramsay company to 2016. It describes a business developing programming and new formats, showing that the career extends beyond appearing in front of a camera. Producing a series involves an organisation that can develop, deliver and distribute programmes. [FOX Corporation: Studio Ramsay Global and production history](https://www.foxcorporation.com/businesses/studio-ramsay-global/)",
+      "In 2021, Ramsay and FOX Entertainment announced Studio Ramsay Global as a worldwide production venture for culinary and lifestyle programming. FOX identifies London, Los Angeles and Glasgow as its office locations. These dated corporate milestones provide context for why a Television-category honour concerns more than restaurant fame. [FOX Corporation: Studio Ramsay Global and production history](https://www.foxcorporation.com/businesses/studio-ramsay-global/)",
+      "### A host, a judge and a producer are different roles",
+      "The same person can be the visible host, a judge within the programme’s rules and a producer working on its creation. Those functions overlap in a public identity but are not identical. A television career can therefore be evaluated through a body of work, rather than only a collection of memorable on-screen reactions.",
+      "The wider production team also matters. Crews, editors, researchers, participants and other contributors shape what reaches the audience. Recognising Ramsay’s contribution does not require imagining that a television series is made by one personality alone. The star honours an individual within a collaborative medium.",
+      "## Food television as a form of popular storytelling",
+      "A cooking programme can make specialised work understandable by giving the viewer a task, a deadline and an outcome. It can also introduce questions about technique, discipline, service and judgment. These are ways of telling a story through food, even for viewers who never attempt the dishes themselves.",
+      "Different formats invite different relationships. A competition asks viewers to compare performances. A restaurant-focused programme asks them to follow an intervention. A travel-and-food series connects cooking with places and people. The variety helps explain how one culinary identity can move between several kinds of screen narrative.",
+      "The Walk of Fame’s biography lists shows including Next Level Chef and Uncharted alongside the established competition titles. Its description is an institutional celebration of the honouree, not an independent audit of every promotional audience claim. This report therefore does not convert undated social-media totals or superlative ratings language into its own verified statistics. [Hollywood Walk of Fame: completed ceremony and star facts](https://walkoffame.com/gordon-ramsay/)",
+      "## What a Walk of Fame star does, and does not, establish",
+      "The Hollywood Chamber administers the Walk of Fame for the City of Los Angeles. The honour places Ramsay within a public entertainment landmark rather than selecting a winner of a cooking contest. The official location and category allow visitors to distinguish the actual star from an illustration or an image of another dedication. [Hollywood Walk of Fame: completed ceremony and star facts](https://walkoffame.com/gordon-ramsay/)",
+      "The nomination procedure describes selection through the Walk of Fame Selection Committee. It is not simply a live audience poll or an award automatically issued to anyone who becomes famous. Nor does the existence of a star establish the quality of every later programme, restaurant or commercial partnership associated with the recipient. [Hollywood Walk of Fame: nomination procedure](https://walkoffame.com/nomination-procedure/)",
+      "### Keep the two meanings of “star” separate",
+      "Restaurant recognition concerns a dining establishment and its culinary assessment. The Hollywood honour concerns an entertainment career. A chef can be associated with both without one award adding to the count in the other system. Ramsay’s new pavement star should therefore not be reported as another Michelin star.",
+      "The distinction is useful beyond this case. Celebrity coverage becomes clearer when it names the awarding institution and the field being recognised. “Receives a star” is memorable, but “receives a Television-category Walk of Fame star” tells readers what actually happened.",
+      "## Los Angeles, public memory and the supplied image",
+      "Part of the Walk of Fame’s appeal is that an entertainment honour becomes a physical place in a city. A name is not only listed in a database but associated with an address and a public surface. The official directory provides the reliable reference for the location and ceremony.",
+      "The hero supplied for this article is an editorial illustration depicting Ramsay beside a Hollywood-style star. It is not presented as verified documentary photography of the ceremony or as evidence of the star’s official design. That separation keeps the visual storytelling from substituting for the organiser’s record.",
+      "PRESDA’s feature on [Ouarzazate and Morocco’s film industry](/articles/ouarzazate-morocco-africas-hollywood/) offers a different perspective on how entertainment creates place identities. Its subject is production in Morocco, not Ramsay’s ceremony, but it helps connect screen culture with the real locations and industries behind familiar names.",
+      "## A career that crosses several kinds of public attention",
+      "Ramsay’s recognition also illustrates the movement between specialist achievement and a broader audience. Food provides the foundation, television creates recurring encounters, and production builds a larger body of work. The Hollywood honour marks that entertainment dimension without requiring a claim that every viewer knows his restaurants.",
+      "The connection between a recognisable personality and a wider creative project can also be explored in [PRESDA’s account of the F1 and LEGO collaboration](/articles/formula-1-lego-22-driver-minifigures-2027/). The contexts differ, but both show why familiar individuals can help audiences enter a much larger world of making, performance and production.",
+      "## The confirmed significance of the honour",
+      "As verified on November 19, Ramsay’s star has been dedicated, the category is Television and the address is 6201 Hollywood Boulevard. The official account records the participants and the ceremony date. No invented acceptance speech, private conversation or unannounced future project is needed to tell the story.",
+      "The achievement is a public acknowledgment of a culinary figure’s influence on screen. Ramsay’s career has made food a setting for television that reaches beyond the dining room. The new star recognises that entertainment work while leaving the restaurant world’s own standards and honours in their proper place."
+    ],
+    "references": [
+      {
+        "name": "Hollywood Walk of Fame: completed ceremony and star facts",
+        "url": "https://walkoffame.com/gordon-ramsay/"
+      },
+      {
+        "name": "Hollywood Chamber: first British chef announcement",
+        "url": "https://walkoffame.com/press_releases/hollywood-chamber-of-commerce-to-honor-chef-gordon-ramsay-with-star-on-the-hollywood-walk-of-fame-ramsay-is-the-first-british-chef-to-be-honored-with-a-star/"
+      },
+      {
+        "name": "FOX Corporation: Studio Ramsay Global and production history",
+        "url": "https://www.foxcorporation.com/businesses/studio-ramsay-global/"
+      },
+      {
+        "name": "Hollywood Walk of Fame: nomination procedure",
+        "url": "https://walkoffame.com/nomination-procedure/"
+      }
+    ],
+    "relatedSlugs": [
+      "ouarzazate-morocco-africas-hollywood",
+      "formula-1-lego-22-driver-minifigures-2027"
+    ],
+    "faq": [
+      {
+        "question": "Has Gordon Ramsay actually received the star?",
+        "answer": "Yes. The official Walk of Fame directory records the completed ceremony on November 18, 2026."
+      },
+      {
+        "question": "What category is his star in?",
+        "answer": "Television. The honour concerns his work as an entertainment figure, not a new restaurant rating."
+      },
+      {
+        "question": "Where is the star located?",
+        "answer": "The official address is 6201 Hollywood Boulevard, Los Angeles."
+      },
+      {
+        "question": "Who took part in the ceremony?",
+        "answer": "The organiser identifies Kevin Frazier as emcee, with Bradley Cooper and Joel McHale joining the event."
+      },
+      {
+        "question": "Does this add to his Michelin-star total?",
+        "answer": "No. A Hollywood Walk of Fame star and Michelin restaurant recognition are separate honours issued for different purposes."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "526",
+    "slug": "marco-reus-la-galaxy-player-year-2026",
+    "title": "MARCO REUS NAMED LA GALAXY PLAYER OF THE YEAR 2026",
+    "seoTitle": "Marco Reus wins LA Galaxy Player of the Year 2026",
+    "metaDescription": "LA Galaxy names Marco Reus its 2026 Player of the Year. Eight goals, 15 assists, 74 key passes and the distinction from the club Golden Boot and MLS MVP.",
+    "excerpt": "LA Galaxy names Marco Reus its 2026 Player of the Year. Eight goals, 15 assists, 74 key passes and the distinction from the club Golden Boot and MLS MVP.",
+    "category": "Sport",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-19",
+    "lastUpdated": "2026-11-19",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/marco-reus-la-galaxy-player-year-2026.jpg",
+    "coverAlt": "Supplied editorial illustration depicting Marco Reus applauding in LA Galaxy colours, not verified award-event photography",
+    "headlineHighlights": {
+      "red": "MARCO REUS",
+      "gold": "LA GALAXY"
+    },
+    "tags": [
+      "MARCO REUS",
+      "Sport"
+    ],
+    "content": [
+      "Marco Reus has been named LA Galaxy’s 2026 Player of the Year after leading the club with 23 regular-season goal contributions. The Galaxy announced the honour on November 18, citing eight goals, 15 assists and 74 key passes across 31 league appearances. It is a club award, distinct from the league-wide MLS Most Valuable Player honour. [LA Galaxy: November 18, 2026 team awards and regular-season statistics](https://www.lagalaxy.com/news/la-galaxy-announce-2026-team-awards)",
+      "The numbers describe a season built on both finishing and creation, with the assists especially prominent. They also explain why Player of the Year need not mean leading scorer. Reus won the club’s overall honour while João Klauss received its Golden Boot for scoring the most regular-season goals.",
+      "[[NOV19_CULTURE5_526]]",
+      "## What exactly did Reus win?",
+      "The Galaxy’s announcement identifies Reus as the club’s Player of the Year for 2026. It says the award was determined through a cumulative vote involving fans, season-credentialed media and club leadership. That process gives the honour a defined constituency rather than making it a vote of every MLS club or every player in the league. [LA Galaxy: November 18, 2026 team awards and regular-season statistics](https://www.lagalaxy.com/news/la-galaxy-announce-2026-team-awards)",
+      "The title should therefore retain the words “LA Galaxy”. Removing them can turn a precise achievement into a different claim. A supporter can celebrate the club’s leading performer without suggesting that the announcement also awards him league MVP, the MLS Golden Boot or another competition’s trophy.",
+      "### The attacking totals in scope",
+      "The 23 contributions are the sum of eight goals and 15 assists in the MLS regular season. Reus appeared 31 times and started 24 matches. Those figures should not silently become an all-competitions total or be combined with later matches while still carrying the label attached to the award. [LA Galaxy: November 18, 2026 team awards and regular-season statistics](https://www.lagalaxy.com/news/la-galaxy-announce-2026-team-awards)",
+      "The club also reports 74 key passes, placing him eighth in MLS in that measure, and sixth in the league for assists. Those rankings help locate his creative output beyond the Galaxy squad. They are still specific statistical measures, rather than a complete independent ranking of every aspect of his play.",
+      "## Why creation matters alongside scoring",
+      "A goal is the most visible end of an attack, but reaching that moment depends on decisions before the shot. A creative player can influence where a teammate receives the ball, the speed of the move and the options available when defenders react. An assist recognises one part of that relationship between provider and scorer.",
+      "Key passes add another view of chance creation. The term is commonly used for a pass leading to a shot, although exact provider definitions should always be checked. It should not be rewritten as 74 assists, 74 goals created or 74 guaranteed scoring chances. The award announcement lists it separately for a reason.",
+      "### Why the categories cannot simply be added together",
+      "Goals and assists combine into the stated 23 direct contributions. Key passes are a different category and may describe related attacking sequences. Adding 74 to 23 and presenting the result as a new official contribution total would invent a metric that the club did not publish.",
+      "The same care applies to match counts. An appearance and a start are not interchangeable; substitute outings are part of the first number. A reader assessing availability should keep both figures visible rather than assume that 31 appearances means 31 full matches or that 24 starts accounts for every minute he played.",
+      "## A strong finish to the campaign",
+      "The Galaxy’s account highlights 12 contributions in Reus’s final ten appearances: four goals and eight assists. It also points to a three-assist performance against Austin FC in the club’s penultimate match. These are concrete examples of late-season output, rather than a vague claim that his form improved. [LA Galaxy: November 18, 2026 team awards and regular-season statistics](https://www.lagalaxy.com/news/la-galaxy-announce-2026-team-awards)",
+      "That closing spell represents more than half of his 23 regular-season contributions, using the club’s figures. The comparison is simple arithmetic, not a separate performance model. It shows how strongly the final stretch featured in the season’s attacking account while leaving the earlier matches part of the overall record.",
+      "The club also notes five matches with multiple contributions and six MLS Team of the Matchday selections. Such recognition adds context, but it is not interchangeable with the season award. Matchday honours identify particular performances; Player of the Year considers the campaign within the club’s selection process.",
+      "## From Dortmund to a different chapter in Los Angeles",
+      "The Galaxy originally announced Reus’s signing on August 15, 2024, after his long Borussia Dortmund career. Its original release records 429 appearances and 301 goal contributions for Dortmund across 12 seasons from 2012 to 2024. The move was therefore a substantial change of setting for an experienced professional, not the beginning of his football career. [LA Galaxy: original August 15, 2024 signing announcement](https://www.lagalaxy.com/news/la-galaxy-sign-midfielder-marco-reus)",
+      "That history gives the story depth without replacing the 2026 evidence. Reputation can explain why supporters follow an arrival; a later club award needs to be understood through the work done in the new team. Reus’s current recognition is supported by the regular-season record the Galaxy published, not simply by achievements in Germany.",
+      "### Experience is useful when it becomes contribution",
+      "An experienced attacking player may bring an understanding of timing, space and combinations. Those qualities matter when they help a team function, not merely because they appear in a biography. The goals and assists provide measurable examples, while a full evaluation would also require watching the wider work that statistics cannot capture.",
+      "The distinction avoids turning a move to MLS into an automatic story of effortless dominance. The league presents its own opponents, schedules and team relationships. The achievement here is specific: Reus’s club selected him after a season in which his output helped define its attack.",
+      "## The contract context, without confusing the dates",
+      "On February 28, 2026, the Galaxy announced a contract extension through December 2027. That is a separately dated commitment, made before the end-of-season award. The November honour did not create that extension, and the existence of a contract does not itself guarantee a particular future lineup or individual result. [LA Galaxy: February 28, 2026 extension through December 2027](https://www.lagalaxy.com/news/la-galaxy-extend-midfielder-marco-reus-through-december-2027)",
+      "Keeping the original signing, extension and award separate makes the chronology clearer. Reus joined in 2024, the club extended the agreement in 2026, and it later recognised his 2026 season. Each event has its own source and meaning; there is no need to turn them into an invented new transfer announcement.",
+      "## Why the Golden Boot went to someone else",
+      "The Galaxy awarded its 2026 Golden Boot to João Klauss, whose team-leading regular-season total was ten goals. Reus’s eight goals were combined with a much larger assist tally in the case for the overall player honour. The two awards can therefore recognise different forms of attacking importance without contradicting one another. [LA Galaxy: November 18, 2026 team awards and regular-season statistics](https://www.lagalaxy.com/news/la-galaxy-announce-2026-team-awards)",
+      "The club’s broader awards announcement also named JT Marcinkowski Defender of the Year and Humanitarian of the Year, and Brett Phan Academy Player of the Year. Those distinctions reflect different roles and selection processes. They should not be treated as lesser versions of a single scoring contest.",
+      "PRESDA’s report on [Griezmann’s MLS Newcomer of the Year award](/articles/griezmann-mls-newcomer-year-2026/) offers a useful comparison of scope. That league honour is restricted to eligible debutants with prior professional experience. Reus’s recognition belongs to the Galaxy’s own season awards, with a different field and electorate.",
+      "## Reading an award beyond the headline",
+      "Supporters often value moments that a final table cannot reproduce: the timing of a pass, a combination that changes a match or the feeling that a player gives an attack direction. An award can bring those impressions together with measurable output, but the published result should still be described accurately.",
+      "PRESDA’s exploration of [football fandom, identity and rivalry](/articles/football-fans-psychology-passion-rivalry-violence/) considers that wider attachment. An individual honour is part of a club’s shared memory as well as a statistical story. A careful account can recognise the emotion without inventing reactions from supporters or private statements from the player.",
+      "### What would need a new announcement?",
+      "Any later league award, transfer development or change to the contract would require fresh confirmation. The Player of the Year announcement alone does not establish those events. Nor should an illustration of Reus applauding be presented as documentary proof of an award ceremony that the image’s provenance does not establish.",
+      "The confirmed conclusion is substantial: the Galaxy’s voters selected Reus after a regular season featuring eight goals, 15 assists and extensive chance creation. It is recognition of a productive Los Angeles campaign in its own right. His earlier career gives it context; the 2026 record explains the honour."
+    ],
+    "references": [
+      {
+        "name": "LA Galaxy: November 18, 2026 team awards and regular-season statistics",
+        "url": "https://www.lagalaxy.com/news/la-galaxy-announce-2026-team-awards"
+      },
+      {
+        "name": "LA Galaxy: original August 15, 2024 signing announcement",
+        "url": "https://www.lagalaxy.com/news/la-galaxy-sign-midfielder-marco-reus"
+      },
+      {
+        "name": "LA Galaxy: February 28, 2026 extension through December 2027",
+        "url": "https://www.lagalaxy.com/news/la-galaxy-extend-midfielder-marco-reus-through-december-2027"
+      }
+    ],
+    "relatedSlugs": [
+      "griezmann-mls-newcomer-year-2026",
+      "football-fans-psychology-passion-rivalry-violence"
+    ],
+    "faq": [
+      {
+        "question": "Did Marco Reus win LA Galaxy Player of the Year?",
+        "answer": "Yes. The club announced him as its 2026 winner on November 18."
+      },
+      {
+        "question": "Is this the same as MLS MVP?",
+        "answer": "No. It is LA Galaxy’s club award, selected through its own process involving fans, credentialed media and leadership."
+      },
+      {
+        "question": "What were his regular-season totals?",
+        "answer": "The club reports eight goals and 15 assists in 31 appearances, with 24 starts and 74 key passes."
+      },
+      {
+        "question": "Why did he not also win the club Golden Boot?",
+        "answer": "João Klauss led the Galaxy with ten regular-season goals. Player of the Year is a broader honour and does not have to go to the leading scorer."
+      },
+      {
+        "question": "How long is Reus’s announced contract extension?",
+        "answer": "The Galaxy’s February 28, 2026 announcement extends it through December 2027. That agreement is separate from the November award."
+      }
+    ],
+    "readingTime": "9 min read"
+  },
+  {
     "id": "518",
     "slug": "trump-xi-putin-shenzhen-three-way-summit-2026",
     "title": "TRUMP, XI AND PUTIN HOLD HISTORIC THREE-WAY SUMMIT IN CHINA",

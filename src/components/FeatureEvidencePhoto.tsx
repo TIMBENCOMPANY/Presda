@@ -17,6 +17,111 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"potatoes-simulated-lunar-soil-oregon-state-2026": {
+  "afterBlock": 12,
+  "file": "culture5-potatoes-facts-en.png",
+  "localizedFiles": {
+    "en": "culture5-potatoes-facts-en.png",
+    "fr": "culture5-potatoes-facts-fr.png",
+    "ar": "culture5-potatoes-facts-ar.png",
+    "es": "culture5-potatoes-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.nature.com/articles/s41526-026-00668-z",
+  "credit": "PRESDA · www.nature.com",
+  "license": null,
+  "captions": {
+    "en": "What the November 19 study establishes. Source: Handy and colleagues, npj Microgravity. These are Earth greenhouse experiments.",
+    "fr": "Ce qu’établit l’étude du 19 novembre. Source : Handy et collègues, npj Microgravity. Expériences menées en serre sur Terre.",
+    "ar": "ما تثبته دراسة ١٩ نوفمبر. المصدر: هاندي وزملاؤه، npj Microgravity. تجارب دفيئة على الأرض.",
+    "es": "Qué establece el estudio del 19 de noviembre. Fuente: Handy y colaboradores, npj Microgravity. Ensayos terrestres en invernadero."
+  }
+},
+"moroccan-zellige-geometry-color-craft": {
+  "afterBlock": 12,
+  "file": "culture5-zellige-facts-en.png",
+  "localizedFiles": {
+    "en": "culture5-zellige-facts-en.png",
+    "fr": "culture5-zellige-facts-fr.png",
+    "ar": "culture5-zellige-facts-ar.png",
+    "es": "culture5-zellige-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.neprajz.hu/en/kiallitasok/kamara/zellige-moroccos-historical-legacy-and-living-heritage.html",
+  "credit": "PRESDA · www.neprajz.hu",
+  "license": null,
+  "captions": {
+    "en": "Four aspects of traditional zellige. Sources: Museum of Ethnography, The Met and UNESCO. These describe a craft, not a universal specification for every tile product.",
+    "fr": "Quatre aspects du zellige traditionnel. Sources : Musée d’ethnographie, Met et UNESCO. Il s’agit d’un métier, non d’une norme universelle pour tout carreau.",
+    "ar": "أربعة جوانب من الزليج التقليدي. المصادر: متحف الإثنوغرافيا والمتروبوليتان واليونسكو. وصف لحرفة، لا مواصفة واحدة لكل منتج بلاطات.",
+    "es": "Cuatro aspectos del zellige tradicional. Fuentes: Museo de Etnografía, Met y UNESCO. Describen un oficio, no una norma universal para toda baldosa."
+  }
+},
+"griezmann-mls-newcomer-year-2026": {
+  "afterBlock": 12,
+  "file": "culture5-griezmann-facts-en.png",
+  "localizedFiles": {
+    "en": "culture5-griezmann-facts-en.png",
+    "fr": "culture5-griezmann-facts-fr.png",
+    "ar": "culture5-griezmann-facts-ar.png",
+    "es": "culture5-griezmann-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.mlssoccer.com/news/orlando-city-sc-forward-antoine-griezmann-named-2026-mls-newcomer-of-the-year",
+  "credit": "PRESDA · www.mlssoccer.com",
+  "license": null,
+  "captions": {
+    "en": "Griezmann’s 2026 MLS regular season. Sources: MLS and Orlando’s November 17 award announcements. Goals and assists combine to 22 direct contributions.",
+    "fr": "Saison régulière MLS 2026 de Griezmann. Sources : MLS et Orlando, 17 novembre. Buts et passes donnent 22 contributions directes.",
+    "ar": "موسم غريزمان المنتظم في MLS لعام ٢٠٢٦. المصدران: الدوري وأورلاندو في ١٧ نوفمبر. الأهداف والتمريرات تساوي ٢٢ مساهمة مباشرة.",
+    "es": "Temporada regular MLS 2026 de Griezmann. Fuentes: MLS y Orlando, 17 de noviembre. Goles y asistencias suman 22 contribuciones."
+  }
+},
+"gordon-ramsay-hollywood-walk-fame-star-2026": {
+  "afterBlock": 12,
+  "file": "culture5-ramsay-facts-en.png",
+  "localizedFiles": {
+    "en": "culture5-ramsay-facts-en.png",
+    "fr": "culture5-ramsay-facts-fr.png",
+    "ar": "culture5-ramsay-facts-ar.png",
+    "es": "culture5-ramsay-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://walkoffame.com/gordon-ramsay/",
+  "credit": "PRESDA · walkoffame.com",
+  "license": null,
+  "captions": {
+    "en": "Ramsay’s Hollywood honour and production context. Sources: Hollywood Walk of Fame and FOX Corporation.",
+    "fr": "Honneur hollywoodien et contexte de production. Sources : Hollywood Walk of Fame et FOX Corporation.",
+    "ar": "تكريم هوليوود وسياق الإنتاج. المصدران: ممشى المشاهير وفوكس كوربوريشن.",
+    "es": "Honor de Hollywood y contexto de producción. Fuentes: Paseo de la Fama y FOX Corporation."
+  }
+},
+"marco-reus-la-galaxy-player-year-2026": {
+  "afterBlock": 12,
+  "file": "culture5-reus-facts-en.png",
+  "localizedFiles": {
+    "en": "culture5-reus-facts-en.png",
+    "fr": "culture5-reus-facts-fr.png",
+    "ar": "culture5-reus-facts-ar.png",
+    "es": "culture5-reus-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.lagalaxy.com/news/la-galaxy-announce-2026-team-awards",
+  "credit": "PRESDA · www.lagalaxy.com",
+  "license": null,
+  "captions": {
+    "en": "Reus’s 2026 MLS regular season. Source: LA Galaxy’s November 18 team-awards announcement. Key passes are separate from goals plus assists.",
+    "fr": "Saison régulière MLS 2026 de Reus. Source : Galaxy, 18 novembre. Les passes clés sont distinctes de l’addition buts-passes décisives.",
+    "ar": "موسم رويس المنتظم في MLS لعام ٢٠٢٦. المصدر: إعلان غالاكسي في ١٨ نوفمبر. التمريرات المفتاحية منفصلة عن مجموع الأهداف والتمريرات الحاسمة.",
+    "es": "Temporada regular MLS 2026 de Reus. Fuente: Galaxy, 18 de noviembre. Los pases clave son distintos de goles más asistencias."
+  }
+},
 "trump-xi-putin-shenzhen-three-way-summit-2026": {
   "afterBlock": 12,
   "file": "news4-summit-timeline-en.png",
