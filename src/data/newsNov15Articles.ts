@@ -1,6 +1,497 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "532",
+    "slug": "turkiye-cop31-26-billion-investment-deals-plans",
+    "title": "TÜRKİYE ANNOUNCES OVER $26 BILLION IN COP31 DEALS AND INVESTMENT PLANS",
+    "seoTitle": "Türkiye’s COP31 investment plans: what the $26bn means",
+    "metaDescription": "Türkiye reports over $26 billion in COP31 deals and investment plans. Examine the China agreement, EBRD financing intentions and what remains to be delivered.",
+    "excerpt": "Türkiye reports over $26 billion in COP31 deals and investment plans. Examine the China agreement, EBRD financing intentions and what remains to be delivered.",
+    "category": "World",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/turkiye-cop31-26-billion-investment-deals-plans.jpg",
+    "coverAlt": "Supplied editorial illustration of a Türkiye COP31 venue and renewable energy, not verified conference photography",
+    "headlineHighlights": {
+      "red": "TÜRKİYE",
+      "gold": "COP31 DEALS AND INVESTMENT PLANS"
+    },
+    "tags": [
+      "TÜRKİYE",
+      "World"
+    ],
+    "content": [
+      "Antalya has offered Türkiye something more immediately countable than a global climate accord: a pipeline of energy and financing announcements. But the headline figure, more than $26 billion, describes deals and investment plans at different stages. It does not establish that this sum has arrived in the country or that every proposed project has reached a final investment decision.",
+      "Reuters reported the aggregate on November 20, 2026. The UN climate conference was scheduled for November 9–20 at Antalya’s EXPO Center. This report examines the investment announcements available on November 20, rather than presenting them as a final verdict on the negotiations. [UNFCCC: COP31 conference information](https://unfccc.int/cop31/ifp) [Reuters: aggregate investment announcement, November 20](https://www.dailysabah.com/business/economy/cop31-delivers-deals-plans-worth-over-26-billion-for-host-turkiye)",
+      "[[ATHLETES5_532]]",
+      "## What is included in the $26 billion headline?",
+      "The presidency’s first-week account, reported by DHA on November 16, highlighted approximately $15 billion in planned cooperation with China, an EBRD intention to invest $6 billion over five years, and $5.1 billion in development-bank financing agreements. These are the reported components behind the rounded headline. Their legal status, timing and delivery mechanisms differ. [DHA: COP31 presidency’s first-week investment report](https://www.dha.com.tr/gundem/cop31de-turkiyenin-26-milyar-dolari-asan-yesil-yatirimlari-one-cikti-2982564)",
+      "Those figures should not become a fictional single cheque. A cooperation memorandum can define a prospective project pipeline; a bank’s multi-year investment intention sets a direction; a financing agreement concerns specified lending or support. Published summaries do not provide a consolidated project ledger demonstrating how every dollar will be deployed or excluding all potential overlaps.",
+      "### China: a preliminary framework for renewable energy",
+      "The UNFCCC’s electrification delivery package records a preliminary Türkiye–China agreement envisaging around $15 billion for 7 gigawatts of solar and wind capacity, alongside storage and 4 gigawatts of electricity transmission infrastructure. A gigawatt measures power capacity, not the electricity actually produced over a year. [UNFCCC: electrification delivery package](https://unfccc.int/sites/default/files/resource/Electrify%20the%20World%20The%20COP31%20Action%20Agenda%20Electrification%20Delivery%20Package_0752.pdf)",
+      "That distinction matters commercially. Installed capacity alone cannot tell readers the future annual output, project earnings or reduction in imported fuels. Those outcomes depend on technology, operating conditions, connection dates and how the wider system uses the power. No generation forecast should be manufactured by treating a capacity number as an energy total.",
+      "## What the EBRD actually announced",
+      "The European Bank for Reconstruction and Development says it plans to invest $6 billion over the next five years in projects under Türkiye’s Renewable Energy Acceleration and Clean Transition platform, REACT. The platform’s wider ambition is to mobilise $300 billion by 2040. That long-term mobilisation objective is separate from the bank’s five-year intention and from the COP31 aggregate. [EBRD: planned $6 billion for REACT over five years](https://www.ebrd.com/home/news-and-events/news/2026/ebrd-plans-us-usd-6bn-for-turkiyes-react-projects-over-5-years.html)",
+      "REACT links generation with grids, storage, system flexibility, manufacturing and electrification. This breadth explains why climate investment cannot be assessed solely by counting wind turbines or solar panels. Electricity must be transmitted when and where it is needed, and greater variable generation creates additional requirements for network management and flexibility.",
+      "The EBRD announcement is evidence of an institutional investment plan. It does not identify $6 billion as already disbursed. Nor should the bank’s historical cumulative investment in Türkiye, expressed elsewhere in euros, be confused with this new dollar-denominated plan. Currency, time period and financial instrument all belong beside the number.",
+      "## Development-bank agreements are another category",
+      "Reporting on November 12 identified $5.1 billion in agreements with four development banks and described a wider package ranging from signed loans to preliminary studies and investment targets. The economic significance lies in the underlying instruments, not simply the size of the combined headline. [Hürriyet Daily News: November 12 energy and financing agreements](https://www.hurriyetdailynews.com/amp/turkiye-signs-5-1-billion-in-deals-with-4-development-banks-at-cop31-229303)",
+      "For any individual project, the useful questions are concrete: who borrows or invests, what is financed, what conditions must be met, and when can construction or procurement begin? A signed financing agreement can be a substantial milestone while still preceding drawdown, physical works and operational capacity. These stages should remain separate in subsequent reporting.",
+      "There is also a difference between financing and total project cost. A bank may support part of a larger investment, while private capital or other lenders fund the remainder. Without project-level documentation, it would be misleading to assume that every financing announcement represents wholly additional infrastructure or that all figures can safely be summed again.",
+      "## Why the announcements matter for Türkiye",
+      "The reported package brings industrial policy into the climate story. Generation is one part of the proposition; equipment production, networks and the ability to electrify economic activity are others. Hürriyet Daily News reported that the China memorandum also addressed domestic manufacturing and technology transfer. Whether these ambitions create durable local capabilities will depend on implementation. [Hürriyet Daily News: November 12 energy and financing agreements](https://www.hurriyetdailynews.com/amp/turkiye-signs-5-1-billion-in-deals-with-4-development-banks-at-cop31-229303)",
+      "For businesses, that shifts attention from a summit’s ceremony to the chain of work that follows: engineering, equipment orders, grid connections, construction and operation. Announced expenditure is a potential opportunity, not a verified order book for any unnamed company. This article does not assign jobs, revenues or supplier contracts that have not been published.",
+      "The broader energy-security context is also important. Reliable domestic electricity and robust infrastructure can affect industrial resilience, but no single memorandum proves energy independence. PRESDA’s account of [energy and shipping pressures around the Strait of Hormuz](/articles/iran-hormuz-closed-conditions-energy-shipping/) explains why the relationship between supply, infrastructure and geopolitical exposure remains economically consequential.",
+      "## Investment news is not a negotiated climate settlement",
+      "Host-country commercial announcements and a multilateral COP agreement answer different questions. The former concern projects, institutions and prospective finance. The latter requires decisions by parties to the climate process. A large investment pipeline cannot by itself establish consensus on emissions, fossil fuels or international finance obligations.",
+      "Readers should therefore resist a simple substitution: financial announcements do not settle the assessment of COP31’s diplomatic outcome. Conversely, disagreement in the negotiating rooms does not automatically erase the potential significance of a signed financing instrument. Each claim needs its own evidence, responsible actors and timetable.",
+      "## The next test is delivery",
+      "The strongest follow-up reporting will move from aggregate promises to named projects and dated milestones. Final investment decisions, procurement, bank disbursement, construction and commissioning offer progressively clearer evidence of implementation. Until those records emerge, the accurate description remains more than $26 billion in reported agreements and investment plans.",
+      "The distinction is not semantic caution for its own sake. A pipeline can influence confidence and policy before it becomes productive infrastructure, but its value will ultimately be measured by what is financed, built and operated. Türkiye’s COP31 announcements establish an ambitious starting point. They do not yet constitute a completed balance sheet of the energy transition."
+    ],
+    "references": [
+      {
+        "name": "UNFCCC: COP31 conference information",
+        "url": "https://unfccc.int/cop31/ifp"
+      },
+      {
+        "name": "Reuters: aggregate investment announcement, November 20",
+        "url": "https://www.dailysabah.com/business/economy/cop31-delivers-deals-plans-worth-over-26-billion-for-host-turkiye"
+      },
+      {
+        "name": "EBRD: planned $6 billion for REACT over five years",
+        "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-plans-us-usd-6bn-for-turkiyes-react-projects-over-5-years.html"
+      },
+      {
+        "name": "DHA: COP31 presidency’s first-week investment report",
+        "url": "https://www.dha.com.tr/gundem/cop31de-turkiyenin-26-milyar-dolari-asan-yesil-yatirimlari-one-cikti-2982564"
+      },
+      {
+        "name": "UNFCCC: electrification delivery package",
+        "url": "https://unfccc.int/sites/default/files/resource/Electrify%20the%20World%20The%20COP31%20Action%20Agenda%20Electrification%20Delivery%20Package_0752.pdf"
+      },
+      {
+        "name": "Hürriyet Daily News: November 12 energy and financing agreements",
+        "url": "https://www.hurriyetdailynews.com/amp/turkiye-signs-5-1-billion-in-deals-with-4-development-banks-at-cop31-229303"
+      }
+    ],
+    "relatedSlugs": [
+      "iran-hormuz-closed-conditions-energy-shipping"
+    ],
+    "faq": [
+      {
+        "question": "Has Türkiye already received more than $26 billion?",
+        "answer": "No. The reported total combines agreements and investment plans with different timetables and conditions. It is not a verified total of cash already received or projects completed."
+      },
+      {
+        "question": "What is the China agreement about?",
+        "answer": "The preliminary framework envisages roughly $15 billion for solar, wind, storage and transmission. The UNFCCC records 7 GW of solar and wind and 4 GW of transmission infrastructure."
+      },
+      {
+        "question": "Is the EBRD’s $6 billion already invested?",
+        "answer": "The EBRD describes an intention to invest over five years under REACT. That wording does not establish that the entire amount has been disbursed."
+      },
+      {
+        "question": "Does this mean COP31 reached a final global agreement?",
+        "answer": "No. Host-country investment announcements and negotiated international climate decisions are separate processes. This article assesses investment reporting available on November 20, 2026."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "533",
+    "slug": "gareth-bale-retirement-golf-business-par59",
+    "title": "GARETH BALE: FROM CHAMPIONS LEAGUE GLORY TO GOLF AND BUSINESS",
+    "seoTitle": "Gareth Bale after football: golf, business and Par 59",
+    "metaDescription": "Gareth Bale’s second career spans amateur golf and hospitality. Explore his football legacy, R&A role and the 2026 sale of the Par 59 bars.",
+    "excerpt": "Gareth Bale’s second career spans amateur golf and hospitality. Explore his football legacy, R&A role and the 2026 sale of the Par 59 bars.",
+    "category": "Sport",
+    "schemaType": "Article",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/gareth-bale-retirement-golf-business-par59.jpg",
+    "coverAlt": "Supplied editorial illustration of Gareth Bale on a golf course, not verified tournament photography",
+    "headlineHighlights": {
+      "red": "GARETH BALE",
+      "gold": "GOLF AND BUSINESS"
+    },
+    "tags": [
+      "GARETH BALE",
+      "Sport"
+    ],
+    "content": [
+      "Gareth Bale’s second sporting life is easier to understand once the old joke about his priorities is put aside. Golf was never proof that he lacked ambition. After a football career defined by explosive runs and decisive European goals, it has become one way to remain involved in competition, public life and the business of sport.",
+      "The essential distinction is straightforward: Bale retired from professional football on January 9, 2023. His golf activities do not make him a professional tour golfer. His hospitality ventures are a separate business story, and that story includes the April 2026 sale of the Par 59 bars rather than an unchanged portfolio of venues. [Real Madrid: retirement and career chronology](https://www.realmadrid.com/es-ES/el-club/historia/leyendas-futbol/gareth-bale/) [Nation.Cymru: April 21, 2026 Par 59 sale announcement](https://nation.cymru/culture/gareth-bales-par-59-golf-bar-is-sold-to-business-group/)",
+      "[[ATHLETES5_533]]",
+      "## The football record behind the second act",
+      "Real Madrid’s official record credits Bale with 258 appearances and 106 goals during his 2013–2022 spell. His honours include five Champions League titles. Those numbers explain the attention attached to almost anything he does after football, but they also risk flattening an unusually eventful career into a trophy list. [Real Madrid: Gareth Bale’s official career record](https://www.realmadrid.com/en-US/the-club/history/football-legends/gareth-bale)",
+      "At his most influential, Bale offered a rare combination of acceleration, strength and a powerful left foot. Madrid’s own retrospective highlights his run in the 2014 Copa del Rey final, his contribution to that year’s Champions League final and the overhead kick against Liverpool in the 2018 final. His enduring public image was built around moments that could transform a match.",
+      "That history creates an unusual starting position for retirement. Most entrepreneurs must first persuade an audience to notice them. Bale already has recognition, but recognition does not automatically answer questions about a venue’s location, customer experience, staffing or commercial sustainability. The skills that make a football star famous are not a substitute for running a service business.",
+      "## Retirement did not mean leaving sport",
+      "Bale’s football retirement followed his period at Los Angeles FC. The January 2023 announcement closed his professional playing career, not every possibility of public sporting involvement. Golf offers a different rhythm: technical repetition, individual scoring and the possibility of playing alongside professionals without holding a professional playing status. [Real Madrid: retirement and career chronology](https://www.realmadrid.com/es-ES/el-club/historia/leyendas-futbol/gareth-bale/)",
+      "The distinction between professional and amateur is especially important in celebrity coverage. A famous footballer appearing at a golf event can be a compelling participant and an effective ambassador. That is different from earning a living through a tour schedule or qualifying for elite professional competition. A feature should not invent a second professional career from photographs of a golfer.",
+      "### The R&A role was about participation",
+      "The R&A appointed Bale to support golf participation, including efforts to involve younger people and women. Its announcement, carried by the DP World Tour, framed his role around access and a broader audience. It did not announce a switch to professional tournament golf. [DP World Tour: Bale’s R&A participation ambassador role](https://www.europeantour.com/dpworld-tour/news/articles/detail/football-superstar-gareth-bale-to-support-golf-participation-drive-by-the-r-a/)",
+      "This is a useful example of how a retired athlete’s value can change. The footballer’s performance once mattered because it helped a team win. An ambassador’s contribution is more about attention, identification and helping new participants see a sport as accessible. Those are different objectives, and neither requires pretending that Bale has become a tour professional.",
+      "## Par 59 connected golf with a night out",
+      "His commercial involvement in golf also took a social form. Par 59 launched in Cardiff in March 2022 through a partnership between Elevens Group, co-owned by Bale and Jamie Humphrys, and DEPOT. It combined mini golf, food and drinks, later expanding to Bristol. This was hospitality built around participation rather than a conventional golf club. [Nation.Cymru: April 21, 2026 Par 59 sale announcement](https://nation.cymru/culture/gareth-bales-par-59-golf-bar-is-sold-to-business-group/)",
+      "The concept places the activity inside a broader evening: people can play, eat and spend time together. That business proposition differs from the challenge of operating a course or developing a professional golfer. The relevant product is the entire visit, including the setting and service, rather than the standard of the customer’s swing.",
+      "It also illustrates why business partners deserve a place in the narrative. Celebrity shorthand can make a venture sound like the work of one recognisable person. Par 59 was announced as a partnership. Describing it accurately means acknowledging the operating and entrepreneurial roles around Bale instead of turning the venue into a solo sporting achievement.",
+      "## The important 2026 update: the bars were sold",
+      "On April 21, 2026, Nation.Cymru reported that Lane7 Group had acquired the Cardiff and Bristol Par 59 sites. The announced plan was to refurbish and rebrand Cardiff as Lane7 while retaining Par 59 in Bristol. The report also identified Elevens Bar & Grill as an ongoing Elevens Group operation at that time. [Nation.Cymru: April 21, 2026 Par 59 sale announcement](https://nation.cymru/culture/gareth-bales-par-59-golf-bar-is-sold-to-business-group/)",
+      "A sale changes the meaning of a celebrity-business profile. It can mark a transition from building a concept to handing it to another operator. It does not justify inventing a sale price, profit, ownership percentage or personal payday. Those details were not established in the cited announcement, and this article does not attach a valuation to Bale’s involvement.",
+      "The date matters too. Reporting that he launched the bars is historically accurate; reporting them as an unchanged current holding after the sale would be misleading. The commercial story has moved on, even if older photographs, reviews and profiles continue to associate his name with the original venues.",
+      "## Fame is an opening, not a business model",
+      "Bale’s post-football work belongs to a wider shift in which athletes carry established identities into new industries. PRESDA’s account of the [Dassler brothers and the Adidas–Puma rivalry](/articles/adidas-puma-dassler-brothers-rival-shoe-empires/) shows how deeply sport and commercial organisation can shape each other. Bale’s experience operates at a different scale but raises a related question: what remains valuable after the initial attention?",
+      "For a social venue, repeat visits depend on the experience. For an ambassador, the test is whether attention helps people participate. Neither can be measured by Champions League medals alone. Keeping the categories separate makes the story more interesting because it reveals the work required to turn a recognisable name into something customers or participants actually use.",
+      "## A second act with several scorecards",
+      "There is no need to inflate Bale’s golf into a professional reinvention or his business interests into an undocumented empire. His football achievements are already exceptional. The second act is noteworthy because it combines continued sporting enjoyment, an institutional participation role and experience in hospitality that has included an ownership transition.",
+      "The most revealing question is therefore not whether golf has replaced football. It is how someone whose first career was judged every weekend chooses to use his time, reputation and partnerships afterward. In Bale’s case, the verified record points to several different activities, each with its own purpose and its own measure of success."
+    ],
+    "references": [
+      {
+        "name": "Real Madrid: Gareth Bale’s official career record",
+        "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/gareth-bale"
+      },
+      {
+        "name": "Real Madrid: retirement and career chronology",
+        "url": "https://www.realmadrid.com/es-ES/el-club/historia/leyendas-futbol/gareth-bale/"
+      },
+      {
+        "name": "DP World Tour: Bale’s R&A participation ambassador role",
+        "url": "https://www.europeantour.com/dpworld-tour/news/articles/detail/football-superstar-gareth-bale-to-support-golf-participation-drive-by-the-r-a/"
+      },
+      {
+        "name": "Nation.Cymru: April 21, 2026 Par 59 sale announcement",
+        "url": "https://nation.cymru/culture/gareth-bales-par-59-golf-bar-is-sold-to-business-group/"
+      }
+    ],
+    "relatedSlugs": [
+      "adidas-puma-dassler-brothers-rival-shoe-empires"
+    ],
+    "faq": [
+      {
+        "question": "When did Gareth Bale retire from football?",
+        "answer": "He announced his retirement from professional football on January 9, 2023, after his period with Los Angeles FC."
+      },
+      {
+        "question": "Is Bale a professional golfer?",
+        "answer": "His golf participation and R&A ambassador role do not establish professional tour status. This article describes him as a retired footballer involved in amateur golf and participation initiatives."
+      },
+      {
+        "question": "Does Bale still own the Par 59 bars?",
+        "answer": "The Cardiff and Bristol sites were reported sold to Lane7 Group in April 2026. Older launch stories should not be used as evidence of unchanged ownership."
+      },
+      {
+        "question": "How successful was he at Real Madrid?",
+        "answer": "The club records 258 appearances, 106 goals and five Champions League titles during his 2013–2022 spell. Those sporting achievements are separate from the financial performance of his businesses."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "534",
+    "slug": "andrea-pirlo-pratum-coller-family-wine-business",
+    "title": "ANDREA PIRLO: THE FOOTBALL LEGEND BEHIND PRATUM COLLER",
+    "seoTitle": "Andrea Pirlo’s Pratum Coller: football and a family winery",
+    "metaDescription": "Andrea Pirlo’s family wine venture began in 2007, during his playing career. Discover Pratum Coller’s Lombardy roots and the business behind the name.",
+    "excerpt": "Andrea Pirlo’s family wine venture began in 2007, during his playing career. Discover Pratum Coller’s Lombardy roots and the business behind the name.",
+    "category": "Sport",
+    "schemaType": "Article",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/andrea-pirlo-pratum-coller-family-wine-business.jpg",
+    "coverAlt": "Supplied editorial illustration of Andrea Pirlo with wine and vines, not a verified photograph of Pratum Coller in Lombardy",
+    "headlineHighlights": {
+      "red": "ANDREA PIRLO",
+      "gold": "PRATUM COLLER"
+    },
+    "tags": [
+      "ANDREA PIRLO",
+      "Sport"
+    ],
+    "content": [
+      "Andrea Pirlo’s wine story did not begin when he stopped playing football. Pratum Coller grew out of a family project launched in 2007, a decade before his retirement as a player. That chronology gives the venture a different meaning: it was an interest developed alongside an elite sporting career, rather than a ready-made occupation adopted after the final whistle.",
+      "The setting also needs correcting. The estate is associated with the Brescia area of Lombardy, around Flero and Monte Netto, not Tuscany. Pirlo described its beginnings in direct interviews in 2013 and 2020, linking the enterprise to his family and his father’s influence. The supplied hero is an editorial illustration, not an authenticated photograph of that estate. [Mixer: direct Pirlo interview, September 2013](https://www.mixerplanet.com/vini-da-star-non-solo-calcio-per-andrea-pirlo) [VINUM: direct Pirlo interview, June 2020](https://www.vinum.eu/de/magazin/reportagen/2020-dch/06/andrea-pirlo/)",
+      "[[ATHLETES5_534]]",
+      "## A family enterprise before a retirement project",
+      "In his 2013 interview with Mixer, Pirlo traced the family’s acquisition of the property to 2007. The connection was personal as well as agricultural: he discussed his father Luigi’s appreciation of wine and the area around his family’s roots. This is stronger evidence for the venture’s origin than the familiar celebrity-business narrative of a star suddenly discovering a new passion.",
+      "The timing matters because football limited how much attention he could give it. His later VINUM interview described relying on family support while still playing and pursuing a more professional organisation of the winery afterward. The business therefore developed through overlapping phases, rather than a single dramatic change of career. [VINUM: direct Pirlo interview, June 2020](https://www.vinum.eu/de/magazin/reportagen/2020-dch/06/andrea-pirlo/)",
+      "Family participation is not a decorative detail. It helps explain how a project could continue while its most recognisable participant was occupied with training, travel and matches. The evidence supports a family venture associated with Pirlo, not the idea that he personally performed every vineyard, cellar, distribution and management task.",
+      "## Lombardy is part of the story",
+      "Pratum Coller’s producer presentation places the enterprise in Lombardy. The geographical distinction deserves space because Italian wine is often reduced in international celebrity coverage to a generic landscape of vineyards and villas. A bottle’s regional identity should come from the producer and its documentation, not from the scenery chosen for an illustration. [Apritaly: Pratum Coller producer presentation](https://apritaly.org/a/163.html)",
+      "Location is commercially meaningful as well as picturesque. A wine enterprise must communicate where its grapes and production belong, which products it offers and what makes them identifiable. A famous surname may attract the first look; the producer’s actual identity gives customers a more concrete basis for understanding what is in the bottle.",
+      "This article does not turn an undated producer profile into a current audit of vineyard area or output. Older interviews contain snapshots of the estate and its range at particular times. They cannot establish today’s acreage, production volume or financial performance without a more recent, corresponding record.",
+      "## The football career running alongside it",
+      "The sporting background is exceptional. FIFA records Pirlo as a 2006 World Cup winner with Italy, a six-time Serie A champion and a two-time Champions League winner with AC Milan. His official MLS profile places the European triumphs in 2003 and 2007. These achievements explain his public reach without telling us the winery’s balance sheet. [FIFA: Pirlo’s playing retirement, November 6, 2017](https://inside.fifa.com/news/world-cup-winner-pirlo-hangs-up-boots-2918756) [MLS: Pirlo’s official career profile](https://www.mlssoccer.com/players/andrea-pirlo/)",
+      "His football identity was built around the ability to organise a match: receiving possession, reading the shape of the game and choosing when to accelerate it. That makes patience and precision tempting metaphors for wine. They are useful as an introduction, but a metaphor is not evidence that football technique transfers directly to agricultural or commercial expertise.",
+      "Pirlo announced his playing retirement on November 6, 2017, after finishing at New York City FC. The word playing is important: ending a career on the field does not mean ending every relationship with football. A wine feature need not erase the distinction between a former player and someone whose subsequent work can still include the sport. [FIFA: Pirlo’s playing retirement, November 6, 2017](https://inside.fifa.com/news/world-cup-winner-pirlo-hangs-up-boots-2918756)",
+      "### Expertise beyond the celebrity name",
+      "In the 2020 VINUM interview, Pirlo discussed the involvement of wine consultant Carlo Ferrini. That is a dated account of the project’s professional organisation, not a claim about the consultant’s precise contractual role in 2026. It nevertheless illustrates why reporting should identify specialist input rather than attributing all technical work to the footballer. [VINUM: direct Pirlo interview, June 2020](https://www.vinum.eu/de/magazin/reportagen/2020-dch/06/andrea-pirlo/)",
+      "Vineyard and cellar decisions involve expertise that a label cannot supply on its own. Production and commercial roles can also be separate: making a wine, presenting it and getting it to customers are different tasks. Pratum Coller’s family history is more informative when those distinctions remain visible.",
+      "## A product range has a history too",
+      "The interviews describe wines under names including Nitor, Eos and Arduo. The 2020 account also discussed a broader range, including a sparkling wine named Ventuno. These are examples from the documented history of the producer, not a guarantee that every bottle, vintage or format remains available now. [Mixer: direct Pirlo interview, September 2013](https://www.mixerplanet.com/vini-da-star-non-solo-calcio-per-andrea-pirlo) [VINUM: direct Pirlo interview, June 2020](https://www.vinum.eu/de/magazin/reportagen/2020-dch/06/andrea-pirlo/)",
+      "That qualification prevents a feature from becoming an inaccurate shopping guide. Product portfolios change; a historical description cannot prove current stock. Nor does the presence of several wines justify a claim about sales, export revenue or the profitability of the business. No such financial figures have been established for this article.",
+      "The practical challenge is clear even without invented numbers. A producer needs an identity that can survive beyond the curiosity generated by its famous connection. For a customer, the meaningful questions concern origin, style and consistency. For the business, they concern production, relationships and the ability to keep delivering the promised product.",
+      "## Two footballers, different wine-business models",
+      "PRESDA’s account of [Eden Hazard’s signature-wine collaboration](/articles/eden-hazard-signature-wine-fabio-cordella-retirement/) offers a useful comparison. Hazard’s documented association with an existing producer should not be treated as identical to Pirlo’s family-estate history. Both involve football fame and wine, but the underlying roles are different.",
+      "This distinction also improves the wider discussion of athletes in business. A partnership, an endorsement, an investment and an operating company are not interchangeable. The reporting task is to establish which relationship the evidence supports, rather than assuming that every athlete pictured with a bottle owns a winery or personally makes its contents.",
+      "## The second career began during the first",
+      "Pratum Coller is most interesting when told on its own terms: a family-linked wine enterprise in Lombardy whose documented origins reach back to 2007. Pirlo’s retirement created room for greater attention, but it did not create the project from nothing. That longer timeline is the central correction to a simplified after-football story.",
+      "His medals establish what he accomplished as a player. The winery’s history establishes a separate set of relationships, choices and specialist work. Respecting both records produces a richer portrait than the suggestion that a football legend simply exchanged one field for another and instantly mastered a new industry."
+    ],
+    "references": [
+      {
+        "name": "Mixer: direct Pirlo interview, September 2013",
+        "url": "https://www.mixerplanet.com/vini-da-star-non-solo-calcio-per-andrea-pirlo"
+      },
+      {
+        "name": "VINUM: direct Pirlo interview, June 2020",
+        "url": "https://www.vinum.eu/de/magazin/reportagen/2020-dch/06/andrea-pirlo/"
+      },
+      {
+        "name": "Apritaly: Pratum Coller producer presentation",
+        "url": "https://apritaly.org/a/163.html"
+      },
+      {
+        "name": "FIFA: Pirlo’s playing retirement, November 6, 2017",
+        "url": "https://inside.fifa.com/news/world-cup-winner-pirlo-hangs-up-boots-2918756"
+      },
+      {
+        "name": "MLS: Pirlo’s official career profile",
+        "url": "https://www.mlssoccer.com/players/andrea-pirlo/"
+      }
+    ],
+    "relatedSlugs": [
+      "eden-hazard-signature-wine-fabio-cordella-retirement"
+    ],
+    "faq": [
+      {
+        "question": "Did Pirlo start his winery after retirement?",
+        "answer": "No. His direct interviews date the family venture to 2007, while he was still playing. He described giving it more attention after his playing career."
+      },
+      {
+        "question": "Where is Pratum Coller?",
+        "answer": "The producer is associated with the Brescia area of Lombardy, around Flero and Monte Netto. It should not be described as a Tuscan estate."
+      },
+      {
+        "question": "Does Pirlo personally do all the winemaking?",
+        "answer": "The documented story involves family support and professional expertise. It does not establish that Pirlo personally carries out every vineyard or cellar task."
+      },
+      {
+        "question": "Are current revenues and production figures known?",
+        "answer": "This article does not establish current financial results or annual output. Historical interviews and undated producer descriptions cannot substitute for a current business audit."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "535",
+    "slug": "divock-origi-harvard-crossover-business-retirement",
+    "title": "DIVOCK ORIGI JOINS HARVARD’S ATHLETE BUSINESS PROGRAMME AFTER RETIREMENT",
+    "seoTitle": "Divock Origi at Harvard: the athlete business programme",
+    "metaDescription": "After retiring in June 2026, Divock Origi is reported to be taking Harvard Business School’s Crossover programme. What it teaches and how it differs from an MBA.",
+    "excerpt": "After retiring in June 2026, Divock Origi is reported to be taking Harvard Business School’s Crossover programme. What it teaches and how it differs from an MBA.",
+    "category": "Sport",
+    "schemaType": "Article",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/divock-origi-harvard-crossover-business-retirement.jpg",
+    "coverAlt": "Supplied editorial illustration of Divock Origi in a Harvard-themed setting, not verified attendance or campus photography",
+    "headlineHighlights": {
+      "red": "DIVOCK ORIGI",
+      "gold": "HARVARD’S ATHLETE BUSINESS PROGRAMME"
+    },
+    "tags": [
+      "DIVOCK ORIGI",
+      "Sport"
+    ],
+    "content": [
+      "Divock Origi’s most famous football moments happened under extraordinary pressure. His next chapter, as reported in November 2026, is about learning to make decisions in a different environment. The former Liverpool forward is participating in Harvard Business School’s Crossover Into Business programme for professional athletes, according to reports discussing his studies and his own comments about developing business knowledge.",
+      "Two corrections are essential. Origi’s playing retirement was announced in June 2026, not merely inferred from an absence from a team. And Crossover is a semester-long athlete programme, not evidence that he has enrolled in or graduated from Harvard’s MBA degree. The distinction makes the education story more precise without diminishing its significance. [Liverpool FC: Origi announces retirement](https://www.liverpoolfc.com/news/divock-origi-announces-retirement-football) [Harvard Business School: Crossover Into Business](https://www.hbs.edu/crossover) [TuttoMercatoWeb: November 14 report of Origi’s HBVL interview](https://www.tuttomercatoweb.com/serie-a/milan-universita-origi-iscritto-harvard-voglio-perfezionare-business-2294010)",
+      "[[ATHLETES5_535]]",
+      "## What has been reported about Harvard?",
+      "VERSUS reported his participation on November 9. A November 14 TuttoMercatoWeb report, drawing on an interview with Belgian outlet HBVL, described Origi discussing his studies and his wish to improve his understanding of business. The reporting supports an athlete-education story, not claims about an academic degree or a new full-time residence in the United States. [TuttoMercatoWeb: November 14 report of Origi’s HBVL interview](https://www.tuttomercatoweb.com/serie-a/milan-universita-origi-iscritto-harvard-voglio-perfezionare-business-2294010) [VERSUS: November 9 report on Origi’s business studies](https://www.versus.uk.com/articles/divock-origi-enrolls-at-harvard-university-to-study-business-after-retiring/)",
+      "Attribution matters here. Harvard’s public programme page explains Crossover’s structure; it should not be presented as a personal announcement about Origi. His participation is supported by the reporting and interview account cited above. Combining the two sources allows a clear description of what he is reported to be doing and what that programme is designed to provide.",
+      "## Inside Crossover Into Business",
+      "Harvard Business School describes a semester-long programme that pairs professional athletes with two MBA student mentors. Participants use the case method and explore business topics with attention to their own interests and schedules. The distinction between athlete participant and MBA mentor is built into the programme’s design. [Harvard Business School: Crossover Into Business](https://www.hbs.edu/crossover)",
+      "The published fall 2026 calendar scheduled a campus kickoff for September 27–28 and final presentations for late November or early December. Consequently, November coverage should not be rewritten as proof that the course itself began that month. The reporting date and the programme timetable are different pieces of information.",
+      "### A course is not a degree announcement",
+      "Nothing in the evidence cited here establishes that Origi is pursuing an MBA, has completed a degree or has already graduated from Crossover. Those are separate claims that would require corresponding records. A photograph in university-branded clothing is not a substitute for such documentation; the supplied hero is explicitly an editorial illustration.",
+      "The value of the programme can be considered on its own terms. A structured opportunity to discuss business decisions with mentors is meaningful without being inflated into a degree. Precise language also helps readers understand the relationship: this is education for athletes, with MBA students assisting, rather than interchangeable membership of every Harvard academic programme.",
+      "## Retirement was confirmed in June 2026",
+      "Liverpool’s official announcement records Origi’s decision to retire at 31. His career at the club produced 41 goals in 175 appearances, with his contribution to the 2019 Champions League campaign providing the defining images. He scored twice in the 4–0 semi-final victory over Barcelona and added Liverpool’s second goal in the final against Tottenham. [Liverpool FC: Origi announces retirement](https://www.liverpoolfc.com/news/divock-origi-announces-retirement-football)",
+      "Those moments explain why his post-playing decisions remain newsworthy. They also show how a football reputation can become much larger than a season-by-season role. A player remembered for decisive interventions carries a distinctive public identity into retirement, even though business choices will be judged by criteria entirely different from a famous goal.",
+      "His later playing path included AC Milan and a loan at Nottingham Forest. Liverpool’s retirement account places his Milan departure in December 2025. The chronology matters because being without a club and announcing retirement are not the same event. This article uses the documented retirement rather than treating either employment status or speculation as proof.",
+      "## Why business education is a different kind of preparation",
+      "Elite football can expose players to contracts, sponsorships, agents and commercial partners. Exposure does not automatically mean responsibility for analysing each transaction. Retirement changes the relationship: the athlete may want a more direct role in choosing projects, evaluating advisers and deciding how much time or capital to commit.",
+      "That is the practical context for Origi’s reported interest in developing business knowledge. It would be an exaggeration to claim that classroom participation guarantees commercial success. It is more reasonable to see education as preparation for asking better questions: what problem does a venture solve, who does the work, what evidence supports its projections, and what obligations accompany an agreement?",
+      "These questions concern the structure of a decision, not an assumption that every former player must launch a company. A second career can include study, partnerships, operating work or time away from professional sport. There is no single compulsory model of retirement, and education need not be reduced to a prediction about future earnings.",
+      "## The business interest extends beyond the touchline",
+      "The November 14 interview report also discussed Origi’s interest in fashion and design. That offers context for the kind of creative and commercial questions he may wish to explore. It does not establish the revenue, valuation or future success of any venture, and this article assigns no speculative business figures to him. [TuttoMercatoWeb: November 14 report of Origi’s HBVL interview](https://www.tuttomercatoweb.com/serie-a/milan-universita-origi-iscritto-harvard-voglio-perfezionare-business-2294010)",
+      "The distinction between an interest and an operating result is especially useful in athlete coverage. A course can help someone investigate an industry before making a commitment. Describing that exploratory stage accurately is more informative than declaring an empire in advance or treating every new interest as an already completed professional transformation.",
+      "For a different route beyond football, see PRESDA’s profile of [Gareth Bale’s golf and hospitality activities](/articles/gareth-bale-retirement-golf-business-par59/). Bale’s businesses and their ownership changes illustrate why a participant’s actual role must be established separately in each project. Origi’s education story should be evaluated with the same attention to evidence and timing.",
+      "## What the next chapter does, and does not, tell us",
+      "Origi’s reported participation is an identifiable step after a confirmed playing retirement. It connects a familiar football name with a programme designed around athletes and business learning. That is enough to sustain a substantive story without inventing an MBA, a graduation ceremony or a definitive career plan that he has not announced.",
+      "The strongest reading of the transition is a modest but consequential one: someone celebrated for decisions made in seconds is creating space to examine decisions more slowly. What he builds afterward remains open. The documented change is from professional playing to a period that includes education and the development of interests beyond the pitch."
+    ],
+    "references": [
+      {
+        "name": "Liverpool FC: Origi announces retirement",
+        "url": "https://www.liverpoolfc.com/news/divock-origi-announces-retirement-football"
+      },
+      {
+        "name": "Harvard Business School: Crossover Into Business",
+        "url": "https://www.hbs.edu/crossover"
+      },
+      {
+        "name": "TuttoMercatoWeb: November 14 report of Origi’s HBVL interview",
+        "url": "https://www.tuttomercatoweb.com/serie-a/milan-universita-origi-iscritto-harvard-voglio-perfezionare-business-2294010"
+      },
+      {
+        "name": "VERSUS: November 9 report on Origi’s business studies",
+        "url": "https://www.versus.uk.com/articles/divock-origi-enrolls-at-harvard-university-to-study-business-after-retiring/"
+      }
+    ],
+    "relatedSlugs": [
+      "gareth-bale-retirement-golf-business-par59"
+    ],
+    "faq": [
+      {
+        "question": "Has Divock Origi retired from football?",
+        "answer": "Yes. Liverpool’s official announcement recorded his retirement in June 2026 at the age of 31."
+      },
+      {
+        "question": "Is Origi studying for a Harvard MBA?",
+        "answer": "The cited evidence concerns Crossover Into Business, a semester-long athlete programme. It does not establish MBA enrolment or degree completion."
+      },
+      {
+        "question": "How does the programme work?",
+        "answer": "Harvard Business School says athletes are paired with two MBA student mentors and explore business through the case method, tailored to their interests and schedules."
+      },
+      {
+        "question": "Did his Harvard programme begin in November?",
+        "answer": "November is the date of the coverage cited here. The programme’s published fall 2026 calendar scheduled its campus kickoff for September 27–28."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "536",
+    "slug": "eden-hazard-signature-wine-fabio-cordella-retirement",
+    "title": "EDEN HAZARD’S LIFE AFTER FOOTBALL: HIS SIGNATURE WINE COLLABORATION",
+    "seoTitle": "Eden Hazard’s wine venture: the Fabio Cordella collaboration",
+    "metaDescription": "Eden Hazard’s 2026 wine collaboration connects football fame with Salento. Explore the partnership, its timeline and what the evidence says about his role.",
+    "excerpt": "Eden Hazard’s 2026 wine collaboration connects football fame with Salento. Explore the partnership, its timeline and what the evidence says about his role.",
+    "category": "Sport",
+    "schemaType": "Article",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/eden-hazard-signature-wine-fabio-cordella-retirement.jpg",
+    "coverAlt": "Supplied editorial illustration of Eden Hazard tasting wine in a cellar, not evidence of winery ownership or a technical winemaking role",
+    "headlineHighlights": {
+      "red": "EDEN HAZARD’S",
+      "gold": "SIGNATURE WINE COLLABORATION"
+    },
+    "tags": [
+      "EDEN HAZARD’S",
+      "Sport"
+    ],
+    "content": [
+      "Eden Hazard’s life after football has acquired a new label, quite literally. The former Chelsea and Real Madrid forward is associated with a signature wine collection through Fabio Cordella’s The Wine of the Champions. The documented story is a collaboration with an existing producer, not proof that Hazard has bought an estate or become its technical winemaker.",
+      "That distinction corrects an appealing but overconfident headline. The producer’s official website lists Hazard among its participating football personalities. On-the-ground coverage in February 2026 and a subsequent public event provide a timeline for the venture. This is a feature about an established 2026 collaboration, not an invented November launch. [Fabio Cordella: official Eden Hazard collection page](https://www.fabiocordella.com/champions/eden-hazard) [La Gazzetta dello Sport: Hazard’s February 3 Salento visit](https://video.gazzetta.it/calcio/video-cosa-fa-hazard-in-provincia-di-lecce-eden-sorprende-i-bambini-e-scopre-i-suoi-vini/94518d30-a0c3-4c44-98d3-5f815331exlk/amp) [The Grand Southampton: June 12, 2026 Hazard wine event](https://www.thegrandsouthampton.co.uk/events/an-evening-with-eden/)",
+      "[[ATHLETES5_536]]",
+      "## What is confirmed about the wine venture?",
+      "Fabio Cordella’s website includes an Eden Hazard collection page, placing him within the wider Wine of the Champions concept. Its corporate information identifies Fabio Cordella srl. That is useful primary evidence of the association, but it does not disclose a personal ownership percentage, a winery purchase or a technical job description for Hazard. [Fabio Cordella: official Eden Hazard collection page](https://www.fabiocordella.com/champions/eden-hazard) [Fabio Cordella: company and champions collection](https://www.fabiocordella.com/)",
+      "An athlete can be involved in a product in several ways: through a signature collection, promotion, creative input or investment. Those relationships have different implications. The evidence cited here supports describing Hazard as a collaborator associated with wines carrying his identity, while leaving undisclosed contractual details undisclosed.",
+      "### The February visit made the story tangible",
+      "La Gazzetta dello Sport’s February 3, 2026 video report followed Hazard in the Lecce area with Cordella and described three wines: a red, a rosé and a white. It situated the project in the Salento context of southern Italy. This is more concrete than a generic story about a footballer pictured holding a glass. [La Gazzetta dello Sport: Hazard’s February 3 Salento visit](https://video.gazzetta.it/calcio/video-cosa-fa-hazard-in-provincia-di-lecce-eden-sorprende-i-bambini-e-scopre-i-suoi-vini/94518d30-a0c3-4c44-98d3-5f815331exlk/amp)",
+      "The regional setting should not be confused with ownership. Visiting a producer, presenting bottles or appearing in promotional coverage does not by itself prove that the visitor owns vineyards, supervises fermentation or makes every production decision. The supplied cellar image is an editorial illustration and cannot establish any of those activities.",
+      "## A public appearance in June, not a launch today",
+      "The Grand Southampton’s event page records an evening with Hazard on June 12, 2026, connected to his wine collaboration. The event is marked as having taken place. It documents another public stage in the project’s year without justifying claims about current ticket availability, sales volumes or a nationwide retail rollout. [The Grand Southampton: June 12, 2026 Hazard wine event](https://www.thegrandsouthampton.co.uk/events/an-evening-with-eden/)",
+      "Keeping this chronology intact matters. A wine initiative can remain interesting months after its first coverage because it reveals how an athlete uses a familiar public identity outside sport. There is no need to manufacture immediacy by moving the launch into the present or treating an old event listing as an upcoming appearance.",
+      "The sequence also offers a better way to follow future developments. A named product, a producer’s confirmation and a dated appearance are specific milestones. Claims about expansion or business success would need their own evidence, such as new official announcements or published operating results, rather than being inferred from the existence of a collaboration.",
+      "## The football career he left behind",
+      "Hazard announced his retirement on October 10, 2023, aged 32. Chelsea’s official account records 352 appearances and 110 goals across seven years, with two Premier League titles among his honours. The Premier League separately records the retirement announcement. These are firm career facts, not a conclusion drawn from his involvement in another industry. [Chelsea FC: Hazard’s retirement and career](https://www.chelseafc.com/en/news/article/chelsea-legend-eden-hazard-announces-retirement) [Premier League: October 10, 2023 retirement announcement](https://www.premierleague.com/en/news/3733199)",
+      "He moved from Chelsea to Real Madrid in 2019 and later ended his playing career. His Chelsea years remain central to his public identity: a player associated with balance, dribbling and the ability to disrupt a defence. That identity is the background against which supporters notice a bottle carrying his name.",
+      "The change in daily purpose is significant even without assuming that he has exchanged football for a full-time cellar job. Retirement can create room for projects with a different calendar, different collaborators and less dependence on the weekly performance cycle. The available evidence shows one such project, not an exclusive definition of his entire life after sport.",
+      "## What a signature collection can offer a producer",
+      "The commercial logic is understandable: a footballer’s name can give an existing producer access to an audience that might not otherwise encounter its wines. For supporters, the appeal may include a connection with a familiar career and personality. That explains attention, but it does not establish how much wine is sold or whether the relationship is profitable.",
+      "The product still has to exist beyond its publicity. Origin, style, consistency, distribution and service remain relevant to the customer. A celebrity association can provide a reason to look, but it cannot replace the practical work of making, presenting and supplying the bottles. This is analysis of the business model, not a claim about undisclosed company performance.",
+      "The distinction is particularly useful when discussing alcohol. A famous athlete’s involvement is not a health recommendation or evidence of sporting benefit. This article reports a commercial collaboration and its context; it does not turn the player’s fitness history into a claim about consuming the product.",
+      "## Hazard and Pirlo should not be given the same story",
+      "PRESDA’s profile of [Andrea Pirlo and Pratum Coller](/articles/andrea-pirlo-pratum-coller-family-wine-business/) describes a family wine venture whose origins date to 2007, while Pirlo was still playing. Hazard’s documented signature collection with an existing producer is a different relationship. Treating both simply as footballers who became winery owners would erase the evidence that makes each story distinctive.",
+      "This is a broader reporting lesson. A photograph can show a person with a product but cannot establish the legal and operational structure behind it. A partner’s official page can confirm an association without revealing the contract. Careful reporting combines those sources while respecting what they do and do not establish.",
+      "## What remains unknown",
+      "This article does not establish Hazard’s investment amount, remuneration, ownership stake, annual bottle sales or the profitability of the collection. It also does not present a historical selection of wines as a real-time stock list. Product availability and commercial terms require current documentation of their own.",
+      "Those limits leave a clear, engaging story intact. A retired football star has attached his identity to a wine collaboration, with confirmation from the producer and dated public activity in 2026. It is a meaningful example of life beyond the pitch, told more accurately as a partnership than as an unverified transformation into a technical winemaker or estate owner."
+    ],
+    "references": [
+      {
+        "name": "Fabio Cordella: official Eden Hazard collection page",
+        "url": "https://www.fabiocordella.com/champions/eden-hazard"
+      },
+      {
+        "name": "La Gazzetta dello Sport: Hazard’s February 3 Salento visit",
+        "url": "https://video.gazzetta.it/calcio/video-cosa-fa-hazard-in-provincia-di-lecce-eden-sorprende-i-bambini-e-scopre-i-suoi-vini/94518d30-a0c3-4c44-98d3-5f815331exlk/amp"
+      },
+      {
+        "name": "The Grand Southampton: June 12, 2026 Hazard wine event",
+        "url": "https://www.thegrandsouthampton.co.uk/events/an-evening-with-eden/"
+      },
+      {
+        "name": "Chelsea FC: Hazard’s retirement and career",
+        "url": "https://www.chelseafc.com/en/news/article/chelsea-legend-eden-hazard-announces-retirement"
+      },
+      {
+        "name": "Premier League: October 10, 2023 retirement announcement",
+        "url": "https://www.premierleague.com/en/news/3733199"
+      },
+      {
+        "name": "Fabio Cordella: company and champions collection",
+        "url": "https://www.fabiocordella.com/"
+      }
+    ],
+    "relatedSlugs": [
+      "andrea-pirlo-pratum-coller-family-wine-business"
+    ],
+    "faq": [
+      {
+        "question": "Has Eden Hazard become a winery owner?",
+        "answer": "The cited sources confirm a signature-wine collaboration with Fabio Cordella’s brand. They do not establish an estate purchase, ownership percentage or technical winemaking role."
+      },
+      {
+        "question": "Where is the wine project connected to?",
+        "answer": "The reporting places the producer relationship in Salento, Puglia, in southern Italy. That geographical connection does not itself prove Hazard owns vineyards there."
+      },
+      {
+        "question": "When did Hazard retire from football?",
+        "answer": "He announced his retirement on October 10, 2023, at 32. Chelsea records 352 appearances and 110 goals during his seven years at the club."
+      },
+      {
+        "question": "Is this a new November 2026 launch?",
+        "answer": "No. The article follows documented activity earlier in 2026, including February reporting and a June event. It does not invent a new launch date."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "527",
     "slug": "essex-whale-sank-ship-1820",
     "title": "THE ESSEX: THE WHALE THAT SANK A SHIP",

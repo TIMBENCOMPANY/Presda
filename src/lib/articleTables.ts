@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[ATHLETES5_532]]": {
+    "caption": "COP31 investment figures: different commitments and time horizons",
+    "headers": [
+      "Announcement",
+      "What the figure represents"
+    ],
+    "rows": [
+      [
+        "About $15 billion",
+        "Preliminary China cooperation framework"
+      ],
+      [
+        "$6 billion over five years",
+        "EBRD investment intention under REACT"
+      ],
+      [
+        "$5.1 billion",
+        "Reported development-bank financing agreements"
+      ],
+      [
+        "$300 billion by 2040",
+        "REACT mobilisation ambition, separate from COP31 total"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ATHLETES5_533]]": {
+    "caption": "Gareth Bale: football, golf and hospitality milestones",
+    "headers": [
+      "Milestone",
+      "Verified context"
+    ],
+    "rows": [
+      [
+        "2013–2022",
+        "Real Madrid: 258 appearances and 106 goals"
+      ],
+      [
+        "March 2022",
+        "Par 59 launches in Cardiff with business partners"
+      ],
+      [
+        "January 9, 2023",
+        "Retirement from professional football"
+      ],
+      [
+        "April 21, 2026",
+        "Sale of two Par 59 sites reported"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ATHLETES5_534]]": {
+    "caption": "Andrea Pirlo and Pratum Coller: the documented chronology",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "2006",
+        "World Cup victory with Italy"
+      ],
+      [
+        "2007",
+        "Family wine venture begins during playing career"
+      ],
+      [
+        "November 6, 2017",
+        "Playing retirement announced after New York City FC"
+      ],
+      [
+        "June 2020",
+        "VINUM interview describes family support and specialist input"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ATHLETES5_535]]": {
+    "caption": "Divock Origi: retirement and business-study chronology",
+    "headers": [
+      "Date",
+      "Milestone and its meaning"
+    ],
+    "rows": [
+      [
+        "2019",
+        "Decisive goals in Liverpool’s Champions League triumph"
+      ],
+      [
+        "June 2026",
+        "Playing retirement announced at 31"
+      ],
+      [
+        "September 27–28, 2026",
+        "Scheduled fall Crossover campus kickoff"
+      ],
+      [
+        "November 2026",
+        "Reports discuss Origi’s participation and business studies"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ATHLETES5_536]]": {
+    "caption": "Eden Hazard’s wine collaboration: a dated timeline",
+    "headers": [
+      "Date or source",
+      "What it establishes"
+    ],
+    "rows": [
+      [
+        "October 10, 2023",
+        "Retirement from professional football at 32"
+      ],
+      [
+        "February 3, 2026",
+        "Salento visit and red, rosé and white wines reported"
+      ],
+      [
+        "June 12, 2026",
+        "Wine-related public event in Southampton"
+      ],
+      [
+        "Official producer website",
+        "Hazard listed within the champions collection"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV20_BATCH_527]]": {
     "caption": "The Essex: four stages. Sources: Chase’s 1821 narrative and the institutional accounts cited below. Dates describe distinct events, not a single rescue.",
     "headers": [

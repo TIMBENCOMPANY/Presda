@@ -15,6 +15,111 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"turkiye-cop31-26-billion-investment-deals-plans": {
+  "afterBlock": 12,
+  "file": "athletes5-cop-facts-en.png",
+  "localizedFiles": {
+    "en": "athletes5-cop-facts-en.png",
+    "fr": "athletes5-cop-facts-fr.png",
+    "ar": "athletes5-cop-facts-ar.png",
+    "es": "athletes5-cop-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.dha.com.tr/gundem/cop31de-turkiyenin-26-milyar-dolari-asan-yesil-yatirimlari-one-cikti-2982564",
+  "credit": "PRESDA",
+  "license": null,
+  "captions": {
+    "en": "COP31 investment figures: different commitments and time horizons. Sources: COP31 presidency/DHA and EBRD.",
+    "fr": "COP31 : des montants de nature et d’échéance différentes. Sources : présidence COP31/DHA et BERD.",
+    "ar": "أرقام COP31: التزامات وآجال مختلفة. المصادر: رئاسة COP31 وDHA والبنك الأوروبي.",
+    "es": "COP31: cifras con compromisos y horizontes diferentes. Fuentes: presidencia COP31/DHA y BERD."
+  }
+},
+"gareth-bale-retirement-golf-business-par59": {
+  "afterBlock": 12,
+  "file": "athletes5-bale-facts-en.png",
+  "localizedFiles": {
+    "en": "athletes5-bale-facts-en.png",
+    "fr": "athletes5-bale-facts-fr.png",
+    "ar": "athletes5-bale-facts-ar.png",
+    "es": "athletes5-bale-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://nation.cymru/culture/gareth-bales-par-59-golf-bar-is-sold-to-business-group/",
+  "credit": "PRESDA",
+  "license": null,
+  "captions": {
+    "en": "Gareth Bale: football, golf and hospitality milestones. Sources: Real Madrid, R&A and Nation.Cymru.",
+    "fr": "Gareth Bale : repères sportifs et entrepreneuriaux. Sources : Real Madrid, R&A et Nation.Cymru.",
+    "ar": "غاريث بيل: محطات كرة القدم والغولف والضيافة. المصادر: ريال مدريد وR&A وNation.Cymru.",
+    "es": "Gareth Bale: hitos del fútbol, el golf y la hostelería. Fuentes: Real Madrid, R&A y Nation.Cymru."
+  }
+},
+"andrea-pirlo-pratum-coller-family-wine-business": {
+  "afterBlock": 12,
+  "file": "athletes5-pirlo-facts-en.png",
+  "localizedFiles": {
+    "en": "athletes5-pirlo-facts-en.png",
+    "fr": "athletes5-pirlo-facts-fr.png",
+    "ar": "athletes5-pirlo-facts-ar.png",
+    "es": "athletes5-pirlo-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.mixerplanet.com/vini-da-star-non-solo-calcio-per-andrea-pirlo",
+  "credit": "PRESDA",
+  "license": null,
+  "captions": {
+    "en": "Andrea Pirlo and Pratum Coller: the documented chronology. Sources: Pirlo interviews and FIFA.",
+    "fr": "Andrea Pirlo et Pratum Coller : chronologie documentée. Sources : entretiens de Pirlo et FIFA.",
+    "ar": "أندريا بيرلو وبراتوم كولر: التسلسل الزمني الموثق. المصادر: مقابلات بيرلو وفيفا.",
+    "es": "Andrea Pirlo y Pratum Coller: cronología documentada. Fuentes: entrevistas de Pirlo y FIFA."
+  }
+},
+"divock-origi-harvard-crossover-business-retirement": {
+  "afterBlock": 12,
+  "file": "athletes5-origi-facts-en.png",
+  "localizedFiles": {
+    "en": "athletes5-origi-facts-en.png",
+    "fr": "athletes5-origi-facts-fr.png",
+    "ar": "athletes5-origi-facts-ar.png",
+    "es": "athletes5-origi-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.hbs.edu/crossover",
+  "credit": "PRESDA",
+  "license": null,
+  "captions": {
+    "en": "Divock Origi: retirement and business-study chronology. Sources: Liverpool FC, HBS and reporting.",
+    "fr": "Divock Origi : retraite et formation commerciale. Sources : Liverpool FC, HBS et articles cités.",
+    "ar": "ديفوك أوريغي: تسلسل الاعتزال ودراسة الأعمال. المصادر: ليفربول وهارفارد والتقارير المشار إليها.",
+    "es": "Divock Origi: retirada y formación empresarial. Fuentes: Liverpool FC, HBS y cobertura citada."
+  }
+},
+"eden-hazard-signature-wine-fabio-cordella-retirement": {
+  "afterBlock": 12,
+  "file": "athletes5-hazard-facts-en.png",
+  "localizedFiles": {
+    "en": "athletes5-hazard-facts-en.png",
+    "fr": "athletes5-hazard-facts-fr.png",
+    "ar": "athletes5-hazard-facts-ar.png",
+    "es": "athletes5-hazard-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.fabiocordella.com/champions/eden-hazard",
+  "credit": "PRESDA",
+  "license": null,
+  "captions": {
+    "en": "Eden Hazard’s wine collaboration: a dated timeline. Sources: Chelsea, Gazzetta, producer and event.",
+    "fr": "La collaboration viticole d’Eden Hazard : repères datés. Sources : Chelsea, Gazzetta, producteur et événement.",
+    "ar": "تعاون إيدن هازارد في النبيذ: محطات مؤرخة. المصادر: تشيلسي وغازيتا والمنتج والفعالية.",
+    "es": "La colaboración vinícola de Eden Hazard: cronología. Fuentes: Chelsea, Gazzetta, productor y evento."
+  }
+},
 "essex-whale-sank-ship-1820": {
   "afterBlock": 12,
   "file": "nov20-essex-facts-en.png",
