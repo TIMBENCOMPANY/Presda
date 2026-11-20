@@ -15,6 +15,111 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"david-beckham-billion-dollar-fortune-business-empire": {
+  "afterBlock": 12,
+  "file": "enterprise5-beckham-facts-en.png",
+  "localizedFiles": {
+    "en": "enterprise5-beckham-facts-en.png",
+    "fr": "enterprise5-beckham-facts-fr.png",
+    "ar": "enterprise5-beckham-facts-ar.png",
+    "es": "enterprise5-beckham-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://tollbit.forbes.com/sites/maneetahuja/2026/05/22/new-billionaire-david-beckham-on-his-family-and-legacy/?streamIndex=0",
+  "credit": "PRESDA",
+  "license": null,
+  "captions": {
+    "en": "David Beckham’s business: milestones and financial distinctions. Sources: Forbes, Authentic, MLS and Safilo.",
+    "fr": "David Beckham : étapes commerciales et distinctions financières. Sources : Forbes, Authentic, MLS et Safilo.",
+    "ar": "أعمال ديفيد بيكهام: محطات وتمييزات مالية. المصادر: فوربس وأوثنتيك وMLS وسافيلو.",
+    "es": "David Beckham: hitos empresariales y conceptos financieros. Fuentes: Forbes, Authentic, MLS y Safilo."
+  }
+},
+"george-weah-ballon-dor-liberia-president-history": {
+  "afterBlock": 12,
+  "file": "enterprise5-weah-facts-en.png",
+  "localizedFiles": {
+    "en": "enterprise5-weah-facts-en.png",
+    "fr": "enterprise5-weah-facts-fr.png",
+    "ar": "enterprise5-weah-facts-ar.png",
+    "es": "enterprise5-weah-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://ballondor.com/all-rankings?year=1995",
+  "credit": "PRESDA",
+  "license": null,
+  "captions": {
+    "en": "George Weah: football recognition and political chronology. Sources: Ballon d’Or, Executive Mansion and OHCHR.",
+    "fr": "George Weah : repères sportifs et politiques. Sources : Ballon d’Or, Executive Mansion et HCDH.",
+    "ar": "جورج ويا: التكريم الكروي والتسلسل السياسي. المصادر: الكرة الذهبية والقصر التنفيذي والمفوضية الأممية.",
+    "es": "George Weah: reconocimiento deportivo y cronología política. Fuentes: Balón de Oro, Executive Mansion y ACNUDH."
+  }
+},
+"serena-williams-starfire-ventures-200-million-fund-target": {
+  "afterBlock": 12,
+  "file": "enterprise5-serena-facts-en.png",
+  "localizedFiles": {
+    "en": "enterprise5-serena-facts-en.png",
+    "fr": "enterprise5-serena-facts-fr.png",
+    "ar": "enterprise5-serena-facts-ar.png",
+    "es": "enterprise5-serena-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.vcaonline.com/news/2026111621/serena-williams-and-beth-ferreira-launch-starfire-ventures-the-next-chapter-in-a-decade-long-investing-partnership/",
+  "credit": "PRESDA",
+  "license": null,
+  "captions": {
+    "en": "Starfire Ventures: confirmed milestones and fundraising context. Sources: Starfire’s company announcement.",
+    "fr": "Starfire Ventures : repères et contexte de collecte. Sources : communiqué de Starfire.",
+    "ar": "ستارفاير فنتشرز: المحطات وسياق جمع رأس المال. المصادر: بيان ستارفاير.",
+    "es": "Starfire Ventures: hitos y contexto de captación. Fuentes: comunicado de Starfire."
+  }
+},
+"anthropic-record-ipo-employee-paper-wealth-2026": {
+  "afterBlock": 12,
+  "file": "enterprise5-anthropic-facts-en.png",
+  "localizedFiles": {
+    "en": "enterprise5-anthropic-facts-en.png",
+    "fr": "enterprise5-anthropic-facts-fr.png",
+    "ar": "enterprise5-anthropic-facts-ar.png",
+    "es": "enterprise5-anthropic-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074937/anthropicpbc-fwppricing.htm",
+  "credit": "PRESDA",
+  "license": null,
+  "captions": {
+    "en": "Anthropic’s IPO: figures with different meanings. Sources: SEC final pricing terms.",
+    "fr": "Anthropic : des chiffres de nature différente. Sources : conditions finales déposées à la SEC.",
+    "ar": "طرح أنثروبيك: أرقام بمعانٍ مختلفة. المصادر: شروط التسعير النهائية لدى الهيئة.",
+    "es": "Anthropic: cifras con significados diferentes. Fuentes: condiciones finales registradas en SEC."
+  }
+},
+"db-cooper-hijacking-1971-ransom-unsolved-mystery": {
+  "afterBlock": 12,
+  "file": "enterprise5-cooper-facts-en.png",
+  "localizedFiles": {
+    "en": "enterprise5-cooper-facts-en.png",
+    "fr": "enterprise5-cooper-facts-fr.png",
+    "ar": "enterprise5-cooper-facts-ar.png",
+    "es": "enterprise5-cooper-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.fbi.gov/history/cases-and-criminals/db-cooper-hijacking",
+  "credit": "PRESDA",
+  "license": null,
+  "captions": {
+    "en": "D. B. Cooper: documented events and investigative limits. Sources: FBI case history and dated statements.",
+    "fr": "D. B. Cooper : événements documentés et limites. Sources : historique et communiqués datés du FBI.",
+    "ar": "دي بي كوبر: أحداث موثقة وحدود التحقيق. المصادر: تاريخ القضية وبيانات المكتب المؤرخة.",
+    "es": "D. B. Cooper: hechos documentados y límites. Fuentes: historial y comunicados fechados del FBI."
+  }
+},
 "turkiye-cop31-26-billion-investment-deals-plans": {
   "afterBlock": 12,
   "file": "athletes5-cop-facts-en.png",

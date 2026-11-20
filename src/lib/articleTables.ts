@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[ENTERPRISE5_537]]": {
+    "caption": "David Beckham’s business: milestones and financial distinctions",
+    "headers": [
+      "Date",
+      "What the record establishes"
+    ],
+    "rows": [
+      [
+        "January 29, 2018",
+        "MLS awards Miami an expansion club with Beckham as co-owner"
+      ],
+      [
+        "February 24, 2022",
+        "Authentic partnership and Beckham shareholding announced"
+      ],
+      [
+        "May 2, 2024",
+        "Safilo announces a perpetual eyewear licence"
+      ],
+      [
+        "May 22, 2026",
+        "Forbes estimates personal fortune at $1 billion"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ENTERPRISE5_538]]": {
+    "caption": "George Weah: football recognition and political chronology",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "1995",
+        "Wins the Ballon d’Or as a Liberian international"
+      ],
+      [
+        "2005",
+        "Loses the presidential runoff to Ellen Johnson Sirleaf"
+      ],
+      [
+        "January 22, 2018",
+        "Sworn in as Liberia’s president"
+      ],
+      [
+        "January 22, 2024",
+        "Boakai’s inauguration completes the transfer of power"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ENTERPRISE5_539]]": {
+    "caption": "Starfire Ventures: confirmed milestones and fundraising context",
+    "headers": [
+      "Date or figure",
+      "What it represents"
+    ],
+    "rows": [
+      [
+        "2015",
+        "Williams and Ferreira’s collaboration begins, according to the firm"
+      ],
+      [
+        "$111 million in 2022",
+        "Earlier Serena Ventures fund, not Starfire’s new close"
+      ],
+      [
+        "November 16, 2026",
+        "Starfire launch announcement"
+      ],
+      [
+        "$200 million",
+        "Fundraising target, not a disclosed completed raise"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ENTERPRISE5_540]]": {
+    "caption": "Anthropic’s IPO: figures with different meanings",
+    "headers": [
+      "Figure or date",
+      "What it measures"
+    ],
+    "rows": [
+      [
+        "November 19, 2026",
+        "Nasdaq listing, ticker ANT"
+      ],
+      [
+        "$83 per share",
+        "IPO offer price, not a permanent market price"
+      ],
+      [
+        "$81.34 billion",
+        "Base public offering including company and shareholder sales"
+      ],
+      [
+        "$26 billion",
+        "Separate concurrent private placement"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ENTERPRISE5_541]]": {
+    "caption": "D. B. Cooper: documented events and investigative limits",
+    "headers": [
+      "Date",
+      "What is established"
+    ],
+    "rows": [
+      [
+        "November 24, 1971",
+        "Hijacking and $200,000 ransom; ticket used the name Dan Cooper"
+      ],
+      [
+        "1980",
+        "$5,800 in bills matched to ransom serial numbers"
+      ],
+      [
+        "December 2007",
+        "FBI discusses tie evidence and investigative assessments"
+      ],
+      [
+        "July 12, 2016",
+        "FBI announces resource redirection effective July 8"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[ATHLETES5_532]]": {
     "caption": "COP31 investment figures: different commitments and time horizons",
     "headers": [
