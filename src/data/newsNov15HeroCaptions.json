@@ -412,5 +412,35 @@
     "fr": "Illustration éditoriale dramatique, pas un portrait authentifié de l’inconnu, une archive ou une preuve de survie. Le dessin de type FBI est illustratif.",
     "ar": "رسم تحريري درامي، لا صورة موثقة للخاطف المجهول ولا مشهداً أرشيفياً أو دليلاً على نجاته. الرسم بأسلوب المكتب توضيحي.",
     "es": "Ilustración editorial dramática, no retrato autenticado del desconocido, escena de archivo ni prueba de supervivencia. El dibujo de estilo FBI es ilustrativo."
+  },
+  "bruno-mars-father-peter-hernandez-death-tribute": {
+    "en": "Supplied editorial illustration of Bruno Mars and Peter Hernandez. Not authenticated event photography or an image documenting his father’s final days.",
+    "fr": "Illustration éditoriale fournie de Bruno Mars et Peter Hernandez. Pas une photographie événementielle authentifiée ni un document sur les derniers jours de son père.",
+    "ar": "رسم تحريري مقدّم لبرونو مارس وبيتر هيرنانديز، لا صورة موثقة لحدث محدد ولا توثيقاً لأيام والده الأخيرة.",
+    "es": "Ilustración editorial facilitada de Bruno Mars y Peter Hernandez. No es fotografía autenticada de un evento ni un documento de los últimos días de su padre."
+  },
+  "chris-brown-temporary-12000-monthly-child-support": {
+    "en": "Supplied editorial composite, not courtroom photography. The child inset has not been authenticated as Lovely, the child concerned by the reported agreement.",
+    "fr": "Composition éditoriale fournie, pas une photographie judiciaire. L’enfant en médaillon n’a pas été authentifié comme étant Lovely, concernée par l’accord rapporté.",
+    "ar": "تركيب تحريري مقدّم، لا صورة قضائية. لم تُوثق هوية الطفلة في الإطار باعتبارها لوفلي المعنية بالاتفاق المنشور.",
+    "es": "Composición editorial facilitada, no fotografía judicial. No se ha autenticado que la menor del recuadro sea Lovely, la niña del acuerdo publicado."
+  },
+  "kylie-jenner-timothee-chalamet-lakers-kiss-november-2026": {
+    "en": "Supplied editorial illustration, not authenticated photography from the November 18, 2026 Lakers game. The event is independently verified through dated reporting and the NBA record.",
+    "fr": "Illustration éditoriale fournie, non authentifiée comme photographie du match des Lakers du 18 novembre 2026. Des articles datés et le registre NBA vérifient séparément l’événement.",
+    "ar": "رسم تحريري مقدّم، لا صورة موثقة من مباراة ليكرز في 18 نوفمبر 2026. تثبت تقارير مؤرخة وسجل NBA الحدث بصورة مستقلة.",
+    "es": "Ilustración editorial facilitada, no autenticada como fotografía del partido de los Lakers del 18 de noviembre de 2026. El evento se verifica aparte con noticias fechadas y el registro NBA."
+  },
+  "faouzia-unethical-us-billboard-hot-100-debut-95": {
+    "en": "Editorial illustration derived from the supplied image. Its misleading mock No. 1 panel was corrected to the verified No. 95 U.S. debut. Not an official Billboard chart screenshot.",
+    "fr": "Illustration éditoriale dérivée du visuel fourni. Son faux numéro un a été corrigé pour afficher les débuts américains vérifiés au numéro 95. Ce n’est pas une capture officielle de Billboard.",
+    "ar": "رسم تحريري مشتق من الصورة المقدمة. صُححت لوحة المرتبة الأولى المتخيلة إلى المرتبة 95 المؤكدة للدخول الأمريكي. ليست لقطة رسمية من Billboard.",
+    "es": "Ilustración editorial derivada de la imagen facilitada. Su panel ficticio de número uno se corrigió al debut estadounidense verificado en el puesto 95. No es una captura oficial de Billboard."
+  },
+  "the-rock-survivor-series-2026-appearance-anniversary": {
+    "en": "Supplied editorial illustration, not photography from the forthcoming November 28 event. WWE confirms an appearance; this image is not evidence of a booked match.",
+    "fr": "Illustration éditoriale fournie, pas une photographie du futur événement du 28 novembre. La WWE confirme une apparition ; l’image ne prouve pas un match programmé.",
+    "ar": "رسم تحريري مقدّم، لا صورة من حدث 28 نوفمبر المرتقب. تؤكد WWE الظهور، ولا تثبت الصورة وجود نزال مقرر.",
+    "es": "Ilustración editorial facilitada, no fotografía del próximo evento del 28 de noviembre. WWE confirma una aparición; la imagen no prueba un combate programado."
   }
 }

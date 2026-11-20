@@ -1,6 +1,440 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "542",
+    "slug": "bruno-mars-father-peter-hernandez-death-tribute",
+    "title": "BRUNO MARS MOURNS FATHER PETER HERNANDEZ, WHO DIED AT 74",
+    "seoTitle": "Bruno Mars mourns father Peter Hernandez, who died at 74",
+    "metaDescription": "Bruno Mars announced his father’s death on November 19. Remembering Peter Hernandez’s musical influence, with the confirmed facts behind the family tribute.",
+    "excerpt": "Bruno Mars announced his father’s death on November 19. Remembering Peter Hernandez’s musical influence, with the confirmed facts behind the family tribute.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/bruno-mars-father-peter-hernandez-death-tribute.jpg",
+    "coverAlt": "Supplied editorial illustration of Bruno Mars with his father Peter Hernandez, not authenticated event photography",
+    "headlineHighlights": {
+      "red": "BRUNO MARS",
+      "gold": "PETER HERNANDEZ"
+    },
+    "tags": [
+      "BRUNO MARS",
+      "Paparazzi"
+    ],
+    "content": [
+      "Bruno Mars has announced the death of his father, Peter Hernandez, remembering the musician who introduced him to the stage long before audiences knew his name. Hernandez was 74, according to contemporary reporting. Mars shared his tribute on November 19, 2026; that is the announcement date, not an independently established date of death. [Us Weekly: reported death at 74, November 19](https://www.usmagazine.com/celebrity-news/news/bruno-mars-announces-father-peter-hernandezs-death-at-74/)",
+      "The singer’s message placed the emphasis on a father’s teaching and affection. He described their last embrace as having taken place the previous week and credited Hernandez with shaping his musical education. The tribute speaks to a relationship that began in a performing family and continued through international fame. [ABC News: November 19 tribute and the singer’s own words](https://abcnews.com/amp/GMA/Culture/bruno-mars-remembers-late-father-musical-lessons-passed/story?id=138303867)",
+      "[[SPOTLIGHT5_542]]",
+      "## What Bruno Mars said about his father",
+      "In the Instagram message reproduced by ABC News, Mars recalled the man who raised him, his brother and four sisters. He thanked his father for the knowledge he passed down, especially about music, and expressed his enduring love. It was a personal farewell rather than an announcement of professional plans or a detailed medical account. [ABC News: November 19 tribute and the singer’s own words](https://abcnews.com/amp/GMA/Culture/bruno-mars-remembers-late-father-musical-lessons-passed/story?id=138303867)",
+      "The distinction matters when reporting a family death. A photograph accompanying a tribute does not establish a diagnosis, and a reference to a final embrace does not provide a precise chronology of someone’s last days. No cause of death is established in the sources reviewed for this report. There is no basis here to supply one or to infer changes to Mars’s work schedule.",
+      "## Peter Hernandez’s own musical story",
+      "Hernandez’s influence was more concrete than the familiar description of a supportive parent. In an April 2014 interview with Hawaii’s MidWeek, he described growing up in New York, developing an attachment to doo-wop and moving to Hawaii at 25. There he formed the Love Notes, a group devoted to bringing that vocal tradition to local audiences. [MidWeek: April 16, 2014 interview with Peter Hernandez](https://www.midweek.com/bruno-mars-father/)",
+      "The same interview recorded a childhood spent watching his own father’s orchestra. Music therefore connected more than two generations of the family. Hernandez was a performer with a repertoire, an audience and a sense of showmanship before his son became a recording star. His story belongs to Hawaii’s live-entertainment world as well as to the biography of a famous singer.",
+      "### A stage education before the recording career",
+      "MidWeek’s account describes the young Bruno appearing in the family show as Little Elvis before he was three. The exact recollections belong to Hernandez’s interview, rather than a newly reconstructed eyewitness scene. What they establish is an early education in performance: watching an entertainer, learning an act and trying it in front of an audience. [MidWeek: April 16, 2014 interview with Peter Hernandez](https://www.midweek.com/bruno-mars-father/)",
+      "That background offers a useful way to understand the tribute without reducing a musical career to inherited talent. A stage act also requires timing, rehearsal and comfort with an audience. In remembering his father as a teacher, Mars drew attention to the work behind the public image, not simply to the moment that fame arrived.",
+      "## A farewell rooted in family",
+      "The public message also referred to Mars’s late mother, Bernadette, who died in 2013. iHeartRadio’s account places that reference within the singer’s family history. It should not be turned into an imagined conversation or a claim about private beliefs beyond the words Mars chose to make public. [iHeartRadio: public tribute and family background](https://news.iheart.com/content/2026-11-19/bruno-mars-mourns-death-of-father-in-emotional-tribute-greatest-dad-in-the-world/)",
+      "The musical influence of family is a recurring theme in popular culture, but each story has its own evidence. PRESDA’s [account of Michael Jackson’s life and musical legacy](/articles/michael-jackson-life-music-legacy-king-of-pop/) explores a different performing-family history. Hernandez’s importance here is established by his own interview and his son’s tribute, rather than by comparisons of fame or commercial success.",
+      "## What is confirmed, and what remains private",
+      "The confirmed news is that Mars publicly mourned Hernandez on November 19 and that his father was reported to have died at 74. The testimony about their musical relationship spans an older interview and the current tribute. The precise death date, medical circumstances and any private arrangements should remain separate from those established facts. [Us Weekly: reported death at 74, November 19](https://www.usmagazine.com/celebrity-news/news/bruno-mars-announces-father-peter-hernandezs-death-at-74/)",
+      "Remembering Hernandez as a working musician gives the announcement its fuller context. Before the international stages, there was a family show in Hawaii and a father passing on a love of performing. That is the legacy Mars chose to emphasize in a farewell that deserves to be reported with both clarity and restraint."
+    ],
+    "references": [
+      {
+        "name": "ABC News: November 19 tribute and the singer’s own words",
+        "url": "https://abcnews.com/amp/GMA/Culture/bruno-mars-remembers-late-father-musical-lessons-passed/story?id=138303867"
+      },
+      {
+        "name": "MidWeek: April 16, 2014 interview with Peter Hernandez",
+        "url": "https://www.midweek.com/bruno-mars-father/"
+      },
+      {
+        "name": "Us Weekly: reported death at 74, November 19",
+        "url": "https://www.usmagazine.com/celebrity-news/news/bruno-mars-announces-father-peter-hernandezs-death-at-74/"
+      },
+      {
+        "name": "iHeartRadio: public tribute and family background",
+        "url": "https://news.iheart.com/content/2026-11-19/bruno-mars-mourns-death-of-father-in-emotional-tribute-greatest-dad-in-the-world/"
+      }
+    ],
+    "relatedSlugs": [
+      "michael-jackson-life-music-legacy-king-of-pop"
+    ],
+    "faq": [
+      {
+        "question": "How old was Bruno Mars’s father when he died?",
+        "answer": "Peter Hernandez was 74, according to contemporary reporting of Bruno Mars’s tribute."
+      },
+      {
+        "question": "When did Bruno Mars announce his father’s death?",
+        "answer": "He shared the news on November 19, 2026. That announcement date should not be presented as a verified date of death."
+      },
+      {
+        "question": "Was Peter Hernandez a musician?",
+        "answer": "Yes. His 2014 MidWeek interview describes his doo-wop background and the Love Notes group he formed in Hawaii."
+      },
+      {
+        "question": "Has a cause of death been confirmed here?",
+        "answer": "No. The sources reviewed for this article do not establish a cause of death, and the article does not infer one from photographs."
+      }
+    ],
+    "readingTime": "5 min read"
+  },
+  {
+    "id": "543",
+    "slug": "chris-brown-temporary-12000-monthly-child-support",
+    "title": "CHRIS BROWN AGREES TO TEMPORARY $12,000 MONTHLY CHILD SUPPORT",
+    "seoTitle": "Chris Brown’s temporary $12,000 child-support agreement",
+    "metaDescription": "Court-document reporting details Chris Brown’s temporary monthly support, separate retroactive payment and legal-fee advance ahead of further settlement talks.",
+    "excerpt": "Court-document reporting details Chris Brown’s temporary monthly support, separate retroactive payment and legal-fee advance ahead of further settlement talks.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/chris-brown-temporary-12000-monthly-child-support.jpg",
+    "coverAlt": "Supplied editorial composite of Chris Brown, courtroom symbols and a child inset; not a court photograph or verified identification of the child in this case",
+    "headlineHighlights": {
+      "red": "CHRIS BROWN",
+      "gold": "TEMPORARY"
+    },
+    "tags": [
+      "CHRIS BROWN",
+      "Paparazzi"
+    ],
+    "content": [
+      "Chris Brown has agreed to a temporary increase in child support for the daughter he shares with Diamond Brown, according to reporting based on court filings. The arrangement provides $12,000 a month while preserving existing non-cash support. Its provisional nature is central to the story: the payment agreement is not a final resolution of every financial or custody issue between the parents. [Billboard: November 18 temporary agreement in legal filings](https://www.billboard.com/business/legal/chris-brown-to-increase-child-support-to-ex-diamond-1236385727/)",
+      "The agreement was recorded on November 18, 2026, and reported the following day. It also includes a separate $25,000 retroactive support payment and a $55,000 advance toward legal fees. Those amounts serve different purposes and should not be collapsed into a single monthly bill. Further settlement discussions are expected in December. [Law Commentary: temporary terms and December conference](https://www.lawcommentary.com/articles/chris-brown-diamond-brown-12000-child-support-agreement)",
+      "[[SPOTLIGHT5_543]]",
+      "## What the reported agreement actually covers",
+      "PEOPLE, which says it obtained the court documents, reports that Brown will pay Diamond $12,000 monthly for their four-year-old daughter, Lovely. The arrangement also continues the non-cash portions of existing support. PEOPLE describes the setup as temporary and agreed by both parents ahead of a voluntary settlement conference. [PEOPLE: November 19 court-document reporting](https://people.com/chris-brown-ordered-to-pay-12k-a-month-in-child-support-to-ex-diamond-brown-12264990)",
+      "That description is narrower than a permanent support award. A monthly cash figure does not, by itself, reveal the value or scope of continuing non-cash contributions. Nor does it establish the final allocation of all costs. The current reporting provides the terms of an interim arrangement, not a complete public accounting of the child’s household expenses.",
+      "### Monthly support, retroactive support and legal fees",
+      "The $25,000 payment concerns support retroactive to July; it is separate from the recurring $12,000 amount. The $55,000 advance addresses legal costs. These are not three interchangeable measures of the same obligation. Reporting the categories separately makes the agreement easier to understand and avoids overstating the monthly figure. [Law Commentary: temporary terms and December conference](https://www.lawcommentary.com/articles/chris-brown-diamond-brown-12000-child-support-agreement)",
+      "Billboard’s filing-based account describes an increase from approximately $7,000 a month, the earlier amount attributed to Diamond’s lawyers. That comparison is an attributed account of previous payments, rather than an independent audit by PRESDA. The new temporary amount does not establish either parent’s total income or wealth. [Billboard: November 18 temporary agreement in legal filings](https://www.billboard.com/business/legal/chris-brown-to-increase-child-support-to-ex-diamond-1236385727/)",
+      "## Why an agreement can still be temporary",
+      "A negotiated arrangement can address immediate support while other matters remain open. California Courts’ public guidance explains that parents who agree on child support can ask to make their agreement a court order. The guidance also distinguishes an agreement between parents from the court process that gives it formal effect. This is general procedural context, not additional evidence about Brown’s particular filings. [California Courts: preparing a child-support agreement](https://selfhelp.courts.ca.gov/request-for-order/child-support/prepare-agreement)",
+      "The same court system treats custody decisions and financial support as related but distinct issues. Its guidance discusses decision-making about a child’s life separately from support and additional expenses. A reported agreement on a monthly payment therefore should not be read as proof of a final custody outcome. The sources cited here do not establish such an outcome. [California Courts: custody and support agreements](https://selfhelp.courts.ca.gov/propose-and-negotiate-custody-and-support-agreements)",
+      "## What the December talks could change",
+      "The next reported step is a voluntary settlement conference in December. It may provide an opportunity to resolve outstanding issues, but an expected discussion is not a guaranteed settlement. The precise outcome, any replacement payment amount and the ultimate custody arrangements remain matters for the parties and the court process. [Law Commentary: temporary terms and December conference](https://www.lawcommentary.com/articles/chris-brown-diamond-brown-12000-child-support-agreement)",
+      "That leaves a clear distinction for readers: the current payment terms are reported; a future comprehensive deal is not. Claims about what either side will win, or what a judge will eventually decide, would go beyond the available information. This article does not adopt disputed social-media allegations as findings of fact.",
+      "## Covering the public case without confusing the families",
+      "The reported arrangement concerns Lovely and Diamond Brown. The supplied courtroom-themed hero is an editorial composite, not a photograph from a hearing. Its child inset has not been authenticated as Lovely and should not be used to identify the child involved. Financial reporting does not require disclosing a minor’s private routine or turning an illustrative image into evidence.",
+      "Celebrity headlines often bring family life into the same frame as professional success. PRESDA’s [profile of Rihanna’s music and beauty businesses](/articles/rihanna-barbados-music-fenty-beauty-empire/) addresses that public-career sphere from a different angle. Here the useful news remains specific: a documented, temporary support arrangement, with recurring payments, retroactive support and legal costs kept distinct."
+    ],
+    "references": [
+      {
+        "name": "Billboard: November 18 temporary agreement in legal filings",
+        "url": "https://www.billboard.com/business/legal/chris-brown-to-increase-child-support-to-ex-diamond-1236385727/"
+      },
+      {
+        "name": "PEOPLE: November 19 court-document reporting",
+        "url": "https://people.com/chris-brown-ordered-to-pay-12k-a-month-in-child-support-to-ex-diamond-brown-12264990"
+      },
+      {
+        "name": "Law Commentary: temporary terms and December conference",
+        "url": "https://www.lawcommentary.com/articles/chris-brown-diamond-brown-12000-child-support-agreement"
+      },
+      {
+        "name": "California Courts: preparing a child-support agreement",
+        "url": "https://selfhelp.courts.ca.gov/request-for-order/child-support/prepare-agreement"
+      },
+      {
+        "name": "California Courts: custody and support agreements",
+        "url": "https://selfhelp.courts.ca.gov/propose-and-negotiate-custody-and-support-agreements"
+      }
+    ],
+    "relatedSlugs": [
+      "rihanna-barbados-music-fenty-beauty-empire"
+    ],
+    "faq": [
+      {
+        "question": "Is Chris Brown’s $12,000 monthly agreement permanent?",
+        "answer": "No. Filing-based reports describe a temporary arrangement ahead of further settlement discussions, not a final resolution of the whole dispute."
+      },
+      {
+        "question": "Does $12,000 include every form of support?",
+        "answer": "No. Reporting says existing non-cash support continues, alongside the stated monthly cash amount."
+      },
+      {
+        "question": "What are the separate $25,000 and $55,000 payments?",
+        "answer": "The $25,000 concerns retroactive support dating to July. The $55,000 is an advance toward Diamond Brown’s legal fees and costs."
+      },
+      {
+        "question": "Does the agreement decide final custody?",
+        "answer": "The sources reviewed do not establish a final custody decision. A financial support arrangement should not be presented as one."
+      }
+    ],
+    "readingTime": "5 min read"
+  },
+  {
+    "id": "544",
+    "slug": "kylie-jenner-timothee-chalamet-lakers-kiss-november-2026",
+    "title": "KYLIE JENNER AND TIMOTHÉE CHALAMET SHARE COURTSIDE KISS AT LAKERS GAME",
+    "seoTitle": "Kylie Jenner and Timothée Chalamet’s November Lakers date",
+    "metaDescription": "Kylie Jenner and Timothée Chalamet were photographed courtside on November 18 as the Lakers hosted Utah. The verified date, result and public-appearance context.",
+    "excerpt": "Kylie Jenner and Timothée Chalamet were photographed courtside on November 18 as the Lakers hosted Utah. The verified date, result and public-appearance context.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/kylie-jenner-timothee-chalamet-lakers-kiss-november-2026.jpg",
+    "coverAlt": "Supplied editorial illustration of Kylie Jenner and Timothée Chalamet kissing courtside, not an authenticated photograph of the November 18 game",
+    "headlineHighlights": {
+      "red": "KYLIE JENNER",
+      "gold": "COURTSIDE KISS"
+    },
+    "tags": [
+      "KYLIE JENNER",
+      "Paparazzi"
+    ],
+    "content": [
+      "The basketball was in Los Angeles, but the courtside photographs travelled much further. Kylie Jenner and Timothée Chalamet were photographed sharing a kiss as the Lakers hosted the Utah Jazz at Crypto.com Arena on November 18, 2026. PEOPLE’s report, published the next day, places the couple together at the game and credits the event photography to Allen Berezovsky/Getty Images. [PEOPLE: November 19 report, syndicated on Yahoo](https://nz.news.yahoo.com/kylie-jenner-timoth-e-chalamet-103748824.html)",
+      "The outing adds another public appearance to a relationship already followed across fashion, entertainment and sport. It is a documented date night, not evidence of a newly announced engagement or another private milestone. The attraction of the images lies in their ordinary setting: two exceptionally recognizable people watching a game, talking and showing affection between the action.",
+      "[[SPOTLIGHT5_544]]",
+      "## The game, date and result",
+      "The NBA’s official record confirms the November 18 fixture at Crypto.com Arena and Utah’s 109–97 victory over Los Angeles. That separates the date of the outing from the November 19 publication dates on much of the coverage. A story posted the next morning is still describing the previous evening’s game. [NBA: official November 18 game record](https://www.nba.com/game/0022600268?resume=true)",
+      "The sporting result provides the setting rather than a verdict on the couple’s evening. Courtside seats put spectators within the broadcast and photographic frame, making reactions part of the visual record of a game. Here the public event supplies a firm place and date; the photographs supply the reported interaction. Neither source needs an invented behind-the-scenes explanation.",
+      "## A courtside appearance with a fashion audience",
+      "Vogue’s dated coverage identifies Jenner’s leather jacket with her own Khy label, worn with jeans and patterned heels. Chalamet wore an Adidas camouflage jacket and black trousers. The wardrobe details connect the outing with the fashion coverage that follows both figures, although an outfit at a basketball game should not automatically be described as a paid campaign. [Vogue: dated event photography and courtside style](https://www.vogue.com/article/kylie-jenner-and-timothee-chalamet-courtside-la-lakers-2026-11-19)",
+      "### Why the front row attracts attention",
+      "Basketball’s front row doubles as an unusually visible public setting. It brings athletes, entertainment figures, fashion brands and cameras into the same space without requiring a red carpet. That helps explain why a brief interaction can become an entertainment story even when neither person has issued a new statement about their relationship.",
+      "There is a business context to that visibility, but no disclosed sponsorship agreement is established by these photographs. Readers interested in the broader overlap between celebrity and consumer brands can explore PRESDA’s [account of Kim Kardashian’s Skims business](/articles/kim-kardashian-skims-business-empire/). The connection is the public platform around famous personalities, not a claim that this particular Lakers appearance was a commercial arrangement.",
+      "## The outing in their public chronology",
+      "ELLE’s relationship chronology records the November 18 appearance after the couple’s presence at the Governors Awards on November 15. Those are separate events, with different settings and photographs. Their proximity explains why the basketball outing was discussed as part of a sequence of public appearances, rather than as a first introduction of the relationship. [ELLE: documented public-appearance chronology](https://www.elle.com/culture/celebrities/a43746386/kylie-jenner-timothee-chalamet-relationship-timeline/)",
+      "That sequence has limits as evidence. A photograph shows a moment, not the full state of a private relationship. Public affection can be reported directly without treating it as proof that every earlier rumour was true or false. The available material supports the kiss and the shared evening; it does not supply a reliable forecast of what comes next.",
+      "## What the images do, and do not, document",
+      "The dated photographs referenced by PEOPLE and Vogue are the reporting evidence for the event. The hero supplied for this PRESDA article is presented as an editorial illustration, not authenticated as one of those November 18 photographs. Its caption makes that distinction so that the visual treatment does not acquire a false documentary claim. [PEOPLE: November 19 report, syndicated on Yahoo](https://nz.news.yahoo.com/kylie-jenner-timoth-e-chalamet-103748824.html)",
+      "The news is therefore specific and complete on its own terms: Jenner and Chalamet attended the Lakers’ home game against Utah and were photographed kissing courtside. The calendar, venue and result are verifiable; the pair’s private intentions are not part of the announcement. A public date night can be covered engagingly without turning a familiar gesture into a promise the couple never made."
+    ],
+    "references": [
+      {
+        "name": "PEOPLE: November 19 report, syndicated on Yahoo",
+        "url": "https://nz.news.yahoo.com/kylie-jenner-timoth-e-chalamet-103748824.html"
+      },
+      {
+        "name": "Vogue: dated event photography and courtside style",
+        "url": "https://www.vogue.com/article/kylie-jenner-and-timothee-chalamet-courtside-la-lakers-2026-11-19"
+      },
+      {
+        "name": "NBA: official November 18 game record",
+        "url": "https://www.nba.com/game/0022600268?resume=true"
+      },
+      {
+        "name": "ELLE: documented public-appearance chronology",
+        "url": "https://www.elle.com/culture/celebrities/a43746386/kylie-jenner-timothee-chalamet-relationship-timeline/"
+      }
+    ],
+    "relatedSlugs": [
+      "kim-kardashian-skims-business-empire"
+    ],
+    "faq": [
+      {
+        "question": "When did Kylie Jenner and Timothée Chalamet attend the Lakers game?",
+        "answer": "They attended on November 18, 2026. Reports published on November 19 describe that previous evening’s outing."
+      },
+      {
+        "question": "Where was the game and who won?",
+        "answer": "The game was at Crypto.com Arena in Los Angeles. Utah beat the Lakers 109–97."
+      },
+      {
+        "question": "Was an engagement or another relationship milestone announced?",
+        "answer": "No such announcement is established by the sources reviewed. The report concerns a photographed public appearance and kiss."
+      },
+      {
+        "question": "Is the supplied hero an authenticated photograph from that game?",
+        "answer": "No. PRESDA labels the supplied visual as an editorial illustration, separate from the dated event photography used to verify the report."
+      }
+    ],
+    "readingTime": "5 min read"
+  },
+  {
+    "id": "545",
+    "slug": "faouzia-unethical-us-billboard-hot-100-debut-95",
+    "title": "FAOUZIA MAKES U.S. HOT 100 DEBUT AT NO. 95 WITH UNETHICAL",
+    "seoTitle": "Faouzia’s Unethical debuts at No. 95 on U.S. Hot 100",
+    "metaDescription": "Faouzia enters the U.S. Billboard Hot 100 at No. 95 with Unethical on the November 21 chart, following a separate Canadian debut and an independent-release revival.",
+    "excerpt": "Faouzia enters the U.S. Billboard Hot 100 at No. 95 with Unethical on the November 21 chart, following a separate Canadian debut and an independent-release revival.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/faouzia-unethical-us-billboard-hot-100-debut-95.jpg",
+    "coverAlt": "Editorial illustration of Faouzia with Moroccan and Canadian flags; the supplied mock chart was corrected to her confirmed No. 95 U.S. debut",
+    "headlineHighlights": {
+      "red": "FAOUZIA",
+      "gold": "NO. 95"
+    },
+    "tags": [
+      "FAOUZIA",
+      "Paparazzi"
+    ],
+    "content": [
+      "Faouzia has reached the U.S. Billboard Hot 100 for the first time, with “UNETHICAL” entering at No. 95 on the chart dated November 21, 2026. Billboard Canada confirms the debut, a new marker in the Moroccan-Canadian singer’s international rise. The achievement is a U.S. chart entry, not a No. 1 single, and it follows a separate Canadian breakthrough earlier in the autumn. [Billboard Canada: verified U.S. debut and November 21 rankings](https://ca.billboard.com/music/chart-beat/faouzia-unethical-billboard-hot-100)",
+      "The timing gives the story its interest. This is not simply a newly released song arriving on a chart in its first week. “UNETHICAL” was released in 2025, ahead of Faouzia’s debut album Film Noir, and found renewed attention through performance clips. Its later chart life illustrates how an existing recording can reach new audiences well beyond its original release campaign. [Billboard Canada: separate September Canadian chart debut](https://ca.billboard.com/music/chart-beat/faouzia-unethical-billboard-canada-charts)",
+      "[[SPOTLIGHT5_545]]",
+      "## The U.S. debut, precisely stated",
+      "Billboard Canada places “UNETHICAL” at No. 95 in the U.S., No. 57 on the Canadian Hot 100 and No. 115 on the Global 200 for the November 21 chart cycle. These are different rankings with different geographical scopes. The Canadian position and global placement should not be substituted for the U.S. debut rank. [Billboard Canada: verified U.S. debut and November 21 rankings](https://ca.billboard.com/music/chart-beat/faouzia-unethical-billboard-hot-100)",
+      "The issue date also needs careful reading. The November 21 label identifies the chart edition; the result was already reported before that date. It does not mean the song was first released on November 21, nor that this article is predicting a future chart result. A dated chart and a recording’s release date answer different questions.",
+      "## From Canadian entry to a wider audience",
+      "Billboard Canada’s earlier report records the song’s Canadian debut at No. 97 on the chart dated September 19. That was already a milestone for Faouzia. The later U.S. entry adds another market to the story rather than erasing the earlier achievement or turning the two debuts into the same event. [Billboard Canada: separate September Canadian chart debut](https://ca.billboard.com/music/chart-beat/faouzia-unethical-billboard-canada-charts)",
+      "The older report describes the recording as an orchestral pop ballad, giving the voice room to build against a dramatic arrangement. That helps explain why a live performance excerpt can introduce the song effectively: a short clip gives listeners an immediate encounter with the vocal performance, even before they know the album around it. The distinction between discovering a clip and following a full recording remains important.",
+      "### The long life of an independent release",
+      "Billboard’s award profile describes Faouzia’s work after her departure from Atlantic Records/Warner Music Canada and identifies her as an independent artist. It also situates Film Noir in 2025, followed by the expanded Film Noir (fin) project. Her official website currently foregrounds that expanded release and links directly to the music. [Billboard Canada: forthcoming November 24 Breakthrough Award](https://ca.billboard.com/music/awards/faouzia-billboard-canada-women-in-music) [Faouzia: official Film Noir (fin) project and music links](https://faouziaofficial.com/?frontpage=true)",
+      "That context makes the chart entry more than a number detached from a career. The song has continued to circulate while the artist develops a larger body of work. Independence does not mean an absence of collaborators, distribution or promotion; it describes a career arrangement and should not be romanticized into a claim that one person did every part of the release alone.",
+      "## A forthcoming honour in Toronto",
+      "Faouzia is also scheduled to receive the Breakthrough Award, presented by FACTOR, at Billboard Canada Women in Music on November 24 at Rebel in Toronto. As of this article’s November 20 publication, that ceremony remains forthcoming. The announced award is distinct from the chart position, and the event should not be described as already completed. [Billboard Canada: forthcoming November 24 Breakthrough Award](https://ca.billboard.com/music/awards/faouzia-billboard-canada-women-in-music)",
+      "The recognition places a career moment alongside the measurable chart milestone. Neither guarantees the song’s next position or an eventual U.S. chart peak. What is established is the first entry and the announced honour. Future sales, touring results and awards remain future developments rather than facts that can be inferred from a strong week.",
+      "## A milestone without an invented record",
+      "Faouzia’s Moroccan-Canadian identity is part of why this breakthrough resonates with audiences in more than one country. It does not justify calling her the first Moroccan artist ever to achieve an unspecified Billboard record. The verified distinction is her own first U.S. Hot 100 entry. PRESDA’s [profile of Rihanna’s international music and business career](/articles/rihanna-barbados-music-fenty-beauty-empire/) explores another route from a distinctive background to a wider audience.",
+      "The supplied hero originally contained a misleading mock No. 1 chart. Its information panel has been corrected to No. 95 and labelled as an editorial illustration, not an official Billboard screenshot. The real achievement needs no inflated ranking: an independent release has found a new U.S. audience after an earlier Canadian debut, giving Faouzia a documented new chapter. [Billboard Canada: verified U.S. debut and November 21 rankings](https://ca.billboard.com/music/chart-beat/faouzia-unethical-billboard-hot-100)"
+    ],
+    "references": [
+      {
+        "name": "Billboard Canada: verified U.S. debut and November 21 rankings",
+        "url": "https://ca.billboard.com/music/chart-beat/faouzia-unethical-billboard-hot-100"
+      },
+      {
+        "name": "Billboard Canada: separate September Canadian chart debut",
+        "url": "https://ca.billboard.com/music/chart-beat/faouzia-unethical-billboard-canada-charts"
+      },
+      {
+        "name": "Billboard Canada: forthcoming November 24 Breakthrough Award",
+        "url": "https://ca.billboard.com/music/awards/faouzia-billboard-canada-women-in-music"
+      },
+      {
+        "name": "Faouzia: official Film Noir (fin) project and music links",
+        "url": "https://faouziaofficial.com/?frontpage=true"
+      }
+    ],
+    "relatedSlugs": [
+      "rihanna-barbados-music-fenty-beauty-empire"
+    ],
+    "faq": [
+      {
+        "question": "Where did Faouzia debut on the U.S. Hot 100?",
+        "answer": "UNETHICAL debuted at No. 95 on the U.S. chart dated November 21, 2026, according to Billboard Canada."
+      },
+      {
+        "question": "Is the Canadian Hot 100 debut the same event?",
+        "answer": "No. The song first entered the Canadian chart at No. 97 on the September 19, 2026 edition. The U.S. debut came later."
+      },
+      {
+        "question": "Was UNETHICAL newly released in November 2026?",
+        "answer": "No. It was originally released in 2025 ahead of Film Noir and gained renewed attention through performance clips."
+      },
+      {
+        "question": "Had she already received the announced Breakthrough Award at publication?",
+        "answer": "No. On November 20, the Billboard Canada Women in Music ceremony was still scheduled for November 24 in Toronto."
+      }
+    ],
+    "readingTime": "5 min read"
+  },
+  {
+    "id": "546",
+    "slug": "the-rock-survivor-series-2026-appearance-anniversary",
+    "title": "THE ROCK CONFIRMS SURVIVOR SERIES APPEARANCE FOR WWE DEBUT ANNIVERSARY",
+    "seoTitle": "The Rock confirms Survivor Series 2026 appearance",
+    "metaDescription": "WWE confirms The Rock will attend Survivor Series in Houston on November 28, marking 30 years since his debut. An appearance is announced, not a booked match.",
+    "excerpt": "WWE confirms The Rock will attend Survivor Series in Houston on November 28, marking 30 years since his debut. An appearance is announced, not a booked match.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/the-rock-survivor-series-2026-appearance-anniversary.jpg",
+    "coverAlt": "Supplied editorial illustration of Dwayne The Rock Johnson with Survivor Series branding, not a photograph of the forthcoming event",
+    "headlineHighlights": {
+      "red": "THE ROCK",
+      "gold": "WWE DEBUT ANNIVERSARY"
+    },
+    "tags": [
+      "THE ROCK",
+      "Paparazzi"
+    ],
+    "content": [
+      "The Rock is heading to Survivor Series, but the confirmed announcement is about an appearance, not a booked match. WWE says Dwayne Johnson will be in Houston for Survivor Series: WarGames on November 28, 2026, marking 30 years since his WWE debut. The company published its confirmation on November 18 after his announcement on ESPN’s The Pat McAfee Show. [WWE: official November 18 appearance announcement](https://www.wwe.com/article/survivor-series/the-rock-is-coming-to-survivor-series)",
+      "The distinction leaves room for the occasion to matter without inventing a storyline. Survivor Series is where Johnson first appeared in WWE as Rocky Maivia in 1996. Returning to the event for its anniversary connects one of wrestling’s most recognizable figures with the starting point of a career that later crossed into mainstream film and entertainment.",
+      "[[SPOTLIGHT5_546]]",
+      "## What WWE has actually announced",
+      "WWE’s current announcement establishes Johnson’s intended attendance in Houston. It does not announce an opponent, a match stipulation or his participation in either WarGames contest. Those would be additional booking decisions, requiring their own confirmation. Describing the appearance as an in-ring comeback would therefore claim more than the release supports. [WWE: official November 18 appearance announcement](https://www.wwe.com/article/survivor-series/the-rock-is-coming-to-survivor-series)",
+      "For fans, that still makes the date significant. An appearance can involve an address, a segment or a celebration without being a competitive match. The present evidence does not identify which form Johnson’s participation will take. Rumours about confrontations or future rivals are not necessary to explain the anniversary, and they should not be promoted to confirmed news.",
+      "## Houston hosts the 2026 event",
+      "WWE’s July 13 corporate announcement identifies Daikin Park as the venue for the November 28 show, in partnership with Houston First Corporation and the Houston Astros. It also records the event’s return to Houston for the first time since 2017. The venue announcement and Johnson’s later confirmation are separate developments in the same event calendar. [WWE Corporate: July 13 Houston venue announcement](https://corporate.wwe.com/about/news/2026/07-13-2026)",
+      "The current WWE event page advertises a U.S. start time of 6 p.m. Eastern and 3 p.m. Pacific, with access through ESPN’s Unlimited plan. Viewers elsewhere should consult WWE’s regional viewing information rather than assume a U.S. subscription arrangement applies in every country. Event listings can distinguish venue entry times from the advertised broadcast start. [WWE: current Survivor Series WarGames event page](https://www.wwe.com/shows/survivor-series-wargames/2026)",
+      "### An appearance is different from a place on the card",
+      "The card belongs to the event’s competitive programme; Johnson’s announcement belongs to the list of confirmed appearances. They should be read together without being merged. An evolving show can add new details, but future additions cannot be treated as already published simply because a famous name is involved. The official event page remains the appropriate reference for later changes.",
+      "## The 1996 debut behind the anniversary",
+      "WWE’s archive dates Rocky Maivia’s debut to November 17, 1996, at Madison Square Garden. He appeared in a traditional Survivor Series elimination match and finished as his team’s sole survivor. That historical record explains the anniversary more precisely than a general reference to three decades of fame. The 2026 event falls in the anniversary month, not on the exact calendar date of the debut. [WWE archive: November 17, 1996 debut at Madison Square Garden](https://www.wwe.com/shows/survivorseries/great-wwe-moments-at-madison-square-garden)",
+      "The name and persona evolved, but the connection to Survivor Series remained. For an audience that knows Johnson first through films, the anniversary points back to a live wrestling introduction. For longtime viewers, it supplies a chronological link between the early character and the performer who became The Rock, rather than a claim that his career has been one uninterrupted run of weekly appearances.",
+      "## A career crossing wrestling and popular culture",
+      "WWE’s official profile traces Johnson’s progression from the son of wrestler Rocky Johnson to a champion and film star. It also records his WrestleMania XL tag-team match in 2024, when he partnered Roman Reigns against Cody Rhodes and Seth Rollins. That context prevents the Houston appearance from being inaccurately described as his first return to WWE since the 1990s. [WWE: official career profile and WrestleMania XL context](https://www.wwe.com/superstars/the-rock)",
+      "The movement between sport, entertainment and a wider public career has many forms. PRESDA’s [profile of David Beckham’s business activities](/articles/david-beckham-billion-dollar-fortune-business-empire/) explores another athlete’s expansion beyond competition. Johnson’s particular story remains rooted in wrestling performance, and the confirmed Survivor Series appearance revisits that foundation rather than announcing a new business deal.",
+      "## What to watch for before November 28",
+      "The immediate news is complete: WWE has confirmed Johnson’s planned attendance at a forthcoming Houston event tied to his debut anniversary. Any subsequent match announcement should be reported separately with its own date and official source. As of November 20, the show has not happened, and neither a result nor a specific role for Johnson can be reported in advance. [WWE: official November 18 appearance announcement](https://www.wwe.com/article/survivor-series/the-rock-is-coming-to-survivor-series)",
+      "The supplied Survivor Series hero is an editorial illustration, not photography from the future show. It captures the subject of the announcement while the article keeps the calendar clear. Thirty years after Rocky Maivia’s introduction, The Rock’s presence is confirmed; what he will do once he arrives is a different question."
+    ],
+    "references": [
+      {
+        "name": "WWE: official November 18 appearance announcement",
+        "url": "https://www.wwe.com/article/survivor-series/the-rock-is-coming-to-survivor-series"
+      },
+      {
+        "name": "WWE Corporate: July 13 Houston venue announcement",
+        "url": "https://corporate.wwe.com/about/news/2026/07-13-2026"
+      },
+      {
+        "name": "WWE archive: November 17, 1996 debut at Madison Square Garden",
+        "url": "https://www.wwe.com/shows/survivorseries/great-wwe-moments-at-madison-square-garden"
+      },
+      {
+        "name": "WWE: official career profile and WrestleMania XL context",
+        "url": "https://www.wwe.com/superstars/the-rock"
+      },
+      {
+        "name": "WWE: current Survivor Series WarGames event page",
+        "url": "https://www.wwe.com/shows/survivor-series-wargames/2026"
+      }
+    ],
+    "relatedSlugs": [
+      "david-beckham-billion-dollar-fortune-business-empire"
+    ],
+    "faq": [
+      {
+        "question": "Is The Rock confirmed for Survivor Series 2026?",
+        "answer": "Yes. WWE’s November 18 announcement confirms that he plans to be in Houston for the November 28 event."
+      },
+      {
+        "question": "Has WWE announced a match for The Rock in this release?",
+        "answer": "No. The cited announcement confirms an appearance, without an opponent, stipulation or announced WarGames participation."
+      },
+      {
+        "question": "Why is this a 30th-anniversary appearance?",
+        "answer": "Johnson debuted as Rocky Maivia at Survivor Series on November 17, 1996, at Madison Square Garden. The 2026 show takes place in the anniversary month."
+      },
+      {
+        "question": "Where and when is Survivor Series 2026?",
+        "answer": "It is scheduled for November 28 at Daikin Park in Houston. WWE advertises a 6 p.m. Eastern U.S. broadcast start; regional viewing arrangements vary."
+      }
+    ],
+    "readingTime": "5 min read"
+  },
+  {
     "id": "537",
     "slug": "david-beckham-billion-dollar-fortune-business-empire",
     "title": "DAVID BECKHAM: THE BUSINESS BEHIND A $1 BILLION FORTUNE ESTIMATE",

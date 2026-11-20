@@ -15,6 +15,111 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"bruno-mars-father-peter-hernandez-death-tribute": {
+  "afterBlock": 12,
+  "file": "spotlight5-bruno-facts-en.png",
+  "localizedFiles": {
+    "en": "spotlight5-bruno-facts-en.png",
+    "fr": "spotlight5-bruno-facts-fr.png",
+    "ar": "spotlight5-bruno-facts-ar.png",
+    "es": "spotlight5-bruno-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://abcnews.com/amp/GMA/Culture/bruno-mars-remembers-late-father-musical-lessons-passed/story?id=138303867",
+  "credit": "PRESDA · abcnews.com / midweek.com / usmagazine.com / news.iheart.com",
+  "license": null,
+  "captions": {
+    "en": "Peter Hernandez: documented points in the family story",
+    "fr": "Peter Hernandez : repères documentés de l’histoire familiale",
+    "ar": "بيتر هيرنانديز: محطات موثقة في قصة الأسرة",
+    "es": "Peter Hernandez: puntos documentados de la historia familiar"
+  }
+},
+"chris-brown-temporary-12000-monthly-child-support": {
+  "afterBlock": 12,
+  "file": "spotlight5-chris-facts-en.png",
+  "localizedFiles": {
+    "en": "spotlight5-chris-facts-en.png",
+    "fr": "spotlight5-chris-facts-fr.png",
+    "ar": "spotlight5-chris-facts-ar.png",
+    "es": "spotlight5-chris-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.billboard.com/business/legal/chris-brown-to-increase-child-support-to-ex-diamond-1236385727/",
+  "credit": "PRESDA · billboard.com / people.com / lawcommentary.com / selfhelp.courts.ca.gov",
+  "license": null,
+  "captions": {
+    "en": "Chris Brown’s reported temporary arrangement: separate obligations",
+    "fr": "L’accord provisoire rapporté de Chris Brown : obligations distinctes",
+    "ar": "ترتيب كريس براون المؤقت المنشور: التزامات منفصلة",
+    "es": "El acuerdo provisional publicado de Chris Brown: obligaciones distintas"
+  }
+},
+"kylie-jenner-timothee-chalamet-lakers-kiss-november-2026": {
+  "afterBlock": 12,
+  "file": "spotlight5-kylie-facts-en.png",
+  "localizedFiles": {
+    "en": "spotlight5-kylie-facts-en.png",
+    "fr": "spotlight5-kylie-facts-fr.png",
+    "ar": "spotlight5-kylie-facts-ar.png",
+    "es": "spotlight5-kylie-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://nz.news.yahoo.com/kylie-jenner-timoth-e-chalamet-103748824.html",
+  "credit": "PRESDA · nz.news.yahoo.com / vogue.com / nba.com / elle.com",
+  "license": null,
+  "captions": {
+    "en": "The November courtside outing: confirmed dates and setting",
+    "fr": "La sortie de novembre : dates et cadre confirmés",
+    "ar": "أمسية نوفمبر: التواريخ والمكان المؤكدان",
+    "es": "La salida de noviembre: fechas y escenario confirmados"
+  }
+},
+"faouzia-unethical-us-billboard-hot-100-debut-95": {
+  "afterBlock": 12,
+  "file": "spotlight5-faouzia-facts-en.png",
+  "localizedFiles": {
+    "en": "spotlight5-faouzia-facts-en.png",
+    "fr": "spotlight5-faouzia-facts-fr.png",
+    "ar": "spotlight5-faouzia-facts-ar.png",
+    "es": "spotlight5-faouzia-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://ca.billboard.com/music/chart-beat/faouzia-unethical-billboard-hot-100",
+  "credit": "PRESDA · ca.billboard.com / faouziaofficial.com",
+  "license": null,
+  "captions": {
+    "en": "Faouzia’s chart milestones: keep each market distinct",
+    "fr": "Faouzia : distinguer les marchés et les étapes",
+    "ar": "محطات فوزية في القوائم: تمييز كل سوق",
+    "es": "Faouzia en las listas: cada mercado por separado"
+  }
+},
+"the-rock-survivor-series-2026-appearance-anniversary": {
+  "afterBlock": 12,
+  "file": "spotlight5-rock-facts-en.png",
+  "localizedFiles": {
+    "en": "spotlight5-rock-facts-en.png",
+    "fr": "spotlight5-rock-facts-fr.png",
+    "ar": "spotlight5-rock-facts-ar.png",
+    "es": "spotlight5-rock-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.wwe.com/article/survivor-series/the-rock-is-coming-to-survivor-series",
+  "credit": "PRESDA · wwe.com / corporate.wwe.com",
+  "license": null,
+  "captions": {
+    "en": "The Rock and Survivor Series: historical record and current plans",
+    "fr": "The Rock et Survivor Series : archives et projets actuels",
+    "ar": "ذا روك وسيرفايفر سيريز: السجل التاريخي والخطط الحالية",
+    "es": "The Rock y Survivor Series: registro histórico y planes actuales"
+  }
+},
 "david-beckham-billion-dollar-fortune-business-empire": {
   "afterBlock": 12,
   "file": "enterprise5-beckham-facts-en.png",

@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[SPOTLIGHT5_542]]": {
+    "caption": "Peter Hernandez: documented points in the family story",
+    "headers": [
+      "Record",
+      "What it establishes"
+    ],
+    "rows": [
+      [
+        "April 2014",
+        "MidWeek interview with Hernandez"
+      ],
+      [
+        "Hawaii performances",
+        "Love Notes and Little Elvis"
+      ],
+      [
+        "November 19, 2026",
+        "Mars publishes his tribute"
+      ],
+      [
+        "Reported age",
+        "Hernandez was 74"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[SPOTLIGHT5_543]]": {
+    "caption": "Chris Brown’s reported temporary arrangement: separate obligations",
+    "headers": [
+      "Item",
+      "Reported provision"
+    ],
+    "rows": [
+      [
+        "Monthly cash support",
+        "$12,000"
+      ],
+      [
+        "Retroactive support",
+        "$25,000, dating back to July"
+      ],
+      [
+        "Legal-fee advance",
+        "$55,000"
+      ],
+      [
+        "Next reported step",
+        "December settlement conference"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[SPOTLIGHT5_544]]": {
+    "caption": "The November courtside outing: confirmed dates and setting",
+    "headers": [
+      "Detail",
+      "Verified record"
+    ],
+    "rows": [
+      [
+        "November 15, 2026",
+        "Governors Awards appearance"
+      ],
+      [
+        "November 18, 2026",
+        "Lakers host Jazz in Los Angeles"
+      ],
+      [
+        "Game result",
+        "Utah 109, Los Angeles 97"
+      ],
+      [
+        "November 19, 2026",
+        "Entertainment reports published"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[SPOTLIGHT5_545]]": {
+    "caption": "Faouzia’s chart milestones: keep each market distinct",
+    "headers": [
+      "Chart or event",
+      "Confirmed point"
+    ],
+    "rows": [
+      [
+        "Canadian debut, September 19",
+        "No. 97 with UNETHICAL"
+      ],
+      [
+        "U.S. Hot 100, November 21",
+        "Debut at No. 95"
+      ],
+      [
+        "Canada / Global, November 21",
+        "No. 57 / No. 115"
+      ],
+      [
+        "November 24, Toronto",
+        "Breakthrough Award scheduled"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[SPOTLIGHT5_546]]": {
+    "caption": "The Rock and Survivor Series: historical record and current plans",
+    "headers": [
+      "Date or detail",
+      "Verified point"
+    ],
+    "rows": [
+      [
+        "November 17, 1996",
+        "Rocky Maivia debuts at MSG"
+      ],
+      [
+        "November 18, 2026",
+        "WWE confirms planned appearance"
+      ],
+      [
+        "November 28, 2026",
+        "Daikin Park, Houston event"
+      ],
+      [
+        "Match status at publication",
+        "No Rock match announced here"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[ENTERPRISE5_537]]": {
     "caption": "David Beckham’s business: milestones and financial distinctions",
     "headers": [
