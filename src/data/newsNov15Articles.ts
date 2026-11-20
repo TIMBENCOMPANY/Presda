@@ -272,7 +272,7 @@ export const newsNov15Articles: Article[] = [
     "author": "PRESDA Editorial",
     "status": "published",
     "heroPreserveAspect": true,
-    "coverImage": "/articles/faouzia-unethical-us-billboard-hot-100-debut-95.jpg",
+    "coverImage": "/articles/faouzia-original-supplied-hero.jpg",
     "coverAlt": "Editorial illustration of Faouzia with Moroccan and Canadian flags; the supplied mock chart was corrected to her confirmed No. 95 U.S. debut",
     "headlineHighlights": {
       "red": "FAOUZIA",

@@ -398,7 +398,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           <div className="article-hero-media relative">
             <Image
               src={article.coverImage}
-              unoptimized={article.slug === "phoenicians-history-sailors-alphabet-tyrian-purple"}
+              unoptimized={article.slug === "phoenicians-history-sailors-alphabet-tyrian-purple" || article.coverImage === "/articles/faouzia-original-supplied-hero.jpg"}
               alt={article.coverAlt}
               width={heroDimensions.width}
               height={heroDimensions.height}
