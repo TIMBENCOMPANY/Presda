@@ -47934,8 +47934,8 @@
       "terminologyChecked": true
     },
     "title": "البكتيريا: الميكروبات النافعة والضارة التي تشكل حياتنا",
-    "seoTitle": "البكتيريا: فوائدها ومخاطرها ودورها في حياتنا",
-    "description": "اكتشف البكتيريا والميكروبيوم والمضادات الحيوية والمقاومة، ودور الميكروبات في الغذاء والمحيطات والحياة على الأرض.",
+    "seoTitle": "البكتيريا: تعريفها وأشكالها وأمثلة على دورها في الحياة",
+    "description": "ما البكتيريا؟ تعرّف إلى تركيب خلاياها واختلافها عن الفيروسات ودورها في الأغذية والمجتمعات الميكروبية والبيئة.",
     "excerpt": "اكتشف البكتيريا والميكروبيوم والمضادات الحيوية والمقاومة، ودور الميكروبات في الغذاء والمحيطات والحياة على الأرض.",
     "headlineHighlights": {
       "red": "البكتيريا",
@@ -47949,7 +47949,7 @@
     "category": "Science",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-10-18",
-    "updatedAt": "2026-10-18",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/bacteria-hero.png",
       "alt": "رسم علمي مولد بالذكاء الاصطناعي لميكروبات عصوية ملونة ضمن مشهد يوحي بالتصوير المجهري"
@@ -47957,7 +47957,7 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "تبدو ملعقة من اللبن الزبادي وحفنة من التربة وسطح أحد الأسنان عوالم متباعدة. لكن البكتيريا تسهم في تشكيلها جميعاً. فهي تحوّل الأغذية وتعيد تدوير المغذيات وتدعم مجتمعات حية، فيما يسبب بعضها أمراضاً مدمرة. لذلك لا يكفي وصفها بالأعداء أو الحلفاء: المهم هو نوع البكتيريا الموجودة، ومكان عيشها، وما تفعله، وكيف يستجيب محيطها."
+        "text": "البكتيريا كائنات تتألف من خلية واحدة، وتوجد في التربة والماء وأجسام الكائنات الحية. فهي تحوّل الأغذية وتعيد تدوير المغذيات وتدعم مجتمعات حية، فيما يسبب بعضها أمراضاً مدمرة. لذلك لا يكفي وصفها بالأعداء أو الحلفاء: المهم هو نوع البكتيريا الموجودة، ومكان عيشها، وما تفعله، وكيف يستجيب محيطها. [المعهد الوطني لأبحاث الجينوم البشري: البكتيريا](https://www.genome.gov/genetics-glossary/Bacteria)"
       },
       {
         "type": "paragraph",
@@ -47965,11 +47965,11 @@
       },
       {
         "type": "heading",
-        "text": "ما الذي يجعل البكتيريا بكتيريا؟"
+        "text": "ما البكتيريا؟ تركيب الخلية وأبرز الأشكال"
       },
       {
         "type": "paragraph",
-        "text": "تحيط الخلية البكتيرية محتوياتها بغشاء وتحمل معلوماتها الوراثية في الحمض النووي. تصنع الريبوسومات البروتينات وتتيح الإنزيمات التفاعلات الكيميائية الضرورية للحياة. وبخلاف الخلايا البشرية، لا تملك البكتيريا نواة محاطة بغشاء. يشغل حمضها النووي منطقة تسمى المنطقة النووية، وتحمل كثير منها عناصر وراثية أصغر تسمى البلازميدات. ولدى معظمها جدار يحتوي على الببتيدوغليكان، لكن استثناءات مثل الميكوبلازما تذكّر بضرورة الحذر عند وضع التعريفات البيولوجية. صغر الحجم لا يعني بساطة الكيمياء. [المصدر: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
+        "text": "تحيط الخلية البكتيرية محتوياتها بغشاء وتحمل معلوماتها الوراثية في [الحمض النووي](/articles/human-dna-code-that-builds-us/). تصنع الريبوسومات البروتينات وتتيح الإنزيمات التفاعلات الكيميائية الضرورية للحياة. وبخلاف الخلايا البشرية، لا تملك البكتيريا نواة محاطة بغشاء. يشغل حمضها النووي منطقة تسمى المنطقة النووية، وتحمل كثير منها عناصر وراثية أصغر تسمى البلازميدات. ولدى معظمها جدار يحتوي على الببتيدوغليكان، لكن استثناءات مثل الميكوبلازما تذكّر بضرورة الحذر عند وضع التعريفات البيولوجية. صغر الحجم لا يعني بساطة الكيمياء. [المصدر: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
       },
       {
         "type": "paragraph",
@@ -48272,9 +48272,30 @@
       {
         "label": "www.nobelprize.org",
         "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+      },
+      {
+        "label": "المعهد الوطني لأبحاث الجينوم البشري: البكتيريا",
+        "url": "https://www.genome.gov/genetics-glossary/Bacteria"
+      },
+      {
+        "label": "المعهد الوطني للسرطان: الفيروسات",
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/virus"
       }
     ],
-    "faq": []
+    "faq": [
+      {
+        "question": "ما البكتيريا؟",
+        "answer": "البكتيريا كائنات تتألف من خلية واحدة وتعيش في بيئات متعددة، منها التربة والماء وجسم الإنسان."
+      },
+      {
+        "question": "هل كل البكتيريا ضارة؟",
+        "answer": "لا. تسهم بكتيريا كثيرة في إعادة تدوير المغذيات وتخمير الأغذية والحفاظ على المجتمعات الميكروبية. وقد تسبب بعض الأنواع أو السلالات أمراضًا."
+      },
+      {
+        "question": "ما الفرق بين البكتيريا والفيروسات؟",
+        "answer": "البكتيريا خلايا، أما الفيروسات فتتكاثر داخل خلايا مضيفة. تعالج المضادات الحيوية بعض العدوى البكتيرية، ولا تعالج العدوى الفيروسية."
+      }
+    ]
   },
   {
     "locale": "es",
@@ -48288,8 +48309,8 @@
       "terminologyChecked": true
     },
     "title": "Bacterias: los microbios beneficiosos y dañinos que moldean nuestras vidas",
-    "seoTitle": "Bacterias: beneficios, riesgos y su papel en la vida",
-    "description": "Explora las bacterias, el microbioma, los antibióticos y la resistencia, y su papel en los alimentos, los océanos y la vida terrestre.",
+    "seoTitle": "Bacterias: definición, formas y ejemplos para entenderlas",
+    "description": "¿Qué son las bacterias? Conoce su estructura, cómo se diferencian de los virus y su papel en los alimentos, la microbiota y el medio ambiente.",
     "excerpt": "Explora las bacterias, el microbioma, los antibióticos y la resistencia, y su papel en los alimentos, los océanos y la vida terrestre.",
     "headlineHighlights": {
       "red": "Bacterias",
@@ -48303,7 +48324,7 @@
     "category": "Science",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-10-18",
-    "updatedAt": "2026-10-18",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/bacteria-hero.png",
       "alt": "Ilustración científica con IA de microbios de colores con forma de bastón en un paisaje de apariencia microscópica"
@@ -48311,7 +48332,7 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "Una cucharada de yogur, un puñado de tierra y la superficie de un diente pertenecen a mundos distintos. Sin embargo, todos están modelados por bacterias. Estos organismos transforman alimentos, reciclan nutrientes y sostienen comunidades vivas. Algunos también causan enfermedades devastadoras. Llamarlos enemigos o aliados resulta insuficiente: importa qué bacteria está presente, dónde vive, qué hace y cómo responde su entorno."
+        "text": "Las bacterias son organismos unicelulares presentes en el suelo, el agua y los seres vivos. Estos organismos transforman alimentos, reciclan nutrientes y sostienen comunidades vivas. Algunos también causan enfermedades devastadoras. Llamarlos enemigos o aliados resulta insuficiente: importa qué bacteria está presente, dónde vive, qué hace y cómo responde su entorno. [NHGRI: las bacterias](https://www.genome.gov/genetics-glossary/Bacteria)"
       },
       {
         "type": "paragraph",
@@ -48319,11 +48340,11 @@
       },
       {
         "type": "heading",
-        "text": "¿Qué define a una bacteria?"
+        "text": "¿Qué son las bacterias? Estructura y formas principales"
       },
       {
         "type": "paragraph",
-        "text": "Una célula bacteriana encierra su contenido en una membrana y conserva información genética en el ADN. Los ribosomas fabrican proteínas y las enzimas facilitan las reacciones químicas de la vida. A diferencia de las células humanas, las bacterias carecen de núcleo rodeado por membrana. Su ADN ocupa una región llamada nucleoide; muchas poseen también elementos genéticos menores, los plásmidos. La mayoría tiene una pared con peptidoglucano, aunque excepciones como Mycoplasma aconsejan cautela con las definiciones. Ser pequeña no implica ser químicamente simple. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
+        "text": "Una célula bacteriana encierra su contenido en una membrana y conserva información genética en el [ADN](/articles/human-dna-code-that-builds-us/). Los ribosomas fabrican proteínas y las enzimas facilitan las reacciones químicas de la vida. A diferencia de las células humanas, las bacterias carecen de núcleo rodeado por membrana. Su ADN ocupa una región llamada nucleoide; muchas poseen también elementos genéticos menores, los plásmidos. La mayoría tiene una pared con peptidoglucano, aunque excepciones como Mycoplasma aconsejan cautela con las definiciones. Ser pequeña no implica ser químicamente simple. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
       },
       {
         "type": "paragraph",
@@ -48626,9 +48647,30 @@
       {
         "label": "www.nobelprize.org",
         "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+      },
+      {
+        "label": "NHGRI: las bacterias",
+        "url": "https://www.genome.gov/genetics-glossary/Bacteria"
+      },
+      {
+        "label": "NCI: virus",
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/virus"
       }
     ],
-    "faq": []
+    "faq": [
+      {
+        "question": "¿Qué son las bacterias?",
+        "answer": "Las bacterias son organismos de una sola célula que viven en ambientes diversos, como el suelo, el agua y el cuerpo humano."
+      },
+      {
+        "question": "¿Todas las bacterias son perjudiciales?",
+        "answer": "No. Muchas reciclan nutrientes, fermentan alimentos o mantienen comunidades microbianas. Algunas especies o cepas pueden causar enfermedades."
+      },
+      {
+        "question": "¿En qué se diferencian las bacterias de los virus?",
+        "answer": "Las bacterias son células. Los virus se reproducen dentro de células huésped. Los antibióticos tratan ciertas infecciones bacterianas y no las infecciones virales."
+      }
+    ]
   },
   {
     "locale": "fr",
@@ -48642,8 +48684,8 @@
       "terminologyChecked": true
     },
     "title": "Bactéries : les microbes utiles et dangereux qui façonnent nos vies",
-    "seoTitle": "Bactéries : bienfaits, risques et rôle dans le vivant",
-    "description": "Des bactéries du microbiote aux antibiotiques : découvrez leur rôle dans la santé, les aliments, les océans et la vie sur Terre.",
+    "seoTitle": "Bactéries : définition, formes et exemples pour comprendre",
+    "description": "Que sont les bactéries ? Découvrez leur structure, leurs différences avec les virus et leurs rôles dans les aliments, le microbiote et l’environnement.",
     "excerpt": "Des bactéries du microbiote aux antibiotiques : découvrez leur rôle dans la santé, les aliments, les océans et la vie sur Terre.",
     "headlineHighlights": {
       "red": "Bactéries",
@@ -48657,7 +48699,7 @@
     "category": "Science",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-10-18",
-    "updatedAt": "2026-10-18",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/bacteria-hero.png",
       "alt": "Illustration scientifique par IA de microbes colorés en forme de bâtonnets dans un paysage évoquant la microscopie"
@@ -48665,7 +48707,7 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "Une cuillerée de yaourt, une poignée de terre et la surface d’une dent appartiennent à des univers différents. Pourtant, les bactéries les façonnent tous. Elles transforment les aliments, recyclent les nutriments et entretiennent des communautés vivantes. Certaines provoquent aussi des maladies dévastatrices. Les qualifier d’ennemies ou d’alliées ne suffit donc pas : il faut savoir quelle bactérie est présente, où elle vit, ce qu’elle fait et comment son environnement réagit."
+        "text": "Les bactéries sont des organismes unicellulaires présents dans le sol, l’eau et les êtres vivants. Elles transforment les aliments, recyclent les nutriments et entretiennent des communautés vivantes. Certaines provoquent aussi des maladies dévastatrices. Les qualifier d’ennemies ou d’alliées ne suffit donc pas : il faut savoir quelle bactérie est présente, où elle vit, ce qu’elle fait et comment son environnement réagit. [NHGRI : les bactéries](https://www.genome.gov/genetics-glossary/Bacteria)"
       },
       {
         "type": "paragraph",
@@ -48673,11 +48715,11 @@
       },
       {
         "type": "heading",
-        "text": "Qu’est-ce qui définit une bactérie ?"
+        "text": "Que sont les bactéries ? Structure et principales formes"
       },
       {
         "type": "paragraph",
-        "text": "Une cellule bactérienne renferme son contenu dans une membrane et porte son information génétique dans l’ADN. Ses ribosomes fabriquent des protéines, tandis que des enzymes permettent les réactions chimiques du vivant. Contrairement aux cellules humaines, les bactéries n’ont pas de noyau entouré d’une membrane. Leur ADN occupe une région appelée nucléoïde ; beaucoup possèdent aussi de petits éléments génétiques, les plasmides. La plupart ont une paroi contenant du peptidoglycane, mais des exceptions comme Mycoplasma rappellent la prudence nécessaire en biologie. Petite ne signifie pas chimiquement rudimentaire. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
+        "text": "Une cellule bactérienne renferme son contenu dans une membrane et porte son information génétique dans [l’ADN](/articles/human-dna-code-that-builds-us/). Ses ribosomes fabriquent des protéines, tandis que des enzymes permettent les réactions chimiques du vivant. Contrairement aux cellules humaines, les bactéries n’ont pas de noyau entouré d’une membrane. Leur ADN occupe une région appelée nucléoïde ; beaucoup possèdent aussi de petits éléments génétiques, les plasmides. La plupart ont une paroi contenant du peptidoglycane, mais des exceptions comme Mycoplasma rappellent la prudence nécessaire en biologie. Petite ne signifie pas chimiquement rudimentaire. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
       },
       {
         "type": "paragraph",
@@ -48980,9 +49022,30 @@
       {
         "label": "www.nobelprize.org",
         "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+      },
+      {
+        "label": "NHGRI : les bactéries",
+        "url": "https://www.genome.gov/genetics-glossary/Bacteria"
+      },
+      {
+        "label": "NCI : les virus",
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/virus"
       }
     ],
-    "faq": []
+    "faq": [
+      {
+        "question": "Qu’est-ce qu’une bactérie ?",
+        "answer": "Une bactérie est un organisme constitué d’une seule cellule. Les bactéries vivent dans des milieux variés, dont le sol, l’eau et le corps humain."
+      },
+      {
+        "question": "Toutes les bactéries sont-elles dangereuses ?",
+        "answer": "Non. Beaucoup participent au recyclage des nutriments, à la fermentation des aliments ou aux communautés microbiennes. Certaines espèces ou souches peuvent provoquer des maladies."
+      },
+      {
+        "question": "Quelle est la différence entre bactéries et virus ?",
+        "answer": "Les bactéries sont des cellules. Les virus se multiplient dans des cellules hôtes. Les antibiotiques traitent certaines infections bactériennes et ne traitent pas les infections virales."
+      }
+    ]
   },
   {
     "locale": "ar",
@@ -141642,8 +141705,8 @@
     "title": "الإمبراطورية الإثيوبية: 700 عام من الملوك والإيمان والمقاومة",
     "excerpt": "من استعادة حكم الأسرة السليمانية عام 1270 إلى عدوة، والاحتلال الإيطالي وسقوط هيلا سيلاسي، تشكل تاريخ إثيوبيا الإمبراطوري بالإيمان والتوسع والتنافس الإقليمي والمقاومة الحازمة.",
     "quote": "> تم بناء تاريخ إثيوبيا الإمبراطوري من خلال الاستمرارية والتغيير، والسيادة والتوسع، والإيمان والمقاومة.",
-    "seoTitle": "تاريخ الإمبراطورية الإثيوبية: 700 عام من الملوك والإيمان والمقاومة",
-    "description": "تتبع الإمبراطورية الإثيوبية من استعادة حكم الأسرة السليمانية وحرب عدل إلى عدوة والاحتلال الإيطالي وهيلا سيلاسي وثورة 1974.",
+    "seoTitle": "الإمبراطورية الإثيوبية: نشأتها وحكامها وسقوطها عام 1974",
+    "description": "من وصول يكونو أملاك إلى الحكم عام 1270 إلى خلع هيلا سيلاسي عام 1974: الأسرة السليمانية وعدوة والاحتلال الإيطالي وإرث الإمبراطورية.",
     "keywords": [
       "تاريخ الإمبراطورية الإثيوبية",
       "تاريخ إثيوبيا",
@@ -141667,7 +141730,7 @@
     "category": "History",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-09-28",
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/ethiopian-emperor-receiving-tribute.png",
       "alt": "رسم تحريري لإمبراطور إثيوبي يتلقى الإتاوات في بلاط غني بالزخارف في المرتفعات"
@@ -141675,11 +141738,11 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "لم تكن الإمبراطورية الإثيوبية مجرد مملكة ظلت موجودة دون تغيير منذ العصور القديمة، ولم تكن إثيوبيا مجرد دولة لم يتم استعمارها أبدًا. الدولة الإمبراطورية التي تشكلت في عهد الأسرة السليمانية بعد عام 1270 نجت من الحروب المتكررة والتفتت الإقليمي والغزو الأجنبي. احتلت إيطاليا إثيوبيا من عام 1936 إلى عام 1941، لكن الاحتلال كان قصيرًا نسبيًا وجاء في أعقاب تاريخ طويل من السيادة الإثيوبية وبناء الدولة والمقاومة. وانتهت الإمبراطورية في عام 1974، عندما أطاحت ثورة عسكرية بالإمبراطور هيلا سيلاسي."
+        "text": "كانت الإمبراطورية الإثيوبية دولة ملكية في القرن الأفريقي. ويؤرَّخ لها عادة من وصول يكونو أملاك إلى الحكم عام 1270 حتى خلع هيلا سيلاسي عام 1974. احتلت إيطاليا إثيوبيا من عام 1936 إلى عام 1941، لكن الاحتلال كان قصيرًا نسبيًا وجاء في أعقاب تاريخ طويل من السيادة الإثيوبية وبناء الدولة والمقاومة. [مكتبة الكونغرس: إثيوبيا](https://tile.loc.gov/storage-services/master/frd/copr/Ethiopia.pdf)"
       },
       {
         "type": "paragraph",
-        "text": "يعود تاريخها إلى أكسوم، إلا أن أكسوم والإمبراطورية الإثيوبية اللاحقة كانتا كيانين سياسيين مختلفين. كانت أكسوم مملكة في الألفية الأولى تركزت في شمال إثيوبيا وإريتريا. نشأت الإمبراطورية في العصور الوسطى والحديثة من خلال سلالات وعواصم وأنظمة عسكرية جديدة وعلاقات بين مجتمعات المرتفعات المسيحية والدول الإسلامية والشعوب التي تتحدث العديد من اللغات. وهذا التمييز مهم لأن الاستمرارية كانت موجودة، ولكن لم تحكم أي دولة نفس المنطقة لمدة 2000 عام."
+        "text": "يعود تاريخها إلى [أكسوم](/articles/kingdom-aksum-africa-trade-faith/)، إلا أن أكسوم والإمبراطورية الإثيوبية اللاحقة كانتا كيانين سياسيين مختلفين. كانت أكسوم مملكة في الألفية الأولى تركزت في شمال إثيوبيا وإريتريا. نشأت الإمبراطورية في العصور الوسطى والحديثة من خلال سلالات وعواصم وأنظمة عسكرية جديدة وعلاقات بين مجتمعات المرتفعات المسيحية والدول الإسلامية والشعوب التي تتحدث العديد من اللغات. وهذا التمييز مهم لأن الاستمرارية كانت موجودة، ولكن لم تحكم أي دولة نفس المنطقة لمدة 2000 عام."
       },
       {
         "type": "heading",
@@ -141926,8 +141989,8 @@
     "title": "EL IMPERIO ETÍOPE: 700 AÑOS DE REYES, FE Y RESISTENCIA",
     "excerpt": "Desde la restauración salomónica de 1270 hasta Adwa, la ocupación italiana y la caída de Haile Selassie, la historia imperial de Etiopía estuvo marcada por la fe, la expansión, la rivalidad regional y la resistencia decidida.",
     "quote": "> La historia imperial de Etiopía se construyó a través de la continuidad y el cambio, la soberanía y la expansión, la fe y la resistencia.",
-    "seoTitle": "Historia del Imperio Etíope: 700 años de reyes, fe y resistencia",
-    "description": "Rastree el Imperio etíope desde la restauración salomónica y la guerra de Adal hasta Adwa, la ocupación italiana, Haile Selassie y la revolución de 1974.",
+    "seoTitle": "Imperio etíope: origen, emperadores y caída en 1974",
+    "description": "De Yekuno Amlak en 1270 al derrocamiento de Haile Selassie en 1974: la dinastía salomónica, Adwa, la ocupación italiana y el legado imperial.",
     "keywords": [
       "Historia del imperio etíope",
       "Historia de Etiopía",
@@ -141951,7 +142014,7 @@
     "category": "History",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-09-28",
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/ethiopian-emperor-receiving-tribute.png",
       "alt": "Ilustración editorial de un emperador etíope recibiendo homenaje en una corte de las tierras altas ricamente decorada"
@@ -141959,11 +142022,11 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "El Imperio etíope no era simplemente un reino que había existido sin cambios desde la antigüedad, y Etiopía no era simplemente un país que nunca fue colonizado. El Estado imperial que tomó forma bajo la dinastía Salomónica después de 1270 sobrevivió a repetidas guerras, fragmentación regional e invasiones extranjeras. Italia ocupó Etiopía de 1936 a 1941, pero la ocupación fue relativamente breve y siguió una larga historia de soberanía, construcción del Estado y resistencia etíopes. El imperio terminó en 1974, cuando una revolución militar depuso al emperador Haile Selassie."
+        "text": "El Imperio etíope fue una monarquía del Cuerno de África. Su historia suele situarse entre la llegada al poder de Yekuno Amlak en 1270 y el derrocamiento de Haile Selassie en 1974. Italia ocupó Etiopía de 1936 a 1941, pero la ocupación fue relativamente breve y siguió una larga historia de soberanía, construcción del Estado y resistencia etíopes. [Biblioteca del Congreso: Etiopía](https://tile.loc.gov/storage-services/master/frd/copr/Ethiopia.pdf)"
       },
       {
         "type": "paragraph",
-        "text": "Su historia se remonta a Aksum, pero Aksum y el posterior Imperio etíope eran formaciones políticas diferentes. Aksum fue un reino del primer milenio centrado en el norte de Etiopía y Eritrea. El imperio medieval y moderno surgió a través de nuevas dinastías, capitales, sistemas militares y relaciones entre sociedades cristianas de las tierras altas, estados musulmanes y pueblos que hablaban muchos idiomas. La distinción es importante porque existió continuidad, pero ningún estado gobernó el mismo territorio durante 2.000 años."
+        "text": "Su historia se remonta a [Aksum](/articles/kingdom-aksum-africa-trade-faith/), pero Aksum y el posterior Imperio etíope eran formaciones políticas diferentes. Aksum fue un reino del primer milenio centrado en el norte de Etiopía y Eritrea. El imperio medieval y moderno surgió a través de nuevas dinastías, capitales, sistemas militares y relaciones entre sociedades cristianas de las tierras altas, estados musulmanes y pueblos que hablaban muchos idiomas. La distinción es importante porque existió continuidad, pero ningún estado gobernó el mismo territorio durante 2.000 años."
       },
       {
         "type": "heading",
@@ -142210,8 +142273,8 @@
     "title": "L'EMPIRE ÉTHIOPIEN : 700 ANS DE ROIS, DE FOI ET DE RÉSISTANCE",
     "excerpt": "De la restauration salomonienne de 1270 à Adwa, en passant par l'occupation italienne et la chute de Haïlé Sélassié, l'histoire impériale de l'Éthiopie a été façonnée par la foi, l'expansion, la rivalité régionale et la résistance déterminée.",
     "quote": "> L'histoire impériale de l'Éthiopie s'est construite sur la continuité et le changement, la souveraineté et l'expansion, la foi et la résistance.",
-    "seoTitle": "Histoire de l'Empire éthiopien : 700 ans de rois, de foi et de résistance",
-    "description": "Retracez l'Empire éthiopien depuis la restauration salomonienne et la guerre d'Adal jusqu'à Adwa, l'occupation italienne, Haïlé Sélassié et la révolution de 1974.",
+    "seoTitle": "Empire éthiopien : origines, souverains et chute en 1974",
+    "description": "De Yekouno Amlak en 1270 à la chute d’Haïlé Sélassié en 1974 : dynastie salomonienne, Adwa, occupation italienne et héritage impérial.",
     "keywords": [
       "Histoire de l'Empire éthiopien",
       "Histoire de l'Éthiopie",
@@ -142235,7 +142298,7 @@
     "category": "History",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-09-28",
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/ethiopian-emperor-receiving-tribute.png",
       "alt": "Illustration éditoriale d'un empereur éthiopien recevant un tribut dans une cour richement décorée des hauts plateaux"
@@ -142243,11 +142306,11 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "L’Empire éthiopien n’était pas simplement un royaume qui avait existé inchangé depuis l’Antiquité, et l’Éthiopie n’était pas simplement un pays qui n’avait jamais été colonisé. L’État impérial qui a pris forme sous la dynastie salomonienne après 1270 a survécu à des guerres répétées, à la fragmentation régionale et aux invasions étrangères. L’Italie a occupé l’Éthiopie de 1936 à 1941, mais l’occupation a été relativement brève et a fait suite à une longue histoire de souveraineté, de construction de l’État et de résistance éthiopienne. L’empire a pris fin en 1974, lorsqu’une révolution militaire a déposé l’empereur Haïlé Sélassié."
+        "text": "L’Empire éthiopien était une monarchie de la Corne de l’Afrique. On situe généralement son histoire entre l’avènement de Yekouno Amlak en 1270 et le renversement d’Haïlé Sélassié en 1974. L’Italie a occupé l’Éthiopie de 1936 à 1941, mais l’occupation a été relativement brève et a fait suite à une longue histoire de souveraineté, de construction de l’État et de résistance éthiopienne. [Bibliothèque du Congrès : Éthiopie](https://tile.loc.gov/storage-services/master/frd/copr/Ethiopia.pdf)"
       },
       {
         "type": "paragraph",
-        "text": "Son histoire remonte à Aksoum, mais Aksoum et le futur Empire éthiopien étaient des formations politiques différentes. Aksoum était un royaume du premier millénaire centré dans le nord de l’Éthiopie et de l’Érythrée. L’empire médiéval et moderne a émergé à travers de nouvelles dynasties, capitales, systèmes militaires et relations entre les sociétés chrétiennes des hauts plateaux, les États musulmans et les peuples parlant de nombreuses langues. La distinction est importante car la continuité existait, mais aucun État n’a gouverné le même territoire pendant 2 000 ans."
+        "text": "Son histoire remonte à [Aksoum](/articles/kingdom-aksum-africa-trade-faith/), mais Aksoum et le futur Empire éthiopien étaient des formations politiques différentes. Aksoum était un royaume du premier millénaire centré dans le nord de l’Éthiopie et de l’Érythrée. L’empire médiéval et moderne a émergé à travers de nouvelles dynasties, capitales, systèmes militaires et relations entre les sociétés chrétiennes des hauts plateaux, les États musulmans et les peuples parlant de nombreuses langues. La distinction est importante car la continuité existait, mais aucun État n’a gouverné le même territoire pendant 2 000 ans."
       },
       {
         "type": "heading",
@@ -262272,8 +262335,8 @@
     "title": "مملكة المجر: ألف عام في قلب أوروبا",
     "excerpt": "يمتد تاريخ المجر من تشكيل الدولة المجرية والقديس ستيفن إلى الحدود العثمانية، وحكم هابسبورغ، والنمسا-المجر، والمملكة الخالية من الملوك في 1920-1946.",
     "quote": "> تاريخ المجر الممتد لألف عام هو عبارة عن سلسلة من الممالك المختلفة والأنظمة الدستورية التي شكلها نهر الدانوب والسهوب والحدود العثمانية.",
-    "seoTitle": "تاريخ مملكة المجر: ألف عام في أوروبا الوسطى",
-    "description": "تتبع المجر منذ وصول المجريين والقديس ستيفن عبر موهاج، والحكم العثماني والهابسبورغ، 1848، النمسا-المجر ونهاية المملكة عام 1946.",
+    "seoTitle": "مملكة المجر: نشأتها وتحولها إلى جمهورية عام 1946",
+    "description": "من مملكة ستيفن الأول نحو عام 1000 إلى إعلان الجمهورية عام 1946: العصور الوسطى وموهاج وحكم هابسبورغ والمملكة بلا ملك.",
     "keywords": [
       "مملكة المجر",
       "تاريخ المجر",
@@ -262292,7 +262355,7 @@
     "category": "History",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-09-29",
-    "updatedAt": "2026-09-29",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/kingdom-hungary-regal-king-danube.png",
       "alt": "رسم توضيحي افتتاحي لملك مجري يطل على نهر الدانوب ومدينة أوروبية تاريخية"
@@ -262300,7 +262363,7 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "كانت مملكة المجر واحدة من أكثر التقاليد السياسية ديمومة في أوروبا الوسطى، لكنها لم تبقَ على حال سياسي واحد طوال ألف عام. بدأت كمملكة مسيحية تشكلت من بناء الدولة بقيادة المجريين في حوض الكاربات، وأصبحت قوة إقليمية في العصور الوسطى، وانقسمت بعد الانتصار العثماني في موهاج، وتحولت لاحقًا تحت حكم هابسبورغ وداخل الإمبراطورية النمساوية المجرية. بعد الحرب العالمية الأولى، كانت الدولة المجرية لا تزال تسمى بالمملكة موجودة من عام 1920 إلى عام 1946 بدون ملك. كان لكل فترة حدود ومؤسسات وعلاقات مختلفة مع الشعوب المجاورة."
+        "text": "نشأت مملكة المجر في عهد ستيفن الأول نحو عام 1000. وانتهت آخر عودة للنظام الملكي بإعلان الجمهورية في 1 فبراير 1946. بدأت كمملكة مسيحية تشكلت من بناء الدولة بقيادة المجريين في حوض الكاربات، وأصبحت قوة إقليمية في العصور الوسطى، وانقسمت بعد الانتصار العثماني في موهاج، وتحولت لاحقًا تحت حكم هابسبورغ وداخل الإمبراطورية النمساوية المجرية. بعد الحرب العالمية الأولى، كانت الدولة المجرية لا تزال تسمى بالمملكة موجودة من عام 1920 إلى عام 1946 بدون ملك. كان لكل فترة حدود ومؤسسات وعلاقات مختلفة مع الشعوب المجاورة. [مكتبة الكونغرس: المجر](https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf)"
       },
       {
         "type": "paragraph",
@@ -262308,7 +262371,7 @@
       },
       {
         "type": "heading",
-        "text": "وصول المجريين وصعود المملكة المسيحية"
+        "text": "ستيفن الأول وتأسيس مملكة المجر"
       },
       {
         "type": "paragraph",
@@ -262340,7 +262403,7 @@
       },
       {
         "type": "paragraph",
-        "text": "غزت الجيوش المغولية المجر عام 1241. وهُزمت قوات الملك بيلا الرابع في معركة موهي في 11 أبريل، ودمر الغزاة مناطق واسعة من خلال الغارات والمذابح وتدمير المستوطنات. يختلف حجم الخسارة الديموغرافية حسب المنطقة ولا يزال موضع نقاش؛ فمن الأسلم وصف الغزو بأنه تمزق كارثي بدلاً من تكرار نسبة وطنية ثابتة واحدة. انسحب المغول عام 1242 بعد وفاة أوجيدي خان وأزمة الخلافة الناتجة. [المعهد المجري للآثار الوطنية: حملة 1241](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)"
+        "text": "غزت [الجيوش المغولية](/articles/mongol-empire-genghis-khan-conquests-legacy/) المجر عام 1241. وهُزمت قوات الملك بيلا الرابع في معركة موهي في 11 أبريل، ودمر الغزاة مناطق واسعة من خلال الغارات والمذابح وتدمير المستوطنات. يختلف حجم الخسارة الديموغرافية حسب المنطقة ولا يزال موضع نقاش؛ فمن الأسلم وصف الغزو بأنه تمزق كارثي بدلاً من تكرار نسبة وطنية ثابتة واحدة. انسحب المغول عام 1242 بعد وفاة أوجيدي خان وأزمة الخلافة الناتجة. [المعهد المجري للآثار الوطنية: حملة 1241](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)"
       },
       {
         "type": "paragraph",
@@ -262519,6 +262582,10 @@
       {
         "label": "المتحف الوطني المجري: الملك لويس الأول",
         "url": "https://mnm.hu/en/exhibitions/treasures-king-louis-i-great-hungary"
+      },
+      {
+        "label": "مكتبة الكونغرس: المجر",
+        "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf"
       }
     ],
     "faq": [
@@ -262563,8 +262630,8 @@
     "title": "EL REINO DE HUNGRÍA: MIL AÑOS EN EL CORAZÓN DE EUROPA",
     "excerpt": "La historia de Hungría va desde la formación del Estado magiar y San Esteban hasta la frontera otomana, el gobierno de los Habsburgo, Austria-Hungría y el reino sin rey de 1920-1946.",
     "quote": "> La historia milenaria de Hungría es una sucesión de diferentes reinos y órdenes constitucionales moldeados por el Danubio, la estepa y la frontera otomana.",
-    "seoTitle": "Historia del Reino de Hungría: mil años en Europa Central",
-    "description": "Rastree Hungría desde la llegada magiar y San Esteban hasta Mohács, el dominio otomano y Habsburgo, 1848, Austria-Hungría y el fin del reino en 1946.",
+    "seoTitle": "Reino de Hungría: origen, historia y fin de la monarquía",
+    "description": "Del reino de Esteban I hacia el año 1000 a la república de 1946: Hungría medieval, Mohács, los Habsburgo y el reino sin rey.",
     "keywords": [
       "Reino de Hungría",
       "Historia de Hungría",
@@ -262583,7 +262650,7 @@
     "category": "History",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-09-29",
-    "updatedAt": "2026-09-29",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/kingdom-hungary-regal-king-danube.png",
       "alt": "Ilustración editorial de un rey húngaro con vistas al Danubio y a una histórica ciudad europea"
@@ -262591,7 +262658,7 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "El Reino de Hungría fue una de las tradiciones políticas más duraderas de Europa Central, pero nunca permaneció políticamente inalterado durante mil años. Comenzó como un reino cristiano formado a partir de la construcción estatal liderada por los magiares en la cuenca de los Cárpatos, se convirtió en una potencia regional medieval, se dividió después de la victoria otomana en Mohács, y más tarde se transformó bajo el dominio de los Habsburgo y dentro de Austria-Hungría. Después de la Primera Guerra Mundial, de 1920 a 1946 existió un Estado húngaro todavía llamado reino sin rey. Cada período tuvo diferentes fronteras, instituciones y relaciones con los pueblos vecinos."
+        "text": "El Reino de Hungría surgió con Esteban I hacia el año 1000. Su última restauración terminó con la proclamación de la república el 1 de febrero de 1946. Comenzó como un reino cristiano formado a partir de la construcción estatal liderada por los magiares en la cuenca de los Cárpatos, se convirtió en una potencia regional medieval, se dividió después de la victoria otomana en Mohács, y más tarde se transformó bajo el dominio de los Habsburgo y dentro de Austria-Hungría. Después de la Primera Guerra Mundial, de 1920 a 1946 existió un Estado húngaro todavía llamado reino sin rey. Cada período tuvo diferentes fronteras, instituciones y relaciones con los pueblos vecinos. [Biblioteca del Congreso: Hungría](https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf)"
       },
       {
         "type": "paragraph",
@@ -262599,7 +262666,7 @@
       },
       {
         "type": "heading",
-        "text": "LA LLEGADA DE LOS MAGIARES Y EL CRECIMIENTO DE UN REINO CRISTIANO"
+        "text": "Esteban I y el nacimiento del Reino de Hungría"
       },
       {
         "type": "paragraph",
@@ -262631,7 +262698,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Los ejércitos mongoles invadieron Hungría en 1241. Las fuerzas del rey Béla IV fueron derrotadas en la batalla de Mohi el 11 de abril y los invasores devastaron grandes áreas mediante incursiones, masacres y la destrucción de asentamientos. La escala de la pérdida demográfica varió según la región y sigue siendo objeto de debate; Es más seguro describir la invasión como una ruptura catastrófica que repetir un porcentaje nacional fijo. Los mongoles se retiraron en 1242 tras la muerte de Ögedei Khan y la consiguiente crisis de sucesión. [Instituto Húngaro de Arqueología Nacional: la campaña 1241](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)"
+        "text": "[Los ejércitos mongoles](/articles/mongol-empire-genghis-khan-conquests-legacy/) invadieron Hungría en 1241. Las fuerzas del rey Béla IV fueron derrotadas en la batalla de Mohi el 11 de abril y los invasores devastaron grandes áreas mediante incursiones, masacres y la destrucción de asentamientos. La escala de la pérdida demográfica varió según la región y sigue siendo objeto de debate; Es más seguro describir la invasión como una ruptura catastrófica que repetir un porcentaje nacional fijo. Los mongoles se retiraron en 1242 tras la muerte de Ögedei Khan y la consiguiente crisis de sucesión. [Instituto Húngaro de Arqueología Nacional: la campaña 1241](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)"
       },
       {
         "type": "paragraph",
@@ -262810,6 +262877,10 @@
       {
         "label": "Museo Nacional Húngaro: Rey Luis I",
         "url": "https://mnm.hu/en/exhibitions/treasures-king-louis-i-great-hungary"
+      },
+      {
+        "label": "Biblioteca del Congreso: Hungría",
+        "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf"
       }
     ],
     "faq": [
@@ -262854,8 +262925,8 @@
     "title": "LE ROYAUME DE HONGRIE : MILLE ANS AU CŒUR DE L'EUROPE",
     "excerpt": "L'histoire de la Hongrie s'étend de la formation de l'État magyar et de saint Étienne jusqu'à la frontière ottomane, la domination des Habsbourg, l'Autriche-Hongrie et le royaume sans roi de 1920-1946.",
     "quote": "> L'histoire millénaire de la Hongrie est une succession de différents royaumes et ordres constitutionnels façonnés par le Danube, la steppe et la frontière ottomane.",
-    "seoTitle": "Histoire du Royaume de Hongrie : mille ans en Europe centrale",
-    "description": "Suivez la Hongrie depuis l'arrivée des Magyars et Saint Étienne en passant par Mohács, la domination ottomane et habsbourgeoise, 1848, l'Autriche-Hongrie et la fin du royaume en 1946.",
+    "seoTitle": "Royaume de Hongrie : des origines à la république de 1946",
+    "description": "Du royaume d’Étienne Ier vers l’an 1000 à la république de 1946 : Hongrie médiévale, Mohács, Habsbourg et royaume sans roi.",
     "keywords": [
       "Royaume de Hongrie",
       "Histoire de la Hongrie",
@@ -262874,7 +262945,7 @@
     "category": "History",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-09-29",
-    "updatedAt": "2026-09-29",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/kingdom-hungary-regal-king-danube.png",
       "alt": "Illustration éditoriale d'un roi hongrois surplombant le Danube et une ville européenne historique"
@@ -262882,7 +262953,7 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "Le Royaume de Hongrie était l'une des traditions politiques les plus durables d'Europe centrale, mais il n'est jamais resté politiquement inchangé pendant mille ans. Il a commencé comme un royaume chrétien formé à partir de la construction d'un État dirigé par les Magyars dans le bassin des Carpates, est devenu une puissance régionale médiévale, s’est divisé après la victoire ottomane à Mohács, puis a été transformé sous la domination des Habsbourg et au sein de l'Autriche-Hongrie. Après la Première Guerre mondiale, un État hongrois encore appelé royaume existait de 1920 à 1946 sans roi. Chaque période avait des frontières, des institutions et des relations avec les peuples voisins différentes."
+        "text": "Le royaume de Hongrie s’est constitué sous Étienne Ier vers l’an 1000. Sa dernière restauration s’est achevée avec la proclamation de la république, le 1er février 1946. Il a commencé comme un royaume chrétien formé à partir de la construction d'un État dirigé par les Magyars dans le bassin des Carpates, est devenu une puissance régionale médiévale, s’est divisé après la victoire ottomane à Mohács, puis a été transformé sous la domination des Habsbourg et au sein de l'Autriche-Hongrie. Après la Première Guerre mondiale, un État hongrois encore appelé royaume existait de 1920 à 1946 sans roi. Chaque période avait des frontières, des institutions et des relations avec les peuples voisins différentes. [Bibliothèque du Congrès : Hongrie](https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf)"
       },
       {
         "type": "paragraph",
@@ -262890,7 +262961,7 @@
       },
       {
         "type": "heading",
-        "text": "L’ARRIVÉE DES MAGYARS ET LA MONTÉE D'UN ROYAUME CHRÉTIEN"
+        "text": "Étienne Ier et la naissance du royaume de Hongrie"
       },
       {
         "type": "paragraph",
@@ -262922,7 +262993,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Les armées mongoles envahirent la Hongrie en 1241. Les forces du roi Béla IV furent vaincues à la bataille de Mohi le 11 avril et les envahisseurs dévastèrent de vastes zones par des raids, des massacres et la destruction de localités. L'ampleur de la perte démographique varie selon les régions et reste controversée ; il est plus prudent de décrire l’invasion comme une rupture catastrophique que de répéter un pourcentage national fixe. Les Mongols se retirèrent en 1242 après la mort d'Ögedei Khan et la crise de succession qui en résulta. [Institut hongrois d'archéologie nationale : la campagne 1241](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)"
+        "text": "[Les armées mongoles](/articles/mongol-empire-genghis-khan-conquests-legacy/) envahirent la Hongrie en 1241. Les forces du roi Béla IV furent vaincues à la bataille de Mohi le 11 avril et les envahisseurs dévastèrent de vastes zones par des raids, des massacres et la destruction de localités. L'ampleur de la perte démographique varie selon les régions et reste controversée ; il est plus prudent de décrire l’invasion comme une rupture catastrophique que de répéter un pourcentage national fixe. Les Mongols se retirèrent en 1242 après la mort d'Ögedei Khan et la crise de succession qui en résulta. [Institut hongrois d'archéologie nationale : la campagne 1241](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)"
       },
       {
         "type": "paragraph",
@@ -263101,6 +263172,10 @@
       {
         "label": "Musée national hongrois : Roi Louis Ier",
         "url": "https://mnm.hu/en/exhibitions/treasures-king-louis-i-great-hungary"
+      },
+      {
+        "label": "Bibliothèque du Congrès : Hongrie",
+        "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf"
       }
     ],
     "faq": [
@@ -274310,8 +274385,8 @@
       "terminologyChecked": true
     },
     "title": "ليف ياشين: حارس المرمى الوحيد الفائز بالكرة الذهبية",
-    "seoTitle": "ليف ياشين: الحارس الوحيد الفائز بالكرة الذهبية",
-    "description": "قصة فوز ليف ياشين بالكرة الذهبية عام 1963، ولقبيه الأولمبي والأوروبي مع الاتحاد السوفيتي، وإرثه الاستثنائي في حراسة المرمى.",
+    "seoTitle": "ليف ياشين والكرة الذهبية 1963: الحارس الوحيد الفائز بها",
+    "description": "كيف فاز ليف ياشين بالكرة الذهبية عام 1963 برصيد 73 نقطة، وألقابه مع الاتحاد السوفيتي، والفرق بين جائزته وكأس ياشين المخصصة للحراس.",
     "excerpt": "قصة فوز ليف ياشين بالكرة الذهبية عام 1963، ولقبيه الأولمبي والأوروبي مع الاتحاد السوفيتي، وإرثه الاستثنائي في حراسة المرمى.",
     "headlineHighlights": {
       "red": "ليف ياشين",
@@ -274325,7 +274400,7 @@
     "category": "Sport",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-11-01",
-    "updatedAt": "2026-11-01",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/lev-yashin-ballon-dor-1963-ai-editorial.webp",
       "alt": "صورة تحريرية بالذكاء الاصطناعي تصور ليف ياشين بقميص حراسة داكن يحمل كرة جلدية؛ ليست صورة أرشيفية موثقة."
@@ -274333,7 +274408,7 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "تحتفظ كرة القدم بذكرى تصديات رائعة كثيرة. لكن ليف ياشين يملك تميزاً يتجاوز تصدياً واحداً؛ فقد فاز بالكرة الذهبية للرجال عام 1963، ولا يزال حارس المرمى الوحيد في قائمة الفائزين بها. وفي جائزة ترتبط كثيراً بتسجيل الأهداف، جعل انتصاره منعها محور القصة. [المصدر: www.uefa.com](https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/)"
+        "text": "فاز ليف ياشين بالكرة الذهبية للرجال عام 1963، ولا يزال حارس المرمى الوحيد الذي نال هذه الجائزة. وفي جائزة ترتبط كثيراً بتسجيل الأهداف، جعل انتصاره منعها محور القصة. [المصدر: www.uefa.com](https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/)"
       },
       {
         "type": "heading",
@@ -274349,11 +274424,11 @@
       },
       {
         "type": "heading",
-        "text": "دينامو موسكو وملبورن وأوروبا"
+        "text": "الكرة الذهبية 1963 والألقاب الدولية"
       },
       {
         "type": "paragraph",
-        "text": "أمضى ياشين مسيرته مع الفريق الأول في دينامو موسكو. وتسجل أولمبيديا خمسة ألقاب للدوري السوفيتي وثلاث كؤوس سوفيتية، إضافة إلى ذهبية أولمبياد ملبورن 1956 مع الاتحاد السوفيتي. وتضع هذه الإنجازات جائزته الفردية الشهيرة ضمن مسيرة جماعية لفرق فازت مراراً ببطولات كبرى. [المصدر: www.olympedia.org](https://www.olympedia.org/athletes/27585)"
+        "text": "أمضى ياشين مسيرته مع الفريق الأول في دينامو موسكو. وتسجل أولمبيديا خمسة ألقاب للدوري السوفيتي وثلاث كؤوس سوفيتية، إضافة إلى ذهبية أولمبياد ملبورن 1956 مع [الاتحاد السوفيتي](/articles/soviet-union-history-rise-collapse-ussr/). وتضع هذه الإنجازات جائزته الفردية الشهيرة ضمن مسيرة جماعية لفرق فازت مراراً ببطولات كبرى. [المصدر: www.olympedia.org](https://www.olympedia.org/athletes/27585) تؤرّخ فرانس فوتبول فوزه بالجائزة في 17 ديسمبر 1963. ويمنحه ترتيبها المنشور 73 نقطة، متقدمًا على جياني ريفيرا وجيمي غريفز. [فرانس فوتبول: فوز ياشين عام 1963](https://ballondor.com/news/posts/the-only-goalkeeper-in-the-pantheon)"
       },
       {
         "type": "paragraph",
@@ -274400,6 +274475,10 @@
       {
         "label": "المصدر: www.uefa.com",
         "url": "https://www.uefa.com/ballondor/news/0292-1c2705cb8fd5-8f2dcb111a8a-1000--ballon-d-or-how-are-the-winners-decided/"
+      },
+      {
+        "label": "فرانس فوتبول: فوز ياشين عام 1963",
+        "url": "https://ballondor.com/news/posts/the-only-goalkeeper-in-the-pantheon"
       }
     ],
     "faq": [
@@ -274429,8 +274508,8 @@
       "terminologyChecked": true
     },
     "title": "LEV YASHIN: EL ÚNICO PORTERO QUE GANÓ EL BALÓN DE ORO",
-    "seoTitle": "Lev Yashin: el único portero ganador del Balón de Oro",
-    "description": "La historia del Balón de Oro de 1963 de Lev Yashin, sus títulos olímpico y europeo con la URSS y su legado como portero del Dinamo de Moscú.",
+    "seoTitle": "Lev Yashin y el Balón de Oro 1963: el único portero ganador",
+    "description": "El Balón de Oro de Lev Yashin en 1963, sus 73 puntos y sus títulos con la URSS. Conoce también la diferencia con el Trofeo Yashin.",
     "excerpt": "La historia del Balón de Oro de 1963 de Lev Yashin, sus títulos olímpico y europeo con la URSS y su legado como portero del Dinamo de Moscú.",
     "headlineHighlights": {
       "red": "LEV YASHIN",
@@ -274444,7 +274523,7 @@
     "category": "Sport",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-11-01",
-    "updatedAt": "2026-11-01",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/lev-yashin-ballon-dor-1963-ai-editorial.webp",
       "alt": "Retrato editorial con IA que representa a Lev Yashin con camiseta oscura y un balón de cuero; no es una fotografía de archivo autenticada."
@@ -274452,7 +274531,7 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "El fútbol recuerda muchas paradas brillantes. Lev Yashin posee una distinción que supera cualquier acción: ganó el Balón de Oro masculino en 1963 y sigue siendo el único portero en su palmarés. En un premio tan asociado al gol, su victoria puso en primer plano el arte de evitarlo. [Fuente: www.uefa.com](https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/)"
+        "text": "Lev Yashin ganó el Balón de Oro masculino en 1963 y sigue siendo el único portero que ha conseguido el premio. En un premio tan asociado al gol, su victoria puso en primer plano el arte de evitarlo. [Fuente: www.uefa.com](https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/)"
       },
       {
         "type": "heading",
@@ -274468,11 +274547,11 @@
       },
       {
         "type": "heading",
-        "text": "Dinamo de Moscú, Melbourne y Europa"
+        "text": "El Balón de Oro 1963 y los títulos internacionales"
       },
       {
         "type": "paragraph",
-        "text": "Yashin desarrolló su carrera de club sénior en el Dinamo de Moscú. Olympedia registra cinco ligas soviéticas y tres Copas de la URSS, además del oro olímpico con la Unión Soviética en Melbourne en 1956. Esos logros sitúan su premio individual en una trayectoria colectiva de equipos que ganaban grandes competiciones. [Fuente: www.olympedia.org](https://www.olympedia.org/athletes/27585)"
+        "text": "Yashin desarrolló su carrera de club sénior en el Dinamo de Moscú. Olympedia registra cinco ligas soviéticas y tres Copas de la URSS, además del oro olímpico con [la Unión Soviética](/articles/soviet-union-history-rise-collapse-ussr/) en Melbourne en 1956. Esos logros sitúan su premio individual en una trayectoria colectiva de equipos que ganaban grandes competiciones. [Fuente: www.olympedia.org](https://www.olympedia.org/athletes/27585) France Football fecha su premio el 17 de diciembre de 1963. Su clasificación publicada le concede 73 puntos, por delante de Gianni Rivera y Jimmy Greaves. [France Football: el premio de 1963](https://ballondor.com/news/posts/the-only-goalkeeper-in-the-pantheon)"
       },
       {
         "type": "paragraph",
@@ -274519,6 +274598,10 @@
       {
         "label": "Fuente: www.uefa.com",
         "url": "https://www.uefa.com/ballondor/news/0292-1c2705cb8fd5-8f2dcb111a8a-1000--ballon-d-or-how-are-the-winners-decided/"
+      },
+      {
+        "label": "France Football: el premio de 1963",
+        "url": "https://ballondor.com/news/posts/the-only-goalkeeper-in-the-pantheon"
       }
     ],
     "faq": [
@@ -274548,8 +274631,8 @@
       "terminologyChecked": true
     },
     "title": "LEV YACHINE : LE SEUL GARDIEN À AVOIR REMPORTÉ LE BALLON D'OR",
-    "seoTitle": "Lev Yachine : le seul gardien vainqueur du Ballon d’Or",
-    "description": "Le Ballon d’Or 1963 de Lev Yachine, ses titres olympique et européen avec l’URSS et l’héritage singulier du gardien du Dynamo Moscou.",
+    "seoTitle": "Lev Yachine : le Ballon d’Or 1963 du seul gardien lauréat",
+    "description": "Le Ballon d’Or 1963 de Lev Yachine, ses 73 points au classement et ses titres avec l’URSS. Découvrez aussi ce qui distingue le trophée Yachine.",
     "excerpt": "Le Ballon d’Or 1963 de Lev Yachine, ses titres olympique et européen avec l’URSS et l’héritage singulier du gardien du Dynamo Moscou.",
     "headlineHighlights": {
       "red": "LEV YACHINE",
@@ -274563,7 +274646,7 @@
     "category": "Sport",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-11-01",
-    "updatedAt": "2026-11-01",
+    "updatedAt": "2026-11-20",
     "image": {
       "src": "/articles/lev-yashin-ballon-dor-1963-ai-editorial.webp",
       "alt": "Portrait éditorial par IA représentant Lev Yachine en maillot sombre avec un ballon en cuir ; pas une photographie d’archives authentifiée."
@@ -274571,7 +274654,7 @@
     "content": [
       {
         "type": "paragraph",
-        "text": "Le football garde la mémoire de nombreux arrêts. Lev Yachine possède une distinction qui dépasse un seul geste : vainqueur du Ballon d’Or masculin en 1963, il reste le seul gardien à son palmarès. Dans une récompense si souvent associée aux buteurs, sa victoire a placé l’art d’empêcher les buts au cœur du récit. [Source: www.uefa.com](https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/)"
+        "text": "Lev Yachine a remporté le Ballon d’Or masculin en 1963. Il demeure le seul gardien de but à avoir reçu cette distinction. Dans une récompense si souvent associée aux buteurs, sa victoire a placé l’art d’empêcher les buts au cœur du récit. [Source: www.uefa.com](https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/)"
       },
       {
         "type": "heading",
@@ -274587,11 +274670,11 @@
       },
       {
         "type": "heading",
-        "text": "Le Dynamo Moscou, Melbourne et l’Europe"
+        "text": "Le Ballon d’Or 1963 et les titres internationaux"
       },
       {
         "type": "paragraph",
-        "text": "Yachine a effectué sa carrière de club senior au Dynamo Moscou. Olympedia recense cinq championnats soviétiques et trois Coupes d’URSS, ainsi que son titre olympique avec l’Union soviétique à Melbourne en 1956. Ces résultats replacent la récompense individuelle dans une carrière collective, au sein d’équipes régulièrement victorieuses. [Source: www.olympedia.org](https://www.olympedia.org/athletes/27585)"
+        "text": "Yachine a effectué sa carrière de club senior au Dynamo Moscou. Olympedia recense cinq championnats soviétiques et trois Coupes d’URSS, ainsi que son titre olympique avec [l’Union soviétique](/articles/soviet-union-history-rise-collapse-ussr/) à Melbourne en 1956. Ces résultats replacent la récompense individuelle dans une carrière collective, au sein d’équipes régulièrement victorieuses. [Source: www.olympedia.org](https://www.olympedia.org/athletes/27585) France Football date sa récompense du 17 décembre 1963. Le classement publié lui attribue 73 points, devant Gianni Rivera et Jimmy Greaves. [France Football : le sacre de 1963](https://ballondor.com/news/posts/the-only-goalkeeper-in-the-pantheon)"
       },
       {
         "type": "paragraph",
@@ -274638,6 +274721,10 @@
       {
         "label": "Source: www.uefa.com",
         "url": "https://www.uefa.com/ballondor/news/0292-1c2705cb8fd5-8f2dcb111a8a-1000--ballon-d-or-how-are-the-winners-decided/"
+      },
+      {
+        "label": "France Football : le sacre de 1963",
+        "url": "https://ballondor.com/news/posts/the-only-goalkeeper-in-the-pantheon"
       }
     ],
     "faq": [

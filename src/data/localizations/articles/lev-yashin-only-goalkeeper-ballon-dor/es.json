@@ -10,8 +10,8 @@
     "terminologyChecked": true
   },
   "title": "LEV YASHIN: EL ÚNICO PORTERO QUE GANÓ EL BALÓN DE ORO",
-  "seoTitle": "Lev Yashin: el único portero ganador del Balón de Oro",
-  "description": "La historia del Balón de Oro de 1963 de Lev Yashin, sus títulos olímpico y europeo con la URSS y su legado como portero del Dinamo de Moscú.",
+  "seoTitle": "Lev Yashin y el Balón de Oro 1963: el único portero ganador",
+  "description": "El Balón de Oro de Lev Yashin en 1963, sus 73 puntos y sus títulos con la URSS. Conoce también la diferencia con el Trofeo Yashin.",
   "excerpt": "La historia del Balón de Oro de 1963 de Lev Yashin, sus títulos olímpico y europeo con la URSS y su legado como portero del Dinamo de Moscú.",
   "headlineHighlights": {
     "red": "LEV YASHIN",
@@ -25,7 +25,7 @@
   "category": "Sport",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-11-01",
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-20",
   "image": {
     "src": "/articles/lev-yashin-ballon-dor-1963-ai-editorial.webp",
     "alt": "Retrato editorial con IA que representa a Lev Yashin con camiseta oscura y un balón de cuero; no es una fotografía de archivo autenticada."
@@ -33,7 +33,7 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "El fútbol recuerda muchas paradas brillantes. Lev Yashin posee una distinción que supera cualquier acción: ganó el Balón de Oro masculino en 1963 y sigue siendo el único portero en su palmarés. En un premio tan asociado al gol, su victoria puso en primer plano el arte de evitarlo. [Fuente: www.uefa.com](https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/)"
+      "text": "Lev Yashin ganó el Balón de Oro masculino en 1963 y sigue siendo el único portero que ha conseguido el premio. En un premio tan asociado al gol, su victoria puso en primer plano el arte de evitarlo. [Fuente: www.uefa.com](https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/)"
     },
     {
       "type": "heading",
@@ -49,11 +49,11 @@
     },
     {
       "type": "heading",
-      "text": "Dinamo de Moscú, Melbourne y Europa"
+      "text": "El Balón de Oro 1963 y los títulos internacionales"
     },
     {
       "type": "paragraph",
-      "text": "Yashin desarrolló su carrera de club sénior en el Dinamo de Moscú. Olympedia registra cinco ligas soviéticas y tres Copas de la URSS, además del oro olímpico con la Unión Soviética en Melbourne en 1956. Esos logros sitúan su premio individual en una trayectoria colectiva de equipos que ganaban grandes competiciones. [Fuente: www.olympedia.org](https://www.olympedia.org/athletes/27585)"
+      "text": "Yashin desarrolló su carrera de club sénior en el Dinamo de Moscú. Olympedia registra cinco ligas soviéticas y tres Copas de la URSS, además del oro olímpico con [la Unión Soviética](/articles/soviet-union-history-rise-collapse-ussr/) en Melbourne en 1956. Esos logros sitúan su premio individual en una trayectoria colectiva de equipos que ganaban grandes competiciones. [Fuente: www.olympedia.org](https://www.olympedia.org/athletes/27585) France Football fecha su premio el 17 de diciembre de 1963. Su clasificación publicada le concede 73 puntos, por delante de Gianni Rivera y Jimmy Greaves. [France Football: el premio de 1963](https://ballondor.com/news/posts/the-only-goalkeeper-in-the-pantheon)"
     },
     {
       "type": "paragraph",
@@ -100,6 +100,10 @@
     {
       "label": "Fuente: www.uefa.com",
       "url": "https://www.uefa.com/ballondor/news/0292-1c2705cb8fd5-8f2dcb111a8a-1000--ballon-d-or-how-are-the-winners-decided/"
+    },
+    {
+      "label": "France Football: el premio de 1963",
+      "url": "https://ballondor.com/news/posts/the-only-goalkeeper-in-the-pantheon"
     }
   ],
   "faq": [

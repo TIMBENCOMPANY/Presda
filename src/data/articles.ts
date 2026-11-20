@@ -33598,9 +33598,9 @@ export const articles: Article[] = [
     id: "136",
     slug: "ethiopian-empire-700-years-kings-faith-resistance",
     title: "THE ETHIOPIAN EMPIRE: 700 YEARS OF KINGS, FAITH AND RESISTANCE",
-    seoTitle: "Ethiopian Empire History: 700 Years of Kings, Faith and Resistance",
+    seoTitle: "Ethiopian Empire: History, Rulers and the Fall in 1974",
     metaDescription:
-      "Trace the Ethiopian Empire from the Solomonic restoration and Adal war to Adwa, the Italian occupation, Haile Selassie and the 1974 revolution.",
+      "From Yekuno Amlak in 1270 to Haile Selassie’s overthrow in 1974: the Solomonic dynasty, Adwa, Italian occupation and the empire’s legacy.",
     schemaType: "Article",
     headlineHighlights: {
       red: "ETHIOPIAN EMPIRE",
@@ -33610,15 +33610,15 @@ export const articles: Article[] = [
       "From the Solomonic restoration of 1270 to Adwa, Italian occupation and the fall of Haile Selassie, Ethiopia's imperial history was shaped by faith, expansion, regional rivalry and determined resistance.",
     category: "History",
     date: "2026-09-28",
-    lastUpdated: "2026-09-28",
+    lastUpdated: "2026-11-20",
     author: "PRESDA Editorial",
     coverImage: "/articles/ethiopian-emperor-receiving-tribute.png",
     coverAlt:
       "Editorial illustration of an Ethiopian emperor receiving tribute in a richly decorated highland court",
     homepageImagePosition: "50% 50%",
     content: [
-      "The Ethiopian Empire was not simply a kingdom that had existed unchanged since antiquity, and Ethiopia was not simply a country that was never colonized. The imperial state that took shape under the Solomonic dynasty after 1270 survived repeated wars, regional fragmentation and foreign invasion. Italy occupied Ethiopia from 1936 to 1941, but the occupation was relatively brief and followed a long history of Ethiopian sovereignty, state-building and resistance. The empire ended in 1974, when a military revolution deposed Emperor Haile Selassie.",
-      "Its history reaches back to Aksum, yet Aksum and the later Ethiopian Empire were different political formations. Aksum was a first-millennium kingdom centered in northern Ethiopia and Eritrea. The medieval and modern empire emerged through new dynasties, capitals, military systems and relationships among Christian highland societies, Muslim states and peoples speaking many languages. The distinction matters because continuity existed, but no single state ruled the same territory for 2,000 years.",
+      "The Ethiopian Empire was a monarchy in the Horn of Africa, conventionally dated from Yekuno Amlak’s accession in 1270 to Haile Selassie’s overthrow in 1974. Italy occupied Ethiopia from 1936 to 1941, but the occupation was relatively brief and followed a long history of Ethiopian sovereignty, state-building and resistance. [Library of Congress: Ethiopia](https://tile.loc.gov/storage-services/master/frd/copr/Ethiopia.pdf)",
+      "Its history reaches back to [Aksum](/articles/kingdom-aksum-africa-trade-faith/), yet Aksum and the later Ethiopian Empire were different political formations. Aksum was a first-millennium kingdom centered in northern Ethiopia and Eritrea. The medieval and modern empire emerged through new dynasties, capitals, military systems and relationships among Christian highland societies, Muslim states and peoples speaking many languages. The distinction matters because continuity existed, but no single state ruled the same territory for 2,000 years.",
       "## AKSUM AND THE ROOTS OF CHRISTIAN ETHIOPIA",
       "Aksum flourished from roughly the first century BCE into the first millennium CE, controlling Red Sea trade and maintaining links with Arabia, the eastern Mediterranean and the Nile world. Its rulers minted coins, erected monumental stelae and adopted Christianity in the fourth century under King Ezana. Aksum's decline shifted political power southward and inland, but Christian institutions, Ge'ez literature and memories of Aksum remained powerful resources for later rulers. Archaeology and written traditions point to both continuity and transformation rather than an unbroken imperial government. [Smithsonian Libraries: Foundations of an African civilisation](https://www.si.edu/object/siris_sil_993207)",
       "The Zagwe dynasty ruled much of the Christian highlands before 1270. Its most famous legacy is the rock-hewn church complex at Lalibela, but later Solomonic chronicles presented Zagwe rule as an interruption that had to be corrected. Modern historians treat that dynastic transition with more care, recognizing that political legitimacy was built through competing memories as well as military power.",
@@ -34498,9 +34498,9 @@ export const articles: Article[] = [
     id: "142",
     slug: "kingdom-hungary-thousand-years-heart-europe",
     title: "THE KINGDOM OF HUNGARY: A THOUSAND YEARS AT THE HEART OF EUROPE",
-    seoTitle: "Kingdom of Hungary History: A Thousand Years in Central Europe",
+    seoTitle: "Kingdom of Hungary: Origins and the End of the Monarchy",
     metaDescription:
-      "Trace Hungary from the Magyar arrival and Saint Stephen through Mohács, Ottoman and Habsburg rule, 1848, Austria-Hungary and the 1946 end of the kingdom.",
+      "From Stephen I’s kingdom around 1000 to the republic proclaimed in 1946: medieval Hungary, Mohács, Habsburg rule and the kingdom without a king.",
     schemaType: "Article",
     headlineHighlights: {
       red: "KINGDOM OF HUNGARY",
@@ -34510,16 +34510,16 @@ export const articles: Article[] = [
       "Hungary's history runs from Magyar state formation and Saint Stephen to the Ottoman frontier, Habsburg rule, Austria-Hungary and the kingless kingdom of 1920–1946.",
     category: "History",
     date: "2026-09-29",
-    lastUpdated: "2026-09-29",
+    lastUpdated: "2026-11-20",
     author: "PRESDA Editorial",
     coverImage: "/articles/kingdom-hungary-regal-king-danube.png",
     coverAlt:
       "Editorial illustration of a Hungarian king overlooking the Danube and a historic European city",
     homepageImagePosition: "50% 50%",
     content: [
-      "The Kingdom of Hungary was one of Central Europe's most durable political traditions, but it was never politically unchanged for a thousand years. It began as a Christian kingdom formed from Magyar-led state building in the Carpathian Basin, became a medieval regional power, divided after the Ottoman victory at Mohács, and was later transformed under Habsburg rule and within Austria-Hungary. After the First World War, a Hungarian state still called a kingdom existed from 1920 to 1946 without a king. Each period had different borders, institutions and relationships with neighboring peoples.",
+      "The Kingdom of Hungary emerged under Stephen I around 1000. Its final restoration ended with the proclamation of a republic on 1 February 1946. It began as a Christian kingdom formed from Magyar-led state building in the Carpathian Basin, became a medieval regional power, divided after the Ottoman victory at Mohács, and was later transformed under Habsburg rule and within Austria-Hungary. After the First World War, a Hungarian state still called a kingdom existed from 1920 to 1946 without a king. Each period had different borders, institutions and relationships with neighboring peoples. [Library of Congress: Hungary](https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf)",
       "Hungary's location helps explain this changing history. The basin sits between Central Europe, the Balkans and the routes toward the Black Sea, with the Danube linking regions that were often rivals. Control of the plain could bring wealth and strategic influence, but it also exposed the kingdom to steppe migrations, Mongol armies, Habsburg competition and Ottoman expansion.",
-      "## MAGYAR ARRIVAL AND THE RISE OF A CHRISTIAN KINGDOM",
+      "## Stephen I and the founding of the Kingdom of Hungary",
       "Magyar-speaking groups entered the Carpathian Basin in the late ninth century, traditionally dated to around 895. They joined a landscape already inhabited by Slavic, Avar, Germanic and other communities and shaped by the legacies of the Roman frontier. The settlement was not the creation of an empty homeland. It involved warfare, alliances, migration and the gradual formation of a ruling federation that extended authority across the basin.",
       "Prince Géza, who ruled in the later tenth century, began redirecting the dynasty toward Latin Christianity and diplomatic ties with neighboring Christian powers. His son Stephen defeated rival claimants and consolidated authority. Stephen's coronation took place around Christmas 1000 or on 1 January 1001, depending on calendar and interpretation. The ceremony represented Hungary's entry into the Western Christian political order, while Stephen's laws, dioceses, counties and royal officials turned a federation into a more centralized kingdom. [Hungarian National Museum: Stephen I's coin and state formation](https://mnm.hu/en/en/collection/coins-collection/collection-b)",
       "Stephen I created bishoprics and archbishoprics, supported monasteries and required local communities to participate in the Christian institutional order. Conversion was uneven and could be coercive, but the kingdom incorporated older customs and regional elites rather than erasing them. The Árpád dynasty that followed Stephen ruled until 1301, with periods of succession conflict, territorial expansion and negotiation with nobles and church authorities.",
@@ -34527,7 +34527,7 @@ export const articles: Article[] = [
       "Medieval Hungary was governed through royal counties, castles and a network of officials who collected revenues, administered justice and organized military service. Counties were not identical to modern administrative districts. Their boundaries and powers changed, and noble families, churches and towns gained privileges that limited direct royal control. The Holy Crown became a powerful symbol of the kingdom's continuity, even as the practical balance between king, nobility and estates shifted.",
       "King Andrew II's extensive grants to nobles and military orders contributed to political conflict. In 1222, pressure from the nobility produced the Golden Bull, a charter that confirmed privileges, limited some royal actions and included a resistance clause. It was not a modern constitution or a declaration of equal rights, but it became an important statement about lawful kingship and the political standing of the nobility.",
       "## MONGOL INVASION AND BÉLA IV'S RECONSTRUCTION",
-      "Mongol armies invaded Hungary in 1241. King Béla IV's forces were defeated at the Battle of Mohi on 11 April, and the invaders devastated large areas through raids, massacres and the destruction of settlements. The scale of demographic loss varied by region and remains debated; it is safer to describe the invasion as a catastrophic rupture than to repeat one fixed national percentage. The Mongols withdrew in 1242 after the death of Ögedei Khan and the resulting succession crisis. [Hungarian Institute of National Archaeology: the 1241 campaign](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)",
+      "[Mongol armies](/articles/mongol-empire-genghis-khan-conquests-legacy/) invaded Hungary in 1241. King Béla IV's forces were defeated at the Battle of Mohi on 11 April, and the invaders devastated large areas through raids, massacres and the destruction of settlements. The scale of demographic loss varied by region and remains debated; it is safer to describe the invasion as a catastrophic rupture than to repeat one fixed national percentage. The Mongols withdrew in 1242 after the death of Ögedei Khan and the resulting succession crisis. [Hungarian Institute of National Archaeology: the 1241 campaign](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)",
       "Béla IV returned to a damaged kingdom and pursued reconstruction. He encouraged towns, invited settlers, reorganized royal revenues and required stronger fortifications. Stone castles replaced or supplemented many vulnerable earth-and-timber defenses. This rebuilding changed the political geography of Hungary and earned Béla the description of a second founder, although recovery was uneven and social costs remained high.",
       "## ANGEVINS, SIGISMUND AND MATTHIAS CORVINUS",
       "After the Árpád line ended in 1301, the Angevin Charles I Robert defeated rival claimants and restored royal authority. His son Louis I expanded Hungary's influence toward the Balkans, Poland and the Adriatic while supporting towns, mining and coinage. The Angevin period made Hungary a major regional power, but its rulers governed through alliances and personal unions rather than a single centralized empire.",
@@ -34569,35 +34569,39 @@ export const articles: Article[] = [
     quote:
       "> Hungary's thousand-year history is a succession of different kingdoms and constitutional orders shaped by the Danube, the steppe and the Ottoman frontier.",
     references: [
-      {
-        name: "Hungarian National Museum: Stephen I and state formation",
-        url: "https://mnm.hu/en/en/collection/coins-collection/collection-b"
-      },
-      {
-        name: "Hungarian National Museum: Árpádian period",
-        url: "https://mnm.hu/en/en/exhibitions/history-hungary-part-i/arpadian-period"
-      },
-      {
-        name: "Hungarian Institute of National Archaeology: the Battle of Muhi",
-        url: "https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata"
-      },
-      {
-        name: "Hungarian National Archives: Mohács 500",
-        url: "https://mohacs500.mnl.gov.hu/"
-      },
-      {
-        name: "United States Office of the Historian: Hungary",
-        url: "https://history.state.gov/countries/hungary"
-      },
-      {
-        name: "Hungarian Academy repository: state form from 1920 to 1944",
-        url: "https://real.mtak.hu/103310/"
-      },
-      {
-        name: "Hungarian National Museum: King Louis I",
-        url: "https://mnm.hu/en/exhibitions/treasures-king-louis-i-great-hungary"
-      }
-    ],
+  {
+    "name": "Hungarian National Museum: Stephen I and state formation",
+    "url": "https://mnm.hu/en/en/collection/coins-collection/collection-b"
+  },
+  {
+    "name": "Hungarian National Museum: Árpádian period",
+    "url": "https://mnm.hu/en/en/exhibitions/history-hungary-part-i/arpadian-period"
+  },
+  {
+    "name": "Hungarian Institute of National Archaeology: the Battle of Muhi",
+    "url": "https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata"
+  },
+  {
+    "name": "Hungarian National Archives: Mohács 500",
+    "url": "https://mohacs500.mnl.gov.hu/"
+  },
+  {
+    "name": "United States Office of the Historian: Hungary",
+    "url": "https://history.state.gov/countries/hungary"
+  },
+  {
+    "name": "Hungarian Academy repository: state form from 1920 to 1944",
+    "url": "https://real.mtak.hu/103310/"
+  },
+  {
+    "name": "Hungarian National Museum: King Louis I",
+    "url": "https://mnm.hu/en/exhibitions/treasures-king-louis-i-great-hungary"
+  },
+  {
+    "name": "Library of Congress: Hungary",
+    "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf"
+  }
+],
     tags: [
       "Kingdom of Hungary",
       "Hungary history",

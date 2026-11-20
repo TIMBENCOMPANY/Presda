@@ -12,8 +12,8 @@
   "title": "LE ROYAUME DE HONGRIE : MILLE ANS AU CŒUR DE L'EUROPE",
   "excerpt": "L'histoire de la Hongrie s'étend de la formation de l'État magyar et de saint Étienne jusqu'à la frontière ottomane, la domination des Habsbourg, l'Autriche-Hongrie et le royaume sans roi de 1920-1946.",
   "quote": "> L'histoire millénaire de la Hongrie est une succession de différents royaumes et ordres constitutionnels façonnés par le Danube, la steppe et la frontière ottomane.",
-  "seoTitle": "Histoire du Royaume de Hongrie : mille ans en Europe centrale",
-  "description": "Suivez la Hongrie depuis l'arrivée des Magyars et Saint Étienne en passant par Mohács, la domination ottomane et habsbourgeoise, 1848, l'Autriche-Hongrie et la fin du royaume en 1946.",
+  "seoTitle": "Royaume de Hongrie : des origines à la république de 1946",
+  "description": "Du royaume d’Étienne Ier vers l’an 1000 à la république de 1946 : Hongrie médiévale, Mohács, Habsbourg et royaume sans roi.",
   "keywords": [
     "Royaume de Hongrie",
     "Histoire de la Hongrie",
@@ -32,7 +32,7 @@
   "category": "History",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-09-29",
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-11-20",
   "image": {
     "src": "/articles/kingdom-hungary-regal-king-danube.png",
     "alt": "Illustration éditoriale d'un roi hongrois surplombant le Danube et une ville européenne historique"
@@ -40,7 +40,7 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "Le Royaume de Hongrie était l'une des traditions politiques les plus durables d'Europe centrale, mais il n'est jamais resté politiquement inchangé pendant mille ans. Il a commencé comme un royaume chrétien formé à partir de la construction d'un État dirigé par les Magyars dans le bassin des Carpates, est devenu une puissance régionale médiévale, s’est divisé après la victoire ottomane à Mohács, puis a été transformé sous la domination des Habsbourg et au sein de l'Autriche-Hongrie. Après la Première Guerre mondiale, un État hongrois encore appelé royaume existait de 1920 à 1946 sans roi. Chaque période avait des frontières, des institutions et des relations avec les peuples voisins différentes."
+      "text": "Le royaume de Hongrie s’est constitué sous Étienne Ier vers l’an 1000. Sa dernière restauration s’est achevée avec la proclamation de la république, le 1er février 1946. Il a commencé comme un royaume chrétien formé à partir de la construction d'un État dirigé par les Magyars dans le bassin des Carpates, est devenu une puissance régionale médiévale, s’est divisé après la victoire ottomane à Mohács, puis a été transformé sous la domination des Habsbourg et au sein de l'Autriche-Hongrie. Après la Première Guerre mondiale, un État hongrois encore appelé royaume existait de 1920 à 1946 sans roi. Chaque période avait des frontières, des institutions et des relations avec les peuples voisins différentes. [Bibliothèque du Congrès : Hongrie](https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf)"
     },
     {
       "type": "paragraph",
@@ -48,7 +48,7 @@
     },
     {
       "type": "heading",
-      "text": "L’ARRIVÉE DES MAGYARS ET LA MONTÉE D'UN ROYAUME CHRÉTIEN"
+      "text": "Étienne Ier et la naissance du royaume de Hongrie"
     },
     {
       "type": "paragraph",
@@ -80,7 +80,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les armées mongoles envahirent la Hongrie en 1241. Les forces du roi Béla IV furent vaincues à la bataille de Mohi le 11 avril et les envahisseurs dévastèrent de vastes zones par des raids, des massacres et la destruction de localités. L'ampleur de la perte démographique varie selon les régions et reste controversée ; il est plus prudent de décrire l’invasion comme une rupture catastrophique que de répéter un pourcentage national fixe. Les Mongols se retirèrent en 1242 après la mort d'Ögedei Khan et la crise de succession qui en résulta. [Institut hongrois d'archéologie nationale : la campagne 1241](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)"
+      "text": "[Les armées mongoles](/articles/mongol-empire-genghis-khan-conquests-legacy/) envahirent la Hongrie en 1241. Les forces du roi Béla IV furent vaincues à la bataille de Mohi le 11 avril et les envahisseurs dévastèrent de vastes zones par des raids, des massacres et la destruction de localités. L'ampleur de la perte démographique varie selon les régions et reste controversée ; il est plus prudent de décrire l’invasion comme une rupture catastrophique que de répéter un pourcentage national fixe. Les Mongols se retirèrent en 1242 après la mort d'Ögedei Khan et la crise de succession qui en résulta. [Institut hongrois d'archéologie nationale : la campagne 1241](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)"
     },
     {
       "type": "paragraph",
@@ -259,6 +259,10 @@
     {
       "label": "Musée national hongrois : Roi Louis Ier",
       "url": "https://mnm.hu/en/exhibitions/treasures-king-louis-i-great-hungary"
+    },
+    {
+      "label": "Bibliothèque du Congrès : Hongrie",
+      "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf"
     }
   ],
   "faq": [

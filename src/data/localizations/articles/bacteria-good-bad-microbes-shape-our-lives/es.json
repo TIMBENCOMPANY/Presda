@@ -10,8 +10,8 @@
     "terminologyChecked": true
   },
   "title": "Bacterias: los microbios beneficiosos y dañinos que moldean nuestras vidas",
-  "seoTitle": "Bacterias: beneficios, riesgos y su papel en la vida",
-  "description": "Explora las bacterias, el microbioma, los antibióticos y la resistencia, y su papel en los alimentos, los océanos y la vida terrestre.",
+  "seoTitle": "Bacterias: definición, formas y ejemplos para entenderlas",
+  "description": "¿Qué son las bacterias? Conoce su estructura, cómo se diferencian de los virus y su papel en los alimentos, la microbiota y el medio ambiente.",
   "excerpt": "Explora las bacterias, el microbioma, los antibióticos y la resistencia, y su papel en los alimentos, los océanos y la vida terrestre.",
   "headlineHighlights": {
     "red": "Bacterias",
@@ -25,7 +25,7 @@
   "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-10-18",
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-20",
   "image": {
     "src": "/articles/bacteria-hero.png",
     "alt": "Ilustración científica con IA de microbios de colores con forma de bastón en un paisaje de apariencia microscópica"
@@ -33,7 +33,7 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "Una cucharada de yogur, un puñado de tierra y la superficie de un diente pertenecen a mundos distintos. Sin embargo, todos están modelados por bacterias. Estos organismos transforman alimentos, reciclan nutrientes y sostienen comunidades vivas. Algunos también causan enfermedades devastadoras. Llamarlos enemigos o aliados resulta insuficiente: importa qué bacteria está presente, dónde vive, qué hace y cómo responde su entorno."
+      "text": "Las bacterias son organismos unicelulares presentes en el suelo, el agua y los seres vivos. Estos organismos transforman alimentos, reciclan nutrientes y sostienen comunidades vivas. Algunos también causan enfermedades devastadoras. Llamarlos enemigos o aliados resulta insuficiente: importa qué bacteria está presente, dónde vive, qué hace y cómo responde su entorno. [NHGRI: las bacterias](https://www.genome.gov/genetics-glossary/Bacteria)"
     },
     {
       "type": "paragraph",
@@ -41,11 +41,11 @@
     },
     {
       "type": "heading",
-      "text": "¿Qué define a una bacteria?"
+      "text": "¿Qué son las bacterias? Estructura y formas principales"
     },
     {
       "type": "paragraph",
-      "text": "Una célula bacteriana encierra su contenido en una membrana y conserva información genética en el ADN. Los ribosomas fabrican proteínas y las enzimas facilitan las reacciones químicas de la vida. A diferencia de las células humanas, las bacterias carecen de núcleo rodeado por membrana. Su ADN ocupa una región llamada nucleoide; muchas poseen también elementos genéticos menores, los plásmidos. La mayoría tiene una pared con peptidoglucano, aunque excepciones como Mycoplasma aconsejan cautela con las definiciones. Ser pequeña no implica ser químicamente simple. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
+      "text": "Una célula bacteriana encierra su contenido en una membrana y conserva información genética en el [ADN](/articles/human-dna-code-that-builds-us/). Los ribosomas fabrican proteínas y las enzimas facilitan las reacciones químicas de la vida. A diferencia de las células humanas, las bacterias carecen de núcleo rodeado por membrana. Su ADN ocupa una región llamada nucleoide; muchas poseen también elementos genéticos menores, los plásmidos. La mayoría tiene una pared con peptidoglucano, aunque excepciones como Mycoplasma aconsejan cautela con las definiciones. Ser pequeña no implica ser químicamente simple. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
     },
     {
       "type": "paragraph",
@@ -348,7 +348,28 @@
     {
       "label": "www.nobelprize.org",
       "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+    },
+    {
+      "label": "NHGRI: las bacterias",
+      "url": "https://www.genome.gov/genetics-glossary/Bacteria"
+    },
+    {
+      "label": "NCI: virus",
+      "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/virus"
     }
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "¿Qué son las bacterias?",
+      "answer": "Las bacterias son organismos de una sola célula que viven en ambientes diversos, como el suelo, el agua y el cuerpo humano."
+    },
+    {
+      "question": "¿Todas las bacterias son perjudiciales?",
+      "answer": "No. Muchas reciclan nutrientes, fermentan alimentos o mantienen comunidades microbianas. Algunas especies o cepas pueden causar enfermedades."
+    },
+    {
+      "question": "¿En qué se diferencian las bacterias de los virus?",
+      "answer": "Las bacterias son células. Los virus se reproducen dentro de células huésped. Los antibióticos tratan ciertas infecciones bacterianas y no las infecciones virales."
+    }
+  ]
 }

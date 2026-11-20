@@ -3,13 +3,13 @@ export const bacteriaArticle: Article = {
   "id": "287",
   "slug": "bacteria-good-bad-microbes-shape-our-lives",
   "title": "Bacteria: The Good and Bad Microbes That Shape Our Lives",
-  "seoTitle": "Bacteria: Benefits, Risks and the Microbes Shaping Life",
-  "metaDescription": "Explore bacteria, the human microbiome, antibiotics, resistance and the microbes that shape food, oceans and life on Earth.",
+  "seoTitle": "Bacteria Explained: Definition, Shapes and Useful Examples",
+  "metaDescription": "What are bacteria? Learn how their cells work, how they differ from viruses, and their roles in food, the microbiome and the environment.",
   "excerpt": "Explore bacteria, the human microbiome, antibiotics, resistance and the microbes that shape food, oceans and life on Earth.",
   "category": "Science",
   "schemaType": "Article",
   "date": "2026-10-18",
-  "lastUpdated": "2026-10-18",
+  "lastUpdated": "2026-11-20",
   "author": "PRESDA Editorial",
   "status": "published",
   "readingTime": "14 min read",
@@ -27,10 +27,10 @@ export const bacteriaArticle: Article = {
     "Science"
   ],
   "content": [
-    "A spoonful of yoghurt, a handful of soil and the surface of a tooth belong to different worlds. Yet all are shaped by bacteria. These organisms help transform food, recycle nutrients and maintain living communities. Some also cause devastating disease. Their importance cannot be captured by calling them either enemies or allies: what matters is which bacterium is present, where it is living, what it is doing and how its surroundings respond.",
+    "Bacteria are single-celled organisms found in soil, water and living bodies. These organisms help transform food, recycle nutrients and maintain living communities. Some also cause devastating disease. Their importance cannot be captured by calling them either enemies or allies: what matters is which bacterium is present, where it is living, what it is doing and how its surroundings respond. [NHGRI: bacteria](https://www.genome.gov/genetics-glossary/Bacteria)",
     "Bacteria are living cells, not miniature viruses. They have evolved for billions of years and developed ways to exploit environments ranging from sunlit seawater to oxygen-poor intestines. Understanding them changes the scale at which we see ourselves. Our bodies are habitats; a healthy ecosystem depends on microscopic processes; and an antibiotic prescription can exert evolutionary pressure. The story is both intimate and planetary, connecting daily life to the history of Earth's atmosphere.",
-    "## What makes a bacterium a bacterium?",
-    "A bacterial cell encloses its contents within a membrane and carries genetic information in DNA. Ribosomes manufacture proteins, while enzymes support the chemical reactions of life. Unlike human cells, bacteria lack a membrane-bound nucleus. Their DNA occupies a region called the nucleoid, and many also carry smaller genetic elements called plasmids. Most have a cell wall containing peptidoglycan, although exceptions such as Mycoplasma show why biological definitions need care. A bacterium is compact, but compact does not mean chemically unsophisticated. [NCBI: bacterial structure](https://www.ncbi.nlm.nih.gov/books/NBK8477/)",
+    "## What are bacteria? Cell structure and main shapes",
+    "A bacterial cell encloses its contents within a membrane and carries genetic information in [DNA](/articles/human-dna-code-that-builds-us/). Ribosomes manufacture proteins, while enzymes support the chemical reactions of life. Unlike human cells, bacteria lack a membrane-bound nucleus. Their DNA occupies a region called the nucleoid, and many also carry smaller genetic elements called plasmids. Most have a cell wall containing peptidoglycan, although exceptions such as Mycoplasma show why biological definitions need care. A bacterium is compact, but compact does not mean chemically unsophisticated. [NCBI: bacterial structure](https://www.ncbi.nlm.nih.gov/books/NBK8477/)",
     "The familiar shapes are spheres, rods and spirals, sometimes arranged in chains, clusters or filaments. Shape is useful for description but cannot alone identify a species or predict danger. Some bacteria move using flagella; others attach to surfaces using specialized structures. Capsules and other outer layers can influence interactions with hosts and the environment. The Gram stain divides many bacteria into groups reflecting differences in their cell envelopes. It is a laboratory clue, not a complete map of bacterial diversity. [NCBI: bacterial cell envelopes](https://www.ncbi.nlm.nih.gov/books/NBK1945/)",
     "## Bacteria, viruses and archaea are different",
     "Viruses depend on host cells to produce new virus particles. They do not possess the independent cellular machinery found in bacteria. This distinction explains why antibiotics that target bacterial structures or processes do not treat viral infections such as influenza. A symptom such as a cough does not reveal the cause by itself: different organisms can produce similar illnesses, and diagnosis determines whether a particular treatment is useful. Describing every microscopic threat as a bacterium confuses both biology and medicine. [CDC: antibiotics and viruses](https://www.cdc.gov/antibiotic-use/about/)",
@@ -78,126 +78,147 @@ export const bacteriaArticle: Article = {
     "Important questions remain. Which community changes cause disease, rather than accompany it? How reliably can a laboratory result predict behaviour in a living ecosystem? Which organisms and functions remain missing from our surveys? DNA reveals potential, but activity depends on gene expression and environment. Better answers will combine cultivation, imaging, chemistry, sequencing and carefully designed experiments. Bacteria deserve neither blanket fear nor blanket celebration. They deserve the close attention appropriate to organisms that help make this planet habitable and sometimes make human life precarious."
   ],
   "references": [
-    {
-      "name": "NCBI: bacterial structure",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK8477/"
-    },
-    {
-      "name": "NCBI: bacterial cell envelopes",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1945/"
-    },
-    {
-      "name": "CDC: appropriate antibiotic use",
-      "url": "https://www.cdc.gov/antibiotic-use/about/"
-    },
-    {
-      "name": "NCBI: Archaea",
-      "url": "https://www.ncbi.nlm.nih.gov/mesh/68001105"
-    },
-    {
-      "name": "NIH: our microbial menagerie",
-      "url": "https://www.nigms.nih.gov/biobeat/2015/04/our-microbial-menagerie"
-    },
-    {
-      "name": "Nature Communications: ancient microbial environments",
-      "url": "https://www.nature.com/articles/s41467-021-21323-z"
-    },
-    {
-      "name": "Nature: interpreting early microfossils",
-      "url": "https://www.nature.com/articles/nature08793"
-    },
-    {
-      "name": "NCBI: bacterial genetics",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK7908/"
-    },
-    {
-      "name": "CDC: E. coli",
-      "url": "https://www.cdc.gov/ecoli/about/"
-    },
-    {
-      "name": "WHO: tuberculosis",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
-    },
-    {
-      "name": "CDC: Salmonella",
-      "url": "https://www.cdc.gov/salmonella/about/"
-    },
-    {
-      "name": "NIH: the human microbiome",
-      "url": "https://www.nigms.nih.gov/biobeat/tag/microbes"
-    },
-    {
-      "name": "Nature Reviews Microbiology: short-chain fatty acids",
-      "url": "https://www.nature.com/articles/s41579-025-01183-w"
-    },
-    {
-      "name": "Nature: confounding in microbiome studies",
-      "url": "https://www.nature.com/articles/s41586-020-2881-9"
-    },
-    {
-      "name": "Nature Chemical Biology: evidence and causality",
-      "url": "https://www.nature.com/articles/s41589-021-00861-z"
-    },
-    {
-      "name": "NCCIH: probiotics, usefulness and safety",
-      "url": "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
-    },
-    {
-      "name": "Nature Reviews Microbiology: soil microbiomes",
-      "url": "https://www.nature.com/articles/s41579-019-0265-7"
-    },
-    {
-      "name": "Nature Reviews Microbiology: nitrogen cycling",
-      "url": "https://www.nature.com/articles/nrmicro.2018.9"
-    },
-    {
-      "name": "Nature Reviews Microbiology: Prochlorococcus",
-      "url": "https://www.nature.com/articles/nrmicro3378"
-    },
-    {
-      "name": "Nature Reviews Microbiology: the microbial carbon pump",
-      "url": "https://www.nature.com/articles/s41579-024-01018-0"
-    },
-    {
-      "name": "Nature: early oxygen",
-      "url": "https://www.nature.com/articles/nature13068"
-    },
-    {
-      "name": "Nature: oxygen and nitrogen cycling",
-      "url": "https://www.nature.com/articles/nature20826"
-    },
-    {
-      "name": "WHO: antimicrobial resistance",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
-    },
-    {
-      "name": "Nature Reviews Microbiology: the biofilm matrix",
-      "url": "https://www.nature.com/articles/nrmicro2415"
-    },
-    {
-      "name": "Nature Reviews Microbiology: matrix functions",
-      "url": "https://www.nature.com/articles/s41579-022-00791-0"
-    },
-    {
-      "name": "Nature Reviews Microbiology: endospores",
-      "url": "https://www.nature.com/articles/nrmicro2921"
-    },
-    {
-      "name": "Nature Reviews Gastroenterology & Hepatology: fermented foods",
-      "url": "https://www.nature.com/articles/s41575-020-00390-5"
-    },
-    {
-      "name": "NIH: recombinant DNA and insulin",
-      "url": "https://www.nigms.nih.gov/image-gallery/2565"
-    },
-    {
-      "name": "NIH: CRISPR",
-      "url": "https://nigms.nih.gov/biobeat/tag/crispr"
-    },
-    {
-      "name": "Nobel Prize: penicillin",
-      "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/"
-    }
-  ],
-  "faq": []
+  {
+    "name": "NCBI: bacterial structure",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK8477/"
+  },
+  {
+    "name": "NCBI: bacterial cell envelopes",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK1945/"
+  },
+  {
+    "name": "CDC: appropriate antibiotic use",
+    "url": "https://www.cdc.gov/antibiotic-use/about/"
+  },
+  {
+    "name": "NCBI: Archaea",
+    "url": "https://www.ncbi.nlm.nih.gov/mesh/68001105"
+  },
+  {
+    "name": "NIH: our microbial menagerie",
+    "url": "https://www.nigms.nih.gov/biobeat/2015/04/our-microbial-menagerie"
+  },
+  {
+    "name": "Nature Communications: ancient microbial environments",
+    "url": "https://www.nature.com/articles/s41467-021-21323-z"
+  },
+  {
+    "name": "Nature: interpreting early microfossils",
+    "url": "https://www.nature.com/articles/nature08793"
+  },
+  {
+    "name": "NCBI: bacterial genetics",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK7908/"
+  },
+  {
+    "name": "CDC: E. coli",
+    "url": "https://www.cdc.gov/ecoli/about/"
+  },
+  {
+    "name": "WHO: tuberculosis",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+  },
+  {
+    "name": "CDC: Salmonella",
+    "url": "https://www.cdc.gov/salmonella/about/"
+  },
+  {
+    "name": "NIH: the human microbiome",
+    "url": "https://www.nigms.nih.gov/biobeat/tag/microbes"
+  },
+  {
+    "name": "Nature Reviews Microbiology: short-chain fatty acids",
+    "url": "https://www.nature.com/articles/s41579-025-01183-w"
+  },
+  {
+    "name": "Nature: confounding in microbiome studies",
+    "url": "https://www.nature.com/articles/s41586-020-2881-9"
+  },
+  {
+    "name": "Nature Chemical Biology: evidence and causality",
+    "url": "https://www.nature.com/articles/s41589-021-00861-z"
+  },
+  {
+    "name": "NCCIH: probiotics, usefulness and safety",
+    "url": "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
+  },
+  {
+    "name": "Nature Reviews Microbiology: soil microbiomes",
+    "url": "https://www.nature.com/articles/s41579-019-0265-7"
+  },
+  {
+    "name": "Nature Reviews Microbiology: nitrogen cycling",
+    "url": "https://www.nature.com/articles/nrmicro.2018.9"
+  },
+  {
+    "name": "Nature Reviews Microbiology: Prochlorococcus",
+    "url": "https://www.nature.com/articles/nrmicro3378"
+  },
+  {
+    "name": "Nature Reviews Microbiology: the microbial carbon pump",
+    "url": "https://www.nature.com/articles/s41579-024-01018-0"
+  },
+  {
+    "name": "Nature: early oxygen",
+    "url": "https://www.nature.com/articles/nature13068"
+  },
+  {
+    "name": "Nature: oxygen and nitrogen cycling",
+    "url": "https://www.nature.com/articles/nature20826"
+  },
+  {
+    "name": "WHO: antimicrobial resistance",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+  },
+  {
+    "name": "Nature Reviews Microbiology: the biofilm matrix",
+    "url": "https://www.nature.com/articles/nrmicro2415"
+  },
+  {
+    "name": "Nature Reviews Microbiology: matrix functions",
+    "url": "https://www.nature.com/articles/s41579-022-00791-0"
+  },
+  {
+    "name": "Nature Reviews Microbiology: endospores",
+    "url": "https://www.nature.com/articles/nrmicro2921"
+  },
+  {
+    "name": "Nature Reviews Gastroenterology & Hepatology: fermented foods",
+    "url": "https://www.nature.com/articles/s41575-020-00390-5"
+  },
+  {
+    "name": "NIH: recombinant DNA and insulin",
+    "url": "https://www.nigms.nih.gov/image-gallery/2565"
+  },
+  {
+    "name": "NIH: CRISPR",
+    "url": "https://nigms.nih.gov/biobeat/tag/crispr"
+  },
+  {
+    "name": "Nobel Prize: penicillin",
+    "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+  },
+  {
+    "name": "NHGRI: bacteria",
+    "url": "https://www.genome.gov/genetics-glossary/Bacteria"
+  },
+  {
+    "name": "NCI: virus",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/virus"
+  }
+],
+  "faq": [
+  {
+    "question": "What are bacteria?",
+    "answer": "Bacteria are single-celled organisms that live in many environments, including soil, water and the human body."
+  },
+  {
+    "question": "Are all bacteria harmful?",
+    "answer": "No. Many bacteria help recycle nutrients, ferment food or maintain microbial communities. Some species or strains can cause disease."
+  },
+  {
+    "question": "How do bacteria differ from viruses?",
+    "answer": "Bacteria are cells. Viruses reproduce inside host cells. Antibiotics treat certain bacterial infections and do not treat viral infections."
+  }
+]
 };

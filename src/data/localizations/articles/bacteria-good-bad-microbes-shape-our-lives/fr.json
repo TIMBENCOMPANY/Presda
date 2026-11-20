@@ -10,8 +10,8 @@
     "terminologyChecked": true
   },
   "title": "Bactéries : les microbes utiles et dangereux qui façonnent nos vies",
-  "seoTitle": "Bactéries : bienfaits, risques et rôle dans le vivant",
-  "description": "Des bactéries du microbiote aux antibiotiques : découvrez leur rôle dans la santé, les aliments, les océans et la vie sur Terre.",
+  "seoTitle": "Bactéries : définition, formes et exemples pour comprendre",
+  "description": "Que sont les bactéries ? Découvrez leur structure, leurs différences avec les virus et leurs rôles dans les aliments, le microbiote et l’environnement.",
   "excerpt": "Des bactéries du microbiote aux antibiotiques : découvrez leur rôle dans la santé, les aliments, les océans et la vie sur Terre.",
   "headlineHighlights": {
     "red": "Bactéries",
@@ -25,7 +25,7 @@
   "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-10-18",
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-20",
   "image": {
     "src": "/articles/bacteria-hero.png",
     "alt": "Illustration scientifique par IA de microbes colorés en forme de bâtonnets dans un paysage évoquant la microscopie"
@@ -33,7 +33,7 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "Une cuillerée de yaourt, une poignée de terre et la surface d’une dent appartiennent à des univers différents. Pourtant, les bactéries les façonnent tous. Elles transforment les aliments, recyclent les nutriments et entretiennent des communautés vivantes. Certaines provoquent aussi des maladies dévastatrices. Les qualifier d’ennemies ou d’alliées ne suffit donc pas : il faut savoir quelle bactérie est présente, où elle vit, ce qu’elle fait et comment son environnement réagit."
+      "text": "Les bactéries sont des organismes unicellulaires présents dans le sol, l’eau et les êtres vivants. Elles transforment les aliments, recyclent les nutriments et entretiennent des communautés vivantes. Certaines provoquent aussi des maladies dévastatrices. Les qualifier d’ennemies ou d’alliées ne suffit donc pas : il faut savoir quelle bactérie est présente, où elle vit, ce qu’elle fait et comment son environnement réagit. [NHGRI : les bactéries](https://www.genome.gov/genetics-glossary/Bacteria)"
     },
     {
       "type": "paragraph",
@@ -41,11 +41,11 @@
     },
     {
       "type": "heading",
-      "text": "Qu’est-ce qui définit une bactérie ?"
+      "text": "Que sont les bactéries ? Structure et principales formes"
     },
     {
       "type": "paragraph",
-      "text": "Une cellule bactérienne renferme son contenu dans une membrane et porte son information génétique dans l’ADN. Ses ribosomes fabriquent des protéines, tandis que des enzymes permettent les réactions chimiques du vivant. Contrairement aux cellules humaines, les bactéries n’ont pas de noyau entouré d’une membrane. Leur ADN occupe une région appelée nucléoïde ; beaucoup possèdent aussi de petits éléments génétiques, les plasmides. La plupart ont une paroi contenant du peptidoglycane, mais des exceptions comme Mycoplasma rappellent la prudence nécessaire en biologie. Petite ne signifie pas chimiquement rudimentaire. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
+      "text": "Une cellule bactérienne renferme son contenu dans une membrane et porte son information génétique dans [l’ADN](/articles/human-dna-code-that-builds-us/). Ses ribosomes fabriquent des protéines, tandis que des enzymes permettent les réactions chimiques du vivant. Contrairement aux cellules humaines, les bactéries n’ont pas de noyau entouré d’une membrane. Leur ADN occupe une région appelée nucléoïde ; beaucoup possèdent aussi de petits éléments génétiques, les plasmides. La plupart ont une paroi contenant du peptidoglycane, mais des exceptions comme Mycoplasma rappellent la prudence nécessaire en biologie. Petite ne signifie pas chimiquement rudimentaire. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
     },
     {
       "type": "paragraph",
@@ -348,7 +348,28 @@
     {
       "label": "www.nobelprize.org",
       "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+    },
+    {
+      "label": "NHGRI : les bactéries",
+      "url": "https://www.genome.gov/genetics-glossary/Bacteria"
+    },
+    {
+      "label": "NCI : les virus",
+      "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/virus"
     }
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Qu’est-ce qu’une bactérie ?",
+      "answer": "Une bactérie est un organisme constitué d’une seule cellule. Les bactéries vivent dans des milieux variés, dont le sol, l’eau et le corps humain."
+    },
+    {
+      "question": "Toutes les bactéries sont-elles dangereuses ?",
+      "answer": "Non. Beaucoup participent au recyclage des nutriments, à la fermentation des aliments ou aux communautés microbiennes. Certaines espèces ou souches peuvent provoquer des maladies."
+    },
+    {
+      "question": "Quelle est la différence entre bactéries et virus ?",
+      "answer": "Les bactéries sont des cellules. Les virus se multiplient dans des cellules hôtes. Les antibiotiques traitent certaines infections bactériennes et ne traitent pas les infections virales."
+    }
+  ]
 }

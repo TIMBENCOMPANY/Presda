@@ -12,8 +12,8 @@
   "title": "EL REINO DE HUNGRÍA: MIL AÑOS EN EL CORAZÓN DE EUROPA",
   "excerpt": "La historia de Hungría va desde la formación del Estado magiar y San Esteban hasta la frontera otomana, el gobierno de los Habsburgo, Austria-Hungría y el reino sin rey de 1920-1946.",
   "quote": "> La historia milenaria de Hungría es una sucesión de diferentes reinos y órdenes constitucionales moldeados por el Danubio, la estepa y la frontera otomana.",
-  "seoTitle": "Historia del Reino de Hungría: mil años en Europa Central",
-  "description": "Rastree Hungría desde la llegada magiar y San Esteban hasta Mohács, el dominio otomano y Habsburgo, 1848, Austria-Hungría y el fin del reino en 1946.",
+  "seoTitle": "Reino de Hungría: origen, historia y fin de la monarquía",
+  "description": "Del reino de Esteban I hacia el año 1000 a la república de 1946: Hungría medieval, Mohács, los Habsburgo y el reino sin rey.",
   "keywords": [
     "Reino de Hungría",
     "Historia de Hungría",
@@ -32,7 +32,7 @@
   "category": "History",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-09-29",
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-11-20",
   "image": {
     "src": "/articles/kingdom-hungary-regal-king-danube.png",
     "alt": "Ilustración editorial de un rey húngaro con vistas al Danubio y a una histórica ciudad europea"
@@ -40,7 +40,7 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "El Reino de Hungría fue una de las tradiciones políticas más duraderas de Europa Central, pero nunca permaneció políticamente inalterado durante mil años. Comenzó como un reino cristiano formado a partir de la construcción estatal liderada por los magiares en la cuenca de los Cárpatos, se convirtió en una potencia regional medieval, se dividió después de la victoria otomana en Mohács, y más tarde se transformó bajo el dominio de los Habsburgo y dentro de Austria-Hungría. Después de la Primera Guerra Mundial, de 1920 a 1946 existió un Estado húngaro todavía llamado reino sin rey. Cada período tuvo diferentes fronteras, instituciones y relaciones con los pueblos vecinos."
+      "text": "El Reino de Hungría surgió con Esteban I hacia el año 1000. Su última restauración terminó con la proclamación de la república el 1 de febrero de 1946. Comenzó como un reino cristiano formado a partir de la construcción estatal liderada por los magiares en la cuenca de los Cárpatos, se convirtió en una potencia regional medieval, se dividió después de la victoria otomana en Mohács, y más tarde se transformó bajo el dominio de los Habsburgo y dentro de Austria-Hungría. Después de la Primera Guerra Mundial, de 1920 a 1946 existió un Estado húngaro todavía llamado reino sin rey. Cada período tuvo diferentes fronteras, instituciones y relaciones con los pueblos vecinos. [Biblioteca del Congreso: Hungría](https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf)"
     },
     {
       "type": "paragraph",
@@ -48,7 +48,7 @@
     },
     {
       "type": "heading",
-      "text": "LA LLEGADA DE LOS MAGIARES Y EL CRECIMIENTO DE UN REINO CRISTIANO"
+      "text": "Esteban I y el nacimiento del Reino de Hungría"
     },
     {
       "type": "paragraph",
@@ -80,7 +80,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Los ejércitos mongoles invadieron Hungría en 1241. Las fuerzas del rey Béla IV fueron derrotadas en la batalla de Mohi el 11 de abril y los invasores devastaron grandes áreas mediante incursiones, masacres y la destrucción de asentamientos. La escala de la pérdida demográfica varió según la región y sigue siendo objeto de debate; Es más seguro describir la invasión como una ruptura catastrófica que repetir un porcentaje nacional fijo. Los mongoles se retiraron en 1242 tras la muerte de Ögedei Khan y la consiguiente crisis de sucesión. [Instituto Húngaro de Arqueología Nacional: la campaña 1241](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)"
+      "text": "[Los ejércitos mongoles](/articles/mongol-empire-genghis-khan-conquests-legacy/) invadieron Hungría en 1241. Las fuerzas del rey Béla IV fueron derrotadas en la batalla de Mohi el 11 de abril y los invasores devastaron grandes áreas mediante incursiones, masacres y la destrucción de asentamientos. La escala de la pérdida demográfica varió según la región y sigue siendo objeto de debate; Es más seguro describir la invasión como una ruptura catastrófica que repetir un porcentaje nacional fijo. Los mongoles se retiraron en 1242 tras la muerte de Ögedei Khan y la consiguiente crisis de sucesión. [Instituto Húngaro de Arqueología Nacional: la campaña 1241](https://mki.gov.hu/hu/hirek-hu/evfordulok-hu/785-evvel-ezelott-zajlott-a-muhi-csata)"
     },
     {
       "type": "paragraph",
@@ -259,6 +259,10 @@
     {
       "label": "Museo Nacional Húngaro: Rey Luis I",
       "url": "https://mnm.hu/en/exhibitions/treasures-king-louis-i-great-hungary"
+    },
+    {
+      "label": "Biblioteca del Congreso: Hungría",
+      "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/hu/hungarycountryst00bura_0/hungarycountryst00bura_0.pdf"
     }
   ],
   "faq": [
