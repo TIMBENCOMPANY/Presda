@@ -10,8 +10,8 @@
     "terminologyChecked": true
   },
   "title": "NUESTRO SISTEMA SOLAR: EL SOL, OCHO PLANETAS Y MÁS ALLÁ",
-  "seoTitle": "Nuestro sistema solar: el Sol y ocho planetas | PRESDA",
-  "description": "Explora el Sol, los ocho planetas, las lunas oceánicas y los mundos helados, con una tabla comparativa basada en datos de la NASA.",
+  "seoTitle": "Sistema solar: el Sol y los ocho planetas en orden",
+  "description": "Conoce los ocho planetas en orden desde el Sol y compara los rocosos con los gigantes gaseosos y helados. Descubre dónde encajan los planetas enanos.",
   "excerpt": "Explora el Sol, los ocho planetas, las lunas oceánicas y los mundos helados, con una tabla comparativa basada en datos de la NASA.",
   "headlineHighlights": {
     "red": "NUESTRO SISTEMA SOLAR",
@@ -25,7 +25,7 @@
   "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-10-18",
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-20",
   "image": {
     "src": "/articles/solar-hero.png",
     "alt": "Ilustración artística del Sol y los ocho planetas en una alineación comprimida, con asteroides delante; tamaños y distancias no están a escala."
@@ -33,7 +33,7 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "El Sistema Solar es una familia unida por la gravedad: una estrella, ocho planetas, sus lunas e inmensas poblaciones de cuerpos menores. También conserva una historia de transformaciones. El polvo se convirtió en mundos; las colisiones remodelaron superficies; las atmósferas escaparon o se espesaron; la luz alimentó un planeta vivo. Tras el orden aparente de los esquemas escolares existe un entorno dinámico cuyo pasado reconstruimos mediante rocas, luz, mediciones de sondas y modelos físicos."
+      "text": "El sistema solar está formado por el Sol y los cuerpos ligados a él por la gravedad: ocho planetas, sus lunas, planetas enanos, asteroides y cometas. [NASA: datos sobre el sistema solar](https://science.nasa.gov/solar-system/solar-system-facts/) También conserva una historia de transformaciones. El polvo se convirtió en mundos; las colisiones remodelaron superficies; las atmósferas escaparon o se espesaron; la luz alimentó un planeta vivo. Tras el orden aparente de los esquemas escolares existe un entorno dinámico cuyo pasado reconstruimos mediante rocas, luz, mediciones de sondas y modelos físicos."
     },
     {
       "type": "paragraph",

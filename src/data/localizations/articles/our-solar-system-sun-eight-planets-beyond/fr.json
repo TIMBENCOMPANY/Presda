@@ -10,8 +10,8 @@
     "terminologyChecked": true
   },
   "title": "NOTRE SYSTÈME SOLAIRE : LE SOLEIL, HUIT PLANÈTES ET AU-DELÀ",
-  "seoTitle": "Notre Système solaire : Soleil et huit planètes | PRESDA",
-  "description": "Explorez le Soleil, les huit planètes, les lunes océaniques et les mondes glacés, avec un tableau comparatif fondé sur les données de la NASA.",
+  "seoTitle": "Système solaire : le Soleil et les huit planètes dans l’ordre",
+  "description": "Retrouvez les huit planètes dans l’ordre à partir du Soleil, comparez les planètes rocheuses et les géantes, puis découvrez les planètes naines.",
   "excerpt": "Explorez le Soleil, les huit planètes, les lunes océaniques et les mondes glacés, avec un tableau comparatif fondé sur les données de la NASA.",
   "headlineHighlights": {
     "red": "NOTRE SYSTÈME SOLAIRE",
@@ -25,7 +25,7 @@
   "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-10-18",
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-20",
   "image": {
     "src": "/articles/solar-hero.png",
     "alt": "Illustration artistique du Soleil et des huit planètes en alignement rapproché, avec des astéroïdes au premier plan ; tailles et distances non à l’échelle."
@@ -33,7 +33,7 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "Le Système solaire est une famille unie par la gravité : une étoile, huit planètes, leurs lunes et d’immenses populations de petits corps. C’est aussi une histoire de transformations. La poussière est devenue des mondes ; les collisions ont remodelé leurs surfaces ; les atmosphères se sont échappées ou épaissies ; la lumière a nourri une planète vivante. Derrière l’ordre apparent des schémas scolaires existe un environnement dynamique, dont nous reconstituons le passé grâce aux roches, à la lumière, aux sondes et aux modèles physiques."
+      "text": "Le Système solaire réunit le Soleil et les corps que sa gravité retient autour de lui : huit planètes, leurs lunes, des planètes naines, des astéroïdes et des comètes. [NASA : le Système solaire](https://science.nasa.gov/solar-system/solar-system-facts/) C’est aussi une histoire de transformations. La poussière est devenue des mondes ; les collisions ont remodelé leurs surfaces ; les atmosphères se sont échappées ou épaissies ; la lumière a nourri une planète vivante. Derrière l’ordre apparent des schémas scolaires existe un environnement dynamique, dont nous reconstituons le passé grâce aux roches, à la lumière, aux sondes et aux modèles physiques."
     },
     {
       "type": "paragraph",
