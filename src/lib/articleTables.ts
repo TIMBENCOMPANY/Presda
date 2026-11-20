@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[CAREERS5_547]]": {
+    "caption": "Levi McConaughey: premieres and releases in order",
+    "headers": [
+      "Milestone",
+      "Verified context"
+    ],
+    "rows": [
+      [
+        "September 2025, Toronto",
+        "The Lost Bus festival premiere"
+      ],
+      [
+        "October 3, 2025",
+        "The Lost Bus streaming launch"
+      ],
+      [
+        "November 19, 2026",
+        "New film’s Los Angeles premiere"
+      ],
+      [
+        "November 25, 2026",
+        "Scheduled Apple TV release"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[CAREERS5_548]]": {
+    "caption": "Brahim Díaz: official milestones and the new report",
+    "headers": [
+      "Date or record",
+      "Evidence status"
+    ],
+    "rows": [
+      [
+        "January 2019",
+        "Joins Real Madrid, club record"
+      ],
+      [
+        "2020–2023",
+        "AC Milan loan period"
+      ],
+      [
+        "June 2023 statement",
+        "Published end date: June 2027"
+      ],
+      [
+        "November 20, 2026 reports",
+        "June 2031 reported, confirmation pending"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[CAREERS5_549]]": {
+    "caption": "ARCH Motorcycle: the business behind the famous name",
+    "headers": [
+      "Element",
+      "Documented point"
+    ],
+    "rows": [
+      [
+        "2011",
+        "Reeves and Hollinger co-found ARCH"
+      ],
+      [
+        "Manufacturing base",
+        "Hawthorne, California"
+      ],
+      [
+        "Bespoke process",
+        "Design, build and ergonomic fitting"
+      ],
+      [
+        "2025 announcement",
+        "Super Hooligan racing project"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[CAREERS5_550]]": {
+    "caption": "Gerard Piqué: from playing career to creator-led competition",
+    "headers": [
+      "Milestone",
+      "Documented development"
+    ],
+    "rows": [
+      [
+        "2017",
+        "Kosmos founded while still playing"
+      ],
+      [
+        "November 2022",
+        "Barcelona farewell at Camp Nou"
+      ],
+      [
+        "January 2023",
+        "Kings League matches begin"
+      ],
+      [
+        "February 3, 2026",
+        "$63 million funding round announced"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[CAREERS5_551]]": {
+    "caption": "Didier Drogba: football recognition and public commitments",
+    "headers": [
+      "Date",
+      "Documented milestone"
+    ],
+    "rows": [
+      [
+        "2007",
+        "Didier Drogba Foundation created"
+      ],
+      [
+        "19 May 2012",
+        "Chelsea’s first Champions League title"
+      ],
+      [
+        "20 June 2021",
+        "Foundation and 01Talent partnership"
+      ],
+      [
+        "18 October 2021",
+        "WHO Sport and Health appointment"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[SPOTLIGHT5_542]]": {
     "caption": "Peter Hernandez: documented points in the family story",
     "headers": [

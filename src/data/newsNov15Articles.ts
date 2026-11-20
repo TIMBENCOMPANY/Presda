@@ -1,6 +1,503 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "547",
+    "slug": "levi-mcconaughey-hollywood-films-lost-bus-warrior-kid",
+    "title": "LEVI MCCONAUGHEY: MATTHEW MCCONAUGHEY’S SON STEPS INTO THE HOLLYWOOD SPOTLIGHT",
+    "seoTitle": "Levi McConaughey: from The Lost Bus to Way of the Warrior Kid",
+    "metaDescription": "Levi McConaughey’s early acting career spans The Lost Bus and Way of the Warrior Kid. The verified credits, release dates and context behind his Hollywood spotlight.",
+    "excerpt": "Levi McConaughey’s early acting career spans The Lost Bus and Way of the Warrior Kid. The verified credits, release dates and context behind his Hollywood spotlight.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/levi-mcconaughey-hollywood-films-lost-bus-warrior-kid.jpg",
+    "coverAlt": "Supplied original hero of Levi and Matthew McConaughey with a film-festival backdrop, not verified as photography from the November 2026 premiere",
+    "headlineHighlights": {
+      "red": "LEVI MCCONAUGHEY",
+      "gold": "HOLLYWOOD SPOTLIGHT"
+    },
+    "tags": [
+      "LEVI MCCONAUGHEY",
+      "Paparazzi"
+    ],
+    "content": [
+      "Levi McConaughey is entering Hollywood with a famous surname, but his early career is now defined by something more tangible: released screen work and another film on the way. The 18-year-old son of Matthew McConaughey and Camila Alves attended the Los Angeles premiere of Way of the Warrior Kid on November 19, 2026, according to PEOPLE’s report the following morning. [PEOPLE: November 19 premiere appearance, reported November 20](https://people.com/matthew-mcconaughey-children-livingston-and-vida-support-brother-levi-at-way-of-the-warrior-kid-premiere-12266745)",
+      "The appearance comes after his supporting performance in The Lost Bus, released in 2025. Apple lists him in the cast of Way of the Warrior Kid, which is scheduled to arrive globally on Apple TV on November 25. That makes the current moment a second step in a screen career, with a public premiere preceding the new film’s general availability. [Apple: Way of the Warrior Kid trailer and November 25 release](https://www.apple.com/tv-pr/news/2026/10/apple-original-films-unveils-way-of-the-warrior-kid-trailer/)",
+      "[[CAREERS5_547]]",
+      "## Two films, two different kinds of spotlight",
+      "The Lost Bus brought Levi into a production led by his father and America Ferrera, with Paul Greengrass directing. Apple’s September 2025 premiere announcement names him among the supporting cast who attended the Toronto International Film Festival. The film reached select cinemas on September 19 and Apple’s streaming service on October 3 that year. Those are release milestones, separate from the dates a young actor first joins a production. [Apple: The Lost Bus premiere at TIFF, September 2025](https://www.apple.com/tv-pr/news/2025/09/apple-original-films-celebrates-the-world-premiere-of-the-lost-bus-at-the-toronto-international-film-festival/)",
+      "In its contemporary review, the Associated Press identified Levi as Matthew McConaughey’s actual son playing his character’s teenage son, and described the performance as small but effective. That is a specific critical assessment of a supporting role, not evidence of a major lead or a completed artistic identity. For a new actor, even a brief part provides a first public piece of work that can be assessed beyond family resemblance. [AP: contemporary review of The Lost Bus and Levi’s supporting performance](https://apnews.com/article/18471922ec0515e5e6382b2703e9d720)",
+      "### A premiere is not the streaming launch",
+      "Apple’s November 20 premiere announcement confirms Levi among the cast attending the previous evening’s event at AMC The Grove in Los Angeles. It separately specifies November 25 for the global streaming debut. A red-carpet appearance therefore marks the presentation of the new work, while the wider audience must still wait for its release. [Apple: November 20 premiere announcement and November 25 release](https://www.apple.com/tv-pr/news/2026/11/apple-original-films-celebrates-the-world-premiere-of-way-of-the-warrior-kid/)",
+      "The distinction is useful for anyone following an emerging performer. Casting is an employment announcement; a premiere is a public presentation; a theatrical opening and a streaming launch are distribution events. They can occur years apart and in a different order across projects. Levi’s short filmography already shows why a career should be reconstructed from all those stages, rather than one old headline.",
+      "## What Way of the Warrior Kid actually promises",
+      "Apple describes the new film as an adaptation of Jocko Willink’s novel, directed by McG from a screenplay by Will Staples. Jude Hill plays Marc, a boy struggling with bullying and confidence; Chris Pratt plays his uncle Jake, a Navy SEAL recovering from injury. Linda Cardellini plays Marc’s mother. Levi is included in the supporting cast, not identified as the central child protagonist. [Apple: Way of the Warrior Kid trailer and November 25 release](https://www.apple.com/tv-pr/news/2026/10/apple-original-films-unveils-way-of-the-warrior-kid-trailer/)",
+      "The publisher’s premise focuses on resilience and personal discipline rather than simply teaching a child to fight. That gives the film a different framework from the wildfire survival drama of The Lost Bus. It does not, however, establish the size of Levi’s part or how audiences will respond to it. This is a career profile based on credits and announcements, not a review of his unreleased performance.",
+      "## The advantages and pressures of a recognizable name",
+      "A famous parent makes a new actor instantly newsworthy. The same visibility also encourages an unusually early verdict: either a presumed natural successor or someone assumed to be trading entirely on family access. Neither conclusion can be settled by a red-carpet photograph. The professional record remains more modest and more useful: two credited productions, one already released and the next approaching its streaming launch.",
+      "Matthew has offered his own account of how that first opportunity developed. PEOPLE reported his statement at the 2025 Toronto festival that he withheld Levi’s surname when putting him forward for consideration in The Lost Bus. It is an attributed account from a parent involved in the film, not independent proof that an audition eliminated every advantage associated with the family. [PEOPLE: Matthew McConaughey’s account of the audition process](https://people.com/matthew-mcconaughey-son-levi-last-name-audition-lost-bus-toronto-film-festival-11803365)",
+      "The meaningful question is therefore what the younger McConaughey does with an opening, not whether a surname alone can predict a career. Acting alongside established performers creates opportunities to learn working methods; it also exposes the work to comparison. Longevity will require choices and performances that have not happened yet. It would be premature to invent future contracts, earnings or guaranteed stardom.",
+      "## Family support without a manufactured private story",
+      "The November premiere coverage describes a public family appearance supporting Levi’s next film. That can be reported without expanding into the private lives of his younger siblings or assigning feelings to people from a single photograph. At 18, Levi is becoming a public performer in his own right; the relevant developments are his work and the occasions on which he presents it. [PEOPLE: November 19 premiere appearance, reported November 20](https://people.com/matthew-mcconaughey-children-livingston-and-vida-support-brother-levi-at-way-of-the-warrior-kid-premiere-12266745)",
+      "PRESDA’s [profile of Ouarzazate’s filmmaking industry](/articles/ouarzazate-morocco-africas-hollywood/) provides a different view of the work and production systems behind screen entertainment. For Levi, the next concrete milestone is November 25. Until that release, the clearest account is also the most interesting: a young actor moving from a small role beside his father into a separate ensemble, with the larger career still to be built."
+    ],
+    "references": [
+      {
+        "name": "Apple: Way of the Warrior Kid trailer and November 25 release",
+        "url": "https://www.apple.com/tv-pr/news/2026/10/apple-original-films-unveils-way-of-the-warrior-kid-trailer/"
+      },
+      {
+        "name": "Apple: The Lost Bus premiere at TIFF, September 2025",
+        "url": "https://www.apple.com/tv-pr/news/2025/09/apple-original-films-celebrates-the-world-premiere-of-the-lost-bus-at-the-toronto-international-film-festival/"
+      },
+      {
+        "name": "PEOPLE: November 19 premiere appearance, reported November 20",
+        "url": "https://people.com/matthew-mcconaughey-children-livingston-and-vida-support-brother-levi-at-way-of-the-warrior-kid-premiere-12266745"
+      },
+      {
+        "name": "AP: contemporary review of The Lost Bus and Levi’s supporting performance",
+        "url": "https://apnews.com/article/18471922ec0515e5e6382b2703e9d720"
+      },
+      {
+        "name": "PEOPLE: Matthew McConaughey’s account of the audition process",
+        "url": "https://people.com/matthew-mcconaughey-son-levi-last-name-audition-lost-bus-toronto-film-festival-11803365"
+      },
+      {
+        "name": "Apple: November 20 premiere announcement and November 25 release",
+        "url": "https://www.apple.com/tv-pr/news/2026/11/apple-original-films-celebrates-the-world-premiere-of-way-of-the-warrior-kid/"
+      }
+    ],
+    "relatedSlugs": [
+      "ouarzazate-morocco-africas-hollywood"
+    ],
+    "faq": [
+      {
+        "question": "Who are Levi McConaughey’s parents?",
+        "answer": "He is the son of actor Matthew McConaughey and Camila Alves. Contemporary November 2026 premiere coverage identifies him as 18."
+      },
+      {
+        "question": "What was Levi McConaughey’s released acting debut?",
+        "answer": "The Lost Bus, released in 2025, preceded Way of the Warrior Kid. The new film’s November 2026 premiere and streaming release mark a later step in his career."
+      },
+      {
+        "question": "Is Levi the lead in Way of the Warrior Kid?",
+        "answer": "Apple names him in the supporting cast. Jude Hill plays Marc, the central child character, alongside Chris Pratt and Linda Cardellini."
+      },
+      {
+        "question": "When is Way of the Warrior Kid released?",
+        "answer": "Apple’s October 27 announcement schedules its global Apple TV debut for November 25, 2026. The November 19 premiere was a separate event."
+      }
+    ],
+    "readingTime": "6 min read"
+  },
+  {
+    "id": "548",
+    "slug": "brahim-diaz-real-madrid-contract-2031-report",
+    "title": "BRAHIM DÍAZ REPORTEDLY AGREES NEW REAL MADRID CONTRACT UNTIL 2031",
+    "seoTitle": "Brahim Díaz’s reported Real Madrid contract to 2031",
+    "metaDescription": "Reports link Brahim Díaz to a Real Madrid deal through June 2031. What the reporting says, what the club has confirmed and how his career reached this point.",
+    "excerpt": "Reports link Brahim Díaz to a Real Madrid deal through June 2031. What the reporting says, what the club has confirmed and how his career reached this point.",
+    "category": "Sport",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/brahim-diaz-real-madrid-contract-2031-report.jpg",
+    "coverAlt": "Supplied original visual of Brahim Díaz signing a document in a Real Madrid setting, not evidence of a verified 2031 contract-signing ceremony",
+    "headlineHighlights": {
+      "red": "BRAHIM DÍAZ",
+      "gold": "REPORTEDLY"
+    },
+    "tags": [
+      "BRAHIM DÍAZ",
+      "Sport"
+    ],
+    "content": [
+      "Brahim Díaz has reportedly agreed a new Real Madrid contract running to June 2031, but the distinction between a reported agreement and an official announcement matters. November 20, 2026 coverage by Le360 attributes the claim to journalist Marcos Benito of El Chiringuito. At the time of this article’s checks, a corresponding Brahim renewal statement was not located in Real Madrid’s official announcements. [Le360: November 20 report attributing the 2031 claim to El Chiringuito](https://sport.le360.ma/football/mercato/real-madrid-brahim-diaz-aurait-signe-jusquen-2031-avec-une-clause-a-un-milliard-deuros_CXSFC2CSJ5CI5F6U3JNBX57MJQ/) [Real Madrid: official announcements checked for confirmation](https://www.realmadrid.com/es-ES/noticias/club/comunicados)",
+      "The report would put the Moroccan international’s long-term future at the club on a firmer footing. It would not guarantee a place in the starting eleven, establish his salary or make every reported financial term official. The reliable starting point is a clearly attributed contract story, read alongside the club’s published record of his career.",
+      "[[CAREERS5_548]]",
+      "## What is reported, and what the club has published",
+      "The latest coverage describes an agreement through June 2031 and says a formal announcement is expected later. That expected announcement should remain a reported next step, not a promised date. The supplied signing image is a preserved editorial visual; it is not independent evidence that a ceremony or the reported contract signing took place. [Le360: November 20 report attributing the 2031 claim to El Chiringuito](https://sport.le360.ma/football/mercato/real-madrid-brahim-diaz-aurait-signe-jusquen-2031-avec-une-clause-a-un-milliard-deuros_CXSFC2CSJ5CI5F6U3JNBX57MJQ/)",
+      "Real Madrid’s June 2023 statement provides an important reference point: it announced Brahim’s return from AC Milan as a player contracted through June 30, 2027. It also recorded his arrival at Madrid in January 2019 and his loan move to Milan in September 2020. Those are explicit club statements, unlike the still-attributed 2031 report. [Real Madrid: June 2023 announcement specifying June 2027](https://www.realmadrid.com/en-US/news/club/announcements/official-announcement-brahim-diaz)",
+      "There is a further reason to avoid presenting the new date as already settled public documentation. AS coverage has referred to an agreement through 2030, including in its November 20 account of Madrid’s renewal programme. Different reports are not interchangeable. A future official statement could resolve that difference; until then, readers should know which source supplies which date. [AS: November 20 coverage referring to an earlier 2030 agreement](https://as.com/futbol/primera/el-madrid-asegura-su-futuro-f202611-n/)",
+      "### A reported release clause is not a market valuation",
+      "The El Chiringuito reporting relayed by Le360 also refers to a €1 billion release clause. That figure should be attributed with the same caution as the end date. It is not a disclosed transfer bid, company-style valuation or a payment Madrid has received. It also provides no reliable basis for inventing the player’s wages or the total cost of the agreement. [Le360: November 20 report attributing the 2031 claim to El Chiringuito](https://sport.le360.ma/football/mercato/real-madrid-brahim-diaz-aurait-signe-jusquen-2031-avec-une-clause-a-un-milliard-deuros_CXSFC2CSJ5CI5F6U3JNBX57MJQ/)",
+      "If June 2031 is confirmed, it would sit four years beyond the June 2027 end date in the club’s published 2023 announcement. That comparison explains the significance without claiming that the paperwork is necessarily a new five-year contract starting on publication day. Signature date, effective date and expiry date are different pieces of information, and not all have been officially released.",
+      "## A career shaped by development away from Madrid",
+      "Brahim’s route was not a straight climb from a Madrid academy into its first team. The club’s official player profile traces his Manchester City background, his first Madrid period in 2019–20, three seasons at Milan from 2020 to 2023 and his return to Spain. The sequence helps explain why retaining him is about an experienced squad member, rather than simply another young arrival. [Real Madrid: official player profile and current-season statistics](https://www.realmadrid.com/en-US/football/first-team/players/brahim-diaz)",
+      "Madrid’s account of his 2023 return highlights Milan’s 2022 Serie A title and the club’s run to the Champions League semi-finals in his final loan season. Playing in a different league gave him a substantial chapter outside the Bernabéu. It also means a contract report in 2026 should be understood against years of senior football, rather than only his latest minutes. [Real Madrid: account of Brahim’s 2023 return and Milan development](https://www.realmadrid.com/en-US/news/football/first-team/latest-news/brahim-diaz-returns-to-real-madrid)",
+      "## Security and selection are separate questions",
+      "The official Madrid profile, checked on November 20, listed nine appearances, 249 minutes and two assists in its 2026–27 global statistics. These are a dated snapshot, not an estimate of his total future contribution. They provide context for why discussion of a long deal can coexist with questions about regular playing time. [Real Madrid: official player profile and current-season statistics](https://www.realmadrid.com/en-US/football/first-team/players/brahim-diaz)",
+      "For a club, retaining an attacker can preserve options across a demanding season. For a player, a longer agreement may offer continuity while leaving the sporting challenge intact. Neither point proves the private reasoning of the negotiators. It is more useful to distinguish the employment relationship from weekly selection than to turn a renewal report into a guarantee of a bigger role.",
+      "## Why the story also matters in Morocco",
+      "Reuters documented Brahim’s inclusion in Morocco’s squad in March 2024 after his decision to represent the national team rather than Spain. That international choice gives his Madrid future a wider audience: Moroccan supporters follow how national-team players develop in elite club environments, even when their club and international roles differ. [Reuters: Morocco selection and international decision, March 2024](https://www.reuters.com/sports/soccer/real-madrids-diaz-represent-morocco-2024-03-13/)",
+      "His journey can be read alongside PRESDA’s [profile of Achraf Hakimi’s rise](/articles/achraf-hakimi-king-of-africa/), another Moroccan international with a major European career. The comparison concerns pathways and public interest, not identical contracts, positions or playing styles. Brahim’s particular question is whether the reported longer commitment will be confirmed in the club’s own words.",
+      "## What would turn the report into confirmation",
+      "The decisive next evidence would be an official Real Madrid announcement or an on-record confirmation from the relevant parties specifying the term. A widely repeated report can be credible without becoming a club communiqué. Repetition alone does not independently verify a date, a clause or an agreed salary.",
+      "For now, the headline can responsibly say that a 2031 deal is reported. The established background is his Madrid and Milan career, his Morocco international status and the older published 2027 term. Keeping those levels of evidence distinct gives readers a clearer football story than a signing headline that runs ahead of the official record."
+    ],
+    "references": [
+      {
+        "name": "Le360: November 20 report attributing the 2031 claim to El Chiringuito",
+        "url": "https://sport.le360.ma/football/mercato/real-madrid-brahim-diaz-aurait-signe-jusquen-2031-avec-une-clause-a-un-milliard-deuros_CXSFC2CSJ5CI5F6U3JNBX57MJQ/"
+      },
+      {
+        "name": "Real Madrid: official announcements checked for confirmation",
+        "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados"
+      },
+      {
+        "name": "Real Madrid: June 2023 announcement specifying June 2027",
+        "url": "https://www.realmadrid.com/en-US/news/club/announcements/official-announcement-brahim-diaz"
+      },
+      {
+        "name": "Real Madrid: official player profile and current-season statistics",
+        "url": "https://www.realmadrid.com/en-US/football/first-team/players/brahim-diaz"
+      },
+      {
+        "name": "Real Madrid: account of Brahim’s 2023 return and Milan development",
+        "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/brahim-diaz-returns-to-real-madrid"
+      },
+      {
+        "name": "AS: November 20 coverage referring to an earlier 2030 agreement",
+        "url": "https://as.com/futbol/primera/el-madrid-asegura-su-futuro-f202611-n/"
+      },
+      {
+        "name": "Reuters: Morocco selection and international decision, March 2024",
+        "url": "https://www.reuters.com/sports/soccer/real-madrids-diaz-represent-morocco-2024-03-13/"
+      }
+    ],
+    "relatedSlugs": [
+      "achraf-hakimi-king-of-africa"
+    ],
+    "faq": [
+      {
+        "question": "Has Real Madrid officially confirmed Brahim Díaz’s 2031 contract here?",
+        "answer": "A corresponding official statement was not located during this article’s November 20 checks. The 2031 claim is attributed to reporting, not presented as a club announcement."
+      },
+      {
+        "question": "Who is the reported source of the 2031 agreement?",
+        "answer": "Le360’s November 20 coverage attributes it to Marcos Benito of El Chiringuito. Earlier AS coverage has referred to 2030, making source attribution important."
+      },
+      {
+        "question": "What did Real Madrid’s earlier official statement say?",
+        "answer": "Its June 2023 announcement said Brahim returned from AC Milan as a Madrid player through June 30, 2027."
+      },
+      {
+        "question": "Is the reported €1 billion clause his market value or salary?",
+        "answer": "No. It is a reported contractual release-clause figure. It is not a verified salary, transfer bid or market valuation."
+      }
+    ],
+    "readingTime": "6 min read"
+  },
+  {
+    "id": "549",
+    "slug": "keanu-reeves-arch-motorcycle-gard-hollinger-business",
+    "title": "KEANU REEVES AND ARCH: THE MOTORCYCLE BUSINESS BUILT WITH GARD HOLLINGER",
+    "seoTitle": "Keanu Reeves and ARCH: inside the bespoke motorcycle business",
+    "metaDescription": "How Keanu Reeves and Gard Hollinger built ARCH Motorcycle, from bespoke design and American V-twins to racing, without unsupported revenue or valuation claims.",
+    "excerpt": "How Keanu Reeves and Gard Hollinger built ARCH Motorcycle, from bespoke design and American V-twins to racing, without unsupported revenue or valuation claims.",
+    "category": "Business",
+    "schemaType": "Article",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/keanu-reeves-arch-motorcycle-gard-hollinger-business.jpg",
+    "coverAlt": "Supplied original hero of Keanu Reeves with an ARCH-branded motorcycle, not an authenticated factory visit or a basis for identifying a production model",
+    "headlineHighlights": {
+      "red": "KEANU REEVES",
+      "gold": "MOTORCYCLE BUSINESS"
+    },
+    "tags": [
+      "KEANU REEVES",
+      "Business"
+    ],
+    "content": [
+      "Keanu Reeves’s motorcycle business is more interesting than a celebrity logo on a fuel tank. ARCH Motorcycle, founded in 2011 with custom builder Gard Hollinger, is a boutique American manufacturer built around a particular proposition: production motorcycles tailored to the people who ride them. Its own racing operation identifies the company’s base in Hawthorne, California, and credits both founders. [ARCH Racing: founders, 2011 origin and manufacturer profile](https://www.archmotorcycleracing.com/about)",
+      "That is a more precise description than a motorcycle “empire.” The sources reviewed for this profile do not establish an audited company valuation, annual revenue or a mass-market production scale. What they do reveal is a real product business combining design, machining, assembly, customer fitting and a growing connection to racing. Reeves brings recognition, but Hollinger and the wider team are essential to the story.",
+      "[[CAREERS5_549]]",
+      "## A partnership, not a solo celebrity venture",
+      "ARCH’s public material describes a shared commitment to rethinking the American motorcycle. The distinction between co-founder and endorser matters: Reeves is associated with a company that develops its own machines, while Hollinger’s background is in custom motorcycle building. Reducing the business to an actor’s name would erase the technical knowledge on which the product depends. [ARCH and V10: 2025 race-team announcement](https://www.prnewswire.com/news-releases/arch-motorcycle-founders-gard-hollinger-and-keanu-reeves-launch-race-team-with-original-unscripted-series-from-v10-entertainment-following-archs-quest-in-the-2025-motoamerica-super-hooligan-championship-series-302441627.html)",
+      "The company’s manufacturing account describes a process that moves from sketches and three-dimensional modelling to prototypes and machined components. It discusses CNC machining, material choices and engineering analysis. Those are descriptions from the manufacturer, not a factory audit by PRESDA, but they provide a concrete account of what the operation says it does beyond selling branded merchandise. [ARCH: design, engineering and manufacturing approach](https://archmotorcycle.com/about/)",
+      "## What ARCH actually sells",
+      "The KRGT-1 is described by ARCH as a performance cruiser built to order at its Los Angeles facility. Its published configuration centres on an ARCH/S&S 124-cubic-inch V-twin engine. The product sits in the large-displacement American cruiser tradition while using the company’s own approach to chassis components, fit and styling. It is a defined motorcycle platform, not a different engine invented for every customer. [ARCH: KRGT-1 official product information](https://archmotorcycle.com/arch-krgt-1/)",
+      "The 1s takes a more sport-oriented direction. ARCH lists a 2,032 cc V-twin, a steel main frame with a machined aluminium subframe and a single-sided swingarm. Its published specifications also name specialist suppliers, including Öhlins suspension and Bosch ABS. That matters when explaining manufacturing: producing distinctive in-house parts does not mean every component comes from the same workshop. [ARCH: 1s official specifications and configuration](https://archmotorcycle.com/arch-1s/)",
+      "### Bespoke does not mean mechanically unrepeatable",
+      "The company’s bespoke process begins with consultation and visual design, then moves into build and ergonomic fitting. Owners can work on colours, finishes, seat materials and other details; seat shape and the positions of hand and foot controls are adjusted to the rider. The result combines a repeatable engineering platform with a customer-specific finish and fit. [ARCH: bespoke consultation, design, build and ergonomic fit](https://archmotorcycle.com/bespoke/)",
+      "That model addresses a different customer need from choosing a standard motorcycle off a showroom floor. It also creates operational work: designers must translate preferences into a feasible build, procurement must support the specification, and the finished machine must be assembled and tested. Personalisation is therefore a service embedded in manufacturing, rather than simply another paint option on a website.",
+      "## Why craftsmanship is also a business decision",
+      "ARCH’s account of its production philosophy emphasises machined aluminium components and the link between design and engineering. Features such as the split fuel cells and swingarm on its motorcycles are part of the visual identity, but they also need to function as working vehicle parts. The brand’s argument is that these two requirements belong together. [ARCH: design, engineering and manufacturing approach](https://archmotorcycle.com/about/)",
+      "For a small manufacturer, that creates a different economic challenge from a mass-volume strategy. Time spent on consultation, fitting and specialised assembly has to be supported by the customer proposition. This is an analysis of the model, not a disclosure of ARCH’s margins or unit costs. Without published figures, neither celebrity wealth estimates nor the price of a single configuration can establish the company’s profitability.",
+      "The same care applies to product claims. Specifications tell a reader how a machine is configured; they are not a substitute for an independent road test, long-term reliability evidence or an individual rider’s experience. This profile does not claim to have ridden the motorcycles or to have verified promotional claims about superior handling.",
+      "## Racing adds a different kind of test",
+      "In 2025, ARCH and V10 Entertainment announced a race team and an original unscripted series following the effort in MotoAmerica’s Super Hooligan championship. The announcement described the founders taking their company onto the track after years of supporting other riders. It linked engineering ambition with a media story, without making a race result or title victory part of the announcement. [ARCH and V10: 2025 race-team announcement](https://www.prnewswire.com/news-releases/arch-motorcycle-founders-gard-hollinger-and-keanu-reeves-launch-race-team-with-original-unscripted-series-from-v10-entertainment-following-archs-quest-in-the-2025-motoamerica-super-hooligan-championship-series-302441627.html)",
+      "That makes racing a useful chapter in the business profile. It puts the brand in an environment where preparation, machine development and team execution are visible alongside the founders’ personalities. It can also generate entertainment content. Neither function guarantees sales, and a dated launch announcement should not be mistaken for proof of later competitive success.",
+      "## Beyond the famous face",
+      "The durable question is what the company can build and deliver when the spotlight moves away from its celebrity co-founder. ARCH has a product range, a described manufacturing process and a bespoke ownership proposition. Those are concrete foundations for a business story. Claims about an enormous fortune or a market-dominating empire would require financial evidence not supplied by those foundations.",
+      "PRESDA’s [profile of David Beckham’s business activities](/articles/david-beckham-billion-dollar-fortune-business-empire/) explores a different way public recognition can be developed into commercial work. ARCH’s distinction is its focus on physical machines and specialist craft. Reeves and Hollinger have built a motorcycle company together; understanding the partnership, product and customer process says more than an unsupported superlative ever could."
+    ],
+    "references": [
+      {
+        "name": "ARCH Racing: founders, 2011 origin and manufacturer profile",
+        "url": "https://www.archmotorcycleracing.com/about"
+      },
+      {
+        "name": "ARCH: design, engineering and manufacturing approach",
+        "url": "https://archmotorcycle.com/about/"
+      },
+      {
+        "name": "ARCH: bespoke consultation, design, build and ergonomic fit",
+        "url": "https://archmotorcycle.com/bespoke/"
+      },
+      {
+        "name": "ARCH: KRGT-1 official product information",
+        "url": "https://archmotorcycle.com/arch-krgt-1/"
+      },
+      {
+        "name": "ARCH: 1s official specifications and configuration",
+        "url": "https://archmotorcycle.com/arch-1s/"
+      },
+      {
+        "name": "ARCH and V10: 2025 race-team announcement",
+        "url": "https://www.prnewswire.com/news-releases/arch-motorcycle-founders-gard-hollinger-and-keanu-reeves-launch-race-team-with-original-unscripted-series-from-v10-entertainment-following-archs-quest-in-the-2025-motoamerica-super-hooligan-championship-series-302441627.html"
+      }
+    ],
+    "relatedSlugs": [
+      "david-beckham-billion-dollar-fortune-business-empire"
+    ],
+    "faq": [
+      {
+        "question": "Does Keanu Reeves own ARCH Motorcycle alone?",
+        "answer": "No. ARCH identifies Keanu Reeves and Gard Hollinger as co-founders. The sources here do not provide their respective ownership percentages."
+      },
+      {
+        "question": "What does ARCH mean by a bespoke motorcycle?",
+        "answer": "Its process tailors the aesthetic package and ergonomic fit of an established motorcycle platform through consultation, design, assembly and fitting."
+      },
+      {
+        "question": "What are the KRGT-1 and 1s?",
+        "answer": "They are ARCH motorcycle platforms. The KRGT-1 is presented as a performance cruiser; the 1s uses a more sport-oriented configuration with a single-sided swingarm."
+      },
+      {
+        "question": "Is an ARCH valuation or annual revenue verified here?",
+        "answer": "No. The sources reviewed do not establish an audited valuation, annual revenue or production total, so the article does not invent them."
+      }
+    ],
+    "readingTime": "6 min read"
+  },
+  {
+    "id": "550",
+    "slug": "gerard-pique-kings-league-entrepreneur-kosmos",
+    "title": "GERARD PIQUÉ: FROM BARCELONA DEFENDER TO KINGS LEAGUE ENTREPRENEUR",
+    "seoTitle": "Gerard Piqué’s Kings League: football meets the creator economy",
+    "metaDescription": "Gerard Piqué’s journey from Barcelona to Kings League, its seven-a-side format, creator-led teams and the meaning of its announced $63 million funding round.",
+    "excerpt": "Gerard Piqué’s journey from Barcelona to Kings League, its seven-a-side format, creator-led teams and the meaning of its announced $63 million funding round.",
+    "category": "Sport",
+    "schemaType": "Article",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/gerard-pique-kings-league-entrepreneur-kosmos.jpg",
+    "coverAlt": "Supplied original visual of Gerard Piqué beside a Kings League-style football setting, not verified event photography or an official venue identification",
+    "headlineHighlights": {
+      "red": "GERARD PIQUÉ",
+      "gold": "KINGS LEAGUE"
+    },
+    "tags": [
+      "GERARD PIQUÉ",
+      "Sport"
+    ],
+    "content": [
+      "Gerard Piqué spent his playing career reading space in an elite defence. With Kings League, his business is about creating a different kind of space: a football competition designed around online creators, short-form moments and audiences who watch with a live chat open. The former Barcelona and Spain defender is the venture’s founder and chairman, bringing a major sporting name to a product that changes the game itself. [Alignment Growth: February 3, 2026 investment announcement](https://www.prnewswire.com/news-releases/kings-league-announces-63-million-investment-round-to-fuel-global-growth-and-expansion-302677861.html)",
+      "The transition did not begin only after retirement. Kings League’s own founder history dates his creation of sports-and-media company Kosmos to 2017, while he was still playing for Barcelona. The league was introduced in 2022 and began matches in January 2023. That sequence makes it a developing entrepreneurial career, rather than an overnight reinvention after his final match. [Kings League: founder history, format and competitions](https://www.kingsleague.pro/en/about) [Cinco Días: financing coverage and January 2023 first matches](https://cincodias.elpais.com/companias/2026-02-03/pique-cierra-una-ronda-de-inversion-de-53-millones-para-expandir-la-kings-league-a-ee-uu.html)",
+      "[[CAREERS5_550]]",
+      "## The Barcelona career behind the founder",
+      "Barcelona announced Piqué’s departure in November 2022, with the match against Almería on November 5 identified as his final appearance at Camp Nou. The club’s farewell coverage described a player leaving after 30 trophies in its colours. Those are the club’s contemporary figures and account of the occasion, not a new tally combining every honour across his career. [FC Barcelona: Piqué’s November 2022 departure announcement](https://www.fcbarcelona.com/en/football/first-team/news/2889653/gerard-piqu-announces-he-is-leaving-bara) [FC Barcelona: Piqué’s final-match tribute](https://www.fcbarcelona.com/en/news/2893740/gerard-pique-for3ver/amp)",
+      "The playing background offers recognition, relationships and a direct understanding of professional sport. It does not automatically supply the operating model for a new competition. Kings League’s significance is that Piqué did not simply move into a familiar coaching or television role: he helped build a separate sports-entertainment format with its own teams, rules and distribution habits.",
+      "## What Kings League changes about football",
+      "Kings League presents itself as seven-a-side football with teams led by creators, streamers and football personalities. The people fronting teams are part of the audience relationship: supporters can watch through their streams, follow their reactions and encounter the competition through clips as well as complete matches. The league describes its players as a mixture of former professionals, semi-professionals and seven-a-side specialists. [Kings League: founder history, format and competitions](https://www.kingsleague.pro/en/about)",
+      "That does not make the matches computer-generated or the outcomes scripted. The company describes live, refereed contests, while using devices inspired by gaming to change the conditions of play. The resulting product competes for attention across football and online entertainment, rather than reproducing the full eleven-a-side league model on a smaller pitch.",
+      "### Why the current rules deserve a fresh look",
+      "The official guide checked for this article specifies a 20-minute first half and a 16-minute second period followed by shootouts or Matchball Mode. It also describes a gradual increase in player numbers early in the match, secret cards and moments when goals count double. A generic description of two unchanging 20-minute halves would miss the current published structure. [Kings League: official rules of play](https://kingsleague.pro/en/how-to-play)",
+      "In Matchball Mode, the leading team can end the match by scoring; if the trailing side equalises, the next goal wins. Player numbers then reduce over time under the published process. Those rules create defined turning points for a live audience. They also show why an explanation should be dated and checked against the relevant competition’s regulations, rather than copied indefinitely from launch coverage.",
+      "## A creator audience is part of the product",
+      "The model brings the team president, player and viewer into a shared media loop. A sporting decision can become a live reaction, then a short video, then a reason to return for the next fixture. That is the attraction of building distribution around creators who already know how to speak to an audience. It also introduces a challenge: viewers must remain interested in the competition itself, not only one familiar personality.",
+      "The funding announcement reported 150 million livestreaming hours watched and more than 13 billion impressions across official social channels during 2025. These are company-reported measures with different meanings. Hours watched measure time; impressions count opportunities for content to be seen. They are not interchangeable with unique supporters, paying customers or profit. [Alignment Growth: February 3, 2026 investment announcement](https://www.prnewswire.com/news-releases/kings-league-announces-63-million-investment-round-to-fuel-global-growth-and-expansion-302677861.html)",
+      "## What the $63 million funding round means",
+      "On February 3, 2026, an announcement from investor Alignment Growth set out a $63 million round with participation from existing shareholders. Cinco Días also reported the financing. The announced purpose was expansion, including the United States, and further development of the Kings League and Queens League ecosystem. That was a funding event, not a statement of Piqué’s personal annual earnings. [Cinco Días: financing coverage and January 2023 first matches](https://cincodias.elpais.com/companias/2026-02-03/pique-cierra-una-ronda-de-inversion-de-53-millones-para-expandir-la-kings-league-a-ee-uu.html)",
+      "The release also said total funding had exceeded $160 million by that date. It named Piqué as founder and chairman and Djamel Agaoua as chief executive. Keeping those roles and measures separate matters: a founder is not necessarily the day-to-day CEO, money raised is not operating revenue, and neither number supplies an independently verified valuation. [Alignment Growth: February 3, 2026 investment announcement](https://www.prnewswire.com/news-releases/kings-league-announces-63-million-investment-round-to-fuel-global-growth-and-expansion-302677861.html)",
+      "Expansion brings practical demands behind the spectacle: local teams and venues, players, refereeing, production, commercial partners and a schedule viewers can follow. More markets can widen the audience while also increasing complexity. The announcement supports a story about resources and ambition; it does not by itself prove the economics of every regional league.",
+      "## A new venture with a test beyond celebrity",
+      "PRESDA’s [profile of Gareth Bale’s post-football golf and business interests](/articles/gareth-bale-retirement-golf-business-par59/) explores another former player’s commercial path. Piqué’s project is different because the product remains football, rebuilt around a creator-led media experience. His playing history gives the venture visibility, but its durability depends on repeated viewing, credible competition and execution across markets.",
+      "The strongest account therefore does not need to call him the sole inventor of online sport or attach an unsupported fortune to the league. The documented transformation is substantial enough: a defender developed a sports-and-media business while still playing, then became the public founder of a competition that asks audiences to watch football differently. The next question is how sustainably that audience can become an enduring sporting institution."
+    ],
+    "references": [
+      {
+        "name": "FC Barcelona: Piqué’s November 2022 departure announcement",
+        "url": "https://www.fcbarcelona.com/en/football/first-team/news/2889653/gerard-piqu-announces-he-is-leaving-bara"
+      },
+      {
+        "name": "Kings League: founder history, format and competitions",
+        "url": "https://www.kingsleague.pro/en/about"
+      },
+      {
+        "name": "Kings League: official rules of play",
+        "url": "https://kingsleague.pro/en/how-to-play"
+      },
+      {
+        "name": "Alignment Growth: February 3, 2026 investment announcement",
+        "url": "https://www.prnewswire.com/news-releases/kings-league-announces-63-million-investment-round-to-fuel-global-growth-and-expansion-302677861.html"
+      },
+      {
+        "name": "Cinco Días: financing coverage and January 2023 first matches",
+        "url": "https://cincodias.elpais.com/companias/2026-02-03/pique-cierra-una-ronda-de-inversion-de-53-millones-para-expandir-la-kings-league-a-ee-uu.html"
+      },
+      {
+        "name": "FC Barcelona: Piqué’s final-match tribute",
+        "url": "https://www.fcbarcelona.com/en/news/2893740/gerard-pique-for3ver/amp"
+      }
+    ],
+    "relatedSlugs": [
+      "gareth-bale-retirement-golf-business-par59"
+    ],
+    "faq": [
+      {
+        "question": "What is Gerard Piqué’s role in Kings League?",
+        "answer": "The February 2026 funding announcement identifies him as founder and chairman. It names Djamel Agaoua as CEO."
+      },
+      {
+        "question": "Did he begin his business career only after retirement?",
+        "answer": "No. Kings League’s founder history dates Kosmos to 2017, while Piqué was still a Barcelona player. The first Kings League matches followed in January 2023."
+      },
+      {
+        "question": "Are Kings League matches ordinary forty-minute games?",
+        "answer": "The current official guide specifies 20 minutes followed by 16 minutes, then shootouts or Matchball Mode. Rules include additional phases and should be checked for the relevant competition."
+      },
+      {
+        "question": "Is the $63 million round Kings League’s revenue or Piqué’s income?",
+        "answer": "Neither. It is an announced investment round. Funding, revenue, profit and personal wealth are different measures."
+      }
+    ],
+    "readingTime": "6 min read"
+  },
+  {
+    "id": "551",
+    "slug": "didier-drogba-africa-education-health-foundation-legacy",
+    "title": "DIDIER DROGBA: THE FOOTBALL LEGEND INVESTING IN AFRICA’S FUTURE",
+    "seoTitle": "Didier Drogba’s African legacy: education, health and opportunity",
+    "metaDescription": "Explore Didier Drogba’s foundation, education and digital-skills partnerships, health advocacy and environmental work, with announced ambitions separated from outcomes.",
+    "excerpt": "Explore Didier Drogba’s foundation, education and digital-skills partnerships, health advocacy and environmental work, with announced ambitions separated from outcomes.",
+    "category": "Sport",
+    "schemaType": "Article",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/didier-drogba-africa-education-health-foundation-legacy.jpg",
+    "coverAlt": "Supplied original hero of Didier Drogba in a community setting wearing Peace and Sport branding, not proof of a specific school visit or solar installation",
+    "headlineHighlights": {
+      "red": "DIDIER DROGBA",
+      "gold": "AFRICA’S FUTURE"
+    },
+    "tags": [
+      "DIDIER DROGBA",
+      "Sport"
+    ],
+    "content": [
+      "On 19 May 2012, Didier Drogba changed the ending of a Champions League final. His late header brought Chelsea level with Bayern Munich; his decisive penalty in the shootout delivered the London club’s first Champions League title. The image of the forward settling the match became part of football history. His work away from the pitch asks a different question: what can that recognition help other people build? [UEFA: May 19, 2012 Champions League final report](https://www.uefa.com/uefachampionsleague/news/0250-0c50fb78a384-1434bbcadbcb-1000/)",
+      "For Drogba, the documented answer includes a foundation established in 2007, education projects in Côte d’Ivoire, a digital-skills partnership and international health advocacy. This is an investment in opportunity through institutions and partnerships. It should not be confused with a verified portfolio of profitable companies, a disclosed personal fortune or proof that every announced ambition has already been achieved. [Didier Drogba Foundation: foundation history and 2007 creation](https://www.didierdrogbafoundation.org/en/history-foundation)",
+      "[[CAREERS5_551]]",
+      "## A foundation that began during his playing career",
+      "The Didier Drogba Foundation dates its creation to 2007. That matters because the community work was not simply an activity invented after retirement. It developed alongside the football career that gave Drogba an international audience and access to potential supporters. Sporting success provided visibility; translating that visibility into schools, training or health support required work beyond a celebrated name. [Didier Drogba Foundation: foundation history and 2007 creation](https://www.didierdrogbafoundation.org/en/history-foundation)",
+      "The foundation’s stated mission places education and support for vulnerable communities at the centre of its programme. Its education work encompasses school infrastructure, classroom resources and digital access. These priorities treat opportunity as something that depends on practical conditions: a place to learn, usable equipment and institutions capable of keeping a programme running. They are more specific than the broad claim that a famous athlete is “giving back.” [Didier Drogba Foundation: mission and education programmes](https://www.didierdrogbafoundation.org/en/our-mission)",
+      "A foundation’s own website is an important record of what it says it does. It is not, by itself, an independent audit of attendance, learning outcomes or long-term household income. Reading the project list carefully makes the profile more useful: readers can see the named activities without being asked to accept an invented total for their impact.",
+      "## Schools, equipment and everyday barriers",
+      "The foundation lists school projects in Samarifla, in the Bouaflé area, and Pokoukouamekro, in the Gagnoa area. The latter entry includes solar electricity. Its published projects also include a donation of 200 solar school kits and digital classrooms developed with the Ippon Foundation. These are foundation-reported initiatives, not evidence that Drogba personally paid every bill or that one photograph documents a particular installation. [Didier Drogba Foundation: published project list](https://didierdrogbafoundation.org/en/our-projects)",
+      "The combination is instructive. Building a classroom and making it usable are related but different tasks. Electricity can help equipment function; supplies can help pupils participate; teacher support and maintenance affect whether resources remain useful. The foundation’s list identifies activities. It does not justify treating every recipient as having experienced the same educational outcome.",
+      "### Opportunity also extends beyond the classroom",
+      "The project record includes support for a women’s cooperative in Dianoufla, combining equipment with accounting training. That is a reminder that community development is not limited to children’s schooling. Tools can remove a practical bottleneck, while financial skills can help a group manage the activity around them. The published entry supports describing the intervention, without inventing its revenue, employment total or return on investment. [Didier Drogba Foundation: published project list](https://didierdrogbafoundation.org/en/our-projects)",
+      "## Digital training: an ambition, not a completed headcount",
+      "On 20 June 2021, the foundation and 01Talent Africa signed a strategic partnership in Abidjan. A contemporaneous statement hosted by United Cities and Local Governments of Africa described an effort to develop digital talent and presented Drogba and his foundation as international ambassadors for the initiative. That role does not make him the founder of 01Talent or establish an ownership stake in the training company. [UCLG Africa: June 20, 2021 foundation and 01Talent partnership](https://www.uclga.org/wp-content/uploads/2021/06/EN-Partenariat-fondation-Drogba-.pdf)",
+      "The statement set out an ambition to identify and train one million young digital talents over ten years through a wider network of training zones. This is the kind of figure that needs its original verb and timeframe attached. A target announced in 2021 is not a verified count of graduates in 2026. The source establishes the partnership and its aspiration; it does not establish that the million-person goal has been met. [UCLG Africa: June 20, 2021 foundation and 01Talent partnership](https://www.uclga.org/wp-content/uploads/2021/06/EN-Partenariat-fondation-Drogba-.pdf)",
+      "The underlying idea is nevertheless significant: education can connect to participation in a digital economy, rather than ending at access to a classroom. Assessing its success would require later evidence about enrolment, completion, skills and opportunities. An announcement can explain a programme’s direction, while those measures tell readers what happened after the ceremony.",
+      "## Health advocacy uses a different kind of influence",
+      "The World Health Organization appointed Drogba a Goodwill Ambassador for Sport and Health on 18 October 2021. The appointment linked his sporting profile to healthier lifestyles and the role of physical activity, particularly in reaching younger audiences. This is public advocacy, distinct from operating a hospital, providing individual medical advice or demonstrating a quantified improvement in public health. [WHO: October 18, 2021 Sport and Health ambassador appointment](https://www.who.int/news/item/18-10-2021-football-champion-didier-drogba-appointed-world-health-organization-ambassador-for-sports-and-health)",
+      "His international development work also has a longer institutional history. UNDP lists him among its goodwill ambassador alumni, recognising more than a decade of advocacy. “Alumni” matters: a past appointment should not be republished as a current UNDP office. Describing the record accurately gives his contribution context without making the résumé larger than the evidence. [UNDP: goodwill ambassador alumni record](https://www.undp.org/goodwill-ambassadors/goodwill-ambassador-alumni)",
+      "## An environmental chapter, with results still to measure",
+      "In May 2025, Peace and Sport described environmental initiatives through Drogba’s foundation, including awareness and protection work connected with Grand-Lahou and the Taï forest. The organisation, which identifies Drogba as its vice-president, presented this as an extension of work previously associated with health and education. The dated account supports describing that direction, not inventing a number of hectares protected or carbon credits generated. [Peace and Sport: May 30, 2025 environmental initiatives](https://www.peace-sport.org/news/didier-drogba-peace-and-sport-vice-president-commits-to-the-planet-through-his-foundation/)",
+      "Education, health and the environment overlap in daily life, but combining those themes does not remove the need for evidence in each field. A school programme can have identifiable partners and equipment; a conservation effort needs its own account of activity and outcomes. The useful question is what each initiative can document, rather than how many causes can be placed beside a celebrity’s name.",
+      "## What a football legacy can make possible",
+      "Drogba’s record shows several ways to put sporting recognition to work: creating an organisation, mobilising partners, supporting practical resources and drawing attention to public goals. These activities are not interchangeable with a commercial investment. A donation, an ambassadorial role and a training partnership carry different responsibilities and should be judged against different expectations.",
+      "PRESDA’s [report on the Achraf Hakimi Foundation’s L’Walida programme](/articles/achraf-hakimi-foundation-lwalida-mothers-kenitra/) examines another athlete-backed effort built around community opportunity. In Drogba’s case, the strongest story is not that one player transformed a continent alone. It is how a football platform has been used to support institutions and partnerships, and why their announced ambitions must remain distinct from their demonstrated results."
+    ],
+    "references": [
+      {
+        "name": "Didier Drogba Foundation: foundation history and 2007 creation",
+        "url": "https://www.didierdrogbafoundation.org/en/history-foundation"
+      },
+      {
+        "name": "Didier Drogba Foundation: mission and education programmes",
+        "url": "https://www.didierdrogbafoundation.org/en/our-mission"
+      },
+      {
+        "name": "Didier Drogba Foundation: published project list",
+        "url": "https://didierdrogbafoundation.org/en/our-projects"
+      },
+      {
+        "name": "WHO: October 18, 2021 Sport and Health ambassador appointment",
+        "url": "https://www.who.int/news/item/18-10-2021-football-champion-didier-drogba-appointed-world-health-organization-ambassador-for-sports-and-health"
+      },
+      {
+        "name": "UCLG Africa: June 20, 2021 foundation and 01Talent partnership",
+        "url": "https://www.uclga.org/wp-content/uploads/2021/06/EN-Partenariat-fondation-Drogba-.pdf"
+      },
+      {
+        "name": "Peace and Sport: May 30, 2025 environmental initiatives",
+        "url": "https://www.peace-sport.org/news/didier-drogba-peace-and-sport-vice-president-commits-to-the-planet-through-his-foundation/"
+      },
+      {
+        "name": "UEFA: May 19, 2012 Champions League final report",
+        "url": "https://www.uefa.com/uefachampionsleague/news/0250-0c50fb78a384-1434bbcadbcb-1000/"
+      },
+      {
+        "name": "UNDP: goodwill ambassador alumni record",
+        "url": "https://www.undp.org/goodwill-ambassadors/goodwill-ambassador-alumni"
+      }
+    ],
+    "relatedSlugs": [
+      "achraf-hakimi-foundation-lwalida-mothers-kenitra"
+    ],
+    "faq": [
+      {
+        "question": "When did Didier Drogba establish his foundation?",
+        "answer": "The foundation dates its creation to 2007, during his playing career, rather than after his retirement."
+      },
+      {
+        "question": "What does the foundation say it supports?",
+        "answer": "Its mission and project list describe education, community resources, health-related work and partnerships, including school and digital-classroom initiatives in Côte d’Ivoire."
+      },
+      {
+        "question": "Has its digital partnership trained one million people?",
+        "answer": "The 2021 partnership statement presented one million young digital talents over ten years as an ambition. It is not evidence that one million people have already graduated."
+      },
+      {
+        "question": "Is Drogba currently a UNDP goodwill ambassador?",
+        "answer": "UNDP lists him among its goodwill ambassador alumni. Separately, WHO announced his Sport and Health goodwill ambassador appointment in October 2021."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "542",
     "slug": "bruno-mars-father-peter-hernandez-death-tribute",
     "title": "BRUNO MARS MOURNS FATHER PETER HERNANDEZ, WHO DIED AT 74",

@@ -398,7 +398,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           <div className="article-hero-media relative">
             <Image
               src={article.coverImage}
-              unoptimized={article.slug === "phoenicians-history-sailors-alphabet-tyrian-purple" || article.coverImage === "/articles/faouzia-original-supplied-hero.jpg"}
+              unoptimized={["/articles/levi-mcconaughey-hollywood-films-lost-bus-warrior-kid.jpg","/articles/brahim-diaz-real-madrid-contract-2031-report.jpg","/articles/keanu-reeves-arch-motorcycle-gard-hollinger-business.jpg","/articles/gerard-pique-kings-league-entrepreneur-kosmos.jpg","/articles/didier-drogba-africa-education-health-foundation-legacy.jpg"].includes(article.coverImage) || article.slug === "phoenicians-history-sailors-alphabet-tyrian-purple" || article.coverImage === "/articles/faouzia-original-supplied-hero.jpg"}
               alt={article.coverAlt}
               width={heroDimensions.width}
               height={heroDimensions.height}

@@ -15,6 +15,111 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"levi-mcconaughey-hollywood-films-lost-bus-warrior-kid": {
+  "afterBlock": 12,
+  "file": "careers5-levi-facts-en.png",
+  "localizedFiles": {
+    "en": "careers5-levi-facts-en.png",
+    "fr": "careers5-levi-facts-fr.png",
+    "ar": "careers5-levi-facts-ar.png",
+    "es": "careers5-levi-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.apple.com/tv-pr/news/2026/10/apple-original-films-unveils-way-of-the-warrior-kid-trailer/",
+  "credit": "PRESDA · apple.com / people.com / apnews.com",
+  "license": null,
+  "captions": {
+    "en": "Levi McConaughey: premieres and releases in order",
+    "fr": "Levi McConaughey : premières et sorties dans l’ordre",
+    "ar": "ليفي ماكونهي: ترتيب العروض والإصدارات",
+    "es": "Levi McConaughey: presentaciones y estrenos en orden"
+  }
+},
+"brahim-diaz-real-madrid-contract-2031-report": {
+  "afterBlock": 12,
+  "file": "careers5-brahim-facts-en.png",
+  "localizedFiles": {
+    "en": "careers5-brahim-facts-en.png",
+    "fr": "careers5-brahim-facts-fr.png",
+    "ar": "careers5-brahim-facts-ar.png",
+    "es": "careers5-brahim-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://sport.le360.ma/football/mercato/real-madrid-brahim-diaz-aurait-signe-jusquen-2031-avec-une-clause-a-un-milliard-deuros_CXSFC2CSJ5CI5F6U3JNBX57MJQ/",
+  "credit": "PRESDA · sport.le360.ma / realmadrid.com / as.com / reuters.com",
+  "license": null,
+  "captions": {
+    "en": "Brahim Díaz: official milestones and the new report",
+    "fr": "Brahim Díaz : étapes officielles et nouvelle information",
+    "ar": "إبراهيم دياز: المحطات الرسمية والخبر الجديد",
+    "es": "Brahim Díaz: hitos oficiales y nueva información"
+  }
+},
+"keanu-reeves-arch-motorcycle-gard-hollinger-business": {
+  "afterBlock": 12,
+  "file": "careers5-keanu-facts-en.png",
+  "localizedFiles": {
+    "en": "careers5-keanu-facts-en.png",
+    "fr": "careers5-keanu-facts-fr.png",
+    "ar": "careers5-keanu-facts-ar.png",
+    "es": "careers5-keanu-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.archmotorcycleracing.com/about",
+  "credit": "PRESDA · archmotorcycleracing.com / archmotorcycle.com / prnewswire.com",
+  "license": null,
+  "captions": {
+    "en": "ARCH Motorcycle: the business behind the famous name",
+    "fr": "ARCH Motorcycle : l’entreprise derrière le nom célèbre",
+    "ar": "ARCH Motorcycle: النشاط وراء الاسم الشهير",
+    "es": "ARCH Motorcycle: el negocio detrás del nombre famoso"
+  }
+},
+"gerard-pique-kings-league-entrepreneur-kosmos": {
+  "afterBlock": 12,
+  "file": "careers5-pique-facts-en.png",
+  "localizedFiles": {
+    "en": "careers5-pique-facts-en.png",
+    "fr": "careers5-pique-facts-fr.png",
+    "ar": "careers5-pique-facts-ar.png",
+    "es": "careers5-pique-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.fcbarcelona.com/en/football/first-team/news/2889653/gerard-piqu-announces-he-is-leaving-bara",
+  "credit": "PRESDA · fcbarcelona.com / kingsleague.pro / prnewswire.com / cincodias.elpais.com",
+  "license": null,
+  "captions": {
+    "en": "Gerard Piqué: from playing career to creator-led competition",
+    "fr": "Gerard Piqué : du terrain à la compétition des créateurs",
+    "ar": "جيرارد بيكيه: من المسيرة الرياضية إلى منافسة صناع المحتوى",
+    "es": "Gerard Piqué: del fútbol profesional a la competición de creadores"
+  }
+},
+"didier-drogba-africa-education-health-foundation-legacy": {
+  "afterBlock": 12,
+  "file": "careers5-drogba-facts-en.png",
+  "localizedFiles": {
+    "en": "careers5-drogba-facts-en.png",
+    "fr": "careers5-drogba-facts-fr.png",
+    "ar": "careers5-drogba-facts-ar.png",
+    "es": "careers5-drogba-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.didierdrogbafoundation.org/en/history-foundation",
+  "credit": "PRESDA · didierdrogbafoundation.org / who.int / uclga.org / peace-sport.org / uefa.com / undp.org",
+  "license": null,
+  "captions": {
+    "en": "Didier Drogba: football recognition and public commitments",
+    "fr": "Didier Drogba : reconnaissance sportive et engagements publics",
+    "ar": "ديدييه دروغبا: إنجاز كروي والتزامات عامة",
+    "es": "Didier Drogba: reconocimiento deportivo y compromisos públicos"
+  }
+},
 "bruno-mars-father-peter-hernandez-death-tribute": {
   "afterBlock": 12,
   "file": "spotlight5-bruno-facts-en.png",
