@@ -32404,6 +32404,693 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/antikythera-mechanism-ancient-analog-computer/",
+    "path": "/ar/articles/antikythera-mechanism-ancient-analog-computer/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "آلية أنتيكيثيرا: أقدم حاسوب تناظري معروف",
+    "seoTitle": "آلية أنتيكيثيرا: كيف عمل الحاسوب القديم؟",
+    "description": "تروس وتنبؤات فلكية وشظايا باقية: ما نعرفه عن آلية أنتيكيثيرا، وما الذي يبقى ضمن إعادة البناء الحديثة؟",
+    "excerpt": "تروس وتنبؤات فلكية وشظايا باقية: ما نعرفه عن آلية أنتيكيثيرا، وما الذي يبقى ضمن إعادة البناء الحديثة؟",
+    "headlineHighlights": {
+      "red": "آلية أنتيكيثيرا",
+      "gold": "أقدم حاسوب تناظري معروف"
+    },
+    "keywords": [
+      "آلية أنتيكيثيرا",
+      "أقدم حاسوب تناظري معروف"
+    ],
+    "searchIntent": "تروس وتنبؤات فلكية وشظايا باقية: ما نعرفه عن آلية أنتيكيثيرا، وما الذي يبقى ضمن إعادة البناء الحديثة؟",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/antikythera-mechanism-ancient-analog-computer.jpg",
+      "alt": "رسم تحريري مقدّم مستوحى من آلية أنتيكيثيرا، وليس صورة متحققاً منها للمتحف.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "آلية أنتيكيثيرا هي أقدم حاسبة فلكية مسننة باقية نعرفها، وكثيراً ما توصف بأول حاسوب تناظري. صنعت في العالم اليوناني القديم قبل أكثر من ألفي عام، ومثلت الدورات السماوية بحركة تروس برونزية. تكمن أهميتها في هذا الإنجاز الميكانيكي، لا في ظهور حاسوب إلكتروني غامض داخل العصور القديمة. [المصدر · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحفظ البقايا اليوم في المتحف الأثري الوطني بأثينا. وتحمل كتلة المعدن المتضررة أدلة على علاقة متقدمة بين الرصد والرياضيات والحرفة. وقد تطلبت قراءتها تعاون علماء آثار ومؤرخي فلك ومتخصصي تصوير ومهندسين."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_528]]",
+        "caption": "أنتيكيثيرا: دليل وتفسير. المصادر: وزارة الثقافة اليونانية وتسلسل المشروع وكلية لندن الجامعية. التأريخ تقريبي.",
+        "headings": [
+          "الدليل",
+          "ما يثبته"
+        ],
+        "rows": [
+          [
+            "ربما ١٥٠–١٠٠ قبل الميلاد",
+            "التأريخ الذي يقدمه الفهرس الوزاري."
+          ],
+          [
+            "٨٢ شظية و٣٠ ترساً باقياً",
+            "البقايا المحفوظة، لا قائمة المكونات الأصلية كاملة."
+          ],
+          [
+            "١٩٠٠–١٩٠٢",
+            "الاكتشاف والاستعادة والتعرف مراحل منفصلة."
+          ],
+          [
+            "نموذج الكون في ٢٠٢١",
+            "إعادة بناء مقترحة لآليات الواجهة المفقودة."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي صُممت الآلية لحسابه؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف وزارة الثقافة اليونانية أداة لحساب حركة الشمس والقمر، وربما الكواكب الخمسة المعروفة قديماً، والتنبؤ بظواهر تشمل الكسوف والخسوف. وشملت وظائفها التقويم وتوقيت الاحتفالات اليونانية الجامعة، فربطت السماء بتنظيم الزمن البشري. [المصدر · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تفيد كلمة حاسوب إذا قصدنا جهازاً ينفذ حسابات، لكنها تضلل إذا أوحت بشاشة وكهرباء وبرامج. فقد خزنت العلاقات في أحجام التروس وترتيبها. وعند إدارة المدخل تتحرك الأجزاء المتصلة بنسب مختارة لتمثيل دورات فلكية."
+      },
+      {
+        "type": "subheading",
+        "text": "كيف تنفذ التروس حساباً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا تنقل العجلتان المتشابكتان الحركة فقط؛ فعدد الأسنان يحدد مقدار دوران إحداهما بالنسبة إلى الأخرى. ويمكن لجمع نسب متعددة تمثيل دورة أطول أو أعقد. ثم يحول مؤشر الدوران الناتج إلى موضع مقروء على قرص."
+      },
+      {
+        "type": "paragraph",
+        "text": "هذا حساب تناظري لأن حركة مادية تمثل كمية متغيرة. يتعامل المستخدم مع نموذج ميكانيكي، لا برنامج حديث. وكان الإنجاز تحويل معرفة فلكية صعبة إلى أداة قابلة للتشغيل وصغيرة بما يسمح بحملها."
+      },
+      {
+        "type": "heading",
+        "text": "اكتشاف على ثلاث مراحل"
+      },
+      {
+        "type": "paragraph",
+        "text": "عثر غواصو إسفنج على الحطام قرب أنتيكيثيرا عام ١٩٠٠. وتلت ذلك استعادة الآثار في ١٩٠٠–١٩٠١، بينما تميّز الجسم المسنن بوصفه آلة في ١٩٠٢. فاكتشاف السفينة ورفع الأشياء وفهم أن قطعة متآكلة تحتوي آلة مراحل مختلفة. [المصدر · new.antikythera-mechanism.gr](https://new.antikythera-mechanism.gr/history)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يوضح ذلك أن الاكتشاف لا يقع دائماً في لحظة درامية واحدة. قد يستعاد جسم قبل فهم أهميته. وانتقلت قصة الآلية من إنقاذ تحت الماء إلى فحص متحفي، ثم إلى بحث امتد أجيالاً."
+      },
+      {
+        "type": "heading",
+        "text": "كم عمرها وما الذي بقي منها؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يقدم الفهرس الوزاري تأريخاً محتملاً بين ١٥٠ و١٠٠ قبل الميلاد. ويظل التاريخ الدقيق مسألة بحثية؛ فبداية دورة فلكية محسوبة ليست بالضرورة سنة تصنيع الأداة. كما أن تاريخ الآلية لا يلزم أن يطابق تاريخ غرق السفينة. [المصدر · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يدرس الباحثون ٨٢ شظية مفهرسة و٣٠ ترساً برونزياً باقياً. هذه أرقام للبقايا، لا قائمة كاملة بالمكونات الأصلية. وتقدر كلية لندن الجامعية أن نحو ثلث الآلية فقط بقي، لذا يجب أن تلائم إعادة البناء الفراغ المفقود والمعدن الموجود معاً. [المصدر · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "subheading",
+        "text": "دليل استخدام منقوش في المعدن"
+      },
+      {
+        "type": "paragraph",
+        "text": "النقوش اليونانية جزء من الدليل. يتعلق بعضها بالحسابات الفلكية والتقويم، ويشرح بعضها الاستخدام. وقد يكشف النص وظيفة لا تفسرها الأجزاء الميكانيكية وحدها تفسيراً كاملاً. [المصدر · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتضع النقوش الأداة أيضاً داخل ثقافة تقنية بشرية. كان على أحد فهم العلاقات لتصميم التروس، وعلى آخر تصنيعها وتجميعها، وعلى مستخدم قراءة المؤشرات. وتدل الآلية على اتصال هذه المهارات حتى مع غياب أسماء أصحابها."
+      },
+      {
+        "type": "heading",
+        "text": "رؤية ما وراء التآكل"
+      },
+      {
+        "type": "paragraph",
+        "text": "في ٢٠٠٥ استخدمت الأشعة السينية ثلاثية الأبعاد والتصوير السطحي لكشف معلومات لا يظهرها الفحص العادي. وساعدت النقوش المخفية والتفاصيل الداخلية في تفسير تنبؤ الكسوف وحركة القمر المتغيرة، من دون فصل كل طبقات المعدن المتآكل مادياً. [المصدر · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وهذا فرق مهم بين الرصد واختراع آلة كاملة. فصورة الأشعة تقيد موضع ترس أو نقش حقيقي. وعلى النموذج احترام ذلك، لا الاكتفاء بتصميم جميل يعطي نتيجة فلكية بطريقة لا صلة لها بالبقايا."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا أضاف نموذج ٢٠٢١؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "نشر فريق كلية لندن الجامعية في ٢٠٢١ بمجلة Scientific Reports نموذجاً مقترحاً لعرض الكون على الواجهة. وجمع الأدلة المادية والنقوش مع تصور لكيفية عرض الشمس والقمر والكواكب. إنه جهد كبير لتفسير التروس الأمامية المفقودة، لا اكتشاف أداة قديمة سليمة. [المصدر · www.nature.com](https://www.nature.com/articles/s41598-021-84310-w)"
+      },
+      {
+        "type": "paragraph",
+        "text": "بحث الفريق دورات طويلة مسجلة في النقوش، منها ٤٦٢ سنة للزهرة و٤٤٢ لزحل. وهي أنماط لحركة الكواكب كما تبدو من الأرض، بما فيها التراجع الظاهري بين النجوم، وليست مدة دوران أي منهما حول الشمس وفق القياس الحديث. [المصدر · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "subheading",
+        "text": "النموذج حجة قابلة للاختبار"
+      },
+      {
+        "type": "paragraph",
+        "text": "وصفت الجامعة التصنيع بتقنيات قديمة بأنه تحدٍّ إضافي. فالترتيب النظري القابل للعمل وطريقة التصنيع التاريخية المثبتة يجيبان عن سؤالين مترابطين لا متطابقين. ويجب حساب المساحة والمواد والدقة والتجميع إلى جانب الرياضيات."
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يعني ذلك أن كل شيء مجهول. فالأدلة الباقية تثبت آلة فلكية متطورة. والحذر يتعلق بترتيب الأجزاء الغائبة وصنعها. شرح هذه الحدود أدق من تقديم كل نسخة حديثة مصقولة كأنها صورة مؤكدة للتصميم الأصلي."
+      },
+      {
+        "type": "heading",
+        "text": "لماذا تملك أهمية تاريخية كبيرة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجمع الآلية الفلك والنمذجة الرياضية والعمل بالمعدن. وتبين أن الإنجاز القديم شمل بناء نموذج يعمل، لا الاكتفاء بوصف مكتوب أو رسم. فالمعرفة هنا كان عليها أن تلائم حيزاً محدداً وأن تتشابك وتتحرك."
+      },
+      {
+        "type": "paragraph",
+        "text": "يقدم تقرير PRESDA عن [الحضارة اليونانية القديمة](/articles/ancient-greece-civilization-history/) السياق الأوسع. وتنتمي الآلية أيضاً إلى تاريخ عبور المعرفة بين الثقافات، لا معجزة مخترع معزول. وتذكر الجامعة أهمية الفلك البابلي السابق في الخلفية الفكرية. [المصدر · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يعني وصفها بأول حاسوب؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا تثبت البقايا أنها أول آلة من نوعها صُنعت على الإطلاق. الوصف الحذر هو أقدم مثال باقٍ معروف من هذا النوع الاستثنائي. فعدم بقاء مثال آخر لا يثبت غياب أسلاف أو أدوات قريبة أو ورش صنعت نظائر لها."
+      },
+      {
+        "type": "paragraph",
+        "text": "ولمسار آخر في تاريخ الحساب، يتابع تقرير [الخوارزمي والجبر](/articles/al-khwarizmi-mathematician-modern-algebra/) الأفكار الرياضية بدلاً من التروس. أما أنتيكيثيرا فتتيح رؤية الفكر مجسداً في مادة: نموذج للزمن السماوي تحركه يد إنسان."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · olympicgames.culture.gov.gr",
+        "url": "https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html"
+      },
+      {
+        "label": "المصدر · new.antikythera-mechanism.gr",
+        "url": "https://new.antikythera-mechanism.gr/history"
+      },
+      {
+        "label": "المصدر · www.ucl.ac.uk",
+        "url": "https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer"
+      },
+      {
+        "label": "المصدر · www.nature.com",
+        "url": "https://www.nature.com/articles/s41598-021-84310-w"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل كانت الآلية حاسوباً فعلاً؟",
+        "answer": "كانت حاسبة ميكانيكية تناظرية تمثل العلاقات الفلكية بالتروس، بلا إلكترونيات أو برامج حديثة."
+      },
+      {
+        "question": "أين الأصل؟",
+        "answer": "تحفظ الشظايا الباقية في المتحف الأثري الوطني بأثينا."
+      },
+      {
+        "question": "من صنعها؟",
+        "answer": "لم تُحدد هوية الصانع بثقة. وينبغي تقديم الأسماء المقترحة بوصفها فرضيات."
+      },
+      {
+        "question": "هل أعيد بناء الآلية كلها بيقين؟",
+        "answer": "لا. تدعم الأدلة وظائفها بقوة، لكن الأجزاء المفقودة وتروس الواجهة تظل موضوعاً لإعادة البناء والاختبار."
+      }
+    ],
+    "readingTimeMinutes": 6
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/antikythera-mechanism-ancient-analog-computer/",
+    "path": "/es/articles/antikythera-mechanism-ancient-analog-computer/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "EL MECANISMO DE ANTICITERA: EL PRIMER ORDENADOR ANALÓGICO CONOCIDO",
+    "seoTitle": "Mecanismo de Anticitera: cómo calculaba el mundo antiguo",
+    "description": "Engranajes, predicciones astronómicas y fragmentos: qué sabemos de Anticitera y qué aportan sus reconstrucciones modernas.",
+    "excerpt": "Engranajes, predicciones astronómicas y fragmentos: qué sabemos de Anticitera y qué aportan sus reconstrucciones modernas.",
+    "headlineHighlights": {
+      "red": "MECANISMO DE ANTICITERA",
+      "gold": "PRIMER ORDENADOR ANALÓGICO CONOCIDO"
+    },
+    "keywords": [
+      "MECANISMO DE ANTICITERA",
+      "PRIMER ORDENADOR ANALÓGICO CONOCIDO"
+    ],
+    "searchIntent": "Engranajes, predicciones astronómicas y fragmentos: qué sabemos de Anticitera y qué aportan sus reconstrucciones modernas.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/antikythera-mechanism-ancient-analog-computer.jpg",
+      "alt": "Ilustración editorial facilitada inspirada en Anticitera, sin verificar como fotografía del museo.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "El mecanismo de Anticitera es el calculador astronómico de engranajes conservado más antiguo que conocemos. Suele llamarse el primer ordenador analógico: un instrumento del mundo griego antiguo que representaba ciclos celestes mediante ruedas de bronce. Su importancia está en esa proeza mecánica, no en un aparato electrónico inexplicablemente aparecido en la Antigüedad. [Fuente · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los restos se conservan en el Museo Arqueológico Nacional de Atenas. La masa de metal deteriorado contiene pruebas de una compleja relación entre observación, matemáticas y artesanía. Interpretarla exige colaboración entre arqueólogos, historiadores de la astronomía, especialistas en imagen e ingenieros."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_528]]",
+        "caption": "Anticitera: evidencia e interpretación. Fuentes: Ministerio de Cultura griego, cronología del proyecto y UCL. La datación es aproximada.",
+        "headings": [
+          "Evidencia",
+          "Qué establece"
+        ],
+        "rows": [
+          [
+            "Probablemente 150–100 a. C.",
+            "Datación del catálogo ministerial."
+          ],
+          [
+            "82 fragmentos; 30 engranajes conservados",
+            "Restos, no inventario completo de piezas originales."
+          ],
+          [
+            "1900–1902",
+            "Descubrimiento, recuperación y reconocimiento fueron etapas distintas."
+          ],
+          [
+            "Modelo del cosmos de 2021",
+            "Reconstrucción propuesta de la mecánica frontal perdida."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué debía calcular?"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Ministerio de Cultura griego describe un instrumento para los movimientos del Sol y la Luna, probablemente también de los cinco planetas conocidos entonces, y para predecir fenómenos como eclipses. Incluía calendarios y celebraciones panhelénicas: conectaba el cielo con la organización del tiempo humano. [Fuente · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "«Ordenador» resulta útil si significa una máquina que calcula, pero engaña si sugiere pantalla, electricidad o software. Las relaciones estaban codificadas en el tamaño y disposición de los engranajes. Al girar la entrada, las piezas conectadas se movían en proporciones que representaban ciclos astronómicos."
+      },
+      {
+        "type": "subheading",
+        "text": "Cómo calcula un engranaje"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dos ruedas dentadas transmiten movimiento, pero su número de dientes también determina cuánto gira una respecto de la otra. Varios cocientes combinados pueden representar un ciclo más largo o complejo. Una aguja convierte la rotación resultante en una posición legible en una esfera."
+      },
+      {
+        "type": "paragraph",
+        "text": "Es cálculo analógico porque el movimiento físico representa una cantidad cambiante. Se utiliza un modelo mecánico, no un programa moderno. El logro consistió en convertir conocimientos astronómicos difíciles en un instrumento operativo suficientemente pequeño para transportarse."
+      },
+      {
+        "type": "heading",
+        "text": "Un hallazgo en tres etapas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pescadores de esponjas descubrieron el pecio en 1900. La recuperación de antigüedades siguió en 1900–1901, mientras que el objeto con engranajes se reconoció en 1902. Encontrar el barco, recuperar material y comprender que una pieza corroída contenía una máquina fueron pasos diferentes. [Fuente · new.antikythera-mechanism.gr](https://new.antikythera-mechanism.gr/history)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los descubrimientos no siempre ocurren en un instante dramático. Puede recuperarse un objeto antes de entender su importancia. Aquí, el rescate submarino se convirtió en examen museístico y después en una investigación mantenida durante generaciones."
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué antigüedad tiene y cuánto queda?"
+      },
+      {
+        "type": "paragraph",
+        "text": "El catálogo ministerial propone aproximadamente 150–100 a. C. La fecha precisa sigue siendo objeto de estudio. El inicio de un ciclo astronómico calculado no equivale necesariamente al año de fabricación, y el instrumento puede ser anterior al naufragio. [Fuente · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Se estudian 82 fragmentos catalogados y 30 engranajes de bronce conservados, no un inventario original completo. UCL estima que sobrevive aproximadamente un tercio del mecanismo. Reconstruirlo exige ajustar las pruebas tanto al espacio perdido como al metal observable. [Fuente · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "subheading",
+        "text": "Instrucciones escritas en metal"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las inscripciones griegas son parte de la evidencia. Algunas explican cálculos astronómicos y calendarios; otras, el uso del instrumento. El texto permite identificar funciones que las piezas mecánicas conservadas no revelarían por sí solas. [Fuente · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "También sitúan el objeto en una cultura técnica humana. Alguien debía concebir las relaciones, otra persona fabricar y ensamblar las piezas, y un usuario interpretar los indicadores. El mecanismo demuestra esas habilidades vinculadas aunque desconozcamos los nombres."
+      },
+      {
+        "type": "heading",
+        "text": "Ver a través de la corrosión"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2005, la imagen radiográfica tridimensional y la de superficie revelaron detalles invisibles mediante inspección ordinaria. Inscripciones ocultas y componentes internos ayudaron a explicar eclipses y movimiento lunar variable, sin separar físicamente todas las capas corroídas. [Fuente · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Eso distingue observar de inventar una máquina completa. Una radiografía impone la posición real de un engranaje o una inscripción. El modelo debe respetar esas restricciones, no limitarse a obtener un resultado mediante un diseño ajeno a los restos."
+      },
+      {
+        "type": "heading",
+        "text": "La contribución del modelo de 2021"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2021, el equipo de UCL publicó en Scientific Reports una propuesta para el cosmos frontal. Combinó pruebas físicas e inscripciones con una reconstrucción del Sol, la Luna y los planetas. Fue un intento importante de explicar los engranajes desaparecidos, no el hallazgo de un instrumento intacto. [Fuente · www.nature.com](https://www.nature.com/articles/s41598-021-84310-w)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El equipo examinó ciclos inscritos de 462 años para Venus y 442 para Saturno. Son patrones vistos desde la Tierra, incluidas las retrogradaciones aparentes. No deben confundirse con la duración moderna de la órbita de cada planeta alrededor del Sol. [Fuente · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "subheading",
+        "text": "Un modelo es una propuesta comprobable"
+      },
+      {
+        "type": "paragraph",
+        "text": "UCL presentó la fabricación con técnicas antiguas como un reto adicional. Una disposición teórica viable y una fabricación histórica demostrada responden a preguntas relacionadas, pero distintas. Espacio, materiales, precisión y montaje importan junto a las matemáticas."
+      },
+      {
+        "type": "paragraph",
+        "text": "Eso no significa que todo sea incierto. Los restos demuestran una máquina astronómica sofisticada. La cautela corresponde a cómo se organizaron y fabricaron sus partes ausentes. Explicarlo es más útil que presentar cada réplica pulida como una imagen segura del diseño original."
+      },
+      {
+        "type": "heading",
+        "text": "Por qué tiene tanta importancia"
+      },
+      {
+        "type": "paragraph",
+        "text": "El mecanismo reúne astronomía, modelos matemáticos y trabajo del metal. Muestra que la técnica antigua podía producir un modelo operativo, no solo una descripción o un dibujo. Aquí, los conocimientos debían encajar y moverse dentro de un espacio limitado."
+      },
+      {
+        "type": "paragraph",
+        "text": "El reportaje de PRESDA sobre [la civilización griega antigua](/articles/ancient-greece-civilization-history/) ofrece el contexto. El mecanismo también pertenece a una historia de conocimientos que cruzaron culturas, no a un milagro aislado. UCL señala la importancia de la astronomía babilónica anterior en ese trasfondo. [Fuente · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué significa «primer ordenador»"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ningún resto prueba que fuera la primera máquina de este tipo jamás construida. La formulación cuidadosa es el ejemplo conservado más antiguo conocido. No encontrar otro ejemplar no demuestra que no hubiera predecesores, instrumentos relacionados o talleres similares."
+      },
+      {
+        "type": "paragraph",
+        "text": "El perfil de [al-Juarismi y el álgebra](/articles/al-khwarizmi-mathematician-modern-algebra/) sigue otra ruta en la historia del cálculo. Anticitera permite ver pensamiento materializado: un modelo del tiempo celeste que podía ponerse en marcha con la mano."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · olympicgames.culture.gov.gr",
+        "url": "https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html"
+      },
+      {
+        "label": "Fuente · new.antikythera-mechanism.gr",
+        "url": "https://new.antikythera-mechanism.gr/history"
+      },
+      {
+        "label": "Fuente · www.ucl.ac.uk",
+        "url": "https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer"
+      },
+      {
+        "label": "Fuente · www.nature.com",
+        "url": "https://www.nature.com/articles/s41598-021-84310-w"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Era realmente un ordenador?",
+        "answer": "Era un calculador mecánico analógico: los engranajes representaban relaciones astronómicas, sin electrónica ni software moderno."
+      },
+      {
+        "question": "¿Dónde está el original?",
+        "answer": "Los fragmentos se conservan en el Museo Arqueológico Nacional de Atenas."
+      },
+      {
+        "question": "¿Quién lo construyó?",
+        "answer": "No se ha identificado al fabricante con certeza. Las atribuciones concretas deben presentarse como hipótesis."
+      },
+      {
+        "question": "¿Se ha reconstruido todo con seguridad?",
+        "answer": "No. Las funciones están bien fundamentadas, pero componentes desaparecidos y engranajes frontales siguen investigándose."
+      }
+    ],
+    "readingTimeMinutes": 6
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/antikythera-mechanism-ancient-analog-computer/",
+    "path": "/fr/articles/antikythera-mechanism-ancient-analog-computer/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "LE MÉCANISME D’ANTICYTHÈRE : LE PREMIER ORDINATEUR ANALOGIQUE CONNU",
+    "seoTitle": "Mécanisme d’Anticythère : comprendre le calculateur antique",
+    "description": "Engrenages, prédictions astronomiques et fragments : comprendre Anticythère en distinguant les vestiges des reconstitutions modernes.",
+    "excerpt": "Engrenages, prédictions astronomiques et fragments : comprendre Anticythère en distinguant les vestiges des reconstitutions modernes.",
+    "headlineHighlights": {
+      "red": "MÉCANISME D’ANTICYTHÈRE",
+      "gold": "PREMIER ORDINATEUR ANALOGIQUE CONNU"
+    },
+    "keywords": [
+      "MÉCANISME D’ANTICYTHÈRE",
+      "PREMIER ORDINATEUR ANALOGIQUE CONNU"
+    ],
+    "searchIntent": "Engrenages, prédictions astronomiques et fragments : comprendre Anticythère en distinguant les vestiges des reconstitutions modernes.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/antikythera-mechanism-ancient-analog-computer.jpg",
+      "alt": "Illustration éditoriale fournie inspirée du mécanisme d’Anticythère, sans identification comme photographie du musée.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Le mécanisme d’Anticythère est le plus ancien calculateur astronomique à engrenages conservé que nous connaissions. Souvent qualifié de premier ordinateur analogique, cet instrument du monde grec antique représente les cycles célestes par des roues de bronze. Son importance tient à cette prouesse mécanique, pas à l’apparition inexplicable d’un appareil électronique dans l’Antiquité. [Source · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les vestiges se trouvent au Musée national archéologique d’Athènes. Cette masse abîmée de métal témoigne de liens élaborés entre observation, mathématiques et savoir-faire. Sa lecture réunit archéologues, historiens de l’astronomie, spécialistes de l’imagerie et ingénieurs."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_528]]",
+        "caption": "Anticythère : preuves et interprétations. Sources : ministère grec, chronologie du projet et UCL. La datation demeure approximative.",
+        "headings": [
+          "Élément",
+          "Ce qu’il établit"
+        ],
+        "rows": [
+          [
+            "Probablement 150–100 avant notre ère",
+            "Datation proposée par le catalogue ministériel."
+          ],
+          [
+            "82 fragments ; 30 engrenages conservés",
+            "Vestiges, sans inventaire complet des pièces d’origine."
+          ],
+          [
+            "1900–1902",
+            "Découverte, récupération et reconnaissance sont distinctes."
+          ],
+          [
+            "Modèle du cosmos de 2021",
+            "Proposition pour les mécanismes frontaux manquants."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Que devait calculer le mécanisme ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le ministère grec de la Culture décrit un instrument calculant les mouvements du Soleil et de la Lune, probablement aussi des cinq planètes connues dans l’Antiquité, et prédisant notamment les éclipses. Il servait également aux calendriers et aux célébrations panhelléniques, reliant ainsi le ciel à l’organisation du temps humain. [Source · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "« Ordinateur » convient au sens d’un dispositif effectuant des calculs, mais devient trompeur s’il évoque écran, électricité ou logiciel. Les rapports sont inscrits dans la taille et l’agencement des engrenages. Lorsque l’entrée tourne, les pièces liées se déplacent selon des proportions représentant les cycles astronomiques."
+      },
+      {
+        "type": "subheading",
+        "text": "Comment un engrenage calcule"
+      },
+      {
+        "type": "paragraph",
+        "text": "Deux roues dentées transmettent un mouvement, mais leur nombre de dents définit aussi leur rotation relative. Plusieurs rapports combinés permettent de représenter un cycle plus long ou complexe. Une aiguille traduit ensuite la rotation obtenue en position lisible sur un cadran."
+      },
+      {
+        "type": "paragraph",
+        "text": "C’est du calcul analogique : un mouvement physique représente une grandeur variable. L’utilisateur manipule un modèle mécanique plutôt qu’un programme moderne. La réussite consiste à rendre utilisable un savoir astronomique difficile dans un instrument assez petit pour être transporté."
+      },
+      {
+        "type": "heading",
+        "text": "Une découverte en trois temps"
+      },
+      {
+        "type": "paragraph",
+        "text": "Des pêcheurs d’éponges découvrent l’épave au large d’Anticythère en 1900. La récupération des antiquités suit en 1900–1901 ; l’objet à engrenages est reconnu en 1902. Découvrir le navire, remonter ses vestiges et comprendre qu’un objet corrodé contient une machine sont trois étapes distinctes. [Source · new.antikythera-mechanism.gr](https://new.antikythera-mechanism.gr/history)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La découverte n’est donc pas toujours un instant spectaculaire unique. Un objet peut être récupéré avant que son importance soit comprise. Ici, le sauvetage sous-marin devient examen muséal, puis programme scientifique poursuivi sur plusieurs générations."
+      },
+      {
+        "type": "heading",
+        "text": "Quel âge a-t-il et que reste-t-il ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le catalogue ministériel propose une datation probable de 150–100 avant notre ère. La date précise reste discutée ; l’origine d’un cycle astronomique calculé n’est pas nécessairement l’année de fabrication. L’instrument peut également être plus ancien que le naufrage qui l’a préservé. [Source · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les chercheurs travaillent sur 82 fragments catalogués et 30 engrenages de bronze conservés. Ce ne sont pas les pièces d’un inventaire original complet. Selon UCL, environ un tiers du mécanisme subsiste : reconstruire impose de tenir compte du vide comme du métal observable. [Source · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "subheading",
+        "text": "Un mode d’emploi gravé dans le métal"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les inscriptions grecques constituent une partie essentielle des preuves. Certaines portent sur les calculs astronomiques et calendaires, d’autres sur l’utilisation. Le texte peut révéler une fonction que les seules pièces mécaniques conservées ne suffiraient pas à expliquer. [Source · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces inscriptions inscrivent aussi l’objet dans une culture technique humaine. Il fallait concevoir les rapports, fabriquer et assembler les pièces, puis lire les résultats. Le mécanisme témoigne de compétences liées, même si les noms des personnes concernées restent inconnus."
+      },
+      {
+        "type": "heading",
+        "text": "Voir à travers la corrosion"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2005, la radiographie tridimensionnelle et l’imagerie de surface apportent des informations invisibles à l’œil nu. Inscriptions cachées et détails internes aident à comprendre la prédiction des éclipses et le mouvement variable de la Lune, sans séparer matériellement toutes les couches corrodées. [Source · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cela distingue l’observation d’une simple invention de machine. Une image radiographique impose l’emplacement réel d’un engrenage ou d’un texte. Le modèle doit satisfaire ces contraintes, pas seulement produire un résultat astronomique par une méthode sans rapport avec les vestiges."
+      },
+      {
+        "type": "heading",
+        "text": "L’apport du modèle de 2021"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2021, l’équipe d’UCL publie dans Scientific Reports une proposition pour l’affichage frontal du cosmos. Elle associe vestiges et inscriptions à une reconstruction de la présentation du Soleil, de la Lune et des planètes. C’est une tentative majeure d’expliquer les engrenages manquants, pas la découverte d’un instrument intact. [Source · www.nature.com](https://www.nature.com/articles/s41598-021-84310-w)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’équipe examine notamment les cycles inscrits de 462 ans pour Vénus et 442 pour Saturne. Ils décrivent des configurations observées depuis la Terre, dont les rétrogradations apparentes. Ce ne sont pas les durées modernes de révolution de ces planètes autour du Soleil. [Source · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "subheading",
+        "text": "Un modèle est une proposition vérifiable"
+      },
+      {
+        "type": "paragraph",
+        "text": "UCL présente la fabrication avec des techniques antiques comme un défi supplémentaire. Une disposition théorique viable et une méthode historique démontrée répondent à des questions proches, mais différentes. Il faut considérer espace, matériaux, précision et assemblage autant que mathématiques."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tout n’est pas incertain pour autant. Les vestiges établissent solidement l’existence d’une machine astronomique élaborée. La prudence concerne l’agencement et la fabrication des parties manquantes. L’expliquer vaut mieux que traiter chaque réplique soignée comme l’image certaine du modèle antique."
+      },
+      {
+        "type": "heading",
+        "text": "Une importance historique exceptionnelle"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le mécanisme réunit astronomie, modélisation mathématique et travail du métal. L’Antiquité produisait donc aussi des modèles opératoires, pas seulement des descriptions ou des schémas. Ici, les connaissances devaient s’emboîter, tenir dans un espace limité et fonctionner."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le dossier de PRESDA sur [la civilisation grecque antique](/articles/ancient-greece-civilization-history/) fournit le contexte. Le mécanisme appartient aussi à une histoire des savoirs circulant entre cultures, plutôt qu’à un miracle solitaire. UCL rappelle l’importance de l’astronomie babylonienne antérieure dans cet arrière-plan intellectuel. [Source · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+      },
+      {
+        "type": "heading",
+        "text": "Que signifie « premier ordinateur » ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Aucun vestige ne permet de prouver qu’il fut le premier instrument de ce type jamais fabriqué. La formulation rigoureuse est « le plus ancien exemple conservé connu ». L’absence d’un autre exemplaire ne démontre pas qu’il n’existait ni prédécesseurs ni ateliers apparentés."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le portrait de [l’algèbre d’al-Khwarizmi](/articles/al-khwarizmi-mathematician-modern-algebra/) suit une autre voie dans l’histoire du calcul. Anticythère permet, lui, de voir une pensée matérialisée : un modèle du temps céleste qu’une main pouvait mettre en mouvement."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · olympicgames.culture.gov.gr",
+        "url": "https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html"
+      },
+      {
+        "label": "Source · new.antikythera-mechanism.gr",
+        "url": "https://new.antikythera-mechanism.gr/history"
+      },
+      {
+        "label": "Source · www.ucl.ac.uk",
+        "url": "https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer"
+      },
+      {
+        "label": "Source · www.nature.com",
+        "url": "https://www.nature.com/articles/s41598-021-84310-w"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Était-ce vraiment un ordinateur ?",
+        "answer": "C’était un calculateur mécanique analogique : des engrenages représentaient les rapports astronomiques, sans électronique ni logiciel moderne."
+      },
+      {
+        "question": "Où se trouve l’original ?",
+        "answer": "Les fragments sont conservés au Musée national archéologique d’Athènes."
+      },
+      {
+        "question": "Qui l’a fabriqué ?",
+        "answer": "Le fabricant n’est pas identifié avec certitude. Les attributions précises restent des hypothèses."
+      },
+      {
+        "question": "La reconstruction est-elle entièrement certaine ?",
+        "answer": "Non. Les fonctions sont solidement étayées, mais les pièces manquantes et les engrenages frontaux restent étudiés et testés."
+      }
+    ],
+    "readingTimeMinutes": 6
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/apple-iphone-18-foldable-future-products/",
     "path": "/ar/articles/apple-iphone-18-foldable-future-products/",
     "kind": "article",
@@ -139554,6 +140241,645 @@
         "answer": "Les archives publiques comprennent de nombreux types de documents, mais une simple apparition dans les pièces publiées ne prouve pas qu’une personne était cliente ou avait commis des violences sexuelles."
       }
     ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/essex-whale-sank-ship-1820/",
+    "path": "/ar/articles/essex-whale-sank-ship-1820/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "إسكس: حوت العنبر الذي أغرق سفينة",
+    "seoTitle": "إسكس: الغرق الذي ألهم موبي ديك",
+    "description": "ضرب حوت عنبر سفينة إسكس عام ١٨٢٠. قصة الغرق وقرارات الناجين وكيف تحولت الكارثة إلى أحد منابع رواية موبي ديك.",
+    "excerpt": "ضرب حوت عنبر سفينة إسكس عام ١٨٢٠. قصة الغرق وقرارات الناجين وكيف تحولت الكارثة إلى أحد منابع رواية موبي ديك.",
+    "headlineHighlights": {
+      "red": "إسكس",
+      "gold": "حوت العنبر الذي أغرق سفينة"
+    },
+    "keywords": [
+      "إسكس",
+      "حوت العنبر الذي أغرق سفينة"
+    ],
+    "searchIntent": "ضرب حوت عنبر سفينة إسكس عام ١٨٢٠. قصة الغرق وقرارات الناجين وكيف تحولت الكارثة إلى أحد منابع رواية موبي ديك.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/essex-whale-sank-ship-1820.jpg",
+      "alt": "رسم تحريري مقدّم لهجوم على إسكس مع إشارات أدبية، وليس صورة أرشيفية توثق الواقعة.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "في ٢٠ نوفمبر ١٨٢٠، ضرب حوت عنبر سفينة إسكس في المحيط الهادئ، فتحولت رحلة صيد تجارية إلى صراع للبقاء. هرب عشرون رجلاً في ثلاثة قوارب صغيرة، ولم ينجُ في النهاية سوى ثمانية. ألهمت الكارثة رواية موبي ديك، لكن أقسى فصولها وقع بعد اختفاء السفينة والحوت عن الأنظار. [المصدر · digitalcommons.unl.edu](https://digitalcommons.unl.edu/etas/98/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "هذا الفرق أساسي. تجعل رواية هرمان ملفيل مطاردة الحوت محور رحلة خيالية، بينما تتناول إسكس أيضاً الملاحة والجوع والقيادة واتخاذ القرار بمعرفة ناقصة. اصطدام استمر دقائق أطلق محنة امتدت شهوراً."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_527]]",
+        "caption": "إسكس في أربع مراحل. المصادر: رواية تشيس والأعمال المؤسسية المرتبطة أدناه. وقائع الإنقاذ منفصلة.",
+        "headings": [
+          "المرحلة",
+          "ما حدث"
+        ],
+        "rows": [
+          [
+            "أغسطس ١٨١٩",
+            "أبحرت إسكس من نانتوكيت بقيادة جورج بولارد الابن."
+          ],
+          [
+            "٢٠ نوفمبر ١٨٢٠",
+            "ضرب حوت السفينة؛ هرب عشرون رجلاً في ثلاثة قوارب."
+          ],
+          [
+            "١٨٢١",
+            "أنقذت عمليات منفصلة ثمانية من الرجال العشرين."
+          ],
+          [
+            "١٨٥١",
+            "صدرت موبي ديك وحولت أحد مؤثراتها الواقعية إلى خيال."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "سفينة في اقتصاد صيد الحيتان"
+      },
+      {
+        "type": "paragraph",
+        "text": "غادرت إسكس نانتوكيت في أغسطس ١٨١٩ بقيادة جورج بولارد الابن، وكان أوين تشيس ضابطها الأول. انتمت إلى اقتصاد يقوم على رحلات بعيدة وقتل الحيتان ومعالجتها تجارياً. فالذين سيصبحون منكوبين خرجوا إلى البحر صيادين، لا ركاباً. [المصدر · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "كان العمل خطراً قبل الهجوم الاستثنائي. يغادر الرجال السفينة بقوارب مكشوفة للاقتراب من حيوانات ضخمة، وقد يؤدي تلف القارب إلى إصابتهم أو عزلهم. وتحمل السفينة الأم المؤن والمعدات اللازمة لرحلة طويلة، لذا كان فقدانها فقداناً لمركز عالمهم المهني."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا حدث في ٢٠ نوفمبر؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يصف تشيس في روايته المنشورة ضربتين من حوت عنبر كبير. تركت الثانية السفينة مصابة إصابة قاتلة. جمع الرجال ما استطاعوا إنقاذه وجهزوا قوارب الصيد لعبور لم يتوقع أحد أن يخوضه في مراكب بهذا الحجم. [المصدر · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "الشهادة لا تكشف نية الحيوان"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يمكن الجزم بما أراده الحوت. يروي تشيس ما اعتقد ناجٍ أنه شاهده، ولا يثبت أن الحيوان انتقم. تساعد الرسوم والأفلام على تخيل المشهد، لكنها لا تحدد الدافع ولا تقدم قياساً موثوقاً لحجم الحوت."
+      },
+      {
+        "type": "paragraph",
+        "text": "ومن المفيد فصل علم الأحياء عن الأسطورة. يبحث تقرير PRESDA عن [نوم حيتان العنبر عمودياً](/articles/why-sperm-whales-sleep-vertically/) في سلوك الحيوان نفسه، بينما تسجل إسكس لقاء محدداً من منظور أناس اعتمد رزقهم على صيده."
+      },
+      {
+        "type": "heading",
+        "text": "لماذا اتجه الرجال شرقاً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "بعد الغرق كان عليهم اختيار طريق عبر محيط شاسع. يسجل تشيس نقاشهم حول جزر إلى الغرب وخوفهم من سكانها، ثم اختيار التوجه نحو أميركا الجنوبية. تصف تلك المخاوف نظرتهم إلى العالم، ولا تثبت أن المجتمعات التي تخيلوها كانت خطراً فعلياً. [المصدر · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "استبدل القرار شكلاً من عدم اليقين بآخر. قد تبدو قارة معروفة أكثر طمأنينة من جزيرة مجهولة، لكن الوصول إليها تطلب عبوراً بالغ الطول. وكانت الرياح وحالة القوارب والملاحة والمؤن عوامل حاسمة. وجود وجهة على خريطة لا يجعلها ملاذاً يمكن بلوغه."
+      },
+      {
+        "type": "heading",
+        "text": "الوصول إلى اليابسة لم ينهِ الطوارئ"
+      },
+      {
+        "type": "paragraph",
+        "text": "بلغ الناجون جزيرة تُعرف اليوم بهندرسون، ووجدوا بعض الطعام والماء دون حل يكفي الجميع على المدى الطويل. بقي ثلاثة رجال، وعاد الباقون إلى البحر. ثم تفرقت القوارب، فأصبحت المحنة قصص بقاء متعددة لا رحلة متصلة للجميع. [المصدر · digitalcommons.unl.edu](https://digitalcommons.unl.edu/etas/98/) [المصدر · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تخالف هندرسون الصورة المألوفة التي تجعل ظهور اليابسة مرادفاً للخلاص. فقد قدمت راحة مؤقتة دون موارد مستدامة لكل المجموعة. حمل البقاء والرحيل أخطاراً مختلفة، وأنقذ الرجال الثلاثة الذين بقوا لاحقاً، ليكونوا ضمن الثمانية الناجين."
+      },
+      {
+        "type": "heading",
+        "text": "الجوع والناس وراء الفاجعة"
+      },
+      {
+        "type": "paragraph",
+        "text": "حين نفدت الإمدادات، مات رجال ولجأ ناجون إلى أكل أجساد رفاق متوفين، وهو ما يصفه تشيس مباشرة. وتسجل روايات الكارثة أيضاً اقتراعاً وقتل أحد أفراد الطاقم في قارب بولارد. ينبغي عرض هذه الوقائع بوضوح من دون تحويل الضحايا إلى فرجة. [المصدر · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm) [المصدر · www.lindahall.org](https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ويحد تفرق القوارب مما يستطيع كل شاهد روايته مباشرة. كان تشيس شاهداً على تجربة مجموعته، وعرف أجزاء أخرى من ناجين. ويوضح حفظ هذا الفرق كيف يعيد المؤرخون بناء الحكاية من شهادات أناس تعرضوا لمعاناة قصوى."
+      },
+      {
+        "type": "subheading",
+        "text": "جاء الإنقاذ على مراحل منفصلة"
+      },
+      {
+        "type": "paragraph",
+        "text": "أنقذ خمسة رجال من قاربين في فبراير ١٨٢١، ولم يُعثر على القارب الثالث. وأنقذ الرجال الثلاثة الذين بقوا على الجزيرة بصورة منفصلة. نجا ثمانية من عشرين، ولم يعد اثنا عشر. لم يقع مشهد إنقاذ واحد يجمع الطاقم الأصلي كله في البحر. [المصدر · digitalcommons.unl.edu](https://digitalcommons.unl.edu/etas/98/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الأرقام قاسية لكنها لا تختصر التجربة. فلم تعتمد النجاة على التحمل وحده؛ مرور سفينة أو التفرق في الظلام أو الموارد الباقية قد يغير الفرص. وقد تجعل الروايات اللاحقة المصادفة تبدو مجرد مكافأة للإرادة، وهو تبسيط لما واجهه الرجال."
+      },
+      {
+        "type": "heading",
+        "text": "كيف دخلت إسكس عالم موبي ديك؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "نشر تشيس روايته في ١٨٢١، فقدم سجلاً مبكراً للهجوم وما تلاه. عرف ملفيل الرواية، وأصبحت الكارثة أحد مؤثرات موبي ديك التي نشرت عام ١٨٥١. وتتبع مكتبة ليندا هول هذه الصلة عبر الكتاب والأشخاص المرتبطين به. [المصدر · www.lindahall.org](https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لكن الرواية ليست محضراً للوقائع. فبيكود والقبطان آهاب والحوت الأدبي عناصر خيالية. قدمت إسكس سابقة حقيقية لتدمير حوت سفينة، وحول ملفيل هذه الإمكانية إلى بحث أوسع في الهوس والمعرفة والسلطة."
+      },
+      {
+        "type": "heading",
+        "text": "قراءة البقاء دون اختزاله"
+      },
+      {
+        "type": "paragraph",
+        "text": "يبقى الهجوم بداية القصة فقط. وتثير بقية المحنة أسئلة القيادة والخوف والتعاون وتقدير الخطر تحت الضغط. ويتناول تقرير PRESDA عن [النجاة خلال ٧٢ يوماً في الأنديز](/articles/72-days-andes-flight-571-survival/) كارثة أخرى ارتبطت فيها القرارات الجماعية والتعامل مع الموتى بالبقاء على قيد الحياة."
+      },
+      {
+        "type": "paragraph",
+        "text": "لا تحتاج القصتان إلى خطب مختلقة أو خصم نعرف دوافعه تماماً. وفي إسكس تبقى البداية الأوثق شهادة الناجين مع تمييز من رأى ماذا. أغرق حوت السفينة، ثم وقعت كارثة إنسانية تجاوزت لحظة الغرق بكثير."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · digitalcommons.unl.edu",
+        "url": "https://digitalcommons.unl.edu/etas/98/"
+      },
+      {
+        "label": "المصدر · whalesite.org",
+        "url": "https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm"
+      },
+      {
+        "label": "المصدر · www.lindahall.org",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/"
+      },
+      {
+        "label": "المصدر · www.youtube.com",
+        "url": "https://www.youtube.com/watch?v=i09KmeQyBWY"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل أغرق حوت سفينة إسكس فعلاً؟",
+        "answer": "نعم. يصف الناجي أوين تشيس ضربات حوت عنبر في ٢٠ نوفمبر ١٨٢٠."
+      },
+      {
+        "question": "كم شخصاً نجا؟",
+        "answer": "ثمانية من عشرين: خمسة أنقذوا من قاربين وثلاثة أنقذوا من الجزيرة التي بقوا عليها."
+      },
+      {
+        "question": "هل تروي موبي ديك قصة إسكس نفسها؟",
+        "answer": "كانت الكارثة ورواية تشيس من مؤثرات ملفيل، لكن شخصيات الرواية وأحداثها ليست إعادة بناء مباشرة."
+      },
+      {
+        "question": "هل نعرف سبب هجوم الحوت؟",
+        "answer": "لا يمكن إثبات دافع محدد بيقين، ولا تثبت شهادة الناجي قصة انتقام متعمد."
+      }
+    ],
+    "readingTimeMinutes": 5
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/essex-whale-sank-ship-1820/",
+    "path": "/es/articles/essex-whale-sank-ship-1820/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "EL ESSEX: EL CACHALOTE QUE HUNDIÓ UN BARCO",
+    "seoTitle": "El Essex: el naufragio que inspiró Moby-Dick",
+    "description": "Un cachalote golpeó el Essex en 1820. El naufragio, las decisiones de los supervivientes y su transformación literaria en Moby-Dick.",
+    "excerpt": "Un cachalote golpeó el Essex en 1820. El naufragio, las decisiones de los supervivientes y su transformación literaria en Moby-Dick.",
+    "headlineHighlights": {
+      "red": "EL ESSEX",
+      "gold": "CACHALOTE QUE HUNDIÓ UN BARCO"
+    },
+    "keywords": [
+      "EL ESSEX",
+      "CACHALOTE QUE HUNDIÓ UN BARCO"
+    ],
+    "searchIntent": "Un cachalote golpeó el Essex en 1820. El naufragio, las decisiones de los supervivientes y su transformación literaria en Moby-Dick.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/essex-whale-sank-ship-1820.jpg",
+      "alt": "Ilustración editorial facilitada del ataque al Essex con referencias literarias, sin valor documental de archivo.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "El 20 de noviembre de 1820, un cachalote golpeó el Essex en el Pacífico y convirtió una expedición ballenera en una lucha por sobrevivir. Veinte hombres escaparon en tres pequeñas embarcaciones. Solo ocho sobrevivieron. El desastre inspiró Moby-Dick, pero lo más terrible ocurrió después de perder de vista al animal y al barco. [Fuente · digitalcommons.unl.edu](https://digitalcommons.unl.edu/etas/98/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La diferencia importa. En la novela de Herman Melville, la persecución organiza un viaje ficticio. La historia del Essex también trata de navegación, hambre, mando y decisiones con información incompleta. Una colisión de minutos desencadenó meses de sufrimiento."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_527]]",
+        "caption": "El Essex en cuatro etapas. Fuentes: relato de Chase y estudios institucionales citados. Los rescates fueron distintos.",
+        "headings": [
+          "Etapa",
+          "Hecho"
+        ],
+        "rows": [
+          [
+            "Agosto de 1819",
+            "Salida de Nantucket al mando de George Pollard Jr."
+          ],
+          [
+            "20 de noviembre de 1820",
+            "Un cachalote golpeó el barco; veinte hombres escaparon en tres botes."
+          ],
+          [
+            "1821",
+            "Rescates separados permitieron sobrevivir a ocho hombres."
+          ],
+          [
+            "1851",
+            "Moby-Dick transformó una influencia real en ficción."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Un barco de la economía ballenera"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Essex salió de Nantucket en agosto de 1819 al mando de George Pollard Jr., con Owen Chase como primer oficial. Pertenecía a una economía de viajes lejanos, caza y procesamiento de cetáceos. Los futuros náufragos habían embarcado como cazadores, no como pasajeros. [Fuente · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El oficio ya entrañaba peligro. Los hombres dejaban el barco en botes abiertos para acercarse a animales enormes. Una avería podía herirlos o dejarlos aislados. El buque principal llevaba los víveres y equipos necesarios para una campaña larga: perderlo significaba perder el centro de su mundo de trabajo."
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué ocurrió el 20 de noviembre?"
+      },
+      {
+        "type": "paragraph",
+        "text": "El relato publicado por Chase describe dos golpes de un gran cachalote. El segundo dejó al barco condenado. Los hombres rescataron lo que pudieron y prepararon los botes para una travesía que ninguno había previsto hacer en embarcaciones tan pequeñas. [Fuente · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "El testimonio no explica la intención del animal"
+      },
+      {
+        "type": "paragraph",
+        "text": "No podemos establecer qué pretendía el cachalote. Chase ofrece lo que un superviviente creyó ver, no una prueba de venganza. Las imágenes dramáticas y las películas ayudan a imaginar la escena, pero no determinan su motivo ni permiten medir al animal con fiabilidad."
+      },
+      {
+        "type": "paragraph",
+        "text": "Conviene separar biología y leyenda. El reportaje de PRESDA sobre [por qué los cachalotes duermen verticalmente](/articles/why-sperm-whales-sleep-vertically/) examina su comportamiento. El Essex recoge un encuentro concreto desde la experiencia de quienes vivían de cazarlos."
+      },
+      {
+        "type": "heading",
+        "text": "Por qué navegaron hacia el este"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tras el hundimiento, los hombres debían elegir una ruta por un océano inmenso. Chase describe las islas al oeste y sus temores sobre los habitantes. El plan adoptado apuntó a Sudamérica. Esos miedos reflejan la visión de los marineros, no un peligro demostrado de las comunidades que imaginaban. [Fuente · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La decisión cambió una incertidumbre por otra. Un continente conocido podía parecer más seguro que una isla desconocida, pero exigía una travesía excepcionalmente larga. Vientos, estado de los botes, navegación y provisiones influirían en el resultado. Una costa en el mapa no equivalía a un refugio alcanzable."
+      },
+      {
+        "type": "heading",
+        "text": "Llegar a tierra no terminó la emergencia"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alcanzaron una isla hoy identificada como Henderson. Encontraron algunos alimentos y agua, pero ninguna solución sostenible para todos. Tres hombres se quedaron; los demás volvieron al mar. Después los botes se separaron, convirtiendo el desastre en varias historias de supervivencia. [Fuente · digitalcommons.unl.edu](https://digitalcommons.unl.edu/etas/98/) [Fuente · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Henderson cuestiona la idea de que encontrar tierra asegura la salvación. Ofrecía alivio sin poder mantener a todo el grupo. Quedarse y partir implicaban riesgos. Los tres que permanecieron fueron rescatados y forman parte de los ocho supervivientes finales."
+      },
+      {
+        "type": "heading",
+        "text": "El hambre y las personas detrás del horror"
+      },
+      {
+        "type": "paragraph",
+        "text": "Al agotarse los víveres, murieron hombres y los supervivientes consumieron cuerpos de compañeros fallecidos. Chase lo describe directamente. Otros relatos recogen un sorteo y la muerte deliberada de un tripulante en el bote de Pollard. Son hechos que deben explicarse sin convertir a las víctimas en espectáculo. [Fuente · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm) [Fuente · www.lindahall.org](https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La separación limita lo que cada testigo presenció. Chase podía hablar por su grupo; conoció otros episodios a través de supervivientes. Mantener esa diferencia permite entender cómo los historiadores reconstruyen el desastre con testimonios de personas sometidas a un sufrimiento extremo."
+      },
+      {
+        "type": "subheading",
+        "text": "Los rescates fueron separados"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cinco hombres fueron recogidos de dos botes en febrero de 1821; el tercero nunca apareció. Los tres que habían quedado en la isla fueron rescatados por separado. Sobrevivieron ocho de veinte, mientras doce no regresaron. No hubo una única escena de salvamento que reuniera al grupo original en el mar. [Fuente · digitalcommons.unl.edu](https://digitalcommons.unl.edu/etas/98/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cifra no cuenta toda la experiencia. Resistir no bastaba: el paso de un barco, una separación nocturna o los recursos restantes podían cambiar las posibilidades. Las versiones posteriores corren el riesgo de presentar la suerte como si fuera únicamente una recompensa a la determinación."
+      },
+      {
+        "type": "heading",
+        "text": "Cómo el Essex llegó a Moby-Dick"
+      },
+      {
+        "type": "paragraph",
+        "text": "El relato de Chase apareció en 1821, como registro temprano del ataque y sus consecuencias. Melville lo conocía, y la catástrofe influyó en Moby-Dick, publicada en 1851. La Biblioteca Linda Hall sigue esta relación a través del libro y sus protagonistas. [Fuente · www.lindahall.org](https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La novela no es una transcripción. El Pequod, el capitán Ahab y el cachalote literario pertenecen a la ficción. El Essex aportó un precedente real de un cetáceo destruyendo un barco; Melville lo transformó en una exploración de la obsesión, el conocimiento y el poder."
+      },
+      {
+        "type": "heading",
+        "text": "Leer la supervivencia sin simplificarla"
+      },
+      {
+        "type": "paragraph",
+        "text": "El ataque solo es el principio. Lo que sigue plantea cuestiones de mando, miedo, cooperación y evaluación del peligro bajo presión. La historia de PRESDA sobre [los 72 días en los Andes](/articles/72-days-andes-flight-571-survival/) aborda otro desastre en el que decisiones colectivas y tratamiento de los muertos quedaron unidos a la supervivencia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ninguna historia necesita discursos inventados o un antagonista totalmente comprensible. Para el Essex, el punto de partida es el testimonio, distinguiendo quién presenció cada hecho. Un cachalote hundió el barco; después se desarrolló una catástrofe humana mucho más larga que el naufragio."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · digitalcommons.unl.edu",
+        "url": "https://digitalcommons.unl.edu/etas/98/"
+      },
+      {
+        "label": "Fuente · whalesite.org",
+        "url": "https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm"
+      },
+      {
+        "label": "Fuente · www.lindahall.org",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/"
+      },
+      {
+        "label": "Fuente · www.youtube.com",
+        "url": "https://www.youtube.com/watch?v=i09KmeQyBWY"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Un cachalote hundió realmente el Essex?",
+        "answer": "Sí. El superviviente Owen Chase describe los golpes del 20 de noviembre de 1820."
+      },
+      {
+        "question": "¿Cuántas personas sobrevivieron?",
+        "answer": "Ocho de veinte: cinco recuperadas de dos botes y tres rescatadas de la isla donde permanecieron."
+      },
+      {
+        "question": "¿Moby-Dick cuenta la historia del Essex?",
+        "answer": "El desastre y el relato de Chase influyeron en Melville, pero su novela no es una reconstrucción directa."
+      },
+      {
+        "question": "¿Se conoce el motivo del ataque?",
+        "answer": "No. El testimonio no permite demostrar con certeza una intención de venganza."
+      }
+    ],
+    "readingTimeMinutes": 6
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/essex-whale-sank-ship-1820/",
+    "path": "/fr/articles/essex-whale-sank-ship-1820/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "L’ESSEX : LE CACHALOT QUI A COULÉ UN NAVIRE",
+    "seoTitle": "L’Essex : le naufrage qui a inspiré Moby-Dick",
+    "description": "En 1820, un cachalot frappe l’Essex. Le naufrage, les choix des survivants et la transformation d’une catastrophe réelle en Moby-Dick.",
+    "excerpt": "En 1820, un cachalot frappe l’Essex. Le naufrage, les choix des survivants et la transformation d’une catastrophe réelle en Moby-Dick.",
+    "headlineHighlights": {
+      "red": "L’ESSEX",
+      "gold": "CACHALOT QUI A COULÉ UN NAVIRE"
+    },
+    "keywords": [
+      "L’ESSEX",
+      "CACHALOT QUI A COULÉ UN NAVIRE"
+    ],
+    "searchIntent": "En 1820, un cachalot frappe l’Essex. Le naufrage, les choix des survivants et la transformation d’une catastrophe réelle en Moby-Dick.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/essex-whale-sank-ship-1820.jpg",
+      "alt": "Illustration éditoriale fournie représentant l’attaque de l’Essex et des références littéraires, sans valeur d’archive.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Le 20 novembre 1820, un cachalot frappe l’Essex dans le Pacifique et transforme une campagne baleinière en lutte pour la survie. Vingt hommes s’échappent dans trois petites embarcations. Huit seulement survivront. La catastrophe inspirera Moby-Dick, mais les épreuves les plus terribles commencent après la disparition du navire et de l’animal. [Source · digitalcommons.unl.edu](https://digitalcommons.unl.edu/etas/98/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinction est essentielle. Chez Herman Melville, la poursuite du cachalot organise un voyage fictif. L’histoire de l’Essex concerne aussi la navigation, la faim, le commandement et des décisions prises avec des connaissances incomplètes. Quelques minutes de collision entraînent des mois de souffrance."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_527]]",
+        "caption": "L’Essex en quatre étapes. Sources : récit de Chase et travaux institutionnels cités. Les sauvetages sont distincts.",
+        "headings": [
+          "Étape",
+          "Événement"
+        ],
+        "rows": [
+          [
+            "Août 1819",
+            "Départ de Nantucket sous George Pollard Jr."
+          ],
+          [
+            "20 novembre 1820",
+            "Un cachalot frappe le navire ; vingt hommes fuient dans trois bateaux."
+          ],
+          [
+            "1821",
+            "Des sauvetages séparés permettent à huit hommes de survivre."
+          ],
+          [
+            "1851",
+            "Moby-Dick paraît et transforme une influence réelle en fiction."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Un navire au service de la chasse baleinière"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’Essex quitte Nantucket en août 1819 sous le commandement de George Pollard Jr., avec Owen Chase comme second. Les longues campagnes, la mise à mort des cétacés et leur transformation constituent une activité commerciale ordinaire. Ceux qui deviendront des naufragés sont partis comme chasseurs, pas comme passagers. [Source · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le métier expose déjà les hommes au danger. Ils quittent le navire en embarcations ouvertes pour approcher d’immenses animaux. Une avarie peut les blesser ou les isoler. Le bâtiment principal transporte les provisions et le matériel indispensables à une campagne prolongée : le perdre revient à perdre le centre de leur univers de travail."
+      },
+      {
+        "type": "heading",
+        "text": "Que se passe-t-il le 20 novembre ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le récit publié par Chase décrit deux chocs infligés par un grand cachalot. Le second condamne le bâtiment. Les hommes récupèrent ce qu’ils peuvent et préparent leurs baleinières pour une traversée qu’aucun n’avait prévu d’effectuer dans de si petites embarcations. [Source · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "subheading",
+        "text": "Le témoignage ne révèle pas l’intention de l’animal"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il est impossible d’établir avec certitude ce que voulait le cachalot. Chase rapporte ce qu’un survivant pense avoir vu, sans prouver une vengeance. Les illustrations et les films facilitent la représentation de la scène, mais ne permettent ni d’en déterminer le motif ni de mesurer précisément l’animal."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il faut distinguer la biologie de la légende. Le reportage de PRESDA sur [le sommeil vertical des cachalots](/articles/why-sperm-whales-sleep-vertically/) s’intéresse à leur comportement. Le récit de l’Essex présente une rencontre particulière à travers des hommes dont le métier était de les chasser."
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi choisir la route de l’est ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Après le naufrage, les hommes doivent choisir une route sur un immense océan. Chase évoque des îles à l’ouest et les craintes que leurs habitants inspirent aux marins. Le projet finalement adopté vise l’Amérique du Sud. Ces peurs décrivent leur vision du monde, pas un danger démontré de ces populations insulaires. [Source · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le choix remplace une incertitude par une autre. Un continent connu peut rassurer davantage qu’une île inconnue, mais l’atteindre exige une traversée démesurée. Les vents, l’état des bateaux, la navigation et les vivres détermineront leurs chances. Une destination sur une carte n’est pas nécessairement un refuge accessible."
+      },
+      {
+        "type": "heading",
+        "text": "Toucher terre ne suffit pas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les naufragés atteignent une île aujourd’hui identifiée comme Henderson. Ils y trouvent quelques ressources, mais aucune solution durable pour tout le groupe. Trois hommes restent tandis que les autres reprennent la mer. Les embarcations se séparent ensuite : l’épreuve devient plusieurs histoires distinctes. [Source · digitalcommons.unl.edu](https://digitalcommons.unl.edu/etas/98/) [Source · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Henderson contredit l’image d’un salut assuré dès que la terre apparaît. L’île soulage sans pouvoir nourrir tout le monde durablement. Rester comme partir comporte des risques. Les trois hommes demeurés sur place seront finalement sauvés et compteront parmi les huit survivants."
+      },
+      {
+        "type": "heading",
+        "text": "La famine, sans spectacle"
+      },
+      {
+        "type": "paragraph",
+        "text": "À mesure que les provisions s’épuisent, des hommes meurent et les survivants consomment les corps de compagnons décédés. Chase le raconte directement. Les récits de la catastrophe rapportent aussi un tirage au sort et la mise à mort d’un membre de l’équipage dans l’embarcation de Pollard. Ces faits doivent être dits sans transformer les victimes en spectacle. [Source · whalesite.org](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm) [Source · www.lindahall.org](https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La séparation des bateaux limite ce que chacun a vu personnellement. Chase témoigne pour son groupe ; d’autres épisodes lui sont rapportés par des survivants. Préserver cette distinction éclaire la manière dont les historiens reconstituent la catastrophe à partir de témoignages marqués par une souffrance extrême."
+      },
+      {
+        "type": "subheading",
+        "text": "Plusieurs sauvetages successifs"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cinq hommes sont recueillis dans deux embarcations en février 1821 ; la troisième n’est jamais retrouvée. Les trois hommes restés sur l’île sont sauvés séparément. Huit survivent sur vingt, douze ne reviennent pas. Aucun sauvetage unique ne réunit l’équipage d’origine en mer. [Source · digitalcommons.unl.edu](https://digitalcommons.unl.edu/etas/98/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces chiffres ne résument pas l’expérience. La survie ne dépend pas uniquement de l’endurance : le passage d’un navire, une séparation dans l’obscurité ou les ressources restantes peuvent changer le destin d’un homme. Les récits ultérieurs risquent de présenter la chance comme la seule récompense de la volonté."
+      },
+      {
+        "type": "heading",
+        "text": "De l’Essex à Moby-Dick"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le récit de Chase paraît en 1821 et constitue un témoignage publié précoce sur l’attaque et ses suites. Melville le connaît ; la catastrophe devient l’une des influences de Moby-Dick, publié en 1851. La bibliothèque Linda Hall retrace ce lien à travers le livre et ses protagonistes. [Source · www.lindahall.org](https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le roman n’est donc pas une transcription. Le Pequod, Achab et le cachalot littéraire appartiennent à la fiction. L’Essex fournit un précédent réel à la destruction d’un navire par un cétacé ; Melville transforme cette possibilité en réflexion sur l’obsession, le savoir et le pouvoir."
+      },
+      {
+        "type": "heading",
+        "text": "Lire la survie sans la simplifier"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’attaque n’est que le début. La suite interroge le commandement, la peur, la coopération et l’évaluation du danger sous pression. Le récit de PRESDA sur [les 72 jours de survie dans les Andes](/articles/72-days-andes-flight-571-survival/) examine une autre catastrophe où les choix collectifs et le traitement des morts deviennent indissociables de la survie."
+      },
+      {
+        "type": "paragraph",
+        "text": "Aucune de ces histoires n’exige un discours inventé ou un adversaire parfaitement connaissable. Pour l’Essex, le point de départ reste le témoignage, en distinguant ce que chacun a vu. Un cachalot a coulé le navire ; la catastrophe humaine qui suit dépasse de beaucoup le naufrage."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · digitalcommons.unl.edu",
+        "url": "https://digitalcommons.unl.edu/etas/98/"
+      },
+      {
+        "label": "Source · whalesite.org",
+        "url": "https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm"
+      },
+      {
+        "label": "Source · www.lindahall.org",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/"
+      },
+      {
+        "label": "Source · www.youtube.com",
+        "url": "https://www.youtube.com/watch?v=i09KmeQyBWY"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Un cachalot a-t-il vraiment coulé l’Essex ?",
+        "answer": "Oui. Owen Chase, survivant, décrit les chocs du 20 novembre 1820."
+      },
+      {
+        "question": "Combien d’hommes ont survécu ?",
+        "answer": "Huit sur vingt : cinq recueillis dans deux bateaux et trois sauvés sur l’île où ils étaient restés."
+      },
+      {
+        "question": "Moby-Dick raconte-t-il l’Essex ?",
+        "answer": "La catastrophe et le récit de Chase ont influencé Melville, mais son roman n’est pas une reconstitution directe."
+      },
+      {
+        "question": "Connaît-on le motif de l’attaque ?",
+        "answer": "Non. Le témoignage ne permet pas d’établir avec certitude une intention de vengeance."
+      }
+    ],
+    "readingTimeMinutes": 6
   },
   {
     "locale": "ar",
@@ -328320,6 +329646,645 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/nike-formula-1-apparel-uniform-partner-2027/",
+    "path": "/ar/articles/nike-formula-1-apparel-uniform-partner-2027/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "نايكي تصبح شريك الملابس الرسمي لفورمولا ١",
+    "seoTitle": "نايكي وفورمولا ١: شراكة الملابس تبدأ في ٢٠٢٧",
+    "description": "نايكي تجهز موظفي فورمولا ١ من موسم ٢٠٢٧، مع مجموعات للجمهور ودور في أكاديمية F1. مجموعة لاس فيغاس مقررة في ٢٠ نوفمبر ٢٠٢٦.",
+    "excerpt": "نايكي تجهز موظفي فورمولا ١ من موسم ٢٠٢٧، مع مجموعات للجمهور ودور في أكاديمية F1. مجموعة لاس فيغاس مقررة في ٢٠ نوفمبر ٢٠٢٦.",
+    "headlineHighlights": {
+      "red": "نايكي",
+      "gold": "شريك الملابس الرسمي لفورمولا ١"
+    },
+    "keywords": [
+      "نايكي",
+      "شريك الملابس الرسمي لفورمولا ١"
+    ],
+    "searchIntent": "نايكي تجهز موظفي فورمولا ١ من موسم ٢٠٢٧، مع مجموعات للجمهور ودور في أكاديمية F1. مجموعة لاس فيغاس مقررة في ٢٠ نوفمبر ٢٠٢٦.",
+    "category": "Sport",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/nike-formula-1-apparel-uniform-partner-2027.jpg",
+      "alt": "رسم تحريري مقدّم يجمع نايكي وفورمولا ١ مع سيارة خيالية، وليس تصميماً معلناً لسيارة فريق.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تنضم نايكي إلى فورمولا ١ بشراكة طويلة الأمد تبدأ من موسم ٢٠٢٧. وتصبح شريكاً رسمياً ومورداً للملابس والزي الخاص بموظفي فورمولا ١ في الفعاليات حول العالم. ويشمل الاتفاق مجموعات للجمهور وتجارب خلال السباقات ودوراً في أكاديمية F1، ولا يعلن أن كل الفرق والسائقين سيرتدون نايكي. [المصدر · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ومن المقرر أن يرى الجمهور أول تعبير تجاري قبل ذلك: مجموعة محدودة لنايكي وجائزة لاس فيغاس الكبرى في ٢٠ نوفمبر ٢٠٢٦. وهكذا يسبق الطرح الثقافي دور تجهيز الموظفين العام المنتظر للموسم التالي."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_531]]",
+        "caption": "نايكي وفورمولا ١: التوقيت والنطاق. المصادر: الإعلانات الرسمية. دور الموظفين مختلف عن عقود الفرق والسائقين.",
+        "headings": [
+          "التاريخ أو النطاق",
+          "التفصيل المؤكد"
+        ],
+        "rows": [
+          [
+            "١٩–٢٠ نوفمبر ٢٠٢٦",
+            "نشرت الشركتان إعلاني الشراكة."
+          ],
+          [
+            "٢٠ نوفمبر ٢٠٢٦",
+            "مجموعة لاس فيغاس مقررة بمتجري نايكي وF1 Hub المذكورين."
+          ],
+          [
+            "موسم ٢٠٢٧",
+            "بدء الدور الرسمي لتجهيز موظفي فعاليات فورمولا ١."
+          ],
+          [
+            "أكاديمية F1",
+            "يشمل الاتفاق شراكة رسمية ودور الملابس الرياضية."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي أعلنته فورمولا ١ تحديداً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يسمي البيان المؤسسي لفورمولا ١ المؤرخ ٢٠ نوفمبر نايكي المورد الرسمي للملابس والزي من ٢٠٢٧. أما بيان نايكي المؤرخ ١٩ نوفمبر فيحدد موظفي فورمولا ١ في الفعاليات العالمية. يصف النصان الشراكة نفسها ببداية وفئة مستفيدة محددتين. [المصدر · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership) [المصدر · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتهم الدقة في رياضة متعددة الطبقات التجارية. فقد ترتبط مؤسسة فورمولا ١ والفرق والرياضيون بعلاقات مختلفة مع العلامات. وينبغي فهم اتفاق البطولة بحسب حقوقه المعلنة، لا تعميمه على كل أشكال المشاركة في الحظيرة."
+      },
+      {
+        "type": "subheading",
+        "text": "زي الموظفين ليس بدلات جميع الفرق"
+      },
+      {
+        "type": "paragraph",
+        "text": "يخص الدور المؤكد موظفي فورمولا ١. ولا ينشئ مورداً موحداً لملابس الفرق أو عقود أحذية لكل سائق أو فريقاً تديره نايكي. تحتاج تلك الأمور إلى إعلاناتها الخاصة. والسيارة الخيالية في الصورة تعبر عن فكرة الشراكة، لا طلاء فريق رسمي."
+      },
+      {
+        "type": "paragraph",
+        "text": "وقد يوحي شعار على سيارة بأن فريقاً كشف تصميماً جديداً. لكن الخبر هنا اتفاق ملابس وثقافة مع مؤسسة البطولة. ولا ينبغي للصورة أن تحوله إلى واقعة رياضية أخرى."
+      },
+      {
+        "type": "heading",
+        "text": "المجموعة الأولى في لاس فيغاس"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقول نايكي إن المجموعة المحدودة مقررة في ٢٠ نوفمبر بمتجرها في سيزرز بالاس ومتجر F1 Hub في ذا فينيشيان ريزورت لاس فيغاس. هذه المواقع المعلنة لا تثبت توفرها فوراً في كل متاجر نايكي عالمياً. [المصدر · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يربط الإطلاق الاتفاق بجمهور نهاية أسبوع السباق قبل دور ٢٠٢٧ العام. والمجموعة المحدودة طرح تجاري مركز، لا تجهيز موظفي البطولة طوال موسم. يتيح الأول شراءً للمشجعين، ويلبي الثاني حاجة عمل."
+      },
+      {
+        "type": "subheading",
+        "text": "الموعد المعلن ليس نتيجة مبيعات"
+      },
+      {
+        "type": "paragraph",
+        "text": "تثبت البيانات تاريخاً ومواقع مخططة، ولا تثبت وحدات مبيعة أو نفاد مخزون أو رد فعل العملاء. وتحتاج هذه النتائج إلى أدلة بعد الطرح، خصوصاً حين يقرأ الإعلان عبر مناطق زمنية مختلفة."
+      },
+      {
+        "type": "paragraph",
+        "text": "وقد يتغير المخزون خلال إصدار محدود. على القارئ الرجوع إلى القنوات الرسمية بدلاً من استنتاج الإتاحة من صورة. ولا يختلق هذا التقرير أسعاراً أو كميات أو جدولاً للبيع الإلكتروني لا تقدمه البيانات."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا ينتظر الجمهور غير الزي؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف الشركتان أحذية وملابس وإكسسوارات للاستخدام خارج الحلبة، إلى جانب تجارب خلال السباقات. لذا يجمع الاتفاق التوريد التشغيلي ومنتجات المستهلكين والفعاليات. وهذا يفسر حضور الرياضة والموضة والثقافة معاً في لغة الإعلان. [المصدر · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/) [المصدر · www.formula1.com](https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن للملابس التعبير عن علاقة بالسباق دون نسخ طقم فريق كامل. ويوفر التقويم للعلامات فرصاً متكررة، لكن صلة المجموعة الفعلية بالرياضة ستعتمد على التصميم والتنفيذ، لا على وجود شعارين معروفين فقط."
+      },
+      {
+        "type": "heading",
+        "text": "أكاديمية F1 ضمن الاتفاق"
+      },
+      {
+        "type": "paragraph",
+        "text": "تسمي فورمولا ١ نايكي أيضاً شريكاً رسمياً وشريك الملابس الرياضية الرسمي لأكاديمية F1. وتصف الشركتان العمل مع جيل من السائقات لتطوير منتجات تستند إلى احتياجاتهن. وهكذا يمتد الاتفاق من موظفي الفعاليات إلى سلسلة تطوير محددة. [المصدر · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ويظل الالتزام ضمن نطاقه المعلن. فالملابس وتطوير المنتجات لا يضمنان مقعداً في فورمولا ١ أو نتيجة بطولة أو مشاركات جديدة ممولة. ويمكن تتبع قيمته عبر الدعم والمنتجات التي تقدم فعلاً."
+      },
+      {
+        "type": "subheading",
+        "text": "لغة الأداء تحتاج إلى دليل عملي"
+      },
+      {
+        "type": "paragraph",
+        "text": "ينبغي لملابس العمل والرياضة ملاءمة استخداماتها. فالمقاس والحركة والراحة والتحمل أمور مهمة رغم الصور الترويجية. وتساعد استشارة الرياضيين على فهم الاحتياج، لكنها لا تنشر نتائج اختبارات لمنتجات لم تُفصل بعد."
+      },
+      {
+        "type": "paragraph",
+        "text": "ترسم البيانات اتجاهاً لا مواصفات تقنية كاملة. وتترك تفاصيل أخرى لإعلانات خلال ٢٠٢٧ وما بعدها. وينبغي أن تقدم تلك الإفصاحات معلومات لا يمكن استخراجها من البيان الأول وحده. [المصدر · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)"
+      },
+      {
+        "type": "heading",
+        "text": "مكان الشراكة في عالم فورمولا ١ التجاري"
+      },
+      {
+        "type": "paragraph",
+        "text": "يصل الاتفاق إلى جماهير تتابع السباق عبر الموضة والألعاب والدمى والشبكات الاجتماعية أيضاً. ويعرض تقرير PRESDA عن [مجموعة ليغو لسائقي فورمولا ١](/articles/formula-1-lego-22-driver-minifigures-2027/) مثالاً آخر لامتداد البطولة إلى منتجات بعيدة عن الحلبة."
+      },
+      {
+        "type": "paragraph",
+        "text": "وتظل هذه المنتجات مختلفة عن المنافسة. قد تشكل الشراكات حضور الرياضة اليومي، بينما تحسم النتائج على المضمار وفق القواعد. ويفيد فصل الحقوق التجارية وعرض الفعاليات والأداء الرياضي في فهم الخبر."
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي لم يُكشف؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف البيانات الاتفاق بأنه طويل الأمد دون قيمة مالية أو مدة دقيقة بالسنوات. وتحديد إجمالي عقد أو دفعة سنوية أو موعد انتهاء سيكون اختلاقاً لشرط غير معلن. وينطبق الحذر على عقود فرق وسائقين لم تُعلن. [المصدر · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership) [المصدر · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يقدم تاريخ PRESDA عن [إمبراطوريتي أديداس وبوما](/articles/adidas-puma-dassler-brothers-rival-shoe-empires/) سياقاً للأهمية التجارية للملابس الرياضية. أما الوقائع هنا فمحددة: طرح تجاري في نوفمبر، ودور لموظفي البطولة من ٢٠٢٧، وشراكة تشمل أكاديمية F1. وستجعل المنتجات والتجارب التالية هذه الالتزامات ملموسة."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · about.nike.com",
+        "url": "https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership"
+      },
+      {
+        "label": "المصدر · corp.formula1.com",
+        "url": "https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/"
+      },
+      {
+        "label": "المصدر · www.formula1.com",
+        "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd"
+      }
+    ],
+    "faq": [
+      {
+        "question": "متى يبدأ دور نايكي الرئيسي في الملابس؟",
+        "answer": "مع موسم ٢٠٢٧. أما مجموعة لاس فيغاس المحدودة فمقررة قبل ذلك في ٢٠ نوفمبر ٢٠٢٦."
+      },
+      {
+        "question": "هل سيرتدي كل السائقين والفرق نايكي؟",
+        "answer": "يخص الإعلان موظفي فورمولا ١ والنطاق المحدد، ولا يعلن عقود ملابس لكل فريق وسائق."
+      },
+      {
+        "question": "أين من المقرر طرح المجموعة الأولى؟",
+        "answer": "تذكر نايكي متجرها في سيزرز بالاس وF1 Hub في ذا فينيشيان ريزورت لاس فيغاس."
+      },
+      {
+        "question": "ما قيمة الشراكة؟",
+        "answer": "لا تكشف البيانات الرسمية قيمة مالية أو مدة دقيقة بالسنوات."
+      }
+    ],
+    "readingTimeMinutes": 5
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/nike-formula-1-apparel-uniform-partner-2027/",
+    "path": "/es/articles/nike-formula-1-apparel-uniform-partner-2027/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "NIKE SE CONVIERTE EN SOCIO OFICIAL DE VESTUARIO DE FÓRMULA 1",
+    "seoTitle": "Nike y Fórmula 1: el acuerdo empieza en 2027",
+    "description": "Nike vestirá al personal de F1 desde 2027, con colecciones y F1 Academy. Una cápsula de Las Vegas está prevista para el 20 de noviembre de 2026.",
+    "excerpt": "Nike vestirá al personal de F1 desde 2027, con colecciones y F1 Academy. Una cápsula de Las Vegas está prevista para el 20 de noviembre de 2026.",
+    "headlineHighlights": {
+      "red": "NIKE",
+      "gold": "SOCIO OFICIAL DE VESTUARIO DE FÓRMULA 1"
+    },
+    "keywords": [
+      "NIKE",
+      "SOCIO OFICIAL DE VESTUARIO DE FÓRMULA 1"
+    ],
+    "searchIntent": "Nike vestirá al personal de F1 desde 2027, con colecciones y F1 Academy. Una cápsula de Las Vegas está prevista para el 20 de noviembre de 2026.",
+    "category": "Sport",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/nike-formula-1-apparel-uniform-partner-2027.jpg",
+      "alt": "Ilustración editorial facilitada de Nike y Fórmula 1 con un monoplaza ficticio, no una decoración de equipo anunciada.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Nike se incorpora a Fórmula 1 mediante una alianza de largo plazo que comienza en la temporada 2027. Será socio oficial y proveedor de ropa y uniformes del personal de F1 en eventos mundiales. El acuerdo incluye colecciones, experiencias de carrera y F1 Academy. No anuncia que todos los equipos y pilotos vestirán Nike. [Fuente · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los aficionados tienen previsto ver antes una primera expresión comercial: la cápsula limitada Nike x Las Vegas Grand Prix del 20 de noviembre de 2026. Ese estreno cultural precede al papel general de vestuario del personal para la siguiente temporada."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_531]]",
+        "caption": "Nike y Fórmula 1: fechas y alcance. Fuentes: anuncios oficiales. El personal de F1 es distinto de los contratos de equipos y pilotos.",
+        "headings": [
+          "Fecha o ámbito",
+          "Detalle confirmado"
+        ],
+        "rows": [
+          [
+            "19–20 de noviembre de 2026",
+            "Publicación de los anuncios de la alianza."
+          ],
+          [
+            "20 de noviembre de 2026",
+            "Cápsula prevista en los puntos Nike y F1 Hub indicados en Las Vegas."
+          ],
+          [
+            "Temporada 2027",
+            "Comienza el suministro oficial de vestuario al personal de eventos F1."
+          ],
+          [
+            "F1 Academy",
+            "Incluye alianza oficial y función de ropa deportiva."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Qué ha anunciado exactamente Fórmula 1"
+      },
+      {
+        "type": "paragraph",
+        "text": "El comunicado corporativo de F1, del 20 de noviembre, designa a Nike proveedor oficial de ropa y uniformes desde 2027. Nike publicó el suyo el 19 y especificó personal de F1 en eventos mundiales. Ambos describen la misma alianza, con temporada y destinatarios definidos. [Fuente · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership) [Fuente · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La precisión importa en un deporte con varias capas comerciales. La organización F1, las escuderías y los atletas pueden tener relaciones diferentes con marcas. Un acuerdo del campeonato debe interpretarse por los derechos que concede, sin ampliarlo a todo el paddock."
+      },
+      {
+        "type": "subheading",
+        "text": "Uniformes del personal no significa monos de todas las escuderías"
+      },
+      {
+        "type": "paragraph",
+        "text": "El papel confirmado se refiere al personal de Fórmula 1. No establece un proveedor para todos los equipos, contratos de botas de cada piloto ni un equipo operado por Nike. Eso exigiría anuncios propios. El coche ficticio de la imagen ilustra la alianza, no una decoración oficial."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un logotipo en un monoplaza puede parecer el estreno de un diseño de equipo. Aquí la noticia es un acuerdo de vestuario y cultura con la organización del campeonato. La imagen no debe transformarlo en otro acontecimiento deportivo."
+      },
+      {
+        "type": "heading",
+        "text": "La primera colección pasa por Las Vegas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nike sitúa la cápsula del 20 de noviembre en su tienda Las Vegas de Caesars Palace y en el F1 Hub de The Venetian Resort Las Vegas. Esos puntos no acreditan una disponibilidad mundial inmediata en todas las tiendas de la marca. [Fuente · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El estreno conecta con el público del fin de semana de carrera antes del papel general de 2027. Una cápsula comercial no equivale a vestir al personal durante una temporada. Una responde a compras de aficionados; la otra, a necesidades laborales."
+      },
+      {
+        "type": "subheading",
+        "text": "Un lanzamiento previsto no es una cifra de ventas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los anuncios establecen fecha y lugares, no unidades vendidas, productos agotados o recepción del público. Esos resultados necesitan pruebas posteriores, especialmente cuando la noticia se lee desde distintos husos horarios."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las existencias pueden cambiar en un estreno limitado. Conviene comprobar los canales oficiales, no deducirlas de una imagen. Este reportaje no inventa precios, cantidades ni calendarios de venta en línea que los comunicados no proporcionan."
+      },
+      {
+        "type": "heading",
+        "text": "Qué habrá más allá de uniformes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las empresas describen calzado, ropa y accesorios para fuera del circuito, junto con experiencias de carrera. La alianza combina suministro operativo, productos de consumo y eventos. Eso explica la unión de deporte, moda y cultura en su presentación. [Fuente · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/) [Fuente · www.formula1.com](https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La ropa puede expresar una relación con las carreras sin reproducir un equipo completo. El calendario ofrece varias ocasiones comerciales, pero la conexión real de cada colección con el deporte dependerá del diseño y la ejecución, no solo de logotipos reconocibles."
+      },
+      {
+        "type": "heading",
+        "text": "F1 Academy está incluida"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fórmula 1 también presenta a Nike como socio oficial y socio oficial de ropa deportiva de F1 Academy. Las marcas quieren trabajar con jóvenes corredoras en productos basados en sus necesidades. El acuerdo supera así al personal de eventos y alcanza una serie concreta de desarrollo. [Fuente · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ese compromiso debe describirse con su alcance real. La ropa y el desarrollo de productos no garantizan un asiento en F1, un resultado deportivo ni nuevas inscripciones financiadas. Su valor podrá seguirse mediante el apoyo y los productos efectivamente entregados."
+      },
+      {
+        "type": "subheading",
+        "text": "La performance necesita pruebas prácticas"
+      },
+      {
+        "type": "paragraph",
+        "text": "La ropa de trabajo y deporte debe responder a su uso: ajuste, movilidad, comodidad y desgaste importan más allá de la campaña. Consultar atletas ayuda a conocer necesidades, pero no equivale a publicar ensayos de productos todavía sin detallar."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los comunicados marcan una dirección, no una especificación técnica completa. Prometen más novedades de productos y experiencias durante 2027 y después. Esas publicaciones deberán aportar los detalles que no contiene el anuncio inicial. [Fuente · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)"
+      },
+      {
+        "type": "heading",
+        "text": "Su lugar en el mundo comercial de la F1"
+      },
+      {
+        "type": "paragraph",
+        "text": "La alianza alcanza públicos que siguen las carreras mediante moda, juegos, juguetes o redes sociales. El reportaje de PRESDA sobre [la colección LEGO de pilotos de F1](/articles/formula-1-lego-22-driver-minifigures-2027/) muestra otra extensión del campeonato fuera del circuito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los productos siguen siendo distintos de la competición. Los acuerdos influyen en la presencia cotidiana del deporte, mientras los resultados se deciden en pista según sus reglas. Separar derechos comerciales, presentación de eventos y rendimiento aclara la noticia."
+      },
+      {
+        "type": "heading",
+        "text": "Qué no se ha divulgado"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los textos califican el acuerdo de largo plazo, pero no publican valor financiero ni duración exacta en años. Asignar una cifra, un pago anual o una fecha final inventaría una condición. Lo mismo vale para acuerdos de equipos o pilotos no anunciados. [Fuente · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership) [Fuente · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La historia de PRESDA sobre [Adidas y Puma](/articles/adidas-puma-dassler-brothers-rival-shoe-empires/) explica el peso comercial del vestuario deportivo. Aquí los hechos son concretos: estreno minorista en noviembre, ropa del personal desde 2027 y F1 Academy. Los productos y experiencias posteriores harán tangibles esos compromisos."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · about.nike.com",
+        "url": "https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership"
+      },
+      {
+        "label": "Fuente · corp.formula1.com",
+        "url": "https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/"
+      },
+      {
+        "label": "Fuente · www.formula1.com",
+        "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Cuándo empieza el papel principal de Nike?",
+        "answer": "Con la temporada 2027. La cápsula de Las Vegas está prevista antes, el 20 de noviembre de 2026."
+      },
+      {
+        "question": "¿Todos los equipos y pilotos vestirán Nike?",
+        "answer": "El anuncio cubre al personal de F1 y el alcance indicado, no contratos para cada escudería y piloto."
+      },
+      {
+        "question": "¿Dónde se prevé la primera colección?",
+        "answer": "Nike indica su tienda de Caesars Palace y el F1 Hub de The Venetian Resort Las Vegas."
+      },
+      {
+        "question": "¿Cuánto vale el acuerdo?",
+        "answer": "Los comunicados no divulgan valor financiero ni duración exacta en años."
+      }
+    ],
+    "readingTimeMinutes": 6
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/nike-formula-1-apparel-uniform-partner-2027/",
+    "path": "/fr/articles/nike-formula-1-apparel-uniform-partner-2027/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "NIKE DEVIENT PARTENAIRE OFFICIEL DE FORMULA 1 POUR L’HABILLEMENT",
+    "seoTitle": "Nike et Formula 1 : un partenariat dès 2027",
+    "description": "Nike habillera le personnel de F1 dès 2027, avec collections et rôle auprès de F1 Academy. Une capsule Las Vegas est prévue le 20 novembre 2026.",
+    "excerpt": "Nike habillera le personnel de F1 dès 2027, avec collections et rôle auprès de F1 Academy. Une capsule Las Vegas est prévue le 20 novembre 2026.",
+    "headlineHighlights": {
+      "red": "NIKE",
+      "gold": "PARTENAIRE OFFICIEL DE FORMULA 1"
+    },
+    "keywords": [
+      "NIKE",
+      "PARTENAIRE OFFICIEL DE FORMULA 1"
+    ],
+    "searchIntent": "Nike habillera le personnel de F1 dès 2027, avec collections et rôle auprès de F1 Academy. Une capsule Las Vegas est prévue le 20 novembre 2026.",
+    "category": "Sport",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/nike-formula-1-apparel-uniform-partner-2027.jpg",
+      "alt": "Illustration éditoriale fournie associant Nike, Formula 1 et une monoplace fictive, sans représenter une livrée d’équipe annoncée.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Nike rejoint Formula 1 dans un partenariat de long terme débutant avec la saison 2027. La marque devient partenaire officiel et fournisseur des vêtements et uniformes du personnel de F1 lors des événements mondiaux. L’accord comprend collections, expériences de week-end de course et F1 Academy. Il n’annonce pas que tous les pilotes et toutes les équipes porteront Nike. [Source · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les fans doivent découvrir une première traduction commerciale plus tôt : une capsule limitée Nike x Las Vegas Grand Prix prévue le 20 novembre 2026. L’introduction culturelle précède donc le rôle général d’habillement du personnel, attendu la saison suivante."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_531]]",
+        "caption": "Nike et Formula 1 : dates et périmètre. Sources : annonces officielles. Le personnel de F1 est distinct des contrats des équipes et pilotes.",
+        "headings": [
+          "Date ou périmètre",
+          "Détail confirmé"
+        ],
+        "rows": [
+          [
+            "19–20 novembre 2026",
+            "Publication des annonces du partenariat."
+          ],
+          [
+            "20 novembre 2026",
+            "Capsule prévue dans les magasins Nike et F1 Hub cités à Las Vegas."
+          ],
+          [
+            "Saison 2027",
+            "Début du rôle officiel d’habillement du personnel événementiel de F1."
+          ],
+          [
+            "F1 Academy",
+            "Partenariat officiel et rôle d’habillement sportif inclus."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Que couvre exactement l’annonce ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le communiqué institutionnel de Formula 1 du 20 novembre désigne Nike comme fournisseur officiel des vêtements et uniformes dès 2027. Le texte de Nike, daté du 19 novembre, précise le personnel de F1 présent aux événements dans le monde. Les deux décrivent le même accord, avec une saison et une population définies. [Source · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership) [Source · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La précision compte dans un sport à plusieurs niveaux commerciaux. L’organisation Formula 1, les écuries et les athlètes peuvent avoir des relations différentes avec les marques. Un accord au niveau du championnat doit être lu selon les droits annoncés, sans l’étendre à tout le paddock."
+      },
+      {
+        "type": "subheading",
+        "text": "Les uniformes du personnel ne sont pas les combinaisons des équipes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le rôle confirmé concerne le personnel de Formula 1. Il n’établit ni fournisseur commun à toutes les écuries, ni contrat de chaussures pour chaque pilote, ni équipe exploitée par Nike. Ces évolutions exigeraient leurs annonces. La monoplace fictive de l’image principale illustre un thème commercial, pas une livrée officielle."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un logo sur une voiture peut laisser croire qu’une équipe dévoile son design. Ici, la nouvelle concerne un accord d’habillement et de culture avec l’organisateur du championnat. L’image ne doit pas le transformer en annonce sportive différente."
+      },
+      {
+        "type": "heading",
+        "text": "La première collection passe par Las Vegas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nike prévoit la capsule limitée le 20 novembre à son magasin Las Vegas de Caesars Palace et au F1 Hub du Venetian Resort Las Vegas. Le communiqué nomme ces points de vente ; il ne confirme pas une disponibilité mondiale immédiate dans toutes les boutiques Nike. [Source · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le lancement rejoint le public d’un week-end de course avant le rôle général de 2027. Une capsule est une opération commerciale ciblée, différente de l’équipement du personnel durant une saison. L’une propose un achat aux fans ; l’autre répond à un besoin de travail."
+      },
+      {
+        "type": "subheading",
+        "text": "Une sortie programmée n’est pas un résultat de vente"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les annonces établissent date et lieux prévus, pas le nombre d’articles vendus, une rupture de stock ou l’accueil du public. Ces résultats demandent des preuves après la sortie, notamment lorsque l’annonce circule entre fuseaux horaires."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le stock peut aussi évoluer pendant un lancement limité. Il faut consulter les canaux officiels plutôt que déduire la disponibilité d’une photo. Ce reportage n’invente ni prix, ni quantités, ni calendrier de vente en ligne absent des communiqués."
+      },
+      {
+        "type": "heading",
+        "text": "Ce qui est prévu au-delà des uniformes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les entreprises évoquent chaussures, vêtements et accessoires utilisables hors circuit, ainsi que des expériences de course. L’accord associe donc fourniture opérationnelle, produits grand public et événements. Cela explique le rapprochement du sport, de la mode et de la culture dans sa présentation. [Source · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/) [Source · www.formula1.com](https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un vêtement peut exprimer un lien à la course sans reproduire un équipement d’équipe complet. Le calendrier offre aux marques plusieurs occasions de présenter des produits. Leur pertinence sportive dépendra toutefois du design et de l’exécution, pas de deux logos connus."
+      },
+      {
+        "type": "heading",
+        "text": "F1 Academy fait partie de l’accord"
+      },
+      {
+        "type": "paragraph",
+        "text": "Formula 1 présente également Nike comme partenaire officiel et partenaire officiel d’habillement sportif de F1 Academy. Les entreprises veulent travailler avec de jeunes pilotes féminines sur des produits informés par leurs besoins. L’accord dépasse ainsi le personnel événementiel pour rejoindre une série de développement précise. [Source · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cela reste un engagement au périmètre annoncé. Habillement et développement de produits ne garantissent ni baquet en F1, ni résultat sportif, ni nouvelles inscriptions financées. La valeur concrète se suivra à travers les produits et l’aide réellement apportés."
+      },
+      {
+        "type": "subheading",
+        "text": "Le discours sur la performance attend des preuves"
+      },
+      {
+        "type": "paragraph",
+        "text": "Des vêtements de travail ou de sport doivent répondre à leur usage : coupe, mouvement, confort et résistance comptent malgré une campagne spectaculaire. Consulter des athlètes peut éclairer les besoins, mais ne publie pas les résultats d’essais de produits encore non détaillés."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les communiqués donnent une direction, pas toutes les spécifications. D’autres annonces de produits et d’expériences sont prévues pendant 2027 et au-delà. Elles devront fournir les éléments impossibles à tirer du seul texte initial. [Source · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)"
+      },
+      {
+        "type": "heading",
+        "text": "Une place dans l’univers commercial de la F1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le partenariat touche aussi ceux qui suivent la course par la mode, les jeux, les jouets ou les réseaux sociaux. Le reportage de PRESDA sur [la collection LEGO des pilotes de F1](/articles/formula-1-lego-22-driver-minifigures-2027/) montre une autre extension du championnat dans des objets qui vivent loin du circuit."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces produits restent distincts de la compétition. Les partenariats façonnent la présence quotidienne du sport ; les résultats se décident en piste selon ses règles. Séparer droits commerciaux, présentation des événements et performance rend le récit plus clair."
+      },
+      {
+        "type": "heading",
+        "text": "Les informations non divulguées"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les textes qualifient l’accord de long terme sans indiquer de valeur financière ni de durée exacte en années. Donner un total, un paiement annuel ou une date finale reviendrait à inventer une clause. La prudence vaut également pour des contrats d’équipes ou de pilotes non annoncés. [Source · about.nike.com](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership) [Source · corp.formula1.com](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’histoire PRESDA des [empires Adidas et Puma](/articles/adidas-puma-dassler-brothers-rival-shoe-empires/) éclaire le poids commercial des marques sportives. Ici, les faits sont précis : introduction commerciale en novembre, habillement du personnel dès 2027 et F1 Academy. Les produits et expériences à venir rendront ces engagements tangibles."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · about.nike.com",
+        "url": "https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership"
+      },
+      {
+        "label": "Source · corp.formula1.com",
+        "url": "https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/"
+      },
+      {
+        "label": "Source · www.formula1.com",
+        "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quand commence le rôle principal de Nike ?",
+        "answer": "Avec la saison 2027. La capsule limitée de Las Vegas est prévue dès le 20 novembre 2026."
+      },
+      {
+        "question": "Tous les pilotes et équipes porteront-ils Nike ?",
+        "answer": "L’annonce concerne le personnel de F1 et le périmètre précisé, pas des contrats pour toutes les équipes et tous les pilotes."
+      },
+      {
+        "question": "Où la première collection est-elle prévue ?",
+        "answer": "Nike cite son magasin de Caesars Palace et le F1 Hub du Venetian Resort Las Vegas."
+      },
+      {
+        "question": "Quelle est la valeur de l’accord ?",
+        "answer": "Les communiqués ne donnent ni valeur financière ni durée exacte en années."
+      }
+    ],
+    "readingTimeMinutes": 6
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/nikola-tesla-genius-helped-electrify-world/",
     "path": "/ar/articles/nikola-tesla-genius-helped-electrify-world/",
     "kind": "article",
@@ -418034,6 +419999,645 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/snapchat-easy-lens-cli-ai-coding-tools-2026/",
+    "path": "/ar/articles/snapchat-easy-lens-cli-ai-coding-tools-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "سناب شات تتيح إنشاء تأثيرات الواقع المعزز بأدوات برمجة الذكاء الاصطناعي",
+    "seoTitle": "Easy Lens CLI من سناب: الواقع المعزز بمساعدة أدوات البرمجة",
+    "description": "تصل أداة سناب مساعدي البرمجة بإنشاء العدسات: كيف يعمل المسار، وما حدود الاختبار والنشر والمدفوعات للمبدعين؟",
+    "excerpt": "تصل أداة سناب مساعدي البرمجة بإنشاء العدسات: كيف يعمل المسار، وما حدود الاختبار والنشر والمدفوعات للمبدعين؟",
+    "headlineHighlights": {
+      "red": "سناب شات",
+      "gold": "أدوات برمجة الذكاء الاصطناعي"
+    },
+    "keywords": [
+      "سناب شات",
+      "أدوات برمجة الذكاء الاصطناعي"
+    ],
+    "searchIntent": "تصل أداة سناب مساعدي البرمجة بإنشاء العدسات: كيف يعمل المسار، وما حدود الاختبار والنشر والمدفوعات للمبدعين؟",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/snapchat-easy-lens-cli-ai-coding-tools-2026.jpg",
+      "alt": "رسم تحريري مقدّم لتأثيرات واقع معزز متخيلة على هاتف، وليس لقطة متحققاً منها لواجهة Easy Lens CLI.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "أصبح منشئو سناب شات قادرين على بناء تجارب واقع معزز عبر مساعدين مثل Claude Code وCodex وCursor. أعلنت سناب Easy Lens CLI في ١٨ نوفمبر ٢٠٢٦، بوصفها أداة مجانية تصل المساعد القائم بمسار إنشاء العدسات. التغيير هو مدخل التطوير داخل بيئة يستخدمها المنشئ أصلاً. [المصدر · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يشمل الإعلان تأثيرات الكاميرا والجمال وألعاب Web Lens، لا مجرد زينة لصورة. يمكن وصف الفكرة وطلب تجميعها وتوليد عناصرها واختبار نسخها. ويظل النشر خاضعاً لمراجعة سناب."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_530]]",
+        "caption": "Easy Lens CLI: المراحل والحدود. المصادر: إعلان سناب ووثائقها. الوصول لا يضمن النشر أو الدخل.",
+        "headings": [
+          "المرحلة",
+          "ما تصفه سناب"
+        ],
+        "rows": [
+          [
+            "الإنشاء",
+            "وصل مساعد برمجة بموارد سناب للواقع المعزز."
+          ],
+          [
+            "الاختبار",
+            "إنتاج معاينات وإرسال نسخ إلى الهاتف."
+          ],
+          [
+            "النشر",
+            "اجتياز فحوص المحتوى ومراجعة العدسات المعتادة."
+          ],
+          [
+            "الدخل",
+            "قد يشارك منشئون مؤهلون ومعتمدون في Lens+ Payouts، دون دفع مضمون."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ما أداة Easy Lens CLI؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يعني CLI واجهة سطر الأوامر. وتصل هنا مساعد برمجة بالذكاء الاصطناعي بأدوات سناب. ينفذ المساعد خطوات تقنية فيما يحدد المنشئ النتيجة المطلوبة. وتقول سناب إن الأداة تعمل على ماك وويندوز ولينكس وتتطلب حساب سناب شات. [المصدر · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "هذا لا يلغي العمل الإبداعي. فالتوجيه المفيد يحدد العناصر وكيف تستجيب وما يفترض أن يفهمه المستخدم أو يستمتع به. وصف إحساس مرغوب بداية، لكن بناء تفاعل متماسك يحتاج إلى قرارات واضحة."
+      },
+      {
+        "type": "subheading",
+        "text": "العدسات أكثر من مرشحات ثابتة"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تغير عدسة الكاميرا شكل وجه أو بيئة، وقد تستجيب تجربة تفاعلية للحركة أو تقدم لعبة. لذلك لا تكفي صورة جميلة لاختبار ما يحدث بمرور الوقت؛ فقد تخفي تفاعلاً معطلاً أو تعليمات مربكة."
+      },
+      {
+        "type": "paragraph",
+        "text": "يشمل وصف سناب ألعاب Web Lens بلوحات ترتيب وتكييف ألعاب متصفح موجودة. وهذا يوسع النطاق عن تأثيرات الوجه ويفتح مسار توزيع للعمل السابق، دون إثبات أن كل مشروع ينتقل بلا تعديل. [المصدر · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "heading",
+        "text": "الإنشاء بالتوجيه النصي سبق الإطلاق"
+      },
+      {
+        "type": "paragraph",
+        "text": "في يونيو ٢٠٢٥ عرضت سناب أدوات ويب وiOS تجريبية، ووصفت Easy Lens بأنها قدرة موجودة للإنشاء بالتوجيه. وميزت الأدوات المبسطة عن Lens Studio الاحترافي للحاسوب. لذا لا يمثل نوفمبر ٢٠٢٦ بداية كل إنشاء للعدسات بمساعدة الذكاء الاصطناعي. [المصدر · newsroom.snap.com](https://newsroom.snap.com/lens-studio-ios-app-web-2025)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الجديد هو إدخال المسار إلى بيئة مساعد برمجة خارجي. وقد يقلل ذلك التنقل بين المحادثة والعناصر والاختبارات وواجهة نشر أخرى. إنه تغيير لسير العمل، لا دليل على استبدال جميع الأدوات السابقة."
+      },
+      {
+        "type": "heading",
+        "text": "البناء والاختبار والنشر وظائف منفصلة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقول سناب إن المساعدين يستطيعون استخدام أكثر من ١٠٠ لبنة للواقع المعزز وأكثر من ٥٠ مولداً لعناصر الذكاء الاصطناعي. هذه موارد متاحة، لا عدد تجارب أصلية اكتمل إنجازها. وتحتاج العدسة إلى غرض ولغة بصرية وتفاعلية متناسقة. [المصدر · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يشمل الاختبار فيديوهات معاينة وإرسال العدسة للهاتف. وتهم الخطوة الثانية للكاميرا: ينبغي أن تعمل التجربة بين يدي شخص يتحرك وأمام مشهد حقيقي. وقد يفقد العنصر الجميل منفرداً وضوحه عند تركيبه فوق المشهد."
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا يظل التكرار ضرورياً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن بدء النموذج بسلوك واضح واحد ثم إضافة التعقيد بعد نجاحه. هذه توصية تحريرية للممارسة، لا طريقة إلزامية تنسب إلى سناب. وهي تساعد في فصل العطل التقني عن فكرة تحتاج إلى تحديد أفضل."
+      },
+      {
+        "type": "paragraph",
+        "text": "يتناول تقرير PRESDA عن [الثورة الروبوتية](/articles/robot-revolution-ai-future-2030/) إعادة تنظيم المهام بالأتمتة. ويطرح Easy Lens CLI درساً قريباً: نقل التنفيذ التقني إلى مساعد قد يجعل الحكم على النتيجة أكثر أهمية، لا أقل ضرورة."
+      },
+      {
+        "type": "heading",
+        "text": "الأسرع ليس موافقة تلقائية"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقول سناب إن عدسات CLI تمر بفحوص المحتوى ومراجعة العدسات ومسار النشر نفسه المتبع في تطبيقات Easy Lens. يستطيع المساعد تجهيز المشروع وإرساله، لكن تشغيل الأدوات لا يمنحه إذناً لتجاوز الإشراف. [المصدر · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ويحتاج المنشئ إلى معرفة ما ينشره: صور مولدة أو حملة مستوردة أو لعبة سابقة. مراجعة هذا المزيج جزء من إصدار مقصود. وينبغي أن يعبر أمر النشر الآلي عن قرار بشأن نسخة مختبرة، لا مجرد خطوة تالية في محادثة."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا تعني أرقام المدفوعات؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقول سناب إن مجتمع Lens+ تلقى ١٫٨ مليون دولار في الشهر السابق، أكتوبر ٢٠٢٦. الرقم إجمالي للبرنامج، وليس دخلاً معتاداً لفرد ولا دليلاً على أن الأداة الجديدة ولدت المبلغ. [المصدر · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتوضح وثائق المطورين أن Lens+ Payouts تخص منشئين معتمدين وعدسات حصرية مؤهلة، مع مدفوعات مرتبطة بتفاعل المشتركين. وتصرح بأن التسجيل لا يضمن الدفع. فإتاحة العدسة والتأهل لبرنامج إيرادات إنجازان مختلفان. [المصدر · www.developers.snap.com](https://www.developers.snap.com/lens-studio/monetization/lens-creator-rewards/lens-plus-payouts)"
+      },
+      {
+        "type": "subheading",
+        "text": "مجانية الأداة لا تعني مجانية الإنتاج كله"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف سناب أداتها بأنها مجانية مع حساب سناب شات. وينطبق ذلك على الأداة نفسها؛ أما شروط المساعد الذكي وخدمات العناصر الخارجية فينبغي فحصها مستقلة. الإعلان ليس وعداً بمجانية كل خدمة مرتبطة."
+      },
+      {
+        "type": "paragraph",
+        "text": "تقاس القيمة بمشروع فعلي: كم يحتاج من مراجعة، وهل يعمل المنتج النهائي، وما تكلفة المسار الكامل؟ والقول بإنتاج لعبة خلال يوم ادعاء لقدرة ممكنة من الشركة، لا مدة مستقلة القياس لكل مشروع."
+      },
+      {
+        "type": "heading",
+        "text": "مدخل أوسع إلى صناعة الواقع المعزز"
+      },
+      {
+        "type": "paragraph",
+        "text": "ماذا يصبح ممكناً حين يكفي وصف التجربة لبدء بنائها؟ قد يستطيع مزيد من الناس صنع نماذج، لكن الجودة تظل رهينة التصميم والاختبار والمراجعة. خفض عائق الدخول لا يجعل كل نتيجة جديرة بالنشر."
+      },
+      {
+        "type": "paragraph",
+        "text": "يناقش تقرير PRESDA عن [إمكان امتلاك الذكاء الاصطناعي وعياً](/articles/can-artificial-intelligence-ever-become-conscious/) سؤالاً آخر. هنا القصة عملية: يمكن للمساعد تشغيل مسار إنتاج، بينما يقرر المنشئ ما ينبغي إنتاجه وهل أصبح جاهزاً لسناب شات."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · newsroom.snap.com",
+        "url": "https://newsroom.snap.com/introducing-easy-lens-cli"
+      },
+      {
+        "label": "المصدر · newsroom.snap.com",
+        "url": "https://newsroom.snap.com/lens-studio-ios-app-web-2025"
+      },
+      {
+        "label": "المصدر · www.developers.snap.com",
+        "url": "https://www.developers.snap.com/lens-studio/monetization/lens-creator-rewards/lens-plus-payouts"
+      }
+    ],
+    "faq": [
+      {
+        "question": "ما المساعدون الذين تسميهم سناب؟",
+        "answer": "يذكر الإعلان Claude Code وCodex وCursor أمثلة للمساعدين المدعومين في المسار."
+      },
+      {
+        "question": "هل Easy Lens CLI مجانية؟",
+        "answer": "تقول سناب إن أداتها مجانية مع حساب سناب شات. وتفحص تكاليف المساعد والخدمات الخارجية بصورة مستقلة."
+      },
+      {
+        "question": "هل تتجاوز العدسات المولدة المراجعة؟",
+        "answer": "لا. تؤكد سناب تطبيق فحوص المحتوى ومراجعة العدسات ومسار النشر نفسه."
+      },
+      {
+        "question": "هل يضمن نشر عدسة دخلاً؟",
+        "answer": "لا. للمشاركة في Lens+ شروط أهلية واعتماد، والتسجيل لا يضمن مدفوعات."
+      }
+    ],
+    "readingTimeMinutes": 5
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/snapchat-easy-lens-cli-ai-coding-tools-2026/",
+    "path": "/es/articles/snapchat-easy-lens-cli-ai-coding-tools-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "SNAPCHAT PERMITE CREAR EFECTOS AR CON ASISTENTES DE PROGRAMACIÓN IA",
+    "seoTitle": "Snapchat Easy Lens CLI: crear AR con asistentes de IA",
+    "description": "Easy Lens CLI conecta los asistentes de programación con la creación AR de Snap. Flujo de trabajo, pruebas, publicación y límites de los pagos.",
+    "excerpt": "Easy Lens CLI conecta los asistentes de programación con la creación AR de Snap. Flujo de trabajo, pruebas, publicación y límites de los pagos.",
+    "headlineHighlights": {
+      "red": "SNAPCHAT",
+      "gold": "ASISTENTES DE PROGRAMACIÓN IA"
+    },
+    "keywords": [
+      "SNAPCHAT",
+      "ASISTENTES DE PROGRAMACIÓN IA"
+    ],
+    "searchIntent": "Easy Lens CLI conecta los asistentes de programación con la creación AR de Snap. Flujo de trabajo, pruebas, publicación y límites de los pagos.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/snapchat-easy-lens-cli-ai-coding-tools-2026.jpg",
+      "alt": "Ilustración editorial facilitada de efectos AR imaginarios en un teléfono, sin verificar como captura de Easy Lens CLI.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Los creadores de Snapchat ya pueden construir experiencias de realidad aumentada con Claude Code, Codex o Cursor. Snap anunció Easy Lens CLI el 18 de noviembre de 2026: una herramienta gratuita que conecta un asistente existente con la creación de Lenses. La novedad es una vía de desarrollo dentro del entorno que el creador ya utiliza. [Fuente · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La oferta incluye efectos de cámara, belleza y juegos Web Lens, no solo adornos sobre fotografías. El asistente puede ensamblar una idea descrita, generar recursos y probar versiones. La publicación sigue sometida a la revisión de Snap."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_530]]",
+        "caption": "Easy Lens CLI: etapas y límites. Fuentes: anuncio de Snap y documentación. Acceder no garantiza publicar ni cobrar.",
+        "headings": [
+          "Etapa",
+          "Qué describe Snap"
+        ],
+        "rows": [
+          [
+            "Crear",
+            "Conectar un asistente de programación con los recursos AR de Snap."
+          ],
+          [
+            "Probar",
+            "Generar vistas previas y enviar versiones al teléfono."
+          ],
+          [
+            "Publicar",
+            "Superar los controles y revisión habituales."
+          ],
+          [
+            "Ganar",
+            "Creadores aprobados elegibles pueden participar en Lens+ Payouts, sin pago garantizado."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Qué es Easy Lens CLI"
+      },
+      {
+        "type": "paragraph",
+        "text": "CLI significa interfaz de línea de comandos. Aquí conecta un asistente de programación IA con las herramientas de Snap. El asistente ejecuta pasos técnicos mientras el creador define el resultado. Snap indica compatibilidad con Mac, Windows y Linux y exige una cuenta de Snapchat. [Fuente · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La labor creativa no desaparece. Una instrucción útil debe definir objetos, respuestas y qué debería comprender o disfrutar el usuario. Describir una sensación permite empezar; convertirla en interacción coherente sigue requiriendo decisiones."
+      },
+      {
+        "type": "subheading",
+        "text": "Las Lenses superan el filtro estático"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una Lens de cámara puede transformar un rostro o un entorno. Una experiencia interactiva también puede responder al movimiento o albergar un juego. Una imagen atractiva no prueba lo que sucede en el tiempo: puede esconder interacciones rotas o instrucciones confusas."
+      },
+      {
+        "type": "paragraph",
+        "text": "Snap cita juegos Web Lens con clasificaciones y la adaptación de juegos de navegador existentes. El anuncio supera los efectos faciales y abre una posible distribución para trabajo previo, sin asegurar que cualquier proyecto se trasladará sin cambios. [Fuente · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "heading",
+        "text": "La creación mediante instrucciones ya existía"
+      },
+      {
+        "type": "paragraph",
+        "text": "En junio de 2025, Snap presentó herramientas experimentales web e iOS y describió Easy Lens como una capacidad previa de creación mediante instrucciones. También distinguió esas vías accesibles de Lens Studio profesional para escritorio. Noviembre de 2026 no inaugura toda creación de Lenses asistida por IA. [Fuente · newsroom.snap.com](https://newsroom.snap.com/lens-studio-ios-app-web-2025)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La novedad lleva ese proceso al entorno de un asistente externo. Puede reducir los saltos entre conversación, recursos, pruebas y otra interfaz de publicación. Es una transformación del flujo de trabajo, no una prueba de que sustituya todas las herramientas anteriores."
+      },
+      {
+        "type": "heading",
+        "text": "Construir, probar y publicar son tareas diferentes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Snap anuncia más de 100 bloques AR y más de 50 generadores de recursos IA accesibles a los asistentes. Son recursos disponibles, no un inventario de experiencias originales terminadas. La Lens necesita intención y un lenguaje visual e interactivo consistente. [Fuente · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las pruebas incluyen vídeos de vista previa y envío al teléfono. Este paso resulta importante para experiencias de cámara: deben entenderse en las manos de alguien que se mueve, ante una escena real. Un recurso atractivo aislado puede perder legibilidad al superponerse."
+      },
+      {
+        "type": "subheading",
+        "text": "La revisión iterativa sigue importando"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un prototipo puede empezar con un comportamiento claro y añadir complejidad cuando funcione. Es una recomendación de producción, no una metodología obligatoria de Snap. Ayuda a diferenciar un error técnico de una idea que necesita dirección."
+      },
+      {
+        "type": "paragraph",
+        "text": "El reportaje de PRESDA sobre [la revolución robótica](/articles/robot-revolution-ai-future-2030/) analiza cómo se reorganizan tareas. Easy Lens CLI plantea algo parecido: delegar la ejecución técnica puede hacer más importante el criterio sobre el resultado."
+      },
+      {
+        "type": "heading",
+        "text": "Más rápido no significa aprobado"
+      },
+      {
+        "type": "paragraph",
+        "text": "Snap afirma que las Lenses del CLI pasan los mismos controles de contenido, revisión y publicación que las creadas en aplicaciones Easy Lens. El asistente puede preparar y enviar un proyecto, pero manejar las herramientas no autoriza a saltarse la moderación. [Fuente · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El creador también debe conocer lo que publica: recursos generados, campañas importadas o juegos previos. Revisar el conjunto forma parte de una publicación deliberada. Una orden automatizada debe representar una decisión sobre una versión probada, no simplemente continuar una conversación."
+      },
+      {
+        "type": "heading",
+        "text": "Qué significa la cifra de pagos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Snap señala que la comunidad Lens+ recibió 1,8 millones de dólares el mes anterior, octubre de 2026. Es un total del programa, no el ingreso típico de un creador ni dinero generado necesariamente por el nuevo CLI. [Fuente · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La documentación limita Lens+ Payouts a creadores aprobados y Lenses exclusivas elegibles, con pagos ligados al comportamiento de suscriptores. Aclara que inscribirse no garantiza cobrar. Publicar una Lens y cumplir las condiciones de monetización son logros diferentes. [Fuente · www.developers.snap.com](https://www.developers.snap.com/lens-studio/monetization/lens-creator-rewards/lens-plus-payouts)"
+      },
+      {
+        "type": "subheading",
+        "text": "Gratis no describe toda la cadena"
+      },
+      {
+        "type": "paragraph",
+        "text": "Snap anuncia Easy Lens CLI gratis con una cuenta Snapchat. Eso se refiere a su herramienta. Las condiciones de acceso y uso del asistente y los servicios externos deben comprobarse aparte; no existe una promesa universal sobre su coste."
+      },
+      {
+        "type": "paragraph",
+        "text": "La utilidad debe medirse en un proyecto real: revisiones necesarias, funcionamiento final y coste completo. La posibilidad de pasar de idea a juego en un día es una afirmación de capacidad de la empresa, no un plazo medido independientemente para todos los proyectos."
+      },
+      {
+        "type": "heading",
+        "text": "Una puerta más amplia a la realidad aumentada"
+      },
+      {
+        "type": "paragraph",
+        "text": "¿Qué cambia cuando describir una experiencia basta para empezar a construirla? Más personas pueden prototipar, pero la calidad sigue dependiendo del diseño, las pruebas y la revisión. Bajar la barrera no hace que cada resultado merezca publicarse."
+      },
+      {
+        "type": "paragraph",
+        "text": "El artículo de PRESDA sobre [si la IA puede ser consciente](/articles/can-artificial-intelligence-ever-become-conscious/) aborda una pregunta distinta. Aquí la historia es práctica: el asistente opera una cadena de creación y el creador decide qué debe producir y cuándo está lista para Snapchat."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · newsroom.snap.com",
+        "url": "https://newsroom.snap.com/introducing-easy-lens-cli"
+      },
+      {
+        "label": "Fuente · newsroom.snap.com",
+        "url": "https://newsroom.snap.com/lens-studio-ios-app-web-2025"
+      },
+      {
+        "label": "Fuente · www.developers.snap.com",
+        "url": "https://www.developers.snap.com/lens-studio/monetization/lens-creator-rewards/lens-plus-payouts"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Qué asistentes menciona Snap?",
+        "answer": "El anuncio cita Claude Code, Codex y Cursor como ejemplos."
+      },
+      {
+        "question": "¿Es gratuito Easy Lens CLI?",
+        "answer": "Snap anuncia su herramienta gratis con una cuenta Snapchat. Los costes de servicios externos se comprueban por separado."
+      },
+      {
+        "question": "¿La IA evita la revisión de Snapchat?",
+        "answer": "No. Se aplican los mismos controles de contenido, revisión y publicación."
+      },
+      {
+        "question": "¿Publicar garantiza ingresos?",
+        "answer": "No. Lens+ exige elegibilidad y aprobación, y la inscripción no garantiza pagos."
+      }
+    ],
+    "readingTimeMinutes": 6
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/snapchat-easy-lens-cli-ai-coding-tools-2026/",
+    "path": "/fr/articles/snapchat-easy-lens-cli-ai-coding-tools-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "SNAPCHAT PERMET DE CRÉER DES EFFETS AR AVEC DES ASSISTANTS DE CODE IA",
+    "seoTitle": "Snapchat Easy Lens CLI : créer en AR avec l’IA",
+    "description": "Easy Lens CLI relie les assistants de code à la création AR de Snap. Fonctionnement, tests, publication et limites de la rémunération.",
+    "excerpt": "Easy Lens CLI relie les assistants de code à la création AR de Snap. Fonctionnement, tests, publication et limites de la rémunération.",
+    "headlineHighlights": {
+      "red": "SNAPCHAT",
+      "gold": "ASSISTANTS DE CODE IA"
+    },
+    "keywords": [
+      "SNAPCHAT",
+      "ASSISTANTS DE CODE IA"
+    ],
+    "searchIntent": "Easy Lens CLI relie les assistants de code à la création AR de Snap. Fonctionnement, tests, publication et limites de la rémunération.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/snapchat-easy-lens-cli-ai-coding-tools-2026.jpg",
+      "alt": "Illustration éditoriale fournie d’effets AR imaginaires sur un téléphone, sans identification comme capture d’Easy Lens CLI.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Les créateurs Snapchat peuvent désormais construire des expériences de réalité augmentée avec Claude Code, Codex ou Cursor. Snap a annoncé Easy Lens CLI le 18 novembre 2026 : un outil gratuit reliant un assistant existant à sa chaîne de création de Lenses. Le changement concerne l’accès au développement, dans un environnement déjà utilisé par le créateur. [Source · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’annonce couvre effets caméra, beauté et jeux Web Lens, pas seulement des décorations sur une photographie. L’assistant peut assembler une idée décrite, générer des éléments et tester des versions. La publication reste soumise au contrôle de Snap."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_530]]",
+        "caption": "Easy Lens CLI : étapes et limites. Sources : annonce Snap et documentation. L’accès ne garantit ni publication ni revenu.",
+        "headings": [
+          "Étape",
+          "Description de Snap"
+        ],
+        "rows": [
+          [
+            "Créer",
+            "Associer un assistant de code aux ressources AR de Snap."
+          ],
+          [
+            "Tester",
+            "Produire des aperçus et envoyer des versions sur téléphone."
+          ],
+          [
+            "Publier",
+            "Passer les contrôles habituels de contenu et l’examen des Lenses."
+          ],
+          [
+            "Gagner",
+            "Les créateurs approuvés éligibles peuvent participer à Lens+ Payouts, sans paiement garanti."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Qu’est-ce qu’Easy Lens CLI ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "CLI signifie interface en ligne de commande. L’outil relie ici un assistant de code IA aux fonctions de création de Snap. L’assistant exécute des étapes techniques tandis que le créateur définit le résultat. Selon Snap, il fonctionne sur Mac, Windows et Linux avec un compte Snapchat. [Source · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La création ne disparaît pas. Une instruction utile doit définir les objets, leurs réactions et ce que l’utilisateur doit comprendre ou apprécier. Décrire une ambiance permet de commencer ; produire une interaction cohérente exige encore des choix précis."
+      },
+      {
+        "type": "subheading",
+        "text": "Une Lens n’est pas un filtre statique"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une Lens caméra peut transformer un visage ou un environnement. Une expérience interactive peut aussi réagir au mouvement ou proposer un jeu. Une image réussie ne suffit donc pas à tester ce qui se déroule dans le temps : elle peut masquer une interaction défaillante ou des consignes confuses."
+      },
+      {
+        "type": "paragraph",
+        "text": "Snap cite les jeux Web Lens avec classements et l’adaptation de jeux de navigateur existants. Le périmètre dépasse les effets de visage et ouvre une voie de distribution aux développeurs, sans garantir que tout projet sera transférable à l’identique. [Source · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "heading",
+        "text": "La création par instruction existait déjà"
+      },
+      {
+        "type": "paragraph",
+        "text": "En juin 2025, Snap présentait des outils expérimentaux web et iOS et décrivait Easy Lens comme une capacité existante de création par instruction. L’entreprise distinguait ces accès simplifiés de l’application professionnelle Lens Studio sur ordinateur. Novembre 2026 n’est donc pas le début de toute création de Lenses assistée par IA. [Source · newsroom.snap.com](https://newsroom.snap.com/lens-studio-ios-app-web-2025)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La nouveauté consiste à intégrer ce parcours à l’environnement d’un assistant extérieur. Un développeur peut limiter les allers-retours entre conversation, éléments visuels, tests et publication. Cela change le travail sans prouver que tous les outils précédents sont remplacés."
+      },
+      {
+        "type": "heading",
+        "text": "Construire, tester et publier restent distincts"
+      },
+      {
+        "type": "paragraph",
+        "text": "Snap annonce plus de 100 blocs AR et plus de 50 générateurs d’éléments IA utilisables par les assistants. Il s’agit de ressources proposées, pas d’expériences originales déjà achevées. Une Lens doit encore avoir une intention et un langage visuel et interactif cohérent. [Source · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les tests peuvent comprendre une vidéo d’aperçu et l’envoi sur téléphone. Cette seconde étape importe pour la caméra : l’expérience doit fonctionner entre les mains d’une personne qui bouge, devant une scène réelle. Un élément séduisant seul peut devenir illisible une fois superposé."
+      },
+      {
+        "type": "subheading",
+        "text": "L’itération conserve sa valeur"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un prototype peut commencer par un comportement clair, puis s’enrichir lorsqu’il fonctionne. C’est une recommandation de production, pas une méthode obligatoire attribuée à Snap. Elle aide à distinguer un défaut technique d’une idée qui manque de direction."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le reportage de PRESDA sur [la révolution robotique](/articles/robot-revolution-ai-future-2030/) examine la réorganisation des tâches par l’automatisation. Easy Lens CLI pose une question voisine : déléguer l’exécution technique peut rendre le jugement sur le résultat encore plus important."
+      },
+      {
+        "type": "heading",
+        "text": "Accélérer ne signifie pas être approuvé"
+      },
+      {
+        "type": "paragraph",
+        "text": "Snap indique que les Lenses issues du CLI suivent les mêmes contrôles de contenu, examen et publication que celles des applications Easy Lens. L’assistant peut préparer et soumettre un projet ; sa capacité à manipuler l’outil ne lui permet pas de contourner la modération. [Source · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le créateur doit aussi savoir ce qu’il publie : visuels générés, campagne importée ou jeu préexistant. Examiner cet ensemble fait partie d’une publication délibérée. La commande automatisée doit traduire une décision sur une version testée, pas seulement prolonger une conversation."
+      },
+      {
+        "type": "heading",
+        "text": "Ce que signifie l’annonce des paiements"
+      },
+      {
+        "type": "paragraph",
+        "text": "Snap annonce 1,8 million de dollars versés à la communauté Lens+ le mois précédent, octobre 2026. C’est un total de programme, ni le revenu habituel d’un créateur ni une somme attribuable au nouveau CLI. [Source · newsroom.snap.com](https://newsroom.snap.com/introducing-easy-lens-cli)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La documentation réserve Lens+ Payouts aux créateurs approuvés et aux Lenses exclusives éligibles, avec une rémunération liée à l’engagement des abonnés. Elle précise que l’inscription ne garantit aucun paiement. Publier et remplir les conditions d’un programme de revenus sont deux étapes différentes. [Source · www.developers.snap.com](https://www.developers.snap.com/lens-studio/monetization/lens-creator-rewards/lens-plus-payouts)"
+      },
+      {
+        "type": "subheading",
+        "text": "Un outil gratuit ne rend pas toute la production gratuite"
+      },
+      {
+        "type": "paragraph",
+        "text": "La gratuité annoncée concerne Easy Lens CLI avec un compte Snapchat. Il faut vérifier séparément les conditions de l’assistant IA et des services externes choisis. Snap ne promet pas la gratuité universelle de tous les outils associés."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’intérêt se mesure donc sur un projet : nombre de révisions, qualité de fonctionnement et coût du parcours complet. La possibilité annoncée de produire un jeu en une journée reste une affirmation de capacité de l’entreprise, pas un délai indépendant établi pour tous les projets."
+      },
+      {
+        "type": "heading",
+        "text": "Une entrée élargie dans la création AR"
+      },
+      {
+        "type": "paragraph",
+        "text": "Que devient la création lorsqu’une description suffit pour commencer à construire ? Davantage de personnes peuvent peut-être prototyper, mais la qualité dépend toujours de la conception, des tests et du contrôle. Un accès facilité ne rend pas chaque résultat digne d’être publié."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le dossier de PRESDA sur [la possibilité d’une conscience artificielle](/articles/can-artificial-intelligence-ever-become-conscious/) pose une autre question. Ici, l’histoire est pratique : l’assistant peut piloter une chaîne de création, tandis que le créateur décide de ce qu’elle doit produire et de son aptitude à rejoindre Snapchat."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · newsroom.snap.com",
+        "url": "https://newsroom.snap.com/introducing-easy-lens-cli"
+      },
+      {
+        "label": "Source · newsroom.snap.com",
+        "url": "https://newsroom.snap.com/lens-studio-ios-app-web-2025"
+      },
+      {
+        "label": "Source · www.developers.snap.com",
+        "url": "https://www.developers.snap.com/lens-studio/monetization/lens-creator-rewards/lens-plus-payouts"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quels assistants sont cités ?",
+        "answer": "Snap donne Claude Code, Codex et Cursor comme exemples."
+      },
+      {
+        "question": "Easy Lens CLI est-il gratuit ?",
+        "answer": "Snap annonce son outil gratuit avec un compte Snapchat. Les coûts externes se vérifient séparément."
+      },
+      {
+        "question": "Les créations IA échappent-elles au contrôle ?",
+        "answer": "Non. Les mêmes contrôles de contenu, examen et publication s’appliquent."
+      },
+      {
+        "question": "Publier garantit-il un revenu ?",
+        "answer": "Non. Lens+ impose des conditions et une approbation ; l’inscription ne garantit aucun paiement."
+      }
+    ],
+    "readingTimeMinutes": 6
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/songhai-empire-gao-askia-tondibi-1591/",
     "path": "/ar/articles/songhai-empire-gao-askia-tondibi-1591/",
     "kind": "article",
@@ -446148,6 +448752,657 @@
       }
     ],
     "readingTimeMinutes": 7
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/uber-eats-zipline-drone-delivery-houston-2026/",
+    "path": "/ar/articles/uber-eats-zipline-drone-delivery-houston-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "أوبر إيتس تطلق توصيل الطعام بطائرات زيبلاين المسيّرة",
+    "seoTitle": "أوبر إيتس وزيبلاين تطلقان التوصيل المسيّر في هيوستن",
+    "description": "خدمة زيبلاين تصل إلى أوبر إيتس في هيوستن: طريقة الوصول وآلية التسليم والفرق بين الإطلاق الفعلي وأهداف التوسع المستقبلية.",
+    "excerpt": "خدمة زيبلاين تصل إلى أوبر إيتس في هيوستن: طريقة الوصول وآلية التسليم والفرق بين الإطلاق الفعلي وأهداف التوسع المستقبلية.",
+    "headlineHighlights": {
+      "red": "أوبر إيتس",
+      "gold": "توصيل الطعام بطائرات زيبلاين المسيّرة"
+    },
+    "keywords": [
+      "أوبر إيتس",
+      "توصيل الطعام بطائرات زيبلاين المسيّرة"
+    ],
+    "searchIntent": "خدمة زيبلاين تصل إلى أوبر إيتس في هيوستن: طريقة الوصول وآلية التسليم والفرق بين الإطلاق الفعلي وأهداف التوسع المستقبلية.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/uber-eats-zipline-drone-delivery-houston-2026.jpg",
+      "alt": "رسم تحريري مقدّم لطائرة تحمل علامتي أوبر إيتس وزيبلاين، وليس صورة متحققاً منها للطائرة التشغيلية.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "أصبح بإمكان عملاء أوبر إيتس في منطقة هيوستن استلام طلبات مؤهلة عبر خدمة زيبلاين المسيّرة. أعلنت الشركة الإطلاق في ١٧ نوفمبر ٢٠٢٦، فتحولت الشراكة من خطة إلى خيار داخل التطبيق. أما دالاس فهي السوق التالية المعلنة، وليست إطلاقاً ثانياً اكتمل بالفعل. [المصدر · www.zipline.com](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يتعلق التغيير بنظام الطلب بقدر تعلقه بالطائرة. فالعرض التجريبي لا يكفي لتشغيل خدمة؛ يجب وصل المطاعم والطلبات والتوزيع بعنوان العميل الحقيقي. ويدمج أوبر إيتس هذه السلسلة في تطبيق مألوف."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_529]]",
+        "caption": "أوبر إيتس وزيبلاين: محطات مؤكدة وحدودها. المصادر: أوبر وزيبلاين وإدارة الطيران الفيدرالية. الأهداف ليست نتائج مكتملة.",
+        "headings": [
+          "المحطة",
+          "المعنى المتحقق منه"
+        ],
+        "rows": [
+          [
+            "١٥ مارس ٢٠٢٣",
+            "عرضت زيبلاين تصميم Platform 2 للتوصيل المنزلي."
+          ],
+          [
+            "١٧ أغسطس ٢٠٢٦",
+            "أعلنت أوبر الشراكة وخطة الاستثمار الاستراتيجي."
+          ],
+          [
+            "١٧ نوفمبر ٢٠٢٦",
+            "أعلنت زيبلاين إطلاق خدمة أوبر إيتس في هيوستن."
+          ],
+          [
+            "هدف نهاية ٢٠٢٩",
+            "مليون توصيل يومي؛ طموح معلن لا حجم الإطلاق."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي أُطلق وأين؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تدعو زيبلاين عملاء منطقة هيوستن إلى فتح أوبر إيتس واختيار التوصيل المسيّر من الشاشة الرئيسية. وهذا وصول عبر التطبيق القائم، لا اشتراط سوق منفصلة لزيبلاين لكل طلب. وينبغي التحقق من العرض المتاح للموقع المحدد. [المصدر · www.zipline.com](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تسمية منطقة حضرية لا تثبت خدمة كل عنوان ومطعم وصنف. والاختبار العملي هو الخيار الذي يظهر للطلب نفسه. وجود مطعم في أوبر إيتس لا يعني أن جميع طلباته مؤهلة للطيران أو أن الإتاحة ثابتة في كل ساعة."
+      },
+      {
+        "type": "subheading",
+        "text": "شراكة أغسطس سبقت التشغيل"
+      },
+      {
+        "type": "paragraph",
+        "text": "أعلنت أوبر الاتفاق الاستراتيجي في ١٧ أغسطس، مع نشر أولي لاحق في ٢٠٢٦ وخطة استثمار استراتيجي في زيبلاين. لذا يمثل نوفمبر محطة تشغيل بعد الإعلان التجاري، لا أول كشف عن التعاون. [المصدر · investor.uber.com](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يفصل التسلسل النيات عن التشغيل. فالاتفاق يحدد علاقة وأهدافاً، بينما يثبت الإطلاق بدء خدمة في سوق بعينها. وتحتاج كل مدينة إضافية إلى تأكيد تشغيلي مستقل."
+      },
+      {
+        "type": "heading",
+        "text": "كيف يصل الطعام إلى الأرض؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يفصل تصميم Platform 2 بين الطائرة التي تنقل الطلب ووضعه النهائي. وتصف زيبلاين طائرة كبيرة تحوم في الأعلى، بينما تنزل وحدة توصيل أصغر تسميها droid على حبل وتناور نحو نقطة التسليم. فلا تحتاج الطائرة الرئيسية إلى الهبوط بجوار المستلم. [المصدر · www.zipline.com](https://www.zipline.com/newsroom/zipline-unveils-new-autonomous-system-capable-of-quiet-fast-and-precise-home-delivery)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يعالج ذلك صعوبة الأمتار الأخيرة. فبلوغ إحداثية لا يساوي وضع وجبة في موضع صالح للاستلام. الحديقة ودرجة المدخل والعوائق والأشخاص المتحركون تجعل المهمة أعقد من رسم خط بين مطعم وعميل."
+      },
+      {
+        "type": "subheading",
+        "text": "لماذا تحتاج الصورة إلى توضيح؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "الصورة الافتتاحية رسم مقدّم، وليست تصويراً متحققاً منه لطائرة زيبلاين التشغيلية. وقد يوصل رسم طائرة متعددة المراوح تحمل كيساً فكرة التوصيل، مع تمثيل غير دقيق للمعدات. لذلك يعتمد الشرح التقني على التوثيق لا على الرسم."
+      },
+      {
+        "type": "paragraph",
+        "text": "ويهم هذا الفرق حين تنتقل الأنظمة الذاتية من الترويج إلى الخدمة اليومية. فالصورة المفاهيمية لا تثبت الحمولة أو المدى أو الضوضاء أو شروط التشغيل المسموحة؛ تلك أمور تحتاج إلى أدلة تخص النظام الفعلي."
+      },
+      {
+        "type": "heading",
+        "text": "السرعة تحتاج إلى قياس الرحلة كاملة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقول زيبلاين إن نظامها ينقل الطعام بسرعة بعد تحضيره. هذا ادعاء للشركة بشأن جزء من العملية، وليس ضماناً للمدة من الدفع إلى الاستلام في كل طلب. فالتحضير والتوزيع والتسليم النهائي كلها أجزاء من تجربة واحدة. [المصدر · www.zipline.com](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقارن القراءة المفيدة طلبات متكافئة من الشراء إلى الاستلام، لا رحلة طيران قصيرة بمهمة المندوب كاملة. كما تهم سلامة الوجبة وحرارتها. وتصبح السرعة ذات قيمة عندما تحافظ العملية المحيطة على هذه الصفات."
+      },
+      {
+        "type": "heading",
+        "text": "مليون توصيل يومي هدف مستقبلي"
+      },
+      {
+        "type": "paragraph",
+        "text": "حدد اتفاق أغسطس طموح مليون عملية توصيل مسيّر يومياً بحلول نهاية ٢٠٢٩، والتوسع إلى عشرات المدن الأميركية. هذه أهداف مستقبلية، لا حجم خدمة هيوستن الجديدة. [المصدر · investor.uber.com](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ويتطلب التوسع أكثر من زيادة الطائرات. تحتاج المطاعم إلى ترتيبات استلام مناسبة، والعملاء إلى نقاط موثوقة، والشبكة إلى إدارة تغير الطلب. وما يعمل في موقع واحد يجب أن يثبت حفاظه على الاعتمادية في نطاق أكبر."
+      },
+      {
+        "type": "heading",
+        "text": "التنظيم جزء من المسار"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشرح إدارة الطيران الفيدرالية التوصيل التجاري عبر إطار شهادة Part 135 والتصاريح اللازمة للعمل خارج مجال الرؤية البصرية للطيار. وتسجل تاريخ اعتماد زيبلاين، لكن شهادة الناقل ليست إذناً لكل مسار وطائرة وظرف تشغيل في أي مكان. [المصدر · www.faa.gov](https://www.faa.gov/uas/advanced_operations/package_delivery_drone)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ولهذا يختلف التكامل مع التطبيق عن الموافقة الجوية. الأول يصل الطلب بخيار التوصيل، والثاني يتعلق بكيفية تشغيل الطائرة. ولا يغني أي منهما عن خدمة حي محدد بأمان واعتمادية."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يتغير للمطاعم والمندوبين؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يوفر المسار الجوي للمطعم وسيلة أخرى للوصول إلى عميل قريب. وتتوقف قيمته على توقيت الاستلام والتغليف والمناولة والطلب الذي يخدمه. وجود الطائرات وحده لا يثبت تحسن هوامش الربح لكل منشأة."
+      },
+      {
+        "type": "paragraph",
+        "text": "يناقش تقرير PRESDA عن [متاجر المستقبل المؤتمتة](/articles/future-supermarkets-ai-robots-cashierless-shopping/) تحولاً قريباً: تغير الأتمتة مهام داخل نظام تجاري أكبر. وفي التوصيل لا يكفي وجود خيار ذاتي لحساب الوظائف المتأثرة أو الطلبات التي تبقى أنسب للإنسان."
+      },
+      {
+        "type": "subheading",
+        "text": "ما الأدلة المهمة بعد الإطلاق؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "الاعتمادية المتكررة ونسبة الطلبات المؤهلة والتسليمات الناجحة والأوقات الكاملة أهم من عرض منفرد. ولا يصح اختلاقها من إعلان توسع. وكذلك تعتمد الانبعاثات على العملية كلها والرحلة المستبدلة، لا مجرد كون الطائرة كهربائية."
+      },
+      {
+        "type": "paragraph",
+        "text": "إطلاق هيوستن خطوة ملموسة ضمن [الثورة الروبوتية](/articles/robot-revolution-ai-future-2030/). وأهميته أن العميل يستطيع اختيار خدمة فعلية في تطبيق يعرفه. أما تحولها إلى عادة فستحدده عمليات التوصيل التالية للإعلان."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر · www.zipline.com",
+        "url": "https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston"
+      },
+      {
+        "label": "المصدر · investor.uber.com",
+        "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx"
+      },
+      {
+        "label": "المصدر · www.zipline.com",
+        "url": "https://www.zipline.com/newsroom/zipline-unveils-new-autonomous-system-capable-of-quiet-fast-and-precise-home-delivery"
+      },
+      {
+        "label": "المصدر · www.faa.gov",
+        "url": "https://www.faa.gov/uas/advanced_operations/package_delivery_drone"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل الخدمة متاحة في كل مكان؟",
+        "answer": "لا. يخص الإطلاق منطقة هيوستن، ويجب التحقق من أهلية العنوان والطلب داخل التطبيق."
+      },
+      {
+        "question": "هل أُطلقت خدمة دالاس بالفعل؟",
+        "answer": "يسمي إعلان هيوستن دالاس الوجهة التالية، ولا يثبت اكتمال إطلاقها."
+      },
+      {
+        "question": "هل تهبط الطائرة الرئيسية عند الباب؟",
+        "answer": "يستخدم تصميم Platform 2 وحدة صغيرة معلقة بحبل للتسليم النهائي، بينما تبقى الطائرة الأكبر في الأعلى."
+      },
+      {
+        "question": "هل تنفذ الخدمة مليون توصيل يومياً الآن؟",
+        "answer": "لا. هذا هدف الشراكة لنهاية ٢٠٢٩، وليس حجماً حالياً معلناً."
+      }
+    ],
+    "readingTimeMinutes": 5
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/uber-eats-zipline-drone-delivery-houston-2026/",
+    "path": "/es/articles/uber-eats-zipline-drone-delivery-houston-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "UBER EATS LANZA EL REPARTO DE COMIDA CON DRONES DE ZIPLINE",
+    "seoTitle": "Uber Eats y Zipline estrenan reparto con drones en Houston",
+    "description": "El servicio de Zipline llega a Uber Eats en Houston. Cómo acceder, cómo funciona y qué objetivos de expansión siguen siendo futuros.",
+    "excerpt": "El servicio de Zipline llega a Uber Eats en Houston. Cómo acceder, cómo funciona y qué objetivos de expansión siguen siendo futuros.",
+    "headlineHighlights": {
+      "red": "UBER EATS",
+      "gold": "REPARTO DE COMIDA CON DRONES"
+    },
+    "keywords": [
+      "UBER EATS",
+      "REPARTO DE COMIDA CON DRONES"
+    ],
+    "searchIntent": "El servicio de Zipline llega a Uber Eats en Houston. Cómo acceder, cómo funciona y qué objetivos de expansión siguen siendo futuros.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/uber-eats-zipline-drone-delivery-houston-2026.jpg",
+      "alt": "Ilustración editorial facilitada de un dron con marcas Uber Eats y Zipline, sin verificar como fotografía del aparato operativo.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Los clientes de Uber Eats en el área de Houston ya pueden recibir pedidos elegibles mediante drones de Zipline. La empresa anunció el lanzamiento el 17 de noviembre de 2026, convirtiendo la alianza en una opción dentro de la aplicación. Dallas figura como siguiente mercado, no como un segundo estreno ya realizado. [Fuente · www.zipline.com](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El cambio afecta tanto al pedido como al aparato. Una demostración no basta: el servicio necesita conectar restaurantes, encargos, asignación y direcciones reales. Uber Eats incorpora esa conexión a una aplicación conocida."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_529]]",
+        "caption": "Uber Eats y Zipline: hitos y límites. Fuentes: Uber, Zipline y FAA. Los objetivos de expansión y volumen no son resultados completados.",
+        "headings": [
+          "Hito",
+          "Significado verificado"
+        ],
+        "rows": [
+          [
+            "15 de marzo de 2023",
+            "Zipline presentó el diseño doméstico Platform 2."
+          ],
+          [
+            "17 de agosto de 2026",
+            "Uber anunció la alianza y el plan de inversión estratégica."
+          ],
+          [
+            "17 de noviembre de 2026",
+            "Zipline anunció el servicio de Uber Eats en Houston."
+          ],
+          [
+            "Meta para finales de 2029",
+            "Un millón de repartos diarios: una aspiración, no el volumen inicial."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Qué se ha estrenado y dónde"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zipline indica a los clientes de Houston que abran Uber Eats y seleccionen la opción de dron en la pantalla principal. El acceso se integra en la aplicación, sin obligar a usar un mercado separado de Zipline para cada pedido. La oferta debe comprobarse para la ubicación concreta. [Fuente · www.zipline.com](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nombrar una zona metropolitana no demuestra cobertura de todos los domicilios, restaurantes o platos. La prueba práctica es la opción que ofrece la aplicación para ese pedido. Un establecimiento anunciado en Uber Eats no implica elegibilidad aérea ni disponibilidad idéntica a cualquier hora."
+      },
+      {
+        "type": "subheading",
+        "text": "El acuerdo de agosto fue un paso anterior"
+      },
+      {
+        "type": "paragraph",
+        "text": "Uber anunció la alianza estratégica el 17 de agosto, con primeros despliegues previstos para más adelante en 2026 y una inversión estratégica en Zipline. Noviembre constituye el hito operativo posterior, no la primera noticia de su cooperación. [Fuente · investor.uber.com](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cronología distingue intenciones y funcionamiento. Los acuerdos establecen objetivos y relaciones comerciales; un lanzamiento acredita el comienzo de un servicio en un mercado definido. Cada nueva ciudad necesita su propia confirmación operativa."
+      },
+      {
+        "type": "heading",
+        "text": "Cómo llega la comida al suelo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Platform 2 separa el vuelo principal de la colocación del paquete. En su presentación técnica, Zipline describe un aparato que permanece arriba mientras un pequeño módulo de reparto, llamado droid, desciende por un cable y maniobra hasta el punto de entrega. El aparato principal no aterriza junto al destinatario. [Fuente · www.zipline.com](https://www.zipline.com/newsroom/zipline-unveils-new-autonomous-system-capable-of-quiet-fast-and-precise-home-delivery)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El diseño responde al problema de los últimos metros. Alcanzar una coordenada no equivale a dejar una comida en un lugar útil. Un jardín, un escalón, obstáculos y personas en movimiento plantean algo más complejo que trazar una línea entre restaurante y cliente."
+      },
+      {
+        "type": "subheading",
+        "text": "Por qué la imagen necesita una aclaración"
+      },
+      {
+        "type": "paragraph",
+        "text": "La imagen principal es una ilustración facilitada, no una fotografía verificada del aparato operativo de Zipline. Un multirrotor con bolsa de marca transmite la idea del reparto aéreo, pero puede representar mal el equipo real. La explicación técnica sigue la documentación, no el dibujo."
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinción importa al pasar de imágenes promocionales a servicios cotidianos. Una representación conceptual no demuestra carga, alcance, ruido ni condiciones autorizadas. Esos datos necesitan pruebas sobre el sistema utilizado."
+      },
+      {
+        "type": "heading",
+        "text": "La velocidad necesita una medición completa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zipline afirma poder transportar rápidamente comida después de su preparación. Es una afirmación de la empresa sobre una etapa, no una garantía del tiempo transcurrido entre pagar y recibir cada pedido. Cocina, asignación y entrega final forman una misma experiencia. [Fuente · www.zipline.com](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La comparación útil seguiría pedidos equivalentes desde la compra hasta la recepción, sin enfrentar un vuelo corto con todo el recorrido de un repartidor. También importan la integridad de la comida y su temperatura. Ganar velocidad sirve si el resto del proceso conserva esas cualidades."
+      },
+      {
+        "type": "heading",
+        "text": "Un millón al día es una meta"
+      },
+      {
+        "type": "paragraph",
+        "text": "El acuerdo de agosto aspira a un millón de repartos diarios con drones al terminar 2029 y contempla decenas de ciudades estadounidenses. Son objetivos futuros, no el volumen del servicio recién estrenado en Houston. [Fuente · investor.uber.com](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Escalar exige más que añadir aparatos. Los restaurantes necesitan recogidas adecuadas, los clientes puntos fiables de recepción y la red capacidad para gestionar cambios de demanda. La fiabilidad de un lugar debe demostrarse también en una operación mucho mayor."
+      },
+      {
+        "type": "heading",
+        "text": "La regulación forma parte de la ruta"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FAA describe el reparto comercial mediante su certificación Part 135 y las autorizaciones necesarias para operar más allá de la línea visual del piloto. Registra el historial de Zipline, pero un certificado de operador no autoriza cualquier ruta, aparato o condición en cualquier lugar. [Fuente · www.faa.gov](https://www.faa.gov/uas/advanced_operations/package_delivery_drone)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Integrarse en una aplicación y obtener autorización aérea son logros diferentes. Uno conecta el pedido con una opción; el otro regula el funcionamiento del aparato. Ninguno sustituye la necesidad de atender un barrio concreto de forma segura y fiable."
+      },
+      {
+        "type": "heading",
+        "text": "Qué cambia para restaurantes y repartidores"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para un restaurante, la vía aérea ofrece otra forma de llegar a clientes cercanos. Su valor depende de horarios de recogida, embalaje, manipulación y demanda atendida. Disponer de drones no demuestra mejores márgenes para todos los negocios."
+      },
+      {
+        "type": "paragraph",
+        "text": "El reportaje de PRESDA sobre [supermercados automatizados](/articles/future-supermarkets-ai-robots-cashierless-shopping/) estudia un cambio parecido: automatizar tareas dentro de un sistema comercial. Aquí, la existencia de una opción autónoma no permite calcular empleos afectados ni decidir qué pedidos siguen siendo más adecuados para personas."
+      },
+      {
+        "type": "subheading",
+        "text": "Qué observar después del lanzamiento"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fiabilidad repetida, proporción de pedidos elegibles, entregas correctas y tiempos completos serán más útiles que vuelos aislados. No pueden deducirse de una expansión anunciada. Las emisiones también dependen de toda la operación y del trayecto sustituido, no solo de que el aparato sea eléctrico."
+      },
+      {
+        "type": "paragraph",
+        "text": "Houston es un paso concreto dentro de [la revolución robótica](/articles/robot-revolution-ai-future-2030/). Los clientes pueden seleccionar un servicio real en una aplicación familiar. Las entregas posteriores decidirán si se convierte en rutina."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente · www.zipline.com",
+        "url": "https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston"
+      },
+      {
+        "label": "Fuente · investor.uber.com",
+        "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx"
+      },
+      {
+        "label": "Fuente · www.zipline.com",
+        "url": "https://www.zipline.com/newsroom/zipline-unveils-new-autonomous-system-capable-of-quiet-fast-and-precise-home-delivery"
+      },
+      {
+        "label": "Fuente · www.faa.gov",
+        "url": "https://www.faa.gov/uas/advanced_operations/package_delivery_drone"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Está disponible en todas partes?",
+        "answer": "No. El estreno corresponde a Houston; debe comprobarse la elegibilidad de dirección y pedido en la aplicación."
+      },
+      {
+        "question": "¿Ya funciona en Dallas?",
+        "answer": "El anuncio de Houston presenta Dallas como siguiente mercado, sin confirmar un estreno completado."
+      },
+      {
+        "question": "¿Aterriza el aparato principal frente a la puerta?",
+        "answer": "El diseño Platform 2 utiliza un pequeño módulo sujeto a un cable, mientras el aparato mayor permanece arriba."
+      },
+      {
+        "question": "¿Ya se hacen un millón de repartos al día?",
+        "answer": "No. Esa es la meta de la alianza para finales de 2029, no un volumen actual comunicado."
+      }
+    ],
+    "readingTimeMinutes": 6
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/uber-eats-zipline-drone-delivery-houston-2026/",
+    "path": "/fr/articles/uber-eats-zipline-drone-delivery-houston-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex direct translation and editorial review",
+      "reviewedAt": "2026-11-20",
+      "terminologyChecked": true
+    },
+    "title": "UBER EATS LANCE LA LIVRAISON DE REPAS PAR DRONE AVEC ZIPLINE",
+    "seoTitle": "Uber Eats et Zipline lancent les drones à Houston",
+    "description": "Le service Zipline arrive sur Uber Eats à Houston. Accès, fonctionnement et limites d’un lancement dont les objectifs d’expansion restent à venir.",
+    "excerpt": "Le service Zipline arrive sur Uber Eats à Houston. Accès, fonctionnement et limites d’un lancement dont les objectifs d’expansion restent à venir.",
+    "headlineHighlights": {
+      "red": "UBER EATS",
+      "gold": "LIVRAISON DE REPAS PAR DRONE"
+    },
+    "keywords": [
+      "UBER EATS",
+      "LIVRAISON DE REPAS PAR DRONE"
+    ],
+    "searchIntent": "Le service Zipline arrive sur Uber Eats à Houston. Accès, fonctionnement et limites d’un lancement dont les objectifs d’expansion restent à venir.",
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "image": {
+      "src": "/articles/uber-eats-zipline-drone-delivery-houston-2026.jpg",
+      "alt": "Illustration éditoriale fournie d’un drone portant les marques Uber Eats et Zipline, sans identification comme photographie d’un appareil opérationnel.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Les clients Uber Eats de la région de Houston peuvent désormais recevoir des commandes éligibles par drone Zipline. L’annonce du 17 novembre 2026 transforme le partenariat en service sélectionnable dans l’application. Dallas est la prochaine étape annoncée, pas un deuxième lancement déjà accompli. [Source · www.zipline.com](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le changement concerne autant la commande que l’aéronef. Une démonstration ne suffit pas à faire fonctionner un service : il faut relier restaurants, commandes, répartition et adresse réelle. Uber Eats intègre cette chaîne à une application déjà familière."
+      },
+      {
+        "type": "table",
+        "sourceMarker": "[[NOV20_BATCH_529]]",
+        "caption": "Uber Eats et Zipline : étapes confirmées et limites. Sources : Uber, Zipline et FAA. Les objectifs ne sont pas des résultats accomplis.",
+        "headings": [
+          "Étape",
+          "Sens vérifié"
+        ],
+        "rows": [
+          [
+            "15 mars 2023",
+            "Présentation du système de livraison domestique Platform 2."
+          ],
+          [
+            "17 août 2026",
+            "Annonce du partenariat et du projet d’investissement stratégique."
+          ],
+          [
+            "17 novembre 2026",
+            "Annonce du service Uber Eats par drone à Houston."
+          ],
+          [
+            "Objectif fin 2029",
+            "Un million de livraisons quotidiennes : une ambition, pas le volume initial."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Quel service est disponible, et où ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zipline invite les clients de la région de Houston à ouvrir Uber Eats et à choisir l’option drone sur l’écran d’accueil. L’accès passe donc par l’application existante, sans imposer pour chaque commande une place de marché Zipline séparée. L’offre disponible reste à vérifier pour l’adresse concernée. [Source · www.zipline.com](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nommer une agglomération ne signifie pas desservir chaque logement, restaurant ou plat. Le test concret est l’option proposée pour une commande précise. Une fiche Uber Eats ordinaire ne garantit pas l’éligibilité au drone ni une disponibilité identique à toute heure."
+      },
+      {
+        "type": "subheading",
+        "text": "Le partenariat d’août précédait le lancement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Uber a annoncé l’accord stratégique le 17 août, avec de premiers déploiements prévus plus tard en 2026 et un investissement stratégique dans Zipline. Novembre marque donc une étape opérationnelle après l’annonce commerciale, pas la première révélation de leur coopération. [Source · investor.uber.com](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La chronologie distingue intentions et fonctionnement. Un accord établit des objectifs et une relation commerciale ; un lancement établit le début d’un service dans un marché défini. Chaque ville supplémentaire exige sa propre confirmation opérationnelle."
+      },
+      {
+        "type": "heading",
+        "text": "Comment le repas rejoint le sol"
+      },
+      {
+        "type": "paragraph",
+        "text": "Platform 2 sépare le déplacement principal de la pose finale du colis. Dans sa présentation technique, Zipline décrit un aéronef en vol stationnaire et un petit module de livraison, le « droid », qui descend sur un câble et se dirige vers le point de dépôt. L’appareil principal n’atterrit pas auprès du destinataire. [Source · www.zipline.com](https://www.zipline.com/newsroom/zipline-unveils-new-autonomous-system-capable-of-quiet-fast-and-precise-home-delivery)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ce dispositif répond au problème des derniers mètres. Atteindre une coordonnée n’équivaut pas à poser un repas dans un endroit utilisable. Jardin, marche d’entrée, obstacles et personnes en mouvement rendent la tâche plus complexe qu’une ligne droite entre restaurant et client."
+      },
+      {
+        "type": "subheading",
+        "text": "Pourquoi préciser la nature de l’image"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’image principale est une illustration fournie, pas une photographie vérifiée de l’appareil Zipline en service. Un multirotor portant un sac de marque exprime l’idée de livraison aérienne, mais peut déformer le matériel réel. L’explication technique suit donc la documentation, pas l’illustration."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette distinction est utile pour les systèmes autonomes. Un visuel conceptuel ne prouve ni charge utile, ni rayon d’action, ni bruit, ni conditions d’exploitation autorisées. Ces éléments demandent des données sur le système réellement utilisé."
+      },
+      {
+        "type": "heading",
+        "text": "La vitesse doit être mesurée de bout en bout"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zipline affirme pouvoir acheminer rapidement les repas après leur préparation. Cette déclaration concerne une partie du processus ; elle ne garantit pas le même délai entre paiement et réception pour toute commande. Cuisine, répartition et remise finale appartiennent à l’expérience complète. [Source · www.zipline.com](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une comparaison pertinente suivrait des commandes équivalentes depuis la validation jusqu’à la réception, sans opposer le seul vol à tout le trajet d’un livreur. L’intégrité du repas et sa température comptent aussi. Gagner du temps est utile si les autres étapes préservent ces qualités."
+      },
+      {
+        "type": "heading",
+        "text": "Un million par jour reste un objectif"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’accord d’août vise un million de livraisons quotidiennes par drone d’ici fin 2029 et évoque des dizaines de villes américaines. Ce sont des ambitions futures, pas les volumes réalisés au lancement de Houston. [Source · investor.uber.com](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Changer d’échelle exige davantage que des aéronefs supplémentaires. Les restaurants doivent organiser le retrait, les clients disposer de points de réception fiables et le réseau absorber les variations de demande. La fiabilité locale doit encore se maintenir sur une empreinte beaucoup plus large."
+      },
+      {
+        "type": "heading",
+        "text": "La réglementation fait partie du trajet"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FAA décrit la livraison commerciale par drone dans le cadre de la certification Part 135 et des autorisations nécessaires aux vols hors vue. Elle retrace la certification de Zipline, mais un certificat de transporteur n’autorise pas automatiquement chaque itinéraire, appareil ou condition d’exploitation partout. [Source · www.faa.gov](https://www.faa.gov/uas/advanced_operations/package_delivery_drone)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’intégration à une application et une autorisation aéronautique sont donc deux réussites distinctes. L’une relie la commande à un choix de livraison ; l’autre concerne les opérations de l’appareil. Aucune ne remplace la desserte sûre et fiable d’un quartier précis."
+      },
+      {
+        "type": "heading",
+        "text": "Quels changements pour restaurants et livreurs ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour un restaurant, le trajet aérien constitue un autre moyen d’atteindre un client proche. Sa valeur dépend du retrait, de l’emballage, de la manutention et de la demande réellement servie. La présence de drones ne démontre pas une amélioration des marges de chaque établissement."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le reportage de PRESDA sur [les supermarchés automatisés](/articles/future-supermarkets-ai-robots-cashierless-shopping/) examine une évolution comparable : l’automatisation modifie des tâches dans un ensemble commercial. Ici, l’existence d’une option autonome ne permet pas de chiffrer les emplois transformés ni les commandes mieux adaptées à un humain."
+      },
+      {
+        "type": "subheading",
+        "text": "Les preuves à suivre après le lancement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fiabilité répétée, part de commandes éligibles, remises réussies et délais complets seront plus utiles que des vols isolés. On ne peut les déduire d’une annonce d’expansion. Les émissions dépendent elles aussi de l’opération entière et du déplacement remplacé, pas du seul caractère électrique de l’appareil."
+      },
+      {
+        "type": "paragraph",
+        "text": "Houston constitue une étape concrète du phénomène étudié dans [la révolution robotique](/articles/robot-revolution-ai-future-2030/). Les clients peuvent choisir un vrai service dans une application familière. Son passage à l’ordinaire se jouera dans les livraisons qui suivront l’annonce."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source · www.zipline.com",
+        "url": "https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston"
+      },
+      {
+        "label": "Source · investor.uber.com",
+        "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx"
+      },
+      {
+        "label": "Source · www.zipline.com",
+        "url": "https://www.zipline.com/newsroom/zipline-unveils-new-autonomous-system-capable-of-quiet-fast-and-precise-home-delivery"
+      },
+      {
+        "label": "Source · www.faa.gov",
+        "url": "https://www.faa.gov/uas/advanced_operations/package_delivery_drone"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Le service est-il disponible partout ?",
+        "answer": "Non. Le lancement concerne Houston ; l’éligibilité dépend de l’adresse et de la commande proposées dans l’application."
+      },
+      {
+        "question": "Dallas est-elle déjà desservie ?",
+        "answer": "L’annonce de Houston présente Dallas comme prochaine étape, sans confirmer un lancement accompli."
+      },
+      {
+        "question": "L’appareil principal se pose-t-il devant la porte ?",
+        "answer": "Platform 2 utilise un petit module sur câble pour le dépôt final, tandis que l’appareil principal reste en hauteur."
+      },
+      {
+        "question": "Un million de livraisons sont-elles déjà effectuées chaque jour ?",
+        "answer": "Non. C’est l’objectif du partenariat pour fin 2029, pas un volume actuel annoncé."
+      }
+    ],
+    "readingTimeMinutes": 6
   },
   {
     "locale": "ar",

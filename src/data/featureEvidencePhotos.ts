@@ -15,6 +15,111 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"essex-whale-sank-ship-1820": {
+  "afterBlock": 12,
+  "file": "nov20-essex-facts-en.png",
+  "localizedFiles": {
+    "en": "nov20-essex-facts-en.png",
+    "fr": "nov20-essex-facts-fr.png",
+    "ar": "nov20-essex-facts-ar.png",
+    "es": "nov20-essex-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://digitalcommons.unl.edu/etas/98/",
+  "credit": "PRESDA · digitalcommons.unl.edu",
+  "license": null,
+  "captions": {
+    "en": "The Essex: four stages. Sources: Chase’s 1821 narrative and the institutional accounts cited below. Dates describe distinct events, not a single rescue.",
+    "fr": "L’Essex en quatre étapes. Sources : récit de Chase et travaux institutionnels cités. Les sauvetages sont distincts.",
+    "ar": "إسكس في أربع مراحل. المصادر: رواية تشيس والأعمال المؤسسية المرتبطة أدناه. وقائع الإنقاذ منفصلة.",
+    "es": "El Essex en cuatro etapas. Fuentes: relato de Chase y estudios institucionales citados. Los rescates fueron distintos."
+  }
+},
+"antikythera-mechanism-ancient-analog-computer": {
+  "afterBlock": 12,
+  "file": "nov20-antikythera-facts-en.png",
+  "localizedFiles": {
+    "en": "nov20-antikythera-facts-en.png",
+    "fr": "nov20-antikythera-facts-fr.png",
+    "ar": "nov20-antikythera-facts-ar.png",
+    "es": "nov20-antikythera-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html",
+  "credit": "PRESDA · olympicgames.culture.gov.gr",
+  "license": null,
+  "captions": {
+    "en": "Antikythera: evidence and interpretation. Sources: Greek Ministry of Culture, research-project chronology and UCL. Approximate dating is not a known manufacturing year.",
+    "fr": "Anticythère : preuves et interprétations. Sources : ministère grec, chronologie du projet et UCL. La datation demeure approximative.",
+    "ar": "أنتيكيثيرا: دليل وتفسير. المصادر: وزارة الثقافة اليونانية وتسلسل المشروع وكلية لندن الجامعية. التأريخ تقريبي.",
+    "es": "Anticitera: evidencia e interpretación. Fuentes: Ministerio de Cultura griego, cronología del proyecto y UCL. La datación es aproximada."
+  }
+},
+"uber-eats-zipline-drone-delivery-houston-2026": {
+  "afterBlock": 12,
+  "file": "nov20-uber-facts-en.png",
+  "localizedFiles": {
+    "en": "nov20-uber-facts-en.png",
+    "fr": "nov20-uber-facts-fr.png",
+    "ar": "nov20-uber-facts-ar.png",
+    "es": "nov20-uber-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston",
+  "credit": "PRESDA · www.zipline.com",
+  "license": null,
+  "captions": {
+    "en": "Uber Eats and Zipline: confirmed milestones and limits. Sources: Uber, Zipline and the FAA. Expansion and volume targets are not completed results.",
+    "fr": "Uber Eats et Zipline : étapes confirmées et limites. Sources : Uber, Zipline et FAA. Les objectifs ne sont pas des résultats accomplis.",
+    "ar": "أوبر إيتس وزيبلاين: محطات مؤكدة وحدودها. المصادر: أوبر وزيبلاين وإدارة الطيران الفيدرالية. الأهداف ليست نتائج مكتملة.",
+    "es": "Uber Eats y Zipline: hitos y límites. Fuentes: Uber, Zipline y FAA. Los objetivos de expansión y volumen no son resultados completados."
+  }
+},
+"snapchat-easy-lens-cli-ai-coding-tools-2026": {
+  "afterBlock": 12,
+  "file": "nov20-snap-facts-en.png",
+  "localizedFiles": {
+    "en": "nov20-snap-facts-en.png",
+    "fr": "nov20-snap-facts-fr.png",
+    "ar": "nov20-snap-facts-ar.png",
+    "es": "nov20-snap-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://newsroom.snap.com/introducing-easy-lens-cli",
+  "credit": "PRESDA · newsroom.snap.com",
+  "license": null,
+  "captions": {
+    "en": "Easy Lens CLI: the workflow and its boundaries. Sources: Snap’s November 18 announcement and developer documentation. Tool access does not guarantee publication or earnings.",
+    "fr": "Easy Lens CLI : étapes et limites. Sources : annonce Snap et documentation. L’accès ne garantit ni publication ni revenu.",
+    "ar": "Easy Lens CLI: المراحل والحدود. المصادر: إعلان سناب ووثائقها. الوصول لا يضمن النشر أو الدخل.",
+    "es": "Easy Lens CLI: etapas y límites. Fuentes: anuncio de Snap y documentación. Acceder no garantiza publicar ni cobrar."
+  }
+},
+"nike-formula-1-apparel-uniform-partner-2027": {
+  "afterBlock": 12,
+  "file": "nov20-nike-facts-en.png",
+  "localizedFiles": {
+    "en": "nov20-nike-facts-en.png",
+    "fr": "nov20-nike-facts-fr.png",
+    "ar": "nov20-nike-facts-ar.png",
+    "es": "nov20-nike-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership",
+  "credit": "PRESDA · about.nike.com",
+  "license": null,
+  "captions": {
+    "en": "Nike and Formula 1: what starts when. Sources: Nike and Formula 1’s official announcements. The staff role is distinct from individual team and driver contracts.",
+    "fr": "Nike et Formula 1 : dates et périmètre. Sources : annonces officielles. Le personnel de F1 est distinct des contrats des équipes et pilotes.",
+    "ar": "نايكي وفورمولا ١: التوقيت والنطاق. المصادر: الإعلانات الرسمية. دور الموظفين مختلف عن عقود الفرق والسائقين.",
+    "es": "Nike y Fórmula 1: fechas y alcance. Fuentes: anuncios oficiales. El personal de F1 es distinto de los contratos de equipos y pilotos."
+  }
+},
 "potatoes-simulated-lunar-soil-oregon-state-2026": {
   "afterBlock": 12,
   "file": "culture5-potatoes-facts-en.png",

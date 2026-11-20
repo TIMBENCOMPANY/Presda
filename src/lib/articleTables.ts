@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV20_BATCH_527]]": {
+    "caption": "The Essex: four stages. Sources: Chase’s 1821 narrative and the institutional accounts cited below. Dates describe distinct events, not a single rescue.",
+    "headers": [
+      "Stage",
+      "What happened"
+    ],
+    "rows": [
+      [
+        "August 1819",
+        "The Essex sailed from Nantucket under George Pollard Jr."
+      ],
+      [
+        "November 20, 1820",
+        "A sperm whale struck the ship; twenty men escaped in three boats."
+      ],
+      [
+        "1821",
+        "Separate rescues ultimately saved eight of the twenty men."
+      ],
+      [
+        "1851",
+        "Moby-Dick appeared, transforming one influence into fiction."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV20_BATCH_528]]": {
+    "caption": "Antikythera: evidence and interpretation. Sources: Greek Ministry of Culture, research-project chronology and UCL. Approximate dating is not a known manufacturing year.",
+    "headers": [
+      "Evidence",
+      "What it establishes"
+    ],
+    "rows": [
+      [
+        "Probably 150–100 BCE",
+        "The Ministry’s catalogue date for the instrument."
+      ],
+      [
+        "82 fragments; 30 surviving gears",
+        "The preserved remains, not a complete original parts list."
+      ],
+      [
+        "1900–1902",
+        "Wreck discovery, salvage and recognition were separate stages."
+      ],
+      [
+        "2021 cosmos model",
+        "A proposed reconstruction of missing front-display mechanics."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV20_BATCH_529]]": {
+    "caption": "Uber Eats and Zipline: confirmed milestones and limits. Sources: Uber, Zipline and the FAA. Expansion and volume targets are not completed results.",
+    "headers": [
+      "Milestone",
+      "Verified meaning"
+    ],
+    "rows": [
+      [
+        "March 15, 2023",
+        "Zipline presented the Platform 2 home-delivery design."
+      ],
+      [
+        "August 17, 2026",
+        "Uber announced the partnership and strategic investment plan."
+      ],
+      [
+        "November 17, 2026",
+        "Zipline announced Uber Eats drone service in Houston."
+      ],
+      [
+        "End of 2029 target",
+        "One million daily drone deliveries; a stated ambition, not launch volume."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV20_BATCH_530]]": {
+    "caption": "Easy Lens CLI: the workflow and its boundaries. Sources: Snap’s November 18 announcement and developer documentation. Tool access does not guarantee publication or earnings.",
+    "headers": [
+      "Stage",
+      "What Snap describes"
+    ],
+    "rows": [
+      [
+        "Create",
+        "Use an existing AI coding assistant with Snap’s AR resources."
+      ],
+      [
+        "Test",
+        "Render previews and send versions to a phone."
+      ],
+      [
+        "Publish",
+        "Use the normal content checks and Lens review process."
+      ],
+      [
+        "Earn",
+        "Eligible approved creators may participate in Lens+ Payouts; payment is not guaranteed."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV20_BATCH_531]]": {
+    "caption": "Nike and Formula 1: what starts when. Sources: Nike and Formula 1’s official announcements. The staff role is distinct from individual team and driver contracts.",
+    "headers": [
+      "Date or scope",
+      "Confirmed detail"
+    ],
+    "rows": [
+      [
+        "November 19–20, 2026",
+        "The companies published their partnership announcements."
+      ],
+      [
+        "November 20, 2026",
+        "Las Vegas capsule scheduled at the named Nike and F1 Hub stores."
+      ],
+      [
+        "2027 season",
+        "Nike becomes F1’s official apparel and uniform supplier for event staff."
+      ],
+      [
+        "F1 Academy",
+        "Official partnership and sporting apparel role are included."
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV19_CULTURE5_522]]": {
     "caption": "What the November 19 study establishes. Source: Handy and colleagues, npj Microgravity. These are Earth greenhouse experiments.",
     "headers": [

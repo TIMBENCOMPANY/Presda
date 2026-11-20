@@ -1,0 +1,229 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/antikythera-mechanism-ancient-analog-computer/",
+  "path": "/es/articles/antikythera-mechanism-ancient-analog-computer/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-20",
+    "terminologyChecked": true
+  },
+  "title": "EL MECANISMO DE ANTICITERA: EL PRIMER ORDENADOR ANALÓGICO CONOCIDO",
+  "seoTitle": "Mecanismo de Anticitera: cómo calculaba el mundo antiguo",
+  "description": "Engranajes, predicciones astronómicas y fragmentos: qué sabemos de Anticitera y qué aportan sus reconstrucciones modernas.",
+  "excerpt": "Engranajes, predicciones astronómicas y fragmentos: qué sabemos de Anticitera y qué aportan sus reconstrucciones modernas.",
+  "headlineHighlights": {
+    "red": "MECANISMO DE ANTICITERA",
+    "gold": "PRIMER ORDENADOR ANALÓGICO CONOCIDO"
+  },
+  "keywords": [
+    "MECANISMO DE ANTICITERA",
+    "PRIMER ORDENADOR ANALÓGICO CONOCIDO"
+  ],
+  "searchIntent": "Engranajes, predicciones astronómicas y fragmentos: qué sabemos de Anticitera y qué aportan sus reconstrucciones modernas.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "image": {
+    "src": "/articles/antikythera-mechanism-ancient-analog-computer.jpg",
+    "alt": "Ilustración editorial facilitada inspirada en Anticitera, sin verificar como fotografía del museo.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El mecanismo de Anticitera es el calculador astronómico de engranajes conservado más antiguo que conocemos. Suele llamarse el primer ordenador analógico: un instrumento del mundo griego antiguo que representaba ciclos celestes mediante ruedas de bronce. Su importancia está en esa proeza mecánica, no en un aparato electrónico inexplicablemente aparecido en la Antigüedad. [Fuente · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los restos se conservan en el Museo Arqueológico Nacional de Atenas. La masa de metal deteriorado contiene pruebas de una compleja relación entre observación, matemáticas y artesanía. Interpretarla exige colaboración entre arqueólogos, historiadores de la astronomía, especialistas en imagen e ingenieros."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NOV20_BATCH_528]]",
+      "caption": "Anticitera: evidencia e interpretación. Fuentes: Ministerio de Cultura griego, cronología del proyecto y UCL. La datación es aproximada.",
+      "headings": [
+        "Evidencia",
+        "Qué establece"
+      ],
+      "rows": [
+        [
+          "Probablemente 150–100 a. C.",
+          "Datación del catálogo ministerial."
+        ],
+        [
+          "82 fragmentos; 30 engranajes conservados",
+          "Restos, no inventario completo de piezas originales."
+        ],
+        [
+          "1900–1902",
+          "Descubrimiento, recuperación y reconocimiento fueron etapas distintas."
+        ],
+        [
+          "Modelo del cosmos de 2021",
+          "Reconstrucción propuesta de la mecánica frontal perdida."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué debía calcular?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Ministerio de Cultura griego describe un instrumento para los movimientos del Sol y la Luna, probablemente también de los cinco planetas conocidos entonces, y para predecir fenómenos como eclipses. Incluía calendarios y celebraciones panhelénicas: conectaba el cielo con la organización del tiempo humano. [Fuente · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "«Ordenador» resulta útil si significa una máquina que calcula, pero engaña si sugiere pantalla, electricidad o software. Las relaciones estaban codificadas en el tamaño y disposición de los engranajes. Al girar la entrada, las piezas conectadas se movían en proporciones que representaban ciclos astronómicos."
+    },
+    {
+      "type": "subheading",
+      "text": "Cómo calcula un engranaje"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos ruedas dentadas transmiten movimiento, pero su número de dientes también determina cuánto gira una respecto de la otra. Varios cocientes combinados pueden representar un ciclo más largo o complejo. Una aguja convierte la rotación resultante en una posición legible en una esfera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es cálculo analógico porque el movimiento físico representa una cantidad cambiante. Se utiliza un modelo mecánico, no un programa moderno. El logro consistió en convertir conocimientos astronómicos difíciles en un instrumento operativo suficientemente pequeño para transportarse."
+    },
+    {
+      "type": "heading",
+      "text": "Un hallazgo en tres etapas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pescadores de esponjas descubrieron el pecio en 1900. La recuperación de antigüedades siguió en 1900–1901, mientras que el objeto con engranajes se reconoció en 1902. Encontrar el barco, recuperar material y comprender que una pieza corroída contenía una máquina fueron pasos diferentes. [Fuente · new.antikythera-mechanism.gr](https://new.antikythera-mechanism.gr/history)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los descubrimientos no siempre ocurren en un instante dramático. Puede recuperarse un objeto antes de entender su importancia. Aquí, el rescate submarino se convirtió en examen museístico y después en una investigación mantenida durante generaciones."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué antigüedad tiene y cuánto queda?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El catálogo ministerial propone aproximadamente 150–100 a. C. La fecha precisa sigue siendo objeto de estudio. El inicio de un ciclo astronómico calculado no equivale necesariamente al año de fabricación, y el instrumento puede ser anterior al naufragio. [Fuente · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se estudian 82 fragmentos catalogados y 30 engranajes de bronce conservados, no un inventario original completo. UCL estima que sobrevive aproximadamente un tercio del mecanismo. Reconstruirlo exige ajustar las pruebas tanto al espacio perdido como al metal observable. [Fuente · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+    },
+    {
+      "type": "subheading",
+      "text": "Instrucciones escritas en metal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las inscripciones griegas son parte de la evidencia. Algunas explican cálculos astronómicos y calendarios; otras, el uso del instrumento. El texto permite identificar funciones que las piezas mecánicas conservadas no revelarían por sí solas. [Fuente · olympicgames.culture.gov.gr](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "También sitúan el objeto en una cultura técnica humana. Alguien debía concebir las relaciones, otra persona fabricar y ensamblar las piezas, y un usuario interpretar los indicadores. El mecanismo demuestra esas habilidades vinculadas aunque desconozcamos los nombres."
+    },
+    {
+      "type": "heading",
+      "text": "Ver a través de la corrosión"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2005, la imagen radiográfica tridimensional y la de superficie revelaron detalles invisibles mediante inspección ordinaria. Inscripciones ocultas y componentes internos ayudaron a explicar eclipses y movimiento lunar variable, sin separar físicamente todas las capas corroídas. [Fuente · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso distingue observar de inventar una máquina completa. Una radiografía impone la posición real de un engranaje o una inscripción. El modelo debe respetar esas restricciones, no limitarse a obtener un resultado mediante un diseño ajeno a los restos."
+    },
+    {
+      "type": "heading",
+      "text": "La contribución del modelo de 2021"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2021, el equipo de UCL publicó en Scientific Reports una propuesta para el cosmos frontal. Combinó pruebas físicas e inscripciones con una reconstrucción del Sol, la Luna y los planetas. Fue un intento importante de explicar los engranajes desaparecidos, no el hallazgo de un instrumento intacto. [Fuente · www.nature.com](https://www.nature.com/articles/s41598-021-84310-w)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo examinó ciclos inscritos de 462 años para Venus y 442 para Saturno. Son patrones vistos desde la Tierra, incluidas las retrogradaciones aparentes. No deben confundirse con la duración moderna de la órbita de cada planeta alrededor del Sol. [Fuente · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un modelo es una propuesta comprobable"
+    },
+    {
+      "type": "paragraph",
+      "text": "UCL presentó la fabricación con técnicas antiguas como un reto adicional. Una disposición teórica viable y una fabricación histórica demostrada responden a preguntas relacionadas, pero distintas. Espacio, materiales, precisión y montaje importan junto a las matemáticas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no significa que todo sea incierto. Los restos demuestran una máquina astronómica sofisticada. La cautela corresponde a cómo se organizaron y fabricaron sus partes ausentes. Explicarlo es más útil que presentar cada réplica pulida como una imagen segura del diseño original."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué tiene tanta importancia"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mecanismo reúne astronomía, modelos matemáticos y trabajo del metal. Muestra que la técnica antigua podía producir un modelo operativo, no solo una descripción o un dibujo. Aquí, los conocimientos debían encajar y moverse dentro de un espacio limitado."
+    },
+    {
+      "type": "paragraph",
+      "text": "El reportaje de PRESDA sobre [la civilización griega antigua](/articles/ancient-greece-civilization-history/) ofrece el contexto. El mecanismo también pertenece a una historia de conocimientos que cruzaron culturas, no a un milagro aislado. UCL señala la importancia de la astronomía babilónica anterior en ese trasfondo. [Fuente · www.ucl.ac.uk](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué significa «primer ordenador»"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ningún resto prueba que fuera la primera máquina de este tipo jamás construida. La formulación cuidadosa es el ejemplo conservado más antiguo conocido. No encontrar otro ejemplar no demuestra que no hubiera predecesores, instrumentos relacionados o talleres similares."
+    },
+    {
+      "type": "paragraph",
+      "text": "El perfil de [al-Juarismi y el álgebra](/articles/al-khwarizmi-mathematician-modern-algebra/) sigue otra ruta en la historia del cálculo. Anticitera permite ver pensamiento materializado: un modelo del tiempo celeste que podía ponerse en marcha con la mano."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · olympicgames.culture.gov.gr",
+      "url": "https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html"
+    },
+    {
+      "label": "Fuente · new.antikythera-mechanism.gr",
+      "url": "https://new.antikythera-mechanism.gr/history"
+    },
+    {
+      "label": "Fuente · www.ucl.ac.uk",
+      "url": "https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer"
+    },
+    {
+      "label": "Fuente · www.nature.com",
+      "url": "https://www.nature.com/articles/s41598-021-84310-w"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Era realmente un ordenador?",
+      "answer": "Era un calculador mecánico analógico: los engranajes representaban relaciones astronómicas, sin electrónica ni software moderno."
+    },
+    {
+      "question": "¿Dónde está el original?",
+      "answer": "Los fragmentos se conservan en el Museo Arqueológico Nacional de Atenas."
+    },
+    {
+      "question": "¿Quién lo construyó?",
+      "answer": "No se ha identificado al fabricante con certeza. Las atribuciones concretas deben presentarse como hipótesis."
+    },
+    {
+      "question": "¿Se ha reconstruido todo con seguridad?",
+      "answer": "No. Las funciones están bien fundamentadas, pero componentes desaparecidos y engranajes frontales siguen investigándose."
+    }
+  ],
+  "readingTimeMinutes": 6
+}

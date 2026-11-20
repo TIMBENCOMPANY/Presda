@@ -322,5 +322,35 @@
     "fr": "Illustration éditoriale fournie, non vérifiée comme photographie de la remise du prix à Reus.",
     "ar": "رسم تحريري مقدّم، ليس صورة متحققاً منها لتسليم رويس جائزة لاعب العام.",
     "es": "Ilustración editorial facilitada, sin verificar como fotografía de la entrega del premio a Reus."
+  },
+  "essex-whale-sank-ship-1820": {
+    "en": "Supplied dramatic editorial illustration, not an archival record. The whale’s appearance and literary objects are artistic devices; Moby-Dick was published in 1851, after the 1820 sinking.",
+    "fr": "Illustration éditoriale fournie, sans valeur d’archive. L’animal et les objets littéraires sont des choix artistiques ; Moby-Dick paraît en 1851, après le naufrage de 1820.",
+    "ar": "رسم تحريري درامي مقدّم، لا سجل أرشيفي. هيئة الحوت والأشياء الأدبية عناصر فنية؛ صدرت موبي ديك عام ١٨٥١ بعد غرق إسكس في ١٨٢٠.",
+    "es": "Ilustración editorial dramática, sin valor de archivo. El animal y los objetos literarios son recursos artísticos; Moby-Dick apareció en 1851, después del naufragio de 1820."
+  },
+  "antikythera-mechanism-ancient-analog-computer": {
+    "en": "Supplied editorial illustration inspired by the Antikythera mechanism. Not verified museum photography or a reconstruction establishing the exact ancient arrangement.",
+    "fr": "Illustration éditoriale inspirée d’Anticythère, sans identification comme photographie du musée ni preuve de l’agencement antique exact.",
+    "ar": "رسم تحريري مستوحى من أنتيكيثيرا، لا صورة متحفية متحققاً منها ولا إثبات للترتيب القديم الدقيق.",
+    "es": "Ilustración editorial inspirada en Anticitera, no fotografía verificada del museo ni prueba de la disposición antigua exacta."
+  },
+  "uber-eats-zipline-drone-delivery-houston-2026": {
+    "en": "Supplied editorial illustration, not verified launch photography or an accurate specification of Zipline’s operational aircraft. Platform 2 uses a tethered delivery droid.",
+    "fr": "Illustration éditoriale, ni photographie vérifiée du lancement ni spécification de l’appareil réel. Platform 2 utilise un module de livraison sur câble.",
+    "ar": "رسم تحريري، لا تصوير متحقق منه للإطلاق ولا مواصفة للطائرة الفعلية. يستخدم Platform 2 وحدة تسليم معلقة بحبل.",
+    "es": "Ilustración editorial, no fotografía verificada del estreno ni especificación del aparato real. Platform 2 utiliza un módulo de reparto sujeto a un cable."
+  },
+  "snapchat-easy-lens-cli-ai-coding-tools-2026": {
+    "en": "Supplied editorial illustration of imagined AR effects. Not a verified screenshot of Easy Lens CLI or a product-interface specification.",
+    "fr": "Illustration éditoriale d’effets AR imaginaires, pas une capture vérifiée ni une spécification de l’interface Easy Lens CLI.",
+    "ar": "رسم تحريري لتأثيرات واقع معزز متخيلة، لا لقطة متحققاً منها أو مواصفات لواجهة Easy Lens CLI.",
+    "es": "Ilustración editorial de efectos AR imaginarios, no captura verificada ni especificación de Easy Lens CLI."
+  },
+  "nike-formula-1-apparel-uniform-partner-2027": {
+    "en": "Supplied editorial illustration with a fictional branded car. The announcement concerns F1 apparel and event-staff uniforms, not this livery or a new racing team.",
+    "fr": "Illustration éditoriale avec monoplace fictive. L’annonce concerne les vêtements et uniformes du personnel F1, pas cette livrée ou une nouvelle équipe.",
+    "ar": "رسم تحريري لسيارة خيالية. يخص الإعلان الملابس وزي موظفي فورمولا ١، لا هذا التصميم أو فريق سباقات جديد.",
+    "es": "Ilustración editorial con coche ficticio. El anuncio cubre ropa y uniformes del personal F1, no esa decoración ni un nuevo equipo."
   }
 }

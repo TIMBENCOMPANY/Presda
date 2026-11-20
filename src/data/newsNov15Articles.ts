@@ -1,6 +1,490 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "527",
+    "slug": "essex-whale-sank-ship-1820",
+    "title": "THE ESSEX: THE WHALE THAT SANK A SHIP",
+    "seoTitle": "The Essex: the whale attack behind Moby-Dick",
+    "metaDescription": "The Essex sank after a sperm whale struck in 1820. Follow the crew’s survival, the evidence and the disaster’s transformation into Moby-Dick.",
+    "excerpt": "The Essex sank after a sperm whale struck in 1820. Follow the crew’s survival, the evidence and the disaster’s transformation into Moby-Dick.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/essex-whale-sank-ship-1820.jpg",
+    "coverAlt": "Supplied dramatic editorial illustration of a whale striking the Essex, with literary imagery, not an archival depiction",
+    "headlineHighlights": {
+      "red": "THE ESSEX",
+      "gold": "WHALE THAT SANK A SHIP"
+    },
+    "tags": [
+      "THE ESSEX",
+      "History"
+    ],
+    "content": [
+      "On November 20, 1820, a sperm whale struck the Essex in the Pacific Ocean and turned a commercial whaling voyage into a struggle to stay alive. Twenty men escaped in three small boats. Only eight ultimately survived. The disaster helped inspire Moby-Dick, but its most harrowing events happened after the whale and the ship had disappeared from the survivors’ view. [Owen Chase: 1821 firsthand narrative, University of Nebraska edition](https://digitalcommons.unl.edu/etas/98/)",
+      "The distinction matters. Herman Melville’s novel makes pursuit of a whale the organising force of a fictional voyage. The Essex story is also about navigation, hunger, leadership and decisions made with incomplete knowledge. A collision that lasted minutes produced an ordeal measured in months.",
+      "[[NOV20_BATCH_527]]",
+      "## A ship built around the whale trade",
+      "The Essex had sailed from Nantucket in August 1819 under Captain George Pollard Jr., with Owen Chase as first mate. It belonged to a maritime economy in which distant voyages and the killing and processing of whales were ordinary commercial work. The men who would become castaways had gone to sea as hunters, not passengers. [Owen Chase: full public-domain narrative](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)",
+      "Whaling exposed a crew to danger before any extraordinary attack. Men left the relative security of a ship in open boats to approach large animals at close quarters. Damage to a boat could strand or injure its occupants, while the main vessel carried the supplies and equipment that made a prolonged voyage possible. Losing that vessel meant losing the centre of their working world.",
+      "## What happened on November 20?",
+      "Chase’s published account describes two blows from a large sperm whale. The second left the ship fatally damaged. The men salvaged what they could and prepared the whaleboats for a passage that none had intended to undertake in such small craft. [Owen Chase: full public-domain narrative](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)",
+      "### Evidence is stronger than an invented motive",
+      "We cannot interview the animal or establish its intention. Chase’s description gives evidence of what a survivor believed he saw, not proof that the whale acted from revenge. Dramatic illustrations and later films can make the encounter easier to picture, but they cannot settle its motive or supply a reliable measurement of the whale.",
+      "The biological background is worth separating from the legend. PRESDA’s feature on [why sperm whales sleep vertically](/articles/why-sperm-whales-sleep-vertically/) considers the animals on their own terms. The Essex account instead records a particular encounter through the experience of people whose livelihood depended on hunting them.",
+      "## Why the crew headed east",
+      "After the sinking, the men had to choose a route across an immense ocean. Chase’s narrative records their discussion of islands to the west and fears about the inhabitants. The eventual plan aimed toward South America. Those fears belong to the sailors’ worldview; they are not evidence that the island communities they imagined were actually a danger. [Owen Chase: full public-domain narrative](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)",
+      "The choice exchanged one set of uncertainties for another. A known continental destination could feel more reassuring than an unfamiliar island, yet reaching it required surviving an exceptionally long passage. Winds, the boats’ condition, navigational judgment and limited provisions would all influence the outcome. A destination on a chart was not the same thing as a reachable refuge.",
+      "## Land did not end the emergency",
+      "The survivors reached an island now identified as Henderson, where they found some food and water but no dependable solution for the whole party. Three men remained while the others went back to sea. The boats later became separated, and the ordeal developed into several different survival stories rather than one continuous voyage together. [Owen Chase: 1821 firsthand narrative, University of Nebraska edition](https://digitalcommons.unl.edu/etas/98/) [Owen Chase: full public-domain narrative](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm)",
+      "Henderson complicates the familiar image of castaways waiting helplessly for land. Land could offer relief without the resources needed to sustain everyone. Staying and leaving both carried risks, and different members of the same exhausted crew made different choices. The three who stayed were eventually rescued, forming part of the final total of eight survivors.",
+      "## Starvation and the people behind the horror",
+      "As supplies failed, men died and survivors resorted to eating the bodies of deceased companions. Chase’s narrative describes this directly. Accounts of the wider disaster also record the drawing of lots and the killing of a crew member in Pollard’s boat. These events should be reported plainly, without turning the dead into spectacle. [Owen Chase: full public-domain narrative](https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm) [Linda Hall Library: Pollard, Chase and the Essex](https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/)",
+      "The boats’ separation limits what any one witness could describe firsthand. Chase could testify to his own group’s experience; other parts of the story reached him through survivors. Keeping that distinction visible does not diminish the disaster. It makes clear how historians assemble it from accounts written by people who had endured extreme suffering.",
+      "### Rescue came in separate episodes",
+      "Five men were recovered from two boats in February 1821; the third boat was never found. The three men left on the island were rescued separately. Eight survived out of twenty, while twelve did not return. There was no single rescue scene bringing the entire original crew together at sea. [Owen Chase: 1821 firsthand narrative, University of Nebraska edition](https://digitalcommons.unl.edu/etas/98/)",
+      "The arithmetic is stark, but it cannot express the whole experience. Survival depended on more than endurance alone: the position of a passing vessel, separation in darkness or weather and the resources left in a boat could change a person’s chances. Later retellings risk presenting chance as though it were simply a reward for resolve.",
+      "## How the Essex became part of Moby-Dick",
+      "Chase’s narrative appeared in 1821, providing an early published record of the encounter and its aftermath. Melville knew the account, and the disaster became one influence on Moby-Dick, published in 1851. The Linda Hall Library traces this relationship through the book and the people associated with it. [Linda Hall Library: Pollard, Chase and the Essex](https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/)",
+      "That does not make the novel a transcript. The Pequod, Captain Ahab and Melville’s literary whale belong to a work of fiction. The Essex gives the novel a real-world precedent for a whale destroying a ship, while the novel transforms that possibility into a larger exploration of obsession, knowledge and power.",
+      "## Reading a survival story without simplifying it",
+      "The Essex remains compelling because the attack is only the beginning. What follows forces questions about command, fear, cooperation and the way people calculate danger under pressure. PRESDA’s account of [the 72-day Andes survival](/articles/72-days-andes-flight-571-survival/) explores another disaster in which collective decisions and the treatment of the dead became inseparable from staying alive.",
+      "Neither story needs an invented speech or a perfectly knowable villain. For the Essex, the soundest starting point is the surviving testimony, read with attention to who witnessed what. A whale sank the ship; what followed was a human catastrophe whose complexity outlasted the wreck."
+    ],
+    "references": [
+      {
+        "name": "Owen Chase: 1821 firsthand narrative, University of Nebraska edition",
+        "url": "https://digitalcommons.unl.edu/etas/98/"
+      },
+      {
+        "name": "Owen Chase: full public-domain narrative",
+        "url": "https://whalesite.org/anthology/1821%20-%20Owen%20Chase%20-%20Essex%20Narrative.htm"
+      },
+      {
+        "name": "Linda Hall Library: Pollard, Chase and the Essex",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/george-pollard-jr-owen-chase/"
+      },
+      {
+        "name": "Nantucket Historical Association: Essex museum interpretation",
+        "url": "https://www.youtube.com/watch?v=i09KmeQyBWY"
+      }
+    ],
+    "relatedSlugs": [
+      "why-sperm-whales-sleep-vertically",
+      "72-days-andes-flight-571-survival"
+    ],
+    "faq": [
+      {
+        "question": "Did a whale really sink the Essex?",
+        "answer": "Yes. Survivor Owen Chase’s account describes a sperm whale striking the vessel on November 20, 1820."
+      },
+      {
+        "question": "How many people survived?",
+        "answer": "Eight of the twenty men ultimately survived: five recovered from two boats and three rescued from the island where they had remained."
+      },
+      {
+        "question": "Was Moby-Dick based on the Essex?",
+        "answer": "The disaster and Chase’s published account were influences on Melville’s novel. Its characters and narrative are fictional, not a direct reconstruction."
+      },
+      {
+        "question": "Do historians know why the whale attacked?",
+        "answer": "No motive can be established with certainty. Survivor descriptions do not prove a story of deliberate revenge."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "528",
+    "slug": "antikythera-mechanism-ancient-analog-computer",
+    "title": "THE ANTIKYTHERA MECHANISM: THE WORLD’S FIRST ANALOG COMPUTER",
+    "seoTitle": "Antikythera mechanism: how the ancient computer worked",
+    "metaDescription": "Discover the Antikythera mechanism’s gears, astronomical predictions and surviving fragments, with clear distinctions between evidence and reconstruction.",
+    "excerpt": "Discover the Antikythera mechanism’s gears, astronomical predictions and surviving fragments, with clear distinctions between evidence and reconstruction.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/antikythera-mechanism-ancient-analog-computer.jpg",
+    "coverAlt": "Supplied editorial illustration inspired by the Antikythera mechanism, not verified museum photography",
+    "headlineHighlights": {
+      "red": "ANTIKYTHERA MECHANISM",
+      "gold": "FIRST ANALOG COMPUTER"
+    },
+    "tags": [
+      "ANTIKYTHERA MECHANISM",
+      "History"
+    ],
+    "content": [
+      "The Antikythera mechanism is the oldest known surviving geared astronomical calculator, often called the world’s first analog computer. Built in the ancient Greek world more than two thousand years ago, it represented celestial cycles through the movement of bronze gears. Its significance lies in that mechanical achievement, not in a claim that it was an electronic computer mysteriously misplaced in antiquity. [Greek Ministry of Culture: mechanism catalogue](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)",
+      "Today the remains are kept at the National Archaeological Museum in Athens. What looks at first like a damaged mass of metal contains evidence of a sophisticated relationship between observation, mathematics and craftsmanship. Reading it has required archaeologists, historians of astronomy, imaging specialists and engineers to work on the same object.",
+      "[[NOV20_BATCH_528]]",
+      "## What was the mechanism designed to do?",
+      "The Greek Ministry of Culture describes an instrument that calculated the movement of the Sun and Moon, probably also the five planets known in antiquity, and predicted astronomical phenomena including eclipses. Calendar functions and the timing of Pan-Hellenic celebrations also formed part of its scope. It connected the sky with systems for organising human time. [Greek Ministry of Culture: mechanism catalogue](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)",
+      "The word “computer” is useful when it means a device that carries out calculations. It becomes misleading if it suggests a screen, electricity or software. The mechanism encoded relationships in the sizes and arrangement of its gears. Turn the input, and connected parts moved in proportions chosen to represent astronomical cycles.",
+      "### How gears can perform a calculation",
+      "Two meshing gears do more than transmit motion: their tooth counts determine how far one turns in relation to the other. Combining several such relationships allows a machine to represent a longer or more complicated cycle. A pointer can then translate the resulting rotation into a readable position on a dial.",
+      "This is analog computation because physical motion stands for a changing quantity. The user is working with a mechanical representation, rather than entering a modern computer program. The achievement was to make a difficult body of astronomical knowledge operable through an instrument small enough to be portable.",
+      "## A discovery in three stages",
+      "Sponge divers found the wreck off Antikythera in 1900. Recovery of its antiquities followed in 1900–1901, while recognition of the unusual geared object came in 1902. These are different moments: discovering the shipwreck, bringing material ashore and understanding that one corroded object contained a machine. [Antikythera Mechanism Research Project: discovery chronology](https://new.antikythera-mechanism.gr/history)",
+      "The sequence helps explain why discoveries do not always happen in a single dramatic instant. An object may be recovered before its importance is recognised. The mechanism’s story moved from underwater salvage to museum examination and then into a research programme that has continued for generations.",
+      "## How old is it, and how much survives?",
+      "The Ministry’s catalogue gives a probable date of 150–100 BCE. Exact dating remains a scholarly question, and a date associated with a calculated astronomical cycle is not automatically the year when a craftsperson manufactured the object. The wreck and the instrument also need not have the same date of origin. [Greek Ministry of Culture: mechanism catalogue](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)",
+      "Researchers work with 82 catalogued fragments and 30 surviving bronze gears. Those figures describe the remains, not a complete inventory of every component originally installed. UCL’s account estimates that only about a third of the mechanism survives, making any reconstruction an exercise in fitting evidence to missing space as well as to metal that can still be examined. [UCL: the 2021 cosmos reconstruction](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)",
+      "### An instruction manual written on metal",
+      "Greek inscriptions are part of the evidence. Some concern astronomical and calendar calculations; others explain the instrument’s use. They make the fragments more than an arrangement of anonymous cogs. Text can indicate a function that the surviving mechanical parts alone would not fully reveal. [Greek Ministry of Culture: mechanism catalogue](https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html)",
+      "The inscriptions also place the object in a human technical culture. Someone had to understand the relationships well enough to design the gearing, someone had to manufacture and assemble it, and a user had to read its displays. The mechanism is evidence for those connected skills, even when the names of the individuals are unknown.",
+      "## Seeing through corrosion",
+      "Research in 2005 used three-dimensional X-ray imaging and surface imaging to obtain information that ordinary inspection could not provide. Hidden inscriptions and internal mechanical details helped researchers explain eclipse prediction and the Moon’s variable motion. Imaging made the object newly readable without requiring every corroded layer to be physically separated. [UCL: the 2021 cosmos reconstruction](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)",
+      "That is an important difference between observing a fragment and guessing a complete machine. An X-ray can constrain where a gear or inscription actually is. A model must then account for those constraints, rather than simply build an attractive device that produces the desired result by some unrelated method.",
+      "## What the 2021 reconstruction contributed",
+      "In 2021, the UCL team published a proposed model for the front cosmos display in Scientific Reports. The work combined physical evidence and inscriptions with a reconstruction of how the Sun, Moon and planets could be displayed. The paper is a major attempt to solve the missing front gearing, not the discovery of an intact ancient instrument. [Freeth and colleagues: A Model of the Cosmos, Scientific Reports](https://www.nature.com/articles/s41598-021-84310-w)",
+      "The team discussed long planetary cycles recorded in inscriptions, including 462 years for Venus and 442 for Saturn. These concern patterns in how planets appear from Earth, including apparent reversals against the stars. They should not be confused with a modern measurement of how long either planet takes to orbit the Sun. [UCL: the 2021 cosmos reconstruction](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)",
+      "### A model is an argument that can be tested",
+      "UCL described manufacturing the proposed arrangement with ancient techniques as a further challenge. A successful theoretical layout and a demonstrated historical manufacturing process answer related but different questions. Researchers must consider the available space, materials, precision and assembly as well as the mathematics.",
+      "The result is not uncertainty about everything. The surviving evidence firmly establishes an elaborate astronomical machine. The caution concerns how all of its missing parts were arranged and made. Acknowledging that boundary is more informative than presenting every polished replica as a photograph of the original design.",
+      "## Why its historical importance is so large",
+      "The mechanism brings together fields that are often taught separately: astronomy, mathematical modelling and the working of metal. It shows that ancient technical achievement could include the construction of an operating model, not only a written description or a diagram. Complexity here is something that had to fit, mesh and move.",
+      "PRESDA’s account of [ancient Greek civilisation](/articles/ancient-greece-civilization-history/) provides the wider historical setting. The mechanism also belongs to a longer history of mathematical knowledge crossing cultures, rather than a story in which one isolated inventor produced modern science from nothing. UCL notes the importance of earlier Babylonian astronomy in the intellectual background. [UCL: the 2021 cosmos reconstruction](https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer)",
+      "## What “the first computer” should mean",
+      "No surviving label can prove that this was the first such machine ever constructed. The careful description is the oldest known surviving example of its extraordinary kind. Absence of another preserved mechanism does not establish that there were no predecessors, related instruments or workshops making similar devices.",
+      "For another route through the history of calculation, PRESDA’s feature on [al-Khwarizmi and algebra](/articles/al-khwarizmi-mathematician-modern-algebra/) follows mathematical ideas rather than bronze gearing. The Antikythera mechanism’s distinctive power is to let us see thought embodied in matter: a model of celestial time that could be set in motion by a human hand."
+    ],
+    "references": [
+      {
+        "name": "Greek Ministry of Culture: mechanism catalogue",
+        "url": "https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html"
+      },
+      {
+        "name": "Antikythera Mechanism Research Project: discovery chronology",
+        "url": "https://new.antikythera-mechanism.gr/history"
+      },
+      {
+        "name": "UCL: the 2021 cosmos reconstruction",
+        "url": "https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer"
+      },
+      {
+        "name": "Freeth and colleagues: A Model of the Cosmos, Scientific Reports",
+        "url": "https://www.nature.com/articles/s41598-021-84310-w"
+      }
+    ],
+    "relatedSlugs": [
+      "ancient-greece-civilization-history",
+      "al-khwarizmi-mathematician-modern-algebra"
+    ],
+    "faq": [
+      {
+        "question": "Was the mechanism really a computer?",
+        "answer": "It was an analog mechanical calculator. Gears represented astronomical relationships; it had no electronics or modern software."
+      },
+      {
+        "question": "Where is the original?",
+        "answer": "The surviving fragments are kept at the National Archaeological Museum in Athens."
+      },
+      {
+        "question": "Who built it?",
+        "answer": "The maker is not securely identified. Specific attributions should be presented as hypotheses, not established biography."
+      },
+      {
+        "question": "Is the whole mechanism reconstructed with certainty?",
+        "answer": "No. Functions are strongly supported, but missing components and the complete front gearing remain subjects of reconstruction and testing."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "529",
+    "slug": "uber-eats-zipline-drone-delivery-houston-2026",
+    "title": "UBER EATS LAUNCHES DRONE FOOD DELIVERY WITH ZIPLINE",
+    "seoTitle": "Uber Eats and Zipline launch Houston drone delivery",
+    "metaDescription": "Uber Eats’ Zipline drone service launches in Houston. What customers can access, how delivery works and why expansion targets remain future plans.",
+    "excerpt": "Uber Eats’ Zipline drone service launches in Houston. What customers can access, how delivery works and why expansion targets remain future plans.",
+    "category": "AI",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/uber-eats-zipline-drone-delivery-houston-2026.jpg",
+    "coverAlt": "Supplied editorial illustration of an Uber Eats and Zipline-branded drone, not verified aircraft or launch photography",
+    "headlineHighlights": {
+      "red": "UBER EATS",
+      "gold": "DRONE FOOD DELIVERY"
+    },
+    "tags": [
+      "UBER EATS",
+      "AI"
+    ],
+    "content": [
+      "Uber Eats customers in the Houston area can now receive eligible orders through Zipline’s drone-delivery service. Zipline announced the launch on November 17, 2026, moving the companies’ partnership from a future deployment plan into a service customers can select in the app. Dallas is named as the next expansion market, not as a second launch already completed. [Zipline: November 17 Houston launch](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)",
+      "The change is as much about the ordering system as the aircraft. A drone can be impressive in a demonstration; a delivery business needs to connect restaurants, orders, dispatch and a customer’s actual address. Putting the service inside Uber Eats brings that connection into an app people already use.",
+      "[[NOV20_BATCH_529]]",
+      "## What has launched, and where?",
+      "Zipline’s launch notice tells Houston-area customers to open Uber Eats and select the drone option on the home screen. That describes access through the existing app, rather than a requirement to place every order through a separate Zipline marketplace. The available offer should still be checked for the customer’s location. [Zipline: November 17 Houston launch](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)",
+      "An announcement naming a metropolitan area does not establish that every address, restaurant or menu item is served. The practical test is what the app offers for a particular order. Consumers should not assume that an ordinary Uber Eats listing automatically qualifies for flight, or that availability will remain identical at every hour.",
+      "### The August partnership was an earlier step",
+      "Uber announced the strategic agreement on August 17. That release said initial deployments would begin later in 2026 and that Uber would make a strategic investment in Zipline. The November launch is therefore the delivery milestone following an earlier commercial announcement, rather than the first disclosure that the two companies would work together. [Uber: August 17 strategic partnership announcement](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx)",
+      "The distinction keeps the chronology useful. Agreements establish intentions and business relationships; a launch establishes that a service has begun in a defined market. Expansion to other cities remains another step, requiring its own operational confirmation.",
+      "## How the aircraft gets a meal to the ground",
+      "Zipline’s Platform 2 design separates the travelling aircraft from the final placement of the package. In its engineering announcement, the company described a larger aircraft hovering overhead while a smaller delivery droid descends on a tether and manoeuvres toward the drop-off point. The main aircraft does not need to land beside the recipient. [Zipline: Platform 2 engineering announcement, March 2023](https://www.zipline.com/newsroom/zipline-unveils-new-autonomous-system-capable-of-quiet-fast-and-precise-home-delivery)",
+      "That arrangement addresses a difficult part of home delivery: the last few metres. Reaching an approximate coordinate is different from placing a meal at a usable location. A yard, a front step, nearby obstacles and people moving through the space create a more demanding problem than drawing a straight line between restaurant and customer.",
+      "### Why the supplied image needs a caption",
+      "The hero image is a supplied editorial illustration, not verified photography of Zipline’s operational aircraft. A familiar multirotor carrying a branded bag can communicate the idea of drone delivery while misrepresenting the actual hardware. The article’s technical description follows Zipline’s documentation rather than treating the illustration as a specification.",
+      "It is a distinction worth making whenever autonomous systems move from promotional images into everyday services. The appearance of a concept rendering does not tell a reader the aircraft’s payload, range, noise profile or approved operating conditions. Those require evidence about the actual system.",
+      "## Speed claims need an end-to-end clock",
+      "Zipline says its delivery system can move food rapidly after preparation. That is a company claim about a particular part of the process, not proof that every order will arrive within that interval from the instant the customer pays. Kitchen preparation, dispatch and the final handoff belong to the same customer experience. [Zipline: November 17 Houston launch](https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston)",
+      "A useful comparison would follow equivalent orders from checkout to receipt, not compare an aircraft’s short flight with a courier’s entire journey. Customers also care about food arriving intact and at an appropriate temperature. Faster movement is valuable when the surrounding process preserves those qualities.",
+      "## A million daily deliveries is a target",
+      "The August agreement set an ambition of reaching one million drone deliveries a day by the end of 2029. It also described expansion into dozens of U.S. cities. These are forward-looking goals; they are not the volume of the newly launched Houston service. [Uber: August 17 strategic partnership announcement](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx)",
+      "Moving from a launch to that scale would require much more than adding aircraft. Restaurants need suitable collection arrangements, customers need reliable receiving locations and the delivery network must manage fluctuations in demand. A system that works at one site has to demonstrate that its reliability survives a much larger operating footprint.",
+      "## Regulation remains part of the route",
+      "The FAA describes commercial package delivery by drone through its Part 135 certification framework and the approvals needed for operations beyond a pilot’s visual line of sight. It records Zipline’s certification history, but a carrier certificate should not be read as permission for every possible route, aircraft or operating condition everywhere. [FAA: package delivery by drone](https://www.faa.gov/uas/advanced_operations/package_delivery_drone)",
+      "This is why an app integration and an aviation approval are different achievements. One connects the order to a delivery option; the other concerns how aircraft may operate. Neither replaces the practical need to serve a specific neighbourhood safely and dependably.",
+      "## What changes for restaurants and couriers?",
+      "For a restaurant, an aerial route offers another way to reach a nearby customer. Its value depends on collection timing, packaging, handling and whether the order reaches someone who would otherwise have been difficult to serve. Drone availability alone does not establish an improvement in every restaurant’s margins or delivery economics.",
+      "PRESDA’s report on [automated supermarkets](/articles/future-supermarkets-ai-robots-cashierless-shopping/) explores a related shift: automation changes particular tasks inside a larger commercial system. In delivery, the existence of an autonomous option does not by itself establish how many courier jobs change or which orders remain better suited to a person.",
+      "### Evidence to watch after launch",
+      "Repeated reliability, the share of orders actually eligible, successful handoffs and total delivery times will be more useful than isolated demonstration flights. None should be invented from an expansion announcement. The same applies to emissions: the environmental result depends on the complete operation and the journey being replaced, not simply on an aircraft being electric.",
+      "The Houston launch is a concrete step in the broader story covered in PRESDA’s [robot revolution feature](/articles/robot-revolution-ai-future-2030/). Its significance is that customers can choose a real service inside a familiar app. Whether it becomes routine will be determined by the ordinary deliveries that follow the announcement."
+    ],
+    "references": [
+      {
+        "name": "Zipline: November 17 Houston launch",
+        "url": "https://www.zipline.com/newsroom/zipline-is-now-delivering-to-uber-eats-customers-in-houston"
+      },
+      {
+        "name": "Uber: August 17 strategic partnership announcement",
+        "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Zipline-Partner-to-Bring-Drone-Delivery-to-Millions-of-Americans/default.aspx"
+      },
+      {
+        "name": "Zipline: Platform 2 engineering announcement, March 2023",
+        "url": "https://www.zipline.com/newsroom/zipline-unveils-new-autonomous-system-capable-of-quiet-fast-and-precise-home-delivery"
+      },
+      {
+        "name": "FAA: package delivery by drone",
+        "url": "https://www.faa.gov/uas/advanced_operations/package_delivery_drone"
+      }
+    ],
+    "relatedSlugs": [
+      "future-supermarkets-ai-robots-cashierless-shopping",
+      "robot-revolution-ai-future-2030"
+    ],
+    "faq": [
+      {
+        "question": "Is Uber Eats drone delivery available everywhere?",
+        "answer": "No. The launch concerns the Houston area, and eligibility should be checked in the app for the particular address and order."
+      },
+      {
+        "question": "Has the Dallas service already launched?",
+        "answer": "The Houston announcement names Dallas as next. It does not establish a completed Dallas launch."
+      },
+      {
+        "question": "Does Zipline land its main aircraft at the customer’s door?",
+        "answer": "Its documented Platform 2 design uses a smaller tethered droid for the final drop-off while the larger aircraft remains overhead."
+      },
+      {
+        "question": "Are one million deliveries already being made daily?",
+        "answer": "No. That figure is the partnership’s target for the end of 2029, not a reported current volume."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "530",
+    "slug": "snapchat-easy-lens-cli-ai-coding-tools-2026",
+    "title": "SNAPCHAT LETS CREATORS BUILD AR FILTERS USING AI CODING TOOLS",
+    "seoTitle": "Snapchat Easy Lens CLI: AR with AI coding assistants",
+    "metaDescription": "Snap’s Easy Lens CLI connects AI coding assistants to AR creation. Explore the workflow, testing, publishing review and creator-payment limitations.",
+    "excerpt": "Snap’s Easy Lens CLI connects AI coding assistants to AR creation. Explore the workflow, testing, publishing review and creator-payment limitations.",
+    "category": "AI",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/snapchat-easy-lens-cli-ai-coding-tools-2026.jpg",
+    "coverAlt": "Supplied editorial illustration of a phone displaying imaginative AR effects, not a verified Easy Lens CLI screenshot",
+    "headlineHighlights": {
+      "red": "SNAPCHAT",
+      "gold": "AI CODING TOOLS"
+    },
+    "tags": [
+      "SNAPCHAT",
+      "AI"
+    ],
+    "content": [
+      "Snapchat creators can now build augmented-reality experiences through AI coding assistants including Claude Code, Codex and Cursor. Snap announced Easy Lens CLI on November 18, 2026, describing a free tool that connects an existing assistant to its Lens creation workflow. The important change is the route into development: creators can work through tools they already use, rather than start every project in a separate visual editor. [Snap: Easy Lens CLI launch, November 18, 2026](https://newsroom.snap.com/introducing-easy-lens-cli)",
+      "The announcement covers camera effects, beauty experiences and Web Lens games, not just a decorative overlay on a photograph. A creator can describe an idea, ask the assistant to assemble it, generate assets and test revisions. Publication still passes through Snap’s review process.",
+      "[[NOV20_BATCH_530]]",
+      "## What is Easy Lens CLI?",
+      "CLI means command-line interface. Here it provides a bridge between an AI coding assistant and Snap’s authoring tools. The assistant can carry out technical steps while the creator specifies the intended result. Snap says the tool runs on Mac, Windows and Linux and requires a Snapchat account. [Snap: Easy Lens CLI launch, November 18, 2026](https://newsroom.snap.com/introducing-easy-lens-cli)",
+      "That does not mean the creative task has vanished. A useful instruction must still define what the experience should do: which objects appear, how they respond and what a person is meant to understand or enjoy. Describing a desired feeling is a starting point; turning it into a coherent interaction still benefits from clear decisions.",
+      "### Lenses are more than static filters",
+      "A camera Lens can change how a face or environment appears. An interactive Lens can also respond to movement or support a game. The difference matters because judging a still image is not enough to test an experience that unfolds over time. A successful preview frame may conceal broken interaction, confusing instructions or an awkward restart.",
+      "Snap’s launch description includes Web Lens games with leaderboards and the adaptation of existing browser games. That broadens the announcement beyond face effects. It also gives developers with previous work a possible distribution route without establishing that every browser project will transfer unchanged. [Snap: Easy Lens CLI launch, November 18, 2026](https://newsroom.snap.com/introducing-easy-lens-cli)",
+      "## Prompt-based creation existed before this launch",
+      "In June 2025, Snap introduced experimental web and iOS authoring tools and described Easy Lens as an existing prompt-based capability. At that time it also distinguished those accessible tools from the professional desktop Lens Studio application. November 2026 therefore does not mark the first time Snap offered AI-assisted Lens creation. [Snap: earlier web and iOS authoring tools, June 2025](https://newsroom.snap.com/lens-studio-ios-app-web-2025)",
+      "The new element is bringing that creation flow into an outside coding assistant’s working environment. For a developer already using an assistant, this can reduce the need to repeatedly move between a conversation, asset generation, testing and another publishing interface. It is a workflow change, not evidence that all earlier tools have been replaced.",
+      "## Build, test and publish are separate jobs",
+      "Snap says assistants can use more than 100 AR building blocks and more than 50 AI asset generators. Those are the company’s descriptions of available resources, not a count of complete original experiences that a creator has already made. A finished Lens still needs a purpose and a consistent visual and interactive language. [Snap: Easy Lens CLI launch, November 18, 2026](https://newsroom.snap.com/introducing-easy-lens-cli)",
+      "Testing can involve rendered preview videos and sending a Lens to a phone. The phone step is especially important for camera-based work: the experience has to make sense in a moving person’s hands, with a real scene behind it. Generated assets that look attractive alone may not remain readable when layered over that scene.",
+      "### Why iteration still matters",
+      "A sensible prototype can begin with one clear behaviour, then add complexity after that behaviour works. This is an editorial recommendation about production practice, not a claim that Snap requires a particular development method. It gives creators a way to distinguish a technical failure from an idea that needs clearer direction.",
+      "PRESDA’s feature on [the robot revolution](/articles/robot-revolution-ai-future-2030/) considers automation as a change in how tasks are organised. Easy Lens CLI offers a similar lesson in creative work: moving technical execution to an assistant can make judgment about the result more central, not less necessary.",
+      "## Faster does not mean automatically approved",
+      "The launch announcement says CLI-created Lenses follow the same content checks, Lens review and publishing path as work made in Easy Lens apps. The assistant can prepare and submit a project, but its ability to operate the tools does not grant permission to bypass moderation. [Snap: Easy Lens CLI launch, November 18, 2026](https://newsroom.snap.com/introducing-easy-lens-cli)",
+      "Creators also need to know what they are publishing. An effect may contain generated visuals, imported campaign material or an existing game. Reviewing that combination is part of making a deliberate release. An automated publishing command should represent an actual decision about a tested version, rather than merely the next step in a conversation.",
+      "## What the payments announcement really says",
+      "Snap says the Lens+ creator community received $1.8 million in payouts in the preceding month, October 2026. That figure describes an aggregate programme payout. It is not the typical income of one creator, nor evidence that the newly released CLI itself generated that amount. [Snap: Easy Lens CLI launch, November 18, 2026](https://newsroom.snap.com/introducing-easy-lens-cli)",
+      "Snap’s developer documentation says Lens+ Payouts are for approved creators and eligible exclusive Lenses, with payments linked to subscriber engagement. It explicitly states that enrolment does not guarantee a payout. Making a Lens available and qualifying for a particular revenue programme are different achievements. [Snap developer documentation: Lens+ Payouts](https://www.developers.snap.com/lens-studio/monetization/lens-creator-rewards/lens-plus-payouts)",
+      "### Free software is not a guaranteed free production pipeline",
+      "Snap describes Easy Lens CLI as free with a Snapchat account. That statement applies to its tool. Creators should check the separate access and usage conditions of whichever AI assistant or asset service they choose; the announcement is not a universal promise about every external tool’s cost.",
+      "The practical value should therefore be assessed through an actual project: how much revision it needs, whether the final experience works and what the complete workflow costs. A claim that an idea can become a game in a day is a company capability claim, not an independently measured completion time for every kind of project.",
+      "## A wider doorway into AR creation",
+      "The release puts a familiar question in a new setting: what becomes possible when describing an experience is enough to begin building it? More people may be able to make a prototype, but the quality of what reaches an audience will still depend on design, testing and review. Lowering the barrier to entry does not make every output worth publishing.",
+      "PRESDA’s discussion of [whether AI can become conscious](/articles/can-artificial-intelligence-ever-become-conscious/) addresses a different question about intelligent systems. Here the immediate story is practical: an assistant can help operate a creation pipeline. The creator remains responsible for deciding what that pipeline should produce and whether it is ready for Snapchat."
+    ],
+    "references": [
+      {
+        "name": "Snap: Easy Lens CLI launch, November 18, 2026",
+        "url": "https://newsroom.snap.com/introducing-easy-lens-cli"
+      },
+      {
+        "name": "Snap: earlier web and iOS authoring tools, June 2025",
+        "url": "https://newsroom.snap.com/lens-studio-ios-app-web-2025"
+      },
+      {
+        "name": "Snap developer documentation: Lens+ Payouts",
+        "url": "https://www.developers.snap.com/lens-studio/monetization/lens-creator-rewards/lens-plus-payouts"
+      }
+    ],
+    "relatedSlugs": [
+      "robot-revolution-ai-future-2030",
+      "can-artificial-intelligence-ever-become-conscious"
+    ],
+    "faq": [
+      {
+        "question": "Which AI coding assistants does Snap name?",
+        "answer": "The announcement names Claude Code, Codex and Cursor as examples of assistants creators can use."
+      },
+      {
+        "question": "Is Easy Lens CLI free?",
+        "answer": "Snap says its tool is free with a Snapchat account. Separate assistant or external-service costs should be checked independently."
+      },
+      {
+        "question": "Does AI-generated work skip Snapchat review?",
+        "answer": "No. Snap says the same content checks, Lens review and publishing path apply."
+      },
+      {
+        "question": "Does publishing a Lens guarantee income?",
+        "answer": "No. Lens+ participation has eligibility and approval conditions, and Snap states that enrolment does not guarantee a payout."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "531",
+    "slug": "nike-formula-1-apparel-uniform-partner-2027",
+    "title": "NIKE BECOMES FORMULA 1’S OFFICIAL APPAREL PARTNER",
+    "seoTitle": "Nike joins Formula 1: apparel partnership starts in 2027",
+    "metaDescription": "Nike’s Formula 1 deal starts in 2027, covering F1 staff uniforms, fan collections and F1 Academy. A Las Vegas capsule is scheduled for November 20.",
+    "excerpt": "Nike’s Formula 1 deal starts in 2027, covering F1 staff uniforms, fan collections and F1 Academy. A Las Vegas capsule is scheduled for November 20.",
+    "category": "Sport",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-20",
+    "lastUpdated": "2026-11-20",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/nike-formula-1-apparel-uniform-partner-2027.jpg",
+    "coverAlt": "Supplied editorial illustration combining Nike and Formula 1 branding with a fictional racing car, not an announced team livery",
+    "headlineHighlights": {
+      "red": "NIKE",
+      "gold": "FORMULA 1’S OFFICIAL APPAREL PARTNER"
+    },
+    "tags": [
+      "NIKE",
+      "Sport"
+    ],
+    "content": [
+      "Nike is joining Formula 1 in a long-term partnership that begins with the 2027 racing season. The agreement makes Nike an Official Partner and the apparel and uniform provider for Formula 1 staff at events worldwide. It also includes fan collections, race-weekend experiences and a role with F1 Academy. It does not announce that every team or driver will wear Nike. [NIKE, Inc.: partnership announcement, November 19, 2026](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)",
+      "Fans are scheduled to see the first retail expression earlier: a limited Nike x Las Vegas Grand Prix capsule collection on November 20, 2026. That gives the agreement an immediate cultural launch while the broader staff-apparel role remains a development for next season.",
+      "[[NOV20_BATCH_531]]",
+      "## What exactly has Formula 1 announced?",
+      "Formula 1’s corporate announcement, dated November 20, identifies Nike as its Official Apparel and Uniform Supplier from 2027. Nike’s own release is dated November 19 and specifies F1 staff at events worldwide. The two official accounts describe the same partnership, with a defined starting season and a defined uniform population. [NIKE, Inc.: partnership announcement, November 19, 2026](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership) [Formula 1 corporate: official November 20 confirmation](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)",
+      "This is an important distinction in a sport with several commercial layers. Formula 1’s own organisation, individual racing teams and individual athletes can have different relationships with brands. A championship-level announcement should be read for the rights it actually grants rather than expanded into every possible form of participation in the paddock.",
+      "### Staff uniforms are not racing-team overalls",
+      "The confirmed uniform role concerns Formula 1 personnel. It does not itself establish a new supplier for every team’s competition clothing, a new driver boot contract or a Nike-operated racing team. Those would require their own announcements. The supplied hero, with its fictional branded car, illustrates a partnership theme rather than an official team livery.",
+      "The distinction matters beyond technical wording. A fan seeing a logo on a car rendering might reasonably assume a team has unveiled that design. In this case, the news is an apparel and culture agreement with the championship organisation. The visual should not turn it into a different sporting event.",
+      "## The first collection arrives in Las Vegas",
+      "Nike says the limited Las Vegas Grand Prix capsule is scheduled for November 20 at the Nike Las Vegas store at Caesars Palace and the F1 Hub at The Venetian Resort Las Vegas. The official notice provides those locations; it should not be read as confirmation of immediate worldwide availability through every Nike shop. [NIKE, Inc.: partnership announcement, November 19, 2026](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)",
+      "The location connects the partnership to a race-weekend audience before the full 2027 role begins. A capsule collection is a focused retail release, not the same thing as outfitting the championship’s staff across a season. Both sit within the agreement, but they answer different needs: a purchase for fans and working clothing for event personnel.",
+      "### A scheduled drop is not a sales result",
+      "The announcements establish a planned release date and locations. They do not establish how many items have sold, whether a product has sold out or how customers have received it. Those outcomes need evidence after the release, particularly when an announcement is being read across different time zones.",
+      "Product availability can also change during a limited launch. Readers should consult the official channels for the current offer rather than infer stock from a photograph or an early announcement. This report does not invent prices, quantities or an online release schedule that the cited notices do not supply.",
+      "## What fans can expect beyond uniforms",
+      "Both companies describe footwear, apparel and accessories designed for use beyond the circuit, alongside race-weekend experiences. The agreement therefore combines an operational supply role with consumer products and events. That mix helps explain why the language of sport, fashion and culture appears together in the official announcement. [Formula 1 corporate: official November 20 confirmation](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/) [Formula 1: partnership and F1 Academy scope](https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd)",
+      "For fans, clothing can express a relationship with racing without copying a full team kit. For the brands, a championship’s calendar provides repeated occasions to introduce products and experiences. Whether a particular collection feels connected to the sport will depend on the design and execution, not simply the existence of two recognisable logos.",
+      "## F1 Academy is part of the agreement",
+      "Formula 1 also names Nike as an Official Partner and Official Sporting Apparel Partner of F1 Academy. The companies describe working with the next generation of female racers on performance products informed by athlete needs. This extends the agreement beyond the main championship’s event staff and into a specific development series. [Formula 1 corporate: official November 20 confirmation](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)",
+      "The commitment should still be described at its announced scale. Apparel work and athlete-informed product development are not an announced guarantee of a Formula 1 race seat, a championship result or a new set of funded entries. The value of the partnership can be followed through the products and support that are actually delivered.",
+      "### Performance language needs practical evidence",
+      "Clothing intended for work or sport has to answer the circumstances of its use. Fit, movement, comfort and repeated wear are practical questions for users, even when a launch is presented through spectacular campaign imagery. Athlete consultation offers a route to understanding needs, but it does not by itself publish test results for products not yet detailed.",
+      "The official releases set a direction rather than a complete technical specification. They leave room for further product and experience announcements through 2027 and beyond. Readers should expect those later disclosures to provide details that cannot be extracted from the initial statement alone. [NIKE, Inc.: partnership announcement, November 19, 2026](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership)",
+      "## Why this fits Formula 1’s wider commercial world",
+      "The partnership reaches audiences who may follow a race weekend through fashion, games, toys or social media as well as through lap times. PRESDA’s report on [Formula 1’s LEGO driver collection](/articles/formula-1-lego-22-driver-minifigures-2027/) offers another example of a championship relationship extending into products that live away from the circuit.",
+      "Those products should not be confused with the competition itself. Commercial partnerships can shape how a sport appears in everyday life, while race results remain determined on track under the championship’s rules. The commercial story becomes clearer when product rights, event presentation and sporting performance are kept distinct.",
+      "## What has not been disclosed",
+      "The official statements describe the deal as long-term but do not give a financial value or an exact duration in years. Assigning a contract total, annual payment or fixed end date would turn an undisclosed term into an invented fact. The same caution applies to unannounced team or driver agreements. [NIKE, Inc.: partnership announcement, November 19, 2026](https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership) [Formula 1 corporate: official November 20 confirmation](https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/)",
+      "PRESDA’s history of [the Adidas and Puma shoe empires](/articles/adidas-puma-dassler-brothers-rival-shoe-empires/) provides context for the commercial importance of sportswear. For Nike and Formula 1, the immediate facts are specific: a November retail introduction, a 2027 staff-apparel role and a partnership extending to F1 Academy. The next chapter will be the products and experiences that make those commitments tangible."
+    ],
+    "references": [
+      {
+        "name": "NIKE, Inc.: partnership announcement, November 19, 2026",
+        "url": "https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership"
+      },
+      {
+        "name": "Formula 1 corporate: official November 20 confirmation",
+        "url": "https://corp.formula1.com/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture/"
+      },
+      {
+        "name": "Formula 1: partnership and F1 Academy scope",
+        "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd"
+      }
+    ],
+    "relatedSlugs": [
+      "formula-1-lego-22-driver-minifigures-2027",
+      "adidas-puma-dassler-brothers-rival-shoe-empires"
+    ],
+    "faq": [
+      {
+        "question": "When does Nike’s main Formula 1 apparel role begin?",
+        "answer": "With the 2027 season. The limited Las Vegas collection is scheduled earlier, on November 20, 2026."
+      },
+      {
+        "question": "Will every F1 team and driver wear Nike?",
+        "answer": "The announcement concerns F1 staff and the stated partnership scope. It does not announce apparel contracts for every team or driver."
+      },
+      {
+        "question": "Where is the first collection scheduled to launch?",
+        "answer": "Nike names its Las Vegas store at Caesars Palace and the F1 Hub at The Venetian Resort Las Vegas."
+      },
+      {
+        "question": "How much is the partnership worth?",
+        "answer": "The official releases do not disclose a financial value or an exact duration in years."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "522",
     "slug": "potatoes-simulated-lunar-soil-oregon-state-2026",
     "title": "SCIENTISTS GROW EDIBLE POTATOES IN SIMULATED MOON SOIL",
