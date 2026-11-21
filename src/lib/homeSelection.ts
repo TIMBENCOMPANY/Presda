@@ -4,18 +4,18 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Homepage editorial placements only. Category selections remain independent.
 export const homeHeroSlugs = [
-  "cristiano-ronaldo-ballon-dor-all-time-paid-fan-vote",
-  "alexander-zverev-first-world-number-one-ranking",
-  "dicaprio-jennifer-lawrence-scorsese-what-happens-at-night",
-  "mbappe-apologizes-china-mao-zedong-remarks",
-  "kim-kardashian-skims-business-empire",
-  "lebron-james-science-basketball-longevity",
-  "margot-robbie-hollywood-star-powerful-producer",
-  "beyonce-kelly-rowland-houston-knowles-rowland-house",
-  "megan-fox-subs-co-owner-tim-stokely",
-  "anne-hathaway-baby-bump-verity-premiere-2026",
-  "carlos-alcaraz-vienna-open-2026-final-de-minaur",
-  "david-beckhams-unexpected-passion-beyond-football"
+  "bts-mama-awards-2026-five-wins-two-grand-prizes",
+  "turkiye-first-three-kizilelma-unmanned-fighter-jets-2026",
+  "chris-brown-temporary-12000-monthly-child-support",
+  "makkah-clock-tower-guinness-highest-museum-observation-deck",
+  "anthropic-record-ipo-employee-paper-wealth-2026",
+  "achraf-hakimi-foundation-lwalida-mothers-kenitra",
+  "nike-formula-1-apparel-uniform-partner-2027",
+  "kylie-jenner-timothee-chalamet-lakers-kiss-november-2026",
+  "gareth-bale-retirement-golf-business-par59",
+  "levi-mcconaughey-hollywood-films-lost-bus-warrior-kid",
+  "divock-origi-harvard-crossover-business-retirement",
+  "andrea-pirlo-pratum-coller-family-wine-business"
 ] as const;
 
 // Keep the existing latest/more feeds independent of this carousel-only change.

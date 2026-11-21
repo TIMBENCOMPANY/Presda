@@ -128,10 +128,11 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
               <Link prefetch={index === active ? undefined : false} href={article.href ?? `/articles/${article.slug}/`} tabIndex={index === active ? 0 : -1} className="group block h-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-[#FF1A1A]">
                 <div className="category-featured-media presda-featured-media relative"><CategoryBadge className="category-badge-on-image">{categoryLabels[article.category]}</CategoryBadge>
                   {(index === active || visited.includes(index) || preload || (isHome && readyImages.includes(index))) && <StoryImage src={article.coverImage} alt={article.coverAlt} fill priority={index === 0} quality={76}
+                    unoptimized={isHome || undefined}
                     loading={isHome && index !== 0 ? "eager" : undefined}
                     onLoad={isHome ? () => setReadyImages(indices => indices.includes(index) ? indices : [...indices, index]) : undefined}
                     sizes={isHome ? "(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc(100vw - 48px), (max-width: 1535px) 65vw, 1000px" : "(max-width: 1023px) calc(100vw - 24px), (max-width: 1536px) 65vw, 1000px"}
-                    className="object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 50%", ...(article.slug === "harry-kane-ballon-dor-2026-england-25-year-wait" ? { objectFit: "contain" } : {}) }} />}
+                    className="object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 50%", ...(isHome || article.slug === "harry-kane-ballon-dor-2026-england-25-year-wait" ? { objectFit: "contain" } : {}) }} />}
                   <p className={`category-featured-image-meta absolute inset-x-0 bottom-0 flex flex-wrap items-center gap-x-3 gap-y-1 bg-gradient-to-t from-black/90 via-black/70 to-transparent pr-3 pb-2 pt-6 text-[11px] font-medium text-white ${isHome ? "z-10" : "sm:hidden"} ${slides.length > 1 ? "pl-20" : "pl-3"}`}>
                     {locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} /> : <><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime}</span></>}
                   </p>
