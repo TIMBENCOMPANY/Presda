@@ -6,7 +6,9 @@ import { parseAdSenseConfig } from "./adsenseConfig";
 export function getAdSenseAccountConfig(env: Record<string, string | undefined>) {
   return parseAdSenseConfig({
     ...env,
-    ADSENSE_CLIENT_ID: env.ADSENSE_CLIENT_ID || account.clientId,
+    // Account identity is release-controlled. Stale host environment overrides
+    // must not reconnect a previously configured publisher after a migration.
+    ADSENSE_CLIENT_ID: account.clientId,
     ...(account.servingEnabled ? {} : {
       ADSENSE_ENABLED: "false",
       ADSENSE_LAUNCH_APPROVED: "false",

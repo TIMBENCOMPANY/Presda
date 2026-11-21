@@ -1,4 +1,4 @@
-/* Offline regression checks. Synthetic account IDs only; no Google requests. */
+/* Offline regression checks. No Google requests or ad serving. */
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
@@ -11,13 +11,14 @@ function load(relative) {
   if (cache.has(filename)) return cache.get(filename).exports;
   const mod = { exports: {} }; cache.set(filename, mod);
   const code = ts.transpileModule(fs.readFileSync(filename, 'utf8'), { compilerOptions: {
-    module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2020, jsx: ts.JsxEmit.ReactJSX
+    esModuleInterop: true, module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2020, jsx: ts.JsxEmit.ReactJSX
   } }).outputText;
   const native = Module.createRequire(filename);
   const requireLocal = name => {
     if (name === 'next/navigation') return { usePathname: () => '/articles/example/' };
     if (name === 'next/script') return { __esModule: true, default: () => { throw Error('Unexpected script in default SSR'); } };
     if (name.endsWith('.css')) return {};
+    if (name.endsWith('.json')) return native(name);
     if (name.startsWith('@/')) return load(`src/${name.slice(2)}.ts${name.includes('components/') ? 'x' : ''}`);
     if (name.startsWith('.')) {
       const base = path.resolve(path.dirname(filename), name);
@@ -36,6 +37,21 @@ const policy = load('src/lib/adPlacementPolicy.ts');
 const lifecycle = load('src/lib/adSlotLifecycle.ts');
 const client = 'ca-pub-1234567890123456';
 const full = { ADSENSE_CLIENT_ID: client, ADSENSE_MANUAL_SLOT_ID: '1234567890', GOOGLE_CMP_SCRIPT_URL: 'https://fundingchoicesmessages.google.com/i/pub-1234567890123456?ers=1', GOOGLE_CMP_ENABLED: 'true', ADSENSE_ENABLED: 'true', ADSENSE_LAUNCH_APPROVED: 'true', ADSENSE_CSP_VALIDATED: 'true', ADSENSE_CSP_PREPARED: 'true' };
+
+test('release account defeats stale host identity and enabled serving flags', () => {
+  const account = require('../config/adsense-account.json');
+  const resolve = load('src/lib/adsenseAccountConfig.ts').getAdSenseAccountConfig;
+  const actual = resolve(full);
+  assert.equal(account.clientId, 'ca-pub-5518078159259141');
+  assert.equal(account.servingEnabled, false);
+  assert.equal(actual.clientId, account.clientId);
+  assert.equal(actual.enabled, false);
+  assert.equal(actual.manualSlotId, null);
+  assert.equal(actual.cmpEnabled, false);
+  assert.equal(actual.cmpScriptUrl, null);
+  assert.equal(actual.monitoring, false);
+  assert.equal(fs.readFileSync(path.join(root, 'public/ads.txt'), 'utf8').trim(), cfg.adSenseSellerText(actual.clientId).trim());
+});
 test('default configuration is disabled', () => assert.equal(cfg.parseAdSenseConfig({}).enabled, false));
 test('every launch gate independently prevents activation', () => {
   assert.equal(cfg.parseAdSenseConfig(full).enabled, true);

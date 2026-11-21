@@ -4,12 +4,14 @@ No deployment or live advertising activation is included. The editorial design a
 
 ## Configuration
 
-Use environment configuration, never hardcoded production publisher identifiers. AdSense client IDs are public identifiers, not secrets; account credentials must never be shipped to clients.
+The current Morocco account is release-controlled in `config/adsense-account.json`: publisher `pub-5518078159259141`, client `ca-pub-5518078159259141`. AdSense client IDs are public identifiers, not secrets; account credentials must never be shipped to clients. The resolver uses this account identity instead of host environment overrides, preventing a stale deployment variable from reconnecting a previous publisher. To migrate again, update this file and `public/ads.txt` together and redeploy.
+
+`servingEnabled` remains `false`. No ad unit exists or is configured. The release lock keeps ad loading, manual units and Google CMP script loading disabled; the consent adapters and future slot infrastructure remain intact. Verification uses the shared `google-adsense-account` meta tag and static seller file, without loading advertising JavaScript.
 
 | Variable | Default / intended value |
 | --- | --- |
 | `ADSENSE_ENABLED` | `false`, serving kill switch |
-| `ADSENSE_CLIENT_ID` | Empty; real `ca-pub-` followed by 16 digits |
+| `ADSENSE_CLIENT_ID` | Legacy host variable; release-controlled account JSON takes precedence |
 | `ADSENSE_MANUAL_SLOT_ID` | Empty; numeric manual unit ID from the account |
 | `ADSENSE_LAUNCH_APPROVED` | `false`, separate deliberate release gate |
 | `ADSENSE_CSP_VALIDATED` | `false`, only acknowledge after real browser validation |
@@ -20,7 +22,7 @@ Use environment configuration, never hardcoded production publisher identifiers.
 
 The global provider belongs in `PublicationDocument.tsx`, shared by English and localized layouts. Every serving gate and reviewed placement must pass. An empty reviewed article placement map intentionally blocks every ad even if environment flags are accidentally enabled. Never use environment changes alone as placement approval.
 
-Editorial routes retain static rendering, so their provider configuration is captured at build time. Rebuild and restart/redeploy to change serving, CMP or monitoring flags; these are not an immediate runtime kill switch for cached HTML. Use account-side serving controls for an urgent stop and then release a disabled build. CSP flags are also deployment configuration. The dynamic `/ads.txt` route reads its server environment at request time.
+Editorial routes retain static rendering, so their provider configuration is captured at build time. Rebuild and restart/redeploy to change account identity, serving, CMP or monitoring flags; these are not an immediate runtime kill switch for cached HTML. Use account-side serving controls for an urgent stop and then release a disabled build. CSP flags are also deployment configuration. The static seller file is published from `public/ads.txt`.
 
 ## Manual AdSense account tasks
 
@@ -34,15 +36,15 @@ Editorial routes retain static rendering, so their provider configuration is cap
 
 ## ads.txt
 
-The implementation is `src/app/ads.txt/route.ts`, served at `/ads.txt` as `text/plain`. Do not add a conflicting `public/ads.txt` file. Without a valid configured client ID, it returns only a comment, not a fabricated seller record.
+The implementation is `public/ads.txt`, served directly at `/ads.txt` as `text/plain`. Do not add a conflicting App Router handler. The regression check requires its seller line to match the release account.
 
-Once the real account identifier is supplied, the seller line is:
+The current verified publisher seller line is:
 
 ```text
-google.com, pub-<REAL_16_DIGIT_PUBLISHER_ID>, DIRECT, f08c47fec0942fa0
+google.com, pub-5518078159259141, DIRECT, f08c47fec0942fa0
 ```
 
-Use `pub-`, not `ca-pub-`, in this file. Replace the placeholder with the real account identifier. Verify HTTPS 200, plain text, the exact account-provided record and AdSense's seller-file status. Seller authorization is independent of the serving flags and does not enable ads.
+Use `pub-`, not `ca-pub-`, in this file. Verify HTTPS 200 without redirects, plain text, the exact account-provided record and AdSense's seller-file status. Seller authorization is independent of the serving flags and does not enable ads.
 
 ## Consent and privacy
 
