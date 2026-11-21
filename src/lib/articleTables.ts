@@ -8,6 +8,118 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[WORLD4_553]]": {
+    "caption": "KIZILELMA: milestones before the first delivery",
+    "headers": [
+      "Date",
+      "Documented development"
+    ],
+    "rows": [
+      [
+        "14 December 2022",
+        "Original prototype’s first flight"
+      ],
+      [
+        "October 2025",
+        "Initial strike tests announced"
+      ],
+      [
+        "May 2026",
+        "Joint flights with M-346 aircraft"
+      ],
+      [
+        "19 November 2026",
+        "First three aircraft delivered"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[WORLD4_554]]": {
+    "caption": "Makkah Clock Tower: the record figures",
+    "headers": [
+      "Measure or date",
+      "Verified meaning"
+    ],
+    "rows": [
+      [
+        "426.875 metres",
+        "Highest museum in a building"
+      ],
+      [
+        "560.875 metres",
+        "Highest outdoor observation deck"
+      ],
+      [
+        "5 January 2026",
+        "Guinness achievement date for both"
+      ],
+      [
+        "17 November 2026",
+        "Recognition reported publicly"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[WORLD4_555]]": {
+    "caption": "Bali’s Ganesha sculpture: the source distinctions",
+    "headers": [
+      "Detail",
+      "What the sources establish"
+    ],
+    "rows": [
+      [
+        "Location",
+        "Tegallalang, Gianyar, Bali"
+      ],
+      [
+        "Reported record height",
+        "15.315 metres, about 50 feet"
+      ],
+      [
+        "Reported category",
+        "Supported synthetic-rattan sculpture"
+      ],
+      [
+        "Artisans credited",
+        "126 in the developer’s account"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[WORLD4_556]]": {
+    "caption": "Mauritius Telecom: the November milestones",
+    "headers": [
+      "Date",
+      "Documented development"
+    ],
+    "rows": [
+      [
+        "6 November 2026",
+        "Learning Hub launches with 16 courses"
+      ],
+      [
+        "17 November 2026",
+        "Cassava memorandum signed, company says"
+      ],
+      [
+        "18 November 2026",
+        "Telecom Innovation Award ceremony"
+      ],
+      [
+        "19 November 2026",
+        "Local coverage announces the win"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[MAMA1_552]]": {
     "caption": "BTS at MAMA 2026: the two-night tally",
     "headers": [

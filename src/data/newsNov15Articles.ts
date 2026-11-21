@@ -1,6 +1,423 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "553",
+    "slug": "turkiye-first-three-kizilelma-unmanned-fighter-jets-2026",
+    "title": "TÜRKİYE RECEIVES ITS FIRST THREE KIZILELMA UNMANNED FIGHTER JETS",
+    "seoTitle": "Türkiye receives first three KIZILELMA jets: what is confirmed",
+    "metaDescription": "Baykar delivered three KIZILELMA unmanned fighter aircraft on November 19, 2026. The verified milestone, development history and limits of the claims.",
+    "excerpt": "Baykar delivered three KIZILELMA unmanned fighter aircraft on November 19, 2026. The verified milestone, development history and limits of the claims.",
+    "category": "AI",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-21",
+    "lastUpdated": "2026-11-21",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/turkiye-first-three-kizilelma-unmanned-fighter-jets-2026.jpg",
+    "coverAlt": "Supplied original visual of a KIZILELMA-branded unmanned aircraft, not authenticated photography of the November 19 delivery ceremony",
+    "headlineHighlights": {
+      "red": "TÜRKİYE",
+      "gold": "FIRST THREE"
+    },
+    "tags": [
+      "TÜRKİYE",
+      "AI"
+    ],
+    "content": [
+      "Türkiye has received the first three Bayraktar KIZILELMA unmanned fighter aircraft, moving a closely watched development programme into the military inventory. Baykar announced the delivery on November 19, 2026, after acceptance tests, and said the aircraft had been handed to the country’s security forces. This is a domestic delivery milestone, not an announcement of a new export customer. [Baykar: November 19 delivery announcement](https://baykartech.com/en/press/a-first-in-global-aviation-history-kizilelma-enters-turkiyes-inventory/)",
+      "The Turkish presidency also confirmed the aircraft’s addition to the armed forces’ inventory. Anadolu reported the same first-three-aircraft delivery on November 19. Together, those accounts establish the central news: aircraft have been accepted and delivered. They do not disclose every detail of their unit assignment, readiness or future deployment. [Presidency: November 19 inventory confirmation](https://www.iletisim.gov.tr/english/haberler/detay/president-erdogans-message-on-bayraktar-kizilelmas-addition-to-turkish-armed-forces-inventory) [Anadolu: first three aircraft and official confirmation](https://www.aa.com.tr/en/turkiye/turkiyes-homegrown-kizilelma-unmanned-fighter-jet-enters-military-inventory-erdogan/4131449)",
+      "[[WORLD4_553]]",
+      "## What changed on November 19",
+      "For an aviation programme, entering an inventory is different from unveiling a prototype or making a first flight. A prototype demonstrates that a design can move through testing; delivery follows an acceptance process and transfers aircraft to the customer. It creates the basis for operating experience, training and support, while leaving further development possible. The significance is practical as well as symbolic.",
+      "Baykar said test and training activities had reached 600 sorties by the announcement. That figure describes programme activity, not 600 combat missions or a tally of delivered aircraft. The delivered batch consisted of three. Keeping those two measures separate prevents an impressive test total from being mistaken for an operational fleet size. [Baykar: November 19 delivery announcement](https://baykartech.com/en/press/a-first-in-global-aviation-history-kizilelma-enters-turkiyes-inventory/)",
+      "The company framed the delivery as a world first for the operational induction of an unmanned fighter jet. That is Baykar’s classification and claim. It should not be expanded into saying that Türkiye invented armed drones or that no uncrewed combat aircraft existed previously. The narrower category concerns a jet-powered fighter-type platform entering service, not the entire history of unmanned military aviation.",
+      "## From a first flight to a delivered aircraft",
+      "KIZILELMA first flew on December 14, 2022. Baykar’s account of the later production prototype distinguishes that original aircraft from the design’s subsequent evolution. The period between first flight and the 2026 delivery therefore represents a development sequence, rather than four years in which the aircraft was already operating as a delivered fleet. [Baykar: production prototype development](https://www.baykartech.com/en/press/bayraktar-kizilelmas-production-prototype-successfully-completes-maiden-flight/)",
+      "That sequence included changes in prototypes, flight testing and systems integration. Baykar announced initial strike tests in October 2025; its dated account identified TOLUN and TEBER-82 among the munitions tested. These were reported trials within a development programme. They are not evidence of combat use, and a successful test should not be rewritten as an account of an operational mission. [Baykar: first strike tests, October 2025](https://baykartech.com/en/press/direct-hit-on-first-strike-from-bayraktar-kizilelma/)",
+      "The November delivery statement also described later air-to-air and internal-bay testing. Such milestones help explain why the programme attracts attention beyond a conventional surveillance-drone story. They remain claims about particular tests under specified conditions, rather than a guarantee that every advertised mission can be performed in every environment. [Baykar: November 19 delivery announcement](https://baykartech.com/en/press/a-first-in-global-aviation-history-kizilelma-enters-turkiyes-inventory/)",
+      "### A fighter-shaped drone is still a complete aviation system",
+      "An unmanned aircraft does not operate in isolation simply because there is no pilot in its cockpit. Communications, maintenance, mission preparation, personnel and the wider command structure remain part of an aviation capability. Delivery adds physical aircraft to that system; it does not remove the need to develop the organisation around them.",
+      "This is why the first batch matters without needing to be described as a finished transformation of air combat. An initial delivery can begin a new phase of learning and integration. Fleet size, sustained availability and later procurement would each require their own evidence. The announcement supplies the first number, three aircraft, rather than a verified long-term production total.",
+      "## What the current specifications actually say",
+      "Baykar’s current product page lists an 8,500-kilogram maximum take-off weight and a 1,500-kilogram payload capacity. It gives a length of 14.5 metres, a 10-metre wingspan and a turbofan power plant. These published specifications describe a substantially different machine from a small consumer quadcopter, and they help explain the manufacturer’s use of the fighter-aircraft category. [Baykar: current published KIZILELMA specifications](https://www.baykartech.com/en/uav/bayraktar-kizilelma/)",
+      "The same page lists a cruise speed of Mach 0.6, a maximum of Mach 0.9 and endurance exceeding three hours. Readers should not turn those numbers into a claim that the published configuration is already supersonic. Nor should performance figures be assumed to apply unchanged to every possible variant, payload or mission profile. They are the manufacturer’s current published figures. [Baykar: current published KIZILELMA specifications](https://www.baykartech.com/en/uav/bayraktar-kizilelma/)",
+      "## Autonomous flying is not the same as unrestricted decision-making",
+      "The current specifications list autonomous taxiing, take-off, cruise and landing. These are flight functions. Their presence does not, by itself, establish that a weapon can be used without human authority or explain the rules under which a military operator would employ the aircraft. An account of autonomy needs to name the function being automated rather than treating the word as a single all-purpose capability. [Baykar: current published KIZILELMA specifications](https://www.baykartech.com/en/uav/bayraktar-kizilelma/)",
+      "A separate Leonardo and Baykar statement about 2026 trials provides a concrete illustration. The companies reported joint flights involving KIZILELMA and Leonardo M-346 aircraft at Çorlu in May. The programme examined cooperation between crewed and uncrewed platforms, with the release describing the transition from simulation to live testing. [Leonardo and Baykar: 2026 crewed/uncrewed flight trials](https://www.leonardo.com/documents/15646808/0/Press%2BRelease_Leonardo_BAYKAR_CUC-T_22_06_2026_ENG.pdf?t=1782123675747)",
+      "Leonardo’s account said pilots in the crewed aircraft commanded formations that KIZILELMA executed autonomously. It also described preserving control and decision-making as the technology developed. That is a more precise picture than imagining a jet acting independently of every human and every other system. It demonstrates a particular tested form of cooperation, not an unlimited autonomous combat scenario. [Leonardo and Baykar: 2026 crewed/uncrewed flight trials](https://www.leonardo.com/documents/15646808/0/Press%2BRelease_Leonardo_BAYKAR_CUC-T_22_06_2026_ENG.pdf?t=1782123675747)",
+      "## Carrier ambitions and the work still ahead",
+      "Baykar’s product description also discusses short-runway carrier operations while saying development work continues to enable aircraft-carrier use. A listed design ambition should not become a claim that this delivery announcement proves routine carrier deployment. The November news establishes delivery to Turkish forces; a particular shipboard operational milestone would need separate confirmation. [Baykar: current published KIZILELMA specifications](https://www.baykartech.com/en/uav/bayraktar-kizilelma/)",
+      "The distinction matters because delivery, flight autonomy, crewed/uncrewed cooperation and carrier operations are different achievements. They may belong to the same programme, but one does not automatically verify all the others. Following the project responsibly means watching those milestones individually as testing and service experience continue.",
+      "## A new chapter in a much wider drone industry",
+      "The broader unmanned-aircraft sector includes civilian and military systems with very different purposes. PRESDA’s [report on Uber Eats and Zipline’s food-delivery drones](/articles/uber-eats-zipline-drone-delivery-houston-2026/) explores a commercial application. KIZILELMA belongs to a different category, with different equipment, responsibilities and operational demands. The shared absence of an onboard pilot does not make the systems equivalent.",
+      "The verified headline is substantial enough: the first three KIZILELMA aircraft were delivered on November 19 after acceptance tests, and the Turkish presidency confirmed their entry into the inventory. The next phase will be judged through documented service experience and further milestones, rather than through unsupported claims that a first batch has already settled the future of air combat."
+    ],
+    "references": [
+      {
+        "name": "Baykar: November 19 delivery announcement",
+        "url": "https://baykartech.com/en/press/a-first-in-global-aviation-history-kizilelma-enters-turkiyes-inventory/"
+      },
+      {
+        "name": "Anadolu: first three aircraft and official confirmation",
+        "url": "https://www.aa.com.tr/en/turkiye/turkiyes-homegrown-kizilelma-unmanned-fighter-jet-enters-military-inventory-erdogan/4131449"
+      },
+      {
+        "name": "Baykar: current published KIZILELMA specifications",
+        "url": "https://www.baykartech.com/en/uav/bayraktar-kizilelma/"
+      },
+      {
+        "name": "Leonardo and Baykar: 2026 crewed/uncrewed flight trials",
+        "url": "https://www.leonardo.com/documents/15646808/0/Press%2BRelease_Leonardo_BAYKAR_CUC-T_22_06_2026_ENG.pdf?t=1782123675747"
+      },
+      {
+        "name": "Baykar: production prototype development",
+        "url": "https://www.baykartech.com/en/press/bayraktar-kizilelmas-production-prototype-successfully-completes-maiden-flight/"
+      },
+      {
+        "name": "Presidency: November 19 inventory confirmation",
+        "url": "https://www.iletisim.gov.tr/english/haberler/detay/president-erdogans-message-on-bayraktar-kizilelmas-addition-to-turkish-armed-forces-inventory"
+      },
+      {
+        "name": "Baykar: first strike tests, October 2025",
+        "url": "https://baykartech.com/en/press/direct-hit-on-first-strike-from-bayraktar-kizilelma/"
+      }
+    ],
+    "relatedSlugs": [
+      "uber-eats-zipline-drone-delivery-houston-2026"
+    ],
+    "faq": [
+      {
+        "question": "How many KIZILELMA aircraft were delivered?",
+        "answer": "Baykar announced a first batch of three aircraft on November 19, 2026, following acceptance tests. The programme’s reported 600 sorties are not a delivered-fleet count."
+      },
+      {
+        "question": "Who received the aircraft?",
+        "answer": "Baykar referred to Türkiye’s security forces, while the presidency confirmed entry into the Turkish Armed Forces’ inventory. The sources do not establish a particular unit assignment here."
+      },
+      {
+        "question": "Is the current published KIZILELMA specification supersonic?",
+        "answer": "Baykar’s current product page lists Mach 0.9 maximum speed and Mach 0.6 cruise. Those figures should not be described as supersonic performance."
+      },
+      {
+        "question": "Does autonomous flight mean there is no human control?",
+        "answer": "No. Autonomous flight functions and authority over military decisions are different matters. The Leonardo trials described pilots commanding formations that the unmanned aircraft executed autonomously."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "554",
+    "slug": "makkah-clock-tower-guinness-highest-museum-observation-deck",
+    "title": "MAKKAH CLOCK TOWER EARNS TWO GUINNESS RECORDS FOR MUSEUM AND OBSERVATION DECK",
+    "seoTitle": "Makkah Clock Tower: two Guinness records, exact heights and dates",
+    "metaDescription": "Makkah’s Clock Tower holds records for a museum at 426.875 metres and an outdoor observation deck at 560.875 metres. The measurements, dates and context.",
+    "excerpt": "Makkah’s Clock Tower holds records for a museum at 426.875 metres and an outdoor observation deck at 560.875 metres. The measurements, dates and context.",
+    "category": "World",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-21",
+    "lastUpdated": "2026-11-21",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/makkah-clock-tower-guinness-highest-museum-observation-deck.jpg",
+    "coverAlt": "Supplied original editorial composite of Makkah Clock Tower and Guinness branding, not an authenticated certificate or presentation photograph",
+    "headlineHighlights": {
+      "red": "MAKKAH CLOCK TOWER",
+      "gold": "TWO GUINNESS RECORDS"
+    },
+    "tags": [
+      "MAKKAH CLOCK TOWER",
+      "World"
+    ],
+    "content": [
+      "Makkah’s Clock Tower has received recognition for two very specific achievements: the world’s highest museum inside a building and its highest outdoor observation deck. Guinness World Records lists the Clock Tower Museum at 426.875 metres and the outdoor deck at 560.875 metres. These are two different facilities at two different elevations, not competing descriptions of the same floor. [Guinness: highest museum in a building](https://www.guinnessworldrecords.com/world-records/775972-highest-museum-in-a-building) [Guinness: highest outdoor observation deck](https://www.guinnessworldrecords.com/world-records/482083-highest-open-air-observation-deck)",
+      "The recognition attracted fresh attention through a November 17, 2026 announcement reported by Arab News. The Guinness entries give January 5, 2026 as the achievement date for both titles. An accurate account therefore keeps the public announcement separate from the date in the record database, rather than suggesting the tower or museum first opened this November. [Arab News: November 17 recognition announcement](https://www.arabnews.com/saudi-arabia/makkah-clock-tower-earns-2-guinness-world-records-3012487)",
+      "[[WORLD4_554]]",
+      "## Two records and two precise measurements",
+      "For the museum, the Guinness title is “Highest museum in a building.” The named record holder is the Royal Commission for Makkah City and Holy Sites, and the recorded height is 426.875 metres. That describes the museum’s elevation within the structure. It is not the height of a museum building standing alone, nor the total architectural height of the tower. [Guinness: highest museum in a building](https://www.guinnessworldrecords.com/world-records/775972-highest-museum-in-a-building)",
+      "The second entry is “Highest outdoor observation deck,” at 560.875 metres, also held by the Royal Commission. The word outdoor is part of the category. An enclosed viewing space, an occupied floor and an architectural tip are different things; an article that removes the category’s qualifying word can change the meaning of the achievement. [Guinness: highest outdoor observation deck](https://www.guinnessworldrecords.com/world-records/482083-highest-open-air-observation-deck)",
+      "The tower’s architectural height is a separate measurement. The Skyscraper Center lists the Makkah Royal Clock Tower at 601 metres. Comparing that figure with the Guinness elevations helps explain the structure: a building can extend above a visitor facility, while the record for that facility concerns its position rather than the complete silhouette. [Skyscraper Center: architectural height of the tower](https://www.skyscrapercenter.com/building/makkah-royal-clock-tower/84)",
+      "### Why the decimal places matter",
+      "The three-decimal figures are the measurements published in the Guinness record entries. They should be retained when reporting the exact records, even if a general description rounds them to approximately 427 and 561 metres. Rounding is useful for scale; it should not quietly replace the official figures or move either attraction to a different level. Guinness’s general guidance explains that each record has its own rules, measurement requirements and evidence requirements. [Guinness: record-specific rules and measurement evidence](https://www.guinnessworldrecords.com/records/how-are-records-measured)",
+      "The two Guinness entries also identify the same January achievement date. November coverage is the news event that brought the recognition to a wider audience. That chronology does not diminish the story. It makes clear what happened when: an achievement was recorded, and its recognition was subsequently publicised. [Guinness: highest museum in a building](https://www.guinnessworldrecords.com/world-records/775972-highest-museum-in-a-building) [Guinness: highest outdoor observation deck](https://www.guinnessworldrecords.com/world-records/482083-highest-open-air-observation-deck)",
+      "## A museum about time inside a monumental clock",
+      "The Clock Tower Museum’s setting makes its subject unusually immediate. Guinness describes exhibitions about the history, science and artistry of timekeeping, including mechanisms and interactive explanations of how different civilisations have measured time. The building around those exhibits is itself an enormous time display, connecting the subject of the museum with the structure that contains it. [Guinness: highest museum in a building](https://www.guinnessworldrecords.com/world-records/775972-highest-museum-in-a-building)",
+      "The connection between astronomy and time is more than visual decoration. Observations of the Sun, Moon and stars have long helped people organise calendars and reckon the passage of days. A museum can turn that abstract relationship into a sequence of objects, models and explanations. Its value is not determined solely by how many metres separate its galleries from the ground.",
+      "## The engineering behind the skyline",
+      "SL Rasch, which designed the clock addition, dates its project to 2012 and explains that it was commissioned in late 2006, after calculations for the surrounding towers had already been completed. The clock was therefore a major design and engineering intervention within a larger development, rather than a freestanding object placed on an empty site. [SL Rasch: clock-tower design and engineering](https://www.sl-rasch.com/en/projects/the-makkah-royal-clock-tower/)",
+      "The practice’s project description identifies extensive glass-fibre-reinforced elements, clock-face panels and mosaic work. It also records a 23-metre crescent. These details show the range of work behind the landmark: structure, materials, visible surfaces and a crown that must operate as architecture at an extraordinary scale. A familiar skyline image can conceal that complexity. [SL Rasch: clock-tower design and engineering](https://www.sl-rasch.com/en/projects/the-makkah-royal-clock-tower/)",
+      "The comparison with a normal street clock is consequently incomplete. At this scale, a clock face becomes part of a building envelope and a civic landmark, as well as something that tells the time. The achievement combines the legibility of a public display with the demands of a very tall structure. The museum and observation facilities add further uses to that architectural presence.",
+      "## Looking out over a sacred urban landscape",
+      "The Guinness description of the outdoor deck emphasises its elevated view over Makkah and the surrounding city. That perspective is important because the tower is part of an urban environment, not merely an isolated height statistic. Its relationship with the Grand Mosque and the dense built landscape gives the view a cultural and spatial context. [Guinness: highest outdoor observation deck](https://www.guinnessworldrecords.com/world-records/482083-highest-open-air-observation-deck)",
+      "For a news reader, however, a record entry is not a ticketing notice. It does not by itself establish current opening hours, access arrangements, visitor eligibility or the availability of a particular platform on a chosen day. Those details should come from current official visitor information. The achievement can be reported confidently without inventing a travel itinerary around it.",
+      "## A world record is a category, not every possible superlative",
+      "The two new titles do not mean that the Clock Tower is the tallest building on Earth. Nor do they replace every earlier record associated with its clock faces. They recognise the museum and outdoor observation deck according to their stated categories. Keeping those objects separate makes the news more interesting, because it reveals how many different functions occupy one tower. [Arab News: November 17 recognition announcement](https://www.arabnews.com/saudi-arabia/makkah-clock-tower-earns-2-guinness-world-records-3012487)",
+      "PRESDA’s [feature on Shibam’s mud-brick skyscrapers](/articles/shibam-yemen-mud-brick-skyscrapers/) explores a very different tradition of building upward. The comparison is not a height contest: it shows how vertical architecture can express community, technology and place in different settings. Makkah’s record story belongs to that wider conversation while retaining its own precise figures and dates.",
+      "The clearest conclusion is also the strongest: Guinness lists a museum at 426.875 metres and an outdoor observation deck at 560.875 metres, with achievement dates of January 5, 2026. Their November recognition brings attention to a landmark where timekeeping, engineering, education and the experience of a city meet high above the ground."
+    ],
+    "references": [
+      {
+        "name": "Guinness: highest museum in a building",
+        "url": "https://www.guinnessworldrecords.com/world-records/775972-highest-museum-in-a-building"
+      },
+      {
+        "name": "Guinness: highest outdoor observation deck",
+        "url": "https://www.guinnessworldrecords.com/world-records/482083-highest-open-air-observation-deck"
+      },
+      {
+        "name": "Arab News: November 17 recognition announcement",
+        "url": "https://www.arabnews.com/saudi-arabia/makkah-clock-tower-earns-2-guinness-world-records-3012487"
+      },
+      {
+        "name": "SL Rasch: clock-tower design and engineering",
+        "url": "https://www.sl-rasch.com/en/projects/the-makkah-royal-clock-tower/"
+      },
+      {
+        "name": "Guinness: record-specific rules and measurement evidence",
+        "url": "https://www.guinnessworldrecords.com/records/how-are-records-measured"
+      },
+      {
+        "name": "Skyscraper Center: architectural height of the tower",
+        "url": "https://www.skyscrapercenter.com/building/makkah-royal-clock-tower/84"
+      }
+    ],
+    "relatedSlugs": [
+      "shibam-yemen-mud-brick-skyscrapers"
+    ],
+    "faq": [
+      {
+        "question": "Which two Guinness records does the Clock Tower hold?",
+        "answer": "The Guinness entries identify the highest museum in a building and the highest outdoor observation deck."
+      },
+      {
+        "question": "What are their exact heights?",
+        "answer": "The Clock Tower Museum is recorded at 426.875 metres and the outdoor observation deck at 560.875 metres. These are separate facilities and measurements."
+      },
+      {
+        "question": "Were both records achieved in November 2026?",
+        "answer": "The Guinness entries give January 5, 2026. November 17 coverage concerned the public recognition announcement, not a new construction date."
+      },
+      {
+        "question": "Does this mean the tower is the tallest building in the world?",
+        "answer": "No. The records concern the museum and outdoor deck. Architectural building height is a different measurement; the Skyscraper Center lists this tower at 601 metres."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "555",
+    "slug": "bali-ganesha-synthetic-rattan-sculpture-world-record",
+    "title": "BALI’S 50-FOOT GANESHA SCULPTURE: THE RECORD STORY AND THE CRAFT BEHIND IT",
+    "seoTitle": "Bali’s Ganesha sculpture: the synthetic-rattan record explained",
+    "metaDescription": "Bali’s Ganesha sculpture has drawn attention for a reported synthetic-rattan record. Explore the craft, cultural context, dates and differing height descriptions.",
+    "excerpt": "Bali’s Ganesha sculpture has drawn attention for a reported synthetic-rattan record. Explore the craft, cultural context, dates and differing height descriptions.",
+    "category": "World",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-21",
+    "lastUpdated": "2026-11-21",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/bali-ganesha-synthetic-rattan-sculpture-world-record.jpg",
+    "coverAlt": "Supplied original illustration of a monumental stone-like Ganesha, not documentary photography of Alas Harum’s reported synthetic-rattan sculpture",
+    "headlineHighlights": {
+      "red": "BALI’S",
+      "gold": "GANESHA SCULPTURE"
+    },
+    "tags": [
+      "Bali",
+      "Ganesha",
+      "Culture",
+      "World"
+    ],
+    "content": [
+      "A monumental Ganesha sculpture at Alas Harum Bali has drawn international attention through reports of a Guinness World Records title for a supported synthetic-rattan sculpture. Recent coverage gives its recorded height as 15.315 metres, a little over 50 feet. The achievement being reported is specific to a material and construction category, not a claim that this is the tallest Ganesha image of any kind in the world. [The CSR Journal: reported record category and height](https://thecsrjournal.in/bali-unveils-50-foot-ganesha-statue-achieving-guinness-world-record-for-tallest-supported-synthetic-rattan-sculpture)",
+      "The project is in Tegallalang, in Bali’s Gianyar regency. November coverage has made it newly prominent abroad, but that should not be turned into a claim that Indonesia unveiled it on the day an article appeared. Organiser’s November 20 report dates public unveiling to October 25 and record verification to August 4. Those are reported project milestones, distinct from the date of the international news coverage. [Organiser: reported verification and public unveiling dates](https://organiser.org/2026/11/20/427649/world/50-foot-ganesha-murti-in-bali-enters-guinness-world-records-126-artisans-craft-hindu-culture-civilisational-heritage/)",
+      "[[WORLD4_555]]",
+      "## The craft behind the headline",
+      "Alas Harum’s own project announcement, published on April 11, 2026, credits 126 artisans with creating the Ganesha installation. It presents the work alongside the Kailash Fairy Garden as part of the destination’s expansion in cultural and immersive tourism. That primary account makes the scale of the collaborative craft effort an important part of the story, beyond the height alone. [Alas Harum Bali: April 11 project announcement and artisans](https://alasharum.com/en/post/alas-harum-bali-introduces-two-mega-projects-ganesha-statue-kailash-fairy-garden)",
+      "The same announcement uses the description artificial woven bamboo and gives an 18-metre height. November record coverage instead uses synthetic rattan and 15.315 metres. Those figures and descriptions should not be silently merged. They come from different accounts, and the available material does not establish whether a base, an overall design envelope or a revised measurement explains the difference. [Alas Harum Bali: April 11 project announcement and artisans](https://alasharum.com/en/post/alas-harum-bali-introduces-two-mega-projects-ganesha-statue-kailash-fairy-garden) [The CSR Journal: reported record category and height](https://thecsrjournal.in/bali-unveils-50-foot-ganesha-statue-achieving-guinness-world-record-for-tallest-supported-synthetic-rattan-sculpture)",
+      "For the record story, 15.315 metres is the figure attributed to the recent reporting. Eighteen metres remains the developer’s earlier project description. An honest account can show both without claiming to have independently surveyed the sculpture or seen a measurement report that has not been supplied. The distinction is particularly important when a precise decimal figure is being used as the basis of a superlative.",
+      "### Synthetic material is not the same as a stone monument",
+      "The reported record category concerns a supported sculpture made with synthetic rattan. Its woven surface and supporting construction are therefore central to the claimed achievement. Describing it as a huge stone carving would change the story. The supplied hero is an editorial illustration with a stone-like appearance, preserved as provided; it is not documentary evidence of the actual installation’s material or proportions. [The CSR Journal: reported record category and height](https://thecsrjournal.in/bali-unveils-50-foot-ganesha-statue-achieving-guinness-world-record-for-tallest-supported-synthetic-rattan-sculpture)",
+      "The material description also does not establish environmental performance. A synthetic woven surface should not automatically be called natural bamboo, biodegradable or a certified sustainable product. Those claims would require their own evidence. A craft story can recognise skill and experimentation without turning the choice of material into an unsupported environmental endorsement.",
+      "## Why Ganesha carries meaning beyond scale",
+      "Ganesha is widely recognised by his elephant head, but the image is more than an instantly recognisable silhouette. The Metropolitan Museum of Art’s account of a twelfth-century Chola-period sculpture describes a deity associated with removing obstacles, success and abundance, and explains the practice of making an offering before an important undertaking. This gives the new landmark a religious vocabulary that predates contemporary tourism. [The Met: Ganesha’s iconography and religious meaning](https://www.metmuseum.org/art/collection/search/37397)",
+      "That vocabulary is not identical in every place or period. The Met’s seventh-century Cambodian Standing Ganesha provides an early Southeast Asian example and explains that images of the deity could function as principal icons in their own temples. The object is not Balinese and should not be presented as evidence of this project’s direct ancestry. It does, however, illustrate the long regional history of adapting and venerating Ganesha imagery. [The Met: early Ganesha worship in Southeast Asia](https://www.metmuseum.org/art/collection/search/38159)",
+      "For viewers, recognising that history changes the encounter with a large modern sculpture. A familiar divine figure can be presented through new materials and an attraction designed for contemporary visitors, while remaining connected to a living religious tradition. The work can be discussed as art and tourism without reducing its subject to a decorative mascot.",
+      "## Bali’s culture is also a working landscape",
+      "The setting matters as much as the monumental form. UNESCO’s description of Bali’s subak cultural landscape explains the relationship between rice cultivation, water temples and cooperative irrigation. It identifies Tri Hita Karana as a philosophy connecting spiritual life, the human community and nature. That is a useful corrective to seeing the island only as a collection of spectacular photo locations. [UNESCO: Bali’s subak cultural landscape](https://whc.unesco.org/en/list/1194)",
+      "The UNESCO property is a defined heritage landscape, not an award attached to every rice terrace or new attraction on Bali. Nor does its inscription confer UNESCO status on the Ganesha sculpture. Its relevance here is contextual: it helps explain how religious practice, collective work and the environment can be intertwined in Balinese life, rather than existing as separate tourist themes.",
+      "This wider context gives the contribution of the artisans additional meaning. Large installations are collaborative objects, even when publicity focuses on a single recognisable figure. Design, fabrication, surface work and installation involve people whose skills shape the final experience. The developer’s credit to 126 artisans offers a concrete starting point for recognising that collective effort. [Alas Harum Bali: April 11 project announcement and artisans](https://alasharum.com/en/post/alas-harum-bali-introduces-two-mega-projects-ganesha-statue-kailash-fairy-garden)",
+      "## A destination story with questions beyond the visitor count",
+      "Alas Harum describes its paired developments as a way to combine artistic expression, cultural storytelling and an immersive visitor experience. That is the destination’s stated intention. It does not provide an independently audited figure for extra jobs, visitor spending or the effect of the new sculpture on the surrounding community. Those outcomes should be reported when evidence is available, rather than inferred from the size of the monument. [Alas Harum Bali: April 11 project announcement and artisans](https://alasharum.com/en/post/alas-harum-bali-introduces-two-mega-projects-ganesha-statue-kailash-fairy-garden)",
+      "Tourism also comes with wider responsibilities. In a 2025 decision about Bali’s World Heritage cultural landscape, UNESCO expressed concern about tourism and associated development, including pressures in the Jatiluwih area. That is a warning about a particular protected landscape and its management; it is not a finding that the Alas Harum sculpture has damaged it. The distinction allows the broader issue to be discussed without accusing a specific project on unrelated evidence. [UNESCO: 2025 conservation decision on tourism pressures](https://whc.unesco.org/en/decisions/8799/)",
+      "The underlying question is how cultural attractions coexist with the everyday systems that make a place distinctive. An increase in visibility can create opportunities for craft and interpretation. It can also encourage an emphasis on spectacular images over context. A serious account should make room for both the attraction and the communities, practices and landscapes around it.",
+      "## Read the record precisely, then look beyond it",
+      "The useful headline is narrower than “the world’s tallest Ganesha.” Current reports describe a supported synthetic-rattan record and identify a 15.315-metre figure. The promoter’s earlier 18-metre description is a separate source statement, not a reason to invent a new certified measurement. Keeping the category and attribution visible preserves the meaning of the news. [The CSR Journal: reported record category and height](https://thecsrjournal.in/bali-unveils-50-foot-ganesha-statue-achieving-guinness-world-record-for-tallest-supported-synthetic-rattan-sculpture) [Organiser: reported verification and public unveiling dates](https://organiser.org/2026/11/20/427649/world/50-foot-ganesha-murti-in-bali-enters-guinness-world-records-126-artisans-craft-hindu-culture-civilisational-heritage/)",
+      "PRESDA’s [report on Makkah Clock Tower’s museum and observation-deck records](/articles/makkah-clock-tower-guinness-highest-museum-observation-deck/) shows why the exact object and category matter in another setting. In Bali, the record coverage opens a larger story about craft, a widely venerated deity and the presentation of cultural identity to modern audiences. Those dimensions remain interesting after the superlative has been read carefully."
+    ],
+    "references": [
+      {
+        "name": "Alas Harum Bali: April 11 project announcement and artisans",
+        "url": "https://alasharum.com/en/post/alas-harum-bali-introduces-two-mega-projects-ganesha-statue-kailash-fairy-garden"
+      },
+      {
+        "name": "The CSR Journal: reported record category and height",
+        "url": "https://thecsrjournal.in/bali-unveils-50-foot-ganesha-statue-achieving-guinness-world-record-for-tallest-supported-synthetic-rattan-sculpture"
+      },
+      {
+        "name": "Organiser: reported verification and public unveiling dates",
+        "url": "https://organiser.org/2026/11/20/427649/world/50-foot-ganesha-murti-in-bali-enters-guinness-world-records-126-artisans-craft-hindu-culture-civilisational-heritage/"
+      },
+      {
+        "name": "The Met: Ganesha’s iconography and religious meaning",
+        "url": "https://www.metmuseum.org/art/collection/search/37397"
+      },
+      {
+        "name": "The Met: early Ganesha worship in Southeast Asia",
+        "url": "https://www.metmuseum.org/art/collection/search/38159"
+      },
+      {
+        "name": "UNESCO: Bali’s subak cultural landscape",
+        "url": "https://whc.unesco.org/en/list/1194"
+      },
+      {
+        "name": "UNESCO: 2025 conservation decision on tourism pressures",
+        "url": "https://whc.unesco.org/en/decisions/8799/"
+      }
+    ],
+    "relatedSlugs": [
+      "makkah-clock-tower-guinness-highest-museum-observation-deck"
+    ],
+    "faq": [
+      {
+        "question": "Is this the world’s tallest Ganesha statue overall?",
+        "answer": "The reported Guinness category is the tallest supported synthetic-rattan sculpture. It should not be expanded into a claim covering all Ganesha statues and materials."
+      },
+      {
+        "question": "Why do sources give 15.315 metres and 18 metres?",
+        "answer": "Recent record coverage gives 15.315 metres; Alas Harum’s April project announcement gives 18 metres. The reviewed sources do not establish the reason for that difference, so the article does not invent one."
+      },
+      {
+        "question": "Was the sculpture newly unveiled on November 21?",
+        "answer": "November 20–21 is the period of recent international coverage. Organiser reports an October 25 public unveiling and August 4 verification; the developer had already announced the project in April."
+      },
+      {
+        "question": "Does the supplied hero show the actual rattan sculpture?",
+        "answer": "It is a supplied editorial illustration with a stone-like appearance. It is not authenticated documentary photography of the installation or evidence of its material and measured height."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "556",
+    "slug": "mauritius-telecom-innovation-award-africa-tech-festival-2026",
+    "title": "MAURITIUS TELECOM WINS THE 2026 TELECOM INNOVATION AWARD IN CAPE TOWN",
+    "seoTitle": "Mauritius Telecom wins Telecom Innovation Award 2026",
+    "metaDescription": "Mauritius Telecom won at the Africa Tech Festival Awards on November 18. What the award recognises, how its AI services work and what remains an ambition.",
+    "excerpt": "Mauritius Telecom won at the Africa Tech Festival Awards on November 18. What the award recognises, how its AI services work and what remains an ambition.",
+    "category": "Business",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-21",
+    "lastUpdated": "2026-11-21",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/mauritius-telecom-innovation-award-africa-tech-festival-2026.jpg",
+    "coverAlt": "Supplied original editorial visual of Mauritius Telecom branding and an African Innovation Awards trophy, not authenticated photography of the Telecom Innovation Award presented in Cape Town",
+    "headlineHighlights": {
+      "red": "MAURITIUS TELECOM",
+      "gold": "TELECOM INNOVATION AWARD"
+    },
+    "tags": [
+      "MAURITIUS TELECOM",
+      "Business"
+    ],
+    "content": [
+      "Mauritius Telecom has won the Telecom Innovation Award at the Africa Tech Festival Awards 2026, a recognition that places the island operator’s digital-services strategy in a continental setting. The organiser’s official winners page names the company in that category and dates the ceremony to November 18 in Cape Town. The precise title matters: this was not a generic award called the African Innovation Award. [Africa Tech Festival: official 2026 winners and ceremony date](https://africatechfestival.com/awards/)",
+      "Company-related coverage appeared on November 19, during a festival running from November 17 to 19. Those dates describe different parts of the news cycle: the wider event, the awards ceremony and the subsequent announcement. Keeping them separate gives the achievement a clear place in the week, rather than turning the reporting date into an invented ceremony date. [L’express: company award, services and CEO nomination](https://lexpress.mu/node/564918)",
+      "[[WORLD4_556]]",
+      "## What Mauritius Telecom was recognised for",
+      "According to L’express and Defimedia, the recognition concerned work across connectivity, artificial intelligence, cloud services, digital payments and support for startups. Their reports identify Orange MEA and MTN Ghana as the other contenders in the category. The award is therefore best understood as recognition of a programme spanning several activities, rather than proof that a single application has solved every digital-access problem. [L’express: company award, services and CEO nomination](https://lexpress.mu/node/564918) [Defimedia: November 19 account of the innovation award](https://defimedia.info/africa-tech-festival-award-2026-mauritius-telecom-remporte-le-telecom-innovation-award)",
+      "The company highlighted mytGPT and the myt learn education service, myt SASE for business network and cloud security, and the myt Learning Hub Portal. These products address different users: a secondary-school learner, an organisation managing its digital environment, and a resident seeking new skills do not have the same needs. Bringing them into one strategy is part of the operator’s move beyond simply selling connectivity. [Defimedia: November 19 account of the innovation award](https://defimedia.info/africa-tech-festival-award-2026-mauritius-telecom-remporte-le-telecom-innovation-award)",
+      "### The company award and the CEO nomination are different",
+      "Chief executive Veemal Gungadin was also reported as a finalist for AI Leader of the Year. That nomination should not be described as another win. The festival’s final winners page names Cassava Technologies’ Ahmed El Beheiry for that separate award. Mauritius Telecom’s verified company victory remains the Telecom Innovation Award. [Africa Tech Festival: official 2026 winners and ceremony date](https://africatechfestival.com/awards/) [L’express: company award, services and CEO nomination](https://lexpress.mu/node/564918)",
+      "This distinction is useful because awards coverage often compresses nominations, shortlisted products and completed wins into one celebratory paragraph. Here the evidence supports a clear statement: the organisation won one named category, while its CEO’s separate nomination formed part of its presence at the festival. No additional trophy needs to be invented to make the result significant.",
+      "## Why an operator is building education services",
+      "Connectivity is a necessary condition for many digital services, but it does not determine what people can do once connected. A useful learning platform needs suitable content, understandable interfaces and opportunities to practise. The business logic of an operator moving into education is to connect infrastructure with a service people can actually use, while the educational value still needs to be assessed on its own terms.",
+      "In the award coverage, mytGPT is described as powering myt learn, an AI tutor for secondary-school students. That is a company account of the product’s purpose, not an independent demonstration of improved examination results. An AI tutor can be discussed as a learning aid without claiming that it replaces teachers or that every answer it produces is reliable. [Defimedia: November 19 account of the innovation award](https://defimedia.info/africa-tech-festival-award-2026-mauritius-telecom-remporte-le-telecom-innovation-award)",
+      "The more concrete public milestone is the myt Learning Hub Portal, launched on November 6. Mauritius Telecom’s own announcement describes it as a free online platform for digital and AI skills, developed in partnership with Amazon Web Services. It reported 16 courses at launch, giving readers a specific starting point rather than an undefined promise of training. [Mauritius Telecom: November 6 Learning Hub launch](https://www.telecom.mu/news/62/launch-of-the-myt-learning-hub-portal)",
+      "## A training target is not a completed outcome",
+      "The Learning Hub announcement connects the initiative with a government-programme ambition to train 50,000 Mauritians. That number is a target. It is not evidence that 50,000 residents had already completed courses by the award date, nor a count of jobs created. Enrolment, course completion and later employment are different measures that would require later reporting. [Mauritius Telecom: November 6 Learning Hub launch](https://www.telecom.mu/news/62/launch-of-the-myt-learning-hub-portal)",
+      "The distinction does not make the initiative trivial. A free platform can reduce one barrier to participation, and a locally developed access point can help connect residents with training content. But the next questions concern who uses it, who finishes, what they learn and how those skills are applied. A launch announcement establishes availability; it does not answer every question about impact.",
+      "The announcement also presents the hub as a complement to academic programmes. That is a more practical role than promising an instant substitute for a degree. Short courses and micro-credentials can form part of continuing learning, while universities, teachers and employers still have their own responsibilities in judging knowledge and capability. [Mauritius Telecom: November 6 Learning Hub launch](https://www.telecom.mu/news/62/launch-of-the-myt-learning-hub-portal)",
+      "## The Cassava memorandum adds a regional dimension",
+      "A separate Mauritius Telecom statement, published on November 18, says the company signed a memorandum of understanding with Cassava Technologies at the festival on November 17. It identifies two areas for exploration: AI computing and models, and education services. The timing places the agreement alongside the awards week, but the memorandum and the trophy are different developments. [Mauritius Telecom: Cassava AI memorandum and scope](https://www.telecom.mu/news/70/mauritius-telecom-and-cassava-technologies-sign-an-mou-at-africa-tech-festival-2)",
+      "For computing, the statement describes exploring access to Cassava’s NVIDIA-powered AI Factory in Cape Town and models through CAIMEx. For education, it describes assessing opportunities for myt learn, starting with South Africa and potentially extending to other African markets. These are the announced scope and intentions of a partnership, not a completed rollout across the continent. [Mauritius Telecom: Cassava AI memorandum and scope](https://www.telecom.mu/news/70/mauritius-telecom-and-cassava-technologies-sign-an-mou-at-africa-tech-festival-2)",
+      "That conditional language matters in a business story. A memorandum can open a route to cooperation while leaving technical, commercial and implementation work ahead. It does not disclose a signed revenue guarantee, establish that every proposed service is already available, or provide a verified market valuation for the operator’s AI activities.",
+      "## A small island’s place in a larger digital network",
+      "The operator’s festival profile describes an Africa–Asia Digital Corridor organised around connectivity, AI and compute, financial services, and innovation and scale-up. This is the company’s strategic framing, presented through the event’s sponsor profile. It explains how management links infrastructure with services and talent; it should not be read as an independent assessment that all those ambitions have already been delivered. [Africa Tech Festival: Mauritius Telecom’s strategy profile](https://africatechfestival.com/home/sponsors/mauritius-telecomm/)",
+      "For an island economy, digital connections can have value beyond the physical size of the home market. Services can reach external customers, partnerships can connect infrastructure across regions, and skills can help residents participate in that activity. Those are opportunities, not automatic results. The significance of the award is that the company’s work has received a named external recognition while the wider strategy continues to develop.",
+      "## What comes after the trophy",
+      "The useful tests now are the everyday ones: reliable services, effective security, accessible training and evidence that educational tools help their intended users. A festival award can strengthen visibility and professional recognition, but it is not a regulatory certification, an audit of every product or a guarantee of future earnings.",
+      "PRESDA’s [profile of Didier Drogba’s education and digital-skills partnerships](/articles/didier-drogba-africa-education-health-foundation-legacy/) examines a different route to expanding opportunity. In both settings, the distinction between an announced ambition and a measured outcome is essential. For Mauritius Telecom, the confirmed achievement is the November 18 Telecom Innovation Award, set against specific platform launches and a developing regional AI partnership."
+    ],
+    "references": [
+      {
+        "name": "Africa Tech Festival: official 2026 winners and ceremony date",
+        "url": "https://africatechfestival.com/awards/"
+      },
+      {
+        "name": "L’express: company award, services and CEO nomination",
+        "url": "https://lexpress.mu/node/564918"
+      },
+      {
+        "name": "Defimedia: November 19 account of the innovation award",
+        "url": "https://defimedia.info/africa-tech-festival-award-2026-mauritius-telecom-remporte-le-telecom-innovation-award"
+      },
+      {
+        "name": "Mauritius Telecom: November 6 Learning Hub launch",
+        "url": "https://www.telecom.mu/news/62/launch-of-the-myt-learning-hub-portal"
+      },
+      {
+        "name": "Mauritius Telecom: Cassava AI memorandum and scope",
+        "url": "https://www.telecom.mu/news/70/mauritius-telecom-and-cassava-technologies-sign-an-mou-at-africa-tech-festival-2"
+      },
+      {
+        "name": "Africa Tech Festival: Mauritius Telecom’s strategy profile",
+        "url": "https://africatechfestival.com/home/sponsors/mauritius-telecomm/"
+      },
+      {
+        "name": "Mauritius Telecom: dated news and announcements",
+        "url": "https://www.telecom.mu/"
+      }
+    ],
+    "relatedSlugs": [
+      "didier-drogba-africa-education-health-foundation-legacy"
+    ],
+    "faq": [
+      {
+        "question": "What award did Mauritius Telecom win?",
+        "answer": "It won the Telecom Innovation Award at the Africa Tech Festival Awards 2026. The organiser’s official winners page confirms the category and winner."
+      },
+      {
+        "question": "When and where was the awards ceremony?",
+        "answer": "The organiser dates it to November 18, 2026, in Cape Town. The wider festival ran from November 17 to 19."
+      },
+      {
+        "question": "Did its CEO also win AI Leader of the Year?",
+        "answer": "The local reports identify Veemal Gungadin as a finalist. The organiser names Ahmed El Beheiry as the winner of that separate award."
+      },
+      {
+        "question": "Has the Learning Hub already trained 50,000 Mauritians?",
+        "answer": "The launch announcement describes 50,000 as an ambition linked to the government programme, not a verified number of completed courses or people trained."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "552",
     "slug": "bts-mama-awards-2026-five-wins-two-grand-prizes",
     "title": "BTS WINS FIVE 2026 MAMA AWARDS, INCLUDING TWO GRAND PRIZES",

@@ -15,6 +15,90 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"turkiye-first-three-kizilelma-unmanned-fighter-jets-2026": {
+  "afterBlock": 12,
+  "file": "world4-kizilelma-facts-en.png",
+  "localizedFiles": {
+    "en": "world4-kizilelma-facts-en.png",
+    "fr": "world4-kizilelma-facts-fr.png",
+    "ar": "world4-kizilelma-facts-ar.png",
+    "es": "world4-kizilelma-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://baykartech.com/en/press/a-first-in-global-aviation-history-kizilelma-enters-turkiyes-inventory/",
+  "credit": "PRESDA · baykartech.com / aa.com.tr / leonardo.com / iletisim.gov.tr",
+  "license": null,
+  "captions": {
+    "en": "KIZILELMA: milestones before the first delivery",
+    "fr": "KIZILELMA : les étapes précédant la livraison",
+    "ar": "قزل إلما: محطات قبل التسليم الأول",
+    "es": "KIZILELMA: hitos antes de la primera entrega"
+  }
+},
+"makkah-clock-tower-guinness-highest-museum-observation-deck": {
+  "afterBlock": 12,
+  "file": "world4-makkah-facts-en.png",
+  "localizedFiles": {
+    "en": "world4-makkah-facts-en.png",
+    "fr": "world4-makkah-facts-fr.png",
+    "ar": "world4-makkah-facts-ar.png",
+    "es": "world4-makkah-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.guinnessworldrecords.com/world-records/775972-highest-museum-in-a-building",
+  "credit": "PRESDA · guinnessworldrecords.com / arabnews.com / sl-rasch.com / skyscrapercenter.com",
+  "license": null,
+  "captions": {
+    "en": "Makkah Clock Tower: the record figures",
+    "fr": "Tour de l’horloge : les chiffres des records",
+    "ar": "برج ساعة مكة: أرقام السجلين",
+    "es": "Torre del reloj: las cifras de los récords"
+  }
+},
+"bali-ganesha-synthetic-rattan-sculpture-world-record": {
+  "afterBlock": 12,
+  "file": "world4-ganesha-facts-en.png",
+  "localizedFiles": {
+    "en": "world4-ganesha-facts-en.png",
+    "fr": "world4-ganesha-facts-fr.png",
+    "ar": "world4-ganesha-facts-ar.png",
+    "es": "world4-ganesha-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://alasharum.com/en/post/alas-harum-bali-introduces-two-mega-projects-ganesha-statue-kailash-fairy-garden",
+  "credit": "PRESDA · alasharum.com / thecsrjournal.in / organiser.org / metmuseum.org / whc.unesco.org",
+  "license": null,
+  "captions": {
+    "en": "Bali’s Ganesha sculpture: the source distinctions",
+    "fr": "Ganesha à Bali : les éléments rapportés et annoncés",
+    "ar": "غانيشا في بالي: معلومات منقولة ومعلنة",
+    "es": "Ganesha en Bali: datos publicados y anunciados"
+  }
+},
+"mauritius-telecom-innovation-award-africa-tech-festival-2026": {
+  "afterBlock": 12,
+  "file": "world4-mauritius-facts-en.png",
+  "localizedFiles": {
+    "en": "world4-mauritius-facts-en.png",
+    "fr": "world4-mauritius-facts-fr.png",
+    "ar": "world4-mauritius-facts-ar.png",
+    "es": "world4-mauritius-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://africatechfestival.com/awards/",
+  "credit": "PRESDA · africatechfestival.com / lexpress.mu / defimedia.info / telecom.mu",
+  "license": null,
+  "captions": {
+    "en": "Mauritius Telecom: the November milestones",
+    "fr": "Mauritius Telecom : les étapes de novembre",
+    "ar": "موريشيوس تيليكوم: محطات نوفمبر",
+    "es": "Mauritius Telecom: los hitos de noviembre"
+  }
+},
 "bts-mama-awards-2026-five-wins-two-grand-prizes": {
   "afterBlock": 12,
   "file": "mama1-bts-facts-en.png",

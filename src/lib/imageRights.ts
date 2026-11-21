@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/turkiye-first-three-kizilelma-unmanned-fighter-jets-2026.jpg","/articles/makkah-clock-tower-guinness-highest-museum-observation-deck.jpg","/articles/bali-ganesha-synthetic-rattan-sculpture-world-record.jpg","/articles/mauritius-telecom-innovation-award-africa-tech-festival-2026.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/bts-mama-awards-2026-five-wins-two-grand-prizes.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/levi-mcconaughey-hollywood-films-lost-bus-warrior-kid.jpg","/articles/brahim-diaz-real-madrid-contract-2031-report.jpg","/articles/keanu-reeves-arch-motorcycle-gard-hollinger-business.jpg","/articles/gerard-pique-kings-league-entrepreneur-kosmos.jpg","/articles/didier-drogba-africa-education-health-foundation-legacy.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/bruno-mars-father-peter-hernandez-death-tribute.jpg","/articles/chris-brown-temporary-12000-monthly-child-support.jpg","/articles/kylie-jenner-timothee-chalamet-lakers-kiss-november-2026.jpg","/articles/faouzia-original-supplied-hero.jpg","/articles/the-rock-survivor-series-2026-appearance-anniversary.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
