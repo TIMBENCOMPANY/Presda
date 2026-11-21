@@ -8,6 +8,34 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[MAMA1_552]]": {
+    "caption": "BTS at MAMA 2026: the two-night tally",
+    "headers": [
+      "Date",
+      "Group award or awards"
+    ],
+    "rows": [
+      [
+        "November 20",
+        "Artist of the Year, a grand prize"
+      ],
+      [
+        "November 20",
+        "Best Male Group and Fans’ Choice Male Top 10"
+      ],
+      [
+        "November 21",
+        "Album of the Year for ARIRANG, a grand prize"
+      ],
+      [
+        "November 21",
+        "Best Song Top 10 for SWIM"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[CAREERS5_547]]": {
     "caption": "Levi McConaughey: premieres and releases in order",
     "headers": [

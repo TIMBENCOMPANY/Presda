@@ -1411,6 +1411,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/bts-mama-awards-2026-five-wins-two-grand-prizes/",
+    "path": "/ar/articles/bts-mama-awards-2026-five-wins-two-grand-prizes/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/bts-mama-awards-2026-five-wins-two-grand-prizes/",
+    "path": "/es/articles/bts-mama-awards-2026-five-wins-two-grand-prizes/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/bts-mama-awards-2026-five-wins-two-grand-prizes/",
+    "path": "/fr/articles/bts-mama-awards-2026-five-wins-two-grand-prizes/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/butterfly-effect-small-changes-big-consequences/",
     "path": "/ar/articles/butterfly-effect-small-changes-big-consequences/"
   },

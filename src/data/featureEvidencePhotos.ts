@@ -15,6 +15,27 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"bts-mama-awards-2026-five-wins-two-grand-prizes": {
+  "afterBlock": 12,
+  "file": "mama1-bts-facts-en.png",
+  "localizedFiles": {
+    "en": "mama1-bts-facts-en.png",
+    "fr": "mama1-bts-facts-fr.png",
+    "ar": "mama1-bts-facts-ar.png",
+    "es": "mama1-bts-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://en.yna.co.kr/view/AEN20261121001851315",
+  "credit": "PRESDA · en.yna.co.kr / cjenm.com / koreaherald.com / ibighit.com / soompi.com / ich.unesco.org",
+  "license": null,
+  "captions": {
+    "en": "BTS at MAMA 2026: the two-night tally",
+    "fr": "BTS aux MAMA 2026 : le bilan des deux jours",
+    "ar": "BTS في ماما 2026: حصيلة اليومين",
+    "es": "BTS en MAMA 2026: balance de dos días"
+  }
+},
 "levi-mcconaughey-hollywood-films-lost-bus-warrior-kid": {
   "afterBlock": 12,
   "file": "careers5-levi-facts-en.png",

@@ -1,6 +1,114 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "552",
+    "slug": "bts-mama-awards-2026-five-wins-two-grand-prizes",
+    "title": "BTS WINS FIVE 2026 MAMA AWARDS, INCLUDING TWO GRAND PRIZES",
+    "seoTitle": "BTS wins five 2026 MAMA Awards: dates, prizes and ARIRANG",
+    "metaDescription": "BTS won five awards at MAMA in Osaka on November 20–21, including Artist and Album of the Year. The full tally and the context behind ARIRANG’s success.",
+    "excerpt": "BTS won five awards at MAMA in Osaka on November 20–21, including Artist and Album of the Year. The full tally and the context behind ARIRANG’s success.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-21",
+    "lastUpdated": "2026-11-21",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/bts-mama-awards-2026-five-wins-two-grand-prizes.jpg",
+    "coverAlt": "Supplied original visual of the seven BTS members with a trophy, not authenticated as photography from the 2026 MAMA ceremony in Osaka",
+    "headlineHighlights": {
+      "red": "BTS",
+      "gold": "TWO GRAND PRIZES"
+    },
+    "tags": [
+      "BTS",
+      "Paparazzi"
+    ],
+    "content": [
+      "BTS finished the 2026 MAMA Awards with five group trophies, including Artist of the Year and Album of the Year for ARIRANG. The result was completed on Saturday, November 21, at the end of a two-day ceremony at Kyocera Dome Osaka in Japan. It was a major awards-weekend success for a group whose 2026 return placed new music, rather than only its back catalogue, at the centre of the conversation. [Yonhap: five awards and the two-night winners list](https://en.yna.co.kr/view/AEN20261121001851315)",
+      "The dates are November 20 and 21, not a single undifferentiated awards night. Organiser CJ ENM announced that schedule in March. BTS received three awards on the opening day and added two on the second. Reading the results across both chapters explains the five-win total and why the final headline belongs to November 21. [CJ ENM: official November 20–21 dates and Osaka venue](https://www.cjenm.com/en/news/2026-mama-awards-to-take-place-in-japan---from-november-2021/)",
+      "[[MAMA1_552]]",
+      "## The five awards, counted clearly",
+      "On Friday, BTS won Artist of the Year, Best Male Group and a place in Fans’ Choice Male Top 10. On Saturday, the group added Album of the Year for ARIRANG and Best Song Top 10 for SWIM. The two grand prizes were the artist and album awards. The three other honours complete the group tally; they are not three additional grand prizes. [Yonhap: five awards and the two-night winners list](https://en.yna.co.kr/view/AEN20261121001851315)",
+      "The Korea Herald described BTS as the ceremony’s biggest winner. That distinction does not mean the group swept every major category: CORTIS won Song of the Year for REDRED, while ENHYPEN received Fans’ Choice of the Year. MAMA’s four principal grand prizes therefore went to three different groups, even as BTS took two of them. [The Korea Herald: BTS leads the 2026 MAMA tally](https://www.koreaherald.com/article/10944819)",
+      "There is also a difference between an award to BTS and an award involving one of its members. The collaboration honour went to LE SSERAFIM’s SPAGHETTI featuring j-hope. Chapter 2’s winners list records that separately. Folding a member’s collaborative credit into the five group awards would change the scope of the count and obscure what the headline actually measures. [Soompi: November 21 Chapter 2 winners](https://www.soompi.com/article/1889392wpp/winners-of-2026-mama-awards-chapter-2)",
+      "### Why a Top 10 honour is not a chart position",
+      "Best Song Top 10 recognises a set of winning songs within the awards programme. It does not say that SWIM ranked tenth on a weekly chart, nor does it make the song MAMA’s Song of the Year. The latter prize went to REDRED. Similarly, a Fans’ Choice Male Top 10 place is distinct from the overall Fans’ Choice of the Year grand prize. Those distinctions help readers navigate overlapping award names. [Soompi: November 21 Chapter 2 winners](https://www.soompi.com/article/1889392wpp/winners-of-2026-mama-awards-chapter-2)",
+      "The result is substantial without stretching its meaning. BTS were recognised at artist, group, album, song and fan-choice levels. Each describes a different part of the group’s relationship with its audience and the industry, rather than five repetitions of the same judgement.",
+      "## ARIRANG gave the comeback a present-tense identity",
+      "BIGHIT MUSIC identifies ARIRANG as BTS’s fifth studio album, released on March 20, 2026, with 14 tracks. The label frames the project around the group’s identity and emotions after approximately three years and nine months before its full-group return. Its title draws on the Korean folk song tradition, placing the comeback within a cultural vocabulary that extends beyond pop promotion. [BIGHIT MUSIC: ARIRANG album and track information](https://ibighit.com/en/bts/discography/detail/arirang)",
+      "That reference carries its own history. UNESCO describes Arirang as a form of song developed through contributions across generations and recreated in different social settings. Its 2012 inscription for the Republic of Korea recognises a living practice associated with identity, solidarity and community. That heritage belongs to the folk tradition, not to the new album as a UNESCO-designated recording. [UNESCO: Arirang and its living cultural heritage](https://ich.unesco.org/en/decisions/7.COM/11.27)",
+      "The album’s title therefore does two jobs: it locates the group’s roots and introduces a new body of work to an international audience. An awards result cannot explain every listener’s interpretation, but the connection makes clear why ARIRANG is more than a neutral label for a reunion. It invites attention to how a global pop act presents its cultural identity while continuing to change.",
+      "The track list also connects the album award with the song-level recognition. SWIM sits within a wider sequence that includes Body to Body, Hooligan, No. 29 and Into the Sun. BIGHIT’s account describes a range of moods and themes across that sequence. Album of the Year and Best Song Top 10 consequently highlight related work at different scales: an entire release and one song within it. [BIGHIT MUSIC: ARIRANG album and track information](https://ibighit.com/en/bts/discography/detail/arirang)",
+      "## Different trophies use different measures",
+      "The published 2026 criteria help explain why the categories should be read separately. Artist awards combine jury evaluation, recorded consumption and physical sales; Album of the Year gives a larger share to physical album sales alongside jury assessment. Best Song Top 10 is based on streaming and downloads, while Fans’ Choice uses its own voting process. A trophy count summarises the outcome, not one uniform popularity test. [Soompi: 2026 eligibility and category criteria](https://www.soompi.com/article/1877350wpp/2026-mama)",
+      "The eligibility period covered releases from October 1, 2025, through September 30, 2026. ARIRANG’s March release falls within that window. This is why a year-end ceremony can recognise a project that arrived months earlier, after it has had time to reach listeners. The award date, eligibility window and release date answer different questions and should remain visible in a useful recap. [Soompi: 2026 eligibility and category criteria](https://www.soompi.com/article/1877350wpp/2026-mama)",
+      "Those rules also put limits on financial interpretation. Five awards are not five measures of revenue, and they do not establish an audited tour profit or a particular sales total. The meaningful result here is the breadth of recognition across distinct categories. Turning it into an unsupported money figure would add noise to a well-documented musical achievement.",
+      "## A video message from a group still on tour",
+      "Yonhap reported that BTS did not attend the Osaka ceremony because of its world tour and instead sent a video message. The official BIGHIT tour schedule lists Kaohsiung dates on November 19, 21 and 22. The schedule supplies context for the group’s touring commitments; the dated awards report supplies the account of its absence and message. A supplied group image should not be mistaken for proof of an Osaka appearance. [Yonhap: five awards and the two-night winners list](https://en.yna.co.kr/view/AEN20261121001851315) [BIGHIT MUSIC: official ARIRANG tour schedule](https://ibighit.com/en/bts/tour/)",
+      "That distance between the stage presenting an award and the artists receiving it reflects the scale of the group’s current activity. For fans, an acceptance message can connect an awards broadcast with an ongoing tour. For a news report, the important point is simpler: the recognition was real even though the group were not physically at the ceremony.",
+      "## A leading result within a wider K-pop field",
+      "The weekend combined established acts and newer contenders. BTS’s two grand prizes sat alongside a Song of the Year win for CORTIS and another fan-choice grand prize for ENHYPEN. Reading those outcomes together gives a fuller picture than treating the entire event as a single act’s victory lap. The five-award headline remains accurate while allowing other artists’ achievements to retain their own meaning. [The Korea Herald: BTS leads the 2026 MAMA tally](https://www.koreaherald.com/article/10944819)",
+      "PRESDA’s [report on Faouzia’s U.S. Hot 100 debut](/articles/faouzia-unethical-us-billboard-hot-100-debut-95/) offers another example of a musical milestone whose importance depends on naming the precise recognition. For BTS, the verified conclusion is clear: five group awards across November 20–21, with Artist of the Year and ARIRANG’s Album of the Year providing the two grand-prize highlights."
+    ],
+    "references": [
+      {
+        "name": "Yonhap: five awards and the two-night winners list",
+        "url": "https://en.yna.co.kr/view/AEN20261121001851315"
+      },
+      {
+        "name": "CJ ENM: official November 20–21 dates and Osaka venue",
+        "url": "https://www.cjenm.com/en/news/2026-mama-awards-to-take-place-in-japan---from-november-2021/"
+      },
+      {
+        "name": "The Korea Herald: BTS leads the 2026 MAMA tally",
+        "url": "https://www.koreaherald.com/article/10944819"
+      },
+      {
+        "name": "BIGHIT MUSIC: ARIRANG album and track information",
+        "url": "https://ibighit.com/en/bts/discography/detail/arirang"
+      },
+      {
+        "name": "Soompi: 2026 eligibility and category criteria",
+        "url": "https://www.soompi.com/article/1877350wpp/2026-mama"
+      },
+      {
+        "name": "Soompi: November 21 Chapter 2 winners",
+        "url": "https://www.soompi.com/article/1889392wpp/winners-of-2026-mama-awards-chapter-2"
+      },
+      {
+        "name": "BIGHIT MUSIC: official ARIRANG tour schedule",
+        "url": "https://ibighit.com/en/bts/tour/"
+      },
+      {
+        "name": "UNESCO: Arirang and its living cultural heritage",
+        "url": "https://ich.unesco.org/en/decisions/7.COM/11.27"
+      }
+    ],
+    "relatedSlugs": [
+      "faouzia-unethical-us-billboard-hot-100-debut-95"
+    ],
+    "faq": [
+      {
+        "question": "When were the 2026 MAMA Awards held?",
+        "answer": "The ceremony took place at Kyocera Dome Osaka in Japan on November 20 and 21, 2026. BTS’s final five-award tally was completed on November 21."
+      },
+      {
+        "question": "Which two grand prizes did BTS win?",
+        "answer": "BTS won Artist of the Year on November 20 and Album of the Year for ARIRANG on November 21."
+      },
+      {
+        "question": "What were the other three BTS group awards?",
+        "answer": "Best Male Group, Fans’ Choice Male Top 10 and Best Song Top 10 for SWIM completed the five group awards."
+      },
+      {
+        "question": "Did BTS attend the ceremony in Osaka?",
+        "answer": "Yonhap reported that the group were absent because of their world tour and delivered a video message. The supplied hero is not authenticated as photography of the 2026 Osaka ceremony."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "547",
     "slug": "levi-mcconaughey-hollywood-films-lost-bus-warrior-kid",
     "title": "LEVI MCCONAUGHEY: MATTHEW MCCONAUGHEY’S SON STEPS INTO THE HOLLYWOOD SPOTLIGHT",
