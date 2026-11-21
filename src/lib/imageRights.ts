@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/guatemala-el-mirador-maya-stucco-heads-2026.jpg","/articles/beyonce-100-grammy-nominations-morning-dew-2027.jpg","/articles/rafael-nadal-real-madrid-board-directors-2026.jpg","/articles/inca-mummies-coca-alcohol-harmine-sacrifice-study-2026.jpg","/articles/avril-lavigne-first-child-baby-girl-november-2026.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/turkiye-first-three-kizilelma-unmanned-fighter-jets-2026.jpg","/articles/makkah-clock-tower-guinness-highest-museum-observation-deck.jpg","/articles/bali-ganesha-synthetic-rattan-sculpture-world-record.jpg","/articles/mauritius-telecom-innovation-award-africa-tech-festival-2026.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/bts-mama-awards-2026-five-wins-two-grand-prizes.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/levi-mcconaughey-hollywood-films-lost-bus-warrior-kid.jpg","/articles/brahim-diaz-real-madrid-contract-2031-report.jpg","/articles/keanu-reeves-arch-motorcycle-gard-hollinger-business.jpg","/articles/gerard-pique-kings-league-entrepreneur-kosmos.jpg","/articles/didier-drogba-africa-education-health-foundation-legacy.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

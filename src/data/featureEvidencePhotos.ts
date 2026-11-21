@@ -15,6 +15,111 @@ type EvidencePhoto = {
 };
 
 const evidence: Partial<Record<string, EvidencePhoto>> = {
+"guatemala-el-mirador-maya-stucco-heads-2026": {
+  "afterBlock": 12,
+  "file": "nov22five-maya-facts-en.png",
+  "localizedFiles": {
+    "en": "nov22five-maya-facts-en.png",
+    "fr": "nov22five-maya-facts-fr.png",
+    "ar": "nov22five-maya-facts-ar.png",
+    "es": "nov22five-maya-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://agn.gt/hallazgos-en-el-mirador-revelan-avances-de-la-civilizacion-maya",
+  "credit": "PRESDA · agn.gt / mesoweb.com / channelnewsasia.com / dca.gob.gt / lahora.gt / maya.nmai.si.edu",
+  "license": null,
+  "captions": {
+    "en": "The El Mirador heads: dates and evidence",
+    "fr": "Les têtes d’El Mirador : dates et indices",
+    "ar": "رؤوس إل ميرادور: تواريخ وأدلة",
+    "es": "Las cabezas de El Mirador: fechas y evidencias"
+  }
+},
+"beyonce-100-grammy-nominations-morning-dew-2027": {
+  "afterBlock": 12,
+  "file": "nov22five-beyonce-facts-en.png",
+  "localizedFiles": {
+    "en": "nov22five-beyonce-facts-en.png",
+    "fr": "nov22five-beyonce-facts-fr.png",
+    "ar": "nov22five-beyonce-facts-ar.png",
+    "es": "nov22five-beyonce-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.grammy.com/news/who-has-the-most-grammy-nominations-at-the-2027-grammys/",
+  "credit": "PRESDA · grammy.com / sonymusic.ca / media.grammy.net",
+  "license": null,
+  "captions": {
+    "en": "Beyoncé’s Grammy milestone: the essential dates",
+    "fr": "Le cap des Grammys de Beyoncé : les repères",
+    "ar": "إنجاز بيونسيه في غرامي: التواريخ الأساسية",
+    "es": "El hito de Beyoncé en los Grammy: datos esenciales"
+  }
+},
+"rafael-nadal-real-madrid-board-directors-2026": {
+  "afterBlock": 12,
+  "file": "nov22five-nadal-facts-en.png",
+  "localizedFiles": {
+    "en": "nov22five-nadal-facts-en.png",
+    "fr": "nov22five-nadal-facts-fr.png",
+    "ar": "nov22five-nadal-facts-ar.png",
+    "es": "nov22five-nadal-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.realmadrid.com/en-US/news/club/latest-news/rafa-nadal-miembro-de-la-junta-directiva-del-real-madrid-21-11-2026",
+  "credit": "PRESDA · realmadrid.com / atptour.com / rafanadalacademy.com / telefonica.com",
+  "license": null,
+  "captions": {
+    "en": "Rafael Nadal and Real Madrid: the confirmed sequence",
+    "fr": "Rafael Nadal et le Real Madrid : les étapes confirmées",
+    "ar": "رافاييل نادال وريال مدريد: التسلسل المؤكد",
+    "es": "Rafael Nadal y el Real Madrid: la secuencia confirmada"
+  }
+},
+"inca-mummies-coca-alcohol-harmine-sacrifice-study-2026": {
+  "afterBlock": 12,
+  "file": "nov22five-inca-facts-en.png",
+  "localizedFiles": {
+    "en": "nov22five-inca-facts-en.png",
+    "fr": "nov22five-inca-facts-fr.png",
+    "ar": "nov22five-inca-facts-ar.png",
+    "es": "nov22five-inca-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386",
+  "credit": "PRESDA · cambridge.org / doi.org / whc.unesco.org / saa.org",
+  "license": null,
+  "captions": {
+    "en": "Inca toxicology: findings and their limits",
+    "fr": "Toxicologie inca : résultats et limites",
+    "ar": "سموم مومياوات الإنكا: نتائج وحدود",
+    "es": "Toxicología inca: resultados y límites"
+  }
+},
+"avril-lavigne-first-child-baby-girl-november-2026": {
+  "afterBlock": 12,
+  "file": "nov22five-avril-facts-en.png",
+  "localizedFiles": {
+    "en": "nov22five-avril-facts-en.png",
+    "fr": "nov22five-avril-facts-fr.png",
+    "ar": "nov22five-avril-facts-ar.png",
+    "es": "nov22five-avril-facts-es.png"
+  },
+  "width": 760,
+  "height": 1130,
+  "source": "https://www.goodmorningamerica.com/culture/story/avril-lavigne-announces-birth-1st-child-daughter-138113798",
+  "credit": "PRESDA · goodmorningamerica.com / ca.rollingstone.com / grammy.com / sonymusic.ca / store.avrillavigne.com / walkoffame.com",
+  "license": null,
+  "captions": {
+    "en": "Avril Lavigne: career context and the family announcement",
+    "fr": "Avril Lavigne : la carrière et l’annonce familiale",
+    "ar": "أفريل لافين: المسيرة والإعلان العائلي",
+    "es": "Avril Lavigne: trayectoria y anuncio familiar"
+  }
+},
 "turkiye-first-three-kizilelma-unmanned-fighter-jets-2026": {
   "afterBlock": 12,
   "file": "world4-kizilelma-facts-en.png",

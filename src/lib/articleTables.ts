@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NOV22FIVE_557]]": {
+    "caption": "The El Mirador heads: dates and evidence",
+    "headers": [
+      "Date or period",
+      "What it establishes"
+    ],
+    "rows": [
+      [
+        "About 650–850 CE",
+        "Late Classic context in the excavation report"
+      ],
+      [
+        "2013 onward",
+        "Continuing recovery of heads and fragments"
+      ],
+      [
+        "November 18, 2026",
+        "Public research presentation in Guatemala"
+      ],
+      [
+        "November 19, 2026",
+        "Reuters documented restoration work"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV22FIVE_558]]": {
+    "caption": "Beyoncé’s Grammy milestone: the essential dates",
+    "headers": [
+      "Date or total",
+      "Confirmed context"
+    ],
+    "rows": [
+      [
+        "100 nominations",
+        "Career total after the 2027 nominations"
+      ],
+      [
+        "35 wins",
+        "Completed career Grammy victories"
+      ],
+      [
+        "November 16, 2026",
+        "Milestone nomination announced"
+      ],
+      [
+        "February 7, 2027",
+        "Scheduled 69th Grammy Awards ceremony"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV22FIVE_559]]": {
+    "caption": "Rafael Nadal and Real Madrid: the confirmed sequence",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "2011",
+        "Nadal became an honorary Real Madrid member"
+      ],
+      [
+        "November 19, 2024",
+        "Final professional tennis match"
+      ],
+      [
+        "November 4, 2026",
+        "Board submitted his appointment for ratification"
+      ],
+      [
+        "November 21, 2026",
+        "Assembly approved his board appointment"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV22FIVE_560]]": {
+    "caption": "Inca toxicology: findings and their limits",
+    "headers": [
+      "Evidence",
+      "Careful interpretation"
+    ],
+    "rows": [
+      [
+        "Cocaine and benzoylecgonine",
+        "Coca use in the analyzed hair samples"
+      ],
+      [
+        "Cocaethylene",
+        "Combined exposure at Chuscha and Llullaillaco"
+      ],
+      [
+        "Harmine in an Ampato nail sample",
+        "Small signal; contamination caveat"
+      ],
+      [
+        "No detected N,N-DMT",
+        "Does not establish a complete drink recipe"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NOV22FIVE_561]]": {
+    "caption": "Avril Lavigne: career context and the family announcement",
+    "headers": [
+      "Date",
+      "Confirmed milestone"
+    ],
+    "rows": [
+      [
+        "2002",
+        "Let Go introduced her breakthrough songs"
+      ],
+      [
+        "2022",
+        "Love Sux and Hollywood Walk of Fame recognition"
+      ],
+      [
+        "June 21, 2024",
+        "First Greatest Hits collection released"
+      ],
+      [
+        "November 13, 2026",
+        "First daughter’s arrival publicly announced"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[WORLD4_553]]": {
     "caption": "KIZILELMA: milestones before the first delivery",
     "headers": [

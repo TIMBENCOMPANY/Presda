@@ -1,6 +1,496 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "557",
+    "slug": "guatemala-el-mirador-maya-stucco-heads-2026",
+    "title": "GUATEMALA UNVEILS ANCIENT MAYA STUCCO HEADS FROM EL MIRADOR",
+    "seoTitle": "Guatemala’s Maya stucco heads: the El Mirador discoveries",
+    "metaDescription": "Guatemala presented restored Maya stucco heads on November 18, 2026. Explore their Late Classic origins, excavation history and conservation.",
+    "excerpt": "Guatemala presented restored Maya stucco heads on November 18, 2026. Explore their Late Classic origins, excavation history and conservation.",
+    "category": "History",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-21",
+    "lastUpdated": "2026-11-21",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/guatemala-el-mirador-maya-stucco-heads-2026.jpg",
+    "coverAlt": "Supplied editorial visual showing three Maya-style sculpted heads with surviving colors against a dark background",
+    "headlineHighlights": {
+      "red": "GUATEMALA",
+      "gold": "MAYA STUCCO HEADS"
+    },
+    "tags": [
+      "GUATEMALA",
+      "History"
+    ],
+    "content": [
+      "The faces seem unexpectedly immediate: pursed mouths, carefully shaped eyes, traces of color and features that refuse to settle into a single expression. Guatemala’s latest presentation of Maya stucco heads from El Mirador has brought that artistry back into public view. The event, held on November 18, 2026, concerns an archaeological collection recovered and conserved over years, not a cache all unearthed this month. The sculptures also belong to a later chapter of El Mirador’s history than the enormous Preclassic monuments for which the ancient city is best known. [AGN: November 2026 El Mirador research presentation](https://agn.gt/hallazgos-en-el-mirador-revelan-avances-de-la-civilizacion-maya)[Mauricio, Hansen and Guenter: Casa del Coral excavation report, 2016](https://www.mesoweb.com/Simposio/pdf/29/Mauricio_et_al.2016.pdf)",
+      "Their significance lies in the connection between objects and place. These are not simply isolated portraits attractive enough for a museum case. Excavation records connect heads and other modeled fragments to Casa del Coral, a group of buildings east of the La Danta complex in northern Guatemala’s Petén region. The evidence offers a way to examine how Maya communities represented authority, ancestors and supernatural beings through architectural decoration. It also makes the restoration laboratory part of the historical investigation. [Mauricio, Hansen and Guenter: Casa del Coral excavation report, 2016](https://www.mesoweb.com/Simposio/pdf/29/Mauricio_et_al.2016.pdf)",
+      "[[NOV22FIVE_557]]",
+      "## What Guatemala actually presented in November",
+      "INGUAT, Guatemala’s tourism institute, and the Mirador Basin archaeological project organized the presentation known as Los rostros del Mirador. The government’s Diario de Centro América reported on the November 18 conference, while Reuters documented restored pieces and conservators working in Guatemala City on November 19. Those dates describe the public presentation and subsequent reporting. They should not be mistaken for the day every head was excavated or the opening of a newly announced permanent exhibition. [Diario de Centro América: November 18 presentation and restoration](https://dca.gob.gt/noticias-guatemala-diario-centro-america/inguat-y-proyecto-cuenca-el-mirador-presentan-hallazgos-mayas-del-preclasico/)[Reuters via CNA: restored heads and November 19 laboratory reporting](https://www.channelnewsasia.com/business/maya-stucco-heads-offer-glimpse-ancient-artistry-in-guatemala-6567456)",
+      "The scale requires similar care. Archaeologist Douglas Mauricio Martínez told La Hora that work since 2013 had recovered between 42 and 43 sculptures, counting complete examples and fragments. A rounded description of about 40 pieces captures the scale; calling them 43 complete, newly discovered heads would not. Some recovered examples have reached Guatemala’s National Museum of Archaeology and Ethnology, while others remain under restoration. The changing total reflects continuing fieldwork and conservation rather than a single sealed deposit suddenly revealed. [La Hora: collection accumulated since 2013 and interpretive context](https://lahora.gt/nacionales/hloarca/2026/11/19/la-historia-del-hallazgo-de-la-cabeza-del-dios-de-la-muerte-encontrada-al-norte-de-peten-now/)",
+      "## Casa del Coral and the importance of archaeological context",
+      "A published excavation report by Douglas Mauricio, Richard Hansen and Stanley Guenter provides an essential historical anchor. Presented at Guatemala’s 2015 archaeological symposium and published in 2016, it discusses modeled stucco sculptures associated with Casa del Coral and dates their context to the Late Classic, approximately 650–850 CE. That earlier research demonstrates that the assemblage was already being studied well before the current news cycle. November’s presentation is a new opportunity to understand a continuing project. [Mauricio, Hansen and Guenter: Casa del Coral excavation report, 2016](https://www.mesoweb.com/Simposio/pdf/29/Mauricio_et_al.2016.pdf)",
+      "### A face is not automatically an identified ruler",
+      "The excavators interpreted the sculpture as part of a mythological scene involving deities and ancestors associated with the ruling class. Recent accounts also discuss authority and prominent individuals. These ideas need not reduce every head to a named historical person. An expression can suggest age, character or supernatural attributes, but the identity of a particular figure depends on its context and supporting evidence. A compelling resemblance to a modern character is not an archaeological identification. [Mauricio, Hansen and Guenter: Casa del Coral excavation report, 2016](https://www.mesoweb.com/Simposio/pdf/29/Mauricio_et_al.2016.pdf)[Reuters via CNA: restored heads and November 19 laboratory reporting](https://www.channelnewsasia.com/business/maya-stucco-heads-offer-glimpse-ancient-artistry-in-guatemala-6567456)",
+      "## How Maya artists built expression in stucco",
+      "Stucco offered a sculptural language distinct from cutting a face into a stone block. The form was modeled, allowing artisans to build projecting features, work around the eyes and mouth and establish the head’s relationship to a larger composition. Surviving pigments are therefore part of the evidence, not incidental decoration. They remind viewers that much ancient architecture and sculpture looked different when color and surface treatments remained intact. The supplied hero presents three sculpted heads, but is not authenticated as a photograph of the November event. [Mauricio, Hansen and Guenter: Casa del Coral excavation report, 2016](https://www.mesoweb.com/Simposio/pdf/29/Mauricio_et_al.2016.pdf)",
+      "Conservator Lilian Vega de Zea described a collaborative production process in Reuters’ reporting, involving the preparation of pigments, the mixing of stucco and the modeling of the head. Her account directs attention away from a solitary anonymous genius and toward organized craft. The result depended on materials, skilled hands and shared visual conventions. Faces were made to communicate within a society that understood their setting, even when that original visual vocabulary is only partly recoverable today. [Reuters via CNA: restored heads and November 19 laboratory reporting](https://www.channelnewsasia.com/business/maya-stucco-heads-offer-glimpse-ancient-artistry-in-guatemala-6567456)",
+      "## Conservation is part of the discovery",
+      "Restoration begins with a difficult distinction: what survives, what can be securely joined and what remains uncertain. Diario de Centro América reported Vega’s description of heads arriving in disaggregated condition and of some restorations taking as long as a year. That timescale explains why a field discovery may become public news much later. A recognizable face can emerge only after patient work on fragments that initially look disconnected. [Diario de Centro América: November 18 presentation and restoration](https://dca.gob.gt/noticias-guatemala-diario-centro-america/inguat-y-proyecto-cuenca-el-mirador-presentan-hallazgos-mayas-del-preclasico/)",
+      "### Why a beautiful surface cannot tell the whole story",
+      "A restored object is easier to read, but the excavation record remains indispensable. Fragment locations, associated material and the building’s construction help reconstruct the circumstances in which the sculpture was used and eventually displaced. Documentation allows later researchers to revisit an interpretation rather than rely on appearance alone. In the Casa del Coral report, architectural observations and associated ceramics form part of the argument for the Late Classic context. The face and its recorded surroundings belong in the same historical account. [Mauricio, Hansen and Guenter: Casa del Coral excavation report, 2016](https://www.mesoweb.com/Simposio/pdf/29/Mauricio_et_al.2016.pdf)",
+      "## El Mirador had more than one historical life",
+      "El Mirador’s famous monumental landscape is associated with the Preclassic Maya world, but the heads complicate a simple story of an early city that rose and vanished forever. The Casa del Coral evidence instead illuminates later occupation and artistic production. Archaeological sites can contain buildings, repairs, deposits and reused spaces from different periods. The most imposing monument does not automatically provide the date for every object recovered nearby. Keeping those phases separate changes how the wider city is understood. [AGN: November 2026 El Mirador research presentation](https://agn.gt/hallazgos-en-el-mirador-revelan-avances-de-la-civilizacion-maya)[Mauricio, Hansen and Guenter: Casa del Coral excavation report, 2016](https://www.mesoweb.com/Simposio/pdf/29/Mauricio_et_al.2016.pdf)",
+      "This is also why the terminology in broad presentation headlines can mislead. A conference discussing the Mirador Basin’s Preclassic settlements may include objects from a later phase. The age assigned to the heads should follow their specific archaeological context. Reuters describes the displayed sculptures as dating to the seventh and eighth centuries; the earlier Casa del Coral publication gives a broader Late Classic range. Both place this sculptural tradition centuries after the city’s celebrated early monumental development. [Reuters via CNA: restored heads and November 19 laboratory reporting](https://www.channelnewsasia.com/business/maya-stucco-heads-offer-glimpse-ancient-artistry-in-guatemala-6567456)[Mauricio, Hansen and Guenter: Casa del Coral excavation report, 2016](https://www.mesoweb.com/Simposio/pdf/29/Mauricio_et_al.2016.pdf)",
+      "## What landscape technology adds, and what it cannot answer",
+      "The government’s presentation situated the sculptures within wider research on the Mirador Basin, including LiDAR mapping of ancient settlement and infrastructure. LiDAR uses laser measurements to help reconstruct land surfaces and detect patterns beneath vegetation. It can reveal relationships between buildings and routes that are difficult to recognize from ground level. It does not itself identify a deity, determine the age of a pigment or replace excavation and conservation. Landscape mapping and object analysis answer complementary questions. [AGN: November 2026 El Mirador research presentation](https://agn.gt/hallazgos-en-el-mirador-revelan-avances-de-la-civilizacion-maya)",
+      "The larger story is one of continuing knowledge rather than a civilization reduced to mysterious ruins. The Smithsonian’s Living Maya Time project foregrounds contemporary Maya voices and enduring, changing traditions. Ancient sculpture belongs within that longer human history. For more context on the cities, calendars and political worlds behind these objects, read [PRESDA’s history of Maya civilization](/articles/maya-civilization-history-cities-calendar-astronomy/). El Mirador’s restored faces matter because they make a particular historical world more legible while leaving room for evidence that has yet to be understood. [Smithsonian National Museum of the American Indian: Living Maya Time](https://maya.nmai.si.edu/)"
+    ],
+    "references": [
+      {
+        "name": "AGN: November 2026 El Mirador research presentation",
+        "url": "https://agn.gt/hallazgos-en-el-mirador-revelan-avances-de-la-civilizacion-maya"
+      },
+      {
+        "name": "Mauricio, Hansen and Guenter: Casa del Coral excavation report, 2016",
+        "url": "https://www.mesoweb.com/Simposio/pdf/29/Mauricio_et_al.2016.pdf"
+      },
+      {
+        "name": "Reuters via CNA: restored heads and November 19 laboratory reporting",
+        "url": "https://www.channelnewsasia.com/business/maya-stucco-heads-offer-glimpse-ancient-artistry-in-guatemala-6567456"
+      },
+      {
+        "name": "Diario de Centro América: November 18 presentation and restoration",
+        "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/inguat-y-proyecto-cuenca-el-mirador-presentan-hallazgos-mayas-del-preclasico/"
+      },
+      {
+        "name": "La Hora: collection accumulated since 2013 and interpretive context",
+        "url": "https://lahora.gt/nacionales/hloarca/2026/11/19/la-historia-del-hallazgo-de-la-cabeza-del-dios-de-la-muerte-encontrada-al-norte-de-peten-now/"
+      },
+      {
+        "name": "Smithsonian National Museum of the American Indian: Living Maya Time",
+        "url": "https://maya.nmai.si.edu/"
+      }
+    ],
+    "relatedSlugs": [
+      "maya-civilization-history-cities-calendar-astronomy"
+    ],
+    "faq": [
+      {
+        "question": "Were all the Maya heads discovered in November 2026?",
+        "answer": "No. The November presentation described a collection accumulated through years of research and restoration, with recoveries reported since 2013."
+      },
+      {
+        "question": "Where did the sculptures come from?",
+        "answer": "They are associated with Casa del Coral at El Mirador in Guatemala’s Petén region, east of the La Danta complex."
+      },
+      {
+        "question": "How old are the heads?",
+        "answer": "The published Casa del Coral report places the sculptural context in the Late Classic, approximately 650–850 CE. Recent Reuters reporting describes displayed examples as seventh- and eighth-century works."
+      },
+      {
+        "question": "Are the heads stone carvings?",
+        "answer": "The reported sculptures are modeled stucco with surviving pigments. Their archaeological context and restoration records are essential to interpreting them."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "558",
+    "slug": "beyonce-100-grammy-nominations-morning-dew-2027",
+    "title": "BEYONCÉ BECOMES THE FIRST ARTIST TO REACH 100 GRAMMY NOMINATIONS",
+    "seoTitle": "Beyoncé reaches 100 Grammy nominations with Morning Dew",
+    "metaDescription": "Beyoncé reached 100 career Grammy nominations on November 16, 2026. The song, category, 35 wins and 2027 ceremony explained.",
+    "excerpt": "Beyoncé reached 100 career Grammy nominations on November 16, 2026. The song, category, 35 wins and 2027 ceremony explained.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-21",
+    "lastUpdated": "2026-11-21",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/beyonce-100-grammy-nominations-morning-dew-2027.jpg",
+    "coverAlt": "Supplied editorial portrait of Beyoncé beside a Grammy-style trophy, not authenticated ceremony photography",
+    "headlineHighlights": {
+      "red": "BEYONCÉ",
+      "gold": "100 GRAMMY NOMINATIONS"
+    },
+    "tags": [
+      "BEYONCÉ",
+      "Paparazzi"
+    ],
+    "content": [
+      "Beyoncé has become the first artist to reach 100 career Grammy nominations. The milestone arrived with the nominations announced on November 16, 2026, for the 2027 Grammy Awards, when MORNING DEW (DONK) earned a place in Best R&B Solo Performance. The Recording Academy’s official artist record now lists 100 nominations and 35 wins. Those are two different measures: this is a nomination milestone, not a hundredth victory, and the newly nominated performance has not yet been awarded a 2027 Grammy. [Recording Academy: first artist to reach 100 nominations](https://www.grammy.com/news/who-has-the-most-grammy-nominations-at-the-2027-grammys/)[Recording Academy: Morning Dew nomination record](https://www.grammy.com/songs/morning-dew-donk/)[Recording Academy: Beyoncé’s career nominations and wins](https://www.grammy.com/artists/beyonce-knowles/12474/)",
+      "The number joins several eras of her career in a single statistic. Her Grammy history begins with Destiny’s Child, extends through a solo catalog that reshaped contemporary R&B and pop, and includes work recognized in dance, rap, country and other fields. Yet this particular nomination looks backward as well as forward. Its recording became part of the twentieth-anniversary celebration of B’Day, connecting a current awards cycle with the creative world of an album first released in 2006. [Recording Academy: Beyoncé’s career nominations and wins](https://www.grammy.com/artists/beyonce-knowles/12474/)[Sony Music: B’Day twentieth-anniversary release, September 2026](https://www.sonymusic.ca/press_release/beyonce-marks-her-birthday-with-the-release-of-a-remastered-deluxe-bday-album)",
+      "[[NOV22FIVE_558]]",
+      "## The precise meaning of 100 nominations",
+      "The Academy identifies Beyoncé as the first artist to reach the threshold and the most-nominated artist in Grammy history. The decisive new entry is the 2027 Best R&B Solo Performance nomination for MORNING DEW (DONK). It adds one to her previous career total, rather than describing a spectacular sweep of 100 categories in the current year. That distinction matters whenever a career record circulates through short social posts stripped of the event date and category. [Recording Academy: first artist to reach 100 nominations](https://www.grammy.com/news/who-has-the-most-grammy-nominations-at-the-2027-grammys/)[Recording Academy: Morning Dew nomination record](https://www.grammy.com/songs/morning-dew-donk/)",
+      "The nomination belongs to the 69th annual ceremony, scheduled for February 7, 2027, at Crypto.com Arena in Los Angeles. Its announcement took place in 2026 because nominations precede the awards show. Calling it a nomination at the 2027 Grammys is accurate; saying she won the category in November would collapse two separate stages of the process. The result remains open at the time of publication. [Recording Academy: 2027 nominations announcement and ceremony date](https://media.grammy.net/uploads/2026/11/2027_grammys_nominations_final.pdf)",
+      "## Morning Dew links an archive to a current awards cycle",
+      "Sony Music’s September 2026 announcement explains the recording’s route into the B’Day anniversary project. MORNING DEW (DONK) accompanied the anniversary news on July 4, with a remix featuring Jay-Z following on August 4. The remastered B’Day anniversary edition arrived on September 4. The new Grammy nomination concerns the solo performance listed by the Academy, so the separate remix should not be treated as a joint Grammy nomination for the couple. [Sony Music: B’Day twentieth-anniversary release, September 2026](https://www.sonymusic.ca/press_release/beyonce-marks-her-birthday-with-the-release-of-a-remastered-deluxe-bday-album)[Recording Academy: Morning Dew nomination record](https://www.grammy.com/songs/morning-dew-donk/)",
+      "### A reissue is more than a date on a calendar",
+      "Anniversary releases can make familiar catalogs newly visible through revised presentation, previously unavailable recordings and reconsidered context. Sony’s account describes remastered music and refreshed visuals alongside Spanish-language material and other additions. The historical album and the current release campaign are related, but they are not the same event. The nomination demonstrates how a recording associated with an older creative period can enter an awards conversation years later when it reaches the public in an eligible release. [Sony Music: B’Day twentieth-anniversary release, September 2026](https://www.sonymusic.ca/press_release/beyonce-marks-her-birthday-with-the-release-of-a-remastered-deluxe-bday-album)",
+      "## From Destiny’s Child to a solo awards history",
+      "The Academy’s biography traces Beyoncé’s early prominence with Destiny’s Child and her 2003 solo debut, Dangerously in Love. That history explains why the career total should not be calculated by simply adding the awards attached to a handful of solo albums. Her record includes performances, collaborations and credited work across a much longer trajectory. The Academy’s artist ledger supplies the relevant accounting, while the albums provide the artistic and cultural context behind the arithmetic. [Recording Academy: Beyoncé’s career nominations and wins](https://www.grammy.com/artists/beyonce-knowles/12474/)",
+      "The more interesting pattern is sustained recognition through changing musical approaches. A nomination for a vocal performance is not interchangeable with an award recognizing an album, songwriting or a video. Different categories spotlight different elements of musical work and sometimes different credited contributors. Treating all nominations as identical units is useful for a historical total, but it cannot fully explain how a particular recording was made or why it resonated. [Recording Academy: 69th Grammy Awards voting rulebook](https://media.grammy.net/uploads/2026/06/69_Rulebook_06112026-FINAL2.pdf)",
+      "## Why 35 wins remain a separate landmark",
+      "In 2023, Beyoncé became the artist with the most Grammy wins when her total reached 32. The Academy’s current record lists 35. In 2025, Cowboy Carter won Album of the Year, Best Country Album and Best Country Duo/Group Performance for II MOST WANTED with Miley Cyrus. The Album of the Year award was her first in that category. These are completed results, unlike the still-pending 2027 solo-performance nomination. [Recording Academy: Beyoncé’s career nominations and wins](https://www.grammy.com/artists/beyonce-knowles/12474/)[Recording Academy: 2025 Album of the Year result](https://www.grammy.com/awards/categories/album-of-the-year/2025/)",
+      "### Genre breadth does not erase the individual work",
+      "Renaissance and Cowboy Carter occupy different places in the catalog, just as the Academy’s R&B, dance and country categories recognize different musical traditions. The record is therefore more revealing when read as a history of projects than as a contest to maximize a score. A large total can demonstrate longevity and range without making every award equivalent or turning institutional recognition into the sole measure of an artist’s influence. [Recording Academy: Beyoncé’s career nominations and wins](https://www.grammy.com/artists/beyonce-knowles/12474/)",
+      "## How Grammy nominations differ from popularity votes",
+      "The Grammys use an industry voting process governed by the Recording Academy’s rules. Eligible entries, screening, nomination voting and final voting are distinct stages. The Academy describes voting members as music professionals; ordinary listeners do not simply click a public fan poll to choose these winners. That does not make audience response irrelevant to a musical career, but it identifies the institution responsible for the nomination and the process through which an award is decided. [Recording Academy: 69th Grammy Awards voting rulebook](https://media.grammy.net/uploads/2026/06/69_Rulebook_06112026-FINAL2.pdf)[Recording Academy: 2027 nominations announcement and ceremony date](https://media.grammy.net/uploads/2026/11/2027_grammys_nominations_final.pdf)",
+      "Category names also deserve precision. The official 2027 entry says Best R&B Solo Performance. It should not be rewritten as Song of the Year, Best R&B Song or a general R&B award, since those labels refer to different categories or scopes. Search-friendly reporting can still retain the proper name and explain it in plain language. The central answer is uncomplicated: the milestone nomination recognizes Beyoncé’s listed solo recording of MORNING DEW (DONK). [Recording Academy: Morning Dew nomination record](https://www.grammy.com/songs/morning-dew-donk/)",
+      "## What happens next",
+      "The Academy’s announcement schedules the 2027 ceremony for February 7 and identifies ABC, Disney+ and Hulu as its broadcast and streaming outlets. A nomination does not establish an upcoming performance, attendance or acceptance speech, and those details should follow separate official announcements. For now, the confirmed development is the career record and the category in which it was reached. The hero supplied for this article is an editorial portrait, not evidence of a new trophy presentation. [Recording Academy: 2027 nominations announcement and ceremony date](https://media.grammy.net/uploads/2026/11/2027_grammys_nominations_final.pdf)",
+      "Beyond the stage, Beyoncé’s public work also includes projects in her home city. [PRESDA’s reporting on the Knowles-Rowland housing initiative in Houston](/articles/beyonce-kelly-rowland-houston-knowles-rowland-house/) examines that separate part of her influence. The Grammy record does not summarize an entire career, but it does provide a clear historical marker: 100 nominations across decades, 35 completed wins and one newly nominated R&B solo performance awaiting the next ceremony. [Recording Academy: Beyoncé’s career nominations and wins](https://www.grammy.com/artists/beyonce-knowles/12474/)"
+    ],
+    "references": [
+      {
+        "name": "Recording Academy: first artist to reach 100 nominations",
+        "url": "https://www.grammy.com/news/who-has-the-most-grammy-nominations-at-the-2027-grammys/"
+      },
+      {
+        "name": "Recording Academy: Morning Dew nomination record",
+        "url": "https://www.grammy.com/songs/morning-dew-donk/"
+      },
+      {
+        "name": "Recording Academy: Beyoncé’s career nominations and wins",
+        "url": "https://www.grammy.com/artists/beyonce-knowles/12474/"
+      },
+      {
+        "name": "Sony Music: B’Day twentieth-anniversary release, September 2026",
+        "url": "https://www.sonymusic.ca/press_release/beyonce-marks-her-birthday-with-the-release-of-a-remastered-deluxe-bday-album"
+      },
+      {
+        "name": "Recording Academy: 69th Grammy Awards voting rulebook",
+        "url": "https://media.grammy.net/uploads/2026/06/69_Rulebook_06112026-FINAL2.pdf"
+      },
+      {
+        "name": "Recording Academy: 2027 nominations announcement and ceremony date",
+        "url": "https://media.grammy.net/uploads/2026/11/2027_grammys_nominations_final.pdf"
+      },
+      {
+        "name": "Recording Academy: 2025 Album of the Year result",
+        "url": "https://www.grammy.com/awards/categories/album-of-the-year/2025/"
+      }
+    ],
+    "relatedSlugs": [
+      "beyonce-kelly-rowland-houston-knowles-rowland-house"
+    ],
+    "faq": [
+      {
+        "question": "Has Beyoncé won 100 Grammy Awards?",
+        "answer": "No. The Academy lists 100 career nominations and 35 wins. Nominations and victories are separate totals."
+      },
+      {
+        "question": "Which song brought Beyoncé to 100 nominations?",
+        "answer": "MORNING DEW (DONK), nominated for Best R&B Solo Performance at the 2027 Grammys."
+      },
+      {
+        "question": "When was the milestone announced?",
+        "answer": "The 2027 nominations were announced on November 16, 2026. The ceremony is scheduled for February 7, 2027."
+      },
+      {
+        "question": "Is the Jay-Z remix the nominated recording?",
+        "answer": "The Academy’s entry is Beyoncé’s solo performance. Sony separately described a remix featuring Jay-Z in the anniversary release campaign."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "559",
+    "slug": "rafael-nadal-real-madrid-board-directors-2026",
+    "title": "RAFAEL NADAL JOINS REAL MADRID’S BOARD AFTER 99.5% APPROVAL",
+    "seoTitle": "Rafael Nadal joins Real Madrid’s board after member vote",
+    "metaDescription": "Real Madrid ratified Rafael Nadal’s board appointment on November 21, 2026, with 99.5% approval. His role, career and club ties explained.",
+    "excerpt": "Real Madrid ratified Rafael Nadal’s board appointment on November 21, 2026, with 99.5% approval. His role, career and club ties explained.",
+    "category": "Sport",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-21",
+    "lastUpdated": "2026-11-21",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/rafael-nadal-real-madrid-board-directors-2026.jpg",
+    "coverAlt": "Supplied editorial portrait of Rafael Nadal beside Real Madrid branding, not authenticated appointment-day photography",
+    "headlineHighlights": {
+      "red": "RAFAEL NADAL",
+      "gold": "REAL MADRID’S BOARD"
+    },
+    "tags": [
+      "RAFAEL NADAL",
+      "Sport"
+    ],
+    "content": [
+      "Rafael Nadal has joined Real Madrid’s Board of Directors after his appointment received 99.5% approval at the club’s Extraordinary General Assembly on November 21, 2026. Real Madrid’s official account records the ratification at Ciudad Real Madrid, following an earlier board decision on November 4 to submit his appointment to member representatives. The former tennis world number one now holds a governance role at the football club he has long supported. He has not been appointed president, coach or sporting director. [Real Madrid: November 21 election and acceptance speech](https://www.realmadrid.com/en-US/news/club/latest-news/rafa-nadal-miembro-de-la-junta-directiva-del-real-madrid-21-11-2026)[Real Madrid: November 4 proposal submitted for ratification](https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026)",
+      "The distinction matters because Nadal’s name carries unusual sporting weight. His 22 Grand Slam singles titles and 14 Roland Garros championships made him one of tennis’s defining figures. A seat on a football club’s board belongs to a different kind of sporting life: institutional responsibility rather than competition. It is also a development with a clear date, rather than the realization of every old prediction about what Nadal might do after retiring from professional tennis. [ATP Tour: retirement anniversary and career record](https://www.atptour.com/en/news/nadal-november-2025-eala-practice)",
+      "[[NOV22FIVE_559]]",
+      "## What the November 21 vote confirmed",
+      "The club’s announcement identifies the Extraordinary General Assembly as the body that approved Nadal’s entry. The meeting took place in person and remotely at the basketball pavilion of Ciudad Real Madrid. The reported 99.5% is the approval in that institutional vote, not an opinion poll of the worldwide fan base. A supporter watching from another country does not become one of the voting delegates simply by following the team or purchasing a shirt. [Real Madrid: November 21 election and acceptance speech](https://www.realmadrid.com/en-US/news/club/latest-news/rafa-nadal-miembro-de-la-junta-directiva-del-real-madrid-21-11-2026)",
+      "The appointment had already moved through a public proposal stage. On November 4, Real Madrid announced that its board had agreed to submit Rafael Nadal Parera’s appointment for ratification, identifying his membership number as 67,778. That statement was important but not the same as the later completed vote. Reporting the November 21 decision as official confirmation preserves the difference between a proposed appointment and an appointment approved through the club’s process. [Real Madrid: November 4 proposal submitted for ratification](https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026)",
+      "## A long connection with Real Madrid",
+      "Real Madrid describes Nadal as an honorary member, a distinction he has held since 2011. His presence at the assembly alongside the board therefore did not introduce an entirely new relationship between athlete and institution. It formalized a further role within an existing connection. The club’s election report also published his acceptance speech, placing the new responsibilities within his personal attachment to Real Madrid rather than presenting him as an external investor buying influence. [Real Madrid: November 21 election and acceptance speech](https://www.realmadrid.com/en-US/news/club/latest-news/rafa-nadal-miembro-de-la-junta-directiva-del-real-madrid-21-11-2026)",
+      "### Membership and ownership are not interchangeable with investment",
+      "In his November 21 address, president Florentino Pérez reiterated Real Madrid’s member-owned identity. That structure helps explain why the assembly and the language of ratification matter. Nadal’s appointment is not, on the evidence of the announcement, the acquisition of a private ownership stake. Nor does a board seat automatically transfer the powers of the presidency. The announcement should be read for the role it names, without adding a commercial transaction or a succession plan that it does not establish. [Real Madrid: November 21 president’s address and member ownership](https://www.realmadrid.com/en-US/news/club/latest-news/florentino-perez-21-11-2026)[Real Madrid: November 21 election and acceptance speech](https://www.realmadrid.com/en-US/news/club/latest-news/rafa-nadal-miembro-de-la-junta-directiva-del-real-madrid-21-11-2026)",
+      "## What a board role means, and what remains unspecified",
+      "A board appointment places Nadal inside the club’s governance structure. It does not mean that he will select the starting eleven, negotiate every transfer or run daily training. Those are different sporting and executive functions. The official appointment notices identify him as a board member; they do not announce an additional coaching job or a dedicated transfer portfolio. Attributing such duties would turn an institutional development into a fictional football-management story. [Real Madrid: November 21 election and acceptance speech](https://www.realmadrid.com/en-US/news/club/latest-news/rafa-nadal-miembro-de-la-junta-directiva-del-real-madrid-21-11-2026)[Real Madrid: November 4 proposal submitted for ratification](https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026)",
+      "There is a similar boundary around money. The notices cited here do not provide a salary, an investment amount or a valuation for his role. An article does not become more informative by attaching an estimate to a position whose financial terms have not been disclosed. The significant fact is the approved appointment and the member-based process behind it. His future influence can be assessed through documented responsibilities and decisions as they emerge, rather than through assumed authority. [Real Madrid: November 21 election and acceptance speech](https://www.realmadrid.com/en-US/news/club/latest-news/rafa-nadal-miembro-de-la-junta-directiva-del-real-madrid-21-11-2026)[Real Madrid: November 4 proposal submitted for ratification](https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026)",
+      "## The tennis career behind the new title",
+      "Nadal’s last professional match took place on November 19, 2024, at the Davis Cup Finals. The ATP’s retrospective records 92 tour-level titles, 22 major singles championships and 209 weeks at number one. Real Madrid’s November appointment therefore came just over two years after the end of his professional playing career. It is not evidence of a tennis comeback, and it does not erase the distinction between being a retired competitor and remaining active in sport. [ATP Tour: retirement anniversary and career record](https://www.atptour.com/en/news/nadal-november-2025-eala-practice)",
+      "### Why the clay-court record still matters",
+      "Fourteen of his major titles came at Roland Garros. That exceptional concentration of success on clay sits within a broader career across surfaces and team competition. The relevance to a board appointment is reputational rather than mechanical: winning tennis tournaments does not by itself demonstrate expertise in every aspect of football governance. It does help explain why his arrival attracts attention far beyond the normal audience for a club’s assembly proceedings. [ATP Tour: retirement anniversary and career record](https://www.atptour.com/en/news/nadal-november-2025-eala-practice)",
+      "## Nadal had already begun building institutions beyond competition",
+      "His post-playing identity did not begin with Real Madrid. The Rafa Nadal Academy in Manacor was inaugurated in 2016, combining tennis training with education. Telefónica’s contemporary announcement dates the formal inauguration to October 19, with Nadal and the company’s chairman taking part. The academy gives the broader story an institutional dimension that existed while he was still competing at the highest level. [Rafa Nadal Academy: Manacor and the education project](https://www.rafanadalacademy.com/en/about-us/)[Telefónica: October 19, 2016 academy inauguration](https://www.telefonica.com/es/sala-comunicacion/prensa/rafael-nadal-y-el-presidente-de-telefonica-inauguran-en-manacor-la-rafa-nadal-academy-by-movistar/)",
+      "The academy’s own description emphasizes the combination of sport, education and a training environment. That is useful background, but it should not be stretched into an announcement that Real Madrid and the academy are merging operations or sharing a new project. No such agreement is established by the board notices. The common thread is a public career that increasingly includes organizations, facilities and long-term responsibilities alongside the achievements recorded on a scoreboard. [Rafa Nadal Academy: Manacor and the education project](https://www.rafanadalacademy.com/en/about-us/)",
+      "## A sporting symbol with a specific governance responsibility",
+      "Famous athletes can bring visibility and public trust to organizations, but a governance appointment should ultimately be judged through what the office entails and how it is exercised. The club’s public statements provide the starting point: an honorary member, a proposal from the board and subsequent approval by member representatives. They do not establish a future presidential candidacy. Treating possibility as confirmation would obscure the actual development rather than explain it. [Real Madrid: November 4 proposal submitted for ratification](https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026)[Real Madrid: November 21 election and acceptance speech](https://www.realmadrid.com/en-US/news/club/latest-news/rafa-nadal-miembro-de-la-junta-directiva-del-real-madrid-21-11-2026)",
+      "For a related view of the club’s current sporting world, [PRESDA’s article on Brahim Díaz’s contract coverage](/articles/brahim-diaz-real-madrid-contract-2031-report/) distinguishes official confirmation from reporting. That distinction applies here too, but the present case has moved past a report: Real Madrid has published the result of Nadal’s ratification. The central fact is now settled. Rafael Nadal is a member of Real Madrid’s board following the November 21, 2026 assembly vote. [Real Madrid: November 21 election and acceptance speech](https://www.realmadrid.com/en-US/news/club/latest-news/rafa-nadal-miembro-de-la-junta-directiva-del-real-madrid-21-11-2026)"
+    ],
+    "references": [
+      {
+        "name": "Real Madrid: November 21 election and acceptance speech",
+        "url": "https://www.realmadrid.com/en-US/news/club/latest-news/rafa-nadal-miembro-de-la-junta-directiva-del-real-madrid-21-11-2026"
+      },
+      {
+        "name": "Real Madrid: November 4 proposal submitted for ratification",
+        "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026"
+      },
+      {
+        "name": "ATP Tour: retirement anniversary and career record",
+        "url": "https://www.atptour.com/en/news/nadal-november-2025-eala-practice"
+      },
+      {
+        "name": "Rafa Nadal Academy: Manacor and the education project",
+        "url": "https://www.rafanadalacademy.com/en/about-us/"
+      },
+      {
+        "name": "Real Madrid: November 21 president’s address and member ownership",
+        "url": "https://www.realmadrid.com/en-US/news/club/latest-news/florentino-perez-21-11-2026"
+      },
+      {
+        "name": "Telefónica: October 19, 2016 academy inauguration",
+        "url": "https://www.telefonica.com/es/sala-comunicacion/prensa/rafael-nadal-y-el-presidente-de-telefonica-inauguran-en-manacor-la-rafa-nadal-academy-by-movistar/"
+      }
+    ],
+    "relatedSlugs": [
+      "brahim-diaz-real-madrid-contract-2031-report"
+    ],
+    "faq": [
+      {
+        "question": "Has Rafael Nadal officially joined Real Madrid’s board?",
+        "answer": "Yes. Real Madrid reported that the Extraordinary General Assembly approved his appointment on November 21, 2026, with 99.5% support."
+      },
+      {
+        "question": "Is Nadal the new president of Real Madrid?",
+        "answer": "No. The confirmed appointment is to the Board of Directors, not the presidency, coaching staff or sporting-director role."
+      },
+      {
+        "question": "When did Nadal retire from professional tennis?",
+        "answer": "His final professional match was on November 19, 2024, at the Davis Cup Finals, according to the ATP Tour."
+      },
+      {
+        "question": "Did Nadal buy a stake in Real Madrid?",
+        "answer": "The official appointment notices do not announce an ownership purchase. Real Madrid describes itself as member-owned."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "560",
+    "slug": "inca-mummies-coca-alcohol-harmine-sacrifice-study-2026",
+    "title": "INCA MUMMIES REVEAL COCA, ALCOHOL AND RITUAL DRUG USE",
+    "seoTitle": "Inca mummies reveal coca and alcohol in sacrificial rituals",
+    "metaDescription": "A November 2026 study of eight Inca mummies found evidence of coca, alcohol-related compounds and harmine. What the results do and do not prove.",
+    "excerpt": "A November 2026 study of eight Inca mummies found evidence of coca, alcohol-related compounds and harmine. What the results do and do not prove.",
+    "category": "History",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-21",
+    "lastUpdated": "2026-11-21",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/inca-mummies-coca-alcohol-harmine-sacrifice-study-2026.jpg",
+    "coverAlt": "Supplied editorial visual of preserved remains in a museum-style display; the individual is not authenticated as a study participant",
+    "headlineHighlights": {
+      "red": "INCA MUMMIES",
+      "gold": "RITUAL DRUG USE"
+    },
+    "tags": [
+      "INCA MUMMIES",
+      "History"
+    ],
+    "content": [
+      "An analysis of eight frozen Inca mummies has identified evidence of coca consumption, alcohol-related chemistry in some individuals and harmine in one nail sample. Published in Antiquity on November 3, 2026, the study examines children and young women sacrificed in mountain rituals in present-day Peru and Argentina. Its findings reveal variation between individuals and sites. They do not establish that all the victims received the same drug mixture, hallucinated or experienced a painless death. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "The distinction begins with the material itself. Coca leaves naturally contain cocaine-related alkaloids, so detecting cocaine and its metabolite in ancient hair supports coca consumption, not the use of modern purified cocaine. Alcohol-related evidence requires a different chemical interpretation. Harmine, associated with certain plants used in ayahuasca preparations, raises a further question about plant use without identifying a complete recipe. Several different lines of evidence must therefore be kept separate before the ritual can be understood. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "[[NOV22FIVE_560]]",
+      "## A new study across five Andean volcanoes",
+      "The team led by Dagmara Socha examined individuals associated with Ampato and Sara Sara in Peru, and Chuscha, Llullaillaco and Quehuar in Argentina. The material comprised six hair samples and two nail samples, tissues that can preserve chemical traces after the rest of a person’s life has disappeared from the archaeological record. The remains were recovered through different histories of excavation and collection. They are a research sample from particular mountain sanctuaries, not a representative survey of every Inca community. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "This is the latest stage of a longer investigation. A 2013 study of the Llullaillaco children combined biochemical, radiological and other archaeological evidence to examine changes before death. Earlier work on Ampato also explored coca and plant-derived compounds. The November 2026 paper revisits questions with sensitive toxicological methods and a broader set of individuals. It adds evidence to that history rather than announcing the first scientific discovery that coca existed in Inca ritual life. [Wilson and colleagues: 2013 biochemical and radiological evidence](https://doi.org/10.1073/pnas.1305117110)[Socha and colleagues: earlier Ampato toxicology, 2022](https://doi.org/10.1016/j.jasrep.2022.103415)[Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "## How hair and nails can preserve a chemical history",
+      "The researchers used liquid chromatography-tandem mass spectrometry, usually abbreviated LC-MS/MS. In simple terms, the method separates compounds in a prepared sample and helps identify them through their molecular characteristics. Hair and nails are composed largely of keratin, into which substances or their metabolites can become incorporated. Very small surviving quantities can therefore offer information about exposure or consumption that a visual examination of a mummy cannot provide. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "### Detection does not read a person’s mind",
+      "A chemical result does not, by itself, identify a victim’s emotional state, consent or precise experience at death. Different tissues also provide different windows onto the past. Where sufficient hair survives, examining successive segments may reveal changes over an approximate period, but the result is not a minute-by-minute medical record. The strongest account combines the laboratory results with preservation, sampling and burial context instead of converting a molecule into an imagined final scene. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)[Wilson and colleagues: 2013 biochemical and radiological evidence](https://doi.org/10.1073/pnas.1305117110)",
+      "## Coca, alcohol and harmine are different findings",
+      "Cocaine and benzoylecgonine, a principal metabolite, appeared in all the hair samples analyzed in the new study. That wording is important: the finding concerns the tested hair samples, not a claim that every tissue from all eight individuals produced identical results. At Chuscha and Sara Sara, positive results also changed the picture left by earlier negative tests. Improved methods can recover evidence that older analyses did not detect. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "Cocaethylene was found in the Chuscha and Llullaillaco individuals, supporting combined exposure to coca and alcohol. The study also identified harmine in a nail sample from Ampato #1, the individual often known as Juanita or the Ampato Maiden. These patterns show shared practices alongside important differences. A single statement that the victims were all given alcohol and ayahuasca would flatten the most informative part of the study. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "## What the ayahuasca connection does and does not prove",
+      "Harmine occurs in plants including Banisteriopsis species, associated with preparations commonly called ayahuasca. The researchers consider such plants a likely source, while acknowledging the difficulty of reconstructing the exact mixture. A finding of harmine is not equivalent to identifying every ingredient in a drink. Nor is it sufficient to demonstrate that a particular child experienced the effects associated with a modern ceremonial preparation. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "### Negative results have limits too",
+      "The reported hair analyses did not detect N,N-DMT, mescaline or several other compounds sought by the team. The harmine-positive nail sample was also negative for the tested tryptamines. Non-detection does not prove that a substance was never consumed: preservation and incorporation into keratin affect what survives. The authors also report difficult interpretation of nail samples because of likely environmental contamination. The small harmine finding deserves that caveat. Medicinal or mood-related uses remain hypotheses, not a clinical diagnosis of ancient individuals. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "## Capacocha connected religion, territory and political authority",
+      "The sacrifices formed part of capacocha, an Inca ritual associated with offerings and the relationship between communities, deities and ancestors. Mountain sanctuaries gave the ceremonies a powerful geographical setting. The new paper emphasizes variation linked to local practices and mountain deities, rather than a single standardized ritual reproduced identically across the empire. Political and religious meanings could overlap without leaving a simple explanation for every individual burial. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "The broader Andean world also depended on routes connecting diverse landscapes. UNESCO’s account of Qhapaq Ñan describes an extensive road system that joined communities and ecological zones. That provides background for thinking about movement, exchange and state organization. It does not independently reconstruct the final journey of any one child in the toxicology sample. A road network is contextual evidence; an individual itinerary requires its own archaeological and scientific support. [UNESCO: Qhapaq Ñan, the Andean road system](https://whc.unesco.org/en/list/1459/)",
+      "## The people remain more important than the sensational headline",
+      "The analytical advances should not turn sacrificed children into props for a story about exotic drugs. Their remains preserve evidence of real lives subjected to ritual violence. The study’s own conclusion stresses that the ceremonies should be considered individually because the results do not reveal one clear pattern. The supplied hero is an editorial museum-style visual; its subject has not been authenticated as one of the eight individuals analyzed in the paper. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)",
+      "[PRESDA’s history of the Inca Empire](/articles/inca-empire-andes-machu-picchu-rise-fall/) explains the wider world of highland authority and infrastructure behind these mountain sanctuaries. The new chemistry adds a more intimate layer to that history, but it also sets limits. It can strengthen evidence for coca, alcohol-related exposure and particular plant compounds. It cannot recover every intention or sensation. The most revealing result is not a uniform drugged-sacrifice narrative, but the diversity of preparations and experiences that still have to be interpreted with care. [Socha and colleagues: 2026 Antiquity toxicology study](https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386)"
+    ],
+    "references": [
+      {
+        "name": "Socha and colleagues: 2026 Antiquity toxicology study",
+        "url": "https://www.cambridge.org/core/journals/antiquity/article/toxicological-studies-on-the-inca-frozen-mummies-from-volcanoes-in-peru-and-argentina/F9B50A69C079F73C7502EEC776A2B386"
+      },
+      {
+        "name": "Wilson and colleagues: 2013 biochemical and radiological evidence",
+        "url": "https://doi.org/10.1073/pnas.1305117110"
+      },
+      {
+        "name": "Socha and colleagues: earlier Ampato toxicology, 2022",
+        "url": "https://doi.org/10.1016/j.jasrep.2022.103415"
+      },
+      {
+        "name": "UNESCO: Qhapaq Ñan, the Andean road system",
+        "url": "https://whc.unesco.org/en/list/1459/"
+      },
+      {
+        "name": "University researchers: 2026 Society for American Archaeology abstract",
+        "url": "https://saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Abstract/91st-annual-meeting-abstracts-%28San%20Francisco_CA_2026%29.pdf"
+      }
+    ],
+    "relatedSlugs": [
+      "inca-empire-andes-machu-picchu-rise-fall"
+    ],
+    "faq": [
+      {
+        "question": "Did the study find modern cocaine use?",
+        "answer": "No. Coca leaves naturally contain cocaine-related alkaloids. The ancient chemical evidence supports coca consumption, not modern purified cocaine use."
+      },
+      {
+        "question": "Were all eight individuals given the same substances?",
+        "answer": "No. Results varied by tissue, individual and sanctuary. Cocaethylene appeared in Chuscha and Llullaillaco, while harmine was identified in one Ampato nail sample."
+      },
+      {
+        "question": "Does harmine prove the victims drank modern-style ayahuasca?",
+        "answer": "No. It supports exposure to a relevant plant-derived compound, but the exact drink composition and effects cannot be reconstructed from that result alone."
+      },
+      {
+        "question": "When was the new study published?",
+        "answer": "The Antiquity paper was published online on November 3, 2026. It builds on earlier research rather than representing newly excavated mummies."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "561",
+    "slug": "avril-lavigne-first-child-baby-girl-november-2026",
+    "title": "AVRIL LAVIGNE ANNOUNCES THE ARRIVAL OF HER FIRST CHILD, A BABY GIRL",
+    "seoTitle": "Avril Lavigne welcomes her first child, a baby girl",
+    "metaDescription": "Avril Lavigne announced her daughter’s arrival on November 13, 2026. The confirmed news, public details and pop-punk career behind the moment.",
+    "excerpt": "Avril Lavigne announced her daughter’s arrival on November 13, 2026. The confirmed news, public details and pop-punk career behind the moment.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-21",
+    "lastUpdated": "2026-11-21",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/avril-lavigne-first-child-baby-girl-november-2026.jpg",
+    "coverAlt": "Supplied black-and-white editorial image of Avril Lavigne holding a baby, not independently authenticated as her announcement photograph",
+    "headlineHighlights": {
+      "red": "AVRIL LAVIGNE",
+      "gold": "HER FIRST CHILD"
+    },
+    "tags": [
+      "AVRIL LAVIGNE",
+      "Paparazzi"
+    ],
+    "content": [
+      "Avril Lavigne has announced the arrival of her first child, a baby girl. The Canadian singer shared the news on Instagram on November 13, 2026, and her representative separately confirmed it to ABC News. The announcement introduced a new chapter in the life of an artist whose early songs became part of a generation’s adolescence. It did not disclose the baby’s name, an exact birth date or the identity of the child’s father. November 13 is the confirmed announcement date, not an independently established birthday. [ABC News via Good Morning America: announcement and representative confirmation](https://www.goodmorningamerica.com/culture/story/avril-lavigne-announces-birth-1st-child-daughter-138113798)",
+      "The public message was brief, but its imagery was unmistakably connected to Lavigne’s identity. Reports describe black-and-white photographs, a leopard-print outfit and a small pair of checkered Vans placed alongside adult shoes on a skateboard. Those details linked a family announcement to the visual world of the singer known for Complicated and Sk8er Boi, without requiring a new performance or a promotional campaign. The image supplied for this PRESDA article is preserved unchanged and is not independently authenticated as the original announcement photograph. [ABC News via Good Morning America: announcement and representative confirmation](https://www.goodmorningamerica.com/culture/story/avril-lavigne-announces-birth-1st-child-daughter-138113798)[Rolling Stone Canada: November 13 announcement](https://ca.rollingstone.com/music/avril-lavigne-welcomes-first-child-2678394376/)",
+      "[[NOV22FIVE_561]]",
+      "## What Lavigne and her representative confirmed",
+      "The core news is straightforward: Lavigne, 42, welcomed her first child, a daughter. ABC News reported confirmation from a representative on the day of the social-media announcement. The representative also said she had been spending time with her family while working on a new album and thanked fans for their support. That provides an attributed update on her work and family life. It does not supply an album title, a release date or a timetable for returning to live performances. [ABC News via Good Morning America: announcement and representative confirmation](https://www.goodmorningamerica.com/culture/story/avril-lavigne-announces-birth-1st-child-daughter-138113798)",
+      "Keeping those boundaries intact makes the story more useful, not less complete. A public announcement can confirm a major event without opening every part of a family’s private life. No name or precise birth date should be inferred from the day a photograph was posted. Nor does the appearance of an adult hand in a family image provide a reliable method of identifying a parent whose identity has not been announced. [ABC News via Good Morning America: announcement and representative confirmation](https://www.goodmorningamerica.com/culture/story/avril-lavigne-announces-birth-1st-child-daughter-138113798)",
+      "## An announcement in a familiar visual language",
+      "Rolling Stone Canada’s account places the photographs and the singer’s short caption at the center of the announcement. The message referred to the baby as a princess, a phrase recognizable within Lavigne’s public pop-punk persona. The photographs described by news outlets communicated affection through details rather than a lengthy statement: a hand held by adults, a parent cradling a newborn and shoes arranged on a skateboard. Their meaning did not depend on publishing additional identifying information about the child. [Rolling Stone Canada: November 13 announcement](https://ca.rollingstone.com/music/avril-lavigne-welcomes-first-child-2678394376/)[ABC News via Good Morning America: announcement and representative confirmation](https://www.goodmorningamerica.com/culture/story/avril-lavigne-announces-birth-1st-child-daughter-138113798)",
+      "### A personal milestone is not a new stage identity",
+      "For fans who first encountered Lavigne as a teenager, the news naturally creates a sense of elapsed time. That response does not mean motherhood replaces her identity as a musician or supplies an explanation for every future artistic choice. A family announcement and an album announcement are different forms of news. Her representative’s statement connects ongoing work with time at home, but it does not establish the subject matter or sound of the next record. [ABC News via Good Morning America: announcement and representative confirmation](https://www.goodmorningamerica.com/culture/story/avril-lavigne-announces-birth-1st-child-daughter-138113798)",
+      "## The career that began with Let Go",
+      "Lavigne’s 2002 debut, Let Go, introduced the songs that remain central to her public image, including Complicated, Sk8er Boi and I’m with You. Her official catalog describes the debut as the starting point for a body of work extending through later albums and collaborations. The enduring appeal is not just the memory of a fashion silhouette. Those songs brought sharply drawn feelings about identity, frustration and relationships into concise, widely accessible guitar-driven pop. [Avril Lavigne official store: career-spanning catalog](https://store.avrillavigne.com/pages/catalog-2024)",
+      "The distance between that debut and a family announcement in 2026 helps explain the story’s resonance. Listeners have carried the early music into their own adulthood, while the artist has continued recording rather than remaining fixed at the age of her first release. The record catalog offers the concrete timeline. Emotional reactions from individual fans are personal; they should not be converted into invented audience statistics or assumptions about how an entire generation feels. [Avril Lavigne official store: career-spanning catalog](https://store.avrillavigne.com/pages/catalog-2024)",
+      "## Recognition beyond a nostalgic snapshot",
+      "The Recording Academy lists eight Grammy nominations for Lavigne, including recognition in major categories early in her career. The correct description is eight-time Grammy-nominated, rather than eight-time Grammy winner. Awards are only one measure of a recording career, but accurate terminology matters when a short biographical line is repeated across entertainment coverage. The distinction is especially relevant in a week when other artists’ nomination records are also making headlines. [Recording Academy: Avril Lavigne’s eight career nominations](https://www.grammy.com/artists/avril-lavigne/9267/)",
+      "### A Hollywood star marked another career milestone",
+      "The Hollywood Chamber of Commerce scheduled her Walk of Fame dedication for August 31, 2022, in the Recording category. Its announcement placed that recognition alongside her catalog and the release of Love Sux, her seventh studio album, earlier that year. The honor belongs to her professional history; it should not be confused with a current award, a new nomination or a title attached to the birth announcement. [Hollywood Chamber: 2022 Walk of Fame ceremony and Love Sux](https://walkoffame.com/press_releases/avril-lavigne-to-be-honored-with-star-on-the-hollywood-walk-of-fame/)",
+      "## Greatest Hits connected several phases of the catalog",
+      "Sony Music announced Lavigne’s first Greatest Hits collection for June 21, 2024, bringing together songs from across her recording career. The official store describes a career-spanning selection running from Let Go through Love Sux. A retrospective release can make the continuity easier to hear: early signature songs sit beside work from later phases rather than serving as the only chapter worth remembering. [Sony Music: Greatest Hits release and career context](https://www.sonymusic.ca/press_release/avril-lavigne-to-release-first-ever-greatest-hits-album-on-june-21)[Avril Lavigne official store: career-spanning catalog](https://store.avrillavigne.com/pages/catalog-2024)",
+      "The intervening catalog includes Under My Skin, The Best Damn Thing, Goodbye Lullaby, her self-titled album and Head Above Water. Together with Let Go and Love Sux, those records show a career that continued beyond its opening breakthrough. The Hollywood Chamber’s biography places the later return to a guitar-driven pop-punk setting alongside the earlier catalog rather than treating one release as her entire identity. That musical continuity is an important part of the background to the current family news. [Hollywood Chamber: 2022 Walk of Fame ceremony and Love Sux](https://walkoffame.com/press_releases/avril-lavigne-to-be-honored-with-star-on-the-hollywood-walk-of-fame/)",
+      "## What can responsibly be said about the next chapter",
+      "At the time of publication, the confirmed November 13 announcement establishes the arrival of a daughter. The cited statement about ongoing album work is the relevant professional update. Anything more specific about a release schedule or a change in touring plans requires its own confirmation. The family photographs should likewise be understood as the material Lavigne chose to share, rather than evidence from which to manufacture a complete private narrative. [ABC News via Good Morning America: announcement and representative confirmation](https://www.goodmorningamerica.com/culture/story/avril-lavigne-announces-birth-1st-child-daughter-138113798)",
+      "For another example of how awards language can shape entertainment reporting, [PRESDA’s coverage of Beyoncé’s 100 Grammy nominations](/articles/beyonce-100-grammy-nominations-morning-dew-2027/) separates a career milestone from an award result. Lavigne’s story benefits from the same precision. The facts are already meaningful: a musician with more than two decades of recorded work, a first child and a carefully limited public announcement. A compelling account can celebrate that development while leaving the family’s unannounced details alone. [Recording Academy: Avril Lavigne’s eight career nominations](https://www.grammy.com/artists/avril-lavigne/9267/)"
+    ],
+    "references": [
+      {
+        "name": "ABC News via Good Morning America: announcement and representative confirmation",
+        "url": "https://www.goodmorningamerica.com/culture/story/avril-lavigne-announces-birth-1st-child-daughter-138113798"
+      },
+      {
+        "name": "Rolling Stone Canada: November 13 announcement",
+        "url": "https://ca.rollingstone.com/music/avril-lavigne-welcomes-first-child-2678394376/"
+      },
+      {
+        "name": "Recording Academy: Avril Lavigne’s eight career nominations",
+        "url": "https://www.grammy.com/artists/avril-lavigne/9267/"
+      },
+      {
+        "name": "Sony Music: Greatest Hits release and career context",
+        "url": "https://www.sonymusic.ca/press_release/avril-lavigne-to-release-first-ever-greatest-hits-album-on-june-21"
+      },
+      {
+        "name": "Avril Lavigne official store: career-spanning catalog",
+        "url": "https://store.avrillavigne.com/pages/catalog-2024"
+      },
+      {
+        "name": "Hollywood Chamber: 2022 Walk of Fame ceremony and Love Sux",
+        "url": "https://walkoffame.com/press_releases/avril-lavigne-to-be-honored-with-star-on-the-hollywood-walk-of-fame/"
+      }
+    ],
+    "relatedSlugs": [
+      "beyonce-100-grammy-nominations-morning-dew-2027"
+    ],
+    "faq": [
+      {
+        "question": "Has Avril Lavigne welcomed her first child?",
+        "answer": "Yes. She announced the arrival of a baby girl on November 13, 2026, and her representative confirmed the news to ABC News."
+      },
+      {
+        "question": "Was the baby born on November 13?",
+        "answer": "That is the announcement date. The cited announcement and confirmation do not establish an exact birth date."
+      },
+      {
+        "question": "Did Avril Lavigne reveal her daughter’s name or the father’s identity?",
+        "answer": "The cited reporting says those details were not revealed. They should not be filled in through speculation."
+      },
+      {
+        "question": "Has she announced a new album release date?",
+        "answer": "Her representative said she was working on a new album. The cited statement did not provide its title or a release date."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "553",
     "slug": "turkiye-first-three-kizilelma-unmanned-fighter-jets-2026",
     "title": "TÜRKİYE RECEIVES ITS FIRST THREE KIZILELMA UNMANNED FIGHTER JETS",
