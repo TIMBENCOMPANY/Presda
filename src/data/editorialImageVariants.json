@@ -2164,5 +2164,103 @@
       "width": 1024,
       "src": "/articles/versailles-balloon-demonstration-1783-loc-1024.webp"
     }
+  ],
+  "/articles/miley-cyrus-primavera-sound-2019.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/miley-cyrus-primavera-sound-2019-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/miley-cyrus-primavera-sound-2019-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/miley-cyrus-primavera-sound-2019-1280.webp"
+    }
+  ],
+  "/articles/woven-city-first-year-aerial-2026.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/woven-city-first-year-aerial-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/woven-city-first-year-aerial-2026-900.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/woven-city-first-year-aerial-2026-1400.webp"
+    }
+  ],
+  "/articles/woven-city-official-launch-street-2025.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/woven-city-official-launch-street-2025-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/woven-city-official-launch-street-2025-900.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/woven-city-official-launch-street-2025-1400.webp"
+    }
+  ],
+  "/articles/orca-fossil-cranium-peerj-figure-2-2026.webp": [
+    {
+      "width": 480,
+      "src": "/articles/orca-fossil-cranium-peerj-figure-2-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/orca-fossil-cranium-peerj-figure-2-2026-900.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/orca-fossil-cranium-peerj-figure-2-2026-1400.webp"
+    }
+  ],
+  "/articles/orca-digital-size-comparison-peerj-figure-9-2026.webp": [
+    {
+      "width": 480,
+      "src": "/articles/orca-digital-size-comparison-peerj-figure-9-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/orca-digital-size-comparison-peerj-figure-9-2026-900.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/orca-digital-size-comparison-peerj-figure-9-2026-1400.webp"
+    }
+  ],
+  "/articles/marina-abramovic-viennale-portrait-2012.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/marina-abramovic-viennale-portrait-2012-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/marina-abramovic-viennale-portrait-2012-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/marina-abramovic-viennale-portrait-2012-1280.webp"
+    }
+  ],
+  "/articles/unitree-g1-uav-expo-2024.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/unitree-g1-uav-expo-2024-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/unitree-g1-uav-expo-2024-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/unitree-g1-uav-expo-2024-1280.webp"
+    }
   ]
 }

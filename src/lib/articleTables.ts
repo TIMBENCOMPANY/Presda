@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[PREMIUM5B_565]]": {
+    "caption": "The reported wedding: key facts",
+    "headers": [
+      "Question",
+      "Verified reporting"
+    ],
+    "rows": [
+      [
+        "Couple",
+        "Miley Cyrus and Maxx Morando"
+      ],
+      [
+        "Ceremony date",
+        "November 21, 2026, according to People"
+      ],
+      [
+        "Location",
+        "Palm Springs, California, according to People"
+      ],
+      [
+        "Earlier milestone",
+        "Engagement confirmed by People in December 2025"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[PREMIUM5B_566]]": {
+    "caption": "Woven City: dates and scale",
+    "headers": [
+      "Question",
+      "Officially reported position"
+    ],
+    "rows": [
+      [
+        "Official launch",
+        "September 25, 2025"
+      ],
+      [
+        "First-year update",
+        "September 25, 2026"
+      ],
+      [
+        "Trial activity",
+        "Approximately 30 proof-of-concept projects in September 2026"
+      ],
+      [
+        "Community",
+        "31 Inventor companies; about 160 residents in roughly 80 households"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[PREMIUM5B_567]]": {
+    "caption": "The North Sea orca study",
+    "headers": [
+      "Question",
+      "Published finding"
+    ],
+    "rows": [
+      [
+        "Publication",
+        "PeerJ, November 10, 2026; DOI 10.7717/peerj.21890"
+      ],
+      [
+        "Material",
+        "Five remains: two crania, one mandible fragment and two atlas–axis complexes"
+      ],
+      [
+        "Dated evidence",
+        "One cranial specimen supported as approximately 2.6–2.1 million years old"
+      ],
+      [
+        "Identification",
+        "Orcinus sp.; species unresolved, with large individuals estimated at 7.2–7.7 meters"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[PREMIUM5B_568]]": {
+    "caption": "Rhythm 0: the documented framework",
+    "headers": [
+      "Question",
+      "Museum documentation"
+    ],
+    "rows": [
+      [
+        "Artist",
+        "Marina Abramović"
+      ],
+      [
+        "Place and date",
+        "Studio Morra, Naples, 1974"
+      ],
+      [
+        "Duration",
+        "Six hours"
+      ],
+      [
+        "Structure",
+        "A passive performer and 72 objects available for audience interaction"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[PREMIUM5B_569]]": {
+    "caption": "The Shenzhen dance: claims and attribution",
+    "headers": [
+      "Question",
+      "Reported position"
+    ],
+    "rows": [
+      [
+        "Event date",
+        "November 17, 2026"
+      ],
+      [
+        "Location",
+        "Longgang district, Shenzhen, China"
+      ],
+      [
+        "Count",
+        "151 successful participants, according to event reporting"
+      ],
+      [
+        "Record status",
+        "Reported Guinness achievement; exact public database entry not independently matched at publication"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[PREMIUM3_562]]": {
     "caption": "Budapest pilot: the essential facts",
     "headers": [

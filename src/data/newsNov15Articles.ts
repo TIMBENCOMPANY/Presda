@@ -1,6 +1,532 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "565",
+    "slug": "miley-cyrus-maxx-morando-palm-springs-wedding-2026",
+    "title": "MILEY CYRUS MARRIES MAXX MORANDO IN PALM SPRINGS, PEOPLE REPORTS",
+    "seoTitle": "Miley Cyrus marries Maxx Morando: the reported Palm Springs wedding",
+    "metaDescription": "People reports Miley Cyrus and Maxx Morando married on November 21, 2026. The reported ceremony, their relationship and musical collaboration explained.",
+    "excerpt": "People reports Miley Cyrus and Maxx Morando married on November 21, 2026. The reported ceremony, their relationship and musical collaboration explained.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-22",
+    "lastUpdated": "2026-11-22",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/miley-cyrus-maxx-morando-palm-springs-wedding-2026.jpg",
+    "coverAlt": "Supplied image of Miley Cyrus and Maxx Morando posing at an Avatar premiere backdrop",
+    "headlineHighlights": {
+      "red": "MILEY CYRUS",
+      "gold": "MAXX MORANDO"
+    },
+    "tags": [
+      "MILEY CYRUS",
+      "Paparazzi"
+    ],
+    "content": [
+      "Miley Cyrus and musician Maxx Morando married in Palm Springs, California, on November 21, 2026, according to People, which cited multiple sources confirming the ceremony. The wedding brings a new chapter to a relationship that became public in late 2021 and developed alongside a growing musical partnership. Entertainment Tonight first reported the wedding news, People said. [People: original wedding report](https://people.com/miley-cyrus-marries-maxx-morando-11877139)[People via AOL: November 21 wedding and engagement history](https://www.aol.com/articles/miley-cyrus-marries-maxx-morando-005349000.html)",
+      "The distinction between the event and its reporting matters. PRESDA is attributing the wedding to those accounts, rather than claiming access to a marriage certificate or private guest list. The supplied hero shows the couple against an Avatar premiere backdrop; it is not a photograph of the reported ceremony. The story of their work together is more revealing than treating every public appearance as a wedding clue.",
+      "[[PREMIUM5B_565]]",
+      "## What has been reported about the ceremony?",
+      "People placed the wedding in Palm Springs on Saturday, November 21. Vogue’s November 22 account described a poolside ceremony officiated by Flaming Lips musician Wayne Coyne, with Cyrus wearing a long-sleeved white gown. These details come from the outlets’ reporting. They establish the setting of the news without requiring an invented account of conversations, emotions or decisions made in private. [People via AOL: November 21 wedding and engagement history](https://www.aol.com/articles/miley-cyrus-marries-maxx-morando-005349000.html)[Vogue: November 22 wedding reporting](https://www.vogue.com/article/miley-cyrus-and-maxx-morando-are-married)",
+      "The reported marriage followed the couple’s engagement, confirmed by People in December 2025. It also followed several years in which Morando appeared beside Cyrus at public events while continuing his own work in music. Their visibility increased gradually; the relationship was not introduced to audiences through a single joint announcement explaining every aspect of their lives. [People via AOL: November 21 wedding and engagement history](https://www.aol.com/articles/miley-cyrus-marries-maxx-morando-005349000.html)",
+      "### The difference between a public milestone and a complete private story",
+      "A wedding is a clear milestone, but it does not give an observer a complete account of a relationship. Photographs can document an appearance, clothing or a setting. They cannot establish unspoken motives or predict what a marriage will become. That is why the confirmed reporting, the couple’s own earlier remarks and the record of their professional collaboration carry more weight than speculation surrounding them.",
+      "For readers following Cyrus’s career, the meaningful development is the connection between a personal partnership and an existing creative relationship. Morando appears in the credits of music she has released, not simply in captions beside a famous singer. Understanding those credits gives the story a firmer foundation than guessing which song might describe a particular private moment.",
+      "## Who is Maxx Morando?",
+      "Morando is a drummer associated with the Los Angeles band Liily, and his work also extends into writing and production. People identifies him as the band’s drummer in its wedding report. On Cyrus’s 2025 album Something Beautiful, his contribution is part of a wider group of collaborators named by her record label, alongside Brittany Howard and Michael Pollack. [People via AOL: November 21 wedding and engagement history](https://www.aol.com/articles/miley-cyrus-marries-maxx-morando-005349000.html)[Sony Music: Something Beautiful release and contributors](https://www.sonymusic.ca/press_release/miley-cyrus-releases-new-album-something-beautiful)",
+      "Sony Music’s release announcement, dated May 30, 2025, describes the album as produced by Cyrus and Shawn Everett, with contributions from Morando and others. That wording is useful: it recognizes his involvement while preserving the collaborative nature of a major recording project. It would be misleading to turn a contributor credit into a claim that one person created the entire record. [Sony Music: Something Beautiful release and contributors](https://www.sonymusic.ca/press_release/miley-cyrus-releases-new-album-something-beautiful)",
+      "### A relationship that entered the studio",
+      "Creative partnerships can involve several kinds of work: developing a song, playing an instrument, arranging a recording or shaping its final sound. Those roles sometimes overlap, but they are not interchangeable. An album’s credits identify specific contributions more reliably than a broad label such as “muse,” which often says more about celebrity storytelling than about the work itself.",
+      "Something Beautiful provides a documented point of contact between the couple’s professional lives. Sony presented it as Cyrus’s ninth studio album, placing the collaboration within a substantial recording career. Morando’s presence belongs to that musical context. The wedding changes their public relationship status; it does not erase the professional work that already connected them. [Sony Music: Something Beautiful release and contributors](https://www.sonymusic.ca/press_release/miley-cyrus-releases-new-album-something-beautiful)",
+      "## From a blind date to a longer partnership",
+      "In a 2023 interview with British Vogue, discussed by Entertainment Tonight at the time, Cyrus said she had met Morando through a blind-date arrangement. The account was brief and characteristically direct. It supplied an origin story in her own terms, without the elaborate mythology that can grow around a celebrity couple after years of photographs and headlines. [Entertainment Tonight: Cyrus’s 2023 account of meeting Morando](https://www.etonline.com/miley-cyrus-talks-meeting-her-boyfriend-maxx-morando-on-a-blind-date-204924)",
+      "People’s retrospective places early public appearances in late 2021, including the Gucci Love Parade event in Los Angeles. Looking back from the reported November 2026 wedding, the relationship spans roughly five years. “Roughly” is the appropriate qualifier: a public photograph is a dated appearance, while the exact beginning of a private relationship is not always a publicly documented day. [People via AOL: November 21 wedding and engagement history](https://www.aol.com/articles/miley-cyrus-marries-maxx-morando-005349000.html)",
+      "The sequence also helps separate this marriage from an earlier chapter in Cyrus’s life. She married Liam Hemsworth in December 2018; their separation was announced in 2019 and their divorce was finalized in January 2020, according to People’s account. Those dates provide necessary biographical context without turning the new wedding into an argument about a previous relationship. [People via AOL: November 21 wedding and engagement history](https://www.aol.com/articles/miley-cyrus-marries-maxx-morando-005349000.html)",
+      "## Cyrus’s career gives the news a wider frame",
+      "Cyrus first became widely known through Disney Channel’s Hannah Montana. Disney’s official biography traces a career that expanded from television into albums, touring and film, and records her recognition as a Disney Legend in 2024. The character’s premise, a young person balancing ordinary life and pop stardom, became part of the public framework through which audiences first encountered her. [Disney D23: Miley Cyrus biography](https://d23.com/walt-disney-legend/miley-cyrus/)",
+      "Her adult recording career has repeatedly asked audiences to reconsider that framework. A major institutional marker came at the 2024 Grammys, where Flowers won Record of the Year and Best Pop Solo Performance. The Recording Academy identifies those awards as her first Grammy victories. The result belongs to a specific song and ceremony, rather than to a general claim that every later release received the same recognition. [Recording Academy: Miley Cyrus awards and career](https://www.grammy.com/artists/miley-cyrus/18384/)",
+      "### Why the collaboration deserves attention beyond celebrity shorthand",
+      "The distance between a television introduction and a long recording career creates room for artistic change. Each new album involves choices about collaborators, sound and presentation. Something Beautiful is useful in this story because its official credits show Morando participating in that process, while also naming the wider team whose work helped bring the record together. [Sony Music: Something Beautiful release and contributors](https://www.sonymusic.ca/press_release/miley-cyrus-releases-new-album-something-beautiful)",
+      "PRESDA’s feature on [Rihanna’s move from music into a broader creative business](/articles/rihanna-barbados-music-fenty-beauty-empire/) examines another artist whose public identity extends beyond a single early image. Cyrus’s path is different, but the same editorial principle applies: a personal headline makes more sense when the reader can see the work and career surrounding it.",
+      "## How to read the photographs accompanying the story",
+      "The supporting concert photograph shows Cyrus performing at Primavera Sound in 2019. Its date is explicit because a genuine archival photograph can still be misleading when attached to the wrong occasion. It documents the performer and her career, not the wedding. The supplied premiere image likewise remains a separate public-event visual rather than evidence of the Palm Springs ceremony.",
+      "That distinction also preserves the limits of the available record. The article draws ceremony details from named reports, musical contributions from an official label announcement and career milestones from Disney and the Recording Academy. Each source answers a different question. Together they provide a fuller picture of the two musicians without pretending that publicity supplies complete access to their private lives.",
+      "The reported wedding is the immediate news. The more durable context is a partnership that developed over several years, between a singer with a long public career and a drummer whose work also became part of her recordings. Their marriage can be reported clearly while allowing the music, and the people making it, to remain more than the occasion’s photographs."
+    ],
+    "references": [
+      {
+        "name": "People: original wedding report",
+        "url": "https://people.com/miley-cyrus-marries-maxx-morando-11877139"
+      },
+      {
+        "name": "People via AOL: November 21 wedding and engagement history",
+        "url": "https://www.aol.com/articles/miley-cyrus-marries-maxx-morando-005349000.html"
+      },
+      {
+        "name": "Vogue: November 22 wedding reporting",
+        "url": "https://www.vogue.com/article/miley-cyrus-and-maxx-morando-are-married"
+      },
+      {
+        "name": "Sony Music: Something Beautiful release and contributors",
+        "url": "https://www.sonymusic.ca/press_release/miley-cyrus-releases-new-album-something-beautiful"
+      },
+      {
+        "name": "Recording Academy: Miley Cyrus awards and career",
+        "url": "https://www.grammy.com/artists/miley-cyrus/18384/"
+      },
+      {
+        "name": "Disney D23: Miley Cyrus biography",
+        "url": "https://d23.com/walt-disney-legend/miley-cyrus/"
+      },
+      {
+        "name": "Entertainment Tonight: Cyrus’s 2023 account of meeting Morando",
+        "url": "https://www.etonline.com/miley-cyrus-talks-meeting-her-boyfriend-maxx-morando-on-a-blind-date-204924"
+      }
+    ],
+    "relatedSlugs": [
+      "rihanna-barbados-music-fenty-beauty-empire"
+    ],
+    "faq": [
+      {
+        "question": "Did Miley Cyrus marry Maxx Morando?",
+        "answer": "People reported that they married on November 21, 2026, citing multiple confirming sources. This article attributes the wedding to that reporting."
+      },
+      {
+        "question": "Where did the reported wedding take place?",
+        "answer": "People placed the ceremony in Palm Springs, California. Vogue described a poolside setting."
+      },
+      {
+        "question": "Who is Maxx Morando?",
+        "answer": "He is the drummer associated with Liily and a musical collaborator credited among contributors to Cyrus’s 2025 album Something Beautiful."
+      },
+      {
+        "question": "Is the supplied hero a wedding photograph?",
+        "answer": "No. It shows the couple against an Avatar premiere backdrop. The article does not present it as documentation of the wedding."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "566",
+    "slug": "toyota-beyond-cars-woven-city-living-laboratory",
+    "title": "TOYOTA’S NEXT BIG BET GOES BEYOND CARS: INSIDE WOVEN CITY",
+    "seoTitle": "Toyota beyond cars: Woven City’s real-world business experiment",
+    "metaDescription": "Inside Toyota Woven City: its 2025 launch, September 2026 progress, household robots and the business case for testing mobility beyond cars.",
+    "excerpt": "Inside Toyota Woven City: its 2025 launch, September 2026 progress, household robots and the business case for testing mobility beyond cars.",
+    "category": "Business",
+    "schemaType": "Article",
+    "date": "2026-11-22",
+    "lastUpdated": "2026-11-22",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/toyota-beyond-cars-woven-city-living-laboratory.jpg",
+    "coverAlt": "Supplied editorial illustration of Toyota Woven City with Mount Fuji and robots",
+    "headlineHighlights": {
+      "red": "TOYOTA",
+      "gold": "WOVEN CITY"
+    },
+    "tags": [
+      "TOYOTA",
+      "Business"
+    ],
+    "content": [
+      "Toyota’s experiment beyond the automobile is already inhabited. At Woven City in Susono, Japan, residents are helping test technologies that move people, objects, energy and information through daily life. The project officially launched on September 25, 2025. Its September 2026 first-year update described approximately 30 proof-of-concept projects, 31 participating Inventor companies and about 160 residents across roughly 80 households. [Toyota: September 25, 2025 official launch](https://global.toyota/en/newsroom/corporate/43347785.html)[Woven by Toyota: September 25, 2026 first-year update](https://woven.toyota/en/news/20260925/)",
+      "Those figures describe a working test community at a particular date, rather than a finished city or a proven new profit engine. Toyota’s business question is larger than whether it can build another vehicle: can a manufacturer’s engineering methods, software and partnerships produce useful services across the places where people live? Woven City makes that question concrete enough to test.",
+      "[[PREMIUM5B_566]]",
+      "## What Woven City actually is",
+      "Toyota calls Woven City a test course for mobility. Located in Shizuoka Prefecture near Mount Fuji, it is developed with Woven by Toyota. The project’s official launch announcement distinguishes the people developing ideas, called Inventors, from the resident participants, called Weavers. Those names describe roles in an experimental community, not separate categories of customers buying a completed consumer product. [Toyota: September 25, 2025 official launch](https://global.toyota/en/newsroom/corporate/43347785.html)",
+      "The distinction matters commercially. An ordinary showroom demonstrates something ready to sell. A living laboratory gives developers a chance to discover where a prototype fails, how people actually use it and whether it fits into routines outside an engineering team’s assumptions. The purpose of a trial is to generate evidence that can improve a product or redirect an idea before wider deployment.",
+      "### Why involve residents rather than only engineers?",
+      "A household contains conditions that are difficult to reproduce fully in a controlled demonstration. Objects move, schedules change, people have different preferences and a device may have to coexist with children, furniture or another service. A system that performs one impressive task on a stage still has to become dependable in that less predictable environment.",
+      "Residents can supply feedback about convenience, reliability and friction that a successful technical demonstration may miss. That makes their participation part of the development process. It also means that the number of trials is an activity measure, not proof that every tested technology has already earned widespread acceptance or become commercially viable.",
+      "## What the first-year update tells us",
+      "The September 25, 2026 announcement described household robots helping with tasks such as tidying and carrying objects. It said the AI Robot Association had introduced robots in 11 households and tested more than 1,000 tasks by September 24. These are bounded trial figures, tied to a named organization and a reporting date, rather than a claim that household robotics has been solved. [Woven by Toyota: September 25, 2026 first-year update](https://woven.toyota/en/news/20260925/)",
+      "The same update said the participating Inventor community had reached 31 companies after seven additions. Toyota’s earlier partner announcement shows how the project was designed to bring outside businesses into the test environment before launch. The network is part of the proposition: a company developing one service may encounter another firm whose technology helps it work in practice. [Woven by Toyota: September 25, 2026 first-year update](https://woven.toyota/en/news/20260925/)[Toyota: new partner companies announced before launch](https://global.toyota/en/newsroom/corporate/43160798.html)",
+      "### Kakezan and the business logic of collaboration",
+      "Woven by Toyota uses Kakezan to describe combining different strengths so that their interaction produces more value. The term is useful when it points to a concrete dependency: a robot needs navigation, a delivery service needs access to buildings, and a software system needs information about its environment. A city-like setting exposes how those dependencies meet.",
+      "That collaborative ambition also creates a management challenge. Different partners may move at different speeds or define success differently. A trial environment needs a way to turn feedback into decisions, rather than simply accumulating demonstrations. Toyota’s familiar emphasis on continuous improvement provides a development method; the quality of the resulting services still needs to be demonstrated in use. [Woven by Toyota: official news and press-image terms](https://woven.toyota/en/news)",
+      "## Software is part of the expansion beyond cars",
+      "Toyota and Woven by Toyota’s April 2026 Kakezan announcement presented AI technologies intended to support the project’s development cycle. The broader company overview positions Woven by Toyota around areas including software, automated driving and Woven City. The city is therefore one part of a wider attempt to connect digital capability with physical mobility, rather than an isolated property development. [Toyota: April 22, 2026 Kakezan technology announcements](https://pressroom.toyota.com/toyota-and-woven-by-toyota-unveil-new-ai-technologies-to-drive-kakezan/)[Woven by Toyota: company overview](https://woven.toyota/en/company/)",
+      "This connection helps explain why an automaker is interested in the movement of information as well as passengers. Software can affect how a vehicle senses its surroundings, how a service is coordinated and how a developer learns from an experiment. Those activities remain connected to mobility even when the visible object is a household robot or a building service instead of a passenger car.",
+      "### A useful test for every AI announcement",
+      "The practical question is what an AI component changes for a participant. Does it reduce a recurring problem, improve a system’s reliability or make an interaction easier to understand? A technology label alone cannot answer that. The strongest evidence comes from clearly defined tasks, repeated use and a comparison with what people could do before the system was introduced.",
+      "Woven City offers a setting in which such questions can be investigated together. The results should still be read at the scale at which they were obtained. A successful trial in a small resident community can justify further testing without establishing that the same service will work equally well across every city, household or regulatory setting.",
+      "## A new direction built on an existing industrial identity",
+      "Toyota’s launch material presents Woven City as a place to extend the scope of mobility. The partner program reinforces that direction by inviting businesses whose work reaches beyond conventional automotive manufacturing. The idea is to apply engineering, iteration and coordination to an interconnected environment where a vehicle is one component of daily life rather than the sole product under examination. [Toyota: September 25, 2025 official launch](https://global.toyota/en/newsroom/corporate/43347785.html)[Toyota: new partner companies announced before launch](https://global.toyota/en/newsroom/corporate/43160798.html)",
+      "The approach also changes what the company has to learn. Manufacturing consistency is important, but a service has to fit social habits and operating conditions. A resident may judge a delivery robot by whether it arrives at a useful time and is easy to interact with, while the developer may initially focus on whether it reaches the right location. Both perspectives matter to the business case.",
+      "PRESDA’s examination of [the robotaxi competition](/articles/robotaxi-revolution-tesla-waymo-zoox-baidu-2026/) explores a related transition from building a vehicle to operating a service. Woven City widens that frame. It allows mobility systems to be considered alongside the homes, public spaces and other services with which they have to interact.",
+      "## How to judge the experiment’s commercial progress",
+      "The first useful measures are specific: what was tested, with whom, over what period and with what result? Project counts and partner numbers show that an ecosystem is active. Stronger commercial evidence would include reliable service delivery, sustained participant demand and a workable route to operating beyond the original test site. Those outcomes require observation rather than an assumed return on investment.",
+      "It is equally important to separate phases. The official September 2025 launch is a completed event. The September 2026 update is a dated account of progress and further plans. A future construction phase or software release should be described according to its announced status, rather than treated as finished merely because it appears in a corporate presentation. [Toyota: September 25, 2025 official launch](https://global.toyota/en/newsroom/corporate/43347785.html)[Woven by Toyota: September 25, 2026 first-year update](https://woven.toyota/en/news/20260925/)",
+      "### An experiment can be valuable without validating every idea",
+      "Testing can produce useful information when a concept needs substantial revision. Discovering that a device is inconvenient, that a service duplicates an existing habit or that a proposed interaction confuses users can prevent a larger deployment from repeating the same problem. A premium assessment of Woven City should therefore examine what Toyota learns, not just how futuristic a scene looks.",
+      "The official photographs accompanying this article show the project as presented by Woven by Toyota, with dates and credits. The supplied hero is preserved as an editorial illustration. Its visual combination of robots, buildings and Mount Fuji is not a verified inventory of technologies operating at the site. The distinction keeps the business analysis grounded in the project’s announcements and observed setting. [Woven by Toyota: official news and press-image terms](https://woven.toyota/en/news)",
+      "Toyota’s bet beyond cars is ultimately a bet on integration: that expertise in building complex machines can help organize useful interactions among people, software and physical services. Woven City provides a real place to test that proposition. Whether its strongest ideas become durable businesses will depend on the evidence generated there and on what survives contact with a wider world."
+    ],
+    "references": [
+      {
+        "name": "Toyota: September 25, 2025 official launch",
+        "url": "https://global.toyota/en/newsroom/corporate/43347785.html"
+      },
+      {
+        "name": "Woven by Toyota: September 25, 2026 first-year update",
+        "url": "https://woven.toyota/en/news/20260925/"
+      },
+      {
+        "name": "Toyota: April 22, 2026 Kakezan technology announcements",
+        "url": "https://pressroom.toyota.com/toyota-and-woven-by-toyota-unveil-new-ai-technologies-to-drive-kakezan/"
+      },
+      {
+        "name": "Toyota: new partner companies announced before launch",
+        "url": "https://global.toyota/en/newsroom/corporate/43160798.html"
+      },
+      {
+        "name": "Woven by Toyota: company overview",
+        "url": "https://woven.toyota/en/company/"
+      },
+      {
+        "name": "Woven by Toyota: official news and press-image terms",
+        "url": "https://woven.toyota/en/news"
+      }
+    ],
+    "relatedSlugs": [
+      "robotaxi-revolution-tesla-waymo-zoox-baidu-2026"
+    ],
+    "faq": [
+      {
+        "question": "What is Toyota Woven City?",
+        "answer": "It is a test course for mobility in Susono, Japan, developed by Toyota and Woven by Toyota to test products and services with resident participants."
+      },
+      {
+        "question": "Has Woven City already launched?",
+        "answer": "Yes. Toyota dates its official launch to September 25, 2025. The first-year update was published on September 25, 2026."
+      },
+      {
+        "question": "Why does it go beyond cars?",
+        "answer": "Its trials concern the movement of people, goods, energy and information, including household robotics and services that connect buildings, software and mobility."
+      },
+      {
+        "question": "Do the trial figures prove commercial success?",
+        "answer": "They document activity and participation at a stated date. Commercial success requires further evidence about reliability, demand and operation beyond the test setting."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "567",
+    "slug": "orca-fossils-large-prey-hunting-two-million-years",
+    "title": "ORCA FOSSILS PUSH LARGE-PREY HUNTING BACK MORE THAN TWO MILLION YEARS",
+    "seoTitle": "Orca fossils reveal large-prey hunting over two million years ago",
+    "metaDescription": "North Sea fossils dated to 2.6–2.1 million years ago suggest large-prey hunting evolved early in Orcinus. Explore the evidence and its limits.",
+    "excerpt": "North Sea fossils dated to 2.6–2.1 million years ago suggest large-prey hunting evolved early in Orcinus. Explore the evidence and its limits.",
+    "category": "Science",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-22",
+    "lastUpdated": "2026-11-22",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/orca-fossils-large-prey-hunting-two-million-years.jpg",
+    "coverAlt": "Supplied illustration comparing a living orca, an ancient relative and jaw diagrams",
+    "headlineHighlights": {
+      "red": "ORCA FOSSILS",
+      "gold": "TWO MILLION YEARS"
+    },
+    "tags": [
+      "ORCA FOSSILS",
+      "Science"
+    ],
+    "content": [
+      "A handful of bones recovered from the southern North Sea has pushed a familiar predator’s history much deeper into the past. A study published in PeerJ on November 10, 2026, describes large ancient members of the orca genus with anatomy suited to tackling substantial prey. Sediment attached to one skull fragment dates that specimen to approximately 2.6–2.1 million years ago. [Bakker and colleagues: PeerJ paper, November 10, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)[PubMed: publication record and abstract, DOI 10.7717/peerj.21890](https://pubmed.ncbi.nlm.nih.gov/43032379/)",
+      "The finding supports a more precise headline than “orcas became super-predators two million years ago.” It provides early evidence of large-prey hunting within the lineage. It does not identify the exact moment the behavior originated, prove that every ancient orca hunted the same animals, or establish that the fragmentary fossils belong to the living species Orcinus orca. [Bakker and colleagues: PeerJ paper, November 10, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)",
+      "[[PREMIUM5B_567]]",
+      "## What the researchers found",
+      "Hidde Bakker and colleagues studied five fossil remains: two incomplete crania, part of a lower jaw and two fused atlas–axis neck complexes. The material was recovered by fishing vessels and is held at the Natural History Museum Rotterdam. Comparisons with living orcas produced estimated lengths of roughly 7.2–7.7 meters for the larger individuals, within the range of very large modern males. [Bakker and colleagues: PeerJ paper, November 10, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)",
+      "The specimens are identified as Orcinus sp. The abbreviation means that the genus is assigned but the species remains unresolved. That small qualification carries a large scientific meaning: a fossil can reveal important information about the history of a lineage even when it does not preserve enough anatomy to receive a confident species identification. [Bakker and colleagues: PeerJ paper, November 10, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)",
+      "### Why the incomplete material still matters",
+      "A skull fragment can preserve the shape of a joint, the size of a tooth socket or the proportions of part of the braincase. Those features may be compared with more complete animals. An incomplete fossil is therefore not simply a broken version of an ideal museum skeleton. It can retain a particular piece of evidence that survives careful comparison and measurement.",
+      "The strength of the argument depends on which features are present and which conclusions they support. Body length is estimated from relationships among measurements in living animals and from comparisons with three-dimensional models. The estimate is an inference, not a direct measurement of a complete ancient animal from snout to tail.",
+      "## How do bones reveal a feeding strategy?",
+      "The study describes robust anatomy, including large, deep and separated tooth sockets, alongside features of the skull and neck associated with handling large prey. Together with the size estimates, those characteristics support macroraptorial feeding: seizing and processing relatively large animals. The term describes a functional capability, rather than a fossilized menu documenting every meal. [Bakker and colleagues: PeerJ paper, November 10, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)",
+      "A useful analogy is the difference between a tool’s design and a record of its use. Strong jaws and large teeth can make a particular feeding strategy plausible, but reconstructing ecology requires the evidence to be considered together. Researchers ask whether several anatomical features point toward the same interpretation, rather than treating one impressive bone as a complete behavioral biography.",
+      "### The fossil record is a record of surviving evidence",
+      "The oldest known example of a feature sets a minimum age for its existence in the available record. It does not usually mark the precise day, generation or population in which the feature first appeared. Older material may never have fossilized, may have been destroyed or may remain undiscovered. That is why the new date pushes the evidence back without fixing a single evolutionary starting point.",
+      "The North Sea material also illustrates a common complication: bones recovered from the seabed do not always come from a neatly excavated rock layer. Their geological setting has to be reconstructed from the information that remains. In this study, microscopic organisms in attached sediment help date one cranial specimen, connecting its anatomy to a period of geological time. [Bakker and colleagues: PeerJ paper, November 10, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)",
+      "## What the 2.6–2.1 million-year range means",
+      "The dated material is assigned to the Gelasian, near the beginning of the Pleistocene. The range is not a claim that the bone’s age is known to the nearest year. It is a geological estimate supported by the sediment’s microscopic fossil content. Preserving that range is more informative than replacing it with an artificially exact “two million years.” [PubMed: publication record and abstract, DOI 10.7717/peerj.21890](https://pubmed.ncbi.nlm.nih.gov/43032379/)",
+      "Different kinds of evidence also answer different evolutionary questions. Fossils can establish the presence of a large-bodied form and particular anatomical adaptations. Genetic studies of living populations can investigate relationships among surviving groups. A comparatively recent split among modern ecotypes does not rule out a much older history for a broad feeding capability in their wider lineage. [Bakker and colleagues: PeerJ paper, November 10, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)",
+      "This is the central value of the new work. It brings physical anatomy into a story that can otherwise be dominated by the histories of populations alive today. The two records can be compared without assuming that a date inferred for a modern population is automatically the first appearance of every trait that population possesses.",
+      "## Modern orcas are not one uniform feeding population",
+      "NOAA Fisheries describes killer whales as the largest members of the dolphin family and notes substantial differences among populations in diet, behavior and social organization. Some groups specialize in fish; others take marine mammals. Local knowledge and group behavior matter alongside the physical equipment of a large predator. A single species name does not imply an identical way of life everywhere. [NOAA Fisheries: killer whale biology and population differences](https://www.fisheries.noaa.gov/species/killer-whale)",
+      "That diversity helps explain why the fossil result should be framed as evidence of capability and ecological role. An ancient animal with anatomy suited to large prey need not have possessed every hunting tradition observed in a living population. A modern orca’s behavior is shaped by both its body and the social environment in which it learns to use it.",
+      "### The small extinct relative in the comparison",
+      "The study discusses Orcinus citoniensis, a smaller extinct species from Italy’s Pliocene record, estimated at about 3.5 meters and generally interpreted as fish-eating. The new large North Sea material expands the range of forms known within the genus. It does not demonstrate a simple parent-to-descendant sequence between those particular specimens. [Bakker and colleagues: PeerJ paper, November 10, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)",
+      "The spelling matters here. The supplied hero contains a different spelling in one of its labels; the name used in the scientific paper is Orcinus citoniensis. The image remains unchanged as supplied and is treated as an editorial illustration. Its reconstruction and jaw diagrams are not substitutes for the specimens and published measurements discussed in the research.",
+      "## Reading the scientific figures",
+      "The first supporting figure shows an actual cranial specimen alongside a modern skull reference, with preserved areas indicated. The second compares fossil fragments with three-dimensional skull and skeleton models. Both are figures from the open-access paper and retain their scientific context and attribution. A colored reference region identifies what is preserved; it does not mean the entire ancient skeleton was recovered. [Bakker and colleagues: PeerJ paper, November 10, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)",
+      "These visuals make a useful distinction visible: the fossil material is observed, while the full-body size is reconstructed through comparison. A reader can therefore evaluate why the authors estimate a large animal without mistaking a complete modern reference skeleton for a complete ancient find. The differences between evidence and reconstruction are part of the explanation, not an obstacle to it.",
+      "PRESDA’s account of [Darwin’s theory of evolution](/articles/charles-darwin-theory-of-evolution/) supplies a broader framework for understanding change across generations. This study works at a more specific scale: it asks when a set of anatomical adaptations can first be demonstrated in one marine lineage, using a small but informative fossil sample.",
+      "## What the discovery changes",
+      "The strongest conclusion is that large-bodied, large-prey predation in Orcinus has a substantially deeper fossil history than a recent reading of modern population differences might suggest. The unresolved species identity and limited material remain important. A more complete skull, associated skeleton or better geological context could sharpen the picture or reveal a distinct ancient species. [Bakker and colleagues: PeerJ paper, November 10, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)",
+      "The finding is compelling because it gives an ocean predator a more tangible deep past. It replaces an easy evolutionary slogan with bones, comparisons and a dated geological clue. The North Sea fossils do not show every step by which orcas became formidable hunters. They demonstrate that an important part of that history was already established more than two million years ago."
+    ],
+    "references": [
+      {
+        "name": "Bakker and colleagues: PeerJ paper, November 10, 2026",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/"
+      },
+      {
+        "name": "PubMed: publication record and abstract, DOI 10.7717/peerj.21890",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032379/"
+      },
+      {
+        "name": "NOAA Fisheries: killer whale biology and population differences",
+        "url": "https://www.fisheries.noaa.gov/species/killer-whale"
+      },
+      {
+        "name": "PeerJ: original publication",
+        "url": "https://peerj.com/articles/21890/"
+      }
+    ],
+    "relatedSlugs": [
+      "charles-darwin-theory-of-evolution"
+    ],
+    "faq": [
+      {
+        "question": "Did orcas become apex predators exactly two million years ago?",
+        "answer": "The study provides evidence for large-prey hunting adaptations more than two million years ago. It does not pinpoint the behavior’s exact origin."
+      },
+      {
+        "question": "Where were the fossils found?",
+        "answer": "They were recovered from the seabed of the southern North Sea and are held at the Natural History Museum Rotterdam."
+      },
+      {
+        "question": "Were these animals definitely modern killer whales?",
+        "answer": "The authors identify them as Orcinus sp. The fragmentary material does not establish whether they were Orcinus orca or a distinct ancient species."
+      },
+      {
+        "question": "Are the supplied hero and full skeletons actual fossil photographs?",
+        "answer": "The hero is an editorial illustration. The paper’s supporting figures distinguish preserved fossil fragments from modern reference skulls and skeletons used in reconstruction."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "568",
+    "slug": "marina-abramovic-rhythm-0-1974-audience-control",
+    "title": "MARINA ABRAMOVIĆ’S RHYTHM 0: THE ARTIST WHO GAVE THE AUDIENCE CONTROL",
+    "seoTitle": "Marina Abramović’s Rhythm 0: the 1974 performance explained",
+    "metaDescription": "What happened during Marina Abramović’s Rhythm 0 in Naples in 1974? The six-hour performance, 72 objects, eyewitness account and enduring questions.",
+    "excerpt": "What happened during Marina Abramović’s Rhythm 0 in Naples in 1974? The six-hour performance, 72 objects, eyewitness account and enduring questions.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-22",
+    "lastUpdated": "2026-11-22",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/marina-abramovic-rhythm-0-1974-audience-control.jpg",
+    "coverAlt": "Supplied black-and-white editorial image representing Marina Abramović and a table of objects",
+    "headlineHighlights": {
+      "red": "MARINA ABRAMOVIĆ",
+      "gold": "RHYTHM 0"
+    },
+    "tags": [
+      "MARINA ABRAMOVIĆ",
+      "History"
+    ],
+    "content": [
+      "For six hours in Naples in 1974, Marina Abramović made an audience’s choices the substance of a performance. Rhythm 0 placed the artist beside a table of 72 objects that spectators could use on her. Some invited tenderness or ordinary contact; others could inflict injury. By remaining passive, she transferred the visible action to the people who had arrived to watch. [MoMA: Abramović’s account of Rhythm 0](https://www.moma.org/audio/playlist/243/3118)[IMMA: Rhythm 0 collection record](https://imma.ie/collection/rhythm-0/)",
+      "The work is often compressed into a disturbing anecdote about an artist who allowed strangers to do anything to her. That summary captures its danger but misses its structure. Rhythm 0 had a place, a duration, a selection of objects and a declared relationship between performer and audience. Its significance lies in how those conditions exposed responsibility, power and the limits of spectatorship.",
+      "[[PREMIUM5B_568]]",
+      "## What happened at Studio Morra?",
+      "MoMA identifies the original performance as taking place at Studio Morra in Naples in 1974 for six hours. Its documentation describes a selection that included a rose, a feather, food, a whip, a scalpel, a gun and a bullet. Abramović’s body became the point at which the objects’ possible uses and the audience’s decisions met. [MoMA: Abramović’s account of Rhythm 0](https://www.moma.org/audio/playlist/243/3118)",
+      "The Irish Museum of Modern Art’s collection record likewise describes a six-hour performance with 72 substances and objects, ranging from everyday materials to instruments capable of harm. This combination mattered. The audience was not simply presented with weapons or invited into a single prescribed action. It encountered an array of possibilities whose meaning depended on what people chose to do. [IMMA: Rhythm 0 collection record](https://imma.ie/collection/rhythm-0/)",
+      "### An instruction does not eliminate the person who gives it",
+      "Abramović’s decision to remain passive was an artistic act, not a disappearance of her personhood. That tension gives the work its force. Viewers were asked to encounter a living person under conditions that encouraged them to treat her as an object. The performance made the gap between those two ways of seeing impossible to ignore once the interaction became threatening.",
+      "The objects did not determine one inevitable outcome. A rose could become an offering, food could become care, and an everyday item could take on a different meaning through its use. The artistic structure made choices available. The choices themselves belonged to the people making them, which is why the audience cannot be treated as a neutral background to the event.",
+      "## What the artist later recalled",
+      "In MoMA’s audio account, Abramović describes the public initially playing with her before becoming more aggressive. She recalls people cutting her clothing, injuring her and handling the gun in a threatening encounter. These are her retrospective descriptions, presented by the museum as an account of the performance. They should be attributed rather than expanded into an invented minute-by-minute reconstruction. [MoMA: Abramović’s account of Rhythm 0](https://www.moma.org/audio/playlist/243/3118)",
+      "IMMA’s record also describes escalation from contact and play to stripping, cutting and a firearm threat. Those details establish the danger without requiring an embellished catalogue of violence. A responsible account can explain that the work exposed real bodily vulnerability while resisting the temptation to make the most disturbing fragment its only meaning. [IMMA: Rhythm 0 collection record](https://imma.ie/collection/rhythm-0/)",
+      "### Why the ending matters",
+      "Abramović told MoMA that, once the performance ended and she began moving toward the audience as herself again, people left. The change was fundamental: the still figure they had been authorized to act upon became an active person approaching them. Her account gives the ending a different kind of force from the preceding threat, shifting attention toward recognition and accountability. [MoMA: Abramović’s account of Rhythm 0](https://www.moma.org/audio/playlist/243/3118)",
+      "A performance’s ending can change how everything before it is understood. The six-hour boundary did not undo what happened, but it changed the relationship in the room. The audience could no longer rely on the same arrangement of passivity and permission. The return of movement and direct encounter exposed how fragile that arrangement had been.",
+      "## A work of art, not a controlled psychology experiment",
+      "Rhythm 0 is sometimes presented online as proof that all human beings become cruel when given power. The performance cannot establish such a universal scientific conclusion. It did not use a controlled sample or a research design capable of measuring every audience’s behavior. It was an artwork creating a particular situation, with an artist accepting consequences that were not fully scripted.",
+      "That limitation does not diminish its insight. Art can make a problem vivid without solving it as an empirical study. The work invites questions about what people permit themselves to do, how a group changes an individual’s sense of responsibility and what happens when ordinary limits are suspended. Those are interpretations the performance supports, rather than laboratory findings it proves.",
+      "### Permission, agency and responsibility",
+      "One way to read Rhythm 0 is as a test of the distance between being permitted to act and choosing how to act. An instruction can create a situation, but it cannot make every action ethically equivalent. The performance’s power comes from leaving viewers with that unresolved burden rather than supplying a reassuring conclusion in advance.",
+      "Another reading concerns the gendered body presented to public judgment. Abramović’s stillness turned spectators’ attention into a material force. The body on display was exposed to interpretation as well as physical contact. The work continues to provoke because it asks the viewer to consider the position of the person being watched, as well as the freedom of those doing the watching. [Tel Aviv Museum of Art: Rhythm 0 exhibition context](https://www.tamuseum.art/en/exhibition/marina-abramovic-rhythm-0-1974/)[SALT: Rhythm 0 documentation and context](https://saltonline.org/en/rhythm-0-marina-abramovic-738)",
+      "## How an event becomes a museum work",
+      "The original six hours cannot be recovered simply by displaying a photograph. Museums preserve documents, objects, images and accounts that allow later audiences to study what occurred. IMMA’s collection includes a framed photograph and a text panel; MoMA’s retrospective documentation identifies slide projection and objects. These are forms of transmission, not the original event happening again. [MoMA: Abramović’s account of Rhythm 0](https://www.moma.org/audio/playlist/243/3118)[IMMA: Rhythm 0 collection record](https://imma.ie/collection/rhythm-0/)",
+      "That distinction is essential when an image circulates by itself. A still can show an object, an expression or a moment, but it cannot reveal the entire sequence, the atmosphere over six hours or every spectator’s actions. A caption and a source are therefore part of responsible viewing. They place the image inside a documented work rather than allowing it to stand as a self-explanatory spectacle.",
+      "PRESDA’s feature on [Van Gogh’s life and artistic legacy](/articles/vincent-van-gogh-life-art-legacy/) examines another case in which a memorable biographical story can eclipse the work. Rhythm 0 presents a different artistic problem, but the same need for context applies: the most arresting anecdote should open an investigation rather than close it.",
+      "## The place of Rhythm 0 in a longer practice",
+      "Abramović continued to investigate duration, presence and the relationship with an audience. MoMA’s 2010 retrospective, The Artist Is Present, ran from March 14 to May 31 and brought together work spanning four decades. Its presentation also raised questions about how time-based art could be documented and made accessible through live performance by other people. [MoMA: The Artist Is Present, March 14–May 31, 2010](https://www.moma.org/calendar/exhibitions/964)",
+      "Her discussion of Seven Easy Pieces, performed in 2005, addresses another part of that problem: returning to earlier performance works through research, permission and re-performance. Rhythm 0 belongs within this broader history of how actions can become art and how an event that ends can remain available to later audiences without pretending that documentation is identical to experience. [MoMA: Abramović on Seven Easy Pieces, 2005](https://www.moma.org/audio/playlist/243/3130)",
+      "### Reading the visuals honestly",
+      "The supplied hero is preserved as an editorial image and is not independently authenticated as a photograph from the 1974 performance. The supporting portrait is a genuine, credited photograph of Abramović at the 2012 Viennale screening of The Artist Is Present. Its date prevents it from being mistaken for a scene at Studio Morra. Original performance documentation can be consulted through the museum references.",
+      "Rhythm 0 endures because it changed the audience’s role from observation to action and made that action consequential. Its strongest question is not whether a shocking story can still attract attention. It is what responsibility belongs to a person who discovers that the situation allows them to act, and who must decide what kind of participant to become."
+    ],
+    "references": [
+      {
+        "name": "MoMA: Abramović’s account of Rhythm 0",
+        "url": "https://www.moma.org/audio/playlist/243/3118"
+      },
+      {
+        "name": "IMMA: Rhythm 0 collection record",
+        "url": "https://imma.ie/collection/rhythm-0/"
+      },
+      {
+        "name": "Tel Aviv Museum of Art: Rhythm 0 exhibition context",
+        "url": "https://www.tamuseum.art/en/exhibition/marina-abramovic-rhythm-0-1974/"
+      },
+      {
+        "name": "SALT: Rhythm 0 documentation and context",
+        "url": "https://saltonline.org/en/rhythm-0-marina-abramovic-738"
+      },
+      {
+        "name": "MoMA: The Artist Is Present, March 14–May 31, 2010",
+        "url": "https://www.moma.org/calendar/exhibitions/964"
+      },
+      {
+        "name": "MoMA: Abramović on Seven Easy Pieces, 2005",
+        "url": "https://www.moma.org/audio/playlist/243/3130"
+      }
+    ],
+    "relatedSlugs": [
+      "vincent-van-gogh-life-art-legacy"
+    ],
+    "faq": [
+      {
+        "question": "What was Rhythm 0?",
+        "answer": "A 1974 performance in which Marina Abramović remained passive while an audience could interact with her using 72 objects placed on a table."
+      },
+      {
+        "question": "Where and how long did it take place?",
+        "answer": "MoMA identifies Studio Morra in Naples and a duration of six hours."
+      },
+      {
+        "question": "Did the performance become dangerous?",
+        "answer": "Abramović’s MoMA account and IMMA’s collection record describe escalating aggression, injuries and a threatening encounter involving a gun."
+      },
+      {
+        "question": "Was it a scientific experiment proving human nature?",
+        "answer": "No. It was a performance artwork. It can support interpretations about power and responsibility without establishing a universal psychological finding."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "569",
+    "slug": "shenzhen-151-humanoid-robots-dance-reported-guinness-record",
+    "title": "CHINA’S 151-ROBOT DANCE: THE REPORTED GUINNESS RECORD EXPLAINED",
+    "seoTitle": "151 robots dance in Shenzhen: the reported Guinness record",
+    "metaDescription": "Reports describe a November 17, 2026 dance by 151 humanoid robots in Shenzhen. The Guinness category, participating hardware and limits explained.",
+    "excerpt": "Reports describe a November 17, 2026 dance by 151 humanoid robots in Shenzhen. The Guinness category, participating hardware and limits explained.",
+    "category": "AI",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-22",
+    "lastUpdated": "2026-11-22",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/shenzhen-151-humanoid-robots-dance-reported-guinness-record.jpg",
+    "coverAlt": "Supplied editorial visual of humanoid robots beneath a 151-robot Guinness-style display",
+    "headlineHighlights": {
+      "red": "151-ROBOT DANCE",
+      "gold": "GUINNESS RECORD"
+    },
+    "tags": [
+      "151-ROBOT DANCE",
+      "AI"
+    ],
+    "content": [
+      "A public square in Shenzhen became a stage for a striking robotics demonstration on November 17, 2026. Reports described 151 humanoid robots performing a coordinated dance, with EngineAI’s full-size T800 among the machines involved. CBS footage carried by KYMA the following day presented the event as a Guinness World Record achievement. [CBS footage via KYMA: November 17 performance reported November 18](https://kyma.com/news/national-world/2026/11/18/robots-set-record-for-synchronized-dancing/)",
+      "The number is clear in the reporting; the record’s exact classification requires more care. Gasgoo described a challenge for the most humanoid robots dancing simultaneously within one hour. PRESDA could not independently match the event to a public Guinness database entry at publication, so the headline attributes the record status to the reports rather than presenting a separately verified Guinness certification. [Gasgoo: reported one-hour record category and organizers](https://autonews.gasgoo.com/articles/news/151-humanoid-robots-successfully-challenge-guinness-world-record-2123030218822037505)",
+      "[[PREMIUM5B_569]]",
+      "## What happened in Shenzhen?",
+      "The event took place in Shenzhen’s Longgang district, according to Gasgoo, which identified a coalition led by the district’s artificial intelligence and robotics bureau and involving the robot 6S store, EngineAI and other robotics businesses. Its account said an on-site adjudicator announced 151 successful participants. That is an attributed description of the challenge, not a measurement independently conducted by PRESDA. [Gasgoo: reported one-hour record category and organizers](https://autonews.gasgoo.com/articles/news/151-humanoid-robots-successfully-challenge-guinness-world-record-2123030218822037505)",
+      "VnExpress’s November 19 report adds an important hardware distinction: it says 20 T800 robots participated, alongside machines from companies including Unitree and AgiBot. The event should therefore not be summarized as “151 T800 robots.” A mixed group of humanoids can contribute to a single demonstration without every machine being the same model or coming from the same manufacturer. [VnExpress: participating companies and 20 T800 robots](https://e.vnexpress.net/news/tech/tech-news/151-humanoid-robots-in-china-set-guinness-world-record-with-synchronized-dance-5146907.html)",
+      "### Why the category wording matters",
+      "Guinness records are defined by rules, not only by an impressive-looking number. A count across a specified period, a count of machines moving at exactly the same moment and a category restricted to humanoid robots can represent different tests. Without the category rules, comparing headline totals can give a false impression of which achievement is larger or more demanding.",
+      "That is especially relevant here because reports use both “synchronized” and a one-hour qualification. The observed dance and the reported total can be described clearly while retaining that uncertainty about the formal record wording. A newsroom should not silently remove a qualification that may determine how participants were counted.",
+      "## A hundred-plus dance is not the first robot dance record",
+      "Guinness’s broader page for the most robots dancing simultaneously documents a different category involving small Alpha 1S robots. Its description identifies machines less than 40 centimeters tall. The existence of that category is enough to show why 151 full-size humanoids should not be advertised as the largest gathering of every kind of dancing robot in history. [Guinness World Records: separate most-robots-dancing category](https://www.guinnessworldrecords.com/world-records/82589-most-robots-dancing-simultaneously)",
+      "The Jinan government also reported an October 24, 2026 performance by 110 AgiBot Expedition A3 humanoids. That earlier event provides useful context for the rapid succession of public demonstrations. It should not automatically be treated as a directly comparable previous record until the counting conditions and formal category are established as equivalent. [Jinan government: October 24, 2026 humanoid dance report](https://english.jinan.gov.cn/col/col108322/art/2026/art_747a0b4fcb034777888734c72ae68f02.html)",
+      "### What can be compared responsibly?",
+      "A useful comparison begins with the machines, the rules and the setting. Are the participants similarly sized? Must every unit finish the routine? How long must the performance last? Are fallen or inactive robots removed from the total? Those questions make a record intelligible, rather than reducing it to the highest number printed above a crowd.",
+      "The Shenzhen reports establish a large public demonstration and identify the participating industry. They provide less detail about the underlying validation and control architecture. That boundary should remain visible. The event can be impressive without being used as proof of technical capabilities that the reporting does not measure.",
+      "## Why coordinated movement is an engineering task",
+      "A humanoid robot has to manage its own body while moving. Joint commands, balance, timing and the interaction of feet with the surface all matter. Asking many machines to perform in formation adds another layer: their movements have to remain compatible with neighboring robots and with the space available. A routine that looks simple to a spectator can demand careful preparation.",
+      "The importance of a demonstration is not only whether a robot can produce one pose. It is whether motion can be repeated consistently through a sequence. With multiple machines, a small difference in timing or position can become visually obvious. Coordination is therefore a meaningful subject of engineering, even when the performance is designed primarily as a public spectacle.",
+      "### Choreography does not establish general intelligence",
+      "Robots can be coordinated through several approaches, including prepared motion sequences and supervisory control. A dance video alone does not reveal which parts are preprogrammed, which depend on feedback and which decisions are made independently during the performance. It also does not show how the same machines would behave in an unfamiliar, crowded environment with unscripted obstacles.",
+      "This is a question of evidence rather than a dismissal of the hardware. A successful routine demonstrates the routine under its conditions. Broader claims about autonomous reasoning, household usefulness or safe deployment require additional tests designed for those purposes. The event’s reported record status does not substitute for those separate forms of evaluation.",
+      "## Understanding the machines behind the spectacle",
+      "Unitree’s official G1 page illustrates how a manufacturer describes humanoid capability through a specific model, its configuration and development platform. Such product information is useful for understanding the hardware category, but specifications for one robot should not be assigned to every machine in a mixed fleet. The Shenzhen reports do not justify treating all 151 participants as technically identical. [Unitree: official G1 product specifications](https://www.unitree.com/g1/)",
+      "The supporting photograph shows a Unitree G1 at a 2024 exhibition. It is included as genuine hardware context, with its date and source visible. It does not document the November 2026 dance or establish that the individual robot photographed took part. The supplied hero is likewise preserved as an editorial visual, not as independently authenticated evidence of the final count.",
+      "PRESDA’s article on [humanoid robot news anchors](/articles/xinhua-ubtech-humanoid-robot-news-anchors/) examines another public-facing use of human-shaped machines. Both stories benefit from identifying the task being demonstrated. A convincing appearance in one role is useful evidence about that role, while broader conclusions about intelligence or deployment need their own support.",
+      "## What the display says about the industry",
+      "The most defensible industrial reading is that several robotics businesses can participate in a large, highly visible public demonstration. That offers a platform for manufacturers to show their machines, attract attention and present an image of coordinated progress. Commercial readiness, however, depends on matters that a dance cannot measure on its own, including maintenance, reliability and a customer’s practical needs.",
+      "For a purchaser or researcher, the next questions would concern repeated operation, failures, recovery and the conditions under which the robots can work. For a spectator, the choreography makes the hardware accessible and memorable. Those audiences can both find value in the event while asking different questions of it.",
+      "### The evidence that would sharpen the record story",
+      "A public Guinness entry or the complete certification details would clarify the official category and counting conditions. Technical documentation could explain the control system and the role of each type of robot. Until those details are established, the responsible account keeps the reported record, the observed performance and general robotics explanations distinct.",
+      "Shenzhen’s 151-robot dance is a compelling scene from a fast-moving sector. Its significance becomes clearer when the count is tied to a date, the hardware is identified accurately and the limits of the available evidence remain visible. That leaves room to appreciate the performance without asking it to prove more than the sources show."
+    ],
+    "references": [
+      {
+        "name": "CBS footage via KYMA: November 17 performance reported November 18",
+        "url": "https://kyma.com/news/national-world/2026/11/18/robots-set-record-for-synchronized-dancing/"
+      },
+      {
+        "name": "Gasgoo: reported one-hour record category and organizers",
+        "url": "https://autonews.gasgoo.com/articles/news/151-humanoid-robots-successfully-challenge-guinness-world-record-2123030218822037505"
+      },
+      {
+        "name": "VnExpress: participating companies and 20 T800 robots",
+        "url": "https://e.vnexpress.net/news/tech/tech-news/151-humanoid-robots-in-china-set-guinness-world-record-with-synchronized-dance-5146907.html"
+      },
+      {
+        "name": "Guinness World Records: separate most-robots-dancing category",
+        "url": "https://www.guinnessworldrecords.com/world-records/82589-most-robots-dancing-simultaneously"
+      },
+      {
+        "name": "Unitree: official G1 product specifications",
+        "url": "https://www.unitree.com/g1/"
+      },
+      {
+        "name": "Jinan government: October 24, 2026 humanoid dance report",
+        "url": "https://english.jinan.gov.cn/col/col108322/art/2026/art_747a0b4fcb034777888734c72ae68f02.html"
+      }
+    ],
+    "relatedSlugs": [
+      "xinhua-ubtech-humanoid-robot-news-anchors"
+    ],
+    "faq": [
+      {
+        "question": "Did 151 humanoid robots dance in Shenzhen?",
+        "answer": "CBS coverage via KYMA and other reports describe a November 17, 2026 performance involving 151 humanoid robots."
+      },
+      {
+        "question": "Were all 151 robots T800 models?",
+        "answer": "No. VnExpress reports 20 T800 robots alongside machines from companies including Unitree and AgiBot."
+      },
+      {
+        "question": "Is the Guinness classification independently confirmed here?",
+        "answer": "The article attributes the Guinness claim to event reports. PRESDA did not independently match a public Guinness database entry, and reports include a one-hour category qualification."
+      },
+      {
+        "question": "Does the dance prove that the robots have general intelligence?",
+        "answer": "No. A coordinated routine demonstrates performance under its conditions. It does not by itself establish unscripted reasoning or suitability for every practical task."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
     "id": "562",
     "slug": "firouzja-total-chess-budapest-pilot-2026",
     "title": "ALIREZA FIROUZJA WINS THE TOTAL CHESS PILOT IN BUDAPEST",

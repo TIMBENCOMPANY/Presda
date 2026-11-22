@@ -1,0 +1,229 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/shenzhen-151-humanoid-robots-dance-reported-guinness-record/",
+  "path": "/fr/articles/shenzhen-151-humanoid-robots-dance-reported-guinness-record/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-22",
+    "terminologyChecked": true
+  },
+  "title": "CHINE : LA DANSE DE 151 ROBOTS ET LE RECORD GUINNESS RAPPORTÉ",
+  "seoTitle": "151 robots humanoïdes dansent à Shenzhen : le record expliqué",
+  "description": "À Shenzhen, 151 humanoïdes ont participé à une danse le 17 novembre 2026, selon plusieurs médias. Voici ce que les sources établissent sur le record.",
+  "excerpt": "À Shenzhen, 151 humanoïdes ont participé à une danse le 17 novembre 2026, selon plusieurs médias. Voici ce que les sources établissent sur le record.",
+  "headlineHighlights": {
+    "red": "151 ROBOTS",
+    "gold": "GUINNESS"
+  },
+  "keywords": [
+    "151 ROBOTS",
+    "GUINNESS"
+  ],
+  "searchIntent": "À Shenzhen, 151 humanoïdes ont participé à une danse le 17 novembre 2026, selon plusieurs médias. Voici ce que les sources établissent sur le record.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-22",
+  "updatedAt": "2026-11-22",
+  "image": {
+    "src": "/articles/shenzhen-151-humanoid-robots-dance-reported-guinness-record.jpg",
+    "alt": "Visuel éditorial fourni montrant des humanoïdes devant un panneau mentionnant 151 robots et Guinness",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une place publique de Shenzhen s’est transformée en scène de démonstration robotique le 17 novembre 2026. Des reportages décrivent 151 humanoïdes exécutant une danse coordonnée, parmi lesquels le T800 de grande taille d’EngineAI. Des images de CBS reprises par KYMA le lendemain présentent l’événement comme un record Guinness. [Source · kyma.com](https://kyma.com/news/national-world/2026/11/18/robots-set-record-for-synchronized-dancing/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nombre est explicite dans les reportages ; la classification exacte demande davantage de précautions. Gasgoo décrit un défi portant sur le plus grand nombre de robots humanoïdes dansant simultanément en une heure. À la publication, PRESDA n’a pas pu rapprocher indépendamment l’événement d’une fiche publique Guinness. Le titre attribue donc le statut de record aux reportages. [Source · autonews.gasgoo.com](https://autonews.gasgoo.com/articles/news/151-humanoid-robots-successfully-challenge-guinness-world-record-2123030218822037505)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[PREMIUM5B_569]]",
+      "caption": "La danse de Shenzhen : affirmations et attribution",
+      "headings": [
+        "Question",
+        "Éléments rapportés"
+      ],
+      "rows": [
+        [
+          "Date",
+          "17 novembre 2026"
+        ],
+        [
+          "Lieu",
+          "District de Longgang, Shenzhen, Chine"
+        ],
+        [
+          "Nombre",
+          "151 participants retenus, selon les reportages"
+        ],
+        [
+          "Statut du record",
+          "Exploit Guinness rapporté ; fiche publique exacte non rapprochée indépendamment à la publication"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Que s’est-il passé à Shenzhen ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon Gasgoo, l’événement a eu lieu dans le district de Longgang, avec une coalition menée par le bureau local de l’intelligence artificielle et de la robotique, associant le magasin robotique 6S, EngineAI et d’autres entreprises. Son récit indique qu’un arbitre présent a annoncé 151 participants retenus. Cette description du défi est attribuée à la source ; PRESDA n’a pas effectué ce comptage. [Source · autonews.gasgoo.com](https://autonews.gasgoo.com/articles/news/151-humanoid-robots-successfully-challenge-guinness-world-record-2123030218822037505)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le reportage de VnExpress du 19 novembre précise la composition du groupe : 20 T800 auraient participé, avec des machines de sociétés dont Unitree et AgiBot. Il serait donc inexact de résumer l’événement à « 151 T800 ». Un ensemble d’humanoïdes peut participer à une même démonstration sans partager un modèle ou un fabricant unique. [Source · e.vnexpress.net](https://e.vnexpress.net/news/tech/tech-news/151-humanoid-robots-in-china-set-guinness-world-record-with-synchronized-dance-5146907.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi les termes de la catégorie comptent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un record Guinness est défini par des règles, au-delà de son chiffre spectaculaire. Compter sur une période donnée, compter des machines bougeant au même instant ou limiter la catégorie aux humanoïdes constituent des épreuves potentiellement différentes. Sans ces règles, comparer les totaux peut donner une idée trompeuse de l’exploit le plus vaste ou le plus exigeant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction importe ici car les reportages emploient à la fois le terme « synchronisé » et une qualification d’une heure. Il est possible de décrire clairement la danse observée et le total rapporté tout en conservant l’incertitude sur l’intitulé formel du record. Une rédaction ne doit pas supprimer une condition susceptible de déterminer le comptage."
+    },
+    {
+      "type": "heading",
+      "text": "Les records de danse robotique ont une histoire"
+    },
+    {
+      "type": "paragraph",
+      "text": "La page Guinness consacrée plus largement au plus grand nombre de robots dansant simultanément documente une autre catégorie avec de petits Alpha 1S. Elle décrit des machines de moins de 40 centimètres. Cette catégorie suffit à montrer pourquoi 151 grands humanoïdes ne doivent pas être présentés comme le plus vaste rassemblement de robots danseurs de toute l’histoire, tous types confondus. [Source · www.guinnessworldrecords.com](https://www.guinnessworldrecords.com/world-records/82589-most-robots-dancing-simultaneously)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le gouvernement de Jinan a également rapporté une prestation de 110 humanoïdes AgiBot Expedition A3 le 24 octobre 2026. Cet événement antérieur éclaire la succession rapide des démonstrations publiques. Il ne faut pas en faire automatiquement un précédent record directement comparable sans établir l’équivalence des conditions de comptage et de la catégorie. [Source · english.jinan.gov.cn](https://english.jinan.gov.cn/col/col108322/art/2026/art_747a0b4fcb034777888734c72ae68f02.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Quelles comparaisons sont pertinentes ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une comparaison utile commence par les machines, les règles et le cadre. Les participants ont-ils des dimensions similaires ? Chaque unité doit-elle terminer la chorégraphie ? Quelle durée est exigée ? Les robots tombés ou inactifs sont-ils retirés du total ? Ces questions rendent le record intelligible au-delà du chiffre affiché au-dessus d’une foule."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les reportages de Shenzhen établissent une grande démonstration publique et identifient les entreprises participantes. Ils détaillent moins la validation et l’architecture de commande. Cette limite doit rester visible. L’événement peut impressionner sans devenir la preuve de capacités techniques que les sources ne mesurent pas."
+    },
+    {
+      "type": "heading",
+      "text": "La coordination est un travail d’ingénierie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un humanoïde doit gérer son propre corps en mouvement. Commandes articulaires, équilibre, rythme et contact des pieds avec la surface comptent. Faire évoluer de nombreuses machines en formation ajoute une contrainte : leurs mouvements doivent rester compatibles avec ceux des voisins et avec l’espace disponible. Une routine visuellement simple peut demander une préparation minutieuse."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’intérêt d’une démonstration ne tient pas seulement à la production d’une posture. Il dépend aussi de la répétition régulière des mouvements dans une séquence. Avec plusieurs machines, un petit décalage temporel ou spatial devient visible. La coordination constitue donc un véritable sujet d’ingénierie, même lorsque le spectacle vise surtout le public."
+    },
+    {
+      "type": "subheading",
+      "text": "Une chorégraphie ne démontre pas l’intelligence générale"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plusieurs approches permettent de coordonner des robots, dont les séquences préparées et la supervision. Une vidéo de danse ne révèle pas, à elle seule, ce qui est préprogrammé, ce qui repose sur des corrections et les décisions prises indépendamment pendant la prestation. Elle ne montre pas non plus le comportement des machines dans une foule inconnue avec des obstacles imprévus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction porte sur la preuve et ne déprécie pas le matériel. Une routine réussie démontre cette routine dans ses conditions. Le raisonnement autonome, l’utilité domestique ou la sûreté du déploiement nécessitent d’autres essais conçus à ces fins. Le statut de record rapporté ne remplace pas ces évaluations distinctes."
+    },
+    {
+      "type": "heading",
+      "text": "Comprendre les machines derrière le spectacle"
+    },
+    {
+      "type": "paragraph",
+      "text": "La page officielle du G1 d’Unitree montre comment un fabricant décrit les capacités d’un modèle, sa configuration et sa plateforme de développement. Ces informations éclairent la catégorie matérielle, mais les caractéristiques d’un robot ne s’appliquent pas à toute une flotte hétérogène. Les sources sur Shenzhen ne permettent pas de traiter les 151 participants comme techniquement identiques. [Source · www.unitree.com](https://www.unitree.com/g1/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La photographie complémentaire montre un Unitree G1 lors d’une exposition de 2024. Sa date et sa source visibles en font un document de contexte matériel. Elle ne représente pas la danse de novembre 2026 et n’établit pas la participation de cet exemplaire. Le visuel principal fourni est également conservé comme image éditoriale, sans authentification indépendante du comptage final."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’article de PRESDA sur les [robots humanoïdes présentateurs de nouvelles](/articles/xinhua-ubtech-humanoid-robot-news-anchors/) étudie un autre usage public des machines à forme humaine. Dans les deux cas, il est utile de nommer la tâche démontrée. Une prestation convaincante renseigne sur ce rôle ; les conclusions générales sur l’intelligence ou le déploiement demandent leurs propres preuves."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que la démonstration révèle du secteur"
+    },
+    {
+      "type": "paragraph",
+      "text": "La lecture industrielle la plus solide est que plusieurs entreprises robotiques peuvent participer à une grande démonstration publique très visible. Elles y présentent leurs machines, attirent l’attention et mettent en scène un progrès coordonné. La maturité commerciale dépend toutefois de critères qu’une danse ne mesure pas seule, dont l’entretien, la fiabilité et les besoins pratiques des clients."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour un acheteur ou un chercheur, les questions suivantes concerneraient le fonctionnement répété, les pannes, la reprise et les conditions de travail des robots. Pour un spectateur, la chorégraphie rend ce matériel accessible et mémorable. Ces publics peuvent apprécier l’événement tout en lui posant des questions différentes."
+    },
+    {
+      "type": "subheading",
+      "text": "Quelles preuves préciseraient le récit du record ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une fiche publique Guinness ou les détails complets de certification clarifieraient la catégorie officielle et le comptage. Une documentation technique expliquerait la commande et le rôle de chaque type de robot. Tant que ces éléments ne sont pas établis, le récit distingue le record rapporté, la prestation observée et les explications générales de robotique."
+    },
+    {
+      "type": "paragraph",
+      "text": "La danse des 151 robots à Shenzhen offre une scène marquante d’un secteur en mouvement. Sa portée devient plus claire lorsque le chiffre est daté, le matériel correctement identifié et les limites des preuves visibles. On peut alors apprécier la prestation sans lui demander de démontrer davantage que ce qu’établissent les sources."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · kyma.com",
+      "url": "https://kyma.com/news/national-world/2026/11/18/robots-set-record-for-synchronized-dancing/"
+    },
+    {
+      "label": "Source · autonews.gasgoo.com",
+      "url": "https://autonews.gasgoo.com/articles/news/151-humanoid-robots-successfully-challenge-guinness-world-record-2123030218822037505"
+    },
+    {
+      "label": "Source · e.vnexpress.net",
+      "url": "https://e.vnexpress.net/news/tech/tech-news/151-humanoid-robots-in-china-set-guinness-world-record-with-synchronized-dance-5146907.html"
+    },
+    {
+      "label": "Source · www.guinnessworldrecords.com",
+      "url": "https://www.guinnessworldrecords.com/world-records/82589-most-robots-dancing-simultaneously"
+    },
+    {
+      "label": "Source · www.unitree.com",
+      "url": "https://www.unitree.com/g1/"
+    },
+    {
+      "label": "Source · english.jinan.gov.cn",
+      "url": "https://english.jinan.gov.cn/col/col108322/art/2026/art_747a0b4fcb034777888734c72ae68f02.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "151 humanoïdes ont-ils dansé à Shenzhen ?",
+      "answer": "La couverture de CBS reprise par KYMA et d’autres médias décrit une prestation de 151 humanoïdes le 17 novembre 2026."
+    },
+    {
+      "question": "Les 151 robots étaient-ils des T800 ?",
+      "answer": "Non. VnExpress mentionne 20 T800 et des machines de sociétés dont Unitree et AgiBot."
+    },
+    {
+      "question": "La catégorie Guinness est-elle confirmée indépendamment ici ?",
+      "answer": "L’article attribue l’affirmation aux reportages. PRESDA n’a pas pu rapprocher une fiche publique Guinness ; les sources incluent une qualification d’une heure."
+    },
+    {
+      "question": "La danse prouve-t-elle une intelligence générale ?",
+      "answer": "Non. Une routine coordonnée démontre une prestation dans ses conditions, sans établir à elle seule le raisonnement non scénarisé ou toute utilité pratique."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

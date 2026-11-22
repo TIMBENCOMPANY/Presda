@@ -1,0 +1,225 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/orca-fossils-large-prey-hunting-two-million-years/",
+  "path": "/es/articles/orca-fossils-large-prey-hunting-two-million-years/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-22",
+    "terminologyChecked": true
+  },
+  "title": "FÓSILES DE ORCAS RETROTRAEN LA CAZA DE GRANDES PRESAS A MÁS DE DOS MILLONES DE AÑOS",
+  "seoTitle": "Fósiles de orcas revelan caza de grandes presas hace más de dos millones de años",
+  "description": "Fósiles del mar del Norte de entre 2,6 y 2,1 millones de años aclaran la depredación en Orcinus. Las pruebas y los límites de la investigación.",
+  "excerpt": "Fósiles del mar del Norte de entre 2,6 y 2,1 millones de años aclaran la depredación en Orcinus. Las pruebas y los límites de la investigación.",
+  "headlineHighlights": {
+    "red": "FÓSILES DE ORCAS",
+    "gold": "DOS MILLONES DE AÑOS"
+  },
+  "keywords": [
+    "FÓSILES DE ORCAS",
+    "DOS MILLONES DE AÑOS"
+  ],
+  "searchIntent": "Fósiles del mar del Norte de entre 2,6 y 2,1 millones de años aclaran la depredación en Orcinus. Las pruebas y los límites de la investigación.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-22",
+  "updatedAt": "2026-11-22",
+  "image": {
+    "src": "/articles/orca-fossils-large-prey-hunting-two-million-years.jpg",
+    "alt": "Ilustración facilitada que compara una orca actual, un pariente antiguo y mandíbulas",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Unos huesos recuperados del sur del mar del Norte han ampliado el pasado de un depredador familiar. Un estudio publicado en PeerJ el 10 de noviembre de 2026 describe antiguos miembros grandes de Orcinus con anatomía apta para capturar presas importantes. El sedimento adherido a un fragmento de cráneo sitúa ese ejemplar entre aproximadamente 2,6 y 2,1 millones de años. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)[Fuente · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/43032379/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El hallazgo exige más precisión que afirmar que las orcas se hicieron superdepredadoras hace dos millones de años. Aporta evidencia antigua de adaptación a grandes presas. No identifica el instante de origen, no demuestra dietas idénticas en todos los animales ni establece que los fósiles pertenezcan a la especie actual Orcinus orca. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[PREMIUM5B_567]]",
+      "caption": "El estudio de las orcas del mar del Norte",
+      "headings": [
+        "Pregunta",
+        "Hallazgo publicado"
+      ],
+      "rows": [
+        [
+          "Publicación",
+          "PeerJ, 10 de noviembre de 2026; DOI 10.7717/peerj.21890"
+        ],
+        [
+          "Material",
+          "Cinco restos: dos cráneos, una mandíbula parcial y dos complejos atlas–axis"
+        ],
+        [
+          "Datación",
+          "Un ejemplar craneal de aproximadamente 2,6–2,1 millones de años"
+        ],
+        [
+          "Identificación",
+          "Orcinus sp.; especie no resuelta; individuos grandes estimados en 7,2–7,7 metros"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Qué encontraron los investigadores"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hidde Bakker y sus colegas estudiaron cinco restos: dos cráneos incompletos, parte de una mandíbula y dos complejos cervicales atlas–axis fusionados. Recuperados por pesqueros, se conservan en el Museo de Historia Natural de Róterdam. Las comparaciones estiman entre 7,2 y 7,7 metros para los individuos grandes, comparables a machos actuales de gran tamaño. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ejemplares se identifican como Orcinus sp.: se atribuye el género, pero la especie no está resuelta. La reserva tiene importancia científica. Un fósil puede revelar información de un linaje sin conservar suficiente anatomía para una identificación segura de especie. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Por qué importan los fragmentos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un fragmento de cráneo puede conservar una articulación, un alvéolo dental o proporciones de la caja craneana. Esos rasgos se comparan con animales más completos. Un fósil incompleto no es simplemente un esqueleto ideal roto: puede guardar una información concreta que permita medir y contrastar."
+    },
+    {
+      "type": "paragraph",
+      "text": "La fuerza del argumento depende de los rasgos conservados y de las conclusiones que admiten. La longitud corporal se estima con relaciones entre medidas de animales vivos y modelos tridimensionales. Es una inferencia, no la medición directa de un ejemplar antiguo completo desde el hocico hasta la cola."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo informa un hueso sobre la alimentación"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio describe anatomía robusta, incluidos alvéolos grandes, profundos y separados, además de rasgos craneales y cervicales compatibles con sujetar presas voluminosas. Junto al tamaño, respaldan una alimentación macroraptorial. El término describe una capacidad funcional, no un menú fosilizado que documente cada comida. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es la diferencia entre el diseño de una herramienta y el registro de su uso. Mandíbulas poderosas hacen plausible una estrategia, pero reconstruir la ecología requiere combinar indicios. Varios rasgos deben apuntar en una misma dirección; un hueso llamativo no ofrece una biografía conductual completa."
+    },
+    {
+      "type": "subheading",
+      "text": "El registro fósil conserva lo que sobrevivió"
+    },
+    {
+      "type": "paragraph",
+      "text": "El ejemplo más antiguo conocido fija una edad mínima en la evidencia disponible. Normalmente no señala la generación exacta en que apareció un rasgo. El material anterior puede no haberse fosilizado, haberse destruido o seguir sin descubrir. La fecha retrotrae la prueba sin establecer un origen único."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mar del Norte también ilustra una dificultad: los huesos del fondo marino no siempre proceden de un estrato excavado de forma controlada. Su contexto debe reconstruirse. Aquí, los microorganismos presentes en sedimento adherido permiten relacionar un fragmento craneal con un período geológico. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué significa el intervalo de 2,6 a 2,1 millones de años"
+    },
+    {
+      "type": "paragraph",
+      "text": "El material datado se atribuye al Gelasiense, al comienzo del Pleistoceno. El intervalo no implica conocer la edad al año exacto; es una estimación basada en microfósiles del sedimento. Conservarlo resulta más informativo que sustituirlo por dos millones de años artificialmente precisos. [Fuente · pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/43032379/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pruebas también responden a preguntas diferentes. Los fósiles acreditan formas grandes y adaptaciones anatómicas; la genética estudia relaciones entre poblaciones supervivientes. Una separación relativamente reciente de ecotipos actuales no descarta un pasado mucho más antiguo para una capacidad alimentaria general del linaje. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese es el valor del trabajo: incorporar anatomía física a una historia que podría quedar dominada por poblaciones vivas. Ambos registros pueden compararse sin suponer que la divergencia de un grupo actual fecha automáticamente el origen de todos sus rasgos."
+    },
+    {
+      "type": "heading",
+      "text": "Las orcas actuales no forman una población alimentaria uniforme"
+    },
+    {
+      "type": "paragraph",
+      "text": "NOAA Fisheries identifica a las orcas como los mayores miembros de la familia de los delfines y destaca diferencias de dieta, conducta y organización social. Algunas poblaciones se especializan en peces y otras en mamíferos marinos. El aprendizaje local y el grupo importan junto a la anatomía del depredador. [Fuente · www.fisheries.noaa.gov](https://www.fisheries.noaa.gov/species/killer-whale)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa diversidad aconseja hablar de capacidad y función ecológica. Un animal antiguo adaptado a grandes presas no tenía necesariamente todas las tradiciones de caza observadas hoy. La conducta de una orca depende tanto de su cuerpo como del entorno social donde aprende a utilizarlo."
+    },
+    {
+      "type": "subheading",
+      "text": "El pequeño pariente extinto"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio trata Orcinus citoniensis, una especie del Plioceno italiano de unos 3,5 metros, generalmente interpretada como piscívora. Los grandes fósiles del mar del Norte amplían las formas conocidas dentro del género. No demuestran una secuencia directa de antepasado y descendiente entre esos ejemplares concretos. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ortografía importa: una etiqueta de la imagen principal suministrada difiere del nombre Orcinus citoniensis empleado en el artículo científico. La ilustración se conserva sin cambios. Su reconstrucción y sus mandíbulas dibujadas no sustituyen los restos y las mediciones publicados."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo leer las figuras científicas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La primera figura muestra un fragmento craneal real junto con un cráneo actual de referencia y las zonas preservadas. La segunda compara fragmentos con modelos tridimensionales de cráneos y esqueletos. Ambas proceden del artículo de acceso abierto, con contexto y atribución. La zona coloreada no significa que se encontrara un esqueleto antiguo entero. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los visuales distinguen observación y reconstrucción: se observan los fragmentos y se infiere el cuerpo mediante comparación. Así puede entenderse la estimación sin confundir un esqueleto moderno de referencia con un hallazgo fósil completo. Esa diferencia forma parte de la explicación científica."
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo de PRESDA sobre [la teoría de la evolución de Darwin](/articles/charles-darwin-theory-of-evolution/) ofrece un marco general para el cambio entre generaciones. Este estudio plantea una cuestión más concreta: cuándo pueden demostrarse ciertas adaptaciones anatómicas en un linaje marino mediante una muestra pequeña pero informativa."
+    },
+    {
+      "type": "heading",
+      "text": "Qué cambia el descubrimiento"
+    },
+    {
+      "type": "paragraph",
+      "text": "La conclusión más firme es que el gran tamaño y la captura de grandes presas tienen en Orcinus una historia fósil más profunda de lo que sugeriría una lectura centrada en ecotipos modernos. La especie sigue sin resolverse. Un cráneo completo, un esqueleto asociado o un contexto mejor podrían afinar la interpretación o revelar otra especie antigua. [Fuente · pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El interés reside en huesos, comparaciones y una pista geológica fechada, en lugar de un eslogan evolutivo. Los fósiles no muestran todos los pasos que produjeron estos cazadores. Demuestran que una parte importante de esa historia estaba establecida hace más de dos millones de años."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13762349/"
+    },
+    {
+      "label": "Fuente · pubmed.ncbi.nlm.nih.gov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032379/"
+    },
+    {
+      "label": "Fuente · www.fisheries.noaa.gov",
+      "url": "https://www.fisheries.noaa.gov/species/killer-whale"
+    },
+    {
+      "label": "Fuente · peerj.com",
+      "url": "https://peerj.com/articles/21890/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Las orcas se hicieron depredadoras dominantes exactamente hace dos millones de años?",
+      "answer": "El estudio aporta evidencia de adaptaciones a grandes presas de hace más de dos millones de años, sin fechar su origen exacto."
+    },
+    {
+      "question": "¿Dónde se encontraron los fósiles?",
+      "answer": "En el fondo del sur del mar del Norte. Se conservan en el Museo de Historia Natural de Róterdam."
+    },
+    {
+      "question": "¿Eran con seguridad orcas modernas?",
+      "answer": "Los autores los identifican como Orcinus sp. No resuelven si pertenecían a Orcinus orca o a una especie antigua distinta."
+    },
+    {
+      "question": "¿La ilustración y los esqueletos son fotografías de fósiles completos?",
+      "answer": "La imagen principal es una ilustración. Las figuras distinguen los fragmentos antiguos de los cráneos y esqueletos actuales utilizados como referencia."
+    }
+  ],
+  "readingTimeMinutes": 7
+}
