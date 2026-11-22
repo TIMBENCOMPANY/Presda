@@ -1334,7 +1334,7 @@ export const newsNov15Articles: Article[] = [
     "seoTitle": "Türkiye receives first three KIZILELMA jets: what is confirmed",
     "metaDescription": "Baykar delivered three KIZILELMA unmanned fighter aircraft on November 19, 2026. The verified milestone, development history and limits of the claims.",
     "excerpt": "Baykar delivered three KIZILELMA unmanned fighter aircraft on November 19, 2026. The verified milestone, development history and limits of the claims.",
-    "category": "AI",
+    "category": "World",
     "schemaType": "NewsArticle",
     "date": "2026-11-21",
     "lastUpdated": "2026-11-21",
