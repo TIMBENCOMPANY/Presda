@@ -8,6 +8,118 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[QUAD23_570]]": {
+    "caption": "The 2026 ATP Finals title at a glance",
+    "headers": [
+      "Detail",
+      "Confirmed result"
+    ],
+    "rows": [
+      [
+        "Champion",
+        "Carlos Alcaraz, first ATP Finals singles title"
+      ],
+      [
+        "Final",
+        "Defeated Alexander Zverev 6–2, 7–6(7), November 22, 2026"
+      ],
+      [
+        "Tournament record",
+        "Five wins, no losses"
+      ],
+      [
+        "Champion’s total payout",
+        "$5,171,000, according to the official tournament report"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[QUAD23_571]]": {
+    "caption": "AFCON 2027: the confirmed host-city distribution",
+    "headers": [
+      "Country or milestone",
+      "Confirmed position"
+    ],
+    "rows": [
+      [
+        "Kenya",
+        "Nairobi"
+      ],
+      [
+        "Tanzania",
+        "Dar es Salaam, Arusha and Zanzibar"
+      ],
+      [
+        "Uganda",
+        "Kampala and Hoima"
+      ],
+      [
+        "Tournament dates",
+        "June 19 to July 17, 2027; specific stadium match allocations remain for CAF to confirm"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[QUAD23_572]]": {
+    "caption": "Boca’s continental breakthrough",
+    "headers": [
+      "Detail",
+      "Confirmed result"
+    ],
+    "rows": [
+      [
+        "Final",
+        "Boca Juniors 2–0 Atlético Mineiro, November 21, 2026"
+      ],
+      [
+        "Venue",
+        "Estadio Metropolitano Roberto Meléndez, Barranquilla, Colombia"
+      ],
+      [
+        "Scorers",
+        "Santiago Ascacíbar and Miguel Merentiel"
+      ],
+      [
+        "Historical meaning",
+        "Third Sudamericana title; first continental trophy since the 2008 Recopa"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[QUAD23_573]]": {
+    "caption": "The vampire camel: evidence and interpretation",
+    "headers": [
+      "Question",
+      "What the sources establish"
+    ],
+    "rows": [
+      [
+        "Identity",
+        "Vampyrocamelus welshi, an extinct North American camel relative"
+      ],
+      [
+        "Approximate age",
+        "Roughly 12–13 million years, as described by Donald Prothero in his CBC interview"
+      ],
+      [
+        "Diet",
+        "Interpreted as a herbivore; no evidence of blood-drinking"
+      ],
+      [
+        "Discovery",
+        "Recognition of distinctive fossils already held in museum collections, described in a 2026 monograph"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[PREMIUM5B_565]]": {
     "caption": "The reported wedding: key facts",
     "headers": [

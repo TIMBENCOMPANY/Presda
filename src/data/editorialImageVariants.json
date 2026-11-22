@@ -2262,5 +2262,131 @@
       "width": 1280,
       "src": "/articles/unitree-g1-uav-expo-2024-1280.webp"
     }
+  ],
+  "/articles/alcaraz-us-open-practice-2026.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/alcaraz-us-open-practice-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/alcaraz-us-open-practice-2026-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/alcaraz-us-open-practice-2026-1280.webp"
+    }
+  ],
+  "/articles/carlos-alcaraz-us-open-september-2026.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/carlos-alcaraz-us-open-september-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/carlos-alcaraz-us-open-september-2026-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/carlos-alcaraz-us-open-september-2026-1280.webp"
+    }
+  ],
+  "/articles/raila-odinga-stadium-construction-june-2026.webp": [
+    {
+      "width": 480,
+      "src": "/articles/raila-odinga-stadium-construction-june-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/raila-odinga-stadium-construction-june-2026-900.webp"
+    },
+    {
+      "width": 1140,
+      "src": "/articles/raila-odinga-stadium-construction-june-2026-1140.webp"
+    }
+  ],
+  "/articles/benjamin-mkapa-stadium-archive-2016.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/benjamin-mkapa-stadium-archive-2016-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/benjamin-mkapa-stadium-archive-2016-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/benjamin-mkapa-stadium-archive-2016-1280.webp"
+    }
+  ],
+  "/articles/hoima-city-stadium-september-2026.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/hoima-city-stadium-september-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/hoima-city-stadium-september-2026-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/hoima-city-stadium-september-2026-1280.webp"
+    }
+  ],
+  "/articles/santiago-ascacibar-argentina-archive-2017.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/santiago-ascacibar-argentina-archive-2017-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/santiago-ascacibar-argentina-archive-2017-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/santiago-ascacibar-argentina-archive-2017-1280.webp"
+    }
+  ],
+  "/articles/barranquilla-metropolitano-stadium-archive-2016.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/barranquilla-metropolitano-stadium-archive-2016-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/barranquilla-metropolitano-stadium-archive-2016-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/barranquilla-metropolitano-stadium-archive-2016-1280.webp"
+    }
+  ],
+  "/articles/aepycamelus-procamelus-amnh-comparative-skeletons.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/aepycamelus-procamelus-amnh-comparative-skeletons-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/aepycamelus-procamelus-amnh-comparative-skeletons-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/aepycamelus-procamelus-amnh-comparative-skeletons-1280.webp"
+    }
+  ],
+  "/articles/aepycamelus-dromomeryx-cheverlange-1931.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/aepycamelus-dromomeryx-cheverlange-1931-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/aepycamelus-dromomeryx-cheverlange-1931-900.webp"
+    },
+    {
+      "width": 960,
+      "src": "/articles/aepycamelus-dromomeryx-cheverlange-1931-960.webp"
+    }
   ]
 }

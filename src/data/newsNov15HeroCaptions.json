@@ -580,5 +580,29 @@
     "fr": "Visuel éditorial original fourni, conservé sans modification. Sa provenance événementielle et le décompte affiché n’ont pas été authentifiés indépendamment.",
     "ar": "الصورة التحريرية الأصلية المقدمة محفوظة دون تعديل. لم يوثق مستقلا مصدرها المرتبط بالحدث أو العدد الظاهر في رسوماتها.",
     "es": "Visual editorial original suministrado, conservado sin cambios. Su procedencia del acto y el conteo mostrado no se han autenticado independientemente."
+  },
+  "carlos-alcaraz-first-atp-finals-title-zverev-turin-2026": {
+    "en": "Original supplied portrait, preserved unchanged. Its provenance has not been independently authenticated as a photograph of the November 22, 2026 final.",
+    "fr": "Portrait original fourni, conservé sans modification. Sa provenance n’a pas été authentifiée indépendamment comme photographie de la finale du 22 novembre 2026.",
+    "ar": "البورتريه الأصلي المقدم محفوظ دون تعديل. لم يوثق مستقلا باعتباره صورة لنهائي 22 نوفمبر 2026.",
+    "es": "Retrato original suministrado, conservado sin cambios. No se ha autenticado independientemente como fotografía de la final del 22 de noviembre de 2026."
+  },
+  "afcon-2027-six-host-cities-kenya-tanzania-uganda": {
+    "en": "Supplied editorial montage, preserved unchanged. The trophy, flags and stadium illustrations are not a photographic record of certified 2027 venues.",
+    "fr": "Montage éditorial fourni, conservé sans modification. Trophée, drapeaux et illustrations de stades ne constituent pas un relevé photographique d’enceintes homologuées pour 2027.",
+    "ar": "المونتاج التحريري المقدم محفوظ دون تعديل. الكأس والأعلام ورسوم الملاعب ليست سجلا فوتوغرافيا لملاعب معتمدة لعام 2027.",
+    "es": "Montaje editorial suministrado, conservado sin cambios. El trofeo, las banderas y las ilustraciones no constituyen un registro fotográfico de recintos certificados para 2027."
+  },
+  "boca-juniors-sudamericana-2026-18-year-continental-drought": {
+    "en": "Supplied stylized editorial illustration of a Chucky-like character in Boca colors, preserved unchanged. It is not a photograph of a player or of the 2026 final.",
+    "fr": "Illustration éditoriale stylisée fournie, conservée sans modification, montrant un personnage évoquant Chucky aux couleurs de Boca. Ce n’est pas une photographie de joueur ni de la finale de 2026.",
+    "ar": "الرسم التحريري المقدم لشخصية شبيهة بتشاكي بألوان بوكا محفوظ دون تعديل. ليس صورة فوتوغرافية للاعب أو لنهائي 2026.",
+    "es": "Ilustración editorial estilizada suministrada de un personaje parecido a Chucky con los colores de Boca, conservada sin cambios. No es una fotografía de un jugador ni de la final de 2026."
+  },
+  "vampire-camel-vampyrocamelus-welshi-miocene-fossils": {
+    "en": "Supplied modern editorial reconstruction, preserved unchanged. It is not a fossil photograph, a verified complete anatomical model or an observed Miocene scene.",
+    "fr": "Reconstitution éditoriale moderne fournie, conservée sans modification. Ce n’est ni une photographie de fossile, ni un modèle anatomique complet vérifié, ni une scène observée au Miocène.",
+    "ar": "إعادة البناء التحريرية الحديثة المقدمة محفوظة دون تعديل. ليست صورة أحفورة أو نموذجا تشريحيا كاملا موثقا أو مشهدا تمت مشاهدته من الميوسين.",
+    "es": "Reconstrucción editorial moderna suministrada, conservada sin cambios. No es una fotografía fósil, un modelo anatómico completo verificado ni una escena observada del Mioceno."
   }
 }
