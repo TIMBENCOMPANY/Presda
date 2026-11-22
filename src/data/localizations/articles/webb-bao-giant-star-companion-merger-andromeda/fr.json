@@ -1,0 +1,217 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/webb-bao-giant-star-companion-merger-andromeda/",
+  "path": "/fr/articles/webb-bao-giant-star-companion-merger-andromeda/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-22",
+    "terminologyChecked": true
+  },
+  "title": "WEBB AIDE À RECONSTITUER LA FUSION D’UNE ÉTOILE GÉANTE AVEC SA COMPAGNE",
+  "seoTitle": "Webb révèle les suites de la fusion de Bao dans Andromède",
+  "description": "Les observations de Webb ont éclairé AT 2025abao, la fusion d’une géante avec une étoile plus petite. Dates, preuves et limites scientifiques expliquées.",
+  "excerpt": "Les observations de Webb ont éclairé AT 2025abao, la fusion d’une géante avec une étoile plus petite. Dates, preuves et limites scientifiques expliquées.",
+  "headlineHighlights": {
+    "red": "WEBB",
+    "gold": "FUSION"
+  },
+  "keywords": [
+    "WEBB",
+    "FUSION"
+  ],
+  "searchIntent": "Les observations de Webb ont éclairé AT 2025abao, la fusion d’une géante avec une étoile plus petite. Dates, preuves et limites scientifiques expliquées.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-22",
+  "updatedAt": "2026-11-22",
+  "image": {
+    "src": "/articles/webb-bao-giant-star-companion-merger-andromeda.jpg",
+    "alt": "Illustration fournie d’une étoile géante lumineuse entourée d’un anneau sombre de débris",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un point lumineux lointain a offert une occasion rare de suivre une transformation stellaire. En étudiant AT 2025abao, surnommé Bao, des astronomes ont reconstitué l’engloutissement d’une petite étoile par une géante dans Andromède. Webb a permis de relier les suites poussiéreuses de l’événement aux changements enregistrés auparavant par d’autres observatoires. La NASA a présenté les travaux le 18 novembre 2026. [Source · science.nasa.gov](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La formulation la plus solide reste précise : Webb a aidé à reconstituer une fusion. Il n’a pas photographié de près une étoile en train d’en avaler une autre. L’étude combine lumière non résolue, spectres et modélisation. Publiée dans Nature le 18 novembre, elle interprète les mesures comme une plongée en spirale dans l’enveloppe de la géante, suivie d’une fusion avec son cœur. [Source · www.nature.com](https://www.nature.com/articles/s41586-026-11221-z)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[PREMIUM3_563]]",
+      "caption": "Bao : les repères scientifiques",
+      "headings": [
+        "Question",
+        "Réponse vérifiée"
+      ],
+      "rows": [
+        [
+          "Objet",
+          "AT 2025abao, surnommé Bao, dans Andromède"
+        ],
+        [
+          "Masses modélisées",
+          "Environ 7 et 0,7 masses solaires"
+        ],
+        [
+          "Observation de Webb",
+          "24 décembre 2025"
+        ],
+        [
+          "Publication scientifique",
+          "18 novembre 2026 dans Nature"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Qu’est-il arrivé aux deux étoiles ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’équipe de Nature modélise une étoile principale d’environ sept masses solaires et une compagne d’environ 0,7 masse solaire. L’article identifie la première comme une étoile de la branche asymptotique des géantes. La présentation publique de la NASA parle de supergéante gonflée. Il s’agit ici d’une étoile évoluée et très étendue, et non d’un trou noir absorbant un objet. [Source · science.nasa.gov](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)[Source · www.nature.com](https://www.nature.com/articles/s41586-026-11221-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon la reconstitution, la compagne est entrée dans les couches externes vers 2018. La résistance du gaz a réduit son orbite pendant environ sept ans. Une éruption fin 2025 a marqué l’aboutissement de l’interaction. Nature Portfolio évoque l’éjection de 0,1 à 0,2 masse solaire de matière et souligne que de nouvelles observations doivent confirmer définitivement la fusion finale. [Source · www.natureasia.com](https://www.natureasia.com/en/info/press-releases/detail/9486)"
+    },
+    {
+      "type": "subheading",
+      "text": "Une enveloppe commune plutôt qu’une orbite vide"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étoile n’est pas une sphère solide. Sa limite visible correspond à une région d’où la lumière s’échappe ; une géante évoluée peut posséder une immense enveloppe externe relativement diffuse. Une compagne qui traverse ce gaz subit une résistance. En se resserrant, son orbite peut transférer de l’énergie à la matière environnante et modifier sa luminosité comme ses mouvements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce processus est appelé évolution à enveloppe commune : les deux composantes peuvent orbiter au sein d’une même enveloppe gazeuse. Il aide à comprendre comment un couple large devient un système serré. L’issue varie : certains couples expulsent le gaz et restent deux étoiles ; d’autres fusionnent. Bao apporte des éléments en faveur de cette seconde voie. [Source · www.nature.com](https://www.nature.com/articles/s41586-026-11221-z)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi l’infrarouge était décisif"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’éruption n’est qu’une partie du dossier. La poussière peut masquer la lumière visible tout en rayonnant dans l’infrarouge. Plusieurs longueurs d’onde permettent de demander si une source s’est réellement affaiblie, refroidie, obscurcie ou si son énergie apparaît dans une autre partie du spectre. Une seule photographie ne tranche pas ces possibilités."
+    },
+    {
+      "type": "paragraph",
+      "text": "MIRI, l’instrument de Webb pour l’infrarouge moyen, étudie des longueurs d’onde invisibles à l’œil humain. L’imagerie et la spectroscopie permettent d’examiner une matière plus froide et les signatures de son rayonnement. Séparer la lumière selon sa longueur d’onde fournit davantage qu’une mesure de luminosité globale. Le choix de l’instrument compte donc autant que l’image publiée. [Source · science.nasa.gov](https://science.nasa.gov/mission/webb/mid-infrared-instrument-miri/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour Bao, l’infrarouge a permis de contraindre les propriétés de la poussière et de tester l’histoire proposée. Un modèle doit expliquer plusieurs observations ensemble, et pas seulement produire une représentation convaincante. La poussière conserve des informations sur la matière perdue par les étoiles et sur la circulation de l’énergie dans leur environnement. [Source · www.nature.com](https://www.nature.com/articles/s41586-026-11221-z)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un réseau d’observatoires"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le communiqué de la NASA réunit NEOWISE, WINTER, SPHEREx, le Zwicky Transient Facility, Swift et Gemini North, en plus de Webb. L’éruption a été détectée en octobre 2025 ; Webb a observé le système le 24 décembre 2025. Ces mesures et la publication de novembre 2026 correspondent à des étapes différentes, pas à une explosion photographiée le jour de l’annonce. [Source · science.nasa.gov](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction est essentielle en astronomie. Date de découverte, date d’observation et date de publication peuvent diverger. À une distance extragalactique, l’événement physique précède aussi l’arrivée de sa lumière sur Terre. Un récit rigoureux ne transforme donc pas la date du communiqué en instant de la collision."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que montrent réellement les images"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le montage observationnel officiel situe Bao dans Andromède et compare différents instruments et phases. Les petites vignettes montrent l’évolution d’une source lointaine, pas les contours distincts de deux étoiles. Les couleurs et le traitement rendent les données lisibles sans transformer l’objet en une scène proche qu’un humain pourrait observer directement. [Source · science.nasa.gov](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le concept d’artiste NASA, ESA, CSA et STScI joue un autre rôle. Il traduit l’interprétation en une séquence spatiale de l’environnement partagé et de l’éruption. Il porte une identification explicite d’illustration. Un visuel présente les mesures dans leur contexte, l’autre explique le mécanisme proposé. [Source · www.stsci.edu](https://www.stsci.edu/contents/news-releases/2026/news-2026-132)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le visuel principal fourni pour cet article est lui aussi une illustration éditoriale, conservée sans modification. Il ne représente pas une observation de Webb ni une photographie de la surface de Bao. Les crédits et les règles d’utilisation des médias de la NASA accompagnent les images de soutien. [Source · www.nasa.gov](https://www.nasa.gov/nasa-brand-center/images-and-media/)"
+    },
+    {
+      "type": "heading",
+      "text": "Un résultat important au-delà de Bao"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il est difficile d’observer l’évolution à enveloppe commune du début à la fin. Un événement bref peut n’être repéré qu’après son moment le plus révélateur. Pour des systèmes anciens, les chercheurs doivent souvent déduire le passé à partir de vestiges actuels. Bao relie au contraire une source changeante à des observations accumulées dans le temps. [Source · www.nature.com](https://www.nature.com/articles/s41586-026-11221-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étude utilise ces données pour contraindre l’efficacité avec laquelle l’énergie orbitale contribue à expulser l’enveloppe. Si un modèle affecte trop ou trop peu d’énergie au gaz, il peut prédire une autre issue pour le couple. Un cas observé teste ces hypothèses, sans représenter à lui seul toutes les étoiles en interaction. [Source · www.nature.com](https://www.nature.com/articles/s41586-026-11221-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’astronomie consiste souvent à tirer du sens de signaux limités. Le récit de PRESDA consacré au [disque d’or de Voyager](/articles/voyager-golden-record-message-humanity-space/) explore le problème inverse : composer volontairement un message pour un observateur inconnu. Bao montre comment construire une explication à partir d’une lumière dont on ne peut visiter ni manipuler la source."
+    },
+    {
+      "type": "heading",
+      "text": "Les incertitudes qui demeurent"
+    },
+    {
+      "type": "paragraph",
+      "text": "La NASA présente avec confiance l’interprétation de fusion ; Nature Portfolio rappelle qu’un suivi doit en confirmer définitivement l’issue. Il faut lire ces deux positions ensemble. Les données soutiennent fortement la spirale et le modèle de fusion, mais le comportement futur du résidu et les prédictions à long terme restent à étudier. [Source · www.natureasia.com](https://www.natureasia.com/en/info/press-releases/detail/9486)[Source · www.stsci.edu](https://www.stsci.edu/contents/news-releases/2026/news-2026-132)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le suivi permettra de tester la stabilisation de la source, l’évolution de la matière autour d’elle et d’éventuelles explications alternatives. Une nouvelle observation ne servira pas simplement à ajouter une belle image : elle pourra modifier les contraintes sur la masse, la température et le bilan énergétique du système."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bao illustre ainsi la construction progressive d’une preuve, entre époques, instruments et méthodes. L’intérêt du récit dépasse l’appétit apparent d’une géante : il touche à la manière dont les étoiles échangent de la matière, perdent de l’énergie orbitale et deviennent parfois un seul objet."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · science.nasa.gov",
+      "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
+    },
+    {
+      "label": "Source · www.nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-11221-z"
+    },
+    {
+      "label": "Source · www.natureasia.com",
+      "url": "https://www.natureasia.com/en/info/press-releases/detail/9486"
+    },
+    {
+      "label": "Source · science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/webb/mid-infrared-instrument-miri/"
+    },
+    {
+      "label": "Source · www.stsci.edu",
+      "url": "https://www.stsci.edu/contents/news-releases/2026/news-2026-132"
+    },
+    {
+      "label": "Source · www.nasa.gov",
+      "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Webb a-t-il photographié une étoile en avalant une autre ?",
+      "answer": "Aucune image rapprochée n’a séparé les deux étoiles. Les données infrarouges de Webb ont aidé à reconstituer l’événement avec d’autres observations et des modèles."
+    },
+    {
+      "question": "Qu’est-ce que Bao ?",
+      "answer": "Bao est le surnom d’AT 2025abao, un événement transitoire d’Andromède interprété comme la fusion d’une géante avec une compagne plus petite."
+    },
+    {
+      "question": "Quand Webb a-t-il observé les suites ?",
+      "answer": "La NASA date les observations du 24 décembre 2025. L’étude et le communiqué ont été publiés le 18 novembre 2026."
+    },
+    {
+      "question": "La fusion est-elle définitivement établie ?",
+      "answer": "Les observations soutiennent fortement le modèle publié. Nature Portfolio demande un suivi pour confirmer définitivement l’issue et étudier le résidu."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

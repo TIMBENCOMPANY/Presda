@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/firouzja-total-chess-budapest-pilot-2026.jpg","/articles/webb-bao-giant-star-companion-merger-andromeda.jpg","/articles/first-free-human-balloon-flight-paris-1783.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/guatemala-el-mirador-maya-stucco-heads-2026.jpg","/articles/beyonce-100-grammy-nominations-morning-dew-2027.jpg","/articles/rafael-nadal-real-madrid-board-directors-2026.jpg","/articles/inca-mummies-coca-alcohol-harmine-sacrifice-study-2026.jpg","/articles/avril-lavigne-first-child-baby-girl-november-2026.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/turkiye-first-three-kizilelma-unmanned-fighter-jets-2026.jpg","/articles/makkah-clock-tower-guinness-highest-museum-observation-deck.jpg","/articles/bali-ganesha-synthetic-rattan-sculpture-world-record.jpg","/articles/mauritius-telecom-innovation-award-africa-tech-festival-2026.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/bts-mama-awards-2026-five-wins-two-grand-prizes.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

@@ -1,4 +1,4 @@
-import { getFeatureEvidenceImage } from "@/data/featureEvidencePhotos";
+import { getFeatureEvidenceImages } from "@/data/featureEvidencePhotos";
 import additionalEditorialImages from "@/data/articleEditorialSitemapImages.json";
 import architectureMedia from "@/data/architectureMedia.json";
 import { paintingSales } from "@/data/paintingSales";
@@ -16,8 +16,7 @@ export function articleEditorialSitemapImages(slug: string, locale: Locale = "en
       : slug === "panama-earthquake-7-7-october-9-2026"
         ? ["/maps/panama-usgs-shakemap-2026-10-09.jpg"]
         : (additionalEditorialImages as Record<string, string[]>)[slug] ?? [];
-  const evidenceImage = getFeatureEvidenceImage(slug, locale);
-  const renderedSources = evidenceImage ? [...sources, evidenceImage] : sources;
+  const renderedSources = [...sources, ...getFeatureEvidenceImages(slug, locale)];
   const variants = editorialVariants as Record<string, { src: string; width: number }[]>;
   return Array.from(new Set(renderedSources.flatMap(source => [
     variants[source]?.at(-1)?.src ?? source,

@@ -10,13 +10,13 @@ export function FeatureEvidencePhoto({ photo, locale }: { photo: NonNullable<Ret
   return (
     <figure data-feature-evidence={photo.file} className="my-8 overflow-hidden rounded-xl border border-white/15 bg-[#10131A] text-white">
       <div className="mx-auto" style={{ maxWidth: photo.width }}>
-        <LicensedEditorialImage src={`/articles/${photo.localizedFiles?.[locale] ?? photo.file}`} alt={caption} width={photo.width} height={photo.height} />
+        <LicensedEditorialImage src={`/articles/${photo.localizedFiles?.[locale] ?? photo.file}`} alt={photo.alts?.[locale] ?? caption} width={photo.width} height={photo.height} />
       </div>
       <figcaption className="p-5 text-sm leading-6">
         <p>{caption}</p>
         <p>
           <a className="underline" href={photo.source}>{photo.credit}</a>
-          {photo.license && <> · <a className="underline" href={photo.license} rel="license">{photo.licenseLabel ?? publicDomainLabel[locale]}</a></>}
+          {photo.license && <> · <a className="underline" href={photo.license} rel="license">{photo.licenseLabels?.[locale] ?? photo.licenseLabel ?? publicDomainLabel[locale]}</a></>}
         </p>
       </figcaption>
     </figure>

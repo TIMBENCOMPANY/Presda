@@ -1,6 +1,317 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "562",
+    "slug": "firouzja-total-chess-budapest-pilot-2026",
+    "title": "ALIREZA FIROUZJA WINS THE TOTAL CHESS PILOT IN BUDAPEST",
+    "seoTitle": "Firouzja wins Total Chess Budapest: final and format explained",
+    "metaDescription": "Alireza Firouzja won the Budapest pilot on November 20, 2026. How the Armageddon draw, weighted scoring and three chess formats decided the title.",
+    "excerpt": "Alireza Firouzja won the Budapest pilot on November 20, 2026. How the Armageddon draw, weighted scoring and three chess formats decided the title.",
+    "category": "Sport",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-22",
+    "lastUpdated": "2026-11-22",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/firouzja-total-chess-budapest-pilot-2026.jpg",
+    "coverAlt": "Supplied portrait of Alireza Firouzja with a Total Chess Budapest 2026 trophy",
+    "headlineHighlights": {
+      "red": "FIROUZJA",
+      "gold": "TOTAL CHESS"
+    },
+    "tags": [
+      "FIROUZJA",
+      "Sport"
+    ],
+    "content": [
+      "An ordinary draw ended an extraordinary experiment. Alireza Firouzja won the Total Chess pilot in Budapest on November 20, 2026, holding Anish Giri with the black pieces in the deciding Armageddon game. Under that tiebreak’s draw-odds rule, avoiding defeat was enough to become the tournament’s first winner. Fabiano Caruana finished third. [FIDE: November 20 final report](https://www.fide.com/alireza-firouzja-wins-total-chess-budapest-pilot/)",
+      "The result deserves a precise label: Firouzja won the Budapest pilot, a test of a competition combining three speeds of chess. It was not a victory in the separate classical World Championship match. The distinction matters because Total Chess is trying to measure something different: adaptability across changing time controls, rather than mastery of just one championship format. [Total Chess: Budapest format and time controls](https://www.totalchess.com/tournaments/budapest-2026/how-it-works)[Total Chess: tournament overview and standings](https://www.totalchess.com/tournaments/budapest-2026)",
+      "[[PREMIUM3_562]]",
+      "## How Firouzja turned the final around",
+      "Giri had won the first day of the final, 11–9. Firouzja answered with a 12–8 second-day victory, making the match one daily win apiece and sending it into a sudden-death decider. Those daily scores were not simply added together to declare a champion. The tournament’s knockout system treated the two days as separate contests. [FIDE: November 20 final report](https://www.fide.com/alireza-firouzja-wins-total-chess-budapest-pilot/)",
+      "Friday’s blitz segment ended level. Firouzja’s win with Black in the first rapid game, followed by a draw, changed the balance before the final Fast Classic game. A draw there preserved his daily advantage. The Armageddon then lasted 35 moves and ended peacefully on the board, but decisively in the standings: Black’s draw odds gave Firouzja the title. [FIDE: November 20 final report](https://www.fide.com/alireza-firouzja-wins-total-chess-budapest-pilot/)",
+      "### Why a draw can produce a winner",
+      "Armageddon is designed to remove the possibility of an unresolved match. Its asymmetry changes the objective: White must win, while Black can secure the match by drawing. That makes a drawn position a successful competitive outcome for one player, even though the game itself remains a draw. Calling Firouzja’s final game a conventional win would misdescribe what happened.",
+      "For spectators, the easiest way to follow such a finish is to distinguish three layers: the result of an individual game, the weighted points earned during a day, and the outcome of the two-day match. Each answers a different question. Much of the drama in Budapest came from the way those layers interacted, rather than from a single decisive move.",
+      "## A tournament built around three different clocks",
+      "The Budapest event ran from November 10 to 20 at the Anantara New York Palace Hotel. Twenty-four players entered a structure moving from an opening blitz competition to groups and then placement brackets. The organizer’s format guide describes a nine-round Blitz Swiss, four groups of six, and a knockout phase that continued to determine places throughout the field. [Total Chess: Budapest format and time controls](https://www.totalchess.com/tournaments/budapest-2026/how-it-works)[Total Chess: tournament overview and standings](https://www.totalchess.com/tournaments/budapest-2026)",
+      "The clocks explain the name. Fast Classic gives each player 45 minutes plus 30 seconds per move; rapid uses 15 minutes plus 10 seconds; blitz uses three minutes plus two seconds. These are not cosmetic changes. A player who can calculate deeply with a large reserve of time must also make sound practical decisions when the clock leaves little room to check every variation. [Total Chess: Budapest format and time controls](https://www.totalchess.com/tournaments/budapest-2026/how-it-works)",
+      "In the knockout phase, each day featured four blitz games, two rapid games and one Fast Classic game. Their weighting was equally important: a win brought one, four and eight points respectively, with half those amounts for a draw. The longer game could therefore change a day’s result even after several faster games had been completed. [FIDE: November 20 final report](https://www.fide.com/alireza-firouzja-wins-total-chess-budapest-pilot/)",
+      "### The arithmetic behind the suspense",
+      "That weighting rewards range, but it also means the number of games won is not a complete guide to who is leading. Four blitz victories carry the same daily value as one rapid victory, and half the value of a Fast Classic win. A viewer counting only wins and losses can therefore reach the wrong conclusion about the match situation.",
+      "The system asks a particular sporting question: how much should a competition value consistency at speed against performance in its longest game? Budapest supplied a live test, with actual players confronting those trade-offs. It does not establish that one scoring model is universally better. It shows how a set of rules can create different incentives from a conventional round-robin.",
+      "## A champion with an established elite pedigree",
+      "Firouzja arrived with a career that already extended well beyond the label of prodigy. FIDE’s December 2021 rating report recorded him at 2804 and described him as the youngest player to pass 2800. He also won the 2021 Grand Swiss and earned individual gold at that year’s European Team Championship, helping establish his place among the strongest players of his generation. [FIDE: Firouzja passes 2800 in December 2021 rating list](https://www.fide.com/alireza-firouzja-surpasses-2800-mark-in-december-rating-list/)",
+      "Those achievements provide context rather than a shortcut to explaining every game in Budapest. A rating milestone is a record of performance at a particular time, not a guarantee of future results. The pilot title adds a different kind of evidence to his résumé: he survived a final in which recovery between days and adjustment between time controls were central to the contest.",
+      "The experiment also belongs to a longer history of changing competitive conventions. PRESDA’s [history of chess](/articles/history-of-chess/) follows the game’s development across cultures and eras. Budapest adds a contemporary example: an established board and familiar pieces can support a different sporting test when clocks, scoring and match structure change.",
+      "## What the pilot proved, and what remains to be refined",
+      "Caruana completed the podium ahead of Maxime Vachier-Lagrave. The broader experiment did not end with the trophy presentation. In a November 21 statement, FIDE congratulated the medalists while addressing Magnus Carlsen’s Fast Classic forfeit during the placement phase. The federation said it would work with Total Chess on rules governing forfeits and their consequences before the 2027 season. [FIDE: November 20 final report](https://www.fide.com/alireza-firouzja-wins-total-chess-budapest-pilot/)[FIDE: November 21 statement on the pilot](https://www.fide.com/fide-statement-on-the-conclusion-of-the-total-chess-world-championship-tour-pilot-2026/)",
+      "That is an important part of the story rather than an incidental controversy. A format that combines several disciplines needs clear rules for what happens when a player does not complete one of them. Spectators, opponents and organizers must be able to understand how a missed game affects a match, the standings and the credibility of the overall competition.",
+      "The pilot can therefore be read on two levels. Firouzja’s victory is a completed sporting result. The longer-term success of the format remains a question for subsequent events, audience experience and the regulations that emerge from this test. Neither conclusion requires exaggerating the other: the champion is confirmed, while the experiment is still developing.",
+      "## Reading the photographs and the result responsibly",
+      "The supporting photographs show genuine competition in Budapest and are credited to Michal Walusza through Total Chess’s editorial media offer. They document the setting and players; the official results and regulations establish the scores. The supplied hero is preserved separately as a user-provided editorial visual, without claiming independent authentication of its provenance. [Total Chess: official tournament photographs](https://www.totalchess.com/tournaments/budapest-2026/gallery)",
+      "The lasting image of the final is not necessarily a checkmate. It is a player recognizing exactly what the rules required and securing that outcome under pressure. Firouzja’s title came through a drawn game, a recovered match and a format whose central challenge was to make several kinds of chess belong to one competition."
+    ],
+    "references": [
+      {
+        "name": "FIDE: November 20 final report",
+        "url": "https://www.fide.com/alireza-firouzja-wins-total-chess-budapest-pilot/"
+      },
+      {
+        "name": "Total Chess: Budapest format and time controls",
+        "url": "https://www.totalchess.com/tournaments/budapest-2026/how-it-works"
+      },
+      {
+        "name": "Total Chess: tournament overview and standings",
+        "url": "https://www.totalchess.com/tournaments/budapest-2026"
+      },
+      {
+        "name": "FIDE: November 21 statement on the pilot",
+        "url": "https://www.fide.com/fide-statement-on-the-conclusion-of-the-total-chess-world-championship-tour-pilot-2026/"
+      },
+      {
+        "name": "FIDE: Firouzja passes 2800 in December 2021 rating list",
+        "url": "https://www.fide.com/alireza-firouzja-surpasses-2800-mark-in-december-rating-list/"
+      },
+      {
+        "name": "Total Chess: official tournament photographs",
+        "url": "https://www.totalchess.com/tournaments/budapest-2026/gallery"
+      }
+    ],
+    "relatedSlugs": [
+      "history-of-chess"
+    ],
+    "faq": [
+      {
+        "question": "Who won the Total Chess Budapest pilot?",
+        "answer": "Alireza Firouzja won on November 20, 2026. Anish Giri was second and Fabiano Caruana third."
+      },
+      {
+        "question": "Did Firouzja win the final Armageddon game?",
+        "answer": "The game was drawn. Firouzja won the match because he had Black and the tiebreak gave Black draw odds."
+      },
+      {
+        "question": "What formats did Total Chess combine?",
+        "answer": "Fast Classic, rapid and blitz, with different clocks and weighted knockout scoring."
+      },
+      {
+        "question": "Was this the classical World Championship?",
+        "answer": "No. It was the Budapest pilot of the Total Chess format, a separate competition testing combined performance across three time controls."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "563",
+    "slug": "webb-bao-giant-star-companion-merger-andromeda",
+    "title": "WEBB HELPS RECONSTRUCT A GIANT STAR’S MERGER WITH ITS COMPANION",
+    "seoTitle": "Webb reveals the aftermath of Bao’s stellar merger in Andromeda",
+    "metaDescription": "Webb observations helped reconstruct AT 2025abao, a giant star’s merger with a smaller companion. The evidence, dates and scientific limits explained.",
+    "excerpt": "Webb observations helped reconstruct AT 2025abao, a giant star’s merger with a smaller companion. The evidence, dates and scientific limits explained.",
+    "category": "Science",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-22",
+    "lastUpdated": "2026-11-22",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/webb-bao-giant-star-companion-merger-andromeda.jpg",
+    "coverAlt": "Supplied illustration of a glowing giant star surrounded by a dark debris ring",
+    "headlineHighlights": {
+      "red": "WEBB",
+      "gold": "STAR’S MERGER"
+    },
+    "tags": [
+      "WEBB",
+      "Science"
+    ],
+    "content": [
+      "A distant point of light became a rare opportunity to follow a stellar transformation. Astronomers studying AT 2025abao, nicknamed Bao, reconstructed how a giant star engulfed a smaller companion in the Andromeda galaxy. Observations from the James Webb Space Telescope helped connect the dusty aftermath to years of earlier changes recorded by other observatories. NASA announced the research on November 18, 2026. [NASA: November 18, 2026 Bao release and image credits](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)",
+      "The strongest version of the headline is also the most careful: Webb helped reconstruct a merger. It did not return a close-up photograph of one star swallowing another. The research combines unresolved light, spectra and physical modeling. The study, published in Nature on November 18, interprets those measurements as a companion spiraling through the giant’s envelope and ultimately merging with its core. [Karambelkar and colleagues: Nature research paper, November 18, 2026](https://www.nature.com/articles/s41586-026-11221-z)",
+      "[[PREMIUM3_563]]",
+      "## What happened to the two stars?",
+      "The Nature team modeled a primary star of approximately seven solar masses and a companion of about 0.7 solar masses. The paper identifies the larger object as an asymptotic giant branch star. NASA’s public explanation describes a puffed-up supergiant. Both descriptions refer here to an evolved, extended star, rather than to a black hole consuming a passing object. [NASA: November 18, 2026 Bao release and image credits](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)[Karambelkar and colleagues: Nature research paper, November 18, 2026](https://www.nature.com/articles/s41586-026-11221-z)",
+      "According to the reconstruction, the smaller star entered the larger star’s outer layers around 2018. Over roughly seven years, drag progressively reduced its orbit. An eruption late in 2025 marked the dramatic culmination of that interaction. Nature Portfolio’s research summary reports an estimated 0.1–0.2 solar masses of expelled material, while emphasizing the need for further observations to confirm the final merger conclusively. [Nature Portfolio: observations and remaining uncertainty](https://www.natureasia.com/en/info/press-releases/detail/9486)",
+      "### A shared envelope, not an empty orbit",
+      "A star is not a solid ball with a hard surface. Its visible boundary is a region from which light escapes, and an evolved giant can have an enormous, relatively diffuse outer envelope. A companion moving through that gas encounters resistance. As its orbit shrinks, orbital energy can be transferred to the surrounding material, changing both the system’s brightness and the movement of its gas.",
+      "This process is called common-envelope evolution because the two stellar components can orbit within a shared gaseous envelope. It is central to understanding how a wide binary may become a much closer system. The outcome is not predetermined: some binaries can eject surrounding material and survive as two stars, while others merge. Bao provides evidence for the latter route in this particular case. [Karambelkar and colleagues: Nature research paper, November 18, 2026](https://www.nature.com/articles/s41586-026-11221-z)",
+      "## Why infrared observations mattered",
+      "An eruption is only one part of the evidence. Dust around a changing star can hide visible light while radiating in the infrared. Observing several wavelengths lets astronomers ask whether a source has genuinely faded, cooled, become obscured, or redistributed its energy into a different part of the spectrum. A photograph in one band cannot settle all those possibilities.",
+      "Webb’s Mid-Infrared Instrument, or MIRI, is designed to study light beyond the wavelengths visible to human eyes. Its imaging and spectroscopy capabilities let researchers examine cooler material and the spectral signatures carried by infrared radiation. Spectroscopy separates light by wavelength, providing more information than a single brightness measurement. That is why instrument choice matters as much as the dramatic appearance of a published image. [NASA: how Webb’s Mid-Infrared Instrument works](https://science.nasa.gov/mission/webb/mid-infrared-instrument-miri/)",
+      "In Bao’s case, the infrared evidence constrained the dust surrounding the system and helped test the proposed history. A successful model must account for multiple observations together, rather than merely produce a convincing illustration. The dust is not decorative background; it preserves information about material that left the stars and about how energy traveled through their surroundings. [Karambelkar and colleagues: Nature research paper, November 18, 2026](https://www.nature.com/articles/s41586-026-11221-z)",
+      "### A network of telescopes, rather than a solitary discovery",
+      "NASA’s release describes evidence from NEOWISE, WINTER, SPHEREx, the Zwicky Transient Facility, Swift and Gemini North alongside Webb. The eruption was detected in October 2025, while Webb observed on December 24, 2025. The observations and the November 2026 publication therefore belong to different stages of the same investigation, not to a newly photographed explosion on the day the news appeared. [NASA: November 18, 2026 Bao release and image credits](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)",
+      "That distinction is especially useful in astronomy. A discovery date, the date light was recorded and the date a paper was published may all differ. At extragalactic distances, the physical event also predates the light’s arrival at Earth. A responsible account keeps those clocks separate instead of turning the publication date into the moment the stars actually collided.",
+      "## What the images can and cannot show",
+      "The official observation composite places Bao in Andromeda and compares views from different instruments and phases. Its small panels show changes in a distant source, not the resolved outlines of two stars. The colors and processing make scientific information accessible, but they do not transform the object into a nearby scene that a human observer could watch unaided. [NASA: November 18, 2026 Bao release and image credits](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)",
+      "The accompanying NASA, ESA, CSA and STScI artist’s concept serves a different purpose. It translates the proposed sequence into a spatial picture, showing the shared environment and eruption. Its labels identify it as an illustration. Both visuals are useful when read correctly: one displays measurements in context; the other explains the physical interpretation of those measurements. [STScI: the Bao discovery announcement](https://www.stsci.edu/contents/news-releases/2026/news-2026-132)",
+      "This article’s supplied hero is likewise an editorial illustration, preserved unchanged. It is not a Webb observation or a literal image of Bao’s stellar surface. Keeping those distinctions visible allows visual storytelling to add understanding without becoming counterfeit evidence. Official image credits and the applicable NASA media guidelines accompany the supporting material. [NASA: images and media usage guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/)",
+      "## Why the result matters beyond one unusual star",
+      "Common-envelope evolution is difficult to observe from beginning to end. A short-lived event may be noticed only after its most revealing stage has passed, and older systems often require scientists to infer their past from present-day remnants. Bao’s value lies in connecting an evolving source to an expanding observational record rather than relying solely on a retrospective reconstruction. [Karambelkar and colleagues: Nature research paper, November 18, 2026](https://www.nature.com/articles/s41586-026-11221-z)",
+      "The paper uses that record to constrain how efficiently orbital energy helps remove a giant’s envelope. This is more than a question of how impressive an eruption looks. If models put too much or too little energy into ejecting gas, they can predict a different outcome for the binary. An observed case helps test those assumptions, even though one system cannot represent the entire population of interacting stars. [Karambelkar and colleagues: Nature research paper, November 18, 2026](https://www.nature.com/articles/s41586-026-11221-z)",
+      "The broader story of astronomy is often about extracting meaning from limited signals. PRESDA’s exploration of [Voyager’s Golden Record](/articles/voyager-golden-record-message-humanity-space/) examines the reverse challenge: deliberately encoding a message for an unknown observer. Bao illustrates how researchers assemble a physical explanation from light whose source cannot be visited or manipulated.",
+      "## What remains uncertain",
+      "NASA’s announcement presents the merger interpretation confidently; Nature Portfolio explicitly notes that continued observations are needed to confirm its final outcome conclusively. Those statements should be read together. The data strongly support an inspiral and a merger model, while the remnant’s later behavior and the model’s longer-term predictions remain subjects for further investigation. [Nature Portfolio: observations and remaining uncertainty](https://www.natureasia.com/en/info/press-releases/detail/9486)[STScI: the Bao discovery announcement](https://www.stsci.edu/contents/news-releases/2026/news-2026-132)",
+      "Future monitoring can test whether the surviving source settles as expected, how its surrounding material evolves and whether alternative explanations remain viable. The next observation will not merely add another attractive picture. It can change the constraints on the system’s mass, temperature and energy budget, which are the quantities that make the interpretation scientifically useful.",
+      "Bao is therefore a powerful example of evidence accumulating across time, instruments and methods. The discovery is compelling precisely because the story does not stop at a giant star’s apparent appetite. It reaches into the difficult physics of how stars exchange matter, surrender orbital energy and sometimes become one."
+    ],
+    "references": [
+      {
+        "name": "NASA: November 18, 2026 Bao release and image credits",
+        "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
+      },
+      {
+        "name": "Karambelkar and colleagues: Nature research paper, November 18, 2026",
+        "url": "https://www.nature.com/articles/s41586-026-11221-z"
+      },
+      {
+        "name": "Nature Portfolio: observations and remaining uncertainty",
+        "url": "https://www.natureasia.com/en/info/press-releases/detail/9486"
+      },
+      {
+        "name": "NASA: how Webb’s Mid-Infrared Instrument works",
+        "url": "https://science.nasa.gov/mission/webb/mid-infrared-instrument-miri/"
+      },
+      {
+        "name": "STScI: the Bao discovery announcement",
+        "url": "https://www.stsci.edu/contents/news-releases/2026/news-2026-132"
+      },
+      {
+        "name": "NASA: images and media usage guidelines",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      }
+    ],
+    "relatedSlugs": [
+      "voyager-golden-record-message-humanity-space"
+    ],
+    "faq": [
+      {
+        "question": "Did Webb photograph a star swallowing another star?",
+        "answer": "No close-up view resolved the two stars. Webb’s infrared data helped researchers reconstruct the event alongside other observations and modeling."
+      },
+      {
+        "question": "What is Bao?",
+        "answer": "Bao is the nickname of AT 2025abao, a transient event in the Andromeda galaxy interpreted as a giant star’s merger with a smaller companion."
+      },
+      {
+        "question": "When did Webb observe the aftermath?",
+        "answer": "NASA dates Webb’s observations to December 24, 2025. The study and NASA announcement were published on November 18, 2026."
+      },
+      {
+        "question": "Is the merger fully settled science?",
+        "answer": "The observations strongly support the published merger interpretation. Nature Portfolio says further monitoring is needed to confirm the final outcome conclusively and study the remnant."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "564",
+    "slug": "first-free-human-balloon-flight-paris-1783",
+    "title": "THE FIRST FREE HUMAN BALLOON FLIGHT: 25 MINUTES ABOVE PARIS",
+    "seoTitle": "First free human balloon flight: Paris, November 21, 1783",
+    "metaDescription": "Pilâtre de Rozier and the Marquis d’Arlandes flew above Paris for about 25 minutes in 1783. Explore the pioneers, balloon and authentic archival prints.",
+    "excerpt": "Pilâtre de Rozier and the Marquis d’Arlandes flew above Paris for about 25 minutes in 1783. Explore the pioneers, balloon and authentic archival prints.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-22",
+    "lastUpdated": "2026-11-22",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/first-free-human-balloon-flight-paris-1783.jpg",
+    "coverAlt": "Modern supplied reconstruction of two balloon pioneers flying above Paris",
+    "headlineHighlights": {
+      "red": "FIRST FREE HUMAN",
+      "gold": "25 MINUTES"
+    },
+    "tags": [
+      "FIRST FREE HUMAN",
+      "History"
+    ],
+    "content": [
+      "For about 25 minutes on November 21, 1783, two people traveled above Paris without a rope connecting them to the ground. Jean-François Pilâtre de Rozier and François Laurent, Marquis d’Arlandes, rose from the grounds of the Château de la Muette in a Montgolfier hot-air balloon. Their flight covered roughly nine kilometers before they landed near the Butte-aux-Cailles, beyond the city’s ramparts. [Museum of Flight: November 21 flight, route and duration](https://www.museumofflight.org/exhibits-and-events/exhibits/montgolfier-brothers-balloon)",
+      "This was the first documented free, untethered human balloon flight. That wording identifies a specific achievement. It does not confuse an ascent tied to the ground with an independent journey, or a balloon lifted by heated air with a powered aircraft. Within those limits, a brief passage across Paris changed what human beings could demonstrably do. [Library of Congress: The Dream of Flight exhibition](https://www.loc.gov/exhibits/dreamofflight/dream-dream.html)[Guinness World Records: first untethered crewed balloon flight](https://www.guinnessworldrecords.com/world-records/385167-first-free-manned-balloon-flight)",
+      "[[PREMIUM3_564]]",
+      "## The inventors and the people who actually flew",
+      "Joseph-Michel and Jacques-Étienne Montgolfier developed the practical hot-air balloon. Their names became attached to the machine, the montgolfière, but the two men aboard the November 21 flight were Pilâtre de Rozier, a scientific lecturer and experimenter, and d’Arlandes, a military officer. Inventing the vehicle and volunteering to occupy it were related but separate roles. [Museum of Flight: November 21 flight, route and duration](https://www.museumofflight.org/exhibits-and-events/exhibits/montgolfier-brothers-balloon)[Smithsonian: eighteenth-century ballooning context](https://www.si.edu/object/nasm_A20000711000)",
+      "That distinction prevents a common compression of the story into an image of “the Montgolfier brothers flying over Paris.” Their invention enabled the journey; other men carried out the celebrated first free human flight. A history attentive to roles gives credit to both the makers and the aeronauts, while leaving room for the testing and public demonstrations that made the attempt possible.",
+      "### Why paper makers entered the history of flight",
+      "The Smithsonian’s account places the Montgolfiers’ public demonstration at Annonay on June 4, 1783. It was part of a succession of experiments that moved rapidly from proving lift to considering living passengers. The breakthrough was practical: an envelope containing heated air could rise, remain aloft for a time and carry a load. It gave an old human ambition a repeatable mechanism. [Smithsonian: eighteenth-century ballooning context](https://www.si.edu/object/nasm_A20000711000)",
+      "The principle does not require wings. Heated air is less dense than the cooler surrounding atmosphere, so a sufficiently large volume can provide buoyant lift. But explaining why an envelope rises is not the same as making it safe. The structure, heat source, passenger support and landing all become part of the engineering problem as soon as people leave the ground.",
+      "## Versailles was a different flight",
+      "On September 19, 1783, a Montgolfier balloon carried a sheep, a duck and a rooster from Versailles before the royal court. The Château de Versailles’s history records that animal experiment as a major step toward human flight. It was not the 25-minute journey over Paris, and its date should not be transferred to the later achievement. [Château de Versailles: September 19, 1783 animal flight](https://en.chateauversailles.fr/discover/history/key-dates/first-hot-air-balloon-flight)",
+      "The distinction also matters when looking at images. A period engraving of the balloon above the palace can be authentic evidence of how the Versailles demonstration was represented, while still being the wrong illustration for a caption claiming to show the November departure from La Muette. Dates, places and the identity of the passengers have to travel with the picture. [Library of Congress: Versailles print, LCCN 2002721989](https://www.loc.gov/item/2002721989/)",
+      "Tethered ascents supplied another essential stage. A rope could keep an ascending balloon within reach and allow an experimenter to experience the machine without committing to a journey on the wind. The November flight crossed that threshold: the people aboard could regulate aspects of their ascent, but they could no longer rely on a tether to bring them back to the launch site. [Museum of Flight: November 21 flight, route and duration](https://www.museumofflight.org/exhibits-and-events/exhibits/montgolfier-brothers-balloon)",
+      "## Twenty-five minutes over an eighteenth-century city",
+      "The Museum of Flight describes a journey from La Muette in western Paris to the Butte-aux-Cailles, a distance of about nine kilometers. It gives an altitude of approximately 910 meters. These figures are historical estimates, not the output of a modern GPS recorder. The duration of about 25 minutes is also the figure used in the Library of Congress’s account. [Museum of Flight: November 21 flight, route and duration](https://www.museumofflight.org/exhibits-and-events/exhibits/montgolfier-brothers-balloon)[Library of Congress: The Dream of Flight exhibition](https://www.loc.gov/exhibits/dreamofflight/dream-dream.html)",
+      "The route is part of what made the demonstration important. This was not simply a vertical ascent followed by a return to the same patch of ground. The balloon carried its passengers across a recognizable urban landscape and beyond the ramparts. The city below became both a measure of distance and an audience for an event that no previous generation had seen in that form.",
+      "### Freedom from a tether did not mean freedom from the wind",
+      "A hot-air balloon is not an airplane with an engine and steering surfaces. Its horizontal journey depends on the air through which it moves. Changing lift can affect altitude, but it does not supply the kind of direct directional control associated with later powered aviation. “Free flight” therefore describes the absence of restraint by a ground tether, rather than complete command over a route.",
+      "That limitation makes the accomplishment more interesting, not less. The aeronauts accepted that leaving the ground meant entering an environment they could influence only partly. A successful landing mattered as much as takeoff. The event demonstrated that people could travel through the air and return alive, while leaving the larger questions of navigation, endurance and operational safety unresolved.",
+      "## What authentic engravings contribute",
+      "The Library of Congress holds a 1783 engraving cataloged as the first human balloon ascension, depicting Pilâtre de Rozier and d’Arlandes above Paris. Its small balloon is set against a broad cityscape. Unlike a cinematic reconstruction, it conveys how an eighteenth-century printmaker framed the novelty in relation to the familiar city below. It remains a representation, not a photographic record. [Library of Congress: 1783 engraving of the human flight, LCCN 2005684858](https://www.loc.gov/item/2005684858/)",
+      "The Versailles print, also held by the Library of Congress, adds the context of public display and royal attention. Its crowded foreground and palace setting belong to the September experiment. Presented beside the November engraving, it helps explain the progression from an animal demonstration to human free flight without pretending that the images record the same occasion. [Library of Congress: Versailles print, LCCN 2002721989](https://www.loc.gov/item/2002721989/)",
+      "The supplied hero at the top of this article is a modern editorial reconstruction and is identified as such. It is preserved exactly as supplied. The archival engravings are separate supporting materials with catalog links and dates, so readers can distinguish a dramatic modern interpretation from historical objects that can be examined in a library collection.",
+      "## A breakthrough without a simple ending",
+      "The first free flight did not complete the problem of aviation. Balloons established a workable form of human flight, while steering and sustained travel remained challenges. The Library of Congress’s exhibition follows later experiments and records Pilâtre de Rozier’s death with Pierre Romain during an attempted Channel crossing in 1785. Success in Paris had not removed the dangers of further experimentation. [Library of Congress: The Dream of Flight exhibition](https://www.loc.gov/exhibits/dreamofflight/dream-dream.html)",
+      "That combination of achievement and unfinished work appears elsewhere in the history of invention. PRESDA’s feature on [the Antikythera mechanism](/articles/antikythera-mechanism-ancient-analog-computer/) examines a different machine whose significance depends on understanding what it actually did. In both stories, precise description is more revealing than assigning a sweeping modern label to an earlier technology.",
+      "The November 21 flight endures because its scale was human enough to grasp: two passengers, one balloon, a city crossed in less than half an hour. Its historical importance does not require imaginary dialogue or an invented view from the basket. The documented journey is striking on its own, a moment when an experiment became a means of carrying people into a new environment."
+    ],
+    "references": [
+      {
+        "name": "Museum of Flight: November 21 flight, route and duration",
+        "url": "https://www.museumofflight.org/exhibits-and-events/exhibits/montgolfier-brothers-balloon"
+      },
+      {
+        "name": "Library of Congress: The Dream of Flight exhibition",
+        "url": "https://www.loc.gov/exhibits/dreamofflight/dream-dream.html"
+      },
+      {
+        "name": "Château de Versailles: September 19, 1783 animal flight",
+        "url": "https://en.chateauversailles.fr/discover/history/key-dates/first-hot-air-balloon-flight"
+      },
+      {
+        "name": "Library of Congress: 1783 engraving of the human flight, LCCN 2005684858",
+        "url": "https://www.loc.gov/item/2005684858/"
+      },
+      {
+        "name": "Library of Congress: Versailles print, LCCN 2002721989",
+        "url": "https://www.loc.gov/item/2002721989/"
+      },
+      {
+        "name": "Guinness World Records: first untethered crewed balloon flight",
+        "url": "https://www.guinnessworldrecords.com/world-records/385167-first-free-manned-balloon-flight"
+      },
+      {
+        "name": "Smithsonian: eighteenth-century ballooning context",
+        "url": "https://www.si.edu/object/nasm_A20000711000"
+      }
+    ],
+    "relatedSlugs": [
+      "antikythera-mechanism-ancient-analog-computer"
+    ],
+    "faq": [
+      {
+        "question": "Who made the first free human balloon flight?",
+        "answer": "Jean-François Pilâtre de Rozier and François Laurent, Marquis d’Arlandes, flew in a Montgolfier hot-air balloon on November 21, 1783."
+      },
+      {
+        "question": "How long did the Paris flight last?",
+        "answer": "About 25 minutes. The Museum of Flight describes a distance of roughly nine kilometers from La Muette to the Butte-aux-Cailles."
+      },
+      {
+        "question": "Did the Montgolfier brothers fly in the balloon?",
+        "answer": "They developed the balloon, but Pilâtre de Rozier and d’Arlandes were the passengers on the first free human flight."
+      },
+      {
+        "question": "Are the illustrations photographs of the event?",
+        "answer": "No. The supporting archival images are period engravings. The supplied hero is a modern editorial reconstruction, clearly distinguished from historical evidence."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "557",
     "slug": "guatemala-el-mirador-maya-stucco-heads-2026",
     "title": "GUATEMALA UNVEILS ANCIENT MAYA STUCCO HEADS FROM EL MIRADOR",

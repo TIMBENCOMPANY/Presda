@@ -8,6 +8,90 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[PREMIUM3_562]]": {
+    "caption": "Budapest pilot: the essential facts",
+    "headers": [
+      "Question",
+      "Verified answer"
+    ],
+    "rows": [
+      [
+        "Winner",
+        "Alireza Firouzja"
+      ],
+      [
+        "Final date",
+        "November 20, 2026"
+      ],
+      [
+        "Deciding game",
+        "Armageddon draw with Black against Anish Giri"
+      ],
+      [
+        "Podium",
+        "Firouzja, Giri, Caruana"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[PREMIUM3_563]]": {
+    "caption": "Bao: the discovery in context",
+    "headers": [
+      "Question",
+      "Verified answer"
+    ],
+    "rows": [
+      [
+        "Object",
+        "AT 2025abao, nicknamed Bao, in Andromeda"
+      ],
+      [
+        "Modeled masses",
+        "Approximately 7 and 0.7 solar masses"
+      ],
+      [
+        "Webb observation",
+        "December 24, 2025"
+      ],
+      [
+        "Research publication",
+        "November 18, 2026, in Nature"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[PREMIUM3_564]]": {
+    "caption": "The Paris flight: four essential facts",
+    "headers": [
+      "Question",
+      "Verified answer"
+    ],
+    "rows": [
+      [
+        "Date",
+        "November 21, 1783"
+      ],
+      [
+        "Aeronauts",
+        "Jean-François Pilâtre de Rozier and the Marquis d’Arlandes"
+      ],
+      [
+        "Aircraft",
+        "A Montgolfier hot-air balloon, untethered"
+      ],
+      [
+        "Journey",
+        "About 25 minutes and nine kilometers above Paris"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NOV22FIVE_557]]": {
     "caption": "The El Mirador heads: dates and evidence",
     "headers": [

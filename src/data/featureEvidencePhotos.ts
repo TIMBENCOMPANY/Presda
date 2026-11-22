@@ -1,4 +1,5 @@
 import type { Locale } from "@/lib/i18n/routing";
+import premiumSupportingMedia from "@/data/premiumSupportingMedia.json";
 const publicDomain = "https://creativecommons.org/publicdomain/mark/1.0/";
 
 type EvidencePhoto = {
@@ -11,6 +12,8 @@ type EvidencePhoto = {
   credit: string;
   license: string | null;
   licenseLabel?: string;
+  licenseLabels?: Record<Locale, string>;
+  alts?: Record<Locale, string>;
   captions: Record<Locale, string>;
 };
 
@@ -1329,11 +1332,22 @@ const evidence: Partial<Record<string, EvidencePhoto>> = {
 };
 
 export function getFeatureEvidence(slug: string, index: number) {
+  const premium = (premiumSupportingMedia as Record<string, EvidencePhoto[]>)[slug];
+  if (premium) return premium.find(photo => photo.afterBlock === index);
   const item = evidence[slug];
   return item?.afterBlock === index ? item : undefined;
 }
 
 export function getFeatureEvidenceImage(slug: string, locale: Locale) {
+  const premium = (premiumSupportingMedia as Record<string, EvidencePhoto[]>)[slug]?.[0];
+  if (premium) return `/articles/${premium.file}`;
   const photo = evidence[slug];
   return photo ? `/articles/${photo.localizedFiles?.[locale] ?? photo.file}` : undefined;
+}
+
+export function getFeatureEvidenceImages(slug: string, locale: Locale) {
+  const premium = (premiumSupportingMedia as Record<string, EvidencePhoto[]>)[slug];
+  if (premium) return premium.map(photo => `/articles/${photo.file}`);
+  const image = getFeatureEvidenceImage(slug, locale);
+  return image ? [image] : [];
 }

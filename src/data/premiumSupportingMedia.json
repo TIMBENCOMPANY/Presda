@@ -1,0 +1,170 @@
+{
+  "firouzja-total-chess-budapest-pilot-2026": [
+    {
+      "afterBlock": 7,
+      "file": "firouzja-giri-budapest-final-2026.jpg",
+      "width": 2048,
+      "height": 1365,
+      "source": "https://www.totalchess.com/news/firouzja-wins-total-chess-budapest-pilot",
+      "credit": "Total Chess / Michal Walusza",
+      "license": "/media-rights/total-chess-budapest-2026.txt",
+      "licenseLabels": {
+        "en": "Editorial use with credit",
+        "fr": "Usage éditorial avec crédit",
+        "ar": "استخدام تحريري مع النسبة",
+        "es": "Uso editorial con crédito"
+      },
+      "alts": {
+        "en": "Alireza Firouzja and Anish Giri at the Budapest final",
+        "fr": "Alireza Firouzja et Anish Giri lors de la finale à Budapest",
+        "ar": "علي رضا فيروزجا وأنيش غيري خلال نهائي بودابست",
+        "es": "Alireza Firouzja y Anish Giri en la final de Budapest"
+      },
+      "captions": {
+        "en": "Alireza Firouzja, left, and Anish Giri during the Budapest final. Official tournament photograph published November 20, 2026.",
+        "fr": "Alireza Firouzja, à gauche, et Anish Giri pendant la finale à Budapest. Photographie officielle publiée le 20 novembre 2026.",
+        "ar": "علي رضا فيروزجا يسارا وأنيش غيري خلال نهائي بودابست. صورة رسمية للبطولة نشرت في 20 نوفمبر 2026.",
+        "es": "Alireza Firouzja, a la izquierda, y Anish Giri durante la final. Fotografía oficial publicada el 20 de noviembre de 2026."
+      }
+    },
+    {
+      "afterBlock": 19,
+      "file": "anish-giri-budapest-final-board-2026.jpg",
+      "width": 2048,
+      "height": 1365,
+      "source": "https://www.totalchess.com/news/firouzja-wins-total-chess-budapest-pilot",
+      "credit": "Total Chess / Michal Walusza",
+      "license": "/media-rights/total-chess-budapest-2026.txt",
+      "licenseLabels": {
+        "en": "Editorial use with credit",
+        "fr": "Usage éditorial avec crédit",
+        "ar": "استخدام تحريري مع النسبة",
+        "es": "Uso editorial con crédito"
+      },
+      "alts": {
+        "en": "Anish Giri concentrating at the board in Budapest",
+        "fr": "Anish Giri concentré devant l’échiquier à Budapest",
+        "ar": "أنيش غيري يركز أمام الرقعة في بودابست",
+        "es": "Anish Giri concentrado ante el tablero en Budapest"
+      },
+      "captions": {
+        "en": "Anish Giri at the board during the Budapest final. Official tournament photograph published November 20, 2026.",
+        "fr": "Anish Giri devant l’échiquier pendant la finale à Budapest. Photographie officielle publiée le 20 novembre 2026.",
+        "ar": "أنيش غيري أمام الرقعة خلال نهائي بودابست. صورة رسمية للبطولة نشرت في 20 نوفمبر 2026.",
+        "es": "Anish Giri ante el tablero durante la final de Budapest. Fotografía oficial publicada el 20 de noviembre de 2026."
+      }
+    }
+  ],
+  "webb-bao-giant-star-companion-merger-andromeda": [
+    {
+      "afterBlock": 8,
+      "file": "bao-andromeda-observations-nasa-2026.jpg",
+      "width": 3819,
+      "height": 2571,
+      "source": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+      "credit": "NASA, ESA, CSA, STScI, Viraj Karambelkar (Columbia), Kishalay De (Columbia); processing: Alyssa Pagan (STScI); acknowledgment: DSS, Robert Gendler",
+      "license": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "licenseLabels": {
+        "en": "NASA media usage guidelines",
+        "fr": "Règles d’utilisation des médias NASA",
+        "ar": "إرشادات استخدام وسائط ناسا",
+        "es": "Normas de uso de medios de la NASA"
+      },
+      "alts": {
+        "en": "Andromeda with Bao marked and four telescope observation panels",
+        "fr": "Andromède avec Bao repéré et quatre vignettes d’observation",
+        "ar": "أندروميدا مع تحديد باو وأربع لوحات رصد تلسكوبي",
+        "es": "Andrómeda con Bao señalado y cuatro paneles de observación"
+      },
+      "captions": {
+        "en": "Official observation composite released November 18, 2026: Bao’s position in Andromeda, with NEOWISE, SPHEREx and Webb views of different phases. These are processed observations, not resolved views of two stellar surfaces.",
+        "fr": "Montage observationnel officiel publié le 18 novembre 2026 : Bao dans Andromède, avec des vues de NEOWISE, SPHEREx et Webb à différentes phases. Les surfaces des deux étoiles ne sont pas résolues.",
+        "ar": "مركب رصدي رسمي نشر في 18 نوفمبر 2026: موقع باو في أندروميدا مع أرصاد نيووايز وSPHEREx وويب لمراحل مختلفة. هذه بيانات معالجة وليست صورا تفصل سطحي النجمين.",
+        "es": "Montaje observacional oficial publicado el 18 de noviembre de 2026: Bao en Andrómeda y vistas de NEOWISE, SPHEREx y Webb en distintas fases. No resuelve las superficies de ambas estrellas."
+      }
+    },
+    {
+      "afterBlock": 18,
+      "file": "bao-common-envelope-artist-concept-nasa-2026.jpg",
+      "width": 3840,
+      "height": 2160,
+      "source": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+      "credit": "Illustration: NASA, ESA, CSA, STScI, Leah Hustak (STScI); Science: Viraj Karambelkar (Columbia)",
+      "license": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "licenseLabels": {
+        "en": "NASA media usage guidelines",
+        "fr": "Règles d’utilisation des médias NASA",
+        "ar": "إرشادات استخدام وسائط ناسا",
+        "es": "Normas de uso de medios de la NASA"
+      },
+      "alts": {
+        "en": "Four-panel NASA artist’s concept of Bao’s merger sequence",
+        "fr": "Concept d’artiste NASA en quatre étapes de la fusion de Bao",
+        "ar": "تصور فنان رسمي من ناسا في أربع لوحات لاندماج باو",
+        "es": "Concepto artístico de la NASA en cuatro fases de la fusión de Bao"
+      },
+      "captions": {
+        "en": "Artist’s concept released November 18, 2026, showing the quiescent system, inspiral, eruption and aftermath. This is a scientific illustration, not telescope photography.",
+        "fr": "Concept d’artiste publié le 18 novembre 2026 : système initial, spirale, éruption et suites. Il s’agit d’une illustration scientifique, pas d’une photographie de télescope.",
+        "ar": "تصور فنان نشر في 18 نوفمبر 2026 يوضح النظام الهادئ والحركة اللولبية والثوران وآثاره. رسم علمي وليس صورة التقطها تلسكوب.",
+        "es": "Concepto artístico publicado el 18 de noviembre de 2026: sistema inicial, espiral, erupción y secuelas. Es una ilustración científica, no una fotografía telescópica."
+      }
+    }
+  ],
+  "first-free-human-balloon-flight-paris-1783": [
+    {
+      "afterBlock": 8,
+      "file": "paris-first-human-balloon-flight-1783-loc.jpg",
+      "width": 384,
+      "height": 640,
+      "source": "https://www.loc.gov/item/2005684858/",
+      "credit": "Library of Congress, Prints and Photographs Division, LCCN 2005684858",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseLabels": {
+        "en": "Public domain: 1783 engraving",
+        "fr": "Domaine public : gravure de 1783",
+        "ar": "ملكية عامة: نقش من 1783",
+        "es": "Dominio público: grabado de 1783"
+      },
+      "alts": {
+        "en": "1783 engraving of the balloon carrying Pilâtre de Rozier and d’Arlandes over Paris",
+        "fr": "Gravure de 1783 du ballon de Pilâtre de Rozier et d’Arlandes au-dessus de Paris",
+        "ar": "نقش من 1783 لمنطاد بيلاتر دو روزييه ودارلاند فوق باريس",
+        "es": "Grabado de 1783 del globo de Pilâtre de Rozier y Arlandes sobre París"
+      },
+      "captions": {
+        "en": "Period engraving, dated 1783, cataloged as the first human balloon ascension above Paris. A historical illustration, not a photograph or a modern reconstruction.",
+        "fr": "Gravure d’époque datée de 1783, cataloguée comme la première ascension humaine au-dessus de Paris. Illustration historique, ni photographie ni reconstitution moderne.",
+        "ar": "نقش تاريخي مؤرخ عام 1783 ومفهرس باعتباره أول صعود بشري بالمنطاد فوق باريس. رسم من العصر، لا صورة فوتوغرافية ولا إعادة تصور حديثة.",
+        "es": "Grabado de época fechado en 1783 y catalogado como la primera ascensión humana sobre París. Ilustración histórica, no fotografía ni reconstrucción moderna."
+      }
+    },
+    {
+      "afterBlock": 11,
+      "file": "versailles-balloon-demonstration-1783-loc.jpg",
+      "width": 1024,
+      "height": 838,
+      "source": "https://www.loc.gov/item/2002721989/",
+      "credit": "Library of Congress, Prints and Photographs Division, LCCN 2002721989",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseLabels": {
+        "en": "Public domain: eighteenth-century print",
+        "fr": "Domaine public : estampe du XVIIIe siècle",
+        "ar": "ملكية عامة: نقش من القرن الثامن عشر",
+        "es": "Dominio público: estampa del siglo XVIII"
+      },
+      "alts": {
+        "en": "Historical print of the balloon demonstration before the palace at Versailles",
+        "fr": "Estampe historique du ballon devant le château de Versailles",
+        "ar": "نقش تاريخي لعرض المنطاد أمام قصر فرساي",
+        "es": "Estampa histórica de la demostración del globo ante Versalles"
+      },
+      "captions": {
+        "en": "Period print depicting the September 19, 1783 demonstration at Versailles. The passengers were animals; this was not the November 21 human flight. The print’s caption is part of the historical object, not an independently verified crowd count.",
+        "fr": "Estampe d’époque représentant la démonstration du 19 septembre 1783 à Versailles, avec des animaux à bord. Ce n’est pas le vol humain du 21 novembre. Le texte imprimé n’est pas une vérification indépendante du nombre de spectateurs.",
+        "ar": "نقش تاريخي يمثل عرض 19 سبتمبر 1783 في فرساي مع حيوانات على متن المنطاد، وليس الرحلة البشرية في 21 نوفمبر. النص المطبوع جزء من القطعة وليس توثيقا مستقلا لعدد الجمهور.",
+        "es": "Estampa de época de la demostración del 19 de septiembre de 1783 en Versalles, con animales a bordo. No es el vuelo humano del 21 de noviembre. Su texto impreso no verifica independientemente la cifra de espectadores."
+      }
+    }
+  ]
+}

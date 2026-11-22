@@ -2088,5 +2088,81 @@
       "width": 1600,
       "src": "/articles/extinction-tartary/variants/tartary-1757-1600.webp"
     }
+  ],
+  "/articles/firouzja-giri-budapest-final-2026.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/firouzja-giri-budapest-final-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/firouzja-giri-budapest-final-2026-900.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/firouzja-giri-budapest-final-2026-1400.webp"
+    }
+  ],
+  "/articles/anish-giri-budapest-final-board-2026.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/anish-giri-budapest-final-board-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/anish-giri-budapest-final-board-2026-900.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/anish-giri-budapest-final-board-2026-1400.webp"
+    }
+  ],
+  "/articles/bao-andromeda-observations-nasa-2026.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/bao-andromeda-observations-nasa-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/bao-andromeda-observations-nasa-2026-900.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/bao-andromeda-observations-nasa-2026-1400.webp"
+    }
+  ],
+  "/articles/bao-common-envelope-artist-concept-nasa-2026.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/bao-common-envelope-artist-concept-nasa-2026-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/bao-common-envelope-artist-concept-nasa-2026-900.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/bao-common-envelope-artist-concept-nasa-2026-1400.webp"
+    }
+  ],
+  "/articles/paris-first-human-balloon-flight-1783-loc.jpg": [
+    {
+      "width": 384,
+      "src": "/articles/paris-first-human-balloon-flight-1783-loc-384.webp"
+    }
+  ],
+  "/articles/versailles-balloon-demonstration-1783-loc.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/versailles-balloon-demonstration-1783-loc-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/versailles-balloon-demonstration-1783-loc-900.webp"
+    },
+    {
+      "width": 1024,
+      "src": "/articles/versailles-balloon-demonstration-1783-loc-1024.webp"
+    }
   ]
 }

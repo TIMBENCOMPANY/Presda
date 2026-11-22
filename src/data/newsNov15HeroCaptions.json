@@ -532,5 +532,23 @@
     "fr": "Image éditoriale originale fournie à PRESDA, conservée sans modification. Elle n’est pas authentifiée indépendamment comme la photographie originale de l’annonce de Lavigne.",
     "ar": "الصورة التحريرية الأصلية المقدمة إلى PRESDA، محفوظة دون تعديل. لم توثق مستقلا باعتبارها الصورة الأصلية لإعلان لافين.",
     "es": "Imagen editorial original facilitada a PRESDA, conservada sin cambios. No se ha autenticado de forma independiente como la fotografía original del anuncio de Lavigne."
+  },
+  "firouzja-total-chess-budapest-pilot-2026": {
+    "en": "Original supplied editorial visual, preserved unchanged. Its photographic provenance has not been independently authenticated.",
+    "fr": "Visuel éditorial original fourni, conservé sans modification. Sa provenance photographique n’a pas été authentifiée indépendamment.",
+    "ar": "الصورة التحريرية الأصلية المقدمة محفوظة دون تغيير. لم يتحقق مستقلا من أصلها الفوتوغرافي.",
+    "es": "Imagen editorial original suministrada, conservada sin cambios. Su procedencia fotográfica no se ha autenticado de forma independiente."
+  },
+  "webb-bao-giant-star-companion-merger-andromeda": {
+    "en": "Supplied editorial illustration, preserved unchanged. It is not a Webb observation or a photograph of Bao.",
+    "fr": "Illustration éditoriale fournie, conservée sans modification. Ce n’est ni une observation de Webb ni une photographie de Bao.",
+    "ar": "رسم تحريري مقدم محفوظ دون تغيير. ليس رصدا لويب ولا صورة فوتوغرافية لباو.",
+    "es": "Ilustración editorial suministrada, conservada sin cambios. No es una observación de Webb ni una fotografía de Bao."
+  },
+  "first-free-human-balloon-flight-paris-1783": {
+    "en": "Modern editorial reconstruction supplied for PRESDA, preserved unchanged. It is not an authentic image from 1783. Period archival prints appear below.",
+    "fr": "Reconstitution éditoriale moderne fournie à PRESDA, conservée sans modification. Ce n’est pas une image authentique de 1783. Les estampes d’archives figurent plus bas.",
+    "ar": "إعادة تصور تحريرية حديثة مقدمة إلى PRESDA، محفوظة دون تغيير. ليست صورة أصلية من 1783. ترد النقوش الأرشيفية أدناه.",
+    "es": "Reconstrucción editorial moderna facilitada a PRESDA, conservada sin cambios. No es una imagen auténtica de 1783. Los grabados de archivo aparecen más abajo."
   }
 }
