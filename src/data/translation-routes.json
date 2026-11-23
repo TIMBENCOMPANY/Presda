@@ -2086,6 +2086,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series/",
+    "path": "/ar/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series/",
+    "path": "/es/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series/",
+    "path": "/fr/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/crows-intelligence-tools-memory-science/",
     "path": "/ar/articles/crows-intelligence-tools-memory-science/"
   },
@@ -3058,6 +3073,21 @@
     "locale": "fr",
     "englishPath": "/articles/formula-1-returns-africa-rwanda-deal/",
     "path": "/fr/articles/formula-1-returns-africa-rwanda-deal/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/france-350-million-corac-civil-aviation-research-2026/",
+    "path": "/ar/articles/france-350-million-corac-civil-aviation-research-2026/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/france-350-million-corac-civil-aviation-research-2026/",
+    "path": "/es/articles/france-350-million-corac-civil-aviation-research-2026/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/france-350-million-corac-civil-aviation-research-2026/",
+    "path": "/fr/articles/france-350-million-corac-civil-aviation-research-2026/"
   },
   {
     "locale": "ar",
@@ -4303,6 +4333,21 @@
     "locale": "fr",
     "englishPath": "/articles/jennifer-lawrence-mes-haircare-arcaea-launch/",
     "path": "/fr/articles/jennifer-lawrence-mes-haircare-arcaea-launch/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/jensen-huang-reinstated-nvidia-ceo-november-2026/",
+    "path": "/ar/articles/jensen-huang-reinstated-nvidia-ceo-november-2026/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/jensen-huang-reinstated-nvidia-ceo-november-2026/",
+    "path": "/es/articles/jensen-huang-reinstated-nvidia-ceo-november-2026/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/jensen-huang-reinstated-nvidia-ceo-november-2026/",
+    "path": "/fr/articles/jensen-huang-reinstated-nvidia-ceo-november-2026/"
   },
   {
     "locale": "ar",
@@ -8548,5 +8593,20 @@
     "locale": "fr",
     "englishPath": "/articles/zheng-he-chinese-admiral-seven-indian-ocean-voyages/",
     "path": "/fr/articles/zheng-he-chinese-admiral-seven-indian-ocean-voyages/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/zlatan-ibrahimovic-mobland-season-three-casting-report/",
+    "path": "/ar/articles/zlatan-ibrahimovic-mobland-season-three-casting-report/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/zlatan-ibrahimovic-mobland-season-three-casting-report/",
+    "path": "/es/articles/zlatan-ibrahimovic-mobland-season-three-casting-report/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/zlatan-ibrahimovic-mobland-season-three-casting-report/",
+    "path": "/fr/articles/zlatan-ibrahimovic-mobland-season-three-casting-report/"
   }
 ]

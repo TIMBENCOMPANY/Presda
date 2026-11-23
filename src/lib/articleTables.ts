@@ -8,6 +8,118 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[QUAD24_574]]": {
+    "caption": "France’s aviation research announcement: the essential distinctions",
+    "headers": [
+      "Question",
+      "Verified position"
+    ],
+    "rows": [
+      [
+        "Amount",
+        "€350 million, as stated in the announcement and GIFAS statement body"
+      ],
+      [
+        "Purpose",
+        "Civil aviation research through CORAC, not an aircraft purchase order"
+      ],
+      [
+        "Period",
+        "GIFAS identifies a 2026 envelope; later annual allocations are not established here"
+      ],
+      [
+        "Participants",
+        "Manufacturers, suppliers, smaller businesses and research laboratories across the program network"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[QUAD24_575]]": {
+    "caption": "NVIDIA’s leadership change: dates and responsibilities",
+    "headers": [
+      "Item",
+      "Confirmed position"
+    ],
+    "rows": [
+      [
+        "Board action",
+        "November 22, 2026, according to the SEC filing"
+      ],
+      [
+        "Public announcement",
+        "November 23, 2026"
+      ],
+      [
+        "Leadership",
+        "Huang returns as president, CEO and director; Jones remains chair; Kress continues as CFO"
+      ],
+      [
+        "Investigation",
+        "Independent committee’s work continues, according to NVIDIA"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[QUAD24_576]]": {
+    "caption": "Ibrahimović and MobLand: the current evidence",
+    "headers": [
+      "Question",
+      "Status at publication"
+    ],
+    "rows": [
+      [
+        "Casting claim",
+        "Reported by The Sun, citing an unnamed source; not officially confirmed in the reviewed material"
+      ],
+      [
+        "Season-three production",
+        "Confirmed by Paramount on November 20, 2026 as already under way that week"
+      ],
+      [
+        "Returning leads",
+        "Tom Hardy, Pierce Brosnan and Helen Mirren confirmed"
+      ],
+      [
+        "Character and premiere",
+        "No official Ibrahimović character details or confirmed season-three premiere date established here"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[QUAD24_577]]": {
+    "caption": "Day 1s: production, participants and release status",
+    "headers": [
+      "Question",
+      "Current verified or attributed position"
+    ],
+    "rows": [
+      [
+        "Project",
+        "First television series from Ronaldo and Matthew Vaughn’s UR-Marv Studios"
+      ],
+      [
+        "Order",
+        "Ten-part Paramount+ comedy, reported by Deadline on November 12, 2026"
+      ],
+      [
+        "Ronaldo and Henry",
+        "Named executive producers; Ronaldo’s limited appearances as himself confirmed to ECO by UR-Marv’s creative chief"
+      ],
+      [
+        "Availability",
+        "Production announced; no premiere date established in the sources reviewed"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[QUAD23_570]]": {
     "caption": "The 2026 ATP Finals title at a glance",
     "headers": [

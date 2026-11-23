@@ -1,0 +1,218 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/jensen-huang-reinstated-nvidia-ceo-november-2026/",
+  "path": "/fr/articles/jensen-huang-reinstated-nvidia-ceo-november-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-23",
+    "terminologyChecked": true
+  },
+  "title": "JENSEN HUANG REVIENT À LA DIRECTION DE NVIDIA",
+  "seoTitle": "Jensen Huang revient chez NVIDIA ; l’enquête se poursuit",
+  "description": "NVIDIA a annoncé le retour de Huang le 23 novembre 2026. Le dépôt auprès de la SEC date sa réintégration du 22 ; les examens de gouvernance se poursuivent.",
+  "excerpt": "NVIDIA a annoncé le retour de Huang le 23 novembre 2026. Le dépôt auprès de la SEC date sa réintégration du 22 ; les examens de gouvernance se poursuivent.",
+  "headlineHighlights": {
+    "red": "JENSEN HUANG",
+    "gold": "NVIDIA"
+  },
+  "keywords": [
+    "JENSEN HUANG",
+    "NVIDIA",
+    "intelligence artificielle"
+  ],
+  "searchIntent": "NVIDIA a annoncé le retour de Huang le 23 novembre 2026. Le dépôt auprès de la SEC date sa réintégration du 22 ; les examens de gouvernance se poursuivent.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-23",
+  "updatedAt": "2026-11-23",
+  "image": {
+    "src": "/articles/jensen-huang-reinstated-nvidia-ceo-november-2026.jpg",
+    "alt": "Portrait original fourni de Jensen Huang devant des équipements de serveurs",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Jensen Huang a retrouvé ses fonctions de président, directeur général et administrateur de NVIDIA. L’entreprise a annoncé sa réintégration le 23 novembre 2026, tandis que son dépôt auprès de la SEC date la décision du conseil du 22 novembre, avec effet immédiat. Colette Kress, directrice générale par intérim, conserve ses fonctions de vice-présidente exécutive et directrice financière. Harvey C. Jones reste président du conseil. [Source · nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)[Source · www.sec.gov](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le changement rétablit le cofondateur après une interruption brève et particulièrement visible de sa direction. Il laisse néanmoins un autre dossier ouvert : l’entreprise indique que son enquête indépendante se poursuivra. Le retour est une décision confirmée, sans constituer une conclusion publiée selon laquelle toutes les questions de la crise auraient été réglées."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[QUAD24_575]]",
+      "caption": "Changement de direction chez NVIDIA : dates et fonctions",
+      "headings": [
+        "Élément",
+        "Position confirmée"
+      ],
+      "rows": [
+        [
+          "Décision du conseil",
+          "22 novembre 2026, selon le dépôt auprès de la SEC"
+        ],
+        [
+          "Annonce publique",
+          "23 novembre 2026"
+        ],
+        [
+          "Direction",
+          "Huang revient comme président, directeur général et administrateur ; Jones reste président du conseil ; Kress reste directrice financière"
+        ],
+        [
+          "Enquête",
+          "Les travaux du comité indépendant se poursuivent, selon NVIDIA"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Ce que NVIDIA confirme officiellement"
+    },
+    {
+      "type": "paragraph",
+      "text": "NVIDIA indique que ses administrateurs ont voté à l’unanimité après des discussions et des réunions avec Huang. Selon le communiqué, le conseil s’est déclaré satisfait de sa franchise et de sa capacité à diriger. Il s’agit du raisonnement que les administrateurs ont choisi de rendre public, pas d’un compte rendu complet de leurs délibérations ou de réunions privées dont le contenu n’est pas établi. [Source · nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dépôt auprès de la SEC apporte la date la plus précise de l’acte formel. Il consigne une réintégration le 22 novembre et joint le communiqué daté du 23. Mentionner les deux évite de confondre la décision effective du conseil et son annonce publique. Le document confirme aussi le maintien de Kress à la direction financière. [Source · www.sec.gov](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "La transition précédente était une démission"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’annonce du 12 novembre indiquait que Huang avait démissionné de ses fonctions de président, directeur général et administrateur. Kress devenait directrice générale par intérim tout en conservant ses responsabilités existantes. Le conseil annonçait examiner des candidats internes et externes pour la succession permanente. Le précédent article de PRESDA sur [la démission de Huang et l’intérim de Kress](/articles/jensen-huang-resigns-nvidia-ceo-colette-kress/) présente cette première transition. [Source · nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La réintégration modifie ce processus de succession. Elle ne signifie pas que Kress avait été nommée définitivement avant d’être écartée, ni que le départ initial de Huang peut être qualifié de licenciement lorsque l’entreprise parlait d’une démission. Les titres et dates définissent l’autorité formelle exercée à chaque étape."
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi l’enquête se poursuit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans son communiqué, NVIDIA indique qu’un comité composé uniquement d’administrateurs indépendants examine des informations selon lesquelles Huang aurait été visé par une opération de renseignement étrangère. Le comité a retenu un conseil juridique indépendant, et ses travaux doivent aller jusqu’à leur conclusion. Selon l’entreprise, Huang soutient l’enquête et s’engage à coopérer. [Source · nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le communiqué précise aussi que le conseil a reçu des indications à de hauts niveaux du gouvernement américain et considère, sur cette base, que la réintégration ne présente pas de risque pour la sécurité nationale. C’est l’appréciation du conseil telle que NVIDIA la présente, pas une décision judiciaire, une publication intégrale des preuves ou l’annonce de la fin de l’examen indépendant. [Source · nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)"
+    },
+    {
+      "type": "subheading",
+      "text": "Gouvernance et direction opérationnelle restent distinctes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réintégrer un dirigeant et achever une enquête sont deux décisions différentes. Un conseil peut déterminer qui dirige les opérations pendant qu’un comité continue d’examiner les circonstances ayant suscité des interrogations. NVIDIA décrit explicitement ce dispositif. Il faut donc distinguer la nomination confirmée de conclusions que l’entreprise n’a pas annoncées."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinction compte particulièrement pour un fournisseur de systèmes informatiques stratégiques. Demande, engagements clients et développement technologique peuvent se poursuivre pendant les travaux de gouvernance. La continuité de l’activité ne résout pas ces questions à elle seule ; une enquête inachevée n’établit pas non plus la véracité de toutes les allégations évoquées ailleurs."
+    },
+    {
+      "type": "heading",
+      "text": "Le dispositif de conformité annoncé avec le retour"
+    },
+    {
+      "type": "paragraph",
+      "text": "NVIDIA indique avoir également créé un comité de sécurité nationale et de contrôle des exportations composé exclusivement d’administrateurs indépendants. Il supervise notamment la conformité commerciale et les risques de sécurité nationale. Selon l’entreprise, il engage des juristes et conseillers spécialisés, tandis que NVIDIA continue de coopérer avec les enquêtes et demandes gouvernementales. [Source · nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’entreprise lance aussi la recherche d’un responsable de la conformité, nouveau poste chargé d’une supervision transversale et rattaché au comité des nominations et de la gouvernance. Une recherche ne constitue pas une nomination : le communiqué ne désigne pas de titulaire déjà choisi et ne publie pas de calendrier complet de déploiement. [Source · nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)"
+    },
+    {
+      "type": "subheading",
+      "text": "La supervision a des effets concrets pour un fournisseur d’IA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le contrôle des exportations et la conformité influencent la fourniture des produits avancés, les transactions autorisées et les vérifications imposées aux entreprises. L’organisation annoncée rend cette supervision visible dans le récit du changement de direction. Son efficacité dépendra de l’autorité, des informations et des procédures associées, pas seulement de nouveaux intitulés de postes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Président du conseil et directeur général conservent aussi des responsabilités différentes. Jones reste à la tête du conseil, Huang reprend la direction exécutive et Kress continue de superviser les finances. Cette distinction aide à lire les prochains résultats, dépôts réglementaires et communiqués."
+    },
+    {
+      "type": "heading",
+      "text": "L’entreprise que retrouve Huang"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le changement intervient peu après les résultats du 17 novembre. Pour le troisième trimestre de l’exercice 2027, clos le 25 octobre 2026, NVIDIA a déclaré 115,8 milliards de dollars de chiffre d’affaires, en hausse de 103 % sur un an. Le segment Data Center atteint 107,6 milliards, en progression de 110 %. Ces chiffres concernent une période achevée, pas des ventes produites par le retour de Huang. [Source · nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils soulignent le poids des infrastructures d’IA et de calcul accéléré dans l’activité. L’entreprise indique avoir commencé à livrer les systèmes Vera Rubin NVL72. Cette échelle financière et la montée d’un nouveau produit rendent la continuité importante pour clients et fournisseurs, sans transformer une annonce de direction en garantie de recettes ou de performances futures. [Source · nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)"
+    },
+    {
+      "type": "subheading",
+      "text": "Les prévisions doivent rester identifiées comme telles"
+    },
+    {
+      "type": "paragraph",
+      "text": "NVIDIA prévoit 130 milliards de dollars de chiffre d’affaires au quatrième trimestre de l’exercice 2027, à plus ou moins 3 %. Elle précise que ce trimestre comprend une semaine supplémentaire et que ses prévisions n’incluent aucune recette de calcul Data Center en provenance de Chine. Il s’agit de perspectives assorties d’hypothèses, pas d’un résultat réalisé. [Source · nvidianews.nvidia.com](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il faut aussi distinguer calendrier civil et exercice comptable. NVIDIA appelle exercice 2027 la période dont les résultats trimestriels sont publiés en novembre 2026. Parler simplement du troisième trimestre civil de 2027 situerait les chiffres à la mauvaise date. Le libellé comptable, la date de clôture et la publication doivent être cités ensemble."
+    },
+    {
+      "type": "heading",
+      "text": "Les prochains éléments vérifiables"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les développements concrets à suivre sont les conclusions de l’enquête indépendante, la recherche du responsable de la conformité et les futures informations sur la supervision. Côté activité, les prochains résultats préciseront l’évolution des livraisons, de la demande et des dépenses après le trimestre publié. Aucun de ces résultats ne découle automatiquement de la réintégration."
+    },
+    {
+      "type": "paragraph",
+      "text": "La couverture de PRESDA sur [la participation de NVIDIA à un investissement dans la robotique](/articles/agile-robots-softbank-nvidia-500-million-funding/) éclaire son rôle au-delà des processeurs graphiques individuels. Huang retrouve une entreprise insérée dans un vaste écosystème. Sa nomination est documentée ; la manière d’associer continuité exécutive, exécution technologique et contrôle indépendant demeure la question de fond."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · nvidianews.nvidia.com",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    },
+    {
+      "label": "Source · www.sec.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm"
+    },
+    {
+      "label": "Source · nvidianews.nvidia.com",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    },
+    {
+      "label": "Source · nvidianews.nvidia.com",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Jensen Huang est-il officiellement redevenu directeur général de NVIDIA ?",
+      "answer": "Oui. NVIDIA a annoncé sa réintégration comme président, directeur général et administrateur le 23 novembre 2026. Le dépôt auprès de la SEC date la décision effective du 22 novembre."
+    },
+    {
+      "question": "Que devient Colette Kress ?",
+      "answer": "Elle conserve ses fonctions de vice-présidente exécutive et directrice financière après avoir assuré l’intérim de la direction générale."
+    },
+    {
+      "question": "La réintégration signifie-t-elle que l’enquête est terminée ?",
+      "answer": "Non. NVIDIA indique que le comité indépendant poursuivra son enquête jusqu’à sa conclusion et que l’entreprise coopérera avec les autorités."
+    },
+    {
+      "question": "Les 130 milliards de dollars du quatrième trimestre sont-ils déjà réalisés ?",
+      "answer": "Non. Il s’agit des prévisions de chiffre d’affaires de NVIDIA pour le quatrième trimestre de l’exercice 2027, à plus ou moins 3 %, avec les hypothèses précisées dans les résultats du 17 novembre."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

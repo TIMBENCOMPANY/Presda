@@ -1,6 +1,423 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "574",
+    "slug": "france-350-million-corac-civil-aviation-research-2026",
+    "title": "FRANCE ANNOUNCES €350 MILLION FOR CIVIL AVIATION RESEARCH",
+    "seoTitle": "France announces €350 million for CORAC aviation research",
+    "metaDescription": "France’s €350 million CORAC research envelope, announced at Airbus on November 23, 2026: the aircraft technologies, suppliers and funding questions behind it.",
+    "excerpt": "France’s €350 million CORAC research envelope, announced at Airbus on November 23, 2026: the aircraft technologies, suppliers and funding questions behind it.",
+    "category": "Business",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-23",
+    "lastUpdated": "2026-11-23",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/france-350-million-corac-civil-aviation-research-2026.jpg",
+    "coverAlt": "Supplied editorial image of Emmanuel Macron with French and European flags beside an Airbus aircraft",
+    "headlineHighlights": {
+      "red": "FRANCE",
+      "gold": "€350 MILLION"
+    },
+    "tags": [
+      "FRANCE",
+      "Business"
+    ],
+    "content": [
+      "France has announced a €350 million envelope for civil aviation research, placing public support behind the technologies intended to shape the next generation of aircraft. Emmanuel Macron made the commitment during his November 23, 2026 visit to Airbus in Blagnac, near Toulouse. CORAC and the aerospace industry association GIFAS describe it as funding for 2026, supporting work across manufacturers, equipment suppliers, smaller companies and public laboratories. [GIFAS and CORAC: November 23 funding statement](https://gifas.fr/news/novembre-2026-le-corac-et-le-gifas-saluent-l-annonce-d-emmanuel-macron-de-porter-a-352-millions-d-euros-le-soutien-a-la-recherche-aeronautique-en-2026-6b0410906e0cd)[Élysée: official account of the Toulouse and Airbus visit](https://www.elysee.fr/emmanuel-macron/2026/11/23/deplacement-a-toulouse)[Euronews: funding announcement and industrial context](https://www.euronews.com/2026/11/23/macron-announces-350-million-research-aid-for-frances-aeronautics-industry)",
+      "The announcement matters because aviation develops on a different clock from most consumer industries. A decision about an engine, material or manufacturing process can influence aircraft that remain in service for decades. The immediate story is a research commitment, rather than an order for a particular aircraft or the unveiling of an aircraft already ready to fly.",
+      "[[QUAD24_574]]",
+      "## What the €350 million commitment covers",
+      "CORAC is the Conseil pour la Recherche Aéronautique Civile, the framework through which the French state and industry coordinate civil aeronautical research priorities. Established in 2008, it brings together participants across aviation rather than acting as a research department for one manufacturer. The transport ministry describes a platform involving government, industry, research bodies and air transport operators. [GIFAS and CORAC: November 23 funding statement](https://gifas.fr/news/novembre-2026-le-corac-et-le-gifas-saluent-l-annonce-d-emmanuel-macron-de-porter-a-352-millions-d-euros-le-soutien-a-la-recherche-aeronautique-en-2026-6b0410906e0cd)[French transport ministry: CORAC and aeronautical research](https://www.ecologie.gouv.fr/politiques-publiques/recherche-aeronautique)",
+      "GIFAS says the new envelope strengthens that partnership and supports the continuation of research already under way. Its statement connects the funding to lower-emission aviation, future aircraft and industrial competitiveness. Specialist publication Le Journal de l’Aviation also reports the amount as €350 million for CORAC in 2026. It should not be read as €350 million paid directly to Airbus alone. [GIFAS and CORAC: November 23 funding statement](https://gifas.fr/news/novembre-2026-le-corac-et-le-gifas-saluent-l-annonce-d-emmanuel-macron-de-porter-a-352-millions-d-euros-le-soutien-a-la-recherche-aeronautique-en-2026-6b0410906e0cd)[Le Journal de l’Aviation: the 2026 CORAC envelope](https://www.journal-aviation.com/actualites-industrie-aeronautique/chez-airbus-emmanuel-macron-annonce-350-millions-deuros-de-soutien-au-corac-20261123.html)",
+      "### An announcement, a budget and a payment are different stages",
+      "The distinction matters when judging public investment. A headline figure identifies the announced envelope. Project selection, contractual commitments, milestones and disbursements determine how money reaches laboratories and businesses. The available announcement does not provide an individual grant schedule for every participant, so the precise distribution cannot be reconstructed from the total alone.",
+      "Nor does the announcement justify automatically multiplying €350 million across future years. GIFAS explicitly identifies 2026, while industry representatives call for visibility over a longer period. Long-term support is a policy question with consequences for research planning; it is not a future allocation that can be treated as approved simply because companies would welcome it. [GIFAS and CORAC: November 23 funding statement](https://gifas.fr/news/novembre-2026-le-corac-et-le-gifas-saluent-l-annonce-d-emmanuel-macron-de-porter-a-352-millions-d-euros-le-soutien-a-la-recherche-aeronautique-en-2026-6b0410906e0cd)",
+      "## Why the successor to the A320 is central",
+      "Although CORAC covers the wider civil aviation sector, GIFAS identifies preparation for the future medium-haul aircraft expected to succeed the Airbus A320 as a priority. It describes an ambition to reduce fuel consumption by 30% and says nearly 90% of the work programmed in 2025 was devoted to that priority. These are a research objective and a description of the program, not verified savings from an aircraft already in commercial service. [GIFAS and CORAC: November 23 funding statement](https://gifas.fr/news/novembre-2026-le-corac-et-le-gifas-saluent-l-annonce-d-emmanuel-macron-de-porter-a-352-millions-d-euros-le-soutien-a-la-recherche-aeronautique-en-2026-6b0410906e0cd)",
+      "The distinction between ambition and delivered performance is essential. An aircraft combines propulsion, aerodynamics, structures, onboard systems and operating constraints. Improving one component does not automatically establish the final performance of the complete aircraft. Research helps teams discover which combinations can work together, and which attractive ideas need further testing or redesign.",
+      "### Engines are only part of the engineering problem",
+      "The industry statement names new propulsion systems, hybridization, innovative materials, lighter structures, digital systems and optimized industrial processes among the areas being studied. That spread explains why the funding concerns an ecosystem. An engine concept may require different integration work; a lighter structure still needs demonstrable strength, durability and a manufacturing method that can be repeated reliably. [GIFAS and CORAC: November 23 funding statement](https://gifas.fr/news/novembre-2026-le-corac-et-le-gifas-saluent-l-annonce-d-emmanuel-macron-de-porter-a-352-millions-d-euros-le-soutien-a-la-recherche-aeronautique-en-2026-6b0410906e0cd)",
+      "PRESDA’s history of [aircraft from the Wright brothers to modern aviation](/articles/airplanes-wright-brothers-modern-aviation/) places that process in perspective. Aircraft development has repeatedly depended on several disciplines advancing together. Today’s environmental goals add urgency, but they do not remove the engineering work between a laboratory result and a dependable transport system.",
+      "## The suppliers and laboratories behind the headline",
+      "GIFAS reports that CORAC programs mobilize more than 520 industrial and research sites and 329 partners, including nearly 250 small and medium-sized companies and intermediate-sized businesses, alongside 48 public laboratories. These figures describe the program network, rather than jobs created by the November announcement. The association says more than 70% of projects are collaborative. [GIFAS and CORAC: November 23 funding statement](https://gifas.fr/news/novembre-2026-le-corac-et-le-gifas-saluent-l-annonce-d-emmanuel-macron-de-porter-a-352-millions-d-euros-le-soutien-a-la-recherche-aeronautique-en-2026-6b0410906e0cd)",
+      "It also says 23% of aid is directed to those smaller and intermediate-sized companies. That gives the announcement a significance beyond the large manufacturers most visible in public debate. Suppliers can contribute specialized components, simulation tools, materials knowledge or manufacturing expertise, while laboratories investigate questions that may take years to produce a commercially usable answer. [GIFAS and CORAC: November 23 funding statement](https://gifas.fr/news/novembre-2026-le-corac-et-le-gifas-saluent-l-annonce-d-emmanuel-macron-de-porter-a-352-millions-d-euros-le-soutien-a-la-recherche-aeronautique-en-2026-6b0410906e0cd)",
+      "### Collaboration can spread both knowledge and risk",
+      "A research partnership allows different capabilities to be tested together. It can also expose incompatibilities earlier than work performed entirely in separate organizations. For smaller companies, participation may build technical experience and relationships within future supply chains. Those are plausible mechanisms through which collaborative research helps an industry; they are not a guarantee that every funded project becomes a production contract.",
+      "The same distinction applies to employment and regional benefits. A program distributed across hundreds of sites has a broad industrial footprint, but the announcement does not establish a new-job total attributable to this specific envelope. Measuring results requires tracking what projects actually deliver, rather than treating the number of participating organizations as an employment forecast.",
+      "## Why the Airbus visit provided the setting",
+      "The Élysée’s official account says Macron visited Toulouse on November 22 and 23. After meeting European industrial leaders, he toured Airbus, where the A350F cargo aircraft under development was presented to him and he visited the A321 assembly line. The presidency framed the trip around industrial competitiveness, investment, innovation and exports. [Élysée: official account of the Toulouse and Airbus visit](https://www.elysee.fr/emmanuel-macron/2026/11/23/deplacement-a-toulouse)",
+      "The location connected long-term research with an existing production system. Airbus’s account of its Toulouse A320-family assembly line describes a facility installed in the former A380 Jean-Luc Lagardère building, with capabilities designed to support the A321. The assembly line and the research envelope belong to different stages of the aviation business, but their connection is the challenge of turning technology into reliable industrial output. [Airbus: the Toulouse A320-family assembly line](https://www.airbus.com/en/newsroom/press-releases/2023-07-airbus-inaugurates-new-toulouse-a320-family-final-assembly-line)",
+      "### Research has to survive contact with real operations",
+      "Manufacturing capacity, supplier reliability and certification requirements all influence whether a promising design can become an aircraft delivered to airlines. Funding research is one part of that process. It does not settle the future aircraft’s full design, launch timing, production plan or commercial success, none of which is announced by this envelope alone.",
+      "PRESDA’s reporting on [Toyota’s Woven City research community](/articles/toyota-beyond-cars-woven-city-living-laboratory/) examines a related business question: how companies test new technologies before committing to wider deployment. Aviation has its own safety and development requirements, but the value of testing assumptions before scaling is familiar across complex industries.",
+      "## What to watch after the announcement",
+      "The useful next questions are specific: which research projects receive commitments, how milestones are assessed, whether funding visibility extends beyond 2026 and how demonstrators perform. CORAC’s collaborative structure makes these questions relevant to suppliers and laboratories as well as major aircraft manufacturers. It also makes published progress more informative than the headline envelope by itself.",
+      "For now, the confirmed development is a €350 million commitment to civil aviation research, announced at Airbus and described by CORAC and GIFAS as a 2026 envelope. Its significance lies in sustaining technical choices being explored today for aircraft that may shape a much longer industrial future. The eventual results will depend on research evidence, engineering integration and continued decisions about financing."
+    ],
+    "references": [
+      {
+        "name": "GIFAS and CORAC: November 23 funding statement",
+        "url": "https://gifas.fr/news/novembre-2026-le-corac-et-le-gifas-saluent-l-annonce-d-emmanuel-macron-de-porter-a-352-millions-d-euros-le-soutien-a-la-recherche-aeronautique-en-2026-6b0410906e0cd"
+      },
+      {
+        "name": "Élysée: official account of the Toulouse and Airbus visit",
+        "url": "https://www.elysee.fr/emmanuel-macron/2026/11/23/deplacement-a-toulouse"
+      },
+      {
+        "name": "Euronews: funding announcement and industrial context",
+        "url": "https://www.euronews.com/2026/11/23/macron-announces-350-million-research-aid-for-frances-aeronautics-industry"
+      },
+      {
+        "name": "Le Journal de l’Aviation: the 2026 CORAC envelope",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/chez-airbus-emmanuel-macron-annonce-350-millions-deuros-de-soutien-au-corac-20261123.html"
+      },
+      {
+        "name": "French transport ministry: CORAC and aeronautical research",
+        "url": "https://www.ecologie.gouv.fr/politiques-publiques/recherche-aeronautique"
+      },
+      {
+        "name": "Airbus: the Toulouse A320-family assembly line",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2023-07-airbus-inaugurates-new-toulouse-a320-family-final-assembly-line"
+      }
+    ],
+    "relatedSlugs": [
+      "airplanes-wright-brothers-modern-aviation",
+      "toyota-beyond-cars-woven-city-living-laboratory"
+    ],
+    "faq": [
+      {
+        "question": "What did France announce for aviation research?",
+        "answer": "Emmanuel Macron announced a €350 million CORAC research envelope during his November 23, 2026 visit to Airbus in Blagnac. GIFAS describes the funding as an envelope for 2026."
+      },
+      {
+        "question": "Is the money exclusively for Airbus?",
+        "answer": "No. CORAC supports research across the French civil aviation ecosystem, including manufacturers, equipment suppliers, smaller businesses and public laboratories."
+      },
+      {
+        "question": "Does the 30% figure describe savings already achieved?",
+        "answer": "No. GIFAS presents a 30% fuel-consumption reduction as an objective for the future aircraft research priority, not an operating result from a new aircraft already in service."
+      },
+      {
+        "question": "Has €350 million been confirmed for every future year?",
+        "answer": "The sources used here do not establish that. GIFAS specifies 2026 and calls for long-term visibility; future allocations should be verified separately."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "575",
+    "slug": "jensen-huang-reinstated-nvidia-ceo-november-2026",
+    "title": "JENSEN HUANG RETURNS AS NVIDIA CEO",
+    "seoTitle": "Jensen Huang returns as NVIDIA CEO; investigation continues",
+    "metaDescription": "NVIDIA announced Huang’s return on November 23, 2026. The SEC filing dates reinstatement to November 22; governance reviews and compliance changes continue.",
+    "excerpt": "NVIDIA announced Huang’s return on November 23, 2026. The SEC filing dates reinstatement to November 22; governance reviews and compliance changes continue.",
+    "category": "Business",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-23",
+    "lastUpdated": "2026-11-23",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/jensen-huang-reinstated-nvidia-ceo-november-2026.jpg",
+    "coverAlt": "Original supplied portrait of Jensen Huang in front of server equipment",
+    "headlineHighlights": {
+      "red": "JENSEN HUANG",
+      "gold": "NVIDIA CEO"
+    },
+    "tags": [
+      "NVIDIA",
+      "Business",
+      "AI"
+    ],
+    "content": [
+      "Jensen Huang has returned as NVIDIA’s president, chief executive and a member of its board. The company announced the reinstatement on November 23, 2026, while its SEC filing dates the board action to November 22, effective immediately. Colette Kress, who had been interim chief executive, continues as executive vice president and chief financial officer. Harvey C. Jones remains board chair. [NVIDIA: official reinstatement announcement, November 23](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)[SEC: NVIDIA Form 8-K reporting November 22 reinstatement](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm)",
+      "The change restores NVIDIA’s co-founder after a brief and unusually visible interruption in its leadership. It also leaves a second story unresolved: the company says its independent investigation will continue. The return is a confirmed corporate decision, but it is not a published finding that every question raised during the leadership crisis has been settled.",
+      "[[QUAD24_575]]",
+      "## What NVIDIA has officially confirmed",
+      "NVIDIA says its directors voted unanimously after discussions and meetings with Huang. The board’s statement says it was satisfied about his candor and ability to lead. That explains the rationale the directors chose to publish; it does not disclose the full content of their deliberations, and the announcement should not be expanded into an account of private meetings that has not been established. [NVIDIA: official reinstatement announcement, November 23](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)",
+      "The SEC filing provides the clearest date for the formal action. It records reinstatement on November 22 and attaches the press release dated November 23. Reporting both dates avoids confusing the board’s effective decision with the day the company announced it publicly. The filing also confirms that Kress continues in her finance role following the change. [SEC: NVIDIA Form 8-K reporting November 22 reinstatement](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm)",
+      "### The earlier transition was a resignation",
+      "NVIDIA’s November 12 announcement said Huang had resigned as president, chief executive and director, with Kress appointed interim CEO while retaining her existing responsibilities. The board said it would consider internal and external candidates for a permanent successor. PRESDA’s earlier report on [Huang’s resignation and Kress’s interim appointment](/articles/jensen-huang-resigns-nvidia-ceo-colette-kress/) covers that first transition. [NVIDIA: November 12 CEO transition announcement](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)",
+      "The reinstatement changes that succession process. It does not mean Kress had been appointed permanently and then removed, nor does it justify describing Huang’s original departure as a dismissal when the company’s announcement called it a resignation. Titles and dates matter because they define who had formal authority during each stage.",
+      "## Why the investigation continues",
+      "In the reinstatement release, NVIDIA says a committee composed entirely of independent directors is investigating reporting that Huang had been targeted by a foreign intelligence effort. The committee has retained independent counsel, and the board says its work will proceed to a conclusion. Huang supports the investigation and is committed to cooperating, according to the company. [NVIDIA: official reinstatement announcement, November 23](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)",
+      "The statement also says the board received input from senior levels of the US government and, on that basis, was confident his reinstatement posed no national security risk. That is the board’s assessment as presented by NVIDIA. It should not be recast as a court ruling, the publication of all underlying evidence or an announcement that the independent review has ended. [NVIDIA: official reinstatement announcement, November 23](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)",
+      "### Governance responsibilities remain separate from executive leadership",
+      "Reinstating a chief executive and completing an investigation are different decisions. A board can determine who leads operations while a committee continues examining the circumstances that prompted scrutiny. NVIDIA explicitly describes that arrangement. Readers should therefore distinguish the confirmed appointment from claims about conclusions that the company has not announced.",
+      "The distinction is especially relevant for a company selling strategically important computing systems. Product demand, customer commitments and technology development can continue while directors and advisers work on governance questions. Continued business activity does not, by itself, resolve those questions; neither does an unfinished review mean that all allegations discussed elsewhere have been established.",
+      "## The compliance structure announced alongside the return",
+      "NVIDIA says it has also formed a National Security and Export Control Committee made up entirely of independent directors. Its remit includes oversight of trade compliance and national security risks. The company says the committee is engaging specialist counsel and advisers, and that NVIDIA will continue cooperating with government investigations and inquiries. [NVIDIA: official reinstatement announcement, November 23](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)",
+      "It is also beginning a search for a chief compliance officer, a new position intended to oversee compliance across the company and report to its Nominating and Corporate Governance Committee. A search announcement is not an appointment: the release does not name a person already selected for that job or publish a completed implementation schedule. [NVIDIA: official reinstatement announcement, November 23](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)",
+      "### Oversight has practical consequences for an AI supplier",
+      "Export controls and compliance affect how advanced computing products can be supplied, which transactions can proceed and what checks businesses must perform. NVIDIA’s announced structure makes oversight a visible part of the leadership story. Its effectiveness will depend on the authority, information and procedures behind those roles, rather than the existence of new titles alone.",
+      "The board chair and the chief executive also retain different responsibilities. Jones remains chair under the reinstatement announcement, while Huang resumes executive leadership. Kress continues overseeing finance. Maintaining that distinction helps explain the organization readers will encounter in future earnings releases, regulatory filings and company announcements.",
+      "## The business Huang returns to",
+      "The leadership change comes shortly after NVIDIA’s November 17 financial report. For the third quarter of fiscal 2027, ended October 25, 2026, the company reported revenue of $115.8 billion, up 103% from a year earlier. Data Center revenue was $107.6 billion, up 110% year on year. These figures describe a completed reporting quarter, rather than sales generated by Huang’s return. [NVIDIA: third-quarter fiscal 2027 financial results](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)",
+      "The results underline how heavily NVIDIA’s business is concentrated in infrastructure for AI and accelerated computing. The company reported that Vera Rubin NVL72 systems had begun shipping. Financial scale and a new product ramp make continuity important to customers and suppliers, but they do not turn a management announcement into a guarantee of future revenue or product performance. [NVIDIA: third-quarter fiscal 2027 financial results](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)",
+      "### Forecasts need their own label",
+      "NVIDIA’s outlook for the fourth quarter of fiscal 2027 calls for revenue of $130 billion, plus or minus 3%. The company notes that the quarter includes an additional week and that the outlook assumes no Data Center compute revenue from China. That guidance is a company forecast with stated assumptions, not an achieved result. [NVIDIA: third-quarter fiscal 2027 financial results](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)",
+      "The distinction also matters when comparing fiscal and calendar dates. The quarter reported in November 2026 is labeled fiscal 2027 by NVIDIA. Calling it simply the third calendar quarter of 2027 would place the results in the wrong period. The reporting label, end date and publication date should travel together whenever the numbers are cited.",
+      "## What customers and investors can verify next",
+      "The next concrete developments are the outcome of the independent committee’s investigation, progress in the compliance-officer search and subsequent disclosures about oversight. On the operating side, future earnings will show how product shipments, demand and spending develop after the reported quarter. None of these outcomes can be inferred solely from the reinstatement.",
+      "PRESDA’s coverage of [NVIDIA’s participation in robotics investment](/articles/agile-robots-softbank-nvidia-500-million-funding/) offers context for the company’s reach beyond individual graphics processors. Huang returns to a business embedded in a broad computing ecosystem. His appointment is now documented; how the company combines executive continuity, technological execution and independent oversight remains the substantive question ahead."
+    ],
+    "references": [
+      {
+        "name": "NVIDIA: official reinstatement announcement, November 23",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+      },
+      {
+        "name": "SEC: NVIDIA Form 8-K reporting November 22 reinstatement",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm"
+      },
+      {
+        "name": "NVIDIA: November 12 CEO transition announcement",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+      },
+      {
+        "name": "NVIDIA: third-quarter fiscal 2027 financial results",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+      }
+    ],
+    "relatedSlugs": [
+      "jensen-huang-resigns-nvidia-ceo-colette-kress",
+      "agile-robots-softbank-nvidia-500-million-funding"
+    ],
+    "faq": [
+      {
+        "question": "Has Jensen Huang officially returned as NVIDIA CEO?",
+        "answer": "Yes. NVIDIA announced his reinstatement as president, CEO and board member on November 23, 2026. The SEC filing dates the effective board action to November 22."
+      },
+      {
+        "question": "What happens to Colette Kress?",
+        "answer": "She continues as NVIDIA’s executive vice president and chief financial officer after serving as interim chief executive."
+      },
+      {
+        "question": "Does reinstatement mean the investigation is finished?",
+        "answer": "No. NVIDIA says the independent-director committee’s investigation will continue to a conclusion and that the company will cooperate with government inquiries."
+      },
+      {
+        "question": "Are the $130 billion fourth-quarter figures confirmed revenue?",
+        "answer": "No. They are NVIDIA’s fiscal 2027 fourth-quarter revenue outlook, plus or minus 3%, with assumptions stated in its November 17 results release."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "576",
+    "slug": "zlatan-ibrahimovic-mobland-season-three-casting-report",
+    "title": "ZLATAN IBRAHIMOVIĆ REPORTEDLY JOINS MOBLAND SEASON THREE AS A VILLAIN",
+    "seoTitle": "Zlatan Ibrahimović linked to MobLand season three villain role",
+    "metaDescription": "The Sun reports a MobLand role for Zlatan Ibrahimović. What is reported, what Paramount confirms about season three, and why his casting remains unconfirmed.",
+    "excerpt": "The Sun reports a MobLand role for Zlatan Ibrahimović. What is reported, what Paramount confirms about season three, and why his casting remains unconfirmed.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-23",
+    "lastUpdated": "2026-11-23",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/zlatan-ibrahimovic-mobland-season-three-casting-report.jpg",
+    "coverAlt": "Supplied editorial composite of Zlatan Ibrahimović with Tom Hardy, Helen Mirren and Pierce Brosnan against a London backdrop",
+    "headlineHighlights": {
+      "red": "ZLATAN IBRAHIMOVIĆ",
+      "gold": "MOBLAND SEASON THREE"
+    },
+    "tags": [
+      "ZLATAN IBRAHIMOVIĆ",
+      "Paparazzi"
+    ],
+    "content": [
+      "Zlatan Ibrahimović has been linked to a villain role in the third season of MobLand, but his casting is not officially confirmed in the production material reviewed for this article. The report originated with The Sun on November 22, 2026, citing an unnamed source. Aftonbladet’s follow-up explicitly noted the absence of confirmation from the production. The appropriate headline is therefore that Ibrahimović reportedly joins the series, rather than that Paramount has announced his role. [The Sun: original casting report, November 22, 2026](https://www.thesun.co.uk/sport/41109619/zlatan-ibrahimovic-joins-gangster-drama-mobland-as-villain/)[Aftonbladet: report attribution and absence of production confirmation](https://www.aftonbladet.se/sportbladet/fotboll/a/KL3AB7/uppgifter-zlatan-ibrahimovic-klar-for-mobland)",
+      "There is a separate, confirmed development: Paramount announced on November 20 that production on season three had begun that week. Tom Hardy, Pierce Brosnan and Helen Mirren are returning. Those facts establish that another season is being made; they do not, on their own, establish that every performer named in subsequent reports has joined its cast. [Paramount: official season-three production announcement](https://www.paramountpressexpress.com/paramount-plus/shows/mobland/releases/?view=113634-production-begins-on-season-three-of-the-hit-paramount-original-series-mobland)",
+      "[[QUAD24_576]]",
+      "## Where the casting report comes from",
+      "The Sun’s article, published on November 22 and attributed to journalist Hannah Hope, says the former footballer has secured a villain role. Its account relies on an unnamed source describing enthusiasm about his involvement and his suitability for an imposing screen presence. The article does not provide an official character announcement or a named production representative confirming the casting. [The Sun: original casting report, November 22, 2026](https://www.thesun.co.uk/sport/41109619/zlatan-ibrahimovic-joins-gangster-drama-mobland-as-villain/)",
+      "The report was subsequently carried by other outlets, including Aftonbladet. That spread explains why the claim has attracted attention, but repetition is not the same as several independent confirmations. When articles trace their information back to the same original source, the underlying evidence remains a report from that source, however widely it circulates. [Aftonbladet: report attribution and absence of production confirmation](https://www.aftonbladet.se/sportbladet/fotboll/a/KL3AB7/uppgifter-zlatan-ibrahimovic-klar-for-mobland)",
+      "### What can and cannot be stated now",
+      "The confirmed proposition is that a reputable newspaper has published the casting report. The unconfirmed proposition is the casting itself. The materials reviewed do not establish an official character name, episode count, contractual details or the precise importance of a possible role. Describing Ibrahimović as the season’s principal antagonist would add a detail that the available evidence does not support.",
+      "The lack of an official confirmation is not a denial. Casting announcements may appear at different points during production, and a report may later prove accurate. Until that happens, the useful editorial distinction is between a plausible, attributable report and an established production credit. That distinction applies to the headline, the article and its translated editions alike.",
+      "## What Paramount confirms about season three",
+      "Paramount’s November 20 release says the new season is produced in association with Paramount Television Studios and 101 Studios. It confirms Hardy’s return as Harry da Souza, the fixer at the center of the story, alongside Brosnan and Mirren as Conrad and Maeve Harrigan, the crime family’s patriarch and matriarch. Ibrahimović is not named in that release. [Paramount: official season-three production announcement](https://www.paramountpressexpress.com/paramount-plus/shows/mobland/releases/?view=113634-production-begins-on-season-three-of-the-hit-paramount-original-series-mobland)",
+      "The announcement also states that the second-season finale is streaming on Paramount+. Its list of season-two performers should not be mistaken for a complete new season-three cast announcement. Publicity material can describe the program’s existing ensemble and its returning leads without disclosing every performer who may appear in later episodes. [Paramount: official season-three production announcement](https://www.paramountpressexpress.com/paramount-plus/shows/mobland/releases/?view=113634-production-begins-on-season-three-of-the-hit-paramount-original-series-mobland)",
+      "### Production has already started",
+      "Some coverage of the Ibrahimović report says filming will begin soon. Paramount’s own dated statement is more precise about the overall production: season three commenced during the week of November 20. That official chronology takes precedence when describing the season’s status. It does not reveal the shooting dates of a particular performer or scene. [The Sun: original casting report, November 22, 2026](https://www.thesun.co.uk/sport/41109619/zlatan-ibrahimovic-joins-gangster-drama-mobland-as-villain/)[Paramount: official season-three production announcement](https://www.paramountpressexpress.com/paramount-plus/shows/mobland/releases/?view=113634-production-begins-on-season-three-of-the-hit-paramount-original-series-mobland)",
+      "The sources reviewed here do not provide a confirmed premiere date for the third season. Reports suggesting a late-2027 release should therefore remain attributed expectations, rather than a viewing date readers can treat as fixed. A production start, a casting report and a release announcement are three different pieces of information.",
+      "## Why Ibrahimović is a credible subject for screen speculation",
+      "His interest in entertainment is not entirely new. Pathé’s official credits for Guillaume Canet’s Astérix et Obélix: L’Empire du Milieu include Zlatan Ibrahimović among the cast. The 2023 film provides a verifiable acting credit, quite apart from his advertising appearances or the documentaries that have followed his sporting career. [Pathé Films: Astérix et Obélix film and cast credits](https://www.pathefilms.com/fr/films/asterix-et-obelix-lempire-du-milieu/)",
+      "The reported move would nevertheless represent a change of setting. A comic adventure film and a continuing crime series ask different things of a performer, and a recognizable public personality is not the same as a character developed over multiple episodes. Without a confirmed role description, it would be premature to assess the demands of his supposed MobLand appearance or predict how it will be received.",
+      "### His football career and his current work are separate chapters",
+      "Ibrahimović retired from professional football in June 2023. The Premier League’s contemporary account records that decision and his earlier spell at Manchester United, followed by LA Galaxy and a return to AC Milan. His retirement from playing should not be described as a departure from all football-related work. [Premier League: retirement from professional football in June 2023](https://www.premierleague.com/en/news/3529753)",
+      "In December 2023, RedBird Capital Partners announced him as an operating partner across its sports and media-and-entertainment investment portfolio and an adviser to AC Milan’s ownership. The announcement gives a documented foundation for his work beyond the pitch. It does not establish involvement in this particular television production. [AC Milan: RedBird role announced December 11, 2023](https://www.acmilan.com/en/news/articles/club/2023-12-11/redbird-capital-partners-press-release)",
+      "## A familiar public persona meets a different craft",
+      "The appeal of the report is easy to understand. Ibrahimović built a public identity around confidence, memorable remarks and conspicuous physical presence. Those qualities help explain the interest in a potential villain role. They are observations about why the story attracts attention, not evidence that a casting agreement exists or that a character has already been written around him.",
+      "His UEFA interview about retirement and his Milan role offers a more grounded view of his transition: a former player discussing a new professional life while remaining connected to the club. PRESDA’s profile of [Gerard Piqué’s move into the Kings League and entrepreneurship](/articles/gerard-pique-kings-league-entrepreneur-kosmos/) explores another example of football experience being redirected into different work after a playing career. [UEFA: interview about retirement and work at Milan](https://www.uefa.com/uefachampionsleague/news/0294-1c8717433b49-dd570329dcf6-1000--zlatan-ibrahimovic-on-retirement-and-his-new-role-at-milan/)",
+      "### Football fame does not define the size of a television role",
+      "A cameo, recurring guest appearance and regular cast role can all involve a famous name while requiring very different commitments. None should be assumed from the generic description of a villain. The available report does not justify inventing scenes, dialogue, plot confrontations with Hardy’s character or a production budget linked to Ibrahimović.",
+      "That restraint also applies to imagery. The supplied hero combines Ibrahimović with the series’ leading actors in an editorial composition. It is not official casting artwork, a set photograph or proof that the people shown have filmed a scene together. Its caption makes that distinction explicit while preserving the supplied image unchanged.",
+      "## What would make the casting official?",
+      "A named announcement from Paramount, the production companies or Ibrahimović’s representatives would materially change the status of the story. Official episode credits or an authenticated production statement could establish a character and role more precisely. Until then, the strongest version of the article retains the attribution and explains what the production has actually confirmed.",
+      "For readers interested in football figures entering television, [Cristiano Ronaldo and Thierry Henry’s Day 1s project](/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series/) provides a useful comparison with reported commissioning and named producing roles. The MobLand claim deserves coverage as a casting report, with its limits visible. It does not yet deserve to be presented as an official Paramount announcement."
+    ],
+    "references": [
+      {
+        "name": "The Sun: original casting report, November 22, 2026",
+        "url": "https://www.thesun.co.uk/sport/41109619/zlatan-ibrahimovic-joins-gangster-drama-mobland-as-villain/"
+      },
+      {
+        "name": "Paramount: official season-three production announcement",
+        "url": "https://www.paramountpressexpress.com/paramount-plus/shows/mobland/releases/?view=113634-production-begins-on-season-three-of-the-hit-paramount-original-series-mobland"
+      },
+      {
+        "name": "Aftonbladet: report attribution and absence of production confirmation",
+        "url": "https://www.aftonbladet.se/sportbladet/fotboll/a/KL3AB7/uppgifter-zlatan-ibrahimovic-klar-for-mobland"
+      },
+      {
+        "name": "Pathé Films: Astérix et Obélix film and cast credits",
+        "url": "https://www.pathefilms.com/fr/films/asterix-et-obelix-lempire-du-milieu/"
+      },
+      {
+        "name": "AC Milan: RedBird role announced December 11, 2023",
+        "url": "https://www.acmilan.com/en/news/articles/club/2023-12-11/redbird-capital-partners-press-release"
+      },
+      {
+        "name": "Premier League: retirement from professional football in June 2023",
+        "url": "https://www.premierleague.com/en/news/3529753"
+      },
+      {
+        "name": "UEFA: interview about retirement and work at Milan",
+        "url": "https://www.uefa.com/uefachampionsleague/news/0294-1c8717433b49-dd570329dcf6-1000--zlatan-ibrahimovic-on-retirement-and-his-new-role-at-milan/"
+      }
+    ],
+    "relatedSlugs": [
+      "gerard-pique-kings-league-entrepreneur-kosmos",
+      "cristiano-ronaldo-thierry-henry-day-1s-paramount-series"
+    ],
+    "faq": [
+      {
+        "question": "Has Paramount confirmed Zlatan Ibrahimović’s casting in MobLand?",
+        "answer": "Not in the production material reviewed for this article. The claim comes from The Sun’s November 22 report and remains attributed reporting."
+      },
+      {
+        "question": "Has filming started on MobLand season three?",
+        "answer": "Yes. Paramount’s November 20, 2026 announcement says production began that week. This does not establish a filming schedule for Ibrahimović."
+      },
+      {
+        "question": "Has Ibrahimović acted before?",
+        "answer": "Yes. Pathé’s official cast credits include him in the 2023 film Astérix et Obélix: L’Empire du Milieu, directed by Guillaume Canet."
+      },
+      {
+        "question": "Is there a confirmed premiere date for his reported season?",
+        "answer": "The sources reviewed do not establish an official season-three premiere date or confirmed details of an Ibrahimović character."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "577",
+    "slug": "cristiano-ronaldo-thierry-henry-day-1s-paramount-series",
+    "title": "CRISTIANO RONALDO AND THIERRY HENRY TEAM UP FOR DAY 1S",
+    "seoTitle": "Ronaldo and Thierry Henry back Day 1s: what is confirmed",
+    "metaDescription": "Ronaldo’s UR-Marv television debut has a Paramount+ order, Deadline reports. Thierry Henry’s role, the revised premise and what remains unknown about release.",
+    "excerpt": "Ronaldo’s UR-Marv television debut has a Paramount+ order, Deadline reports. Thierry Henry’s role, the revised premise and what remains unknown about release.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-23",
+    "lastUpdated": "2026-11-23",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series.jpg",
+    "coverAlt": "Supplied editorial composite of Cristiano Ronaldo and Thierry Henry with film-production equipment",
+    "headlineHighlights": {
+      "red": "CRISTIANO RONALDO",
+      "gold": "THIERRY HENRY"
+    },
+    "tags": [
+      "CRISTIANO RONALDO",
+      "Paparazzi"
+    ],
+    "content": [
+      "Cristiano Ronaldo and Thierry Henry are joining the producing team behind Day 1s, a football comedy ordered by Paramount+, according to Deadline’s November 12, 2026 report. The project is the first television series from UR-Marv Studios, the company Ronaldo formed with filmmaker Matthew Vaughn. Ronaldo has also confirmed in an Instagram post that production of his first television show has started. This is a production and commissioning story, not the announcement of a series already available to watch. [Deadline: Paramount+ order, producers and revised premise, November 12](https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/)[Cristiano Ronaldo: original production announcement on Instagram](https://www.instagram.com/p/DfnIuzzAGnq/)",
+      "The distinction matters because the project has changed shape in public reporting. Earlier accounts presented it primarily through a fictional football agent. The newer commissioning report describes a gifted young player who reaches the Premier League with the friends who supported him before fame. That newer premise provides the clearest basis for explaining what audiences can expect, while a premiere date remains unannounced in the sources reviewed. [Deadline: Paramount+ order, producers and revised premise, November 12](https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/)[Deadline report syndicated by Yahoo: accessible full report](https://malaysia.news.yahoo.com/paramount-greenlights-damian-lewis-starring-170003997.html)",
+      "[[QUAD24_577]]",
+      "## What Day 1s is about",
+      "Deadline describes a ten-part sports comedy about a young player who realizes his ambition of playing for Brentford FC. He brings along the people who were with him before money and success, his day-one friends. The title therefore points toward relationships as much as sporting performance: the series concerns what happens to an existing circle when one person’s opportunities suddenly expand. [Deadline: Paramount+ order, producers and revised premise, November 12](https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/)",
+      "That premise gives the project a useful dramatic setting. Professional football places young people inside a business where public attention and financial expectations can accelerate faster than personal experience. Friendship, loyalty and competing ambitions are part of the stated concept. Specific plot twists, player contracts or match outcomes have not been announced and should not be invented to make the premise sound more detailed.",
+      "### The newer account updates the earlier agent-centered description",
+      "The commissioning report explicitly distinguishes the new synopsis from earlier coverage that focused on a football agent. Damian Lewis is attached to the series, and Portuguese publication ECO identified his character as fictional agent Stanley Dalton. It would be misleading to ignore the later player-centered premise and present an older development description as the complete current synopsis. [Deadline: Paramount+ order, producers and revised premise, November 12](https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/)[ECO: direct confirmation from UR-Marv creative chief Carlos Peres](https://eco.sapo.pt/2026/11/12/arranca-a-producao-de-day-1s-a-serie-de-ficcao-de-cristiano-ronaldo/)",
+      "The change does not establish that a particular character has been dropped or that every earlier detail was wrong. Development reports often describe projects before a final public outline is available. The useful approach is to identify the newer source, explain the updated focus and avoid claiming access to scripts that have not been published.",
+      "## Ronaldo and Henry’s roles behind the camera",
+      "Both Ronaldo and Henry are named among the executive producers in Deadline’s commissioning report. Ronaldo’s involvement also has a direct production-company confirmation: ECO reports that UR-Marv creative chief Carlos Peres had confirmed his executive-producer role and a limited number of appearances as himself. That is more precise than a headline implying he will necessarily carry the series as its principal actor. [Deadline: Paramount+ order, producers and revised premise, November 12](https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/)[ECO: direct confirmation from UR-Marv creative chief Carlos Peres](https://eco.sapo.pt/2026/11/12/arranca-a-producao-de-day-1s-a-serie-de-ficcao-de-cristiano-ronaldo/)",
+      "Henry’s executive-producer credit likewise does not automatically establish the scale of any on-screen appearance. Earlier reports linked both footballers to the cast, but producing, guest appearances and leading a continuing fictional role are different forms of participation. The safest account names the confirmed or directly reported roles and leaves unannounced episode details open.",
+      "### A recognizable name can help a project without guaranteeing its success",
+      "Ronaldo and Henry bring an unusually direct connection to the world the series depicts. Their association may help attract initial attention from football audiences and provides relevant experience within the producing team. Neither celebrity recognition nor a large following establishes how many people will watch the finished series, what it will earn or how critics will respond.",
+      "PRESDA’s feature on [David Beckham’s business interests](/articles/david-beckham-billion-dollar-fortune-business-empire/) examines another football figure’s work outside competition. Day 1s belongs to a different business model: a scripted television production needs creative development, financing, production work and distribution, rather than merely the licensing of a familiar face.",
+      "## The filmmakers and companies involved",
+      "Matthew Vaughn directed the pilot, according to Deadline, while Dan Mazer is set to serve as showrunner. Producer Darren Dein conceived the idea. The report names UR-Marv Studios, Dein’s DoubleD Sports and Kris Thykier’s Archery Pictures among the companies behind the series. That combination places Ronaldo’s involvement within a larger production structure rather than a project he is making alone. [Deadline: Paramount+ order, producers and revised premise, November 12](https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/)",
+      "The executive-producing team also includes Vaughn, Dein, Damian Lewis, Mazer, Doug Ellin and Thykier. A producer list identifies people attached to making and overseeing the show; it does not by itself specify how every creative decision, financing obligation or ownership interest is divided. No detailed financial arrangement is established in the sources reviewed. [Deadline: Paramount+ order, producers and revised premise, November 12](https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/)",
+      "### The pilot and the series order are different milestones",
+      "A pilot can establish tone, characters and a production approach. A straight-to-series order commits a broadcaster or platform to a series rather than leaving a project solely at that initial demonstration stage. Deadline’s report of the Paramount+ order is therefore a material update beyond the earlier stories about development and filming.",
+      "It still does not make the series available to subscribers. Production, completion, distribution arrangements and a public release schedule are separate stages. A viewer looking for an episode today should not be directed to a non-existent premiere or a supposed release date inferred from the fact that a pilot has been made.",
+      "## How UR-Marv fits into Ronaldo’s wider move into entertainment",
+      "Ronaldo and Vaughn’s studio partnership was publicly announced in April 2025. Portuguese public broadcaster RTP reported the consortium’s announcement on April 10, describing a studio combining interest in innovative technology with traditional filmmaking. The launch account said the partners had already financed and produced two action films together and were preparing another in the same series. [RTP: UR-Marv studio launch announcement, April 10, 2025](https://www.rtp.pt/noticias/futebol-internacional/ronaldo-e-vaughn-lancam-estudio-de-cinema_d1647030)",
+      "Day 1s extends that partnership into television. Calling it the studio’s first TV project is more specific than claiming it is Ronaldo’s first appearance in any television format. His existing public profile includes interviews, advertising and sports programming, while this project is a scripted production in which he has a producing role.",
+      "### Football provides the subject, not a ready-made script",
+      "Access to sporting experience can inform a fictional series, but it cannot replace the work of constructing characters and episodes. A television audience may include viewers who do not follow Brentford or recognize the producers’ playing histories. The stated emphasis on friendship gives the series a potential point of entry beyond results, transfers and league loyalties.",
+      "PRESDA’s reporting on [Gerard Piqué and the Kings League](/articles/gerard-pique-kings-league-entrepreneur-kosmos/) explores a different way of turning football experience into entertainment. Piqué’s competition and Ronaldo’s scripted project are distinct ventures, but both show why a footballer’s post-match business activity should be examined through the actual product rather than reputation alone.",
+      "## What is known about watching the series",
+      "The latest commissioning report identifies Paramount+ as the platform and ten episodes as the order. Earlier November accounts that said no platform or episode count had been announced predate that update. The sources reviewed do not establish a premiere date, a complete release calendar or identical availability in every territory. [Deadline: Paramount+ order, producers and revised premise, November 12](https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/)[ECO: direct confirmation from UR-Marv creative chief Carlos Peres](https://eco.sapo.pt/2026/11/12/arranca-a-producao-de-day-1s-a-serie-de-ficcao-de-cristiano-ronaldo/)[Deadline report syndicated by Yahoo: accessible full report](https://malaysia.news.yahoo.com/paramount-greenlights-damian-lewis-starring-170003997.html)",
+      "The supplied hero is an editorial composite of Ronaldo and Henry with filmmaking equipment, not an authenticated production still. For now, the concrete news is the combination of a production announcement, a reported Paramount+ order and named producing roles. The next useful update will be a confirmed release schedule or official material showing the finished series, rather than another headline treating production as a premiere."
+    ],
+    "references": [
+      {
+        "name": "Deadline: Paramount+ order, producers and revised premise, November 12",
+        "url": "https://deadline.com/2026/11/paramount-plus-day-1s-ronaldo-damian-lewis-vaughn-1237221704/"
+      },
+      {
+        "name": "Cristiano Ronaldo: original production announcement on Instagram",
+        "url": "https://www.instagram.com/p/DfnIuzzAGnq/"
+      },
+      {
+        "name": "ECO: direct confirmation from UR-Marv creative chief Carlos Peres",
+        "url": "https://eco.sapo.pt/2026/11/12/arranca-a-producao-de-day-1s-a-serie-de-ficcao-de-cristiano-ronaldo/"
+      },
+      {
+        "name": "RTP: UR-Marv studio launch announcement, April 10, 2025",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/ronaldo-e-vaughn-lancam-estudio-de-cinema_d1647030"
+      },
+      {
+        "name": "Deadline report syndicated by Yahoo: accessible full report",
+        "url": "https://malaysia.news.yahoo.com/paramount-greenlights-damian-lewis-starring-170003997.html"
+      }
+    ],
+    "relatedSlugs": [
+      "david-beckham-billion-dollar-fortune-business-empire",
+      "gerard-pique-kings-league-entrepreneur-kosmos"
+    ],
+    "faq": [
+      {
+        "question": "Has Cristiano Ronaldo’s Day 1s already premiered?",
+        "answer": "The sources reviewed do not establish a premiere. Ronaldo announced production, and Deadline subsequently reported a Paramount+ series order; neither is a release date."
+      },
+      {
+        "question": "What is Thierry Henry’s confirmed role in the report?",
+        "answer": "Deadline names Henry as an executive producer. That credit should not be confused with confirmation of the number or importance of any on-screen appearances."
+      },
+      {
+        "question": "Who leads the creative team?",
+        "answer": "Deadline reports that Matthew Vaughn directed the pilot, Dan Mazer is set to be showrunner and Darren Dein conceived the idea. Damian Lewis is attached to the series and is also an executive producer."
+      },
+      {
+        "question": "Is the show about a football agent or a young player?",
+        "answer": "The newer commissioning report describes a young Brentford player and his longtime friends. It explicitly updates earlier development coverage centered on an agent."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
     "id": "570",
     "slug": "carlos-alcaraz-first-atp-finals-title-zverev-turin-2026",
     "title": "CARLOS ALCARAZ WINS HIS FIRST ATP FINALS TITLE",

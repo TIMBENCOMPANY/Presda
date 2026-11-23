@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/france-350-million-corac-civil-aviation-research-2026.jpg","/articles/jensen-huang-reinstated-nvidia-ceo-november-2026.jpg","/articles/zlatan-ibrahimovic-mobland-season-three-casting-report.jpg","/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/carlos-alcaraz-first-atp-finals-title-zverev-turin-2026.jpg","/articles/afcon-2027-six-host-cities-kenya-tanzania-uganda.jpg","/articles/boca-juniors-sudamericana-2026-18-year-continental-drought.jpg","/articles/vampire-camel-vampyrocamelus-welshi-miocene-fossils.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/miley-cyrus-maxx-morando-palm-springs-wedding-2026.jpg","/articles/toyota-beyond-cars-woven-city-living-laboratory.jpg","/articles/orca-fossils-large-prey-hunting-two-million-years.jpg","/articles/marina-abramovic-rhythm-0-1974-audience-control.jpg","/articles/shenzhen-151-humanoid-robots-dance-reported-guinness-record.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/firouzja-total-chess-budapest-pilot-2026.jpg","/articles/webb-bao-giant-star-companion-merger-andromeda.jpg","/articles/first-free-human-balloon-flight-paris-1783.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
