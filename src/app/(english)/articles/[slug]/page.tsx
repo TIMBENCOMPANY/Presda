@@ -43,7 +43,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   const metadataDescription = article.metaDescription ?? article.excerpt;
 
   return {
-    title: metadataTitle.endsWith(" | PRESDA") ? { absolute: metadataTitle } : metadataTitle,
+    title: article.seoTitleAbsolute || metadataTitle.endsWith(" | PRESDA") ? { absolute: metadataTitle } : metadataTitle,
     description: metadataDescription,
     authors: [{ name: article.author, url: authorUrl }],
     category: article.category,

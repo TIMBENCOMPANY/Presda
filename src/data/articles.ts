@@ -208,13 +208,15 @@ export type ArticleCategory =
   | "Lifestyle"
   | "World Cup 2026"
   | "Science"
-  | "History";
+  | "History"
+  | "Culture";
 
 export type Article = {
   id: string;
   slug: string;
   title: string;
   seoTitle?: string;
+  seoTitleAbsolute?: boolean;
   metaDescription?: string;
   schemaType?: "Article" | "NewsArticle";
   headlineAccent?: string;
@@ -35961,7 +35963,8 @@ export const categories: ArticleCategory[] = [
   "Sport",
   "Lifestyle",
   "Science",
-  "History"
+  "History",
+  "Culture"
 ];
 
 validatePublishedArticles(articles, categories);

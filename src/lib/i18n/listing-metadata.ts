@@ -7,6 +7,7 @@ import { createPageMetadata, absoluteUrl, defaultOgImage } from "@/lib/seo";
 
 const categoryDescriptions = {
   fr: {
+    culture: "Explorez la littérature, les arts, les créateurs et les œuvres qui traversent les générations avec PRESDA.",
     world: "Découvrez les analyses de PRESDA sur l’actualité internationale, la géopolitique et les événements qui façonnent le monde.",
     sport: "Retrouvez les articles de PRESDA sur le sport, les athlètes, les grandes compétitions et les histoires qui marquent leur époque.",
     business: "Explorez l’économie, les entreprises, les marchés et les transformations du monde des affaires avec PRESDA.",
@@ -18,6 +19,7 @@ const categoryDescriptions = {
     paparazzi: "Retrouvez les portraits, les parcours et les actualités des célébrités et du monde du spectacle avec PRESDA."
   },
   ar: {
+    culture: "استكشف الأدب والفنون والمبدعين والأعمال الثقافية التي تصل بين الأجيال على PRESDA.",
     world: "اكتشف تحليلات PRESDA للشؤون الدولية والجغرافيا السياسية والأحداث التي تشكل عالمنا.",
     sport: "تابع مقالات PRESDA عن الرياضة والرياضيين والبطولات الكبرى والقصص التي صنعت تاريخ المنافسة.",
     business: "استكشف الاقتصاد والشركات والأسواق والتحولات في عالم الأعمال مع PRESDA.",
@@ -29,6 +31,7 @@ const categoryDescriptions = {
     paparazzi: "تابع سير المشاهير ومسيراتهم وأخبار عالم الفن والترفيه مع PRESDA."
   },
   es: {
+    culture: "Explora la literatura, las artes, los creadores y las obras que conectan generaciones con PRESDA.",
     world: "Descubre los análisis de PRESDA sobre actualidad internacional, geopolítica y los acontecimientos que transforman el mundo.",
     sport: "Explora los artículos de PRESDA sobre deportes, atletas, grandes competiciones e historias que marcaron una época.",
     business: "Explora la economía, las empresas, los mercados y las transformaciones del mundo empresarial con PRESDA.",

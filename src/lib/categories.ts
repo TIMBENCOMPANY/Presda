@@ -10,6 +10,7 @@ export const categoryLabels: Record<ArticleCategory, string> = {
   Travel: "Travel",
   Science: "Science",
   History: "History",
+  Culture: "Culture",
   "World Cup 2026": "World Cup 2026"
 };
 
@@ -23,6 +24,7 @@ export const categoryDescriptions: Record<ArticleCategory, string> = {
   Travel: "Destinations, hidden gems, future cities, cultural experiences, and premium journeys.",
   Science: "Research, discovery, space, archaeology, health, and evidence-led explanations.",
   History: "Civilizations, ideas, discoveries, cultural memory, and the forces that shaped human life.",
+  Culture: "Literature, art, ideas, creators, and the cultural works that connect generations.",
   "World Cup 2026": "Tournament coverage, football culture, fixtures, stadiums, fans, and World Cup analysis."
 };
 
@@ -39,7 +41,8 @@ const categoriesBySlug: Record<string, ArticleCategory> = {
   lifestyle: "Lifestyle",
   travel: "Travel",
   science: "Science",
-  history: "History"
+  history: "History",
+  culture: "Culture"
 };
 
 export function fromCategorySlug(slug: string): ArticleCategory | undefined {

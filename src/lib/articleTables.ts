@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[ANNIV24_584]]": {
+    "caption": "Lucy: discovery and research milestones",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "24 November 1974",
+        "Lucy discovered at Hadar, Ethiopia"
+      ],
+      [
+        "1978",
+        "Australopithecus afarensis formally named"
+      ],
+      [
+        "2016",
+        "A study proposes a fatal fall, not a settled cause"
+      ],
+      [
+        "24 November 2026",
+        "52 years since the discovery"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ANNIV24_585]]": {
+    "caption": "From the republic to the protected surname",
+    "headers": [
+      "Date",
+      "Event"
+    ],
+    "rows": [
+      [
+        "29 October 1923",
+        "Republic proclaimed; Mustafa Kemal elected president"
+      ],
+      [
+        "21 June 1934",
+        "General Surname Law adopted"
+      ],
+      [
+        "24 November 1934",
+        "Law No. 2587 grants the surname Atatürk"
+      ],
+      [
+        "17 December 1934",
+        "Law No. 2622 reserves the name’s use"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ANNIV24_586]]": {
+    "caption": "Collodi and Pinocchio: four distinct milestones",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "24 November 1826",
+        "Carlo Lorenzini born in Florence"
+      ],
+      [
+        "7 July 1881",
+        "Pinocchio begins as a newspaper serial"
+      ],
+      [
+        "1883",
+        "The completed story appears in book form"
+      ],
+      [
+        "24 November 2026",
+        "The author’s bicentenary"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ANNIV24_587]]": {
+    "caption": "MediaMarkt’s opening and later corporate milestones",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "24 November 1979",
+        "First MediaMarkt opens in Munich"
+      ],
+      [
+        "1996",
+        "MediaMarkt and Saturn’s parent interests enter the Metro Group"
+      ],
+      [
+        "2017",
+        "The electronics business becomes independently listed as Ceconomy"
+      ],
+      [
+        "12 November 2026",
+        "JD.com completes its public takeover offer"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[ANNIV24_588]]": {
+    "caption": "The route to Zara and the later diversion",
+    "headers": [
+      "Date",
+      "Event"
+    ],
+    "rows": [
+      [
+        "1201",
+        "Crusading leaders arrange transport with Venice"
+      ],
+      [
+        "10–11 November 1202",
+        "Fleet arrives and the siege begins"
+      ],
+      [
+        "November 1202",
+        "18 November surrender in some studies; 24 November capture or occupation in others"
+      ],
+      [
+        "1204",
+        "The expedition sacks Constantinople"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[CAS26_583]]": {
     "caption": "AFCON 2025 final dispute: the verified chronology",
     "headers": [

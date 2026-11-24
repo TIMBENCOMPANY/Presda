@@ -20,7 +20,7 @@ export function translationMetadata(record: Translation): Metadata {
     ? articleSocialImage(hero.src, hero.alt)
     : { url: `https://presda.com${hero.src}`, alt: hero.alt }] : [];
   return {
-    title: { absolute: record.seoTitle.endsWith(" | PRESDA") ? record.seoTitle : `${record.seoTitle} | PRESDA` },
+    title: { absolute: record.seoTitleAbsolute || record.seoTitle.endsWith(" | PRESDA") ? record.seoTitle : `${record.seoTitle} | PRESDA` },
     description: record.description,
     keywords: record.keywords,
     ...(record.author ? { authors: [{ name: record.author, url: `https://presda.com/authors/${toAuthorSlug(record.author)}/` }] } : {}),

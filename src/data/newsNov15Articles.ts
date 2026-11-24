@@ -1,6 +1,593 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "584",
+    "slug": "lucy-fossil-discovery-1974-human-evolution",
+    "title": "LUCY: THE 3.2-MILLION-YEAR-OLD FOSSIL THAT CHANGED HUMAN HISTORY",
+    "seoTitle": "Lucy Fossil: The Discovery That Changed Human Evolution",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Discovered in Ethiopia on November 24, 1974, Lucy transformed human evolution research. Explore her anatomy, age and the questions still open.",
+    "excerpt": "Discovered in Ethiopia on November 24, 1974, Lucy transformed human evolution research. Explore her anatomy, age and the questions still open.",
+    "category": "Science",
+    "schemaType": "Article",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/lucy-fossil-discovery-1974-human-evolution.jpg",
+    "coverAlt": "Illustration of Lucy’s reconstructed face beside a fossil display",
+    "headlineHighlights": {
+      "red": "LUCY",
+      "gold": "CHANGED HUMAN HISTORY"
+    },
+    "tags": [
+      "LUCY",
+      "Science"
+    ],
+    "content": [
+      "Lucy was discovered at Hadar in Ethiopia on November 24, 1974. The roughly 3.2-million-year-old partial skeleton of Australopithecus afarensis helped establish that upright walking preceded the large brains of later humans. On the discovery’s 52nd anniversary, her importance rests on an extraordinary combination of bones, not on the claim that she was humanity’s single first ancestor. [ASU Institute of Human Origins: discovery, anatomy, dating and custody](https://iho.asu.edu/node/15) [Smithsonian: Lucy specimen AL 288-1](https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1)",
+      "Few scientific names travel as far beyond the laboratory as Lucy’s. Yet the familiar face in a reconstruction can make the evidence seem more complete than it is. The fossil preserves a remarkable anatomical sample; it does not preserve her expression, a diary of her life or proof that everyone alive descends directly from this particular individual.",
+      "## A November morning in Ethiopia",
+      "Donald Johanson and graduate student Tom Gray were returning from fieldwork when they investigated a gully at Hadar. Johanson recognized a forearm fragment, and further searching revealed pieces of a skull, jaw, pelvis and limbs. Excavation and sorting over the following two weeks recovered hundreds of fragments. The Institute of Human Origins describes 47 bones representing about 40 percent of one skeleton. [ASU Institute of Human Origins: discovery, anatomy, dating and custody](https://iho.asu.edu/node/15)",
+      "That percentage is a reconstruction of skeletal completeness, not a statement that 40 percent of her original body mass survived. Teeth, duplicated left and right elements, broken pieces and absent bones all require careful identification. The find mattered because several anatomical regions could be studied together rather than inferred from an isolated jaw or tooth.",
+      "The expedition was also a collective undertaking. Johanson and Gray made the discovery in the field, within the International Afar Research Expedition associated with Johanson, geologist Maurice Taieb and paleoanthropologist Yves Coppens. ASU’s retrospective places the famous moment inside continuing geological and paleontological research, rather than a lone explorer’s accidental triumph. [ASU, November 21, 2024: Lucy’s discovery and continuing research](https://news.asu.edu/20241121-science-and-technology-lucys-lasting-legacy-donald-johanson-reflects-discovery-lifetime)",
+      "### A nickname with two histories",
+      "The Beatles recording Lucy in the Sky with Diamonds was playing during the camp’s celebration that evening. The nickname endured, although IHO says no one remembers exactly who first suggested it. In Ethiopia she is also known as Dinknesh, commonly translated as “you are marvelous.” The scientific specimen number, AL 288-1, remains the precise identifier used to distinguish her from other finds. [ASU Institute of Human Origins: discovery, anatomy, dating and custody](https://iho.asu.edu/node/15) [Smithsonian: Lucy specimen AL 288-1](https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1)",
+      "## What the bones changed",
+      "Lucy’s most consequential evidence lies below the skull. Her short, broad pelvis and the angle of the thigh bone helped show how body weight could be supported during upright movement. These are functional relationships: walking on two legs requires the trunk to remain balanced while the body repeatedly transfers its weight onto one supporting limb. [Smithsonian: Lucy specimen AL 288-1](https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1)",
+      "### Walking came before a large brain",
+      "Her species combined a small brain with adaptations for regular bipedal walking. That combination challenged any simple scenario in which a large, recognizably human brain had to evolve before a human-like way of standing and moving. The Natural History Museum explains that the spine, pelvis, legs and feet carry evidence of upright locomotion, while cautioning that the gait was not necessarily identical to ours. [Natural History Museum: Australopithecus afarensis](https://www.nhm.ac.uk/discover/australopithecus-afarensis-lucy-species.html)",
+      "The result was not the discovery that Lucy was a small modern person. Her anatomy is valuable precisely because it combines features that today are distributed differently among living primates. She helps researchers test the order in which traits evolved, without assuming that brain size, locomotion, hand use and social behavior advanced together as a single package.",
+      "### Trees did not disappear from the story",
+      "The shoulders, arms and hands of her species retained features associated with climbing. The Smithsonian describes a body capable of exploiting resources on the ground and in trees. Regular upright walking therefore need not mean that every part of daily life had moved out of the branches. How much time these hominins spent climbing remains a question, rather than something a reconstructed pose can settle. [Smithsonian: Lucy specimen AL 288-1](https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1) [Smithsonian: the wider fossil record of Australopithecus afarensis](https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis)",
+      "## How scientists know her age",
+      "The headline’s 3.2 million years is a rounded geological age. IHO places Lucy just below 3.18 million years, using the dated framework of the Hadar Formation. This is different from estimating how old she was when she died: her teeth and fused bones indicate a mature individual, not a lifespan measured in millions of years. [ASU Institute of Human Origins: discovery, anatomy, dating and custody](https://iho.asu.edu/node/15)",
+      "Dating a fossil this old is not a carbon-dating exercise. Researchers establish the sequence of sedimentary layers, compare associated fossils and use radiometric dates from suitable volcanic material. The Smithsonian’s explanation of Lucy’s dating describes biostratigraphy alongside the geological techniques that progressively constrain an age. Several methods can check the same chronological framework. [Smithsonian: dating the human fossil record](https://humanorigins.si.edu/evidence/dating)",
+      "This distinction protects against false precision. An age estimate refers to a specimen’s position in an interpreted geological sequence, with the uncertainties of the measurements and correlations involved. Rounding to 3.2 million years communicates the scale appropriately; printing many decimal places would not automatically make the account more accurate.",
+      "## Key dates",
+      "[[ANNIV24_584]]",
+      "The short chronology separates discovery from scientific naming. Lucy did not receive a formal species assignment at the instant the first fragment was spotted, and later discoveries have continued to change the comparisons available to researchers. [Natural History Museum: Australopithecus afarensis](https://www.nhm.ac.uk/discover/australopithecus-afarensis-lucy-species.html)",
+      "## Was Lucy our direct ancestor?",
+      "Australopithecus afarensis is an important candidate in discussions of the ancestry of the genus Homo. But a species occupying a plausible position in an evolutionary tree is not the same thing as proving a direct genealogical line from one skeleton to every living human. Fossils preserve anatomical relationships much more readily than complete pedigrees. [Smithsonian: the wider fossil record of Australopithecus afarensis](https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis)",
+      "The broader record matters here. The Smithsonian documents remains from more than 300 individuals of Lucy’s species across eastern Africa. That comparative sample makes it possible to examine differences within a species instead of treating one unusually complete skeleton as the entire population. It also guards against mistaking an individual peculiarity for a universal characteristic. [Smithsonian: the wider fossil record of Australopithecus afarensis](https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis)",
+      "The Dikika child illustrates the danger of appealing labels. Sometimes called Lucy’s baby, the child belonged to the same species but lived about 100,000 years earlier. The nickname expresses scientific kinship, not a mother-daughter relationship. Separating those meanings helps readers understand what evolutionary “family” actually means. [Smithsonian: the Dikika child, not Lucy’s daughter](https://humanorigins.si.edu/evidence/human-fossils/fossils/dik-1-1)",
+      "PRESDA’s guide to [the human family tree](/articles/human-family-tree-human-evolution-species/) places these discoveries in the wider diversity of human relatives. Lucy is a particularly informative member of that history, not the bottom rung of a ladder destined to end with us.",
+      "Calling the discovery part of human history does not make Lucy a member of Homo sapiens. The scientific species name is essential: it identifies the extinct population being discussed and prevents an accessible headline from erasing the differences that make the skeleton scientifically informative. Human origins is a history of changing lineages, not a collection of modern people living at earlier dates. [Smithsonian: the wider fossil record of Australopithecus afarensis](https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis)",
+      "## What remains uncertain about her death",
+      "A 2016 Nature paper proposed that fractures in Lucy’s skeleton were consistent with a fatal fall from a considerable height. The authors framed this as an interpretation of damage to the bones. IHO’s account states that no cause of death has been determined. A responsible account retains that difference between a proposed explanation and a settled conclusion. [Kappelman and colleagues, Nature 2016: proposed fatal fall](https://pubmed.ncbi.nlm.nih.gov/27571283/) [ASU Institute of Human Origins: discovery, anatomy, dating and custody](https://iho.asu.edu/node/15)",
+      "The same discipline applies to reconstructions of her face, hair and daily surroundings. Fossil anatomy can constrain a reconstruction, but artistic choices fill many of the gaps. Images can explain research effectively when the caption identifies what is evidence, what is modeled and what remains unknown. A vivid illustration is not an additional fossil.",
+      "## Ethiopia’s fossil and a continuing scientific legacy",
+      "IHO identifies the original remains as held in the National Museum of Ethiopia’s paleoanthropology laboratories in Addis Ababa. Casts allow museums and researchers elsewhere to display and examine the anatomy without requiring constant handling of fragile originals. A visitor seeing a complete upright skeleton may therefore be looking at a reconstruction or cast, not the excavated bones themselves. [ASU Institute of Human Origins: discovery, anatomy, dating and custody](https://iho.asu.edu/node/15)",
+      "The anniversary is consequently more than a celebration of one famous name. It recalls a research method: collect carefully, preserve geological context, compare specimens and distinguish observation from inference. Lucy changed the study of human origins because several lines of evidence could be made to speak to one another. Her continuing value lies in the questions that combination allows scientists to ask."
+    ],
+    "references": [
+      {
+        "name": "ASU Institute of Human Origins: discovery, anatomy, dating and custody",
+        "url": "https://iho.asu.edu/node/15"
+      },
+      {
+        "name": "Smithsonian: Lucy specimen AL 288-1",
+        "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1"
+      },
+      {
+        "name": "Natural History Museum: Australopithecus afarensis",
+        "url": "https://www.nhm.ac.uk/discover/australopithecus-afarensis-lucy-species.html"
+      },
+      {
+        "name": "Smithsonian: dating the human fossil record",
+        "url": "https://humanorigins.si.edu/evidence/dating"
+      },
+      {
+        "name": "Smithsonian: the wider fossil record of Australopithecus afarensis",
+        "url": "https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis"
+      },
+      {
+        "name": "Kappelman and colleagues, Nature 2016: proposed fatal fall",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27571283/"
+      },
+      {
+        "name": "ASU, November 21, 2024: Lucy’s discovery and continuing research",
+        "url": "https://news.asu.edu/20241121-science-and-technology-lucys-lasting-legacy-donald-johanson-reflects-discovery-lifetime"
+      },
+      {
+        "name": "Smithsonian: the Dikika child, not Lucy’s daughter",
+        "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/dik-1-1"
+      }
+    ],
+    "relatedSlugs": [
+      "human-family-tree-human-evolution-species"
+    ],
+    "faq": [
+      {
+        "question": "When and where was Lucy discovered?",
+        "answer": "Donald Johanson and Tom Gray found her at Hadar in Ethiopia on November 24, 1974. Excavation continued afterward; the discovery was not the recovery of an intact skeleton in one moment."
+      },
+      {
+        "question": "How old is the Lucy fossil?",
+        "answer": "About 3.2 million years. That is her geological age, not her age at death. The latter is assessed separately from teeth and skeletal development."
+      },
+      {
+        "question": "Did Lucy prove humans descended from modern chimpanzees?",
+        "answer": "No. Humans and chimpanzees share earlier ancestors. Lucy belongs to an extinct hominin species and helps researchers examine how human-lineage traits evolved."
+      },
+      {
+        "question": "Is the hero image an actual photograph of Lucy?",
+        "answer": "No. It is the supplied modern editorial reconstruction. It is preserved unchanged and labeled as an illustration, not photographic evidence of her original appearance."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "585",
+    "slug": "ataturk-surname-law-24-november-1934",
+    "title": "ATATÜRK: THE DAY MUSTAFA KEMAL RECEIVED HIS HISTORIC NAME",
+    "seoTitle": "Atatürk: Why Mustafa Kemal Received His Surname in 1934",
+    "seoTitleAbsolute": true,
+    "metaDescription": "On November 24, 1934, parliament gave Mustafa Kemal the surname Atatürk. The original laws reveal the dates, meaning and context of the decision.",
+    "excerpt": "On November 24, 1934, parliament gave Mustafa Kemal the surname Atatürk. The original laws reveal the dates, meaning and context of the decision.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/ataturk-surname-law-24-november-1934.jpg",
+    "coverAlt": "Editorial portrait of Mustafa Kemal Atatürk with a Turkish flag and historic setting",
+    "headlineHighlights": {
+      "red": "ATATÜRK",
+      "gold": "HISTORIC NAME"
+    },
+    "tags": [
+      "ATATÜRK",
+      "History"
+    ],
+    "content": [
+      "On November 24, 1934, the Grand National Assembly of Türkiye adopted Law No. 2587 giving President Mustafa Kemal the surname Atatürk. The original parliamentary record distinguishes that adoption date from publication in the official gazette on November 27. Ninety-two years later, the brief law offers a precise way to understand one of the most recognizable names in modern history. [Turkish Parliament: original Law No. 2587, adopted November 24, 1934](https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402587.pdf)",
+      "The name was neither his birth name nor the name under which he had begun his military career. It was a public act of the republic he helped establish, passed amid reforms that were changing how citizens identified themselves in everyday documents. The event joins an individual biography to a wider transformation of administration, language and political belonging.",
+      "## What happened on November 24, 1934?",
+      "The surviving text is strikingly short. Its first article grants the president the surname Atatürk. The second states that the law takes effect on publication, while the third assigns execution to the Grand National Assembly. The document records adoption on November 24 and publication in Official Gazette No. 2865 on November 27, 1934. These are related but distinct dates. [Turkish Parliament: original Law No. 2587, adopted November 24, 1934](https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402587.pdf)",
+      "That distinction matters in an anniversary article. November 24 commemorates the legislature’s decision; it should not be described as the publication date or silently substituted for the commencement provision. Reading the original text prevents an apparently minor date error from becoming the foundation of the entire story.",
+      "The Atatürk Research Center’s history identifies İsmet Pasha and 22 colleagues with the proposal. The grant expressed recognition of the president’s role in national independence and the republic’s cultural project. The record supports a legislative history, not a scene reconstructed from imagined conversations in the chamber. [Atatürk Research Center: history of the Republic, volume II](https://atam.gov.tr/wp-content/uploads/2023/10/TURKIYE-CUMHURIYETI-TARIHI-2a-1.pdf)",
+      "### A surname, not a new office",
+      "Mustafa Kemal was already president. The republic had been proclaimed on October 29, 1923, and he had been elected its first president that day. Receiving a surname eleven years later did not inaugurate the republic or create a new presidential term. Those events belong to separate points in the political chronology. [Ministry of Culture and Tourism: biography and reforms](https://www.ktb.gov.tr/EN-103908/biography-of-ataturk.html)",
+      "## Why surnames became a national question",
+      "The general Surname Law was adopted on June 21, 1934. The reform required citizens to use a family surname in addition to their personal names. The Atatürk Research Center places it within the republic’s effort to standardize civil identification, rather than treating the president’s naming as an isolated honor without a legal setting. [Atatürk Research Center: the Surname Law and identity reform](https://atam.gov.tr/soyadi-yasasi/) [Ministry of Culture and Tourism: chronology for 1934](https://www.ktb.gov.tr/EN-103945/1934.html)",
+      "In practical terms, a stable family name made people more consistently identifiable across official records. A personal name combined with a title, an occupation or a reference to a relative could function in familiar settings yet become ambiguous in a growing bureaucracy. The reform made inherited family identification a general administrative expectation. That was a different purpose from granting one particularly symbolic surname.",
+      "The system also connected personal identity to the republic’s broader language and cultural program. Choosing and recording surnames made a national reform visible in intimate places: on family papers, signatures, school records and correspondence. Its historical significance lies in that intersection between state institutions and the names through which people understood themselves. [Atatürk Research Center: the Surname Law and identity reform](https://atam.gov.tr/soyadi-yasasi/)",
+      "### Titles and surnames were separate measures",
+      "The official 1934 chronology records another law on November 26 removing forms of address and titles such as Efendi, Bey and Pasha. This was not the June Surname Law and not the November 24 grant. Putting all three into one undated “name reform” obscures the sequence and makes it harder to understand what each measure did. [Ministry of Culture and Tourism: chronology for 1934](https://www.ktb.gov.tr/EN-103945/1934.html)",
+      "## Mustafa, Kemal and Atatürk are different parts of the story",
+      "He was born Mustafa in Salonika, then part of the Ottoman Empire, in 1881. The Culture Ministry’s biography recounts the familiar account of his mathematics teacher adding Kemal during his military schooling. That educational naming tradition should not be confused with the documented parliamentary grant of Atatürk in 1934. [Ministry of Culture and Tourism: biography and reforms](https://www.ktb.gov.tr/EN-103908/biography-of-ataturk.html)",
+      "In English, Atatürk is commonly rendered “father of the Turks.” It is a political and commemorative formulation, not a biological claim about descent. Its association with the founding president helped make the surname a condensed public reference to the republic and the changes connected with his leadership. Translating the name does not replace explaining the legal act that assigned it.",
+      "## Why another law followed in December",
+      "Law No. 2622 was adopted on December 17, 1934, and published on December 24 in Official Gazette No. 2888. Its text reserved the Atatürk surname to the president and prohibited other people from taking or using it as a personal name or surname. It also prohibited constructing names by adding words before or after it. [Turkish Parliament: Law No. 2622 protecting the Atatürk name](https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402622.pdf)",
+      "The December law explicitly referred back to Law No. 2587 and specified that its provisions began on November 24. That makes it especially important not to merge the two documents. One granted the surname; the other protected its exclusive use. Their adoption dates, publication dates and operative wording are visible in the parliamentary archive. [Turkish Parliament: Law No. 2622 protecting the Atatürk name](https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402622.pdf)",
+      "The protection also separates this surname from the ordinary family-name model. A general surname is a device for identifying a family across generations; the December text expressly made this particular name exclusive to one person. Its symbolic status should therefore not be explained as though it were simply a routine inherited family name created by the general June reform. [Turkish Parliament: Law No. 2622 protecting the Atatürk name](https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402622.pdf)",
+      "### What the documents do and do not establish",
+      "The texts establish who granted the name, when the measures were passed and how their provisions were framed. They do not provide a transcript of a private discussion about the name’s invention. Accounts assigning the decisive phrase to one person should therefore be checked against their own evidence, rather than inferred from the brief law itself.",
+      "## Key dates",
+      "[[ANNIV24_585]]",
+      "The sequence below keeps the republic’s founding, the general naming reform and the special surname grant separate. It is a documentary chronology, not a claim that every aspect of Turkish society changed simultaneously when parliament voted. [Turkish Parliament: original Law No. 2587, adopted November 24, 1934](https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402587.pdf) [Atatürk Research Center: the Surname Law and identity reform](https://atam.gov.tr/soyadi-yasasi/) [Ministry of Culture and Tourism: biography and reforms](https://www.ktb.gov.tr/EN-103908/biography-of-ataturk.html)",
+      "## A name within a larger transformation",
+      "The surname decision belongs to the later phase of a much broader reform program. The Culture Ministry’s biography identifies the unification of education in 1924 and adoption of a new Turkish alphabet in 1928 among those changes. The same account places legal, educational and cultural reform alongside the construction of republican institutions. [Ministry of Culture and Tourism: biography and reforms](https://www.ktb.gov.tr/EN-103908/biography-of-ataturk.html)",
+      "Those earlier reforms help explain the political language of 1934. Names, writing, schools and public institutions were not unrelated administrative details. Together they offered ways to describe and organize a new civic order after the Ottoman period. The surname grant gave that project a highly recognizable personal symbol, while remaining a specific act with a specific text.",
+      "There is also a difference between documenting a state’s commemorative language and endorsing every claim made in its name. Official biographies are valuable for dates and institutional self-understanding, but they are written from a commemorative perspective. The original statutes are the strongest sources for this article’s narrower question: what parliament did about the surname, and when.",
+      "For the preceding political setting, PRESDA’s history of [the Ottoman Empire](/articles/ottoman-empire-rise-and-fall/) explains the much longer imperial framework from which the republic emerged. The surname episode becomes clearer when viewed within that transition, rather than detached from the institutions and conflicts that preceded it.",
+      "## How to read the anniversary accurately",
+      "November 24 is the anniversary of the surname law’s adoption, not Mustafa Kemal’s birthday, the declaration of the republic or the date of his death. He died on November 10, 1938. Keeping those commemorations distinct gives readers a more useful history than attaching every familiar milestone to a single date. [Ministry of Culture and Tourism: biography and reforms](https://www.ktb.gov.tr/EN-103908/biography-of-ataturk.html)",
+      "The enduring force of the name comes partly from its brevity. Atatürk can stand for an immense and contested historical legacy, but the event behind it remains unusually concrete: a named legislature, a numbered law and a surviving document. Returning to those details makes the story both more human and more verifiable."
+    ],
+    "references": [
+      {
+        "name": "Turkish Parliament: original Law No. 2587, adopted November 24, 1934",
+        "url": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402587.pdf"
+      },
+      {
+        "name": "Turkish Parliament: Law No. 2622 protecting the Atatürk name",
+        "url": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402622.pdf"
+      },
+      {
+        "name": "Atatürk Research Center: the Surname Law and identity reform",
+        "url": "https://atam.gov.tr/soyadi-yasasi/"
+      },
+      {
+        "name": "Ministry of Culture and Tourism: chronology for 1934",
+        "url": "https://www.ktb.gov.tr/EN-103945/1934.html"
+      },
+      {
+        "name": "Ministry of Culture and Tourism: biography and reforms",
+        "url": "https://www.ktb.gov.tr/EN-103908/biography-of-ataturk.html"
+      },
+      {
+        "name": "Atatürk Research Center: history of the Republic, volume II",
+        "url": "https://atam.gov.tr/wp-content/uploads/2023/10/TURKIYE-CUMHURIYETI-TARIHI-2a-1.pdf"
+      },
+      {
+        "name": "Ministry of National Defence: official Atatürk chronology",
+        "url": "https://ata.msb.gov.tr/Sayfa/SayfaGoster/ataturk-kronolojisi"
+      }
+    ],
+    "relatedSlugs": [
+      "ottoman-empire-rise-and-fall"
+    ],
+    "faq": [
+      {
+        "question": "When did Mustafa Kemal receive the surname Atatürk?",
+        "answer": "Parliament adopted the granting law on November 24, 1934. It was published on November 27, and the original law stated that it took effect upon publication."
+      },
+      {
+        "question": "Was Atatürk his name at birth?",
+        "answer": "No. He was born Mustafa in 1881. Kemal belongs to the account of his schooling; Atatürk was granted by a parliamentary law in 1934."
+      },
+      {
+        "question": "Was the exclusive-use rule part of the same law?",
+        "answer": "No. The surname grant was Law No. 2587. Law No. 2622, adopted on December 17, 1934, separately protected the name and referred its provisions back to November 24."
+      },
+      {
+        "question": "Is the supplied hero a photograph of the vote?",
+        "answer": "No. It is a modern editorial portrait and composite. It is preserved unchanged and explicitly labeled as illustration, rather than an authenticated record of the parliamentary session."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "586",
+    "slug": "carlo-collodi-200-birthday-pinocchio-1826-2026",
+    "title": "PINOCCHIO: 200 YEARS SINCE THE BIRTH OF ITS CREATOR",
+    "seoTitle": "Carlo Collodi at 200: The Writer Behind Pinocchio",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Born on November 24, 1826, Carlo Collodi created Pinocchio decades later. Explore the author, the original story and the 2026 bicentenary.",
+    "excerpt": "Born on November 24, 1826, Carlo Collodi created Pinocchio decades later. Explore the author, the original story and the 2026 bicentenary.",
+    "category": "Culture",
+    "schemaType": "Article",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/carlo-collodi-200-birthday-pinocchio-1826-2026.jpg",
+    "coverAlt": "Illustration of Pinocchio beside a book and a portrait representing Carlo Collodi",
+    "headlineHighlights": {
+      "red": "PINOCCHIO",
+      "gold": "200 YEARS"
+    },
+    "tags": [
+      "PINOCCHIO",
+      "Culture"
+    ],
+    "content": [
+      "November 24, 2026 marks 200 years since the birth of Carlo Lorenzini, better known as Carlo Collodi, the creator of Pinocchio. It is the author’s bicentenary, not the puppet’s: the story first appeared in installments in 1881 and became a book in 1883. The difference opens a richer anniversary than the familiar image of a growing nose. [Treccani: Carlo Lorenzini, life and literary work](https://www.treccani.it/enciclopedia/carlo-lorenzini/) [Treccani: Pinocchio’s serialization and reception](https://www.treccani.it/enciclopedia/carlo-collodi_%28Enciclopedia-dei-ragazzi%29/) [Italian Ministry of Culture, November 24, 2026: bicentenary exhibition announcement](https://centroperillibro.cultura.gov.it/col-vivo-splendore-di-collodi-il-vernissage-della-mostra-del-progetto-nellanno-del-bicentenario/)",
+      "Collodi’s wooden child has become so recognizable that the writer can almost disappear behind him. Returning to the original restores a journalist, satirist and participant in Italian political life, and a story in which hunger, exploitation, affection and education are as important as telling the truth.",
+      "## The Florentine behind the pen name",
+      "Carlo Lorenzini was born in Florence on November 24, 1826. His literary surname came from Collodi, the Tuscan village associated with his mother’s family. The Carlo Collodi Foundation explains that he spent part of his childhood there with maternal relatives and returned as an adult. The pseudonym therefore connected a metropolitan writer to a particular family landscape. [Italian Ministry of Culture, November 24, 2026: bicentenary exhibition announcement](https://centroperillibro.cultura.gov.it/col-vivo-splendore-di-collodi-il-vernissage-della-mostra-del-progetto-nellanno-del-bicentenario/) [Carlo Collodi Foundation: the author and the village of Collodi](https://www.pinocchio.it/assets/it/scuole-gita-collodi.pdf)",
+      "Before the puppet, there was a long working life with newspapers and books. Treccani records his involvement with the satirical Il Lampione and theatrical Lo Scaramuccia, along with other journalism. He also participated in the first and second Italian wars of independence. Children’s literature was an important part of his career, not its entire starting point. [Treccani: Carlo Lorenzini, life and literary work](https://www.treccani.it/enciclopedia/carlo-lorenzini/)",
+      "That background offers a useful reading perspective. An author accustomed to observing adult pretension could write a children’s story in which authority is not automatically wise. Pinocchio makes foolish choices, but the world around him contains cheats and absurd institutions as well as patient guides. The humor does not disappear simply because the intended audience includes children.",
+      "### A writer in a changing Italy",
+      "Collodi’s lifetime spanned the political movement toward Italian unification and the years after it. His educational writing belonged to a society debating how children should learn and how a common national language should circulate. Treccani places his books for young readers alongside his journalism and translations, rather than separating them into unrelated careers. [Treccani: Carlo Lorenzini, life and literary work](https://www.treccani.it/enciclopedia/carlo-lorenzini/)",
+      "## When Pinocchio actually appeared",
+      "The first installment, titled Storia di un burattino, appeared in the Giornale per i bambini on July 7, 1881. The story’s serialized form matters: readers encountered episodes and interruptions before they could hold the complete narrative in one volume. The 1883 book, Le avventure di Pinocchio: storia di un burattino, included illustrations by Enrico Mazzanti. [Treccani: Pinocchio’s serialization and reception](https://www.treccani.it/enciclopedia/carlo-collodi_%28Enciclopedia-dei-ragazzi%29/)",
+      "### A story that changed while it was being told",
+      "The initial sequence reached a disturbing apparent end with the puppet hanging from a tree. Treccani describes readers’ anger and pressure for the story to continue. The eventual narrative carried Pinocchio through further reversals to his transformation into a boy. The work’s history is therefore not simply that of a finished moral lesson delivered unchanged to an obedient readership. [Treccani: Pinocchio’s serialization and reception](https://www.treccani.it/enciclopedia/carlo-collodi_%28Enciclopedia-dei-ragazzi%29/)",
+      "Serialization helps explain the story’s restless energy. A new encounter can overturn the previous promise of safety; a character who seems to offer an easy solution can lead to another disaster. For a reader today, the pattern can be understood as repeated tests of judgment, rather than a smooth march from one approved lesson to the next.",
+      "## More than a lesson about lying",
+      "The growing nose is unforgettable, but it is not an adequate summary of the book. The original text repeatedly returns to food, money, work, schooling and the cost of trust. Its chapter sequence takes Pinocchio from a hungry search for an egg to the sale of his schoolbook, fraudulent promises of wealth and punishment after being robbed. [Carlo Collodi: original Italian text, digitized edition on Wikisource](https://it.wikisource.org/wiki/Le_avventure_di_Pinocchio)",
+      "### Geppetto and the price of care",
+      "Geppetto sells his coat to buy an alphabet book for the puppet. Pinocchio then sells that book to enter a puppet theater. The contrast is concrete: one character sacrifices a necessity to provide an education, while the other exchanges that opportunity for an immediate attraction. The scene makes care visible as a material cost, not merely an instruction to behave. [Carlo Collodi: original Italian text, digitized edition on Wikisource](https://it.wikisource.org/wiki/Le_avventure_di_Pinocchio)",
+      "Hunger gives those choices weight. Food is not just a comic prop in a world of magic; needing it exposes the puppet to dependence and temptation. Reading those episodes alongside the book’s fantastical transformations helps explain why the story can feel unsettling even when its surface is playful. This is literary interpretation grounded in the narrative, not a claim about a documented childhood episode in Collodi’s life.",
+      "### A dangerous world for an inexperienced child",
+      "The Fox and the Cat offer a shortcut to riches. Elsewhere, entertainment becomes exploitation, and Pinocchio’s body itself can become something to be bought and sold. These episodes allow adults and children to read the same story differently: one may follow the adventure while another notices the economic arrangements and abuses underneath it. [Carlo Collodi: original Italian text, digitized edition on Wikisource](https://it.wikisource.org/wiki/Le_avventure_di_Pinocchio)",
+      "The puppet’s mistakes do not make every adult blameless. Collodi’s satire is sharper when responsibility is distributed across an environment of manipulators, inconsistent justice and precarious livelihoods. Reducing the book to “do not lie” loses its uncomfortable question about how a child learns discernment in a world that is not reliably honest.",
+      "## Key dates",
+      "[[ANNIV24_586]]",
+      "The chronology separates the author’s birth, the first serial installment and the completed book. None of the latter events took place in 1826. The bicentenary is an opportunity to reconnect the famous character with the person whose birthday is actually being commemorated. [Treccani: Carlo Lorenzini, life and literary work](https://www.treccani.it/enciclopedia/carlo-lorenzini/) [Treccani: Pinocchio’s serialization and reception](https://www.treccani.it/enciclopedia/carlo-collodi_%28Enciclopedia-dei-ragazzi%29/) [Italian Ministry of Culture, November 24, 2026: bicentenary exhibition announcement](https://centroperillibro.cultura.gov.it/col-vivo-splendore-di-collodi-il-vernissage-della-mostra-del-progetto-nellanno-del-bicentenario/)",
+      "## The original and the adaptations",
+      "The Library of Congress identifies Disney’s 1940 Pinocchio as the studio’s second animated feature, adapted from Collodi’s novel. Its enormous cultural presence is one reason many people know the screen version before the book. An adaptation can be a major creative work without functioning as a verbatim account of its source. [Library of Congress: Pinocchio and the 1940 film adaptation](https://www.loc.gov/exhibits/treasures/tr33a.html)",
+      "Readers can compare the original Italian text with digitized historical translations. The Library of Congress, for example, catalogs an English edition published in 1917. That is evidence of the story’s international circulation, not a first edition of the Italian novel. Identifying the language, publisher and date of an edition is more informative than describing every old-looking book as an original. [Library of Congress: digitized 1917 English edition](https://www.loc.gov/item/17024980/)",
+      "Claims about precisely how many languages have received Pinocchio also require care. Counts change depending on whether dialects, abridgments and new translations are included. Treccani describes it as one of the most translated Italian books; that well-supported formulation is preferable to an unsourced worldwide ranking or a total detached from a catalog and date. [Treccani: Carlo Lorenzini, life and literary work](https://www.treccani.it/enciclopedia/carlo-lorenzini/)",
+      "## How Italy is marking the bicentenary",
+      "Poste Italiane announced a commemorative stamp on November 24, 2026. The Ministry of Culture’s Centre for Books and Reading also published an announcement of a project involving the Società Dante Alighieri, Gabinetto Vieusseux and the Carlo Collodi Foundation. It lists an exhibition opening event for November 25 and public access from November 26, 2026 to February 3, 2027 in Rome. These are announced dates, not events this article claims already to have attended. [Poste Italiane, November 24, 2026: commemorative stamp](https://tgposte.poste.it/2026/11/24/duecento-anni-fa-la-nascita-di-collodi-lomaggio-filatelico-di-poste/) [Italian Ministry of Culture, November 24, 2026: bicentenary exhibition announcement](https://centroperillibro.cultura.gov.it/col-vivo-splendore-di-collodi-il-vernissage-della-mostra-del-progetto-nellanno-del-bicentenario/)",
+      "The exhibition’s focus on Collodi’s language and wider career is appropriate. A bicentenary can restore the author’s journalism, educational work and literary voice rather than merely repeat the puppet’s most marketable image. Commemoration becomes useful when it gives readers a reason to return to the text.",
+      "PRESDA’s account of [Dostoevsky’s life and writing](/articles/dostoevsky-life-death-human-darkness/) explores another case in which an author’s public image can overshadow the complexity of the work. The subjects are different, but both reward reading beyond a single famous phrase or symbol.",
+      "## Why the wooden child still matters",
+      "Pinocchio endures partly because becoming human is not treated as a matter of appearance alone. The story asks what it means to learn, to recognize another person’s sacrifice and to act with responsibility. Its fantasy makes those questions memorable without removing the discomfort of failure, vulnerability and loss.",
+      "On Collodi’s 200th birthday, the most revealing return is therefore to a book that is stranger and more searching than its shorthand reputation. The nose remains a brilliant image. The writer behind it left a much larger world for readers to discover."
+    ],
+    "references": [
+      {
+        "name": "Treccani: Carlo Lorenzini, life and literary work",
+        "url": "https://www.treccani.it/enciclopedia/carlo-lorenzini/"
+      },
+      {
+        "name": "Treccani: Pinocchio’s serialization and reception",
+        "url": "https://www.treccani.it/enciclopedia/carlo-collodi_%28Enciclopedia-dei-ragazzi%29/"
+      },
+      {
+        "name": "Italian Ministry of Culture, November 24, 2026: bicentenary exhibition announcement",
+        "url": "https://centroperillibro.cultura.gov.it/col-vivo-splendore-di-collodi-il-vernissage-della-mostra-del-progetto-nellanno-del-bicentenario/"
+      },
+      {
+        "name": "Poste Italiane, November 24, 2026: commemorative stamp",
+        "url": "https://tgposte.poste.it/2026/11/24/duecento-anni-fa-la-nascita-di-collodi-lomaggio-filatelico-di-poste/"
+      },
+      {
+        "name": "Carlo Collodi Foundation: the author and the village of Collodi",
+        "url": "https://www.pinocchio.it/assets/it/scuole-gita-collodi.pdf"
+      },
+      {
+        "name": "Carlo Collodi: original Italian text, digitized edition on Wikisource",
+        "url": "https://it.wikisource.org/wiki/Le_avventure_di_Pinocchio"
+      },
+      {
+        "name": "Library of Congress: Pinocchio and the 1940 film adaptation",
+        "url": "https://www.loc.gov/exhibits/treasures/tr33a.html"
+      },
+      {
+        "name": "Library of Congress: digitized 1917 English edition",
+        "url": "https://www.loc.gov/item/17024980/"
+      }
+    ],
+    "relatedSlugs": [
+      "dostoevsky-life-death-human-darkness"
+    ],
+    "faq": [
+      {
+        "question": "Is Pinocchio 200 years old in 2026?",
+        "answer": "No. The bicentenary marks Carlo Collodi’s birth in 1826. Pinocchio first appeared in 1881, and the complete book followed in 1883."
+      },
+      {
+        "question": "What was Carlo Collodi’s real name?",
+        "answer": "Carlo Lorenzini. Collodi was his pen name, taken from the Tuscan village connected with his mother’s family and his childhood."
+      },
+      {
+        "question": "Is the novel the same as the Disney film?",
+        "answer": "No. The 1940 animated film is an adaptation. The original serialized story and book have their own narrative, tone and publication history."
+      },
+      {
+        "question": "Does the supplied image show an authenticated first edition?",
+        "answer": "No. It is a modern editorial composite of a puppet, book and portrait. The original image is preserved, but its caption does not authenticate the pictured book as a first edition."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "587",
+    "slug": "mediamarkt-first-store-1979-electronics-retail-history",
+    "title": "MEDIAMARKT: FROM ONE MUNICH STORE TO AN ELECTRONICS GIANT",
+    "seoTitle": "MediaMarkt History: From Its First Store to a Retail Giant",
+    "seoTitleAbsolute": true,
+    "metaDescription": "MediaMarkt opened its first store on November 24, 1979. Explore its retail model, growth and Ceconomy’s completed JD.com takeover in 2026.",
+    "excerpt": "MediaMarkt opened its first store on November 24, 1979. Explore its retail model, growth and Ceconomy’s completed JD.com takeover in 2026.",
+    "category": "Business",
+    "schemaType": "Article",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/mediamarkt-first-store-1979-electronics-retail-history.jpg",
+    "coverAlt": "Editorial illustration of a MediaMarkt storefront with a branded shopping bag",
+    "headlineHighlights": {
+      "red": "MEDIAMARKT",
+      "gold": "ELECTRONICS GIANT"
+    },
+    "tags": [
+      "MEDIAMARKT",
+      "Business"
+    ],
+    "content": [
+      "MediaMarkt opened its first store in Munich’s Euro-Industriepark on November 24, 1979. Forty-seven years later, that anniversary connects a distinctive large-store retail idea with a European electronics network whose parent, Ceconomy, completed a takeover by JD.com earlier this month. The beginnings were concentrated in one shop, but the concept was not that of a tiny neighborhood counter. [MediaMarkt company announcement, December 30, 2008: first shop opened November 24, 1979](https://www.finanznachrichten.de/nachrichten-2008-12/12728923-30-jahre-media-markt-der-elektrofachmarkt-nummer-eins-startet-mit-grosser-kampagne-in-das-jubilaeumsjahr-007.htm) [JD.com and CECONOMY, November 12, 2026: takeover completion](https://www.ceconomy-mms.com/api/documents/file/JDCOM_CECONOMY_Press%20release_Closing.pdf)",
+      "The correction matters. MediaMarkt’s founders did not build their proposition around having little space and little stock. They wanted a broad selection under one roof, visible pricing and a different relationship between the store and the customer. The business story is about changing the format of electronics shopping, then adapting when the internet changed the meaning of choice.",
+      "## What opened on November 24, 1979?",
+      "A MediaMarkt anniversary announcement issued in December 2008 identifies the date and Munich location. It describes four founders bringing a wide range of electrical goods to a large sales floor. HORIZONT’s contemporary report on the anniversary campaign independently records the November 24 opening date. These dated sources establish the connection without treating today’s supplied storefront illustration as an archival photograph. [MediaMarkt company announcement, December 30, 2008: first shop opened November 24, 1979](https://www.finanznachrichten.de/nachrichten-2008-12/12728923-30-jahre-media-markt-der-elektrofachmarkt-nummer-eins-startet-mit-grosser-kampagne-in-das-jubilaeumsjahr-007.htm) [HORIZONT, December 30, 2008: MediaMarkt’s anniversary campaign](https://www.horizont.net/marketing/nachrichten/-Media-Markt-laesst-es-zu-Jahresbeginn-krachen-81210)",
+      "The company’s historical material names Walter Gunz, Leopold Stiefel, Erich Kellerhals and Helga Kellerhals. Including Helga Kellerhals is important: shorthand accounts that describe only three male founders lose part of the company’s own history. Their idea combined assortment, price-led marketing and a management culture with substantial local responsibility. [MediaMarkt corporate history, November 2014: founders and original concept](https://cdn.uc.assets.prezly.com/03295891-0829-4ebe-ae90-bf4a68fae8c6/-/inline/no/Geschiedenis-Media-Markt.pdf)",
+      "### One store did not mean a small-store concept",
+      "The retailer’s Belgian history describes a market in which customers might buy televisions from specialists, music from record shops and appliances through other channels. MediaMarkt proposed bringing categories together in large premises. That is the relevant innovation, rather than an unsupported claim that the first store was the smallest, cheapest or first of its kind everywhere in the world. [MediaMarkt Belgium: history and combined store/online model](https://www.mediamarkt.be/nl/about-us/over-ons)",
+      "For customers, putting categories side by side changed the shopping task. A visit could become an opportunity to compare brands, specifications and prices across products rather than a negotiation over one carefully selected model. For the retailer, the same promise required sufficient stock and sales volume to make a broad assortment worthwhile. These are the commercial mechanics behind the format, not proof that every offer was always the market’s lowest.",
+      "## Why local responsibility mattered",
+      "The 2008 company account emphasized a decentralized structure. Store managers were also co-shareholders and held responsibility for assortment, pricing, staff and marketing. The arrangement linked local decisions to a personal stake in the shop’s performance. It offered a way to combine the visibility of a chain with incentives more often associated with an independent business. [MediaMarkt company announcement, December 30, 2008: first shop opened November 24, 1979](https://www.finanznachrichten.de/nachrichten-2008-12/12728923-30-jahre-media-markt-der-elektrofachmarkt-nummer-eins-startet-mit-grosser-kampagne-in-das-jubilaeumsjahr-007.htm)",
+      "Such a model creates a recognizable trade-off. Local managers can respond to nearby customers and competitors, while a large group gains purchasing scale and a common identity. But autonomy also makes coordination important: a chain promising one recognizable experience must still decide which decisions belong to the store and which belong to the wider organization.",
+      "The historical description should not be mistaken for a complete account of every management arrangement in 2026. Corporate structures, online systems and shared services change over time. The founders’ model explains an important part of the early expansion; it does not establish that every present-day store retains precisely the same legal or operating setup.",
+      "## From retail brand to a corporate group",
+      "MediaMarkt, MediaMarktSaturn and Ceconomy describe different levels of the business. MediaMarkt is a customer-facing brand. MediaMarktSaturn groups the electronics retail operations, while Ceconomy is the parent company. Failing to separate them can turn a group revenue figure into a misleading claim about one brand alone. [CECONOMY: corporate history and the 2017 Metro split](https://www.ceconomy-mms.com/en/article/geschichte) [CECONOMY, October 27, 2026: preliminary FY 2025/26 trading statement](https://www.ceconomy-mms.com/api/documents/file/CECONOMY_Trading%20Statement_2025_26_EN.pdf)",
+      "Ceconomy’s history records the 1996 formation of the Metro Group and the contribution of majority interests in the parent of MediaMarkt and Saturn. It then documents the 2017 split that established the electronics business as an independent listed company, including the registration of the Ceconomy name in August. The familiar shop sign thus sits within a changing ownership and reporting structure. [CECONOMY: corporate history and the 2017 Metro split](https://www.ceconomy-mms.com/en/article/geschichte)",
+      "### The internet changed the competitive test",
+      "The original format made comparison easier inside a shop. Online shopping made comparison possible before a customer entered any shop at all. MediaMarkt’s Belgian description now emphasizes the ability to buy online while still seeing products and obtaining advice in stores. This is the practical meaning of an omnichannel model: different routes to a purchase are connected rather than treated as separate worlds. [MediaMarkt Belgium: history and combined store/online model](https://www.mediamarkt.be/nl/about-us/over-ons)",
+      "A physical network can help with collection, advice, returns and service, but it also carries property, staffing and stock costs. Online convenience does not automatically make shops obsolete, and having many shops does not automatically protect a retailer from digital competition. The strategic question is whether the channels make one another more useful to the customer.",
+      "## What the latest figures actually measure",
+      "Ceconomy’s October 27 trading statement reported preliminary, unaudited FY 2025/26 sales of about €24.0 billion and adjusted EBIT of approximately €515 million. Its network table listed 1,068 stores at September 30, 2026. These are group figures for the defined reporting period and perimeter, not a count of MediaMarkt-branded shops alone. [CECONOMY, October 27, 2026: preliminary FY 2025/26 trading statement](https://www.ceconomy-mms.com/api/documents/file/CECONOMY_Trading%20Statement_2025_26_EN.pdf)",
+      "Adjusted EBIT is an operating earnings measure before interest and tax with specified adjustments; it is not net profit, cash in the bank or the company’s market value. The statement identifies its figures as preliminary and unaudited and schedules overall results for December 14, 2026. Publishing on November 24 does not justify upgrading them into final audited accounts. [CECONOMY, October 27, 2026: preliminary FY 2025/26 trading statement](https://www.ceconomy-mms.com/api/documents/file/CECONOMY_Trading%20Statement_2025_26_EN.pdf)",
+      "For readers, the essential lesson is comparability. A sales increase, an earnings measure and a store total describe different aspects of performance. They should retain their labels and dates, rather than being combined into a vague claim that the brand has become worth €24 billion. Revenue is the value of sales over a period, not a price tag for the business.",
+      "## Key dates",
+      "[[ANNIV24_587]]",
+      "The timeline follows the opening, corporate reorganization and the latest ownership change. It separates a historical anniversary from recent financial developments, rather than implying that the November 24 date also marks this month’s takeover. [MediaMarkt company announcement, December 30, 2008: first shop opened November 24, 1979](https://www.finanznachrichten.de/nachrichten-2008-12/12728923-30-jahre-media-markt-der-elektrofachmarkt-nummer-eins-startet-mit-grosser-kampagne-in-das-jubilaeumsjahr-007.htm) [CECONOMY: corporate history and the 2017 Metro split](https://www.ceconomy-mms.com/en/article/geschichte) [JD.com and CECONOMY, November 12, 2026: takeover completion](https://www.ceconomy-mms.com/api/documents/file/JDCOM_CECONOMY_Press%20release_Closing.pdf)",
+      "## JD.com’s takeover: completed, not merely proposed",
+      "The joint November 12, 2026 announcement says JD.com’s bidder acquired 59.8 percent of Ceconomy’s share capital and voting rights for €1.335 billion. Together with the stake retained by its partner Convergenta, the announcement puts their combined holding at 85.2 percent. JD.com’s November 17 stock-exchange filing also records completion on November 12. [JD.com and CECONOMY, November 12, 2026: takeover completion](https://www.ceconomy-mms.com/api/documents/file/JDCOM_CECONOMY_Press%20release_Closing.pdf) [JD.com stock-exchange filing, November 17, 2026: acquisition disclosure](https://www.hkexnews.hk/listedco/listconews/sehk/2026/1117/2026111700791.pdf)",
+      "These figures should not be collapsed into “JD bought 85.2 percent” or treated as the price of every share in the company. The disclosed consideration relates to the 59.8 percent acquired in the offer. The partner’s retained stake is a separate part of the ownership picture. That distinction is central to a fair account of the transaction.",
+      "### A new owner, with continuity promised",
+      "The joint statement says Ceconomy will remain a stand-alone European business with a local independent technology stack, and describes no material changes planned to management, company structure or brand architecture. It identifies technology and logistics as intended benefits. These are the parties’ stated commitments and objectives, not independently proven future outcomes. [JD.com and CECONOMY, November 12, 2026: takeover completion](https://www.ceconomy-mms.com/api/documents/file/JDCOM_CECONOMY_Press%20release_Closing.pdf)",
+      "The partnership therefore adds a new chapter to the original retail question. Can a company known for physical shops make its network work with more sophisticated logistics and online systems? A completed acquisition changes ownership immediately; improvements to a shopping experience have to be demonstrated through execution over time.",
+      "PRESDA’s history of [Samsung’s move from food trading to technology](/articles/samsung-from-food-to-tech-empire/) offers another example of how a familiar consumer name can conceal major changes in the business behind it. The useful comparison is organizational adaptation, not an assumption that every large company follows the same route.",
+      "## Why the first store still matters",
+      "The November 24 anniversary is a reminder that retail innovation can begin with how products are presented, compared and sold, not only with inventing the products themselves. MediaMarkt made a distinctive proposition around assortment and access. Its later history shows why a successful format still has to change when customers gain new ways to compare and buy.",
+      "The strongest account of that growth keeps the original shop, the brand, the operating group and the listed parent distinct. It also keeps ambition separate from results. From Munich in 1979 to the ownership change of November 2026, the continuity is a continuing contest over how electronics retail should work."
+    ],
+    "references": [
+      {
+        "name": "MediaMarkt company announcement, December 30, 2008: first shop opened November 24, 1979",
+        "url": "https://www.finanznachrichten.de/nachrichten-2008-12/12728923-30-jahre-media-markt-der-elektrofachmarkt-nummer-eins-startet-mit-grosser-kampagne-in-das-jubilaeumsjahr-007.htm"
+      },
+      {
+        "name": "MediaMarkt Belgium: history and combined store/online model",
+        "url": "https://www.mediamarkt.be/nl/about-us/over-ons"
+      },
+      {
+        "name": "MediaMarkt corporate history, November 2014: founders and original concept",
+        "url": "https://cdn.uc.assets.prezly.com/03295891-0829-4ebe-ae90-bf4a68fae8c6/-/inline/no/Geschiedenis-Media-Markt.pdf"
+      },
+      {
+        "name": "CECONOMY: corporate history and the 2017 Metro split",
+        "url": "https://www.ceconomy-mms.com/en/article/geschichte"
+      },
+      {
+        "name": "CECONOMY, October 27, 2026: preliminary FY 2025/26 trading statement",
+        "url": "https://www.ceconomy-mms.com/api/documents/file/CECONOMY_Trading%20Statement_2025_26_EN.pdf"
+      },
+      {
+        "name": "JD.com and CECONOMY, November 12, 2026: takeover completion",
+        "url": "https://www.ceconomy-mms.com/api/documents/file/JDCOM_CECONOMY_Press%20release_Closing.pdf"
+      },
+      {
+        "name": "JD.com stock-exchange filing, November 17, 2026: acquisition disclosure",
+        "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1117/2026111700791.pdf"
+      },
+      {
+        "name": "HORIZONT, December 30, 2008: MediaMarkt’s anniversary campaign",
+        "url": "https://www.horizont.net/marketing/nachrichten/-Media-Markt-laesst-es-zu-Jahresbeginn-krachen-81210"
+      }
+    ],
+    "relatedSlugs": [
+      "samsung-from-food-to-tech-empire"
+    ],
+    "faq": [
+      {
+        "question": "When did the first MediaMarkt open?",
+        "answer": "November 24, 1979, in Munich’s Euro-Industriepark. The anniversary is supported by MediaMarkt’s dated corporate announcement and contemporary trade reporting."
+      },
+      {
+        "question": "Was it originally a small shop?",
+        "answer": "It began as one store, but the defining concept was a large sales floor with a broad range. “From one Munich store” is more accurate than implying a tiny shop."
+      },
+      {
+        "question": "Does €24 billion mean MediaMarkt’s company valuation?",
+        "answer": "No. The figure is Ceconomy’s preliminary, unaudited FY 2025/26 group sales. Revenue, operating earnings and valuation are different measures."
+      },
+      {
+        "question": "Had the JD.com transaction closed by this article’s date?",
+        "answer": "Yes. The joint announcement and JD.com’s exchange filing record completion on November 12, 2026. The acquired stake was 59.8 percent; the larger combined holding includes partner Convergenta."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "588",
+    "slug": "fourth-crusade-siege-zara-zadar-1202",
+    "title": "THE FOURTH CRUSADE: WHEN CRUSADERS ATTACKED CHRISTIAN ZARA",
+    "seoTitle": "The Fourth Crusade at Zara: Why Crusaders Attacked Zadar",
+    "seoTitleAbsolute": true,
+    "metaDescription": "In November 1202 crusaders attacked Christian Zara, now Zadar. Explore Venice’s role, papal opposition and the disputed November 24 chronology.",
+    "excerpt": "In November 1202 crusaders attacked Christian Zara, now Zadar. Explore Venice’s role, papal opposition and the disputed November 24 chronology.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/fourth-crusade-siege-zara-zadar-1202.jpg",
+    "coverAlt": "Modern illustration of a crusader beside a besieged Adriatic city and ships",
+    "headlineHighlights": {
+      "red": "THE FOURTH CRUSADE",
+      "gold": "CHRISTIAN ZARA"
+    },
+    "tags": [
+      "THE FOURTH CRUSADE",
+      "History"
+    ],
+    "content": [
+      "In November 1202, crusaders and Venetians besieged and seized Zara, today Zadar in Croatia, a Christian city on the Adriatic. November 24 is a traditional date for its capture or occupation, but the chronology is disputed: scholarly studies also identify November 18 as the surrender date. The anniversary must preserve that uncertainty while explaining an attack that redirected the Fourth Crusade. [Stjepan Antoljak: source-critical study of Zadar’s capture and destruction](https://morepress.unizd.hr/journals/index.php/radovidr/hr/article/download/3502/4246/8157) [Ivan Božilov, 2009: Zadar and the Fourth Crusade, including disputed dates](https://hrcak.srce.hr/file/74548) [David Nicolle: The Fourth Crusade 1202–04, publisher’s chronology](https://api.pageplace.de/preview/DT0400.9781849083201_A26652250/preview-9781849083201_A26652250.pdf)",
+      "The central contradiction is clear even where the dates are not. An expedition organized in the name of a Christian holy war turned its force against a Catholic community. Understanding how that happened requires following transport contracts, Venetian ambitions and arguments within the crusading army, rather than assuming a single religious identity guaranteed common political interests.",
+      "## Why an expedition for the East attacked an Adriatic city",
+      "The Fourth Crusade set out in 1202 with Egypt as its intended target, according to the Metropolitan Museum’s historical account. The plan was connected to the struggle for the Holy Land, not originally a campaign to conquer Zadar. The city became a target through the expedition’s relationship with Venice, which supplied the fleet and had its own interests on the Adriatic coast. [Metropolitan Museum of Art: the Fourth Crusade and its diversion](https://www.metmuseum.org/essays/the-crusades-1095-1291)",
+      "Geoffrey of Villehardouin, a participant in the crusade and one of its negotiators, describes a transport agreement based on a force larger than the number that eventually assembled. The crusaders could not meet the full payment. Doge Enrico Dandolo offered a way to postpone the outstanding obligation: help Venice recover Zara. That bargain translated a logistical and financial crisis into a military commitment against another city. [Geoffrey of Villehardouin: participant’s chronicle, Fordham sourcebook edition](https://sourcebooks.fordham.edu/basis/villehardouin.asp)",
+      "### Debt explains the bargain, not its innocence",
+      "The contract created pressure, but pressure was not the same thing as inevitability. The account itself preserves opposition and departures. Leaders faced a choice about whether keeping the army and fleet together justified changing the immediate target. Describing the debt explains why the proposal was powerful; it does not turn the resulting attack into a morally neutral accounting adjustment.",
+      "For Venice, Zara was not simply a convenient stop on a map. It was a contested Adriatic city linked to the Hungarian-Croatian crown and resistant to Venetian control. The Croatian Encyclopedia situates the assault within that longer struggle, identifying 1202 as a particularly destructive attack on the city. Crusading manpower gave a regional maritime rivalry a much larger military instrument. [Croatian Encyclopedia: Zadar’s history and the destruction of 1202](https://enciklopedija.hr/clanak/zadar)",
+      "## A Christian city and a divided army",
+      "Villehardouin reports that some participants objected to the attack and that the abbot of Vaux-de-Cernay invoked papal opposition. Simon de Montfort was among those who refused to support the operation. These objections matter because they show that the target’s Christian status was recognized at the time, not a contradiction noticed only by modern historians. [Geoffrey of Villehardouin: participant’s chronicle, Fordham sourcebook edition](https://sourcebooks.fordham.edu/basis/villehardouin.asp)",
+      "The disagreement also cautions against describing “the crusaders” as if every person made the same decision. The army was a coalition held together by vows, leaders, transport arrangements and expectations. Some participants accepted the diversion, some opposed it and some later left. A common cross did not erase competing judgments about what the expedition was permitted to do.",
+      "### What the contemporary narrative reveals",
+      "The chronicle describes the fleet arriving on the eve of St Martin’s Day, November 10, and a camp established the following day. Negotiations with the inhabitants, opposition within the army and preparations for an assault followed. It records pressure against the fortifications by land and sea before the city sought terms. These details establish a siege, not a peaceful transfer that later acquired a violent reputation. [Geoffrey of Villehardouin: participant’s chronicle, Fordham sourcebook edition](https://sourcebooks.fordham.edu/basis/villehardouin.asp)",
+      "Villehardouin was close to the leadership whose decisions he described. That access makes his account valuable, but also makes its explanations interested rather than detached. His emphasis on keeping the army together needs to be read alongside the choices and suffering that such unity imposed on the people of Zara.",
+      "## Why November 24 needs a careful explanation",
+      "A modern chronology by historian David Nicolle gives November 24 for capitulation and sack. Other scholarly work draws a distinction between the city’s surrender and the entry or occupation that followed. The date is therefore a legitimate anniversary connection, but not an uncontested timestamp that can be repeated without qualification. [David Nicolle: The Fourth Crusade 1202–04, publisher’s chronology](https://api.pageplace.de/preview/DT0400.9781849083201_A26652250/preview-9781849083201_A26652250.pdf) [Stjepan Antoljak: source-critical study of Zadar’s capture and destruction](https://morepress.unizd.hr/journals/index.php/radovidr/hr/article/download/3502/4246/8157)",
+      "### Surrender and occupation may be different stages",
+      "Stjepan Antoljak’s source-critical study compares accounts that do not agree. It places surrender on November 18 in a reconstruction of Villehardouin’s sequence, while connecting November 24, St Chrysogonus’s feast day, with other accounts and entry into the conquered city. Ivan Božilov’s 2009 study likewise uses November 18 and discusses the alternative dating. This article follows the disagreement openly rather than pretending all sources say the same thing. [Stjepan Antoljak: source-critical study of Zadar’s capture and destruction](https://morepress.unizd.hr/journals/index.php/radovidr/hr/article/download/3502/4246/8157) [Ivan Božilov, 2009: Zadar and the Fourth Crusade, including disputed dates](https://hrcak.srce.hr/file/74548)",
+      "The difference does not reverse the result of the campaign. It changes the precision with which an anniversary can be stated. “Associated with November 24” is sounder than claiming that every stage of the assault, surrender and occupation happened on that day. Medieval events often survive through sequences and feast-day references rather than a single agreed modern chronology.",
+      "## The sack and its human consequences",
+      "Zara suffered destruction, plunder and the displacement of its population. The Croatian Encyclopedia describes the city as devastated in the attack. The scholarly literature compares differing accounts of damage to walls, houses and the city’s occupation. Their combined evidence supports severe consequences without requiring an invented casualty total. [Croatian Encyclopedia: Zadar’s history and the destruction of 1202](https://enciklopedija.hr/clanak/zadar) [Stjepan Antoljak: source-critical study of Zadar’s capture and destruction](https://morepress.unizd.hr/journals/index.php/radovidr/hr/article/download/3502/4246/8157)",
+      "That absence of a secure number is not a reason to minimize the violence. Damage to a port city affected shelter, trade, property and the capacity of inhabitants to return to ordinary life. The story cannot be reduced to a successful siege from the attackers’ perspective while the community inside the walls becomes merely a logistical obstacle.",
+      "## Papal condemnation did not dissolve the army",
+      "Innocent III’s opposition is central to understanding the episode. Villehardouin’s account describes the crusaders seeking absolution after the capture of Zara, and the pope’s willingness to absolve them under conditions. It distinguishes their position from that of the Venetians. The sequence shows a serious breach followed by attempts to preserve the crusade, not an uncomplicated papal authorization of the original attack. [Geoffrey of Villehardouin: participant’s chronicle, Fordham sourcebook edition](https://sourcebooks.fordham.edu/basis/villehardouin.asp)",
+      "### Authority had to operate through a coalition",
+      "The pope could condemn conduct and impose ecclesiastical penalties, but the army’s practical choices still depended on leaders, ships, supplies and alliances. Zara exposed the gap between an expedition’s proclaimed religious purpose and the mechanisms governing its movement. That gap became a defining problem as the campaign continued.",
+      "The winter at Zara was not a quiet pause before the original plan resumed. Villehardouin records conflict between allies and continued debate over the expedition. Božilov examines the winter as a period of preparation and negotiation. The army that left the Adriatic had already demonstrated that a change of target could be accepted by enough participants to carry the whole enterprise in a new direction. [Geoffrey of Villehardouin: participant’s chronicle, Fordham sourcebook edition](https://sourcebooks.fordham.edu/basis/villehardouin.asp) [Ivan Božilov, 2009: Zadar and the Fourth Crusade, including disputed dates](https://hrcak.srce.hr/file/74548)",
+      "## Key dates",
+      "[[ANNIV24_588]]",
+      "The timeline separates the transport bargain, the disputed November sequence and the later attack on Constantinople. The last event belongs to 1204, not to the siege of Zara itself. Keeping those stages distinct prevents a two-year campaign from collapsing into a single episode. [Geoffrey of Villehardouin: participant’s chronicle, Fordham sourcebook edition](https://sourcebooks.fordham.edu/basis/villehardouin.asp) [Stjepan Antoljak: source-critical study of Zadar’s capture and destruction](https://morepress.unizd.hr/journals/index.php/radovidr/hr/article/download/3502/4246/8157) [Metropolitan Museum of Art: the Fourth Crusade and its diversion](https://www.metmuseum.org/essays/the-crusades-1095-1291)",
+      "## From Zara to Constantinople, without assuming inevitability",
+      "In 1204 the crusaders sacked Constantinople and established a Latin Empire there. The Metropolitan Museum describes the Byzantine dynastic dispute and promised payment that helped redirect the expedition. Zara was an important precedent for diversion and a place where the coalition’s future was negotiated, but it was not proof that every later decision had already become unavoidable. [Metropolitan Museum of Art: the Fourth Crusade and its diversion](https://www.metmuseum.org/essays/the-crusades-1095-1291)",
+      "The consequences of the 1204 conquest were much wider than the earlier Adriatic siege. Byzantine rule fragmented, populations were displaced and competing successor states emerged. Constantinople returned to Byzantine rule in 1261. That longer aftermath explains why Zara is often read as an early turning point in a campaign whose eventual target was another Christian capital. [Metropolitan Museum of Art: Byzantium and the Latin occupation](https://www.metmuseum.org/de/essays/byzantium-ca-330-1453)",
+      "PRESDA’s history of [the Byzantine Empire](/articles/byzantine-empire-eastern-rome-constantinople-1453/) follows that wider imperial story. The capture of 1204 should also remain distinct from the Ottoman conquest of Constantinople in 1453, a different event involving different powers and circumstances.",
+      "## What Zara changes about the history of crusading",
+      "The siege demonstrates why religious slogans alone cannot explain a campaign’s behavior. Commercial arrangements, maritime power and decisions inside a coalition shaped where violence was directed. The participants’ own objections show that the contradiction was visible, and that alternatives existed even when the dominant leadership rejected them.",
+      "Remembering Zara on November 24 is therefore most useful when the date leads to a more precise history, not a simplified spectacle. The evidence leaves room for disagreement over the day of surrender. It leaves much less doubt that a Christian city paid heavily for the bargain that kept the Fourth Crusade moving."
+    ],
+    "references": [
+      {
+        "name": "Geoffrey of Villehardouin: participant’s chronicle, Fordham sourcebook edition",
+        "url": "https://sourcebooks.fordham.edu/basis/villehardouin.asp"
+      },
+      {
+        "name": "Stjepan Antoljak: source-critical study of Zadar’s capture and destruction",
+        "url": "https://morepress.unizd.hr/journals/index.php/radovidr/hr/article/download/3502/4246/8157"
+      },
+      {
+        "name": "Ivan Božilov, 2009: Zadar and the Fourth Crusade, including disputed dates",
+        "url": "https://hrcak.srce.hr/file/74548"
+      },
+      {
+        "name": "Croatian Encyclopedia: Zadar’s history and the destruction of 1202",
+        "url": "https://enciklopedija.hr/clanak/zadar"
+      },
+      {
+        "name": "Metropolitan Museum of Art: the Fourth Crusade and its diversion",
+        "url": "https://www.metmuseum.org/essays/the-crusades-1095-1291"
+      },
+      {
+        "name": "Metropolitan Museum of Art: Byzantium and the Latin occupation",
+        "url": "https://www.metmuseum.org/de/essays/byzantium-ca-330-1453"
+      },
+      {
+        "name": "David Nicolle: The Fourth Crusade 1202–04, publisher’s chronology",
+        "url": "https://api.pageplace.de/preview/DT0400.9781849083201_A26652250/preview-9781849083201_A26652250.pdf"
+      }
+    ],
+    "relatedSlugs": [
+      "byzantine-empire-eastern-rome-constantinople-1453"
+    ],
+    "faq": [
+      {
+        "question": "Were Zara and Zadar different cities?",
+        "answer": "No. Zara is the historical Italian name used in many accounts for present-day Zadar on Croatia’s Adriatic coast."
+      },
+      {
+        "question": "Did Zara definitely surrender on November 24, 1202?",
+        "answer": "The date is disputed. Some chronologies give November 24 for capture and sack; studies of the sources also place surrender on November 18 and distinguish it from later entry or occupation."
+      },
+      {
+        "question": "Did the pope approve the attack on a Christian city?",
+        "answer": "No. Papal opposition and the subsequent effort to obtain absolution are part of the contemporary account. The later handling of participants should not be confused with advance approval of the assault."
+      },
+      {
+        "question": "Was this the sack of Constantinople?",
+        "answer": "No. Zara was attacked in November 1202. Constantinople was sacked in 1204 during the later course of the Fourth Crusade."
+      }
+    ],
+    "readingTime": "9 min read"
+  },
+  {
     "id": "583",
     "slug": "cas-morocco-senegal-afcon-2025-verdict",
     "title": "CAS OVERTURNS MOROCCO'S AFCON 2025 TITLE DECISION, RESTORES SENEGAL AS CHAMPIONS",

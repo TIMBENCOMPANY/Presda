@@ -21,6 +21,7 @@ export type Translation = {
   readingTimeMinutes?: number;
   quote?: string;
   seoTitle: string;
+  seoTitleAbsolute?: boolean;
   description: string;
   keywords: string[];
   searchIntent: string;

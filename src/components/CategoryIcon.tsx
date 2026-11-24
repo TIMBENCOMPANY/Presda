@@ -1,5 +1,6 @@
 import {
   Bot,
+  BookOpen,
   BriefcaseBusiness,
   Camera,
   FlaskConical,
@@ -42,6 +43,8 @@ export function CategoryIcon({ category, className = "h-6 w-6" }: CategoryIconPr
       return <FlaskConical {...iconProps} />;
     case "History":
       return <Landmark {...iconProps} />;
+    case "Culture":
+      return <BookOpen {...iconProps} />;
     case "World Cup 2026":
       return <Trophy {...iconProps} />;
   }

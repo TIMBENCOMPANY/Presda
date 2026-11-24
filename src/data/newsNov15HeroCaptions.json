@@ -664,5 +664,35 @@
     "fr": "Montage éditorial fourni, conservé intact. Les dossiers sont illustratifs, sans authentification comme pièces judiciaires. L’image ne montre pas le prononcé du verdict.",
     "ar": "المونتاج التحريري المقدم محفوظ دون تعديل. الملفات توضيحية ولم توثق كمستندات قضائية، وليست الصورة توثيقا للحظة النطق بالحكم.",
     "es": "Montaje editorial suministrado, conservado intacto. Las carpetas son ilustrativas, no documentos judiciales autenticados. No muestra la comunicación del fallo."
+  },
+  "lucy-fossil-discovery-1974-human-evolution": {
+    "en": "Supplied modern editorial reconstruction, preserved unchanged. The face and museum scene are illustrative, not an archival photograph or an authenticated display of the original bones.",
+    "fr": "Reconstitution éditoriale moderne fournie, conservée sans modification. Le visage et la scène de musée sont illustratifs, et non une photographie d’archive ou une présentation authentifiée des os originaux.",
+    "ar": "إعادة تصور تحريرية حديثة مقدمة للنشر ومحفوظة دون تعديل. الوجه ومشهد المتحف توضيحيان، وليسا صورة أرشيفية أو عرضا موثقا للعظام الأصلية.",
+    "es": "Reconstrucción editorial moderna suministrada y conservada sin cambios. El rostro y la escena del museo son ilustrativos, no una fotografía de archivo ni una exposición autenticada de los huesos originales."
+  },
+  "ataturk-surname-law-24-november-1934": {
+    "en": "Supplied modern editorial portrait and historical composite, preserved unchanged. This is an illustration, not an authenticated photograph of the parliamentary decision on November 24, 1934.",
+    "fr": "Portrait éditorial moderne et composition historique fournis, conservés sans modification. Cette illustration n’est pas une photographie authentifiée de la décision parlementaire du 24 novembre 1934.",
+    "ar": "بورتريه تحريري حديث وتركيب تاريخي مقدمان للنشر ومحفوظان دون تعديل. الرسم ليس صورة موثقة لقرار البرلمان في 24 نوفمبر 1934.",
+    "es": "Retrato editorial moderno y composición histórica suministrados y conservados sin cambios. Es una ilustración, no una fotografía autenticada de la decisión parlamentaria del 24 de noviembre de 1934."
+  },
+  "carlo-collodi-200-birthday-pinocchio-1826-2026": {
+    "en": "Supplied modern editorial illustration, preserved unchanged. The puppet, book and portrait form a composite; the book is not presented as an authenticated first edition.",
+    "fr": "Illustration éditoriale moderne fournie, conservée sans modification. Le pantin, le livre et le portrait forment une composition ; le livre n’est pas présenté comme une première édition authentifiée.",
+    "ar": "رسم تحريري حديث مقدم للنشر ومحفوظ دون تعديل. الدمية والكتاب والبورتريه تركيب توضيحي، ولا يُقدّم الكتاب باعتباره طبعة أولى موثقة.",
+    "es": "Ilustración editorial moderna suministrada y conservada sin cambios. El muñeco, el libro y el retrato forman una composición; el libro no se presenta como una primera edición autenticada."
+  },
+  "mediamarkt-first-store-1979-electronics-retail-history": {
+    "en": "Supplied modern editorial illustration, preserved unchanged. This scene does not document the first Munich store in 1979 or authenticate a particular store location.",
+    "fr": "Illustration éditoriale moderne fournie, conservée sans modification. Cette scène ne documente pas le premier magasin munichois de 1979 et n’authentifie pas un emplacement particulier.",
+    "ar": "رسم تحريري حديث مقدم للنشر ومحفوظ دون تعديل. لا يوثق هذا المشهد متجر ميونيخ الأول عام 1979 ولا يثبت موقع متجر محدد.",
+    "es": "Ilustración editorial moderna suministrada y conservada sin cambios. La escena no documenta la primera tienda de Múnich de 1979 ni autentifica una ubicación concreta."
+  },
+  "fourth-crusade-siege-zara-zadar-1202": {
+    "en": "Supplied modern editorial reconstruction, preserved unchanged. The knight, ships and burning city are illustrative, not a medieval eyewitness image or an authenticated reconstruction of Zadar’s buildings.",
+    "fr": "Reconstitution éditoriale moderne fournie, conservée sans modification. Le chevalier, les navires et la ville en flammes sont illustratifs, pas un témoignage médiéval ni une restitution authentifiée des bâtiments de Zadar.",
+    "ar": "إعادة تصور تحريرية حديثة مقدمة للنشر ومحفوظة دون تعديل. الفارس والسفن والمدينة المحترقة عناصر توضيحية، لا شهادة مصورة من العصور الوسطى أو إعادة بناء موثقة لمباني زادار.",
+    "es": "Reconstrucción editorial moderna suministrada y conservada sin cambios. Caballero, barcos y ciudad incendiada son ilustrativos, no un testimonio medieval ni una reconstrucción autenticada de los edificios de Zadar."
   }
 }

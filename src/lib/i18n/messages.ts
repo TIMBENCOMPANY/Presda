@@ -58,8 +58,8 @@ export const brandLabels: Record<Locale, { home: string; logo: string; on: strin
 };
 
 export const localizedCategories: Record<Locale, Record<ArticleCategory, string>> = {
-  en: { World: "World", Sport: "Sport", Business: "Business", AI: "AI", Science: "Science", History: "History", Travel: "Travel", Lifestyle: "Lifestyle", Paparazzi: "Paparazzi", "World Cup 2026": "World Cup 2026" },
-  ar: { World: "العالم", Sport: "الرياضة", Business: "الأعمال", AI: "الذكاء الاصطناعي", Science: "العلوم", History: "التاريخ", Travel: "السفر", Lifestyle: "أسلوب الحياة", Paparazzi: "المشاهير", "World Cup 2026": "كأس العالم 2026" },
-  fr: { World: "Monde", Sport: "Sport", Business: "Économie", AI: "Intelligence artificielle", Science: "Sciences", History: "Histoire", Travel: "Voyages", Lifestyle: "Art de vivre", Paparazzi: "Célébrités", "World Cup 2026": "Coupe du monde 2026" },
-  es: { World: "Mundo", Sport: "Deportes", Business: "Economía", AI: "Inteligencia artificial", Science: "Ciencia", History: "Historia", Travel: "Viajes", Lifestyle: "Estilo de vida", Paparazzi: "Famosos", "World Cup 2026": "Mundial 2026" }
+  en: { World: "World", Sport: "Sport", Business: "Business", AI: "AI", Science: "Science", History: "History", Culture: "Culture", Travel: "Travel", Lifestyle: "Lifestyle", Paparazzi: "Paparazzi", "World Cup 2026": "World Cup 2026" },
+  ar: { World: "العالم", Sport: "الرياضة", Business: "الأعمال", AI: "الذكاء الاصطناعي", Science: "العلوم", History: "التاريخ", Culture: "الثقافة", Travel: "السفر", Lifestyle: "أسلوب الحياة", Paparazzi: "المشاهير", "World Cup 2026": "كأس العالم 2026" },
+  fr: { World: "Monde", Sport: "Sport", Business: "Économie", AI: "Intelligence artificielle", Science: "Sciences", History: "Histoire", Culture: "Culture", Travel: "Voyages", Lifestyle: "Art de vivre", Paparazzi: "Célébrités", "World Cup 2026": "Coupe du monde 2026" },
+  es: { World: "Mundo", Sport: "Deportes", Business: "Economía", AI: "Inteligencia artificial", Science: "Ciencia", History: "Historia", Culture: "Cultura", Travel: "Viajes", Lifestyle: "Estilo de vida", Paparazzi: "Famosos", "World Cup 2026": "Mundial 2026" }
 };
