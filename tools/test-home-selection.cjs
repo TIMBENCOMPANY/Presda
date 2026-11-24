@@ -7,9 +7,9 @@ const { getPublishedArticles } = require('../src/data/articles.ts');
 const { publishedTranslations } = require('../src/lib/i18n/registry.ts');
 const { listingCard } = require('../src/lib/i18n/listing-cards.ts');
 const { selectHomeArticles, homeHeroSlugs, homeSideSlugs } = require('../src/lib/homeSelection.ts');
-assert.deepEqual(homeHeroSlugs.map(s=>getPublishedArticles().find(a=>a.slug===s)?.id), ['552','553','543','554','540','517','531','544','533','547','535','534']);
+assert.deepEqual(homeHeroSlugs.map(s=>getPublishedArticles().find(a=>a.slug===s)?.id), ['583','552','553','543','554','540','517','531','544','533','547','535','534']);
 assert.deepEqual([...homeSideSlugs], ["giordano-bruno-philosopher-heresy", "moon-landing-conspiracy-apollo-evidence", "area-51-aliens-myth-reality-secret-aircraft"]);
-assert.equal(homeHeroSlugs.length, 12);
+assert.equal(homeHeroSlugs.length, 13);
 assert.ok(!homeHeroSlugs.includes("bryan-johnson-blueprint-anti-aging-longevity"));
 const articles = getPublishedArticles();
 const snapshot = JSON.stringify(articles);
@@ -21,7 +21,7 @@ const now = new Date('2026-11-21T12:00:00Z');
 const slugs = xs => xs.map(a=>a.slug);
 for(const locale of ['en','fr','ar','es']) {
  const groups = selectHomeArticles(articles,now,locale,publishedTranslations);
- assert.deepEqual(slugs(groups.featured), [...homeHeroSlugs]);
+ assert.deepEqual(slugs(groups.featured), homeHeroSlugs.filter(slug=>Date.parse(articles.find(a=>a.slug===slug).date)<=now.getTime()));
  const previous=oldModule.exports.selectHomeArticles(articles,now,locale,publishedTranslations);
  for(const key of ['editorialPicks','latest','moreArticles'])assert.deepEqual(groups[key],previous[key],'Other homepage sections unchanged: '+locale+'/'+key);
  assert.deepEqual(slugs(groups.editorialPicks), [...homeSideSlugs]);
@@ -33,6 +33,16 @@ for(const locale of ['en','fr','ar','es']) {
  for(const a of all){const card=listingCard(a,locale);if(locale==='en')assert.equal(card.href,`/articles/${a.slug}/`);else{const t=publishedTranslations.find(t=>t.locale===locale&&t.englishPath===`/articles/${a.slug}/`);assert.equal(card.title,t.title);assert.equal(card.href,t.path);assert.equal(card.coverImage,t.image.src);}}
 }
 const base={...articles[0],slug:'new-test',date:now.toISOString(),status:'published',draft:false};
+// Breaking coverage leads the current edition in every language, without displacing
+// the existing twelve slides or overriding genuinely newer publication dates.
+for(const locale of ['en','fr','ar','es']) {
+ const groups=selectHomeArticles(articles,new Date('2026-11-24T23:00:00Z'),locale,publishedTranslations);
+ assert.equal(groups.featured[0].slug,'cas-morocco-senegal-afcon-2025-verdict');
+ assert.equal(groups.latest[0].slug,'cas-morocco-senegal-afcon-2025-verdict');
+ assert.deepEqual(slugs(groups.featured).slice(1),[...homeHeroSlugs].slice(1));
+}
+const nextDay={...base,slug:'next-day-report',date:'2026-11-25'};
+assert.equal(selectHomeArticles([...articles,nextDay],new Date('2026-11-25T12:00:00Z')).latest[0].slug,nextDay.slug);
 const invalid=[{...base,slug:'draft',status:'draft'},{...base,slug:'legacy-draft',draft:true},{...base,slug:'archived',status:'archived'},{...base,slug:'archive-flag',archived:true},{...base,slug:'future',date:'2026-11-21T12:00:01Z'},{...base,slug:'bad-date',date:'invalid'}];
 const selected=selectHomeArticles([...articles,base,base,...invalid],now);
 assert.equal(selected.latest[0].slug,base.slug,'New publication appears without manual curation');

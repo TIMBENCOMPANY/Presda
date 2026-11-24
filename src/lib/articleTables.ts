@@ -8,6 +8,38 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[CAS26_583]]": {
+    "caption": "AFCON 2025 final dispute: the verified chronology",
+    "headers": [
+      "Date",
+      "Development"
+    ],
+    "rows": [
+      [
+        "January 18, 2026",
+        "Senegal win the final 1–0 after extra time in Rabat"
+      ],
+      [
+        "March 17, 2026",
+        "CAF Appeal Board records a 3–0 forfeit win for Morocco"
+      ],
+      [
+        "March 25, 2026",
+        "CAS registers Senegal’s appeal against CAF and the FRMF"
+      ],
+      [
+        "October 8, 2026",
+        "CAS hears the parties in Lausanne"
+      ],
+      [
+        "November 24, 2026",
+        "CAS overturns the appeal ruling and confirms Senegal’s 1–0 win"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[FIVE25_578]]": {
     "caption": "The confirmed announcement",
     "headers": [

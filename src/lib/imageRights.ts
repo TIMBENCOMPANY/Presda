@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/cas-morocco-senegal-afcon-2025-verdict.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/cardi-b-billboard-canada-first-global-woman-of-the-year-2026.jpg","/articles/ed-sheeran-chile-palestino-shirts-entry-controversy-2026.jpg","/articles/rihanna-asap-rocky-beverly-hills-outing-november-2026.jpg","/articles/travis-scott-21-savage-gta-vi-album-deluxe-edition-2026.jpg","/articles/cristiano-ronaldo-seven-metre-statue-cr7-museum-shanghai-2026.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/france-350-million-corac-civil-aviation-research-2026.jpg","/articles/jensen-huang-reinstated-nvidia-ceo-november-2026.jpg","/articles/zlatan-ibrahimovic-mobland-season-three-casting-report.jpg","/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/carlos-alcaraz-first-atp-finals-title-zverev-turin-2026.jpg","/articles/afcon-2027-six-host-cities-kenya-tanzania-uganda.jpg","/articles/boca-juniors-sudamericana-2026-18-year-continental-drought.jpg","/articles/vampire-camel-vampyrocamelus-welshi-miocene-fossils.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

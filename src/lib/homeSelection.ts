@@ -3,7 +3,9 @@ import type { Translation } from "@/lib/i18n/content";
 import type { Locale } from "@/lib/i18n/routing";
 
 // Homepage editorial placements only. Category selections remain independent.
+export const homeBreakingSlug = "cas-morocco-senegal-afcon-2025-verdict";
 export const homeHeroSlugs = [
+  homeBreakingSlug,
   "bts-mama-awards-2026-five-wins-two-grand-prizes",
   "turkiye-first-three-kizilelma-unmanned-fighter-jets-2026",
   "chris-brown-temporary-12000-monthly-child-support",
@@ -58,7 +60,9 @@ export function selectHomeArticles(articles: readonly Article[], now: Date, loca
   const editorialPicks = pick(homeSideSlugs);
   const excluded = new Set([...pick(homeFeedExclusionSlugs), ...editorialPicks].map(article => article.slug));
   const remaining = Array.from(bySlug.values()).filter(article => !excluded.has(article.slug))
-    // Slug resolves equal publication dates independently of catalogue order or locale.
-    .sort((a, b) => Date.parse(b.date) - Date.parse(a.date) || (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0));
+    // Lead today's feed with the breaking verdict; later dates still take precedence.
+    .sort((a, b) => Date.parse(b.date) - Date.parse(a.date)
+      || Number(b.slug === homeBreakingSlug) - Number(a.slug === homeBreakingSlug)
+      || (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0));
   return { featured, editorialPicks, latest: remaining.slice(0, 15), moreArticles: remaining.slice(15, 21) };
 }

@@ -1,6 +1,140 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "583",
+    "slug": "cas-morocco-senegal-afcon-2025-verdict",
+    "title": "CAS OVERTURNS MOROCCO'S AFCON 2025 TITLE DECISION, RESTORES SENEGAL AS CHAMPIONS",
+    "seoTitle": "CAS restores Senegal as AFCON 2025 champions",
+    "metaDescription": "CAS overturns CAF’s forfeit ruling on November 24, 2026, restoring Senegal’s 1–0 AFCON final win. The verdict, legal reasoning and Morocco’s case explained.",
+    "excerpt": "CAS overturns CAF’s forfeit ruling on November 24, 2026, restoring Senegal’s 1–0 AFCON final win. The verdict, legal reasoning and Morocco’s case explained.",
+    "category": "Sport",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/cas-morocco-senegal-afcon-2025-verdict.jpg",
+    "coverAlt": "Supplied editorial composite of a CAS plaque, Moroccan and Senegalese flags and federation-labelled case folders",
+    "headlineHighlights": {
+      "red": "CAS",
+      "gold": "SENEGAL AS CHAMPIONS"
+    },
+    "tags": [
+      "Breaking News",
+      "AFCON 2025",
+      "CAS",
+      "Senegal",
+      "Morocco"
+    ],
+    "content": [
+      "BREAKING NEWS: Senegal have been restored as AFCON 2025 champions after the Court of Arbitration for Sport overturned the CAF Appeal Board decision that recorded the final as a 3–0 forfeit win for Morocco. The November 24, 2026 outcome confirms Senegal’s 1–0 victory on the field. [AS: November 24 verdict and reproduction of the CAS media summary](https://as.com/futbol/internacional/insolito-senegal-recupera-la-copa-de-africa-f202611-n/) [Le Monde: November 24 ruling and the referee’s authority](https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html)",
+      "The decision resolves the result of the final, not every disciplinary consequence of its chaotic stoppage. Its central distinction is between a match the referee allowed to resume and finish, and one definitively abandoned because a team refused to continue. VG also reported Senegal’s restored title, attributing the result to Reuters. [VG: November 24 result attributed to Reuters](https://www.vg.no/sport/i/0vn6o0/afrikamesterskapet-2026-cas-har-konkludert-med-vinneren-av-skandalefinalen)",
+      "## What CAS decided",
+      "According to the CAS media summary reproduced by AS, the panel upheld the Senegalese Football Federation’s appeal, set aside the CAF Appeal Board decision and reinstated the CAF Disciplinary Board decision. The practical result is confirmation of the final’s original 1–0 score for Senegal. AS reports that the panel’s decision was unanimous. [AS: November 24 verdict and reproduction of the CAS media summary](https://as.com/futbol/internacional/insolito-senegal-recupera-la-copa-de-africa-f202611-n/)",
+      "### The match result is restored, not replayed",
+      "The reported order confirms the completed final rather than requiring another match. For readers following the succession of decisions, that means the decisive score is again the one achieved in Rabat, not the administrative 3–0 recorded in March. This is a ruling about the treatment of that particular final, not a new result produced by a replay.",
+      "## Why the referee’s decision mattered",
+      "### Resuming play was a field-of-play decision",
+      "The legal explanation turns on the authority of referee Jean-Jacques Ngambo Ndala to resume the game after the interruption. The published CAS summary describes that decision as protected by the field-of-play doctrine. Both teams had returned and were willing to continue; the referee allowed the contest to reach a sporting conclusion. Le Monde’s account likewise identifies the referee’s authority as central to the ruling. [AS: November 24 verdict and reproduction of the CAS media summary](https://as.com/futbol/internacional/insolito-senegal-recupera-la-copa-de-africa-f202611-n/) [Le Monde: November 24 ruling and the referee’s authority](https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html)",
+      "That distinction matters because a later review of conduct is not automatically a power to rewrite a completed match. The reported reasoning does not announce that referees can never make a legal error. It addresses whether the decision to restart this final could justify converting the eventual result into a forfeit months later.",
+      "### Why Articles 82 and 84 did not decide this result",
+      "Morocco’s case relied on the tournament’s withdrawal and forfeiture provisions. In the CAS summary reproduced by AS, the panel treats Articles 82 and 84 as determining a result when a team’s conduct causes the referee definitively to abandon the match. Because this game resumed and concluded, the panel found those provisions inapplicable to changing its result. [AS: November 24 verdict and reproduction of the CAS media summary](https://as.com/futbol/internacional/insolito-senegal-recupera-la-copa-de-africa-f202611-n/)",
+      "### Disciplinary punishment is a separate question",
+      "The same summary notes that the Senegalese federation, then-coach Pape Thiaw and certain players had already faced CAF sanctions through separate disciplinary proceedings. Restoring the score therefore should not be reported as a blanket cancellation of every fine or suspension connected with the final. The result dispute and sanctions require attention to their own operative decisions. [AS: November 24 verdict and reproduction of the CAS media summary](https://as.com/futbol/internacional/insolito-senegal-recupera-la-copa-de-africa-f202611-n/)",
+      "## What Senegal appealed",
+      "CAS’s March 25 registration notice identifies the appellant as the Senegalese Football Federation, or FSF, and the respondents as CAF and the Royal Moroccan Football Federation, or FRMF. Senegal sought annulment of the March 17 decision and recognition as tournament winner. It also sought a pause in the appeal-brief deadline pending CAF’s complete reasons. [CAS: registration of Senegal’s appeal, March 25, 2026](https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_12295_appeal.pdf)",
+      "The distinction between registering an appeal and deciding it explains part of the long chronology. AP’s March coverage described Senegal’s effort to regain the title, rather than an already successful appeal. The hearing later took place in Lausanne on October 8; CAS’s November 23 notice announced that the decision would follow on November 24. [Associated Press: Senegal’s appeal and March reaction](https://apnews.com/article/8a7ea2e9a485ca7b32c46916cc6f828e) [CAS: November 23 procedural notice announcing the decision date](https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_12295_decision%20date.pdf) [Reuters via EgyptToday: decision timetable and October 8 hearing](https://www.egypttoday.com/Article/8/150749/CAS-to-release-Senegal-Africa-Cup-of-Nations-title-appeal)",
+      "## Morocco’s position and the decision being overturned",
+      "CAF’s own March 17 statement records that the FRMF’s appeal was upheld and that the earlier disciplinary decision was set aside. The Appeal Board found Senegal’s conduct within Articles 82 and 84, declared a forfeit and entered a 3–0 result in Morocco’s favour. That official record establishes the administrative decision challenged at CAS. [CAF: Appeal Board decision of March 17, 2026](https://www.cafonline.com/news/caf-appeal-board-media-statement)",
+      "The Moroccan argument, as set out in the CAS summary reproduced by AS, distinguished the referee’s on-field choices from disciplinary consequences. The FRMF maintained that leaving the pitch triggered the regulations and challenged the legality of allowing the game to continue. The panel did not accept that basis for overturning the completed result. [AS: November 24 verdict and reproduction of the CAS media summary](https://as.com/futbol/internacional/insolito-senegal-recupera-la-copa-de-africa-f202611-n/)",
+      "Before the verdict, Reuters reported, via TimesLIVE, that an unnamed source said Morocco had raised an alleged telephone contact involving Senegal’s federation president and an arbitrator. Reuters explicitly said it could not independently verify whether the call occurred or what was discussed. That allegation is not an established finding of misconduct and is not evidence that today’s outcome has been suspended. [Reuters via TimesLIVE: reported procedural concern before the ruling](https://www.timeslive.co.za/sport/2026-11-24-moroccan-federation-reports-incident-to-cas-during-senegal-afcon-appeal-source-says/)",
+      "## The final that produced two competing results",
+      "The AFCON 2025 final was played on January 18, 2026, in Rabat. After a late penalty was awarded to Morocco, Senegalese players left the pitch in protest before returning. Brahim Díaz’s penalty was saved by Édouard Mendy, and Pape Gueye scored the winner early in extra time. CAF’s contemporaneous match report records Senegal’s 1–0 victory. [CAF: official report of the January 18 final](https://www.cafonline.com/afcon2025/news/gueye-extra-time-stunner-hands-senegal-totalenergies-caf-afcon-2025-title/) [Associated Press: Senegal’s appeal and March reaction](https://apnews.com/article/8a7ea2e9a485ca7b32c46916cc6f828e)",
+      "The edition’s name is important: this is the title of AFCON 2025, whose final took place in January 2026. Today’s ruling does not concern a separate AFCON 2026 tournament. Nor does it turn the March administrative score into a score that was achieved during play.",
+      "## The key dates",
+      "[[CAS26_583]]",
+      "## What this means for Senegal and Morocco",
+      "Senegal’s restored result returns the focus to a second continental title, following the 2021 edition. CAF’s original match report identified the January victory as Senegal’s second. For Morocco, the successful March forfeit appeal no longer provides the basis for replacing the result of that final. [CAF: official report of the January 18 final](https://www.cafonline.com/afcon2025/news/gueye-extra-time-stunner-hands-senegal-totalenergies-caf-afcon-2025-title/)",
+      "The immediate verified consequence is the sporting result and title outcome. This report does not infer a payment timetable, prize-money transfer, compensation award, fresh punishment or new appeal from that outcome. Each would require its own documented decision or announcement.",
+      "## The legal source and the limits of this breaking report",
+      "The detailed explanation above follows CAS’s media summary as reproduced by AS, cross-checked against established reporting and the earlier CAS and CAF records. The court’s website blocked automated retrieval during research. PRESDA has not independently downloaded the complete binding written award and does not present the media summary as its full text. The summary itself states that the written decision controls legally. [AS: November 24 verdict and reproduction of the CAS media summary](https://as.com/futbol/internacional/insolito-senegal-recupera-la-copa-de-africa-f202611-n/)",
+      "The wider continental calendar continues separately from this case. For the next tournament’s planning, see [PRESDA’s report on AFCON 2027’s six host cities](/articles/afcon-2027-six-host-cities-kenya-tanzania-uganda/). The distinction between tournament administration, match authority and disciplinary accountability will remain central to how this final is remembered."
+    ],
+    "references": [
+      {
+        "name": "AS: November 24 verdict and reproduction of the CAS media summary",
+        "url": "https://as.com/futbol/internacional/insolito-senegal-recupera-la-copa-de-africa-f202611-n/"
+      },
+      {
+        "name": "Le Monde: November 24 ruling and the referee’s authority",
+        "url": "https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html"
+      },
+      {
+        "name": "CAF: Appeal Board decision of March 17, 2026",
+        "url": "https://www.cafonline.com/news/caf-appeal-board-media-statement"
+      },
+      {
+        "name": "CAS: registration of Senegal’s appeal, March 25, 2026",
+        "url": "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_12295_appeal.pdf"
+      },
+      {
+        "name": "CAF: official report of the January 18 final",
+        "url": "https://www.cafonline.com/afcon2025/news/gueye-extra-time-stunner-hands-senegal-totalenergies-caf-afcon-2025-title/"
+      },
+      {
+        "name": "Reuters via TimesLIVE: reported procedural concern before the ruling",
+        "url": "https://www.timeslive.co.za/sport/2026-11-24-moroccan-federation-reports-incident-to-cas-during-senegal-afcon-appeal-source-says/"
+      },
+      {
+        "name": "Associated Press: Senegal’s appeal and March reaction",
+        "url": "https://apnews.com/article/8a7ea2e9a485ca7b32c46916cc6f828e"
+      },
+      {
+        "name": "CAS: November 23 procedural notice announcing the decision date",
+        "url": "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_12295_decision%20date.pdf"
+      },
+      {
+        "name": "VG: November 24 result attributed to Reuters",
+        "url": "https://www.vg.no/sport/i/0vn6o0/afrikamesterskapet-2026-cas-har-konkludert-med-vinneren-av-skandalefinalen"
+      },
+      {
+        "name": "Reuters via EgyptToday: decision timetable and October 8 hearing",
+        "url": "https://www.egypttoday.com/Article/8/150749/CAS-to-release-Senegal-Africa-Cup-of-Nations-title-appeal"
+      }
+    ],
+    "relatedSlugs": [
+      "afcon-2027-six-host-cities-kenya-tanzania-uganda"
+    ],
+    "faq": [
+      {
+        "question": "Who are the AFCON 2025 champions after the CAS decision?",
+        "answer": "Senegal. The November 24, 2026 outcome restores the original 1–0 final result."
+      },
+      {
+        "question": "Did CAS order the final to be replayed?",
+        "answer": "The reported decision confirms the completed match’s result rather than ordering a replay."
+      },
+      {
+        "question": "Why did the referee’s restart matter?",
+        "answer": "The panel treated resuming play as a protected field-of-play decision, according to its published media summary."
+      },
+      {
+        "question": "Does the ruling cancel every disciplinary sanction?",
+        "answer": "No blanket cancellation should be inferred. The media summary distinguishes separate disciplinary sanctions from the result dispute."
+      },
+      {
+        "question": "What were Morocco’s main legal arguments?",
+        "answer": "The FRMF argued that Senegal’s departure triggered Articles 82 and 84 and that disciplinary consequences were not protected by the field-of-play doctrine."
+      },
+      {
+        "question": "Has PRESDA reviewed the complete written award?",
+        "answer": "No. This report uses the CAS media summary reproduced by AS, corroborating reporting and earlier official records; the binding written award has not been independently retrieved."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
     "id": "578",
     "slug": "cardi-b-billboard-canada-first-global-woman-of-the-year-2026",
     "title": "CARDI B NAMED BILLBOARD CANADA’S FIRST GLOBAL WOMAN OF THE YEAR",
