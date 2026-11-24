@@ -8,6 +8,146 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[FIVE25_578]]": {
+    "caption": "The confirmed announcement",
+    "headers": [
+      "Detail",
+      "Verified position"
+    ],
+    "rows": [
+      [
+        "Recipient",
+        "Cardi B"
+      ],
+      [
+        "Award",
+        "First Billboard Canada Global Woman of the Year"
+      ],
+      [
+        "Ceremony",
+        "Scheduled November 24, 2026, Rebel, Toronto"
+      ],
+      [
+        "Status",
+        "Selection confirmed; advance announcement is not an acceptance report"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[FIVE25_579]]": {
+    "caption": "The incident and the evidence",
+    "headers": [
+      "Issue",
+      "Reported position"
+    ],
+    "rows": [
+      [
+        "Concert",
+        "November 21, 2026, La Florida, Santiago"
+      ],
+      [
+        "Complaint",
+        "Initial entry difficulties over Palestino clothing"
+      ],
+      [
+        "Club response",
+        "Official statement demanding clarification on November 22"
+      ],
+      [
+        "Outcome",
+        "BioBioChile attributes eventual admission to DG Medios"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[FIVE25_580]]": {
+    "caption": "The appearance and its context",
+    "headers": [
+      "Detail",
+      "What is established"
+    ],
+    "rows": [
+      [
+        "Report date",
+        "November 23, 2026, Vogue"
+      ],
+      [
+        "Location",
+        "Beverly Hills"
+      ],
+      [
+        "Image credit in the report",
+        "ShotbyNYP/BACKGRID USA"
+      ],
+      [
+        "Supplied hero",
+        "Separate portrait, not authenticated as this outing"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[FIVE25_581]]": {
+    "caption": "The deluxe album at a glance",
+    "headers": [
+      "Detail",
+      "Confirmed information"
+    ],
+    "rows": [
+      [
+        "Release",
+        "November 23, 2026"
+      ],
+      [
+        "Expansion",
+        "23 additional tracks; 57 tracks overall"
+      ],
+      [
+        "Travis Scott",
+        "Burn This Shit Down; already on the original album with RHYNO"
+      ],
+      [
+        "21 Savage",
+        "Cookin, listed as a separate track"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[FIVE25_582]]": {
+    "caption": "Shanghai opening: confirmed details",
+    "headers": [
+      "Detail",
+      "Published information"
+    ],
+    "rows": [
+      [
+        "Unveiling",
+        "November 21, 2026"
+      ],
+      [
+        "Statue",
+        "Seven metres; SIU celebration"
+      ],
+      [
+        "Location",
+        "First Department Store, Nanjing Road Pedestrian Street"
+      ],
+      [
+        "Attendance",
+        "Brother Hugo attended; Ronaldo’s presence not established"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[QUAD24_574]]": {
     "caption": "France’s aviation research announcement: the essential distinctions",
     "headers": [

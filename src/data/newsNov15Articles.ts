@@ -1,6 +1,453 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "578",
+    "slug": "cardi-b-billboard-canada-first-global-woman-of-the-year-2026",
+    "title": "CARDI B NAMED BILLBOARD CANADA’S FIRST GLOBAL WOMAN OF THE YEAR",
+    "seoTitle": "Cardi B named Billboard Canada’s first Global Woman of the Year",
+    "metaDescription": "Billboard Canada selects Cardi B for its inaugural Global Woman of the Year honour, with the Toronto ceremony scheduled for November 24, 2026.",
+    "excerpt": "Billboard Canada selects Cardi B for its inaugural Global Woman of the Year honour, with the Toronto ceremony scheduled for November 24, 2026.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/cardi-b-billboard-canada-first-global-woman-of-the-year-2026.jpg",
+    "coverAlt": "Supplied editorial portrait of Cardi B against a Billboard Canada backdrop",
+    "headlineHighlights": {
+      "red": "CARDI B",
+      "gold": "GLOBAL WOMAN OF THE YEAR"
+    },
+    "tags": [
+      "CARDI B",
+      "Paparazzi"
+    ],
+    "content": [
+      "Cardi B has been named Billboard Canada’s first Global Woman of the Year, a new distinction at the publication’s Women in Music celebration. The organiser has scheduled the presentation for November 24, 2026, at Rebel in Toronto. The selection is confirmed; an acceptance speech or completed appearance should not be inferred from the advance announcement. [Billboard Canada: first Global Woman of the Year announcement](https://ca.billboard.com/music/rb-hip-hop/cardi-b-global-woman-of-the-year-billboard-canada-women-in-music)",
+      "The honour arrives at the intersection of two stories: a rapper whose career has crossed national markets, and a Canadian music event broadening its international reach. Its significance lies in the particular award being introduced, rather than a claim that Cardi B has become Canadian or won a worldwide popularity vote.",
+      "[[FIVE25_578]]",
+      "## A new global category in Toronto",
+      "Billboard Canada’s announced programme identifies the Global Woman of the Year award as presented by East Point. Summer Walker is named for Global Visionary and Bebe Rexha for Global Hitmaker. These are distinct honours within the same event, not interchangeable descriptions of one overall winner. [Billboard Canada: 2026 honourees and November 24 programme](https://ca.billboard.com/music/billboard-canada-women-in-music-2026-lineup)",
+      "The organisers are bringing performers, recording artists and executives into one programme. That breadth matters: a music career depends on live production, artist development and access to audiences as well as recordings. A recognition event can make those connections visible without functioning as a chart or an audited ranking of influence.",
+      "## The recording career behind the recognition",
+      "The Recording Academy’s account of the 2019 Grammys provides a firm landmark. Cardi B won Best Rap Album for her debut, Invasion of Privacy, at the 61st awards. Other nominees included Mac Miller’s Swimming, Nipsey Hussle’s Victory Lap, Pusha T’s Daytona and Travis Scott’s Astroworld. [Recording Academy: Cardi B’s 2019 Best Rap Album win](https://www.grammy.com/news/cardi-b-wins-best-rap-album-invasion-privacy-2019-grammys/)",
+      "That award is separate from the new Canadian honour, both in institution and purpose. One recognised a particular recording in a competitive Grammy category; the other celebrates an artist’s wider impact. Keeping the distinction clear avoids turning a career tribute into an invented album award.",
+      "### From Bodak Yellow to an international audience",
+      "The Academy also dates her first No. 1 single, Bodak Yellow, to 2017 and records the two Grammy nominations it earned at the following ceremony. Its biography places her birth in New York in 1992. Those milestones explain the trajectory from breakthrough single to major album recognition without relying on fluctuating social-media measures. [Recording Academy: Cardi B’s 2019 Best Rap Album win](https://www.grammy.com/news/cardi-b-wins-best-rap-album-invasion-privacy-2019-grammys/)",
+      "## Why Canada is part of the story",
+      "Billboard Canada’s announcement credits her with 46 Canadian Hot 100 entries, eight reaching the top ten. These are the publication’s figures at announcement, not a new chart position issued by PRESDA. It also highlights Canadian stops on the Little Miss Drama arena tour, including Vancouver, Toronto and Hamilton. [Billboard Canada: first Global Woman of the Year announcement](https://ca.billboard.com/music/rb-hip-hop/cardi-b-global-woman-of-the-year-billboard-canada-women-in-music)",
+      "Recorded popularity and touring describe different relationships with an audience. Chart entries show a song’s place within a defined market and measurement period. Concerts turn that listening relationship into a shared physical event. Neither should be treated as a substitute for the other, or as proof of undisclosed revenues.",
+      "## A programme that also spotlights emerging talent",
+      "The 2026 lineup includes Faouzia’s Breakthrough Award, presented by FACTOR, alongside Chxrry’s Rising Star recognition. Executive and music-education honours widen the focus beyond celebrity attendance. Readers can explore the chart context in [PRESDA’s report on Faouzia’s Hot 100 debut](/articles/faouzia-unethical-us-billboard-hot-100-debut-95/). [Billboard Canada: 2026 honourees and November 24 programme](https://ca.billboard.com/music/billboard-canada-women-in-music-2026-lineup)",
+      "The event’s own page sets out its aim of placing Canadian artists and industry figures alongside international stars. That is an organiser’s stated ambition, rather than independent proof of commercial outcomes. It nevertheless explains why a global award can sit within a nationally branded celebration. [Billboard Canada: official Women in Music event](https://ca.billboard.com/womeninmusic2026)",
+      "## What is confirmed before the ceremony",
+      "As checked on November 24, the published announcement establishes the recipient, award title, date and venue. This article reports that selection. It does not invent a red-carpet appearance, outfit, quotation or performance, and the supplied hero portrait should not be read as documentary evidence of attendance.",
+      "Cardi B’s selection is a concrete addition to the event’s identity. The more lasting question is how recognition translates into opportunities for the artists and workers sharing its stage. That will be judged through subsequent work and access, rather than the prestige language of a single evening."
+    ],
+    "references": [
+      {
+        "name": "Billboard Canada: first Global Woman of the Year announcement",
+        "url": "https://ca.billboard.com/music/rb-hip-hop/cardi-b-global-woman-of-the-year-billboard-canada-women-in-music"
+      },
+      {
+        "name": "Billboard Canada: 2026 honourees and November 24 programme",
+        "url": "https://ca.billboard.com/music/billboard-canada-women-in-music-2026-lineup"
+      },
+      {
+        "name": "Recording Academy: Cardi B’s 2019 Best Rap Album win",
+        "url": "https://www.grammy.com/news/cardi-b-wins-best-rap-album-invasion-privacy-2019-grammys/"
+      },
+      {
+        "name": "Billboard Canada: official Women in Music event",
+        "url": "https://ca.billboard.com/womeninmusic2026"
+      }
+    ],
+    "relatedSlugs": [
+      "faouzia-unethical-us-billboard-hot-100-debut-95"
+    ],
+    "faq": [
+      {
+        "question": "What award has Cardi B been named for?",
+        "answer": "Billboard Canada’s inaugural Global Woman of the Year award."
+      },
+      {
+        "question": "When is the ceremony scheduled?",
+        "answer": "November 24, 2026, at Rebel in Toronto."
+      },
+      {
+        "question": "Is this a Grammy Award?",
+        "answer": "No. It is a Billboard Canada Women in Music honour, separate from the Grammys."
+      },
+      {
+        "question": "Does the supplied portrait prove attendance?",
+        "answer": "No. Its provenance as an image of that ceremony has not been authenticated."
+      }
+    ],
+    "readingTime": "5 min read"
+  },
+  {
+    "id": "579",
+    "slug": "ed-sheeran-chile-palestino-shirts-entry-controversy-2026",
+    "title": "ED SHEERAN’S CHILE CONCERT DRAWS CONTROVERSY OVER PALESTINO SHIRTS",
+    "seoTitle": "Ed Sheeran concert: Palestino shirt entry allegations explained",
+    "metaDescription": "Fans alleged entry restrictions over Palestino shirts at Ed Sheeran’s November 21 Chile concert. The club wants answers; the promoter says they entered.",
+    "excerpt": "Fans alleged entry restrictions over Palestino shirts at Ed Sheeran’s November 21 Chile concert. The club wants answers; the promoter says they entered.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/ed-sheeran-chile-palestino-shirts-entry-controversy-2026.jpg",
+    "coverAlt": "Supplied editorial visual of Ed Sheeran with a guitar and a Palestino crest in the background",
+    "headlineHighlights": {
+      "red": "ED SHEERAN",
+      "gold": "PALESTINO SHIRTS"
+    },
+    "tags": [
+      "ED SHEERAN",
+      "Paparazzi"
+    ],
+    "content": [
+      "Ed Sheeran’s November 21, 2026 concert at Santiago’s Estadio Bicentenario de La Florida has drawn allegations that fans wearing Club Deportivo Palestino clothing were initially stopped at entry. The club publicly demanded an explanation the next day. The dispute concerns reported treatment at the gates, not an established finding that Sheeran personally ordered a ban. [Club Deportivo Palestino: official statement, November 22, 2026](https://palestino.cl/comunicado-oficial-6/) [BioBioChile: initial accounts from fans, November 22](https://www.biobiochile.cl/noticias/sociedad/debate/2026/11/22/fans-de-ed-sheeran-acusan-que-no-los-dejaban-entrar-a-concierto-por-llevar-indumentaria-de-palestino.shtml)",
+      "A subsequent BioBioChile report attributed to promoter DG Medios the statement that the spectators ultimately entered. That outcome is important, but it does not by itself explain why they were delayed or resolve the club’s complaint about discrimination. The available accounts need to be read together rather than reduced to a permanent exclusion. [BioBioChile: DG Medios says spectators ultimately entered, November 23](https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/23/camisetas-de-futbol-borago-y-los-prisioneros-los-dias-de-ed-sheeran-en-chile.shtml)",
+      "[[FIVE25_579]]",
+      "## What concertgoers reported",
+      "BioBioChile’s November 22 coverage described people saying security staff initially prevented them from entering while wearing Palestino shirts and hooded tops. Their accounts circulated on social media. The immediate issue was whether their clothing was being singled out and what instruction, if any, staff had been given. [BioBioChile: initial accounts from fans, November 22](https://www.biobiochile.cl/noticias/sociedad/debate/2026/11/22/fans-de-ed-sheeran-acusan-que-no-los-dejaban-entrar-a-concierto-por-llevar-indumentaria-de-palestino.shtml)",
+      "An attendee’s account is evidence of an allegation, not a complete record of an event’s security operation. Establishing the full sequence would require the relevant entry instructions, accounts from the staff involved and a clear explanation of how the dispute was resolved. A short video cannot supply all of that context.",
+      "## Palestino’s statement and request for answers",
+      "In its statement, updated November 22, Palestino condemned the reported difficulties as discriminatory. It called on DG Medios and the organisers to clarify what happened, disclose the relevant information and explain the criteria that might have led to the incidents. It also asked for the artist’s team’s position. [Club Deportivo Palestino: official statement, November 22, 2026](https://palestino.cl/comunicado-oficial-6/)",
+      "The club offered support in gathering information, assessing possible action and obtaining legal guidance. That is a statement of institutional backing for those affected, rather than an announced court judgment or a finding by a regulator. No such ruling is established by the sources reviewed for this report. [Club Deportivo Palestino: official statement, November 22, 2026](https://palestino.cl/comunicado-oficial-6/)",
+      "### A Chilean club with Palestinian roots",
+      "CNN’s November 24 report describes Palestino as a Chilean club founded in 1920 by members of the Palestinian community. Its shirts therefore carry a sporting identity and a community history together. Treating the badge as if it belonged to an unrelated national team would miss why the incident prompted a response from the club itself. [CNN Brasil: accounts and request for a promoter response, November 24](https://www.cnnbrasil.com.br/internacional/fas-dizem-ter-sido-barrados-por-simbolos-palestinos-em-show-de-ed-sheeran/)",
+      "## What the promoter response does and does not establish",
+      "BioBioChile’s November 23 account says DG Medios stated that the spectators were eventually allowed into the venue. The report also places the controversy within Sheeran’s weekend concerts in La Florida. Its update establishes a reported entry outcome, but supplies no detailed explanation of the initial decision. [BioBioChile: DG Medios says spectators ultimately entered, November 23](https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/23/camisetas-de-futbol-borago-y-los-prisioneros-los-dias-de-ed-sheeran-en-chile.shtml)",
+      "CNN separately reported that it had contacted DG Medios about the allegations without receiving a response by publication. These accounts describe different reporting exchanges. An answer relayed to one outlet does not mean every journalist received a statement, just as an unanswered enquiry does not prove that no comment existed anywhere. [CNN Brasil: accounts and request for a promoter response, November 24](https://www.cnnbrasil.com.br/internacional/fas-dizem-ter-sido-barrados-por-simbolos-palestinos-em-show-de-ed-sheeran/)",
+      "## Why the distinction matters",
+      "There are several separate questions: whether fans were stopped, whether that happened because of clothing, whether a written rule existed, and who authorised any instruction. The club and fans have raised serious concerns. Those concerns should be attributed accurately while the responsibility and policy questions remain unresolved.",
+      "It would also be misleading to say the incident demonstrates an event-wide ban on football shirts. BioBioChile’s account of the weekend describes Sheeran wearing other football jerseys on stage. That detail does not invalidate the attendees’ experience; it makes a precise explanation of the disputed gate checks more important. [BioBioChile: DG Medios says spectators ultimately entered, November 23](https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/23/camisetas-de-futbol-borago-y-los-prisioneros-los-dias-de-ed-sheeran-en-chile.shtml)",
+      "## Reporting the controversy without inventing intent",
+      "The sourced story is that fans alleged an initial restriction, Palestino demanded answers and the promoter was reported to say admission followed. None of those points establishes a personal instruction from Sheeran. PRESDA is not attributing a political motive to an individual without evidence or treating allegations as a completed investigation.",
+      "For another view of the crossover between sports identity and public appearances, see [PRESDA’s coverage of Kylie Jenner and Timothée Chalamet at a Lakers game](/articles/kylie-jenner-timothee-chalamet-lakers-kiss-november-2026/). Here, however, the central issue is access to a paid concert and the explanation owed for the treatment reported by ticket holders.",
+      "An adequate clarification would identify the rule applied, who communicated it and whether it matched the event’s published conditions. Until that is documented, the strongest account is also the most specific: a disputed entry incident that ended in admission, with important questions about its cause still open."
+    ],
+    "references": [
+      {
+        "name": "Club Deportivo Palestino: official statement, November 22, 2026",
+        "url": "https://palestino.cl/comunicado-oficial-6/"
+      },
+      {
+        "name": "BioBioChile: initial accounts from fans, November 22",
+        "url": "https://www.biobiochile.cl/noticias/sociedad/debate/2026/11/22/fans-de-ed-sheeran-acusan-que-no-los-dejaban-entrar-a-concierto-por-llevar-indumentaria-de-palestino.shtml"
+      },
+      {
+        "name": "BioBioChile: DG Medios says spectators ultimately entered, November 23",
+        "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/23/camisetas-de-futbol-borago-y-los-prisioneros-los-dias-de-ed-sheeran-en-chile.shtml"
+      },
+      {
+        "name": "CNN Brasil: accounts and request for a promoter response, November 24",
+        "url": "https://www.cnnbrasil.com.br/internacional/fas-dizem-ter-sido-barrados-por-simbolos-palestinos-em-show-de-ed-sheeran/"
+      }
+    ],
+    "relatedSlugs": [
+      "kylie-jenner-timothee-chalamet-lakers-kiss-november-2026"
+    ],
+    "faq": [
+      {
+        "question": "Did Ed Sheeran personally ban Palestino shirts?",
+        "answer": "The reviewed sources do not establish a personal instruction from Sheeran."
+      },
+      {
+        "question": "Were the fans permanently excluded?",
+        "answer": "BioBioChile reported that DG Medios said they ultimately entered."
+      },
+      {
+        "question": "What is Palestino?",
+        "answer": "A Chilean football club founded in 1920 by members of the Palestinian community."
+      },
+      {
+        "question": "Has discrimination been legally established?",
+        "answer": "The club alleges discrimination; the cited reports do not establish a judicial finding."
+      }
+    ],
+    "readingTime": "5 min read"
+  },
+  {
+    "id": "580",
+    "slug": "rihanna-asap-rocky-beverly-hills-outing-november-2026",
+    "title": "RIHANNA AND A$AP ROCKY STEP OUT TOGETHER IN BEVERLY HILLS",
+    "seoTitle": "Rihanna and A$AP Rocky spotted together in Beverly Hills",
+    "metaDescription": "A November 23, 2026 Vogue report documents Rihanna and A$AP Rocky arm-in-arm in Beverly Hills, adding a street-style moment to their fashion careers.",
+    "excerpt": "A November 23, 2026 Vogue report documents Rihanna and A$AP Rocky arm-in-arm in Beverly Hills, adding a street-style moment to their fashion careers.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/rihanna-asap-rocky-beverly-hills-outing-november-2026.jpg",
+    "coverAlt": "Supplied portrait of Rihanna in burgundy leather beside A$AP Rocky in a black jacket and grey hood",
+    "headlineHighlights": {
+      "red": "RIHANNA",
+      "gold": "BEVERLY HILLS"
+    },
+    "tags": [
+      "RIHANNA",
+      "Paparazzi"
+    ],
+    "content": [
+      "Rihanna and A$AP Rocky were photographed walking arm-in-arm in Beverly Hills, according to Vogue’s November 23, 2026 report by Hannah Jackson. The published images are credited to ShotbyNYP/BACKGRID USA. The appearance offers a documented public moment, rather than evidence of a new announcement about their relationship. [Vogue: Beverly Hills appearance, November 23, 2026](https://www.vogue.com/article/rihanna-asap-rocky-outfit-formula-2026-11-23)",
+      "The interest in the pair extends beyond a celebrity sighting. Both have built a public identity in which music, fashion and commercial design overlap. Their established work helps explain why an ordinary outing can become a style story, without requiring speculation about a private occasion or an undisclosed project.",
+      "[[FIVE25_580]]",
+      "## What the Beverly Hills report documents",
+      "Vogue describes Rihanna in a pink sweater, white trousers and a green outer layer, while Rocky wore darker layers with a denim coat. Both wore aviator-style eyewear. Those details belong to the outlet’s documented outing, not the separately supplied portrait used as this article’s hero. [Vogue: Beverly Hills appearance, November 23, 2026](https://www.vogue.com/article/rihanna-asap-rocky-outfit-formula-2026-11-23)",
+      "Reading photographs carefully means keeping those two sets of images distinct. A portrait can introduce the people in a story without illustrating the exact reported moment. It cannot independently establish where they were going, whether a meeting was professional, or what they discussed. No such claim is being added here.",
+      "## Rocky’s documented role in fashion",
+      "PUMA announced a long-term creative partnership with A$AP Rocky on October 23, 2023. The company described a motorsport-focused creative-director role connected to its Formula 1 partnership, with bespoke capsules intended to influence future seasonal design. The announcement provides a concrete professional basis for his fashion profile. [PUMA: A$AP Rocky creative partnership, October 23, 2023](https://about.puma.com/en/newsroom/news/puma-names-aap-rocky-creative-director-puma-x-f1-partnership)",
+      "That remit connects a musician’s visual vocabulary with product development. It is different from merely appearing in a campaign: the stated work includes creative direction and collections. The announcement does not, however, supply private contract terms or establish the financial value of every subsequent appearance.",
+      "### Streetwear and sport as design languages",
+      "PUMA positioned the collaboration at the intersection of motorsport and streetwear. In editorial terms, that helps explain the appeal of clothing that mixes practical shapes with distinctive styling. It does not mean the Beverly Hills outing was a PUMA promotion, and there is no basis here to label it an undisclosed advertising shoot. [PUMA: A$AP Rocky creative partnership, October 23, 2023](https://about.puma.com/en/newsroom/news/puma-names-aap-rocky-creative-director-puma-x-f1-partnership)",
+      "## Rihanna’s own product and beauty work",
+      "LVMH’s Fenty Beauty profile identifies Rihanna as founder and describes a brand built around inclusion across skin tones. It records 40 foundation shades at launch. That is a more useful starting point for discussing her business influence than attaching an unsupported fortune estimate to a street photograph. [LVMH: Fenty Beauty’s identity and original shade range](https://www.lvmh.com/en/our-maisons/perfumes-cosmetics/fenty-beauty-by-rihanna/)",
+      "The product question is substantive: who can find a matching shade, and whether a range addresses people previously underserved. LVMH presents that ambition as central to the brand. A corporate description establishes the intended positioning; it is not a substitute for independent evidence about every customer’s experience or current sales. [LVMH: Fenty Beauty’s identity and original shade range](https://www.lvmh.com/en/our-maisons/perfumes-cosmetics/fenty-beauty-by-rihanna/)",
+      "## The Fenty x PUMA connection",
+      "Rihanna’s official website recorded the Fenty x PUMA Avanti launch on September 15, 2023. PUMA’s release described the shoe as a combination of the leather design of its King football boot and the outsole of the Easy Rider running shoe, bringing sporting references into a fashion product. [Rihanna: Fenty x PUMA Avanti launch, September 15, 2023](https://www.rihannanow.com/news/fenty-x-puma-avanti-is-out-now/) [PUMA: the Fenty x PUMA Avanti design and launch](https://about.puma.com/en/newsroom/news/fenty-x-puma-officially-back-rihanna-launches-avanti)",
+      "That history makes the distinction between sporting equipment and lifestyle design especially interesting. A familiar silhouette can move from performance context to everyday dress while retaining recognisable references. It is an example of the design work behind a celebrity label, rather than proof that any item seen in an outing belongs to that label.",
+      "For a broader account of her career, see [PRESDA’s profile of Rihanna’s music and beauty businesses](/articles/rihanna-barbados-music-fenty-beauty-empire/). The new Beverly Hills appearance is a separate news item and does not replace or rewrite that existing coverage.",
+      "## The limits of a public sighting",
+      "The dated report supports a public appearance and a description of visible clothing. It does not announce an engagement, marriage, pregnancy, new release or joint business venture. Keeping the focus on what was actually reported lets readers enjoy the style story without confusing observation with a claim about private life.",
+      "What makes the moment worth placing in context is the pair’s professional relationship with visual culture. Their clothes attract scrutiny because fashion is already part of their work. The Beverly Hills images supply a small, visible episode in that larger story, while the official brand announcements supply the firmer evidence of their creative roles."
+    ],
+    "references": [
+      {
+        "name": "Vogue: Beverly Hills appearance, November 23, 2026",
+        "url": "https://www.vogue.com/article/rihanna-asap-rocky-outfit-formula-2026-11-23"
+      },
+      {
+        "name": "PUMA: A$AP Rocky creative partnership, October 23, 2023",
+        "url": "https://about.puma.com/en/newsroom/news/puma-names-aap-rocky-creative-director-puma-x-f1-partnership"
+      },
+      {
+        "name": "LVMH: Fenty Beauty’s identity and original shade range",
+        "url": "https://www.lvmh.com/en/our-maisons/perfumes-cosmetics/fenty-beauty-by-rihanna/"
+      },
+      {
+        "name": "Rihanna: Fenty x PUMA Avanti launch, September 15, 2023",
+        "url": "https://www.rihannanow.com/news/fenty-x-puma-avanti-is-out-now/"
+      },
+      {
+        "name": "PUMA: the Fenty x PUMA Avanti design and launch",
+        "url": "https://about.puma.com/en/newsroom/news/fenty-x-puma-officially-back-rihanna-launches-avanti"
+      }
+    ],
+    "relatedSlugs": [
+      "rihanna-barbados-music-fenty-beauty-empire"
+    ],
+    "faq": [
+      {
+        "question": "Where were Rihanna and A$AP Rocky seen?",
+        "answer": "Vogue reported an arm-in-arm appearance in Beverly Hills."
+      },
+      {
+        "question": "When was the report published?",
+        "answer": "November 23, 2026."
+      },
+      {
+        "question": "Does this confirm a new relationship announcement?",
+        "answer": "No. The cited story documents a public outing."
+      },
+      {
+        "question": "Is the hero the same photograph as Vogue’s?",
+        "answer": "No. It is the separately supplied portrait and is labelled accordingly."
+      }
+    ],
+    "readingTime": "5 min read"
+  },
+  {
+    "id": "581",
+    "slug": "travis-scott-21-savage-gta-vi-album-deluxe-edition-2026",
+    "title": "TRAVIS SCOTT AND 21 SAVAGE FEATURE ON GTA VI’S DELUXE ALBUM",
+    "seoTitle": "Travis Scott and 21 Savage feature on GTA VI deluxe album",
+    "metaDescription": "GTA VI’s deluxe companion album adds 23 tracks, including Travis Scott’s Burn This Shit Down and 21 Savage’s Cookin. The official tracklist totals 57.",
+    "excerpt": "GTA VI’s deluxe companion album adds 23 tracks, including Travis Scott’s Burn This Shit Down and 21 Savage’s Cookin. The official tracklist totals 57.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/travis-scott-21-savage-gta-vi-album-deluxe-edition-2026.jpg",
+    "coverAlt": "Supplied editorial composite of Travis Scott and 21 Savage in a neon-lit city scene",
+    "headlineHighlights": {
+      "red": "TRAVIS SCOTT",
+      "gold": "GTA VI"
+    },
+    "tags": [
+      "TRAVIS SCOTT",
+      "Paparazzi"
+    ],
+    "content": [
+      "Travis Scott and 21 Savage feature on Grand Theft Auto VI: The Album (Deluxe Edition), released on November 23, 2026. Rockstar’s official music page lists Scott’s Burn This Shit Down and 21 Savage’s Cookin among the additions. This is a confirmed music release, not a rumour about an unannounced deluxe edition of the game. [Rockstar Games: official GTA VI music and deluxe tracklist](https://www.rockstargames.com/VI/music) [Rockstar Games: deluxe album announcement, November 23, 2026](https://www.rockstargames.com/pl/newswire/article/178ok8411a55o5/grand-theft-auto-vi-the-album-deluxe-edition)",
+      "There is an important correction to the idea that both artists have just joined the soundtrack for the first time. Scott already appeared on the original album with RHYNO. The new edition adds another contribution from him, while bringing the expanded companion album to a total of 57 tracks. [Rockstar Games: official GTA VI music and deluxe tracklist](https://www.rockstargames.com/VI/music)",
+      "[[FIVE25_581]]",
+      "## What the deluxe release adds",
+      "Official Charts reports that Atlantic Records and Rockstar Games added 23 new tracks to the original 34. Its published list also includes Slayyyter, the Dare, Anitta, Offset, Denzel Curry and other performers. The result is an expanded listening release with a range of voices, rather than a two-artist collaboration album. [Official Charts: Atlantic and Rockstar announce 23 additional tracks](https://www.officialcharts.com/chart-news/gta-6-deluxe-album-travis-scott-slayyter-overmono-order/)",
+      "The arithmetic matters when describing the scale. Adding 23 tracks to 34 produces 57, an increase of approximately 68 percent in track count. That does not establish the same percentage increase in running time: songs can have different lengths. Nor does it justify calling the album exactly twice as long.",
+      "## Two rap contributions, not a joint single",
+      "The official listing assigns Burn This Shit Down to Travis Scott and Cookin to 21 Savage. They are separate tracks. The presence of both names on an album does not establish a duet, a shared recording session or on-screen roles for the musicians. None of those additional claims is needed to explain the release. [Rockstar Games: official GTA VI music and deluxe tracklist](https://www.rockstargames.com/VI/music)",
+      "Pitchfork’s November 23 report identifies the same songs and notes contributions from Slayyyter and the Dare. It also reports that Overmono supplied five pieces. That widens the story beyond headline names and points to electronic music’s place in the expanded release. [Pitchfork: deluxe release report, November 23, 2026](https://pitchfork.com/story/travis-scott-slayyyter-the-dare-feature-on-deluxe-gta-vi-soundtrack/)",
+      "### Why the Overmono material stands out",
+      "Official Charts describes Overmono’s involvement in work on the game’s score over several years and identifies five contributions in the new tracklist. Their inclusion is a useful reminder that music associated with a game can emerge from different creative processes, including compositions developed for its world rather than conventional standalone singles. [Official Charts: Atlantic and Rockstar announce 23 additional tracks](https://www.officialcharts.com/chart-news/gta-6-deluxe-album-travis-scott-slayyter-overmono-order/)",
+      "## Album, radio and score are different things",
+      "Rockstar’s music page separately presents the companion album, in-game radio and an original-score release by Justice. The score album is advertised for December 11. A listener browsing a streaming album is therefore not necessarily seeing every recording or every piece of adaptive music heard while playing. [Rockstar Games: official GTA VI music and deluxe tracklist](https://www.rockstargames.com/VI/music)",
+      "These categories answer different questions. The album packages selected tracks for listening outside the game. Radio makes music part of a fictional environment. A score supports movement, atmosphere and dramatic action. A song’s appearance in one category should not be used to invent its exact mission placement or availability in another.",
+      "## A release connected to the game’s launch",
+      "Rockstar introduced the original album through its earlier announcement, establishing an official music project rather than a fan-made playlist. Official Charts dates the game’s launch to November 19 and describes a Miami festival over the following weekend. The deluxe album follows that opening period rather than announcing a new game release date. [Rockstar Games: original album announcement](https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19) [Official Charts: Atlantic and Rockstar announce 23 additional tracks](https://www.officialcharts.com/chart-news/gta-6-deluxe-album-travis-scott-slayyter-overmono-order/)",
+      "For the game’s broader launch context, see [PRESDA’s report on Grand Theft Auto VI’s November 19 release](/articles/gta-vi-launch-november-19-2026-13-years/). The album deserves its own coverage because its credits, track count and distribution are distinct from the software and its editions.",
+      "## What listeners should check",
+      "The strongest reference for who appears is Rockstar’s live tracklist, supported by the label-linked listening destinations and dated reporting. Listeners should look for the full album title, the Deluxe Edition designation and the individual track credits. A fan edit or a compilation using game imagery is not the same release.",
+      "The supplied hero is an editorial composite and does not depict an authenticated recording session or official game scene. The verified news remains substantial without that implication: two prominent rappers contribute to an expanded, officially documented album, within a larger musical project that includes several genres and a separately scheduled score."
+    ],
+    "references": [
+      {
+        "name": "Rockstar Games: official GTA VI music and deluxe tracklist",
+        "url": "https://www.rockstargames.com/VI/music"
+      },
+      {
+        "name": "Rockstar Games: deluxe album announcement, November 23, 2026",
+        "url": "https://www.rockstargames.com/pl/newswire/article/178ok8411a55o5/grand-theft-auto-vi-the-album-deluxe-edition"
+      },
+      {
+        "name": "Official Charts: Atlantic and Rockstar announce 23 additional tracks",
+        "url": "https://www.officialcharts.com/chart-news/gta-6-deluxe-album-travis-scott-slayyter-overmono-order/"
+      },
+      {
+        "name": "Pitchfork: deluxe release report, November 23, 2026",
+        "url": "https://pitchfork.com/story/travis-scott-slayyyter-the-dare-feature-on-deluxe-gta-vi-soundtrack/"
+      },
+      {
+        "name": "Rockstar Games: original album announcement",
+        "url": "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19"
+      }
+    ],
+    "relatedSlugs": [
+      "gta-vi-launch-november-19-2026-13-years"
+    ],
+    "faq": [
+      {
+        "question": "Is this an officially confirmed release?",
+        "answer": "Yes. Rockstar lists the deluxe album and its tracks on its official music page."
+      },
+      {
+        "question": "Are Scott and 21 Savage on a joint song?",
+        "answer": "The listed contributions are separate tracks."
+      },
+      {
+        "question": "Was Scott already on the original album?",
+        "answer": "Yes. The original tracklist includes RHYNO."
+      },
+      {
+        "question": "Is the deluxe album the same as the Justice score?",
+        "answer": "No. Rockstar lists the score separately, with a December 11 release."
+      }
+    ],
+    "readingTime": "5 min read"
+  },
+  {
+    "id": "582",
+    "slug": "cristiano-ronaldo-seven-metre-statue-cr7-museum-shanghai-2026",
+    "title": "CRISTIANO RONALDO HONOURED WITH SEVEN-METRE STATUE IN SHANGHAI",
+    "seoTitle": "Cristiano Ronaldo’s seven-metre statue unveiled in Shanghai",
+    "metaDescription": "A seven-metre Ronaldo statue was unveiled on November 21, 2026, alongside the CR7 Museum’s Shanghai opening. The venue connects trophies and immersive displays.",
+    "excerpt": "A seven-metre Ronaldo statue was unveiled on November 21, 2026, alongside the CR7 Museum’s Shanghai opening. The venue connects trophies and immersive displays.",
+    "category": "Sport",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-24",
+    "lastUpdated": "2026-11-24",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/cristiano-ronaldo-seven-metre-statue-cr7-museum-shanghai-2026.jpg",
+    "coverAlt": "Supplied editorial image of a giant Cristiano Ronaldo figure in Portugal kit beside a CR7 Museum Shanghai sign",
+    "headlineHighlights": {
+      "red": "CRISTIANO RONALDO",
+      "gold": "SHANGHAI"
+    },
+    "tags": [
+      "CRISTIANO RONALDO",
+      "Sport"
+    ],
+    "content": [
+      "A seven-metre statue of Cristiano Ronaldo was unveiled in Shanghai on November 21, 2026, alongside the opening of a CR7 Museum venue. City News Service places the sculpture outside the First Department Store on Nanjing Road Pedestrian Street and reports that Ronaldo’s brother, Hugo Dinarte Santos Aveiro, attended the ceremony. [City News Service: Shanghai statue and museum opening, November 21, 2026](https://www.citynewsservice.cn/events/exhibition/worlds-tallest-statue-of-ronaldo-unveiled-in-shanghai-zmza7ak8)",
+      "The installation turns a familiar football celebration into a large public object. Its news value is not a newly won sporting trophy: it is the arrival of a museum experience that carries a player’s career into a different city, using scale, objects and interactive presentation to address a wider audience.",
+      "[[FIVE25_582]]",
+      "## A statue built around the number seven",
+      "The sculpture depicts Ronaldo’s signature SIU celebration. City News Service says its seven-metre height references his No. 7 shirt and coincides with the department store’s 77th anniversary. The report describes it as the tallest Ronaldo-themed sculpture; that description is attributed to the report, not presented as Guinness certification. [City News Service: Shanghai statue and museum opening, November 21, 2026](https://www.citynewsservice.cn/events/exhibition/worlds-tallest-statue-of-ronaldo-unveiled-in-shanghai-zmza7ak8)",
+      "The distinction is useful because size claims and sporting records are different kinds of assertion. A statue’s dimensions can be reported without creating an award that has not been documented. Likewise, the presence of his brother does not establish that Ronaldo personally attended the unveiling.",
+      "## What the Shanghai museum contains",
+      "The venue occupies nearly 3,000 square metres on the third floor of Building C at the department store, according to City News Service. Its account describes ten themed zones and fifteen immersive settings, including recreations of places from Ronaldo’s life and career and an interactive experience inspired by his bicycle kick against Juventus. [City News Service: Shanghai statue and museum opening, November 21, 2026](https://www.citynewsservice.cn/events/exhibition/worlds-tallest-statue-of-ronaldo-unveiled-in-shanghai-zmza7ak8)",
+      "That approach combines two ways of telling sports history. Objects give visitors something materially connected to an athlete; reconstructed settings turn biography into a space to walk through. Each has value, provided a reconstruction remains clearly identified rather than mistaken for a room or object transported intact from the past.",
+      "## The original museum in Madeira",
+      "The Shanghai opening belongs to a museum story rooted in Funchal. Madeira’s official tourism board describes the original CR7 Museum as tracing the career of a footballer born and raised on the island. It highlights more than a hundred individual and team trophies, placing the sporting collection within the geography of his upbringing. [Visit Madeira: official account of the original CR7 Museum](https://www.visitmadeira.com/en/what-to-do/culture-passionates/heritage/museums/cr7-museum/)",
+      "Among the honours named by the tourism board are four European Golden Boots, from 2007/08, 2010/11, 2013/14 and 2014/15, and five Ballons d’Or, from 2008, 2013, 2014, 2016 and 2017. Those dates identify established career milestones, rather than an updated count of every achievement as of this Shanghai opening. [Visit Madeira: official account of the original CR7 Museum](https://www.visitmadeira.com/en/what-to-do/culture-passionates/heritage/museums/cr7-museum/)",
+      "### A collection is more than a trophy count",
+      "For a sports museum, the important editorial question is how objects explain achievement. A boot can connect a season to the physical work of playing; an award can situate recognition within a particular year. A display becomes more informative when it supplies that context rather than asking a number alone to tell the story.",
+      "## Why the Juventus goal is an effective reference",
+      "UEFA’s match report dates Ronaldo’s celebrated overhead kick to April 3, 2018, when Real Madrid won 3-0 away to Juventus in the first leg of their Champions League quarter-final. He scored twice, with the acrobatic second goal prompting applause from home supporters. It was a specific competitive moment before it became a museum reference. [UEFA: Ronaldo’s Juventus bicycle kick, April 3, 2018](https://www.uefa.com/uefachampionsleague/news/0244-0e9cc700ac91-9a60690bf9e1-1000--ronaldo-brilliance-puts-madrid-in-charge-against-juventus/)",
+      "UEFA later recorded the strike winning its Goal of the Season audience vote. That subsequent recognition shows how a single action can gain a second life through replay and public memory. The vote is a documented accolade, distinct from any claim about the size of a sculpture. [UEFA: the bicycle kick wins the 2018 Goal of the Season vote](https://www.uefa.com/uefachampionsleague/news/0252-0cda3893724d-2a7ddeda52e9-1000--cristiano-ronaldo-wins-uefa-com-goal-of-the-season-vote/)",
+      "An interactive exhibit can help a visitor appreciate the difficulty of a movement, but it does not reproduce the original match conditions. The difference between participation and historical evidence should remain visible: a simulation interprets an event, while the match report establishes when it happened and what was at stake.",
+      "## A football identity beyond the pitch",
+      "The Shanghai project joins other ways in which Ronaldo’s public identity reaches audiences beyond live matches. Readers can compare that shift with [PRESDA’s report on Ronaldo and Thierry Henry’s Day 1s television project](/articles/cristiano-ronaldo-thierry-henry-day-1s-paramount-series/). These are different activities, with different collaborators and evidence, rather than one undifferentiated business claim.",
+      "The museum’s location inside a department-store complex also places sports storytelling within an everyday urban destination. As editorial analysis, that can lower the barrier between a dedicated fan attraction and casual curiosity. It does not establish attendance totals, investment value or commercial success, none of which is documented here.",
+      "The confirmed opening and unveiling stand on their own. The seven-metre figure is the most visible element, but the more enduring test is whether the exhibition gives visitors a clear, accurately labelled account of the career behind the celebration."
+    ],
+    "references": [
+      {
+        "name": "City News Service: Shanghai statue and museum opening, November 21, 2026",
+        "url": "https://www.citynewsservice.cn/events/exhibition/worlds-tallest-statue-of-ronaldo-unveiled-in-shanghai-zmza7ak8"
+      },
+      {
+        "name": "Visit Madeira: official account of the original CR7 Museum",
+        "url": "https://www.visitmadeira.com/en/what-to-do/culture-passionates/heritage/museums/cr7-museum/"
+      },
+      {
+        "name": "UEFA: Ronaldo’s Juventus bicycle kick, April 3, 2018",
+        "url": "https://www.uefa.com/uefachampionsleague/news/0244-0e9cc700ac91-9a60690bf9e1-1000--ronaldo-brilliance-puts-madrid-in-charge-against-juventus/"
+      },
+      {
+        "name": "UEFA: the bicycle kick wins the 2018 Goal of the Season vote",
+        "url": "https://www.uefa.com/uefachampionsleague/news/0252-0cda3893724d-2a7ddeda52e9-1000--cristiano-ronaldo-wins-uefa-com-goal-of-the-season-vote/"
+      }
+    ],
+    "relatedSlugs": [
+      "cristiano-ronaldo-thierry-henry-day-1s-paramount-series"
+    ],
+    "faq": [
+      {
+        "question": "How tall is the Shanghai Ronaldo statue?",
+        "answer": "City News Service reports a height of seven metres."
+      },
+      {
+        "question": "When was it unveiled?",
+        "answer": "November 21, 2026, alongside the CR7 Museum’s Shanghai opening."
+      },
+      {
+        "question": "Did Ronaldo personally attend?",
+        "answer": "The cited report identifies his brother at the ceremony; it does not establish Ronaldo’s attendance."
+      },
+      {
+        "question": "Is the statue a verified Guinness record?",
+        "answer": "No Guinness certification is established in the sources cited here."
+      }
+    ],
+    "readingTime": "5 min read"
+  },
+  {
     "id": "574",
     "slug": "france-350-million-corac-civil-aviation-research-2026",
     "title": "FRANCE ANNOUNCES €350 MILLION FOR CIVIL AVIATION RESEARCH",
