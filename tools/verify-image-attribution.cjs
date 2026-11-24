@@ -1,12 +1,15 @@
 const assert = require('node:assert/strict');
 require('./register-typescript.cjs');
 const { publishedTranslations } = require('../src/lib/i18n/registry.ts');
+const { getPublishedArticles } = require('../src/data/articles.ts');
+const { articleImageUrl } = require('../src/lib/articleImageSeo.ts');
+const { articleSocialImage } = require('../src/lib/articleSocialImage.ts');
 const manifest = require('../src/lib/image-manifest.generated.json');
 const { defaultOgImage } = require('../src/lib/seo.ts');
 const brandImages = new Set([defaultOgImage, '/presda-p-transparent.png', ...(manifest['/presda-p-transparent.png'] ?? []).map(v=>v[1])]);
 const base = process.env.BASE_URL || 'http://localhost:3100';
 const baseline = process.env.IMAGE_BASELINE === '1';
-const slugs = ['mike-tyson-netflix-documentary-release-date-2026', 'lionel-messi-last-dance-argentina-farewell', 'uzbekistan-wins-2026-chess-olympiad-samarkand', 'phoenicians-history-sailors-alphabet-tyrian-purple'];
+const slugs = ['world-most-expensive-watches-2026', 'world-most-expensive-paintings-ever-sold', 'human-brain-most-complex-organ', 'peter-margaret-dolphin-experiment', 'animal-testing-hidden-cost-scientific-progress', 'songhai-empire-gao-askia-tondibi-1591', 'uzbekistan-wins-2026-chess-olympiad-samarkand', 'phoenicians-history-sailors-alphabet-tyrian-purple'];
 const get = async path => { const r = await fetch(base + path, { redirect: 'manual' }); assert.equal(r.status, 200, path); return r.text(); };
 const scripts = html => [...html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)].flatMap(m => {const j=JSON.parse(m[1]);return Array.isArray(j)?j:[j];});
 async function main() {
@@ -15,6 +18,8 @@ async function main() {
   assert.match(robots, /Allow: \//); assert.ok(!/Disallow: \/(?:$|image-assets|articles)/m.test(robots));
   const results = [];
   for (const slug of slugs) {
+    const source = getPublishedArticles().find(a=>a.slug===slug);
+    assert.ok(source, `Published verification article: ${slug}`);
     const en = `/articles/${slug}/`;
     const paths = [en, ...publishedTranslations.filter(r => r.englishPath === en).map(r => r.path)];
     for (const path of paths) {
@@ -31,14 +36,15 @@ async function main() {
       const entry = sitemap.split('<url>').find(e => e.includes(`<loc>${canonical}</loc>`)); assert.ok(entry);
       const image = article.image;
       if (!baseline) {
-        assert.equal(og, 'https://presda.com' + src); assert.equal(tw, og);
-        assert.equal(image['@type'], 'ImageObject'); assert.equal(image.contentUrl, og); assert.equal(image.url, og);
+        assert.equal(og, articleSocialImage(source.coverImage, source.coverAlt).url); assert.equal(tw, og);
+        assert.equal(image['@type'], 'ImageObject'); assert.equal(image.contentUrl, articleImageUrl(source.coverImage)); assert.equal(image.url, image.contentUrl);
         assert.equal(image.mainEntityOfPage, canonical); assert.equal(image.representativeOfPage, true);
         assert.equal(article.mainEntityOfPage['@id'], canonical);
         assert.equal(article.mainEntityOfPage.primaryImageOfPage['@id'], image['@id']);
-        assert.ok(entry.includes(`<image:loc>${og}</image:loc>`));
+        assert.ok(entry.includes(`<image:loc>${image.contentUrl}</image:loc>`));
+        assert.ok(entry.includes(`<image:loc>https://presda.com${src}</image:loc>`));
       }
-      for (const imageUrl of new Set([og, new URL(src, base).href])) {
+      for (const imageUrl of new Set([og, image.contentUrl, new URL(src, base).href])) {
         const ir = await fetch(imageUrl.replace('https://presda.com', base), {method:'HEAD'});
         assert.equal(ir.status, 200); assert.ok(ir.headers.get('content-type')?.startsWith('image/')); assert.ok(!ir.headers.get('x-robots-tag')?.includes('noindex'));
       }
