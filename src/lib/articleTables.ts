@@ -8,6 +8,166 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[NEWS26_594]]": {
+    "caption": "Barreleye facts from MBARI and Monterey Bay Aquarium; observation counts belong to MBARI, not the world population",
+    "headers": [
+      "Feature",
+      "Verified detail"
+    ],
+    "rows": [
+      [
+        "Species",
+        "Macropinna microstoma"
+      ],
+      [
+        "Size",
+        "Up to about 15 cm (6 inches)"
+      ],
+      [
+        "Depth",
+        "MBARI profile: 460–800 m"
+      ],
+      [
+        "Range",
+        "North Pacific, from the Bering Sea to Japan and Baja California"
+      ],
+      [
+        "Recent observation",
+        "MBARI reported its 11th encounter on October 28, 2026"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NEWS26_595]]": {
+    "caption": "The Turin honor and separate milestones, with ceremony years distinguished from film-release years",
+    "headers": [
+      "Milestone",
+      "Verified context"
+    ],
+    "rows": [
+      [
+        "November 24, 2026",
+        "Stella della Mole at the opening of the 44th Torino Film Festival"
+      ],
+      [
+        "November 24–December 2, 2026",
+        "Festival dates announced by the National Cinema Museum"
+      ],
+      [
+        "May 15, 2026",
+        "Separate honorary Palme d’Or at Cannes"
+      ],
+      [
+        "May 29, 2026",
+        "Apple TV release of Propeller One-Way Night Coach"
+      ],
+      [
+        "1978 and 1995",
+        "Oscar nominations for Saturday Night Fever and Pulp Fiction"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NEWS26_596]]": {
+    "caption": "Approximate environmental reconstruction and reported research counts; none is a census of living hippos",
+    "headers": [
+      "Evidence",
+      "What the study reports"
+    ],
+    "rows": [
+      [
+        "Setting",
+        "Uruq Aljelibah on the former Mundafan lakeshore, southern Saudi Arabia"
+      ],
+      [
+        "Age",
+        "Approximately 125,000 years; not an exact calendar date"
+      ],
+      [
+        "Reconstructed lake",
+        "About 340 km², maximum depth about 29 m"
+      ],
+      [
+        "Fossil record",
+        "More than 500 plant and animal fossils across over 130 locations"
+      ],
+      [
+        "Stone assemblage",
+        "5,511 artifacts larger than 2 cm in the primary study area"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NEWS26_597]]": {
+    "caption": "The latest reported schedule takes precedence over the original promotional announcement",
+    "headers": [
+      "Question",
+      "Verified position"
+    ],
+    "rows": [
+      [
+        "Edition",
+        "100th parade in 2026, not the event’s 100th anniversary"
+      ],
+      [
+        "Original date",
+        "Thursday, November 26, 2026"
+      ],
+      [
+        "Revised date",
+        "Saturday, November 28, 2026, according to Macy’s statement reported by NBC"
+      ],
+      [
+        "Reported start",
+        "8:30 a.m.; operational details were still being finalized"
+      ],
+      [
+        "Original production plan",
+        "100 inflatables and more than 11,000 volunteers and participants"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[NEWS26_598]]": {
+    "caption": "Confirmed company plans and the limits of what has been announced",
+    "headers": [
+      "Issue",
+      "Current verified position"
+    ],
+    "rows": [
+      [
+        "Europe target",
+        "2027, stated on Xiaomi Auto’s official global site"
+      ],
+      [
+        "Germany timing",
+        "Second half of 2027, reported by Reuters on November 24, 2026"
+      ],
+      [
+        "Current sales status",
+        "Official site says SU7 and SU7 Ultra are not for sale outside China"
+      ],
+      [
+        "Distribution",
+        "Eight preliminary German dealer MoUs reported in September 2026"
+      ],
+      [
+        "European customer offer",
+        "Local models, prices and delivery terms must be announced separately"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[LUXURY25_589]]": {
     "caption": "Selected pet-kitten prices, ascending toward #1; asking prices and estimates, not sale records",
     "headers": [

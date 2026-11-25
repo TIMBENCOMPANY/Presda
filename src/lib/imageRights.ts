@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/barreleye-fish-transparent-head-rotating-eyes.jpg","/articles/john-travolta-stella-della-mole-torino-film-festival-2026.jpg","/articles/hippos-saudi-arabia-mundafan-lake-125000-years.jpg","/articles/macys-100th-thanksgiving-day-parade-2026.jpg","/articles/xiaomi-europe-electric-car-market-2027.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/most-expensive-cat-breeds-prices.jpg","/articles/most-expensive-books-sale-records.jpg","/articles/most-expensive-cars-auction-records.jpg","/articles/most-expensive-horses-auction-records.jpg","/articles/most-expensive-fruits-prices-records.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/lucy-fossil-discovery-1974-human-evolution.jpg","/articles/ataturk-surname-law-24-november-1934.jpg","/articles/carlo-collodi-200-birthday-pinocchio-1826-2026.jpg","/articles/mediamarkt-first-store-1979-electronics-retail-history.jpg","/articles/fourth-crusade-siege-zara-zadar-1202.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/cas-morocco-senegal-afcon-2025-verdict.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

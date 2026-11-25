@@ -1,0 +1,230 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/barreleye-fish-transparent-head-rotating-eyes/",
+  "path": "/fr/articles/barreleye-fish-transparent-head-rotating-eyes/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-25",
+    "terminologyChecked": true
+  },
+  "title": "LE BARRELEYE : LE POISSON À LA TÊTE TRANSPARENTE",
+  "seoTitle": "Barreleye : les secrets de sa tête transparente et de ses yeux",
+  "seoTitleAbsolute": true,
+  "description": "Découvrez Macropinna microstoma : une protection transparente, des yeux mobiles et une chasse adaptée aux profondeurs, selon les recherches du MBARI.",
+  "excerpt": "Découvrez Macropinna microstoma : une protection transparente, des yeux mobiles et une chasse adaptée aux profondeurs, selon les recherches du MBARI.",
+  "headlineHighlights": {
+    "red": "LE BARRELEYE",
+    "gold": "TÊTE TRANSPARENTE"
+  },
+  "keywords": [
+    "LE BARRELEYE",
+    "TÊTE TRANSPARENTE"
+  ],
+  "searchIntent": "Découvrez Macropinna microstoma : une protection transparente, des yeux mobiles et une chasse adaptée aux profondeurs, selon les recherches du MBARI.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "image": {
+    "src": "/articles/barreleye-fish-transparent-head-rotating-eyes.jpg",
+    "alt": "Illustration fournie d’un barreleye aux yeux verts sous une protection transparente",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le barreleye, Macropinna microstoma, regarde à travers la protection transparente de sa tête. Ses yeux tubulaires coiffés de vert passent d’une orientation vers le haut à une orientation vers l’avant, permettant de suivre une proie jusqu’à la bouche. Cette anatomie existe réellement, mais une illustration virale ne remplace pas les images de recherche. [Source · www.mbari.org](https://www.mbari.org/animal/barreleye-fish/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un communiqué du MBARI du 28 octobre 2026 l’a remis en lumière après une rencontre au large de la Californie centrale, filmée en 4K. Cette observation enrichit une histoire scientifique bien plus ancienne. Pour comprendre les images, il faut distinguer anatomie, interprétations et limites d’une rencontre ponctuelle. [Source · www.mbari.org](https://www.mbari.org/news/mbari-researchers-film-rarely-seen-deep-sea-barreleye-fish-in-4k/)"
+    },
+    {
+      "type": "heading",
+      "text": "Les repères essentiels"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fiche actuelle du MBARI donne la plage de profondeur la plus large ci-dessous. L’aquarium de Monterey décrit les observations habituelles de Californie centrale entre 600 et 800 mètres. Il s’agit de niveaux de précision différents sur l’habitat, pas de mesures contradictoires d’un seul individu. [Source · www.mbari.org](https://www.mbari.org/animal/barreleye-fish/) [Source · www.montereybayaquarium.org](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NEWS26_594]]",
+      "caption": "Données du MBARI et de l’aquarium de Monterey ; les observations ne constituent pas un recensement mondial",
+      "headings": [
+        "Caractéristique",
+        "Donnée vérifiée"
+      ],
+      "rows": [
+        [
+          "Espèce",
+          "Macropinna microstoma"
+        ],
+        [
+          "Taille",
+          "Environ 15 cm au maximum"
+        ],
+        [
+          "Profondeur",
+          "Fiche MBARI : 460 à 800 m"
+        ],
+        [
+          "Répartition",
+          "Pacifique Nord, de la mer de Béring au Japon et à la Basse-Californie"
+        ],
+        [
+          "Observation récente",
+          "Le MBARI annonce sa 11e rencontre le 28 octobre 2026"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Quelle partie est vraiment transparente ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dôme est une protection délicate remplie de liquide autour du haut de la tête et des yeux. Parler de crâne transparent peut induire en erreur : le poisson ne nage pas avec un cerveau découvert. Le tissu clair appartient à une structure vivante qui laisse passer la lumière ; le corps reste opaque. [Source · www.mbari.org](https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les deux taches sombres au-dessus de la bouche ressemblent facilement à des yeux. Le MBARI les identifie comme des narines, organes olfactifs. Les structures vertes dans le dôme sont les bons repères visuels. Cette distinction permet de lire les vraies vues de face et de profil sans se fier uniquement à une image stylisée. [Source · www.mbari.org](https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi les spécimens anciens cachent parfois le dôme"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une structure fragile peut disparaître lors du prélèvement. En 2009, le MBARI expliquait que les anciennes descriptions omettaient souvent la protection, probablement endommagée par les filets. Un spécimen conserve des informations utiles sur le corps tout en perdant son aspect vivant complet. Une illustration réalisée d’après lui peut donc être incomplète sans être mensongère. [Source · www.mbari.org](https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment les yeux répondent au manque de lumière"
+    },
+    {
+      "type": "paragraph",
+      "text": "La zone mésopélagique, dite crépusculaire, se situe approximativement entre 200 et 1 000 mètres. La NOAA souligne la forte diminution de la lumière. Regarder vers le haut peut révéler une silhouette sur le faible éclairage descendant ; regarder à l’horizontale donne une autre scène. La posture du poisson répond à cette lumière inégale. [Source · oceanexplorer.noaa.gov](https://oceanexplorer.noaa.gov/ocean-fact/light-distributed/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les yeux tubulaires captent efficacement la lumière mais offrent un champ restreint. Comment suivre une proie située au-dessus jusqu’à une bouche tournée vers l’avant ? Bruce Robison et Kim Reisenbichler ont combiné des observations par robot avec celles d’un individu vivant à bord d’un navire. Ils ont montré que les yeux étaient mobiles. [Source · www.mbari.org](https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La coloration verte ajoute une question optique. Le MBARI décrit un filtrage de la lumière qui contribue à repérer des organismes, notamment bioluminescents. Il s’agit d’une adaptation à un éclairage sous-marin particulier, pas d’une vision nocturne magique. Les couleurs visibles sur une vidéo dépendent aussi des lampes du robot. [Source · www.mbari.org](https://www.mbari.org/animal/barreleye-fish/)"
+    },
+    {
+      "type": "heading",
+      "text": "Une stratégie alimentaire à expliquer avec prudence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les grandes nageoires plates stabilisent le poisson et permettent des mouvements précis. Il mange du zooplancton, dont de petits crustacés et des organismes gélatineux. L’aquarium de Monterey évoque la possibilité de prélever des crustacés retenus dans les tentacules des siphonophores, animaux coloniaux et non végétaux. [Source · www.montereybayaquarium.org](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fiche du MBARI présente la protection contre ces tentacules urticants comme une interprétation scientifique. Le dôme pourrait préserver les yeux pendant la prise de nourriture. Cette explication ne prouve ni que chaque étape a été filmée à répétition ni une immunité à toutes les piqûres. Observation et hypothèse répondent à des questions différentes. [Source · www.mbari.org](https://www.mbari.org/animal/barreleye-fish/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce qu’apporte la rencontre de 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le communiqué d’octobre situe la rencontre pendant l’expédition Diving Deep for Delicate Drifters du navire David Packard. Le robot Doc Ricketts travaillait à environ 90 kilomètres de la côte lorsque la spécialiste Shannon Johnson a repéré le poisson vers 600 mètres, pendant la remontée du véhicule, selon le MBARI. [Source · www.mbari.org](https://www.mbari.org/news/mbari-researchers-film-rarely-seen-deep-sea-barreleye-fish-in-4k/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’équipe l’a observé une vingtaine de minutes en faisant varier l’éclairage. La 4K ne transforme pas une espèce connue en découverte nouvelle ; elle rend certains détails et mouvements plus faciles à étudier et à comparer. Les lecteurs peuvent consulter la [véritable vidéo de l’institut](https://www.youtube.com/watch?v=nyldZ7BB_cE) plutôt que prendre une illustration pour une preuve documentaire. [Source · www.mbari.org](https://www.mbari.org/news/mbari-researchers-film-rarely-seen-deep-sea-barreleye-fish-in-4k/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Onze rencontres ne mesurent pas la population mondiale"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le MBARI parle de sa onzième observation, pas de toutes les rencontres mondiales. Une fiche plus ancienne de l’aquarium en mentionne neuf en 2022 : reprendre ce chiffre comme total actuel serait trompeur. Un faible nombre d’observations ne suffit pas non plus à établir le risque d’extinction sans connaître l’effort de recherche, la distribution et la détectabilité. [Source · www.mbari.org](https://www.mbari.org/news/mbari-researchers-film-rarely-seen-deep-sea-barreleye-fish-in-4k/) [Source · www.montereybayaquarium.org](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye)"
+    },
+    {
+      "type": "heading",
+      "text": "Un animal de pleine eau observé par un laboratoire mobile"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le MBARI situe l’habitat en pleine eau. Le barreleye n’est donc pas décrit comme un poisson de récif posé entre des coraux. Profondeur sous la surface et hauteur au-dessus du fond sont deux mesures différentes. Un robot peut descendre à plusieurs centaines de mètres tout en restant dans la colonne d’eau. Nageoires stabilisatrices, posture suspendue et regard vers le haut prennent sens dans cet espace à trois dimensions. [Source · www.mbari.org](https://www.mbari.org/animal/barreleye-fish/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vidéo officielle de 2026 replace la rencontre dans près de quatre décennies d’exploration : environ 7 000 plongées de robots et plus de 41 000 heures de vidéo. Mais ces totaux concernent l’ensemble du programme, pas une recherche systématique du barreleye. Chaque plongée ne vise ni le même habitat ni la même durée. On ne peut donc en tirer directement un taux de rencontre. [Source · www.youtube.com](https://www.youtube.com/watch?v=nyldZ7BB_cE)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La patience de l’observation complète les autres méthodes. Une caméra montre posture et changements de direction ; un spécimen renseigne sur ce que l’image ne révèle pas. Leur combinaison vaut mieux qu’une image spectaculaire censée établir à la fois anatomie, comportement, distribution et conservation. La nouvelle vidéo enrichit un savoir cumulatif sans tout résoudre."
+    },
+    {
+      "type": "heading",
+      "text": "Les inconnues et la lecture des images"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’aquarium souligne que la reproduction reste mal connue et présente la ponte pélagique comme une hypothèse, pas comme un cycle entièrement observé. L’image d’un adulte renseigne peu sur les larves ou leur survie. Elle ne permet pas non plus d’affirmer que le poisson n’a aucun prédateur, ne bouge jamais ou vient d’être découvert. [Source · www.montereybayaquarium.org](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une bonne légende distingue ce que l’on voit de la provenance de la preuve. L’image fournie reste ici une illustration éditoriale. Les images du MBARI constituent la référence documentaire pour la protection transparente et les yeux mobiles. Cette séparation protège le lecteur : une reconstruction peut présenter le sujet sans inventer de faits anatomiques."
+    },
+    {
+      "type": "paragraph",
+      "text": "La biologie marine avance grâce à des preuves complémentaires : spécimen ancien, rencontre brève, caméra nouvelle. Aucune ne suffit seule. Pour poursuivre sur observation et reconstruction, découvrez les [recherches sur les fossiles d’orques](/articles/orca-fossils-large-prey-hunting-two-million-years/) et notre [guide de l’ADN partagé](/articles/how-much-dna-humans-share-other-species/), autre rappel de l’importance des définitions précises."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · www.mbari.org",
+      "url": "https://www.mbari.org/animal/barreleye-fish/"
+    },
+    {
+      "label": "Source · www.mbari.org",
+      "url": "https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/"
+    },
+    {
+      "label": "Source · www.mbari.org",
+      "url": "https://www.mbari.org/news/mbari-researchers-film-rarely-seen-deep-sea-barreleye-fish-in-4k/"
+    },
+    {
+      "label": "Source · www.montereybayaquarium.org",
+      "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye"
+    },
+    {
+      "label": "Source · oceanexplorer.noaa.gov",
+      "url": "https://oceanexplorer.noaa.gov/ocean-fact/light-distributed/"
+    },
+    {
+      "label": "Source · www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=nyldZ7BB_cE"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Tout son crâne est-il transparent ?",
+      "answer": "La structure claire est une protection remplie de liquide autour des yeux. Il ne s’agit ni d’un cerveau exposé ni d’un crâne osseux entièrement transparent."
+    },
+    {
+      "question": "Les marques sombres au-dessus de la bouche sont-elles ses yeux ?",
+      "answer": "Non. Ce sont des organes olfactifs, les narines. Les structures vertes visibles dans le dôme appartiennent aux yeux tubulaires."
+    },
+    {
+      "question": "A-t-il été découvert en 2026 ?",
+      "answer": "Non. Macropinna microstoma a été décrit en 1939. L’annonce de 2026 concerne une nouvelle observation et des images haute définition."
+    },
+    {
+      "question": "Onze observations signifient-elles onze poissons au monde ?",
+      "answer": "Non. Il s’agit du nombre d’observations du MBARI dans son communiqué d’octobre 2026, pas d’un recensement de l’espèce."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

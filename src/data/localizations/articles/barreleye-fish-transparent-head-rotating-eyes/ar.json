@@ -1,0 +1,230 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/barreleye-fish-transparent-head-rotating-eyes/",
+  "path": "/ar/articles/barreleye-fish-transparent-head-rotating-eyes/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-25",
+    "terminologyChecked": true
+  },
+  "title": "سمكة عين البرميل: كيف ترى عبر رأسها الشفاف؟",
+  "seoTitle": "سمكة عين البرميل: أسرار الرأس الشفاف والعينين المتحركتين",
+  "seoTitleAbsolute": true,
+  "description": "تعرف إلى ماكروبينا ميكروستوما، السمكة ذات الدرع الشفاف والعينين المتحركتين، وما تكشفه أبحاث معهد MBARI عن حياتها في الأعماق.",
+  "excerpt": "تعرف إلى ماكروبينا ميكروستوما، السمكة ذات الدرع الشفاف والعينين المتحركتين، وما تكشفه أبحاث معهد MBARI عن حياتها في الأعماق.",
+  "headlineHighlights": {
+    "red": "سمكة عين البرميل",
+    "gold": "رأسها الشفاف"
+  },
+  "keywords": [
+    "سمكة عين البرميل",
+    "رأسها الشفاف"
+  ],
+  "searchIntent": "تعرف إلى ماكروبينا ميكروستوما، السمكة ذات الدرع الشفاف والعينين المتحركتين، وما تكشفه أبحاث معهد MBARI عن حياتها في الأعماق.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "image": {
+    "src": "/articles/barreleye-fish-transparent-head-rotating-eyes.jpg",
+    "alt": "رسم توضيحي مقدم لسمكة عين البرميل بعينين خضراوين تحت قبة شفافة",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "ترى سمكة عين البرميل، Macropinna microstoma، عبر الدرع الشفاف الذي يغطي رأسها. وتدور عيناها الأنبوبيتان ذواتا القمتين الخضراوين من الأعلى نحو الأمام، لتتابع الغذاء حتى يصل إلى الفم. إنها بيولوجيا حقيقية، لكن الرسم المنتشر لا يعوض التسجيلات البحثية. [المصدر · www.mbari.org](https://www.mbari.org/animal/barreleye-fish/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "أعاد تقرير MBARI المنشور في 28 أكتوبر 2026 الاهتمام بالسمكة بعد لقاء قبالة وسط كاليفورنيا صور بكاميرا 4K. وتضيف المشاهدة تفاصيل إلى قصة علمية أقدم بكثير. وفهم الصور يتطلب الفصل بين التشريح وتفسير الباحثين وحدود اللقاء العابر تحت الماء. [المصدر · www.mbari.org](https://www.mbari.org/news/mbari-researchers-film-rarely-seen-deep-sea-barreleye-fish-in-4k/)"
+    },
+    {
+      "type": "heading",
+      "text": "الحقائق الأساسية"
+    },
+    {
+      "type": "paragraph",
+      "text": "تقدم بطاقة MBARI الحالية نطاق العمق الأوسع أدناه، بينما يصف أكواريوم مونتيري المشاهدات المألوفة قبالة وسط كاليفورنيا عند 600 إلى 800 متر. إنها معلومات عن الموئل بمستويات مختلفة من الدقة، وليست قياسات متناقضة لسمكة واحدة. [المصدر · www.mbari.org](https://www.mbari.org/animal/barreleye-fish/) [المصدر · www.montereybayaquarium.org](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[NEWS26_594]]",
+      "caption": "حقائق من MBARI وأكواريوم خليج مونتيري؛ عدد المشاهدات لا يمثل تعداد السمك عالميا",
+      "headings": [
+        "الخاصية",
+        "المعلومة الموثقة"
+      ],
+      "rows": [
+        [
+          "النوع",
+          "Macropinna microstoma"
+        ],
+        [
+          "الحجم",
+          "حتى نحو 15 سنتيمترا"
+        ],
+        [
+          "العمق",
+          "بطاقة MBARI: من 460 إلى 800 متر"
+        ],
+        [
+          "الانتشار",
+          "شمال المحيط الهادئ من بحر بيرينغ إلى اليابان وباخا كاليفورنيا"
+        ],
+        [
+          "مشاهدة حديثة",
+          "أعلن MBARI لقاءه الحادي عشر في 28 أكتوبر 2026"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "ما الجزء الشفاف فعلا؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "القبة درع رقيق مملوء بالسائل يحيط بالجزء العلوي من الرأس والعينين. وقد توحي عبارة الجمجمة الشفافة بصورة خاطئة؛ فالسمكة لا تسبح بدماغ مكشوف. النسيج الشفاف جزء من بنية حية تسمح بوصول الضوء إلى العينين، بينما يبقى الجسم معتما. [المصدر · www.mbari.org](https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "يسهل الخلط بين البقعتين الداكنتين فوق الفم والعينين، لكن MBARI يعرفهما بأنهما عضوان للشّم. أما البنيتان الخضراوان داخل القبة فهما العلامتان المرتبطتان بالرؤية. يساعد هذا التمييز على فهم المنظر الحقيقي الأمامي والجانبي بدلا من الاكتفاء بصورة فنية. [المصدر · www.mbari.org](https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/)"
+    },
+    {
+      "type": "subheading",
+      "text": "لماذا قد تغيب القبة عن عينة قديمة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تتلف البنية الرقيقة أثناء الجمع. وأوضح MBARI عام 2009 أن الأوصاف القديمة كانت تغفل الدرع غالبا، ربما بسبب تلفه في الشباك أثناء الرفع. لذلك قد تحفظ العينة معلومات مفيدة عن العظام أو قياسات الجسم دون مظهر الحيوان الحي الكامل. وقد يكون الرسم المبني عليها ناقصا من دون أن يكون مزورا. [المصدر · www.mbari.org](https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف تحل العينان مشكلة الضوء في الأعماق؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تمتد المنطقة متوسطة العمق أو الشفقية تقريبا بين 200 و1000 متر. وتوضح NOAA أن الضوء يصبح محدودا للغاية فيها. قد يكشف النظر إلى الأعلى ظلا أمام الضوء الضعيف النازل، بينما يقدم الاتجاه الأفقي مشهدا مختلفا. لذلك تتناسب وضعية السمكة مع إضاءة غير متساوية، لا مع غرفة سوداء متماثلة في كل اتجاه. [المصدر · oceanexplorer.noaa.gov](https://oceanexplorer.noaa.gov/ocean-fact/light-distributed/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تجمع العينان الأنبوبيتان الضوء بكفاءة لكن مجالهما ضيق. واجه الباحثون سؤالا عمليا: كيف تراقب السمكة الغذاء فوق الرأس ثم تتابعه عند فم يتجه للأمام؟ جمع بروس روبسون وكيم رايزنبيخلر بين مشاهدات الروبوت وعينة حية على السفينة، وأثبتا أن العينين تتحركان ولا تبقيان مثبتتين إلى الأعلى. [المصدر · www.mbari.org](https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "يضيف اللون الأخضر مسألة بصرية أخرى. يصف MBARI ترشيح الضوء بوصفه جزءا من تفسير اكتشاف الغذاء، بما فيه الكائنات المضيئة حيويا. والأدق اعتباره تكيفا مع بيئة ضوئية محددة، لا رؤية ليلية خارقة. كما يتأثر اللون الظاهر بإضاءة الروبوت المستخدم في التصوير. [المصدر · www.mbari.org](https://www.mbari.org/animal/barreleye-fish/)"
+    },
+    {
+      "type": "heading",
+      "text": "استراتيجية غذائية تستدعي التحفظ"
+    },
+    {
+      "type": "paragraph",
+      "text": "تساعد الزعانف الكبيرة المسطحة السمكة على الثبات والمناورة الدقيقة. ويشمل غذاؤها العوالق الحيوانية مثل القشريات الصغيرة والكائنات الهلامية. ويذكر أكواريوم مونتيري احتمال أخذ قشريات علقت بلوامس السيفونوفورات، وهي حيوانات استعمارية وليست نباتات بحرية. [المصدر · www.montereybayaquarium.org](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تطرح بطاقة MBARI حماية العينين من اللوامس اللاسعة كتفسير علمي. فقد يقيهما الدرع أثناء الحصول على الغذاء قربها. لكن ذلك لا يثبت تصوير كل مرحلة مرارا أو حصانة السمكة من كل لسعة. فالمشاهدة المباشرة والفرضية تجيبان عن أسئلة مختلفة. [المصدر · www.mbari.org](https://www.mbari.org/animal/barreleye-fish/)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي أضافه لقاء 2026؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يضع تقرير أكتوبر اللقاء ضمن بعثة Diving Deep for Delicate Drifters على سفينة ديفيد باكارد. كان الروبوت دوك ريكيتس يعمل على بعد نحو 90 كيلومترا من الساحل حين رصدت الباحثة شانون جونسون السمكة عند نحو 600 متر أثناء عودته إلى السطح، وفق رواية المعهد. [المصدر · www.mbari.org](https://www.mbari.org/news/mbari-researchers-film-rarely-seen-deep-sea-barreleye-fish-in-4k/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "راقب الفريق السمكة نحو عشرين دقيقة وغير الإضاءة لفحص الدرع. لا تحول تقنية 4K نوعا قديما إلى اكتشاف جديد، لكنها تسهل فحص التفاصيل والحركات ومقارنتها بتسجيلات سابقة. ويمكن مشاهدة [فيديو المعهد الحقيقي](https://www.youtube.com/watch?v=nyldZ7BB_cE) بدلا من اعتبار الرسم دليلا توثيقيا. [المصدر · www.mbari.org](https://www.mbari.org/news/mbari-researchers-film-rarely-seen-deep-sea-barreleye-fish-in-4k/)"
+    },
+    {
+      "type": "subheading",
+      "text": "إحدى عشرة مشاهدة ليست تعدادا عالميا"
+    },
+    {
+      "type": "paragraph",
+      "text": "وصف MBARI اللقاء بأنه مشاهدته الحادية عشرة للنوع، لا مجموع المشاهدات عالميا. وتذكر مادة أقدم للأكواريوم تسع مشاهدات حتى 2022؛ لذا لا يصح تقديم رقمها على أنه الأحدث. كما لا يحدد قلة الرصد وحدها خطر الانقراض دون معرفة جهد المسح والانتشار واحتمال اكتشاف السمكة. [المصدر · www.mbari.org](https://www.mbari.org/news/mbari-researchers-film-rarely-seen-deep-sea-barreleye-fish-in-4k/) [المصدر · www.montereybayaquarium.org](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye)"
+    },
+    {
+      "type": "heading",
+      "text": "حيوان في عمود الماء يدرسه مرصد متحرك"
+    },
+    {
+      "type": "paragraph",
+      "text": "يصنف MBARI الموئل ضمن عمود الماء. فالسمكة ليست هنا سمكة شعاب تستقر بين المرجان. ويختلف العمق تحت السطح عن الارتفاع فوق القاع؛ فقد يعمل الروبوت على عمق مئات الأمتار وهو ما زال معلقا في الماء. وتفهم الزعانف المثبتة والوضعية المعلقة والنظر إلى الأعلى في هذا الفضاء الثلاثي الأبعاد. [المصدر · www.mbari.org](https://www.mbari.org/animal/barreleye-fish/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تضع فيديوهات المعهد لعام 2026 اللقاء ضمن قرابة أربعة عقود من العمل: نحو 7000 غوصة روبوتية وأكثر من 41 ألف ساعة فيديو. لكنها أرقام البرنامج كله، وليست بحثا منتظما عن هذه السمكة. ولا تستهدف كل غوصة الموئل نفسه أو تستغرق المدة نفسها، لذلك لا ينتج منها معدل رصد مباشر للنوع. [المصدر · www.youtube.com](https://www.youtube.com/watch?v=nyldZ7BB_cE)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تكمل المراقبة الصبورة وسائل البحث الأخرى؛ فالكاميرا تظهر الوضعية وتغير الاتجاه، والعينة تجيب عن أسئلة لا تكشفها الصورة. والجمع بينهما أقوى من مطالبة لقطة واحدة بإثبات التشريح والسلوك والانتشار والحفظ معا. تضيف التسجيلات إلى معرفة تراكمية ولا تحسمها وحدها."
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي لا نعرفه وكيف نقرأ الصور؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يشير الأكواريوم إلى أن التكاثر ما زال غير مفهوم جيدا، ويعرض طرح البيوض في الماء كتوقع علمي لا دورة حياة موثقة بالكامل. ولا تخبرنا صورة البالغ وحدها بالكثير عن اليرقات أو بقائها. كما لا تبرر ادعاءات انعدام المفترسات أو عدم الحركة مطلقا أو اكتشاف النوع حديثا. [المصدر · www.montereybayaquarium.org](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye)"
+    },
+    {
+      "type": "paragraph",
+      "text": "يميز الوصف المسؤول بين ما يظهر في الصورة ومصدر الدليل. نحافظ هنا على الصورة المقدمة كرسم تحريري، بينما تمثل صور MBARI المرجع التوثيقي للدرع الشفاف وحركة العينين. يتيح الفصل تقديم الموضوع بصورة جذابة من دون تحويل إعادة التصور إلى مصدر لتشريح مختلق."
+    },
+    {
+      "type": "paragraph",
+      "text": "تتقدم البيولوجيا البحرية بأدلة متكاملة: عينة قديمة ولقاء قصير وكاميرا جديدة، ولا يكفي أحدها منفردا. لمتابعة الفرق بين الرصد وإعادة التصور، اقرأ [أبحاث أحافير الأوركا](/articles/orca-fossils-large-prey-hunting-two-million-years/) و[دليل الحمض النووي المشترك](/articles/how-much-dna-humans-share-other-species/)، وهما يبرزان أهمية التعريف الدقيق وراء المعلومة الجذابة."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر · www.mbari.org",
+      "url": "https://www.mbari.org/animal/barreleye-fish/"
+    },
+    {
+      "label": "المصدر · www.mbari.org",
+      "url": "https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/"
+    },
+    {
+      "label": "المصدر · www.mbari.org",
+      "url": "https://www.mbari.org/news/mbari-researchers-film-rarely-seen-deep-sea-barreleye-fish-in-4k/"
+    },
+    {
+      "label": "المصدر · www.montereybayaquarium.org",
+      "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye"
+    },
+    {
+      "label": "المصدر · oceanexplorer.noaa.gov",
+      "url": "https://oceanexplorer.noaa.gov/ocean-fact/light-distributed/"
+    },
+    {
+      "label": "المصدر · www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=nyldZ7BB_cE"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل الجمجمة كلها شفافة؟",
+      "answer": "البنية المميزة درع شفاف مملوء بالسائل حول العينين. لا يعني ذلك أن الدماغ مكشوف أو أن الجمجمة العظمية كلها شفافة."
+    },
+    {
+      "question": "هل العلامتان الداكنتان فوق الفم هما العينان؟",
+      "answer": "لا. إنهما عضوان للشّم يشبهان فتحتي الأنف، أما البنيتان الخضراوان داخل القبة فترتبطان بالعينين الأنبوبيتين."
+    },
+    {
+      "question": "هل اكتشفت السمكة عام 2026؟",
+      "answer": "لا. وصف النوع علميا عام 1939، بينما يتناول إعلان 2026 مشاهدة جديدة وتصويرا عالي الدقة."
+    },
+    {
+      "question": "هل إحدى عشرة مشاهدة تعني وجود إحدى عشرة سمكة فقط؟",
+      "answer": "لا. الرقم يخص سجل مشاهدات MBARI عند نشر تقرير أكتوبر 2026، وليس تعدادا عالميا أو تقديرا لأعداد النوع."
+    }
+  ],
+  "readingTimeMinutes": 6
+}
