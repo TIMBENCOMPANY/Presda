@@ -78,14 +78,14 @@ export const newsOct24LateArticles: Article[] = [
   {
     "id": "328",
     "slug": "dexter-resurrection-season-2-october-30-2026",
-    "title": "Dexter: Resurrection Season 2 Returns October 30",
+    "title": "Dexter: Resurrection Season 2 Began October 30",
     "seoTitle": "Dexter: Resurrection Season 2: October 30, 2026 Premiere",
     "metaDescription": "Dexter: Resurrection Season 2 began streaming October 30, 2026. Check the confirmed cast, weekly Friday episodes and regional Paramount+ viewing caveats.",
     "excerpt": "Dexter: Resurrection Season 2 began streaming October 30, 2026. Check the confirmed cast, weekly Friday episodes and regional Paramount+ viewing caveats.",
     "category": "Paparazzi",
     "schemaType": "NewsArticle",
     "date": "2026-10-24",
-    "lastUpdated": "2026-11-02",
+    "lastUpdated": "2026-11-25",
     "author": "PRESDA Editorial",
     "status": "published",
     "readingTime": "7 min read",
@@ -103,8 +103,8 @@ export const newsOct24LateArticles: Article[] = [
     ],
     "content": [
       "Dexter Morgan has always depended on the distance between what people see and what he knows about himself. His latest return adds another complication: an audience that has followed him for two decades and knows how dangerous a fresh start can be. Dexter: Resurrection Season 2 began streaming on Friday, October 30, 2026, Paramount+ confirms, with Michael C. Hall returning and Brian Cox and Dan Stevens joining the cast. [Paramount+'s official release guide](https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/).",
-      "This article was first published on October 24 as a preview, not an episode review. The release information was checked again on November 2 against Paramount+'s updated guide. Its confirmed date, cast and weekly release schedule are reported here without offering a critical verdict on episodes.",
-      "## October 30 is confirmed, with a regional viewing caveat",
+      "This article was first published on October 24 as a preview, not an episode review. The release information was checked again on November 25 against Paramount+'s updated guide. Season 2 is now streaming, with new episodes on Fridays. This article reports the confirmed release information without offering a critical verdict on episodes.",
+      "## Streaming since October 30, with a regional viewing caveat",
       "Paramount+'s October 30 guide says Season 2 is streaming on its Premium plan, with new episodes on Fridays, and all ten episodes of the first season available there. That subscription information describes the service's published offering, not a promise that identical plans, catalogues and release times apply in every country. Viewers should check their local Paramount+ or authorized distributor listing before subscribing. A confirmed premiere date also should not be confused with confirmation that an entire season arrives at once. [Official viewing information](https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/).",
       "The practical distinction matters in a franchise that travels across markets. An international reader looking for the next episode needs a local release listing, not a currency-converted subscription price from another country. This article therefore does not manufacture a universal launch hour or a global price. October 30 is the verified Paramount+ announcement; local availability remains something to check in the territory where the viewer will watch.",
       "## Michael C. Hall and the returning ensemble",
@@ -127,7 +127,7 @@ export const newsOct24LateArticles: Article[] = [
       "For someone preparing specifically for Resurrection's second season, the first season is the most immediate preparation. New Blood supplies preceding context; the original series explains the longer history of Dexter's identity and relationships. A prequel is a different kind of background, not a replacement for the continuation. Viewers seeking a spoiler-light route should avoid finale recaps until they have caught up.",
       "## What should fans expect, and what remains unproven?",
       "The confirmed cast suggests a season balancing family tension, police scrutiny and several forms of predation. That is a reading of the announced ingredients, not a measurement of audience enthusiasm. Before the premiere, promotional claims, trailer comments and fan theories cannot establish the season's quality or final reception. No new-season audience score, viewing total or collective fan verdict is asserted here.",
-      "The meaningful test begins when the episodes arrive: whether the series can sustain suspense while allowing the consequences of Dexter's behavior to remain visible. Familiarity may bring viewers back; dramatic credibility must keep them there. For another example of a returning screen identity, read PRESDA's [Lupin Part 4 feature](/articles/omar-sy-lupin-part-4-netflix-2026/). Dexter's October 30 appointment is confirmed. The judgment on his latest chapter is still ahead."
+      "The question for viewers is whether the series can sustain suspense while allowing the consequences of Dexter's behavior to remain visible. Familiarity may bring viewers back; dramatic credibility must keep them there. For another example of a returning screen identity, read PRESDA's [Lupin Part 4 feature](/articles/omar-sy-lupin-part-4-netflix-2026/). Season 2 has been streaming since October 30. This article provides release context rather than an episode review."
     ],
     "references": [
       {
@@ -165,7 +165,7 @@ export const newsOct24LateArticles: Article[] = [
   },
   {
     "question": "Where can I watch Season 2?",
-    "answer": "Paramount+'s guide, checked on November 2, identifies its Premium plan. Plans, catalogues and release timing can differ by territory, so check the authorized local listing."
+    "answer": "Paramount+'s guide, checked on November 25, identifies its Premium plan. Plans, catalogues and release timing can differ by territory, so check the authorized local listing."
   },
   {
     "question": "Are all Season 2 episodes released together?",
