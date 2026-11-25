@@ -5716,6 +5716,81 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/most-expensive-books-sale-records/",
+    "path": "/ar/articles/most-expensive-books-sale-records/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/most-expensive-books-sale-records/",
+    "path": "/es/articles/most-expensive-books-sale-records/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/most-expensive-books-sale-records/",
+    "path": "/fr/articles/most-expensive-books-sale-records/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/most-expensive-cars-auction-records/",
+    "path": "/ar/articles/most-expensive-cars-auction-records/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/most-expensive-cars-auction-records/",
+    "path": "/es/articles/most-expensive-cars-auction-records/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/most-expensive-cars-auction-records/",
+    "path": "/fr/articles/most-expensive-cars-auction-records/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/most-expensive-cat-breeds-prices/",
+    "path": "/ar/articles/most-expensive-cat-breeds-prices/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/most-expensive-cat-breeds-prices/",
+    "path": "/es/articles/most-expensive-cat-breeds-prices/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/most-expensive-cat-breeds-prices/",
+    "path": "/fr/articles/most-expensive-cat-breeds-prices/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/most-expensive-fruits-prices-records/",
+    "path": "/ar/articles/most-expensive-fruits-prices-records/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/most-expensive-fruits-prices-records/",
+    "path": "/es/articles/most-expensive-fruits-prices-records/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/most-expensive-fruits-prices-records/",
+    "path": "/fr/articles/most-expensive-fruits-prices-records/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/most-expensive-horses-auction-records/",
+    "path": "/ar/articles/most-expensive-horses-auction-records/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/most-expensive-horses-auction-records/",
+    "path": "/es/articles/most-expensive-horses-auction-records/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/most-expensive-horses-auction-records/",
+    "path": "/fr/articles/most-expensive-horses-auction-records/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/mourinho-real-madrid-return-signal/",
     "path": "/ar/articles/mourinho-real-madrid-return-signal/"
   },

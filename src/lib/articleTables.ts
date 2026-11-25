@@ -8,6 +8,526 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[LUXURY25_589]]": {
+    "caption": "Selected pet-kitten prices, ascending toward #1; asking prices and estimates, not sale records",
+    "headers": [
+      "Rank",
+      "Breed or generation",
+      "USD published example",
+      "Evidence type"
+    ],
+    "rows": [
+      [
+        "15",
+        "Devon Rex",
+        "$1,600–$2,200",
+        "Published pet-kitten offer"
+      ],
+      [
+        "14",
+        "Birman",
+        "$2,500",
+        "Published pet-kitten offer"
+      ],
+      [
+        "13",
+        "Persian",
+        "$2,500",
+        "Published pet-kitten offer"
+      ],
+      [
+        "12",
+        "Donskoy",
+        "$3,000",
+        "Published pet-kitten offer"
+      ],
+      [
+        "11",
+        "Lykoi",
+        "$3,000",
+        "Published pet-kitten offer"
+      ],
+      [
+        "10",
+        "Sphynx",
+        "$3,000",
+        "Published pet-kitten offer"
+      ],
+      [
+        "9",
+        "Bengal",
+        "$3,000–$3,500",
+        "Published pet-kitten offer"
+      ],
+      [
+        "8",
+        "Cornish Rex",
+        "$2,500–$3,500",
+        "Published pet-kitten offer"
+      ],
+      [
+        "7",
+        "Toyger",
+        "$2,500–$3,500",
+        "Published guide estimate, not a sale"
+      ],
+      [
+        "6",
+        "Ragdoll",
+        "$3,600",
+        "Published pet-kitten offer"
+      ],
+      [
+        "5",
+        "Siberian",
+        "$3,600",
+        "Published pet-kitten offer"
+      ],
+      [
+        "4",
+        "British Shorthair",
+        "~$2,000–$4,000+",
+        "Breeder’s market estimate; $4,000 anchor"
+      ],
+      [
+        "3",
+        "Russian Blue",
+        "$5,200",
+        "Published pet-kitten offer"
+      ],
+      [
+        "2",
+        "Maine Coon",
+        "$5,500–$7,500",
+        "Published pet-kitten offer"
+      ],
+      [
+        "1",
+        "Savannah, HP F1",
+        "$25,000",
+        "Published pet-kitten offer"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[LUXURY25_590]]": {
+    "caption": "Selected book sales ranked by nominal USD price; approximate conversions retain original currencies",
+    "headers": [
+      "Rank",
+      "Book or manuscript",
+      "USD price",
+      "Transaction basis"
+    ],
+    "rows": [
+      [
+        "15",
+        "Luzzatto High Holiday Mahzor",
+        "$8,307,000",
+        "2021 auction result"
+      ],
+      [
+        "14",
+        "Qur’an on Chinese paper, fifteenth century",
+        "~$8,760,000",
+        "2020; £7,016,250 auction result"
+      ],
+      [
+        "13",
+        "Yongle Dadian, two manuscript volumes",
+        "~$9,190,000",
+        "2020; €8,128,000 auction result"
+      ],
+      [
+        "12",
+        "Bomberg Babylonian Talmud",
+        "$9,322,000",
+        "2015 auction result"
+      ],
+      [
+        "11",
+        "George Washington’s Acts of Congress",
+        "$9,826,500",
+        "2012 auction result"
+      ],
+      [
+        "10",
+        "Shakespeare’s First Folio, Mills College copy",
+        "$9,978,000",
+        "2020 auction result"
+      ],
+      [
+        "9",
+        "The Birds of America, Hesketh copy",
+        "~$11,365,000",
+        "2010; £7,321,250 auction result"
+      ],
+      [
+        "8",
+        "Gospels of Henry the Lion",
+        "~$11,700,000",
+        "1983; £8,140,000 auction result"
+      ],
+      [
+        "7",
+        "Rothschild Prayerbook",
+        "$13,605,000",
+        "2014 auction result"
+      ],
+      [
+        "6",
+        "Bay Psalm Book, Old South Church copy",
+        "$14,165,000",
+        "2013 auction result"
+      ],
+      [
+        "5",
+        "St Cuthbert Gospel",
+        "~$14,300,000",
+        "2012 institutional purchase; £9,000,000"
+      ],
+      [
+        "4",
+        "Annotated New Book of Tang, Southern Song edition",
+        "~$17,250,000",
+        "2018; CNY 110,400,000 auction result"
+      ],
+      [
+        "3",
+        "Leonardo da Vinci’s Codex Leicester",
+        "$30,802,500",
+        "1994 auction result"
+      ],
+      [
+        "2",
+        "Book of Mormon printer’s manuscript",
+        "$35,000,000",
+        "2017 disclosed private purchase"
+      ],
+      [
+        "1",
+        "Codex Sassoon 1053",
+        "$38,100,000",
+        "2023 auction result"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[LUXURY25_591]]": {
+    "caption": "Selected documented auction totals, ascending toward #1; USD, nominal sale-date values",
+    "headers": [
+      "Rank",
+      "Individual car",
+      "USD total",
+      "Sale basis"
+    ],
+    "rows": [
+      [
+        "15",
+        "Ferrari 275 GTB/C Speciale, 1964",
+        "$26,400,000",
+        "2014 auction result"
+      ],
+      [
+        "14",
+        "Ferrari 275 GTB/4*S NART Spider, 1967",
+        "$27,500,000",
+        "2013 auction result"
+      ],
+      [
+        "13",
+        "Ferrari 290 MM, 1956",
+        "$28,050,000",
+        "2015 auction result"
+      ],
+      [
+        "12",
+        "Mercedes-Benz W196 R, 1954, open-wheel",
+        "~$29,650,095",
+        "2013; £19,601,500 auction result"
+      ],
+      [
+        "11",
+        "McLaren F1 GTR 10R, 1996",
+        "$34,655,000",
+        "2026 auction result"
+      ],
+      [
+        "10",
+        "Ferrari 335 S, 1957",
+        "~$35,711,359",
+        "2016; €32,075,200 auction result"
+      ],
+      [
+        "9",
+        "Ferrari 250 LM 5893, 1964",
+        "~$36,300,000",
+        "2025; €34,880,000 auction result"
+      ],
+      [
+        "8",
+        "Ferrari 250 GTO 3851GT, 1962",
+        "$38,115,000",
+        "2014 auction result"
+      ],
+      [
+        "7",
+        "Ferrari 250 GTO 3729GT, Bianco Speciale, 1962",
+        "$38,500,000",
+        "2026 auction result"
+      ],
+      [
+        "6",
+        "Ferrari Luce Tailor Made, chassis 0, 2026",
+        "$40,000,000",
+        "2026, charity auction result"
+      ],
+      [
+        "5",
+        "Shelby Cobra Daytona Coupe CSX2300, 1964",
+        "$42,905,000",
+        "2026 auction result"
+      ],
+      [
+        "4",
+        "Ferrari 250 GTO 3413GT, 1962",
+        "$48,405,000",
+        "2018 auction result"
+      ],
+      [
+        "3",
+        "Ferrari 330 LM / 250 GTO 3765, 1962",
+        "$51,705,000",
+        "2023 auction result"
+      ],
+      [
+        "2",
+        "Mercedes-Benz W196 R Stromlinienwagen, 1954",
+        "~$53,900,000",
+        "2025; €51,155,000 auction result"
+      ],
+      [
+        "1",
+        "Mercedes-Benz 300 SLR Uhlenhaut Coupé, 1955",
+        "~$142,300,000",
+        "2022; €135,000,000 auction result"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[LUXURY25_592]]": {
+    "caption": "Selected Thoroughbred auction bids ranked toward #1, nominal USD; partnership caveat retained",
+    "headers": [
+      "Rank",
+      "Horse",
+      "USD recorded price",
+      "Basis"
+    ],
+    "rows": [
+      [
+        "15",
+        "Imperial Falcon",
+        "$8,250,000",
+        "1984 auction result"
+      ],
+      [
+        "14",
+        "Marsha",
+        "~$8,480,000",
+        "2017; 6,000,000 guineas = £6,300,000 auction result"
+      ],
+      [
+        "13",
+        "Royal Delta",
+        "$8,500,000",
+        "2011 auction result"
+      ],
+      [
+        "12",
+        "Ashado",
+        "$9,000,000",
+        "2005 auction result"
+      ],
+      [
+        "11",
+        "Plavius",
+        "$9,200,000",
+        "2006 auction result"
+      ],
+      [
+        "10",
+        "Songbird",
+        "$9,500,000",
+        "2017 auction result"
+      ],
+      [
+        "9",
+        "Jalil",
+        "$9,700,000",
+        "2005 auction result"
+      ],
+      [
+        "8",
+        "Havre de Grace",
+        "$10,000,000",
+        "2012 auction result"
+      ],
+      [
+        "7",
+        "Snaafi Dancer",
+        "$10,200,000",
+        "1983 auction result"
+      ],
+      [
+        "6",
+        "Playful Act",
+        "$10,500,000",
+        "2007 auction result"
+      ],
+      [
+        "5",
+        "Zedan, Flightline–Lucrezia colt",
+        "$10,500,000",
+        "2026 auction result"
+      ],
+      [
+        "4",
+        "Meydan City",
+        "$11,700,000",
+        "2006 auction result"
+      ],
+      [
+        "3",
+        "Seattle Dancer",
+        "$13,100,000",
+        "1985 auction result"
+      ],
+      [
+        "2",
+        "Better Than Honour",
+        "$14,000,000",
+        "2008 recorded auction bid; partnership buyout"
+      ],
+      [
+        "1",
+        "The Green Monkey",
+        "$16,000,000",
+        "2006 auction result"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[LUXURY25_593]]": {
+    "caption": "Selected fruit lots and offers toward #1, nominal USD; see basis for quantity, date and evidence type",
+    "headers": [
+      "Rank",
+      "Fruit identity",
+      "USD lot or offer total",
+      "Unit and evidence"
+    ],
+    "rows": [
+      [
+        "15",
+        "White Jewel strawberry",
+        "~$10",
+        "Retail asking price, 1 fruit, 2017 report"
+      ],
+      [
+        "14",
+        "Pinkglow pineapple",
+        "$29.00",
+        "Retail asking price, 1 pineapple, checked 2026"
+      ],
+      [
+        "13",
+        "Pink guava",
+        "$37",
+        "Retail asking price, 1 fruit, checked 2026"
+      ],
+      [
+        "12",
+        "Finger lime",
+        "$77",
+        "Retail asking price, 100 g, checked 2026"
+      ],
+      [
+        "11",
+        "Mangosteen",
+        "$77",
+        "Retail asking price, 1 fruit, pre-order checked 2026"
+      ],
+      [
+        "10",
+        "Rubyglow pineapple",
+        "$395.99",
+        "Retail asking price, listed 1.5 lb pack, pre-order checked 2026"
+      ],
+      [
+        "9",
+        "Juno Heart, Aomori Heartbeat grade",
+        "~$4,440",
+        "2022 auction: 15 cherries, ¥600,000"
+      ],
+      [
+        "8",
+        "Taiyo no Tamago mangoes",
+        "~$4,500",
+        "2019 auction: 2 mangoes, ¥500,000"
+      ],
+      [
+        "7",
+        "Densuke watermelon",
+        "~$6,100",
+        "2008 auction: 1 watermelon, ¥650,000"
+      ],
+      [
+        "6",
+        "Tenka Fubu persimmons",
+        "~$7,205",
+        "2025 auction: 2 fruits, ¥1,110,000 before tax"
+      ],
+      [
+        "5",
+        "Hinomaru satsuma mandarins",
+        "~$9,600",
+        "2020 auction: 100 fruits, 20 kg, ¥1,000,000"
+      ],
+      [
+        "4",
+        "Sato Nishiki cherries",
+        "~$11,500",
+        "2026 auction: 1 box, ¥1,800,000"
+      ],
+      [
+        "3",
+        "Ruby Roman grapes",
+        "~$12,700",
+        "2021 auction: 1 bunch, ¥1,400,000"
+      ],
+      [
+        "2",
+        "Yubari King melons",
+        "~$45,500",
+        "2019 auction: 2 melons, ¥5,000,000"
+      ],
+      [
+        "1",
+        "Kanyao durian",
+        "~$47,784",
+        "2019 auction: 1 durian, THB 1,500,000"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[ANNIV24_584]]": {
     "caption": "Lucy: discovery and research milestones",
     "headers": [

@@ -220,5 +220,214 @@
       "20": "9. Shanghai Tower, China"
     },
     "reason": "Reviewed invariant building and geographic proper names; preserve existing manuscript headings."
+  },
+  {
+    "slug": "most-expensive-cat-breeds-prices",
+    "locales": [
+      "fr"
+    ],
+    "reason": "Reviewed exact ranked proper names for breeds, named horses, bibliographic identifiers and vehicle models retain their established spelling. Only these heading strings are invariant; prose remains fully localized.",
+    "blocks": {
+      "8": "#15. Devon Rex",
+      "17": "#12. Donskoy",
+      "20": "#11. Lykoi",
+      "23": "#10. Sphynx",
+      "26": "#9. Bengal",
+      "29": "#8. Cornish Rex",
+      "32": "#7. Toyger",
+      "35": "#6. Ragdoll",
+      "41": "#4. British Shorthair",
+      "47": "#2. Maine Coon",
+      "50": "#1. Savannah, HP F1"
+    }
+  },
+  {
+    "slug": "most-expensive-cat-breeds-prices",
+    "locales": [
+      "ar"
+    ],
+    "reason": "Reviewed exact ranked proper names for breeds, named horses, bibliographic identifiers and vehicle models retain their established spelling. Only these heading strings are invariant; prose remains fully localized.",
+    "blocks": {
+      "8": "#15. Devon Rex",
+      "20": "#11. Lykoi",
+      "23": "#10. Sphynx",
+      "29": "#8. Cornish Rex",
+      "32": "#7. Toyger",
+      "35": "#6. Ragdoll",
+      "47": "#2. Maine Coon",
+      "50": "#1. Savannah, HP F1"
+    }
+  },
+  {
+    "slug": "most-expensive-cat-breeds-prices",
+    "locales": [
+      "es"
+    ],
+    "reason": "Reviewed exact ranked proper names for breeds, named horses, bibliographic identifiers and vehicle models retain their established spelling. Only these heading strings are invariant; prose remains fully localized.",
+    "blocks": {
+      "8": "#15. Devon Rex",
+      "17": "#12. Donskoy",
+      "20": "#11. Lykoi",
+      "23": "#10. Sphynx",
+      "29": "#8. Cornish Rex",
+      "32": "#7. Toyger",
+      "35": "#6. Ragdoll",
+      "47": "#2. Maine Coon",
+      "50": "#1. Savannah, HP F1"
+    }
+  },
+  {
+    "slug": "most-expensive-books-sale-records",
+    "locales": [
+      "fr"
+    ],
+    "reason": "Reviewed exact ranked proper names for breeds, named horses, bibliographic identifiers and vehicle models retain their established spelling. Only these heading strings are invariant; prose remains fully localized.",
+    "blocks": {
+      "50": "#1. Codex Sassoon 1053"
+    }
+  },
+  {
+    "slug": "most-expensive-cars-auction-records",
+    "locales": [
+      "fr"
+    ],
+    "reason": "Reviewed exact ranked proper names for breeds, named horses, bibliographic identifiers and vehicle models retain their established spelling. Only these heading strings are invariant; prose remains fully localized.",
+    "blocks": {
+      "8": "#15. Ferrari 275 GTB/C Speciale, 1964",
+      "11": "#14. Ferrari 275 GTB/4*S NART Spider, 1967",
+      "14": "#13. Ferrari 290 MM, 1956",
+      "17": "#12. Mercedes-Benz W196 R, 1954, open-wheel",
+      "20": "#11. McLaren F1 GTR 10R, 1996",
+      "23": "#10. Ferrari 335 S, 1957",
+      "26": "#9. Ferrari 250 LM 5893, 1964",
+      "29": "#8. Ferrari 250 GTO 3851GT, 1962",
+      "32": "#7. Ferrari 250 GTO 3729GT, Bianco Speciale, 1962",
+      "35": "#6. Ferrari Luce Tailor Made, chassis 0, 2026",
+      "38": "#5. Shelby Cobra Daytona Coupe CSX2300, 1964",
+      "41": "#4. Ferrari 250 GTO 3413GT, 1962",
+      "44": "#3. Ferrari 330 LM / 250 GTO 3765, 1962",
+      "47": "#2. Mercedes-Benz W196 R Stromlinienwagen, 1954",
+      "50": "#1. Mercedes-Benz 300 SLR Uhlenhaut Coupé, 1955"
+    }
+  },
+  {
+    "slug": "most-expensive-cars-auction-records",
+    "locales": [
+      "ar"
+    ],
+    "reason": "Reviewed exact ranked proper names for breeds, named horses, bibliographic identifiers and vehicle models retain their established spelling. Only these heading strings are invariant; prose remains fully localized.",
+    "blocks": {
+      "8": "#15. Ferrari 275 GTB/C Speciale, 1964",
+      "11": "#14. Ferrari 275 GTB/4*S NART Spider, 1967",
+      "14": "#13. Ferrari 290 MM, 1956",
+      "17": "#12. Mercedes-Benz W196 R, 1954, open-wheel",
+      "20": "#11. McLaren F1 GTR 10R, 1996",
+      "23": "#10. Ferrari 335 S, 1957",
+      "26": "#9. Ferrari 250 LM 5893, 1964",
+      "29": "#8. Ferrari 250 GTO 3851GT, 1962",
+      "32": "#7. Ferrari 250 GTO 3729GT, Bianco Speciale, 1962",
+      "35": "#6. Ferrari Luce Tailor Made, chassis 0, 2026",
+      "38": "#5. Shelby Cobra Daytona Coupe CSX2300, 1964",
+      "41": "#4. Ferrari 250 GTO 3413GT, 1962",
+      "44": "#3. Ferrari 330 LM / 250 GTO 3765, 1962",
+      "47": "#2. Mercedes-Benz W196 R Stromlinienwagen, 1954",
+      "50": "#1. Mercedes-Benz 300 SLR Uhlenhaut Coupé, 1955"
+    }
+  },
+  {
+    "slug": "most-expensive-cars-auction-records",
+    "locales": [
+      "es"
+    ],
+    "reason": "Reviewed exact ranked proper names for breeds, named horses, bibliographic identifiers and vehicle models retain their established spelling. Only these heading strings are invariant; prose remains fully localized.",
+    "blocks": {
+      "8": "#15. Ferrari 275 GTB/C Speciale, 1964",
+      "11": "#14. Ferrari 275 GTB/4*S NART Spider, 1967",
+      "14": "#13. Ferrari 290 MM, 1956",
+      "17": "#12. Mercedes-Benz W196 R, 1954, open-wheel",
+      "20": "#11. McLaren F1 GTR 10R, 1996",
+      "23": "#10. Ferrari 335 S, 1957",
+      "26": "#9. Ferrari 250 LM 5893, 1964",
+      "29": "#8. Ferrari 250 GTO 3851GT, 1962",
+      "32": "#7. Ferrari 250 GTO 3729GT, Bianco Speciale, 1962",
+      "35": "#6. Ferrari Luce Tailor Made, chassis 0, 2026",
+      "38": "#5. Shelby Cobra Daytona Coupe CSX2300, 1964",
+      "41": "#4. Ferrari 250 GTO 3413GT, 1962",
+      "44": "#3. Ferrari 330 LM / 250 GTO 3765, 1962",
+      "47": "#2. Mercedes-Benz W196 R Stromlinienwagen, 1954",
+      "50": "#1. Mercedes-Benz 300 SLR Uhlenhaut Coupé, 1955"
+    }
+  },
+  {
+    "slug": "most-expensive-horses-auction-records",
+    "locales": [
+      "fr"
+    ],
+    "reason": "Reviewed exact ranked proper names for breeds, named horses, bibliographic identifiers and vehicle models retain their established spelling. Only these heading strings are invariant; prose remains fully localized.",
+    "blocks": {
+      "8": "#15. Imperial Falcon",
+      "11": "#14. Marsha",
+      "14": "#13. Royal Delta",
+      "17": "#12. Ashado",
+      "20": "#11. Plavius",
+      "23": "#10. Songbird",
+      "26": "#9. Jalil",
+      "29": "#8. Havre de Grace",
+      "32": "#7. Snaafi Dancer",
+      "35": "#6. Playful Act",
+      "38": "#5. Zedan, Flightline–Lucrezia colt",
+      "41": "#4. Meydan City",
+      "44": "#3. Seattle Dancer",
+      "47": "#2. Better Than Honour",
+      "50": "#1. The Green Monkey"
+    }
+  },
+  {
+    "slug": "most-expensive-horses-auction-records",
+    "locales": [
+      "ar"
+    ],
+    "reason": "Reviewed exact ranked proper names for breeds, named horses, bibliographic identifiers and vehicle models retain their established spelling. Only these heading strings are invariant; prose remains fully localized.",
+    "blocks": {
+      "8": "#15. Imperial Falcon",
+      "11": "#14. Marsha",
+      "14": "#13. Royal Delta",
+      "17": "#12. Ashado",
+      "20": "#11. Plavius",
+      "23": "#10. Songbird",
+      "26": "#9. Jalil",
+      "29": "#8. Havre de Grace",
+      "32": "#7. Snaafi Dancer",
+      "35": "#6. Playful Act",
+      "38": "#5. Zedan, Flightline–Lucrezia colt",
+      "41": "#4. Meydan City",
+      "44": "#3. Seattle Dancer",
+      "47": "#2. Better Than Honour",
+      "50": "#1. The Green Monkey"
+    }
+  },
+  {
+    "slug": "most-expensive-horses-auction-records",
+    "locales": [
+      "es"
+    ],
+    "reason": "Reviewed exact ranked proper names for breeds, named horses, bibliographic identifiers and vehicle models retain their established spelling. Only these heading strings are invariant; prose remains fully localized.",
+    "blocks": {
+      "8": "#15. Imperial Falcon",
+      "11": "#14. Marsha",
+      "14": "#13. Royal Delta",
+      "17": "#12. Ashado",
+      "20": "#11. Plavius",
+      "23": "#10. Songbird",
+      "26": "#9. Jalil",
+      "29": "#8. Havre de Grace",
+      "32": "#7. Snaafi Dancer",
+      "35": "#6. Playful Act",
+      "38": "#5. Zedan, Flightline–Lucrezia colt",
+      "41": "#4. Meydan City",
+      "44": "#3. Seattle Dancer",
+      "47": "#2. Better Than Honour",
+      "50": "#1. The Green Monkey"
+    }
   }
 ]

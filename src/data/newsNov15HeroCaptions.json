@@ -694,5 +694,35 @@
     "fr": "Reconstitution éditoriale moderne fournie, conservée sans modification. Le chevalier, les navires et la ville en flammes sont illustratifs, pas un témoignage médiéval ni une restitution authentifiée des bâtiments de Zadar.",
     "ar": "إعادة تصور تحريرية حديثة مقدمة للنشر ومحفوظة دون تعديل. الفارس والسفن والمدينة المحترقة عناصر توضيحية، لا شهادة مصورة من العصور الوسطى أو إعادة بناء موثقة لمباني زادار.",
     "es": "Reconstrucción editorial moderna suministrada y conservada sin cambios. Caballero, barcos y ciudad incendiada son ilustrativos, no un testimonio medieval ni una reconstrucción autenticada de los edificios de Zadar."
+  },
+  "most-expensive-cat-breeds-prices": {
+    "en": "Original supplied feline illustration, preserved unchanged. It is not documentary breed identification; wild-cat styling must not be read as a list of lawful domestic pets.",
+    "fr": "Illustration féline originale fournie, conservée sans modification. Elle n’identifie pas scientifiquement les races ; les traits de félins sauvages ne désignent pas des animaux domestiques légalement autorisés.",
+    "ar": "الرسم الأصلي المقدم محفوظ دون تعديل. ليس توثيقا لهوية السلالات؛ ولا تعني السمات الشبيهة بالسنوريات البرية أنها حيوانات منزلية مسموح بها.",
+    "es": "Ilustración felina original suministrada, conservada sin cambios. No identifica documentalmente razas; los rasgos de felinos salvajes no indican mascotas domésticas legales."
+  },
+  "most-expensive-books-sale-records": {
+    "en": "Supplied editorial illustration, preserved unchanged. The imagined display does not authenticate the actual books or copies sold in this ranking.",
+    "fr": "Illustration éditoriale fournie, conservée sans modification. Cette présentation imaginée n’authentifie pas les exemplaires réellement vendus.",
+    "ar": "الرسم التحريري المقدم محفوظ دون تعديل. العرض المتخيل لا يوثق الكتب أو النسخ الفعلية المباعة في الترتيب.",
+    "es": "Ilustración editorial suministrada, conservada sin cambios. La exposición imaginada no autentica los ejemplares que se vendieron."
+  },
+  "most-expensive-cars-auction-records": {
+    "en": "Original supplied editorial illustration, preserved unchanged. These cars do not authenticate the individual auction chassis ranked below.",
+    "fr": "Illustration éditoriale originale fournie, conservée sans modification. Elle n’authentifie pas les châssis individuels classés ci-dessous.",
+    "ar": "الرسم التحريري الأصلي المقدم محفوظ دون تعديل. لا يوثق هويات هياكل السيارات الفردية المصنفة أدناه.",
+    "es": "Ilustración editorial original suministrada, conservada sin cambios. No autentica los chasis individuales clasificados más abajo."
+  },
+  "most-expensive-horses-auction-records": {
+    "en": "Original supplied editorial illustration, preserved unchanged. These are not authenticated photographs of the named horses in the countdown.",
+    "fr": "Illustration éditoriale originale fournie, conservée sans modification. Elle ne représente pas des photographies authentifiées des chevaux nommés.",
+    "ar": "الرسم التحريري الأصلي المقدم محفوظ دون تعديل. ليس صورا موثقة للخيول المسماة في العد التنازلي.",
+    "es": "Ilustración editorial original suministrada, conservada sin cambios. No son fotografías autenticadas de los caballos nombrados."
+  },
+  "most-expensive-fruits-prices-records": {
+    "en": "Original supplied fruit illustration, preserved unchanged. It does not depict authenticated auction lots or certify the named premium grades.",
+    "fr": "Illustration originale fournie, conservée sans modification. Elle ne représente pas des lots d’enchères authentifiés et ne certifie pas leurs grades.",
+    "ar": "الرسم الأصلي المقدم محفوظ دون تغيير. لا يمثل قطعا موثقة في المزادات ولا يصادق على درجات الجودة المذكورة.",
+    "es": "Ilustración original suministrada, conservada sin cambios. No representa lotes de subasta autenticados ni certifica sus categorías."
   }
 }

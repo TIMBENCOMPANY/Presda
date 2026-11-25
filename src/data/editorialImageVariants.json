@@ -2388,5 +2388,267 @@
       "width": 960,
       "src": "/articles/aepycamelus-dromomeryx-cheverlange-1931-960.webp"
     }
+  ],
+  "/articles/savannah-f1-jason-douglas.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/savannah-f1-jason-douglas-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/savannah-f1-jason-douglas-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/savannah-f1-jason-douglas-1280.webp"
+    }
+  ],
+  "/articles/toyger-queenanne-gaynorjl.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/toyger-queenanne-gaynorjl-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/toyger-queenanne-gaynorjl-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/toyger-queenanne-gaynorjl-1280.webp"
+    }
+  ],
+  "/articles/maine-coon-balder-bjornstad.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/maine-coon-balder-bjornstad-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/maine-coon-balder-bjornstad-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/maine-coon-balder-bjornstad-1280.webp"
+    }
+  ],
+  "/articles/lykoi-eight-month-steptacular.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/lykoi-eight-month-steptacular-480.webp"
+    },
+    {
+      "width": 505,
+      "src": "/articles/lykoi-eight-month-steptacular-505.webp"
+    }
+  ],
+  "/articles/codex-sassoon-1053-page-scan.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/codex-sassoon-1053-page-scan-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/codex-sassoon-1053-page-scan-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/codex-sassoon-1053-page-scan-1280.webp"
+    }
+  ],
+  "/articles/leonardo-codex-leicester-hammer-2a.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/leonardo-codex-leicester-hammer-2a-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/leonardo-codex-leicester-hammer-2a-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/leonardo-codex-leicester-hammer-2a-1280.webp"
+    }
+  ],
+  "/articles/st-cuthbert-gospel-opening-british-library.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/st-cuthbert-gospel-opening-british-library-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/st-cuthbert-gospel-opening-british-library-900.webp"
+    },
+    {
+      "width": 990,
+      "src": "/articles/st-cuthbert-gospel-opening-british-library-990.webp"
+    }
+  ],
+  "/articles/shakespeare-first-folio-title-page-1623.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/shakespeare-first-folio-title-page-1623-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/shakespeare-first-folio-title-page-1623-900.webp"
+    },
+    {
+      "width": 950,
+      "src": "/articles/shakespeare-first-folio-title-page-1623-950.webp"
+    }
+  ],
+  "/articles/uhlenhaut-coupe-thomas-vogt-2005.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/uhlenhaut-coupe-thomas-vogt-2005-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/uhlenhaut-coupe-thomas-vogt-2005-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/uhlenhaut-coupe-thomas-vogt-2005-1280.webp"
+    }
+  ],
+  "/articles/ferrari-250-lm-5893-pebble-2022.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/ferrari-250-lm-5893-pebble-2022-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/ferrari-250-lm-5893-pebble-2022-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/ferrari-250-lm-5893-pebble-2022-1280.webp"
+    }
+  ],
+  "/articles/ferrari-335-s-0674-greenwich-2018.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/ferrari-335-s-0674-greenwich-2018-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/ferrari-335-s-0674-greenwich-2018-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/ferrari-335-s-0674-greenwich-2018-1280.webp"
+    }
+  ],
+  "/articles/ferrari-290-mm-scaglietti-documentary.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/ferrari-290-mm-scaglietti-documentary-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/ferrari-290-mm-scaglietti-documentary-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/ferrari-290-mm-scaglietti-documentary-1280.webp"
+    }
+  ],
+  "/articles/havre-de-grace-fasig-tipton-2012.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/havre-de-grace-fasig-tipton-2012-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/havre-de-grace-fasig-tipton-2012-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/havre-de-grace-fasig-tipton-2012-1280.webp"
+    }
+  ],
+  "/articles/songbird-breeders-cup-distaff-2016.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/songbird-breeders-cup-distaff-2016-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/songbird-breeders-cup-distaff-2016-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/songbird-breeders-cup-distaff-2016-1280.webp"
+    }
+  ],
+  "/articles/yubari-melon-cut-captain76.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/yubari-melon-cut-captain76-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/yubari-melon-cut-captain76-900.webp"
+    },
+    {
+      "width": 936,
+      "src": "/articles/yubari-melon-cut-captain76-936.webp"
+    }
+  ],
+  "/articles/ruby-roman-kanazawa-documentary.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/ruby-roman-kanazawa-documentary-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/ruby-roman-kanazawa-documentary-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/ruby-roman-kanazawa-documentary-1280.webp"
+    }
+  ],
+  "/articles/densuke-watermelon-puamelia.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/densuke-watermelon-puamelia-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/densuke-watermelon-puamelia-900.webp"
+    },
+    {
+      "width": 960,
+      "src": "/articles/densuke-watermelon-puamelia-960.webp"
+    }
+  ],
+  "/articles/miyazaki-mango-sliced-sundar.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/miyazaki-mango-sliced-sundar-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/miyazaki-mango-sliced-sundar-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/miyazaki-mango-sliced-sundar-1280.webp"
+    }
+  ],
+  "/articles/finger-lime-citrus-australasica-amada44.jpg": [
+    {
+      "width": 480,
+      "src": "/articles/finger-lime-citrus-australasica-amada44-480.webp"
+    },
+    {
+      "width": 900,
+      "src": "/articles/finger-lime-citrus-australasica-amada44-900.webp"
+    },
+    {
+      "width": 1280,
+      "src": "/articles/finger-lime-citrus-australasica-amada44-1280.webp"
+    }
   ]
 }

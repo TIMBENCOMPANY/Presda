@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/most-expensive-cat-breeds-prices.jpg","/articles/most-expensive-books-sale-records.jpg","/articles/most-expensive-cars-auction-records.jpg","/articles/most-expensive-horses-auction-records.jpg","/articles/most-expensive-fruits-prices-records.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/lucy-fossil-discovery-1974-human-evolution.jpg","/articles/ataturk-surname-law-24-november-1934.jpg","/articles/carlo-collodi-200-birthday-pinocchio-1826-2026.jpg","/articles/mediamarkt-first-store-1979-electronics-retail-history.jpg","/articles/fourth-crusade-siege-zara-zadar-1202.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/cas-morocco-senegal-afcon-2025-verdict.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/cardi-b-billboard-canada-first-global-woman-of-the-year-2026.jpg","/articles/ed-sheeran-chile-palestino-shirts-entry-controversy-2026.jpg","/articles/rihanna-asap-rocky-beverly-hills-outing-november-2026.jpg","/articles/travis-scott-21-savage-gta-vi-album-deluxe-edition-2026.jpg","/articles/cristiano-ronaldo-seven-metre-statue-cr7-museum-shanghai-2026.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

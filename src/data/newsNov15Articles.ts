@@ -1,6 +1,867 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "589",
+    "slug": "most-expensive-cat-breeds-prices",
+    "title": "15 EXPENSIVE CAT BREEDS: PUBLISHED PRICES COMPARED",
+    "seoTitle": "15 Expensive Cat Breeds: Verified Quotes and Price Guides",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Compare 15 costly cat breeds using identified pet-kitten offers and labeled estimates, with USD prices, origins, care considerations and transparent ranking rules.",
+    "excerpt": "Compare 15 costly cat breeds using identified pet-kitten offers and labeled estimates, with USD prices, origins, care considerations and transparent ranking rules.",
+    "category": "Lifestyle",
+    "schemaType": "Article",
+    "date": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/most-expensive-cat-breeds-prices.jpg",
+    "coverAlt": "Supplied editorial composite of several differently coated cats",
+    "headlineHighlights": {
+      "red": "15 EXPENSIVE CAT BREEDS",
+      "gold": "PRICES COMPARED"
+    },
+    "tags": [
+      "Cat breeds",
+      "Pet ownership",
+      "Published prices"
+    ],
+    "content": [
+      "A high-percentage F1 Savannah has a published pet-price guideline of $25,000 in this comparison, while several established domestic breeds have premium offers in the low thousands. These are documented advertisements and clearly labeled guide estimates, not verified record sales or an audited ranking of every breeder in the world.",
+      "That distinction changes the story. Cats are living companions, and the useful question is what an identified price includes, which generation or contract it describes, and whether the animal suits the household. This 15-breed countdown was checked on November 25, 2026.",
+      "## How we compare prices fairly",
+      "The order runs from #15 to #1 using a selected published USD pet-price anchor for each breed. For a closed range we use its upper end; for a fixed offer, its base total. British Shorthair’s $4,000 anchor comes from an explicitly open-ended breeder market estimate. Toyger uses a labeled veterinary-reviewed guide estimate. Equal anchors are ordered by English breed name.",
+      "This is a transparent comparison of selected premium examples, not a statistically representative national survey or a defensible claim to the world’s 15 highest breed maxima. Breeding rights, optional selection fees, delivery and tax are excluded. We do not treat deposits, show prices, wild cats or the marketed Ashera label as equivalent domestic pet-breed records.",
+      "## Comparison of the 15 price examples",
+      "All amounts are USD. Ranges and estimate labels remain visible. An advertisement, even when marked sold, does not independently verify a completed transaction.",
+      "[[LUXURY25_589]]",
+      "## #15. Devon Rex",
+      "Price: USD $1,600–$2,200. Origin: England. Basis: Published pet-kitten offer. [tdcattery.com](https://tdcattery.com/adoption)",
+      "The Devon Rex’s large ears and short, wavy coat make it immediately recognizable. T&D Cattery publishes this range with vaccinations and veterinary checks, but says sterilization is not included. That is a concrete example of why two superficially similar kitten prices are not necessarily equivalent packages. Its distinctive appearance does not remove the need for companionship, ordinary veterinary care and a suitable home.",
+      "## #14. Birman",
+      "Price: USD $2,500. Origin: France, with Burmese historical associations. Basis: Published pet-kitten offer. [de-ambarino.com](https://www.de-ambarino.com/kitteninfo.html)",
+      "DeAmbarino lists pet kittens at $2,500. The Birman’s pointed coat, blue eyes and white paws are part of its appeal; its romantic temple legends are not a substitute for documented breed history. CFA describes the breed’s development in France. The quoted purchase price should be considered alongside the actual contract, socialization and lifelong care, rather than as a fee for a legend.",
+      "## #13. Persian",
+      "Price: USD $2,500. Origin: Persian ancestry, developed through European breeding. Basis: Published pet-kitten offer. [asfcattery.com](https://www.asfcattery.com/available-kittens)",
+      "ASF Cattery distinguishes a $2,500 pet price from $3,500 with breeding rights on its Persian listings. We use the pet figure, not the higher reproductive-rights price. The Persian’s long coat and rounded appearance make grooming part of the ownership decision. A listing described as sold is evidence of a published asking price here, not independently audited proof that this sum changed hands.",
+      "## #12. Donskoy",
+      "Price: USD $3,000. Origin: Russia. Basis: Published pet-kitten offer. [lykoicattery.com](https://lykoicattery.com/adoption/availablekittens/cost)",
+      "The breeder’s published base fee groups Donskoy with Sphynx and Lykoi under a particular health-guarantee package. TICA traces the Donskoy to Rostov-on-Don in 1987. Its hairlessness is not evidence of an Egyptian origin or a relationship identical to the Canadian Sphynx. The posted package is a seller-specific offer, not a breed-wide average or a medical guarantee issued by PRESDA.",
+      "## #11. Lykoi",
+      "Price: USD $3,000. Origin: United States. Basis: Published pet-kitten offer. [lykoicattery.com](https://lykoicattery.com/adoption/availablekittens/cost)",
+      "The Lykoi’s sparse roan coat gives it its familiar werewolf nickname. This $3,000 base offer concerns a pet kitten, while the seller lists an additional charge for certain eye characteristics. We exclude that optional premium. A visually unusual coat can create scarcity-driven demand, but the buying decision should still turn on documentation and the individual cat’s welfare.",
+      "## #10. Sphynx",
+      "Price: USD $3,000. Origin: Canada. Basis: Published pet-kitten offer. [lykoicattery.com](https://lykoicattery.com/adoption/availablekittens/cost)",
+      "The Sphynx is associated with Canadian breed development, not ancient Egypt. Its near-hairless skin changes the practical care discussion, including temperature, skin management and sun exposure. The selected breeder’s base price is the same as for its Lykoi and Donskoy package. Hairlessness should never be translated into a promise that an allergic household will have no symptoms.",
+      "## #9. Bengal",
+      "Price: USD $3,000–$3,500. Origin: United States. Basis: Published pet-kitten offer. [majesticgembengals.com](https://www.majesticgembengals.com/)",
+      "Majestic Gem separates its pet range from a higher show-and-breeding range. We use the former. Bengals are known for striking spotted or marbled coats and an active, inquisitive temperament. Their Asian leopard cat ancestry makes generation and local rules important, rather than incidental marketing details. An ordinary later-generation pet should not be described with an early-generation hybrid price.",
+      "## #8. Cornish Rex",
+      "Price: USD $2,500–$3,500. Origin: England. Basis: Published pet-kitten offer. [orexcattery.com](https://www.orexcattery.com/adoption-process)",
+      "O’Rex publishes this range and explains that type, rarity, veterinary care and socialization influence its fees. The Cornish Rex’s rippled coat and slender outline distinguish it from the Devon Rex, despite the shared Rex label. The price includes a particular set of records and services. Comparing the list of inclusions is more useful than assuming every curly-coated kitten is priced on identical terms.",
+      "## #7. Toyger",
+      "Price: USD $2,500–$3,500. Origin: United States. Basis: Published guide estimate, not a sale. [chewy.com](https://www.chewy.com/education/cat-breeds/toyger)",
+      "This is a published price-guide estimate, not a breeder quote or a verified sale. Chewy’s veterinary-reviewed profile separates the usual kitten range from higher show-quality pricing, which we exclude. The Toyger was developed to evoke a tiger’s stripes in a domestic cat, not to create a pet tiger. Its visual identity explains demand without making wild-animal ownership part of the proposition.",
+      "## #6. Ragdoll",
+      "Price: USD $3,600. Origin: United States. Basis: Published pet-kitten offer. [sunshineragdolls.com](https://www.sunshineragdolls.com/_files/ugd/7c8ef2_208470117ff44c9eaa547f3e41d7f3a1.pdf)",
+      "Sunshine Ragdolls’ 2025/26 document sets the pet price at $3,600 and separates first-pick, show and breeding categories. This avoids using breeding rights to inflate a companion-animal ranking. CFA traces the Ragdoll to Ann Baker’s work in California in the 1960s. Its blue eyes, pointed coloring and large frame are recognizable traits, but the individual’s temperament is not guaranteed by a breed name.",
+      "## #5. Siberian",
+      "Price: USD $3,600. Origin: Russia. Basis: Published pet-kitten offer. [meowoff.us](https://meowoff.us/siberian-kittens-for-sale/)",
+      "The selected figure is MeoWoff’s full listed price for Mikhey, not the smaller reservation payment and not a breed-wide ceiling. The Siberian’s substantial body and dense coat reflect its Russian identity. Published kitten lists change as animals are reserved. Anyone comparing costs should preserve the date, kitten identity and full balance, rather than treating a deposit as the entire purchase price.",
+      "## #4. British Shorthair",
+      "Price: USD ~$2,000–$4,000+. Origin: United Kingdom. Basis: Breeder’s market estimate; $4,000 anchor. [tlcbrits.com](https://tlcbrits.com/faqs)",
+      "TLC Brits describes this as a US market range and says its own kittens fall in the middle. Accordingly, $4,000 is only the numeric ranking anchor, not its own quoted kitten price or a maximum. The breed’s dense coat and rounded head help drive demand, while color and pedigree affect offers. We exclude the open-ended plus from any claim of a measured ceiling.",
+      "## #3. Russian Blue",
+      "Price: USD $5,200. Origin: Russia. Basis: Published pet-kitten offer. [archangelcat.com](https://www.archangelcat.com/russianbluekittenpricing)",
+      "Archangel Cat lists a $250 reservation deposit plus a $4,950 balance, producing a $5,200 base total. We do not add its optional pick-of-litter fee. The blue-gray double coat and green-eyed adult appearance distinguish the breed, but a seller’s premium price is not evidence of a national average. Itemizing the payment stages prevents understating the total with a deposit-only headline.",
+      "## #2. Maine Coon",
+      "Price: USD $5,500–$7,500. Origin: United States. Basis: Published pet-kitten offer. [eurocoonsmainecooncattery.com](https://www.eurocoonsmainecooncattery.com/maine-coon-kittens-for-sale/)",
+      "EuroCoons publishes a general companion placement range of $5,500–$7,500 and asks buyers to confirm individual availability. This is a premium seller’s example, not the typical price of every Maine Coon. The breed’s large frame, substantial coat and conspicuous ear furnishings create strong visual appeal. Size is not a reason to overlook veterinary screening, socialization or the costs of caring for a large adult cat.",
+      "## #1. Savannah, HP F1",
+      "Price: USD $25,000. Origin: United States. Basis: Published pet-kitten offer. [royalsavannahs.com](https://www.royalsavannahs.com/pages/faqs)",
+      "Royal Savannahs publishes $25,000 for its high-percentage F1 pet guideline, while later generations are listed for much less. This is a generation-specific example, not the price of every Savannah. TICA warns that serval ancestry affects legality in some jurisdictions. The F1 comparison therefore needs both its generation label and a practical question: is this animal lawful and appropriate for the intended home?",
+      "## What should justify a premium?",
+      "An expensive kitten is not automatically a better companion. Ask for the full contract, relevant screening records, vaccination history, pedigree documentation and an explanation of what the fee includes. A large price without a clear identity and verifiable care history is not a substitute for those records.",
+      "Breed history should come from registries rather than romantic sales stories. CFA’s accounts of the [Birman](https://cfa.org/breed/birman/) and [Ragdoll](https://cfa.org/breed/ragdoll/), and TICA’s descriptions of the [Donskoy](https://tica.org/breed/donskoy/) and [Savannah](https://tica.org/breed/savannah/), help separate documented development from appearance-based assumptions.",
+      "### Budget for the individual, not the ranking",
+      "Food, grooming, insurance or emergency reserves, veterinary care and suitable space continue long after the purchase. A low-shedding or hairless appearance is not a guarantee against allergy. Choosing a companion should begin with welfare and household fit; rescue and adult placements are alternatives, not inferior versions of a price leaderboard.",
+      "For a different relationship between money and living animals, read [horse auction records](/articles/most-expensive-horses-auction-records/). Our [fruit-price comparison](/articles/most-expensive-fruits-prices-records/) explains why luxury claims require units, while [Félicette’s history](/articles/felicette-french-cat-space-tragic-end/) offers a separate perspective on human responsibility toward cats."
+    ],
+    "references": [
+      {
+        "name": "tdcattery.com",
+        "url": "https://tdcattery.com/adoption"
+      },
+      {
+        "name": "de-ambarino.com",
+        "url": "https://www.de-ambarino.com/kitteninfo.html"
+      },
+      {
+        "name": "asfcattery.com",
+        "url": "https://www.asfcattery.com/available-kittens"
+      },
+      {
+        "name": "lykoicattery.com",
+        "url": "https://lykoicattery.com/adoption/availablekittens/cost"
+      },
+      {
+        "name": "majesticgembengals.com",
+        "url": "https://www.majesticgembengals.com/"
+      },
+      {
+        "name": "orexcattery.com",
+        "url": "https://www.orexcattery.com/adoption-process"
+      },
+      {
+        "name": "chewy.com",
+        "url": "https://www.chewy.com/education/cat-breeds/toyger"
+      },
+      {
+        "name": "sunshineragdolls.com",
+        "url": "https://www.sunshineragdolls.com/_files/ugd/7c8ef2_208470117ff44c9eaa547f3e41d7f3a1.pdf"
+      },
+      {
+        "name": "meowoff.us",
+        "url": "https://meowoff.us/siberian-kittens-for-sale/"
+      },
+      {
+        "name": "tlcbrits.com",
+        "url": "https://tlcbrits.com/faqs"
+      },
+      {
+        "name": "archangelcat.com",
+        "url": "https://www.archangelcat.com/russianbluekittenpricing"
+      },
+      {
+        "name": "eurocoonsmainecooncattery.com",
+        "url": "https://www.eurocoonsmainecooncattery.com/maine-coon-kittens-for-sale/"
+      },
+      {
+        "name": "royalsavannahs.com",
+        "url": "https://www.royalsavannahs.com/pages/faqs"
+      },
+      {
+        "name": "cfa.org",
+        "url": "https://cfa.org/breed/birman/"
+      },
+      {
+        "name": "cfa.org",
+        "url": "https://cfa.org/breed/ragdoll/"
+      },
+      {
+        "name": "tica.org",
+        "url": "https://tica.org/breed/donskoy/"
+      },
+      {
+        "name": "tica.org",
+        "url": "https://tica.org/breed/savannah/"
+      }
+    ],
+    "relatedSlugs": [
+      "most-expensive-fruits-prices-records",
+      "most-expensive-horses-auction-records",
+      "felicette-french-cat-space-tragic-end"
+    ],
+    "faq": [
+      {
+        "question": "What is the highest price example here?",
+        "answer": "Royal Savannahs’ $25,000 guideline for a high-percentage F1 pet. Later generations have different prices and legal restrictions may apply."
+      },
+      {
+        "question": "Are these verified completed sales?",
+        "answer": "No. They are published pet offers, seller guidelines and explicitly labeled estimates checked on November 25, 2026."
+      },
+      {
+        "question": "Why is Ashera excluded?",
+        "answer": "We do not treat a marketing label and unsupported exceptional-price stories as a comparable, documented domestic breed-price record."
+      },
+      {
+        "question": "Does the highest price guarantee the healthiest cat?",
+        "answer": "No. The individual’s veterinary records, appropriate screening, care and suitability matter more than price alone."
+      }
+    ],
+    "readingTime": "10 min read"
+  },
+  {
+    "id": "590",
+    "slug": "most-expensive-books-sale-records",
+    "title": "15 OF THE MOST EXPENSIVE BOOKS EVER SOLD",
+    "seoTitle": "15 Most Expensive Book Sales: Prices and Provenance",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Explore 15 landmark sales of printed books and book manuscripts, from Codex Sassoon to Audubon, with USD prices, provenance and auction rules explained.",
+    "excerpt": "Explore 15 landmark sales of printed books and book manuscripts, from Codex Sassoon to Audubon, with USD prices, provenance and auction rules explained.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/most-expensive-books-sale-records.jpg",
+    "coverAlt": "Supplied illustration of rare books and illuminated pages in a display case",
+    "headlineHighlights": {
+      "red": "MOST EXPENSIVE BOOKS",
+      "gold": "EVER SOLD"
+    },
+    "tags": [
+      "Rare books",
+      "Manuscripts",
+      "Auction records"
+    ],
+    "content": [
+      "Codex Sassoon’s $38.1 million auction result leads this countdown of 15 exceptionally expensive book sales. These are prices for particular surviving objects: a manuscript, an annotated copy or a specific multi-volume set. They are not prices for the literary work in the abstract, and a famous title does not make every edition valuable.",
+      "The selection crosses religious traditions, printing technologies and languages. A tiny Gospel, a Chinese woodblock set and a vast illustrated natural-history work enter the same table only because the financial method is explicit. Research was checked on November 25, 2026.",
+      "## What counts as a book sale?",
+      "We rank 15 documented cash sales of printed books and book-form manuscripts by nominal USD price, from #15 to #1. Disclosed private purchases are labeled. Auction totals include premiums where reported; foreign-currency sales retain the original amount with a contemporary published dollar equivalent. These conversions are approximate, not inflation-adjusted.",
+      "Each work receives one place using the selected documented copy. Multi-volume sets and surviving volume groups qualify. Loose letters, constitutional broadsides, individual illuminated leaves, scrolls, comic issues, valuations and tax-relief transfers are outside this scope. This is an evidence-based selection, not a claim to a complete worldwide transaction database.",
+      "## Comparison of the 15 selected sales",
+      "A price belongs to the copy and the transaction shown. Do not confuse a hammer bid with a fee-inclusive total or a disclosed private purchase with an auction.",
+      "[[LUXURY25_590]]",
+      "## #15. Luzzatto High Holiday Mahzor",
+      "Price: USD $8,307,000. Origin: Germany. Basis: 2021 auction result. [moked.it](https://moked.it/international/my-ancestors-magnificent-mahzor-why-its-sale-will-benefit-culture-as-a-whole/)",
+      "This illuminated Jewish prayer book was made in southern Germany around the late thirteenth or early fourteenth century. Its text and annotations preserve a history of worship and movement between communities, not simply decorative painting. The 2021 sale also raised questions about access to cultural heritage: a financially valuable manuscript can be both an institution’s asset and a community’s historical record.",
+      "## #14. Qur’an on Chinese paper, fifteenth century",
+      "Price: USD ~$8,760,000. Origin: Iran. Basis: 2020; £7,016,250 auction result. [thenationalnews.com](https://www.thenationalnews.com/arts/a-rare-look-inside-an-exceptional-15th-century-quran-1.1039840)",
+      "The manuscript combines Persianate calligraphy with colored, gold-decorated Chinese paper. Its value lies in the surviving material evidence of connected artistic traditions as well as religious significance. Christie’s sold it in June 2020. [Reporting also raised provenance questions](https://www.theartnewspaper.com/2020/07/06/quran-quietly-sells-for-record-pound7m-despite-questions-over-its-provenance), an essential reminder that a high price does not itself settle the ownership history or ethical questions surrounding an object.",
+      "## #13. Yongle Dadian, two manuscript volumes",
+      "Price: USD ~$9,190,000. Origin: China. Basis: 2020; €8,128,000 auction result. [magazine.interencheres.com](https://magazine.interencheres.com/art-mobilier/top-20-des-oeuvres-les-plus-cheres-vendues-en-2020-sur-interencheres/)",
+      "These two surviving volumes belong to the sixteenth-century manuscript transmission of the vast Chinese encyclopedia, not a complete encyclopedia purchased for this price. Beaussant-Lefèvre sold them in Paris on July 7, 2020. Their importance comes from survival within a dispersed textual project: a small physical portion can preserve knowledge otherwise missing from an enormous original enterprise.",
+      "## #12. Bomberg Babylonian Talmud",
+      "Price: USD $9,322,000. Origin: Italy. Basis: 2015 auction result. [antiquesandthearts.com](https://antiquesandthearts.com/sixteenth-century-talmud-setsnew-world-auction-record-for-judaica/)",
+      "The Valmadonna set brings together tractates from Daniel Bomberg’s first and second Venetian editions. This is a multi-volume book lot, not one modern paperback. The printing’s historical importance and the set’s preservation and provenance explain its desirability. The 2015 sale illustrates how a publisher’s organization of a text can become a lasting cultural artifact as significant as an individual author’s autograph.",
+      "## #11. George Washington’s Acts of Congress",
+      "Price: USD $9,826,500. Origin: United States. Basis: 2012 auction result. [christies.com](https://www.christies.com/presscenter/pdf/2012/GWactsofcongress_NewYork_22June.pdf)",
+      "The 1789 volume contains the Constitution and Bill of Rights, with Washington’s own annotations. Its price is for the first president’s particular working copy, not for any copy of those texts. Acquired for Mount Vernon, it demonstrates the force of personal association: marginal marks can reveal how a historical reader engaged with the powers and obligations of office.",
+      "## #10. Shakespeare’s First Folio, Mills College copy",
+      "Price: USD $9,978,000. Origin: England. Basis: 2020 auction result. [press.christies.com](https://press.christies.com/wp-content/uploads/2023/09/6c7fecf02a9aab7e0a5b8107eb8c97af.pdf)",
+      "Published in London in 1623, the First Folio gathered Shakespeare’s plays after his death. The complete Mills College copy sold at Christie’s in October 2020. Bibliographical importance and completeness work together here: a missing leaf, supplied page or restoration can change the identity of a collectible copy. This record therefore cannot be applied indiscriminately to every surviving First Folio.",
+      "## #9. The Birds of America, Hesketh copy",
+      "Price: USD ~$11,365,000. Origin: Britain and United States. Basis: 2010; £7,321,250 auction result. [guinnessworldrecords.com](https://www.guinnessworldrecords.com/world-records/684321-most-expensive-natural-history-book-sold-at-auction)",
+      "Audubon’s monumental bird illustrations were issued between 1827 and 1838 and assembled into imposing volumes. The Hesketh copy sold at Sotheby’s London in December 2010. Large format, hand coloring and the survival of a complete set help explain its value. Other copies have different sale histories; this list gives the work one position rather than filling the table with repeated Audubons.",
+      "## #8. Gospels of Henry the Lion",
+      "Price: USD ~$11,700,000. Origin: Germany. Basis: 1983; £8,140,000 auction result. [upi.com](https://www.upi.com/amp/Archives/1983/12/18/West-Germany-takes-biggest-auction-prize/6490440571600/)",
+      "Made in twelfth-century Germany for Henry the Lion, this illuminated Gospel book combines sacred text, patronage and political imagery. A German consortium acquired it at Sotheby’s in December 1983. Its nominal dollar price is lower than several modern records, but the earlier date matters economically. We resist inflating it here because doing so would change the ranking’s agreed measurement.",
+      "## #7. Rothschild Prayerbook",
+      "Price: USD $13,605,000. Origin: Flanders. Basis: 2014 auction result. [christies.com](https://www.christies.com/en/auction/auction-2819-hgk)",
+      "This early-sixteenth-century book of hours represents the miniature painting of the Ghent-Bruges tradition. Christie’s records the January 2014 result as $13,605,000. Its earlier 1999 sale is a different transaction and is often confused with that figure. Keeping them separate protects the chronology and reminds readers that a manuscript’s ownership history may include restitution as well as collecting.",
+      "## #6. Bay Psalm Book, Old South Church copy",
+      "Price: USD $14,165,000. Origin: United States. Basis: 2013 auction result. [sothebys.com](https://www.sothebys.com/en/buy/auction/2021/the-passion-of-american-collectors-property-of-barbara-and-ira-lipman-highly-important-printed-and-manuscript-americana/psalms-the-bay-psalm-book-the-unique-surviving?locale=en)",
+      "Printed at Cambridge, Massachusetts, in 1640, the Bay Psalm Book marks an early landmark of printing in British North America. The Old South Church copy sold in 2013 to David Rubenstein. Its significance is historical and bibliographical rather than lavish visual decoration. A small, utilitarian religious book can command more than an ornate volume when survival and the history of printing intersect.",
+      "## #5. St Cuthbert Gospel",
+      "Price: USD ~$14,300,000. Origin: England. Basis: 2012 institutional purchase; £9,000,000. [assets.publishing.service.gov.uk](https://assets.publishing.service.gov.uk/media/5a7c708740f0b626628ac11f/0243.pdf)",
+      "The British Library acquired this small early medieval Gospel of John after a £9 million fundraising campaign, announcing the acquisition in April 2012. Its exceptionally preserved early binding makes it a material witness to bookmaking, not just a container for a text. This is a disclosed institutional purchase, not an auction; its separate label is essential to an honest comparison.",
+      "## #4. Annotated New Book of Tang, Southern Song edition",
+      "Price: USD ~$17,250,000. Origin: China. Basis: 2018; CNY 110,400,000 auction result. [cguardian.com](https://www.cguardian.com/zxzx/jdxw/gsxw/2018/06/9952.shtml)",
+      "China Guardian’s June 2018 statement records CNY 96 million at the hammer and CNY 110.4 million with commission. The Song-period woodblock set comprises 51 physical books containing 160 juan, rather than a complete 200-juan text. Its roughly $17.25 million equivalent follows the [auctioneer’s contemporary international release](https://artdaily.com/news/105932/China-Guardian-Spring-Auctions-2018-conclude-in-Beijing-with-remarkable-results-). The object’s early printing, textual scholarship and rare survival explain the exceptional interest.",
+      "## #3. Leonardo da Vinci’s Codex Leicester",
+      "Price: USD $30,802,500. Origin: Italy. Basis: 1994 auction result. [guinnessworldrecords.com](https://www.guinnessworldrecords.com/world-records/most-expensive-manuscript-that-is-illustrated)",
+      "Leonardo’s scientific notebook preserves observations and drawings about the physical world in his own hand. Bill Gates acquired it at Christie’s in November 1994. The attraction is not a printed first edition but direct evidence of an extraordinary mind at work. Inflation-adjusted lists sometimes put it first; this nominal-price ranking deliberately does not mix those different calculations.",
+      "## #2. Book of Mormon printer’s manuscript",
+      "Price: USD $35,000,000. Origin: United States. Basis: 2017 disclosed private purchase. [churchofjesuschrist.org](https://www.churchofjesuschrist.org/church/news/church-buys-printers-manuscript-of-book-of-mormon-from-community-of-christ?_r=1&lang=eng)",
+      "The manuscript used in preparing the first printing was purchased from Community of Christ in September 2017. The buyer’s announcement identifies the $35 million price, also recorded in the seller’s audited financial statements. This is unusually strong disclosure for a private manuscript transaction. Its religious and textual significance must be distinguished from any claim that ordinary printed copies share its value.",
+      "## #1. Codex Sassoon 1053",
+      "Price: USD $38,100,000. Origin: Eastern Mediterranean or Middle East; exact place uncertain. Basis: 2023 auction result. [anumuseum.org.il](https://anumuseum.org.il/codex-sassoon/)",
+      "This near-complete Hebrew Bible dates to around the ninth or tenth century. Alfred H. Moses acquired it at Sotheby’s in May 2023 and donated it to ANU, the Museum of the Jewish People. The museum’s account confirms the $38.1 million price. Its combination of antiquity, extensive surviving text and cultural importance makes it the highest nominal cash sale in this defined book selection.",
+      "## What collectors are actually buying",
+      "Condition and completeness matter because a book is a sequence of physical parts. A replaced title page, missing gathering, later binding or supplied facsimile can materially change its description. A record for one complete copy cannot simply be transferred to another copy with a different survival history.",
+      "Provenance can add evidence of use: ownership marks, annotations and institutional records turn a text into a historical witness. Yet price does not resolve restitution or access questions. Researchers still need to ask who owned the object, how it moved and whether it can be studied.",
+      "### Price, importance and public access",
+      "A market record measures a transaction, not the total importance of a civilization’s books. Many indispensable manuscripts are in public collections and have no meaningful sale price. Their absence from this table does not make them culturally less significant.",
+      "Explore the making of a literary legacy through [Carlo Collodi and Pinocchio](/articles/carlo-collodi-200-birthday-pinocchio-1826-2026/). For other provenance-sensitive markets, compare [car auction records](/articles/most-expensive-cars-auction-records/) and [horse auction records](/articles/most-expensive-horses-auction-records/)."
+    ],
+    "references": [
+      {
+        "name": "moked.it",
+        "url": "https://moked.it/international/my-ancestors-magnificent-mahzor-why-its-sale-will-benefit-culture-as-a-whole/"
+      },
+      {
+        "name": "thenationalnews.com",
+        "url": "https://www.thenationalnews.com/arts/a-rare-look-inside-an-exceptional-15th-century-quran-1.1039840"
+      },
+      {
+        "name": "magazine.interencheres.com",
+        "url": "https://magazine.interencheres.com/art-mobilier/top-20-des-oeuvres-les-plus-cheres-vendues-en-2020-sur-interencheres/"
+      },
+      {
+        "name": "antiquesandthearts.com",
+        "url": "https://antiquesandthearts.com/sixteenth-century-talmud-setsnew-world-auction-record-for-judaica/"
+      },
+      {
+        "name": "christies.com",
+        "url": "https://www.christies.com/presscenter/pdf/2012/GWactsofcongress_NewYork_22June.pdf"
+      },
+      {
+        "name": "press.christies.com",
+        "url": "https://press.christies.com/wp-content/uploads/2023/09/6c7fecf02a9aab7e0a5b8107eb8c97af.pdf"
+      },
+      {
+        "name": "guinnessworldrecords.com",
+        "url": "https://www.guinnessworldrecords.com/world-records/684321-most-expensive-natural-history-book-sold-at-auction"
+      },
+      {
+        "name": "upi.com",
+        "url": "https://www.upi.com/amp/Archives/1983/12/18/West-Germany-takes-biggest-auction-prize/6490440571600/"
+      },
+      {
+        "name": "christies.com",
+        "url": "https://www.christies.com/en/auction/auction-2819-hgk"
+      },
+      {
+        "name": "sothebys.com",
+        "url": "https://www.sothebys.com/en/buy/auction/2021/the-passion-of-american-collectors-property-of-barbara-and-ira-lipman-highly-important-printed-and-manuscript-americana/psalms-the-bay-psalm-book-the-unique-surviving?locale=en"
+      },
+      {
+        "name": "assets.publishing.service.gov.uk",
+        "url": "https://assets.publishing.service.gov.uk/media/5a7c708740f0b626628ac11f/0243.pdf"
+      },
+      {
+        "name": "cguardian.com",
+        "url": "https://www.cguardian.com/zxzx/jdxw/gsxw/2018/06/9952.shtml"
+      },
+      {
+        "name": "guinnessworldrecords.com",
+        "url": "https://www.guinnessworldrecords.com/world-records/most-expensive-manuscript-that-is-illustrated"
+      },
+      {
+        "name": "churchofjesuschrist.org",
+        "url": "https://www.churchofjesuschrist.org/church/news/church-buys-printers-manuscript-of-book-of-mormon-from-community-of-christ?_r=1&lang=eng"
+      },
+      {
+        "name": "anumuseum.org.il",
+        "url": "https://anumuseum.org.il/codex-sassoon/"
+      },
+      {
+        "name": "theartnewspaper.com",
+        "url": "https://www.theartnewspaper.com/2020/07/06/quran-quietly-sells-for-record-pound7m-despite-questions-over-its-provenance"
+      },
+      {
+        "name": "artdaily.com",
+        "url": "https://artdaily.com/news/105932/China-Guardian-Spring-Auctions-2018-conclude-in-Beijing-with-remarkable-results-"
+      }
+    ],
+    "relatedSlugs": [
+      "carlo-collodi-200-birthday-pinocchio-1826-2026",
+      "most-expensive-cars-auction-records",
+      "most-expensive-horses-auction-records"
+    ],
+    "faq": [
+      {
+        "question": "What is the highest-priced book here?",
+        "answer": "Codex Sassoon, sold at Sotheby’s in May 2023 for $38.1 million and subsequently donated to ANU."
+      },
+      {
+        "question": "Why is the US Constitution not included?",
+        "answer": "The famous auctioned broadside is a loose document, outside this article’s printed-book and book-manuscript scope."
+      },
+      {
+        "question": "Why include the Book of Mormon manuscript?",
+        "answer": "Its $35 million private purchase was publicly disclosed. The table labels it as a private sale, not an auction."
+      },
+      {
+        "question": "Are these prices adjusted for inflation?",
+        "answer": "No. The ranking uses nominal sale prices and contemporary approximate USD equivalents, retaining original currencies."
+      }
+    ],
+    "readingTime": "10 min read"
+  },
+  {
+    "id": "591",
+    "slug": "most-expensive-cars-auction-records",
+    "title": "THE 15 MOST EXPENSIVE CARS SOLD AT AUCTION",
+    "seoTitle": "15 Most Expensive Cars at Auction: Verified Sale Records",
+    "seoTitleAbsolute": true,
+    "metaDescription": "From Ferrari competition legends to the Mercedes Uhlenhaut Coupé, compare 15 documented car auction results, with original currencies and charity sales explained.",
+    "excerpt": "From Ferrari competition legends to the Mercedes Uhlenhaut Coupé, compare 15 documented car auction results, with original currencies and charity sales explained.",
+    "category": "Lifestyle",
+    "schemaType": "Article",
+    "date": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/most-expensive-cars-auction-records.jpg",
+    "coverAlt": "Supplied editorial image of Bugatti, Ferrari and Rolls-Royce cars outside a grand house",
+    "headlineHighlights": {
+      "red": "15 MOST EXPENSIVE CARS",
+      "gold": "AT AUCTION"
+    },
+    "tags": [
+      "Collector cars",
+      "Auction records"
+    ],
+    "content": [
+      "The Mercedes-Benz 300 SLR Uhlenhaut Coupé leads this selection with a confirmed €135 million auction result, approximately $142.3 million at the time. The striking point is not simply the money: most cars near the top are historic competition machines whose individual stories matter more than a new-car specification sheet.",
+      "This countdown compares 15 of the highest documented auction results located in our research, checked on November 25, 2026. It includes important 2026 sales, identifies separate chassis of the same model and explains why a charity bid cannot be read as an ordinary retail price.",
+      "## How the ranking works",
+      "The order runs from #15 to #1 by nominal USD total reported at the sale, with buyer’s premium included where the source includes it. Non-dollar transactions retain their original currency and a rounded contemporary dollar equivalent. We do not adjust for inflation or convert historic sales at today’s rates.",
+      "This is an auction ranking, including the invitation-only Mercedes auction and explicitly labeled charity lots. Confidential private deals, manufacturer estimates, advertised asking prices and rumored coachbuilt prices are excluded. Each individual chassis may appear once; different GTOs are separate cars. Coverage depends on disclosed results, not access to every private collection.",
+      "## Price comparison",
+      "Read the original-currency figures in the basis column alongside the approximate dollar amounts. The same car model can occupy several places because the objects sold are different.",
+      "[[LUXURY25_591]]",
+      "## #15. Ferrari 275 GTB/C Speciale, 1964",
+      "Price: USD $26,400,000. Origin: Italy. Basis: 2014 auction result. [fe1.rmsothebys.com](https://fe1.rmsothebys.com/stories/all/years-of-firsts-and-milestones/)",
+      "The lowest position here still represents a specialized competition Ferrari, not an ordinary 275 GTB. Its lightweight racing development and rarity explain why the Speciale designation matters. RM records the result at Monterey in 2014. Comparing it with a standard road car of the same broad family would erase precisely the engineering and scarcity that bidders were buying.",
+      "## #14. Ferrari 275 GTB/4*S NART Spider, 1967",
+      "Price: USD $27,500,000. Origin: Italy. Basis: 2013 auction result. [fe1.rmsothebys.com](https://fe1.rmsothebys.com/stories/all/years-of-firsts-and-milestones/)",
+      "The NART Spider brought open-air coachwork, Ferrari’s four-cam V12 and exceptional scarcity into one lot. The Eddie Smith family’s long ownership gave this particular car an additional human history. RM announced the Monterey result in August 2013; proceeds were intended for charitable causes. That charitable dimension belongs beside the price, rather than disappearing inside a supposedly universal market valuation.",
+      "## #13. Ferrari 290 MM, 1956",
+      "Price: USD $28,050,000. Origin: Italy. Basis: 2015 auction result. [classic-car-auctions.info](https://www.classic-car-auctions.info/news/press-releases/2015-rm-sothebys-annual-results-overview-press-release/)",
+      "This sports-racing Ferrari belongs to the era when endurance competition was central to the manufacturer’s identity. Its result came at RM Sotheby’s Driven by Disruptions sale in New York, not at a new-car launch. The auctioneer’s annual statement identifies it as its highest result of 2015. The relevant commodity was a documented historic racing machine, rather than horsepower purchased by the dollar.",
+      "## #12. Mercedes-Benz W196 R, 1954, open-wheel",
+      "Price: USD ~$29,650,095. Origin: Germany. Basis: 2013; £19,601,500 auction result. [hagerty.co.uk](https://www.hagerty.co.uk/articles/auction-analysis-top-sales-and-july-round-up/)",
+      "The exposed-wheel W196 R sold by Bonhams at Goodwood is a different car from the streamlined Mercedes higher in this ranking. Its association with Juan Manuel Fangio places it within Grand Prix history. The sterling result includes the buyer’s premium; the dollar figure is the contemporary conversion reported by Hagerty. Neither figure should be mistaken for the hammer bid alone.",
+      "## #11. McLaren F1 GTR 10R, 1996",
+      "Price: USD $34,655,000. Origin: United Kingdom. Basis: 2026 auction result. [backoffice.rmsothebys.com](https://backoffice.rmsothebys.com/auctions/mo26/lots/r0170-1996-mclaren-f1-gtr/)",
+      "Chassis 10R, the scarlet-and-yellow Pop Art F1, added a major 2026 result to the record books. RM documents its factory history, later ownership by Pink Floyd’s Nick Mason and conversion for road use. Those details distinguish a specific GTR from an ordinary F1 road car. The price reflects that combination of competition engineering, recognizable livery and documented ownership.",
+      "## #10. Ferrari 335 S, 1957",
+      "Price: USD ~$35,711,359. Origin: Italy. Basis: 2016; €32,075,200 auction result. [conseilmaisonsdevente.fr](https://conseilmaisonsdevente.fr/sites/default/files/communique_de_presse_artcurial_salon_retromobile_-_05.02.2016.pdf)",
+      "Artcurial’s contemporary release gives both the euro total and this dollar equivalent for chassis 0674. The car came from the Pierre Bardinon collection, with the historical significance of Ferrari’s great front-engined sports racers. Its placement illustrates why currency must be fixed to the transaction: converting the same euro bid at a later exchange rate could move the car without another sale taking place.",
+      "## #9. Ferrari 250 LM 5893, 1964",
+      "Price: USD ~$36,300,000. Origin: Italy. Basis: 2025; €34,880,000 auction result. [backoffice.rmsothebys.com](https://backoffice.rmsothebys.com/media-center/press-releases/rm-sotheby-s-paris-sale-generates-69-073-275-to-become-europe-s-highest-ever-grossing-sale-in-collector-car-auction-history/)",
+      "This is the NART-entered car driven to overall victory at Le Mans in 1965 by Masten Gregory and Jochen Rindt. RM’s Paris statement confirms the euro result and the Indianapolis Motor Speedway Museum connection. Actual victory at a defining race supplies a distinction that cannot be recreated by restoring another example. The dollar amount is approximate; the euro total is the authoritative result.",
+      "## #8. Ferrari 250 GTO 3851GT, 1962",
+      "Price: USD $38,115,000. Origin: Italy. Basis: 2014 auction result. [classic-car-auctions.info](https://www.classic-car-auctions.info/records/1962-ferrari-250-gto-bianco-speciale-sold/)",
+      "Bonhams sold chassis 3851 at Quail Lodge in 2014. Its own racing and repair history belongs to this individual car; it must not be merged with the histories of the other GTOs in this list. The model’s tiny production and competition standing explain the broad demand, while provenance and condition help explain why separate examples produce different results.",
+      "## #7. Ferrari 250 GTO 3729GT, Bianco Speciale, 1962",
+      "Price: USD $38,500,000. Origin: Italy. Basis: 2026 auction result. [classicmotorsports.com](https://classicmotorsports.com/news/who-took-delivery-of-bianco-speciale-david-sk-lee-did/)",
+      "The white Bianco Speciale sold at Mecum’s Kissimmee auction in January 2026. Contemporary reporting subsequently identified collector David SK Lee taking delivery. Its factory-white identity makes it visually distinct, but color alone does not account for a GTO’s place in collecting. The important comparison is this documented auction result, not a rumored private price for another chassis.",
+      "## #6. Ferrari Luce Tailor Made, chassis 0, 2026",
+      "Price: USD $40,000,000. Origin: Italy. Basis: 2026, charity auction result. [backoffice.rmsothebys.com](https://backoffice.rmsothebys.com/stories/first-ferrari-ev-sells-for-40-million-becoming-the-most-expensive-new-car-ever-sold-at-auction/)",
+      "This first production Luce was a charity lot, with proceeds benefiting educational initiatives through the Ferrari Foundation. RM records $40 million, far beyond its ordinary production pricing. Its inclusion is legitimate as a published auction result, but analytically unusual: first-chassis symbolism, customization and charitable giving all separate it from a normal showroom purchase or an established collector-car comparable.",
+      "## #5. Shelby Cobra Daytona Coupe CSX2300, 1964",
+      "Price: USD $42,905,000. Origin: United States. Basis: 2026 auction result. [goodingco.com](https://www.goodingco.com/press/article/43-million-shelby-cobra-daytona-coupe-comes-out-on-top-at-2026-car-week-across-all-auction-sales-becomes-highest-grossing-american-car-of-all-time)",
+      "Gooding Christie’s confirmed the Daytona Coupe as its top lot at the 2026 Pebble Beach sale, setting a record for an American car. The enclosed Cobra’s importance lies in a purposeful competition design and a small surviving group, rather than luxury equipment. The published total includes auction fees, making it the appropriate figure to compare with the other premium-inclusive results here.",
+      "## #4. Ferrari 250 GTO 3413GT, 1962",
+      "Price: USD $48,405,000. Origin: Italy. Basis: 2018 auction result. [rmsothebys.com](https://rmsothebys.com/auctions/mo18/lots/r0117-1962-ferrari-250-gto-by-scaglietti/)",
+      "RM identifies chassis 3413 as the third GTO built and documents its period upgrade to the later, more aggressive body style. That history is a reminder that originality is more complicated than never changing anything: a factory-era competition alteration can itself be historically significant. Its 2018 Monterey result remains a transaction for that chassis, not a price list for all surviving GTOs.",
+      "## #3. Ferrari 330 LM / 250 GTO 3765, 1962",
+      "Price: USD $51,705,000. Origin: Italy. Basis: 2023 auction result. [rmsothebys.com](https://rmsothebys.com/GTO/)",
+      "Chassis 3765 carries the unusual distinction of having been raced by Scuderia Ferrari itself. RM’s catalog documents the Nürburgring result and the car’s appearance at Le Mans in 1962. Its larger-engine origins explain the combined 330 LM / 250 GTO description. Treating the name as a mistake, or silently simplifying it to a standard GTO, would remove an important part of its identity.",
+      "## #2. Mercedes-Benz W196 R Stromlinienwagen, 1954",
+      "Price: USD ~$53,900,000. Origin: Germany. Basis: 2025; €51,155,000 auction result. [rmsothebys.com](https://rmsothebys.com/auctions/tt25/lots/r0001-1954-mercedesbenz-w-196-r-stromlinienwagen/)",
+      "The streamlined W196 R sold in Stuttgart in February 2025 combines Grand Prix pedigree with striking enclosed-wheel bodywork. The auction benefited the Indianapolis Motor Speedway Museum. Its chassis identity and different body form distinguish it from the 2013 Goodwood Mercedes. The published euro total is exact; the dollar amount is rounded to avoid suggesting an exchange-rate precision the transaction did not have.",
+      "## #1. Mercedes-Benz 300 SLR Uhlenhaut Coupé, 1955",
+      "Price: USD ~$142,300,000. Origin: Germany. Basis: 2022; €135,000,000 auction result. [group.mercedes-benz.com](https://group.mercedes-benz.com/company/news/uhlenhaut-coupe.html)",
+      "Mercedes-Benz confirms that the sale took place on May 5, 2022, at its museum with RM Sotheby’s. It was an invitation-only auction, not an undisclosed negotiated private transaction. One of only two Uhlenhaut Coupés left the manufacturer’s collection, with proceeds establishing the Mercedes-Benz Fund. Extreme scarcity, engineering history and the exceptional release of a factory-held car explain why this result sits so far apart.",
+      "## Why history can outweigh performance",
+      "A racing car is a physical object with a record attached to it. Factory documentation, period photographs, ownership continuity and the identity of the chassis determine what can responsibly be said about it. A visually similar restoration does not automatically acquire the same history.",
+      "Scarcity also works at several levels. A manufacturer may have built very few cars of a type, yet a particular example can stand apart through a major victory, an unusual body or long retention by the factory. Those distinctions are why the list uses individual cars instead of assigning one price to an entire badge.",
+      "### What the figures do not promise",
+      "These results are not guaranteed investment returns. Storage, maintenance, insurance, transaction fees and the difficulty of finding another buyer all sit outside the headline price. A charity auction adds another motive that may never recur at resale.",
+      "For the same distinction between an object and its provenance, explore [landmark book sales](/articles/most-expensive-books-sale-records/) and [horse auction records](/articles/most-expensive-horses-auction-records/). The history of [Hermès](/articles/hermes-history-harness-maker-luxury-birkin/) offers another perspective on craftsmanship and scarcity."
+    ],
+    "references": [
+      {
+        "name": "fe1.rmsothebys.com",
+        "url": "https://fe1.rmsothebys.com/stories/all/years-of-firsts-and-milestones/"
+      },
+      {
+        "name": "classic-car-auctions.info",
+        "url": "https://www.classic-car-auctions.info/news/press-releases/2015-rm-sothebys-annual-results-overview-press-release/"
+      },
+      {
+        "name": "hagerty.co.uk",
+        "url": "https://www.hagerty.co.uk/articles/auction-analysis-top-sales-and-july-round-up/"
+      },
+      {
+        "name": "backoffice.rmsothebys.com",
+        "url": "https://backoffice.rmsothebys.com/auctions/mo26/lots/r0170-1996-mclaren-f1-gtr/"
+      },
+      {
+        "name": "conseilmaisonsdevente.fr",
+        "url": "https://conseilmaisonsdevente.fr/sites/default/files/communique_de_presse_artcurial_salon_retromobile_-_05.02.2016.pdf"
+      },
+      {
+        "name": "backoffice.rmsothebys.com",
+        "url": "https://backoffice.rmsothebys.com/media-center/press-releases/rm-sotheby-s-paris-sale-generates-69-073-275-to-become-europe-s-highest-ever-grossing-sale-in-collector-car-auction-history/"
+      },
+      {
+        "name": "classic-car-auctions.info",
+        "url": "https://www.classic-car-auctions.info/records/1962-ferrari-250-gto-bianco-speciale-sold/"
+      },
+      {
+        "name": "classicmotorsports.com",
+        "url": "https://classicmotorsports.com/news/who-took-delivery-of-bianco-speciale-david-sk-lee-did/"
+      },
+      {
+        "name": "backoffice.rmsothebys.com",
+        "url": "https://backoffice.rmsothebys.com/stories/first-ferrari-ev-sells-for-40-million-becoming-the-most-expensive-new-car-ever-sold-at-auction/"
+      },
+      {
+        "name": "goodingco.com",
+        "url": "https://www.goodingco.com/press/article/43-million-shelby-cobra-daytona-coupe-comes-out-on-top-at-2026-car-week-across-all-auction-sales-becomes-highest-grossing-american-car-of-all-time"
+      },
+      {
+        "name": "rmsothebys.com",
+        "url": "https://rmsothebys.com/auctions/mo18/lots/r0117-1962-ferrari-250-gto-by-scaglietti/"
+      },
+      {
+        "name": "rmsothebys.com",
+        "url": "https://rmsothebys.com/GTO/"
+      },
+      {
+        "name": "rmsothebys.com",
+        "url": "https://rmsothebys.com/auctions/tt25/lots/r0001-1954-mercedesbenz-w-196-r-stromlinienwagen/"
+      },
+      {
+        "name": "group.mercedes-benz.com",
+        "url": "https://group.mercedes-benz.com/company/news/uhlenhaut-coupe.html"
+      }
+    ],
+    "relatedSlugs": [
+      "most-expensive-books-sale-records",
+      "most-expensive-horses-auction-records",
+      "hermes-history-harness-maker-luxury-birkin"
+    ],
+    "faq": [
+      {
+        "question": "What is the most expensive car in this ranking?",
+        "answer": "The 1955 Mercedes-Benz 300 SLR Uhlenhaut Coupé, auctioned for €135 million in May 2022, approximately $142.3 million at the time."
+      },
+      {
+        "question": "Are these prices the original new-car prices?",
+        "answer": "No. They are disclosed auction results for individual cars, with charity lots explicitly identified."
+      },
+      {
+        "question": "Why are several Ferrari 250 GTOs listed?",
+        "answer": "Each is a distinct chassis with its own provenance, condition, history and sale result."
+      },
+      {
+        "question": "Are the dollar amounts adjusted for inflation?",
+        "answer": "No. They are nominal totals or rounded contemporary USD equivalents, with the original currency retained for foreign-currency sales."
+      }
+    ],
+    "readingTime": "10 min read"
+  },
+  {
+    "id": "592",
+    "slug": "most-expensive-horses-auction-records",
+    "title": "15 OF THE MOST EXPENSIVE HORSES SOLD AT AUCTION",
+    "seoTitle": "15 Most Expensive Horses at Auction: Verified Prices",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Compare 15 major Thoroughbred auction records, including The Green Monkey and the 2026 Flightline colt, with pedigrees, currencies and ownership caveats.",
+    "excerpt": "Compare 15 major Thoroughbred auction records, including The Green Monkey and the 2026 Flightline colt, with pedigrees, currencies and ownership caveats.",
+    "category": "Lifestyle",
+    "schemaType": "Article",
+    "date": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/most-expensive-horses-auction-records.jpg",
+    "coverAlt": "Supplied illustration of three horses standing outside stables",
+    "headlineHighlights": {
+      "red": "MOST EXPENSIVE HORSES",
+      "gold": "AT AUCTION"
+    },
+    "tags": [
+      "Thoroughbreds",
+      "Bloodstock",
+      "Auction records"
+    ],
+    "content": [
+      "The Green Monkey’s $16 million auction result heads this selection of 15 extraordinary Thoroughbred bids. The list is about recorded auction prices, not the largest rumored stallion valuation. It includes yearlings, a two-year-old in training and proven mares, each entering the ring with a different kind of commercial promise.",
+      "Research checked on November 25, 2026 includes OBS’s official $10.5 million April result for the Flightline–Lucrezia colt, later named Zedan. The market has changed since older roundups, but a stronger list also requires explaining what a bid actually bought.",
+      "## Method: auction bids, not horse valuations",
+      "Entries run from #15 to #1 by recorded nominal auction price in USD. We use published auction-company records, contemporaneous reporting and clearly labeled contemporary currency equivalents. Marsha’s six million guineas equal £6.3 million; her approximate USD result is kept just below Royal Delta’s exact $8.5 million. Ties are ordered by English name.",
+      "This is a selected group of major disclosed Thoroughbred auction results, not an exhaustive census of all equestrian private deals. Stud valuations, syndication headlines, insurance amounts, earnings and unconfirmed private sales are excluded. Better Than Honour’s partnership buyout is identified: a recorded bid need not mean that the buyer paid the entire headline sum in new cash.",
+      "## The 15 auction prices compared",
+      "The prices measure different life stages, not a promise of equal racing or breeding returns. Currency conversions are approximate and no inflation adjustment is applied.",
+      "[[LUXURY25_592]]",
+      "## #15. Imperial Falcon",
+      "Price: USD $8,250,000. Origin: Canada. Basis: 1984 auction result. [keeneland.com](https://www.keeneland.com/sites/default/files/About%20Sales%20and%20Sales%20Summary%202019.pdf)",
+      "Northern Dancer out of Ballade is the pedigree behind this Windfields-consigned yearling. The July Keeneland result belongs to the intense 1980s competition for elite bloodlines. A buyer of a yearling pays for potential, not a completed racing résumé. That distinction makes the price a measure of expectations at that moment rather than proof of later sporting achievement.",
+      "## #14. Marsha",
+      "Price: USD ~$8,480,000. Origin: Ireland. Basis: 2017; 6,000,000 guineas = £6,300,000 auction result. [tattersalls.com](https://www.tattersalls.com/news/marsha-sells-for-european-record-6000000-guineas-at-tattersalls-december-mare-sale/)",
+      "The Acclamation mare brought established sprinting performance to the December sale. Tattersalls records six million guineas after her top-level successes for Elite Racing Club. A guinea is £1.05, not £1: confusing the units understates the sterling result. The rounded contemporary dollar equivalent places her just below Royal Delta here, rather than treating both as an exact $8.5 million tie.",
+      "## #13. Royal Delta",
+      "Price: USD $8,500,000. Origin: United States. Basis: 2011 auction result. [keeneland.com](https://www.keeneland.com/sites/default/files/About%20Sales%20and%20Sales%20Summary%202019.pdf)",
+      "Royal Delta sold from the Palides Investments dispersal through Chanteclair Farm to Besilu Stables. Her Empire Maker–Delta Princess pedigree accompanied a high-class racing identity. Dispersal sales have a particular significance: an owner’s collection is being redistributed, bringing horses to market that might otherwise remain unavailable. The lot’s full price is distinct from future stud fees or the prices of her descendants.",
+      "## #12. Ashado",
+      "Price: USD $9,000,000. Origin: United States. Basis: 2005 auction result. [keeneland.com](https://www.keeneland.com/sites/default/files/About%20Sales%20and%20Sales%20Summary%202019.pdf)",
+      "The Saint Ballado–Goulash mare entered the breeding-stock market with a champion’s racing reputation. John Ferguson bought her at Keeneland’s November sale. Unlike an untried yearling, a successful mare can offer evidence of athletic ability alongside reproductive potential. Even so, the auction price does not guarantee that her foals will inherit championship performance.",
+      "## #11. Plavius",
+      "Price: USD $9,200,000. Origin: United States. Basis: 2006 auction result. [keeneland.com](https://www.keeneland.com/sites/default/files/About%20Sales%20and%20Sales%20Summary%202019.pdf)",
+      "Keeneland’s historical table identifies the Danzig–Sharp Minister colt, consigned by Monticule and purchased by John Ferguson at the September yearling sale. Including him corrects an omission common in short popular lists. His entry also shows why research must use actual sale tables: a less familiar name can belong above a more famous racing champion when the metric is purchase price.",
+      "## #10. Songbird",
+      "Price: USD $9,500,000. Origin: United States. Basis: 2017 auction result. [drf.com](https://www.drf.com/news/fasig-november-songbird-sells-95-million)",
+      "Mandy Pope’s Whisper Hill Farm acquired Songbird at Fasig-Tipton in November 2017. The Medaglia d’Oro mare’s racing achievements helped make her a compelling broodmare prospect. Here the price concerns the retired mare herself, not earnings, insurance or a projected value of future offspring. Those categories describe different economic facts and cannot be added together to manufacture a larger sale record.",
+      "## #9. Jalil",
+      "Price: USD $9,700,000. Origin: United States. Basis: 2005 auction result. [keeneland.com](https://www.keeneland.com/sites/default/files/About%20Sales%20and%20Sales%20Summary%202019.pdf)",
+      "The Storm Cat–Tranquility Lake colt was consigned by Mill Ridge for Martin and Pam Wygod and bought by John Ferguson. His September result reflects the premium buyers placed on a fashionable sire and a strong female family. A yearling’s conformation and pedigree may influence bidding, but neither allows a journalist to claim that a buyer purchased certain future success.",
+      "## #8. Havre de Grace",
+      "Price: USD $10,000,000. Origin: United States. Basis: 2012 auction result. [racingpost.com](https://www.racingpost.com/bloodstock/features/top-of-the-lots-find-out-who-the-ten-priciest-auction-horses-were-since-2010-aboZn2O3Hzgx/)",
+      "The daughter of Saint Liam and Easter Bunnette was acquired by Mandy Pope at Fasig-Tipton’s November sale after an exceptional racing career. A major distinction is timing: the buyer was purchasing a proven performer for a new breeding role. The transition from racecourse to broodmare market helps explain why mares can compete with untried colts in an all-time price table.",
+      "## #7. Snaafi Dancer",
+      "Price: USD $10,200,000. Origin: United States. Basis: 1983 auction result. [keeneland.com](https://www.keeneland.com/sites/default/files/About%20Sales%20and%20Sales%20Summary%202019.pdf)",
+      "The Northern Dancer–My Bupers colt was bought by Aston Upthorpe Stud at the July selected yearling sale. His eight-figure result belongs to a specific bloodstock boom and a specific stage of development. It is not evidence that all descendants of a fashionable sire were equally valuable, or that a famous purchase price can substitute for a horse’s later record.",
+      "## #6. Playful Act",
+      "Price: USD $10,500,000. Origin: Ireland. Basis: 2007 auction result. [keeneland.com](https://www.keeneland.com/sites/default/files/About%20Sales%20and%20Sales%20Summary%202019.pdf)",
+      "A daughter of Sadler’s Wells and Magnificent Style, Playful Act came from the Swettenham Stud offering through Hill ’n’ Dale. John Ferguson’s purchase set the Keeneland November benchmark. The package joined an accomplished racehorse with a distinguished pedigree. Her total ties the 2026 Flightline colt in dollars, but the lots represented very different stages of an animal’s life and commercial prospects.",
+      "## #5. Zedan, Flightline–Lucrezia colt",
+      "Price: USD $10,500,000. Origin: United States. Basis: 2026 auction result. [obssales.com](https://obssales.com/blog/2026/04/17/to-the-moon-son-of-flightline-sells-for-record-10-5-million-to-conclude-historic-obs-april-sale/)",
+      "OBS’s April 17, 2026 report identifies hip 1056, consigned by Hartley/DeRenzo and bought by Donato Lanni for Zedan Racing. The colt was subsequently named Zedan. Use the auctioneer’s April date: the owner’s profile also contains a conflicting March reference. His price followed a striking under-tack performance and the appeal of Flightline’s first crop, not a completed racing record.",
+      "## #4. Meydan City",
+      "Price: USD $11,700,000. Origin: United States. Basis: 2006 auction result. [keeneland.com](https://www.keeneland.com/sites/default/files/About%20Sales%20and%20Sales%20Summary%202019.pdf)",
+      "The Kingmambo–Crown of Crimson colt was offered by Burleson Farms and acquired by John Ferguson at the September sale. Keeneland’s own historical summary establishes the result. His position is about the auction purchase, not career earnings. That separation is important whenever a record-priced youngster later attracts stories about whether an investment succeeded or failed.",
+      "## #3. Seattle Dancer",
+      "Price: USD $13,100,000. Origin: United States. Basis: 1985 auction result. [keeneland.com](https://www.keeneland.com/sites/default/files/About%20Sales%20and%20Sales%20Summary%202019.pdf)",
+      "The Nijinsky II–My Charmer yearling was consigned by Warner L. Jones Jr. and purchased through B.B.A. England. His 1985 July price remains the top yearling figure in Keeneland’s historical table. The female family and international demand combined in a contest for breeding potential. This is an auction record, not an inflation-adjusted estimate of what he would cost now.",
+      "## #2. Better Than Honour",
+      "Price: USD $14,000,000. Origin: United States. Basis: 2008 recorded auction bid; partnership buyout. [fasigtipton.com](https://www.fasigtipton.com/about-us)",
+      "The Deputy Minister mare was already a celebrated producer when Southern Equine secured the $14 million bid at Fasig-Tipton. A crucial caveat is that the buyer already held a reported 70 percent interest and was buying out a partner. The recorded auction price belongs in a bid ranking, but it must not be represented as $14 million of entirely new cash paid for a previously unowned horse.",
+      "## #1. The Green Monkey",
+      "Price: USD $16,000,000. Origin: United States. Basis: 2006 auction result. [thoroughbreddailynews.com](https://www.thoroughbreddailynews.com/pdf/tdn/2007/tdn070305.pdf)",
+      "The Forestry–Magical Masquerade colt sold at Fasig-Tipton’s Florida two-year-old sale after a fast public workout. The $16 million result made him a defining example of the difference between auction expectation and sporting proof. His price was not a trophy already earned; it was a buyer’s extraordinary commitment to an unfulfilled future. Private stallion deals belong in a separate comparison.",
+      "## Why bloodlines command enormous bids",
+      "A pedigree links a horse to documented relatives, but inheritance is not a vending machine for champions. Buyers combine family, physical assessment, veterinary information and their own breeding or racing plans. Competitive bidding can amplify those judgments when several international operations want the same scarce prospect.",
+      "A broodmare offers a different proposition from a yearling. Her race record may be known, and a proven producer can have offspring already demonstrating ability. The younger animal offers more unresolved possibilities. A single ranking can compare transaction sizes, but cannot make those risks identical.",
+      "### How to read a bloodstock record responsibly",
+      "Fasig-Tipton identifies the $14 million Better Than Honour result, while [contemporary reporting explains the existing ownership and partner buyout](https://sahracing.com/index/contents/news/5525). The later [Zedan Racing profile](https://zedanracing.com/horse/zedan/) supplies the colt’s name; for the sale month we prioritize the April-dated OBS report over its conflicting March wording.",
+      "Read the broader [history of horses and human civilization](/articles/horse-history-human-civilization/), then compare the treatment of provenance in [car auctions](/articles/most-expensive-cars-auction-records/) and the very different evidence behind [cat-breed prices](/articles/most-expensive-cat-breeds-prices/)."
+    ],
+    "references": [
+      {
+        "name": "keeneland.com",
+        "url": "https://www.keeneland.com/sites/default/files/About%20Sales%20and%20Sales%20Summary%202019.pdf"
+      },
+      {
+        "name": "tattersalls.com",
+        "url": "https://www.tattersalls.com/news/marsha-sells-for-european-record-6000000-guineas-at-tattersalls-december-mare-sale/"
+      },
+      {
+        "name": "drf.com",
+        "url": "https://www.drf.com/news/fasig-november-songbird-sells-95-million"
+      },
+      {
+        "name": "racingpost.com",
+        "url": "https://www.racingpost.com/bloodstock/features/top-of-the-lots-find-out-who-the-ten-priciest-auction-horses-were-since-2010-aboZn2O3Hzgx/"
+      },
+      {
+        "name": "obssales.com",
+        "url": "https://obssales.com/blog/2026/04/17/to-the-moon-son-of-flightline-sells-for-record-10-5-million-to-conclude-historic-obs-april-sale/"
+      },
+      {
+        "name": "fasigtipton.com",
+        "url": "https://www.fasigtipton.com/about-us"
+      },
+      {
+        "name": "thoroughbreddailynews.com",
+        "url": "https://www.thoroughbreddailynews.com/pdf/tdn/2007/tdn070305.pdf"
+      },
+      {
+        "name": "sahracing.com",
+        "url": "https://sahracing.com/index/contents/news/5525"
+      },
+      {
+        "name": "zedanracing.com",
+        "url": "https://zedanracing.com/horse/zedan/"
+      }
+    ],
+    "relatedSlugs": [
+      "horse-history-human-civilization",
+      "most-expensive-cars-auction-records",
+      "most-expensive-cat-breeds-prices"
+    ],
+    "faq": [
+      {
+        "question": "Which horse leads this auction selection?",
+        "answer": "The Green Monkey, sold for $16 million at Fasig-Tipton’s Florida two-year-old sale in 2006."
+      },
+      {
+        "question": "Why is Fusaichi Pegasus not included?",
+        "answer": "Reported private stallion transactions and valuations are outside this article’s public auction methodology."
+      },
+      {
+        "question": "Did Better Than Honour cost $14 million in entirely new cash?",
+        "answer": "The auction recorded a $14 million bid, but the buyer already owned a reported 70 percent interest and was buying out a partner."
+      },
+      {
+        "question": "Was the $10.5 million Flightline colt sold in March or April 2026?",
+        "answer": "The official OBS sale report is dated April 17, 2026 and describes the Spring Sale. We prioritize it over a conflicting March reference in the owner’s profile."
+      }
+    ],
+    "readingTime": "10 min read"
+  },
+  {
+    "id": "593",
+    "slug": "most-expensive-fruits-prices-records",
+    "title": "15 EXPENSIVE FRUITS: VERIFIED LOT PRICES COMPARED",
+    "seoTitle": "15 Expensive Fruits: Auction Lots and Retail Prices Explained",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Compare 15 documented fruit-price examples, from festival durian bids to specialty retail offers, with USD figures, exact units and clear evidence labels.",
+    "excerpt": "Compare 15 documented fruit-price examples, from festival durian bids to specialty retail offers, with USD figures, exact units and clear evidence labels.",
+    "category": "Lifestyle",
+    "schemaType": "Article",
+    "date": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/most-expensive-fruits-prices-records.jpg",
+    "coverAlt": "Supplied illustration of premium melon, mango, grapes, strawberries and mangosteen",
+    "headlineHighlights": {
+      "red": "15 EXPENSIVE FRUITS",
+      "gold": "PRICES COMPARED"
+    },
+    "tags": [
+      "Luxury fruit",
+      "Food culture",
+      "Auction records"
+    ],
+    "content": [
+      "A Kanyao durian sold for 1.5 million baht in 2019, approximately $47,784 in Guinness’s explanatory account. That exceptional festival bid leads this countdown of 15 documented fruit-price examples. It does not mean durian is always the most expensive fruit to buy, or that every price in a viral list measures the same thing.",
+      "The central issue is the unit. One bunch, a pair of melons, fifteen cherries and a twenty-kilogram crate are different purchases. We preserve those differences and label auctions separately from asking prices. Research and retail offers were checked on November 25, 2026.",
+      "## Method: compare the actual priced lot",
+      "The countdown runs from #15 to #1 by the selected lot or offer’s total nominal USD amount, not by price per kilogram or per individual fruit. These are 15 documented examples across distinct fruit identities, not a verified global top 15 or a measure of ordinary affordability. Retail asks remain asks; historical auction results remain dated transactions. Equal totals follow the English entry name.",
+      "Published contemporary USD equivalents are used for auctions. Tenka Fubu is explicitly calculated from its original yen bid using the previous business day’s Federal Reserve rate, ¥154.05 per dollar. We preserve quantities, original currencies and tax qualifications. Production-cost stories, unverified strawberry records and ornamental shapes without a priced documented offer are excluded.",
+      "## 15 prices, with their actual units",
+      "The unit is part of the evidence. A larger box can outrank a rarer individual fruit simply because this table compares total lot prices. It is not a per-fruit value league.",
+      "[[LUXURY25_593]]",
+      "## #15. White Jewel strawberry",
+      "Price: USD ~$10. Origin: Japan. Basis: Retail asking price, 1 fruit, 2017 report. [freshplaza.com](https://www.freshplaza.com/north-america/article/2176673/these-white-strawberries-sell-for-10-a-piece-in-japan/)",
+      "This is a historical retail benchmark for one pale strawberry, not an auction record or a current universal price. White Jewel’s appeal lies in a distinctive appearance and carefully controlled production for the gift market. The reported per-berry sale format matters: multiplying a single presentation price by an imagined kilogram would create a figure nobody in the source actually paid.",
+      "## #14. Pinkglow pineapple",
+      "Price: USD $29.00. Origin: Costa Rica. Basis: Retail asking price, 1 pineapple, checked 2026. [melissas.com](https://www.melissas.com/collections/all-fruit/products/pinkglow-pineapple)",
+      "Melissa’s lists one Pinkglow pineapple at this asking price. Its pink flesh distinguishes it from an ordinary yellow pineapple, and the seller identifies Costa Rica as the origin. This is a branded retail product, not a first-harvest auction. The premium buys a particular novelty and presentation; it should not be presented as evidence that pink pineapples routinely sell for hundreds of dollars.",
+      "## #13. Pink guava",
+      "Price: USD $37. Origin: Southern Mexico; offer shipped from Florida. Basis: Retail asking price, 1 fruit, checked 2026. [miamifruit.org](https://miamifruit.org/products/pink-guava)",
+      "Miami Fruit’s single-fruit option is a specialty mail-order offer, not the ordinary market price of guava in producing countries. Its own page offers larger boxes too. This example deliberately exposes the commercial unit: individual sampling and shipping logistics can dominate a small order. A luxury price list becomes misleading if it silently calls that retailer’s minimum-format offer the intrinsic value of the species.",
+      "## #12. Finger lime",
+      "Price: USD $77. Origin: Australia; US specialty retail offer. Basis: Retail asking price, 100 g, checked 2026. [miamifruit.org](https://miamifruit.org/products/finger-caviar-lime-box)",
+      "The selected Miami Fruit option contains 100 grams. Finger lime’s separate juice vesicles give it the culinary nickname citrus caviar. Here the unit is a measured weight, not one fruit; other options on the same page have different totals. The distinct texture can interest chefs, but neither the nickname nor the asking price makes it nutritionally equivalent to fish roe.",
+      "## #11. Mangosteen",
+      "Price: USD $77. Origin: Southeast Asia; US specialty retail offer. Basis: Retail asking price, 1 fruit, pre-order checked 2026. [miamifruit.org](https://miamifruit.org/products/mangosteen-box)",
+      "The retailer explicitly lists one fruit at $77, alongside a small box at $177 and a large box at $297. We retain the single-fruit unit rather than imply that the whole small box costs $77. Mangosteen has a thick purple rind and pale segmented flesh. The pre-order status and highly perishable nature of fresh fruit help explain why availability and delivery terms need checking.",
+      "## #10. Rubyglow pineapple",
+      "Price: USD $395.99. Origin: Costa Rica. Basis: Retail asking price, listed 1.5 lb pack, pre-order checked 2026. [melissas.com](https://www.melissas.com/products/rubyglow-pineapples)",
+      "Melissa’s identifies the red-skinned, yellow-fleshed Rubyglow as a Costa Rican pineapple developed through traditional crossbreeding. The page lists a 1.5-pound pack and pre-order status. Its $395.99 offer is a retail asking price, not a Guinness-certified sale. Packaging, cultivar identity and restricted distribution are part of the commercial proposition, and should not be confused with a demonstrated resale value.",
+      "## #9. Juno Heart, Aomori Heartbeat grade",
+      "Price: USD ~$4,440. Origin: Japan. Basis: 2022 auction: 15 cherries, ¥600,000. [material.human.sankei.co.jp](https://material.human.sankei.co.jp/news/2022/pdf/jfnews_202209_1.pdf)",
+      "Aomori Heartbeat is the premium grade associated with the large Juno Heart cherry. The June 2022 result was for a box of 15, not a single cherry at the full box price. The contemporary report gives about $4,440 for that lot. Size selection, presentation and the publicity of a season-opening bid all matter more to understanding this result than a simplistic claim that every cherry of the variety costs hundreds.",
+      "## #8. Taiyo no Tamago mangoes",
+      "Price: USD ~$4,500. Origin: Japan. Basis: 2019 auction: 2 mangoes, ¥500,000. [fruitnet.com](https://www.fruitnet.com/asiafruit/mangoes-sell-for-record-us4500/178404.article)",
+      "A pair of Miyazaki mangoes brought this reported total at the opening auction in April 2019. Taiyo no Tamago, often rendered as Egg of the Sun, is a premium quality identity, not a different botanical species priced uniformly everywhere. The pair format and selected grade explain why the figure must not be used as the supermarket price of a single ordinary mango.",
+      "## #7. Densuke watermelon",
+      "Price: USD ~$6,100. Origin: Japan. Basis: 2008 auction: 1 watermelon, ¥650,000. [nbcnews.com](https://www.nbcnews.com/id/wbna24997464)",
+      "The documented 2008 benchmark concerns one black-rinded Hokkaido watermelon. Its placement is a historical transaction example, not a claim that it remains the latest Densuke record. Rind color alone does not authenticate cultivar, grade or origin. A genuine photograph of the variety helps readers recognize its appearance but cannot certify that a pictured melon is the one auctioned.",
+      "## #6. Tenka Fubu persimmons",
+      "Price: USD ~$7,205. Origin: Japan. Basis: 2025 auction: 2 fruits, ¥1,110,000 before tax. [asianews.network](https://asianews.network/premium-persimmons-fetch-record-%C2%A51-11-million-for-pair-of-tenka-fubu-brand-from-japans-gifu/)",
+      "The November 1, 2025 sale concerned a top-grade pair from Gifu’s premium brand, associated with the Neo Sweet cultivar. Our approximate dollar figure is calculated, not quoted by the seller: ¥1,110,000 divided by the Federal Reserve’s October 31 rate of ¥154.05 per USD gives about $7,205. Keeping the pre-tax label avoids silently comparing a tax-exclusive bid with a tax-inclusive retail payment.",
+      "## #5. Hinomaru satsuma mandarins",
+      "Price: USD ~$9,600. Origin: Japan. Basis: 2020 auction: 100 fruits, 20 kg, ¥1,000,000. [freshplaza.com](https://www.freshplaza.com/north-america/article/9265959/crate-of-oranges-sells-for-9-600-in-japan/)",
+      "This large lot is the clearest warning against ignoring units: the reported million-yen bid bought a 20-kilogram crate containing 100 mandarins. The Hinomaru produce came from Ehime’s Nishiuwa area, associated with terraced coastal cultivation. The source described a celebratory opening bid and also reported far lower normal prices. It did not describe a $9,600 mandarin.",
+      "## #4. Sato Nishiki cherries",
+      "Price: USD ~$11,500. Origin: Japan. Basis: 2026 auction: 1 box, ¥1,800,000. [bernama.com](https://bernama.com/en/news.php?id=2509048)",
+      "Bernama’s January 5, 2026 report, carrying Kyodo, identifies this Tokyo box result for premium cherries from Yamagata. The report describes ultra-early forced cultivation, far from the ordinary early-summer harvest. Timing, selected quality and first-auction publicity make this a different economic product from a bag of seasonal cherries. The box total must remain a box total in every language.",
+      "## #3. Ruby Roman grapes",
+      "Price: USD ~$12,700. Origin: Japan. Basis: 2021 auction: 1 bunch, ¥1,400,000. [freshplaza.com](https://www.freshplaza.com/asia/article/9340148/japanese-grapes-fetch-1-4-million-yen/)",
+      "The July 19, 2021 report identifies a single bunch from Ishikawa and the Taiwan supermarket buyer who secured it through a wholesaler. Ruby Roman’s conspicuously large red grapes and strict premium identity explain the attention. The stated sum is not for one grape, and its record status in that report refers to 2021 rather than certifying every subsequent season.",
+      "## #2. Yubari King melons",
+      "Price: USD ~$45,500. Origin: Japan. Basis: 2019 auction: 2 melons, ¥5,000,000. [xinhuanet.com](https://www.xinhuanet.com/english/2019-05/24/c_138086532.htm)",
+      "The May 2019 pair sold to Pokka Sapporo, whose purchase was connected with promotion of a melon-flavored drink. This is a historical dollar benchmark, not a claim that ¥5 million remains the newest yen record. Yubari’s orange-fleshed, netted melons are a regional premium product, but a publicity-rich first auction is not a normal wholesale purchase or a retail shelf price.",
+      "## #1. Kanyao durian",
+      "Price: USD ~$47,784. Origin: Thailand. Basis: 2019 auction: 1 durian, THB 1,500,000. [guinnessworldrecords.com](https://www.guinnessworldrecords.com/world-records/598416-most-expensive-durian-fruit-sold-at-auction)",
+      "Guinness documents a 1.5-million-baht Kanyao durian auctioned at Nonthaburi’s King of Durian festival on June 7, 2019. Its explanatory text gives $47,784; the page’s separate summary uses a slightly different dollar conversion. We retain the original baht result and the explanatory figure rather than pretending the exchange equivalent is exact. The festival setting separates this exceptional bid from everyday durian trade.",
+      "## Why first auctions are not supermarket prices",
+      "A season-opening auction can purchase visibility as well as food. Buyers may display the fruit, promote a brand or mark a regional harvest. The resulting price is real for that lot, but it does not establish the price of every subsequent crate. Ordinary retail availability is a different question.",
+      "For conversion transparency, the [Federal Reserve’s November 3, 2025 release](https://www.federalreserve.gov/releases/h10/20251103/) lists ¥154.05 per USD for October 31. The Tenka Fubu conversion is ¥1,110,000 ÷ 154.05, rounded to $7,205. This does not include tax or claim that the buyer settled in dollars.",
+      "### What an evergreen luxury-fruit guide should retain",
+      "Preserve cultivar, grade, unit, year and seller or auction setting. A current asking price can expire, while a historical transaction remains a dated fact. The supporting photographs below identify fruit appearances; unless explicitly stated, they are not photographs of the sold lots.",
+      "Compare the distinction between estimates and transactions in [cat-breed prices](/articles/most-expensive-cat-breeds-prices/), [book sale records](/articles/most-expensive-books-sale-records/) and [car auction results](/articles/most-expensive-cars-auction-records/). The common lesson is to understand exactly what was offered or sold before comparing a headline number."
+    ],
+    "references": [
+      {
+        "name": "freshplaza.com",
+        "url": "https://www.freshplaza.com/north-america/article/2176673/these-white-strawberries-sell-for-10-a-piece-in-japan/"
+      },
+      {
+        "name": "melissas.com",
+        "url": "https://www.melissas.com/collections/all-fruit/products/pinkglow-pineapple"
+      },
+      {
+        "name": "miamifruit.org",
+        "url": "https://miamifruit.org/products/pink-guava"
+      },
+      {
+        "name": "miamifruit.org",
+        "url": "https://miamifruit.org/products/finger-caviar-lime-box"
+      },
+      {
+        "name": "miamifruit.org",
+        "url": "https://miamifruit.org/products/mangosteen-box"
+      },
+      {
+        "name": "melissas.com",
+        "url": "https://www.melissas.com/products/rubyglow-pineapples"
+      },
+      {
+        "name": "material.human.sankei.co.jp",
+        "url": "https://material.human.sankei.co.jp/news/2022/pdf/jfnews_202209_1.pdf"
+      },
+      {
+        "name": "fruitnet.com",
+        "url": "https://www.fruitnet.com/asiafruit/mangoes-sell-for-record-us4500/178404.article"
+      },
+      {
+        "name": "nbcnews.com",
+        "url": "https://www.nbcnews.com/id/wbna24997464"
+      },
+      {
+        "name": "asianews.network",
+        "url": "https://asianews.network/premium-persimmons-fetch-record-%C2%A51-11-million-for-pair-of-tenka-fubu-brand-from-japans-gifu/"
+      },
+      {
+        "name": "freshplaza.com",
+        "url": "https://www.freshplaza.com/north-america/article/9265959/crate-of-oranges-sells-for-9-600-in-japan/"
+      },
+      {
+        "name": "bernama.com",
+        "url": "https://bernama.com/en/news.php?id=2509048"
+      },
+      {
+        "name": "freshplaza.com",
+        "url": "https://www.freshplaza.com/asia/article/9340148/japanese-grapes-fetch-1-4-million-yen/"
+      },
+      {
+        "name": "xinhuanet.com",
+        "url": "https://www.xinhuanet.com/english/2019-05/24/c_138086532.htm"
+      },
+      {
+        "name": "guinnessworldrecords.com",
+        "url": "https://www.guinnessworldrecords.com/world-records/598416-most-expensive-durian-fruit-sold-at-auction"
+      },
+      {
+        "name": "federalreserve.gov",
+        "url": "https://www.federalreserve.gov/releases/h10/20251103/"
+      }
+    ],
+    "relatedSlugs": [
+      "most-expensive-cat-breeds-prices",
+      "most-expensive-books-sale-records",
+      "most-expensive-cars-auction-records"
+    ],
+    "faq": [
+      {
+        "question": "Is the highest auction bid the normal price of that fruit?",
+        "answer": "No. Festival and first-season auctions can carry promotional value far above ordinary wholesale or retail prices."
+      },
+      {
+        "question": "Is every amount for one fruit?",
+        "answer": "No. The table identifies single fruits, pairs, bunches, boxes and measured-weight offers."
+      },
+      {
+        "question": "Are all 15 amounts completed sales?",
+        "answer": "No. Historical auction transactions and current retail asking prices are clearly labeled and should not be treated as the same evidence type."
+      },
+      {
+        "question": "Does the 2019 Yubari figure claim to be the latest record?",
+        "answer": "No. It is a dated benchmark selected for comparison, not a current record certification or a complete history of every subsequent auction."
+      }
+    ],
+    "readingTime": "11 min read"
+  },
+  {
     "id": "584",
     "slug": "lucy-fossil-discovery-1974-human-evolution",
     "title": "LUCY: THE 3.2-MILLION-YEAR-OLD FOSSIL THAT CHANGED HUMAN HISTORY",

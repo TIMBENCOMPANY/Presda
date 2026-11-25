@@ -42,7 +42,8 @@ for(const locale of ['en','fr','ar','es']) {
  assert.deepEqual(slugs(groups.featured).slice(1),[...homeHeroSlugs].slice(1));
 }
 const nextDay={...base,slug:'next-day-report',date:'2026-11-25'};
-assert.equal(selectHomeArticles([...articles,nextDay],new Date('2026-11-25T12:00:00Z')).latest[0].slug,nextDay.slug);
+const previousEdition = articles.filter(article => Date.parse(article.date) < Date.parse(nextDay.date));
+assert.equal(selectHomeArticles([...previousEdition,nextDay],new Date('2026-11-25T12:00:00Z')).latest[0].slug,nextDay.slug);
 const invalid=[{...base,slug:'draft',status:'draft'},{...base,slug:'legacy-draft',draft:true},{...base,slug:'archived',status:'archived'},{...base,slug:'archive-flag',archived:true},{...base,slug:'future',date:'2026-11-21T12:00:01Z'},{...base,slug:'bad-date',date:'invalid'}];
 const selected=selectHomeArticles([...articles,base,base,...invalid],now);
 assert.equal(selected.latest[0].slug,base.slug,'New publication appears without manual curation');

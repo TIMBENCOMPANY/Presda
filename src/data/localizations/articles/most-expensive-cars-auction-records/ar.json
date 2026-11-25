@@ -1,0 +1,450 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/most-expensive-cars-auction-records/",
+  "path": "/ar/articles/most-expensive-cars-auction-records/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-25",
+    "terminologyChecked": true
+  },
+  "title": "أغلى 15 سيارة بيعت في المزادات",
+  "seoTitle": "أغلى 15 سيارة في المزادات: أسعار بيع موثقة",
+  "seoTitleAbsolute": true,
+  "description": "من فيراري التاريخية إلى مرسيدس أولنهاوت: مقارنة 15 نتيجة مزاد موثقة مع العملات الأصلية والرسوم وتوضيح المبيعات الخيرية.",
+  "excerpt": "من فيراري التاريخية إلى مرسيدس أولنهاوت: مقارنة 15 نتيجة مزاد موثقة مع العملات الأصلية والرسوم وتوضيح المبيعات الخيرية.",
+  "headlineHighlights": {
+    "red": "أغلى 15 سيارة",
+    "gold": "في المزادات"
+  },
+  "keywords": [
+    "أغلى 15 سيارة",
+    "في المزادات"
+  ],
+  "searchIntent": "من فيراري التاريخية إلى مرسيدس أولنهاوت: مقارنة 15 نتيجة مزاد موثقة مع العملات الأصلية والرسوم وتوضيح المبيعات الخيرية.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "image": {
+    "src": "/articles/most-expensive-cars-auction-records.jpg",
+    "alt": "رسم تحريري مقدم لسيارات بوغاتي وفيراري ورولز رويس أمام منزل كبير",
+    "width": 1280,
+    "height": 655
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "تتصدر مرسيدس بنز 300 SLR Uhlenhaut Coupé هذه المجموعة بنتيجة مزاد مؤكدة قدرها 135 مليون يورو، أي نحو 142.3 مليون دولار آنذاك. ولا تكمن القصة في المال وحده؛ فمعظم السيارات المتقدمة آلات سباق تاريخية يتجاوز وزن سيرتها الفردية أهمية مواصفات أي سيارة جديدة."
+    },
+    {
+      "type": "paragraph",
+      "text": "يقارن هذا العد التنازلي 15 من أعلى نتائج المزادات الموثقة التي وجدناها في البحث، بعد التحقق في 25 نوفمبر 2026. يشمل مبيعات مهمة خلال 2026، ويميز هياكل الطراز الواحد، ويشرح لماذا لا يمكن قراءة المزايدة الخيرية كسعر تجزئة عادي."
+    },
+    {
+      "type": "heading",
+      "text": "كيف أعددنا الترتيب؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "ننتقل من المركز 15 إلى الأول بحسب إجمالي الدولار الاسمي المنشور وقت البيع، شاملا عمولة المشتري حيث تتضمنها المصادر. نحتفظ بالعملة الأصلية للصفقات الأجنبية مع مقابل دولاري معاصر مقرب. لا نعدل للتضخم ولا نحول الصفقات التاريخية بسعر الصرف الحالي."
+    },
+    {
+      "type": "paragraph",
+      "text": "الاختيار خاص بالمزادات، بما فيها مزاد مرسيدس بالدعوة والقطع الخيرية المحددة بوضوح. نستبعد الصفقات الخاصة السرية والتقديرات وأسعار الطلب والشائعات. يظهر كل هيكل مرة واحدة، بينما تعد سيارات GTO المختلفة قطعا مستقلة. وتعتمد التغطية على النتائج المعلنة، لا الإحاطة بجميع المجموعات الخاصة."
+    },
+    {
+      "type": "heading",
+      "text": "مقارنة الأسعار"
+    },
+    {
+      "type": "paragraph",
+      "text": "اقرأ مبالغ العملات الأصلية في خانة أساس البيع إلى جانب الدولار التقريبي. وقد يتكرر اسم الطراز لأن السيارات المباعة مختلفة."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[LUXURY25_591]]",
+      "caption": "إجماليات مزادات موثقة مختارة صعودا نحو المركز الأول، بدولارات اسمية وقت البيع",
+      "headings": [
+        "المركز",
+        "السيارة الفردية",
+        "الإجمالي بالدولار",
+        "أساس البيع"
+      ],
+      "rows": [
+        [
+          "15",
+          "Ferrari 275 GTB/C Speciale, 1964",
+          "$26,400,000",
+          "نتيجة مزاد 2014"
+        ],
+        [
+          "14",
+          "Ferrari 275 GTB/4*S NART Spider, 1967",
+          "$27,500,000",
+          "نتيجة مزاد 2013"
+        ],
+        [
+          "13",
+          "Ferrari 290 MM, 1956",
+          "$28,050,000",
+          "نتيجة مزاد 2015"
+        ],
+        [
+          "12",
+          "Mercedes-Benz W196 R, 1954, open-wheel",
+          "~$29,650,095",
+          "نتيجة مزاد 2013; £19,601,500"
+        ],
+        [
+          "11",
+          "McLaren F1 GTR 10R, 1996",
+          "$34,655,000",
+          "نتيجة مزاد 2026"
+        ],
+        [
+          "10",
+          "Ferrari 335 S, 1957",
+          "~$35,711,359",
+          "نتيجة مزاد 2016; €32,075,200"
+        ],
+        [
+          "9",
+          "Ferrari 250 LM 5893, 1964",
+          "~$36,300,000",
+          "نتيجة مزاد 2025; €34,880,000"
+        ],
+        [
+          "8",
+          "Ferrari 250 GTO 3851GT, 1962",
+          "$38,115,000",
+          "نتيجة مزاد 2014"
+        ],
+        [
+          "7",
+          "Ferrari 250 GTO 3729GT, Bianco Speciale, 1962",
+          "$38,500,000",
+          "نتيجة مزاد 2026"
+        ],
+        [
+          "6",
+          "Ferrari Luce Tailor Made, chassis 0, 2026",
+          "$40,000,000",
+          "نتيجة مزاد 2026, خيري"
+        ],
+        [
+          "5",
+          "Shelby Cobra Daytona Coupe CSX2300, 1964",
+          "$42,905,000",
+          "نتيجة مزاد 2026"
+        ],
+        [
+          "4",
+          "Ferrari 250 GTO 3413GT, 1962",
+          "$48,405,000",
+          "نتيجة مزاد 2018"
+        ],
+        [
+          "3",
+          "Ferrari 330 LM / 250 GTO 3765, 1962",
+          "$51,705,000",
+          "نتيجة مزاد 2023"
+        ],
+        [
+          "2",
+          "Mercedes-Benz W196 R Stromlinienwagen, 1954",
+          "~$53,900,000",
+          "نتيجة مزاد 2025; €51,155,000"
+        ],
+        [
+          "1",
+          "Mercedes-Benz 300 SLR Uhlenhaut Coupé, 1955",
+          "~$142,300,000",
+          "نتيجة مزاد 2022; €135,000,000"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "#15. Ferrari 275 GTB/C Speciale, 1964"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: $26,400,000. المنشأ: إيطاليا. أساس المقارنة: نتيجة مزاد 2014. [المصدر · fe1.rmsothebys.com](https://fe1.rmsothebys.com/stories/all/years-of-firsts-and-milestones/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "حتى المركز الخامس عشر يعود إلى فيراري مخصصة للمنافسات، لا إلى سيارة 275 GTB عادية. فالتطوير الخفيف وندرة النسخة يفسران أهمية اسم Speciale. تسجل RM النتيجة في مونتيري عام 2014. ومقارنتها بسيارة طرق من العائلة نفسها تتجاهل بالضبط الفروق الهندسية والندرة اللتين كان المزايدون يدفعون مقابلهما."
+    },
+    {
+      "type": "heading",
+      "text": "#14. Ferrari 275 GTB/4*S NART Spider, 1967"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: $27,500,000. المنشأ: إيطاليا. أساس المقارنة: نتيجة مزاد 2013. [المصدر · fe1.rmsothebys.com](https://fe1.rmsothebys.com/stories/all/years-of-firsts-and-milestones/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "جمع NART Spider بين الهيكل المكشوف ومحرك فيراري ذي اثنتي عشرة أسطوانة وأربعة أعمدة كامات والندرة الكبيرة. وأضفت ملكية عائلة إيدي سميث الطويلة تاريخا شخصيا إلى هذه السيارة. أعلنت RM نتيجة مونتيري في أغسطس 2013 مع تخصيص العائدات لأغراض خيرية. لذلك تبقى الطبيعة الخيرية جزءا من تفسير السعر، لا تقييما عاما لكل سيارة مماثلة."
+    },
+    {
+      "type": "heading",
+      "text": "#13. Ferrari 290 MM, 1956"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: $28,050,000. المنشأ: إيطاليا. أساس المقارنة: نتيجة مزاد 2015. [المصدر · www.classic-car-auctions.info](https://www.classic-car-auctions.info/news/press-releases/2015-rm-sothebys-annual-results-overview-press-release/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تنتمي هذه الفيراري الرياضية إلى عصر كانت فيه سباقات التحمل محورية لهوية المصنع. تحقق السعر في مزاد Driven by Disruptions بنيويورك، لا عند إطلاق سيارة جديدة. ويصف البيان السنوي لـRM Sotheby’s النتيجة بأنها الأعلى لديه عام 2015. هنا كان محل التنافس سيارة سباق تاريخية موثقة، وليس مجرد عدد من الأحصنة يمكن شراؤه بالدولار."
+    },
+    {
+      "type": "heading",
+      "text": "#12. Mercedes-Benz W196 R, 1954, open-wheel"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: ~$29,650,095. المنشأ: ألمانيا. أساس المقارنة: نتيجة مزاد 2013; £19,601,500. [المصدر · www.hagerty.co.uk](https://www.hagerty.co.uk/articles/auction-analysis-top-sales-and-july-round-up/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "سيارة W196 R المكشوفة العجلات التي باعتها بونهامز في غودوود مختلفة عن مرسيدس الانسيابية الأعلى في القائمة. ويربطها تاريخ خوان مانويل فانجيو بسباقات الجائزة الكبرى. يشمل السعر بالجنيه عمولة المشتري، أما الدولار فهو التحويل المعاصر الذي نشرته هاغرتي. ولا يجوز التعامل مع أي منهما باعتباره المزايدة النهائية قبل إضافة الرسوم."
+    },
+    {
+      "type": "heading",
+      "text": "#11. McLaren F1 GTR 10R, 1996"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: $34,655,000. المنشأ: المملكة المتحدة. أساس المقارنة: نتيجة مزاد 2026. [المصدر · backoffice.rmsothebys.com](https://backoffice.rmsothebys.com/auctions/mo26/lots/r0170-1996-mclaren-f1-gtr/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "أضاف الهيكل 10R، المعروف بألوانه الحمراء والصفراء واسم Pop Art F1، نتيجة بارزة عام 2026. توثق RM تاريخه مع المصنع وملكيته اللاحقة لنيك ميسون من بينك فلويد وتحويله للاستخدام على الطرق. تميز هذه التفاصيل نسخة GTR بعينها عن سيارة F1 عادية. ويجمع السعر بين هندسة المنافسات والطلاء الشهير وسجل الملكية الموثق."
+    },
+    {
+      "type": "heading",
+      "text": "#10. Ferrari 335 S, 1957"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: ~$35,711,359. المنشأ: إيطاليا. أساس المقارنة: نتيجة مزاد 2016; €32,075,200. [المصدر · conseilmaisonsdevente.fr](https://conseilmaisonsdevente.fr/sites/default/files/communique_de_presse_artcurial_salon_retromobile_-_05.02.2016.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "يقدم بيان أرتكوريال المعاصر إجمالي اليورو ومقابله بالدولار للهيكل 0674 القادم من مجموعة بيير باردينون. وتحمل السيارة أهمية عصر سيارات فيراري الرياضية ذات المحرك الأمامي. يوضح موضعها سبب ربط العملة بتاريخ الصفقة: فتحويل المبلغ نفسه بسعر صرف لاحق قد يغير ترتيبها من دون أن تباع السيارة مرة أخرى."
+    },
+    {
+      "type": "heading",
+      "text": "#9. Ferrari 250 LM 5893, 1964"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: ~$36,300,000. المنشأ: إيطاليا. أساس المقارنة: نتيجة مزاد 2025; €34,880,000. [المصدر · backoffice.rmsothebys.com](https://backoffice.rmsothebys.com/media-center/press-releases/rm-sotheby-s-paris-sale-generates-69-073-275-to-become-europe-s-highest-ever-grossing-sale-in-collector-car-auction-history/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "هذه هي السيارة التي شارك بها NART وفازت بسباق لومان عام 1965 بقيادة ماستن غريغوري ويوخن ريندت. يؤكد بيان RM في باريس سعر اليورو وصلتها بمتحف إنديانابوليس موتور سبيدواي. والفوز الفعلي في سباق مفصلي ميزة لا يمكن استنساخها بترميم سيارة أخرى. مبلغ الدولار تقريبي، بينما يبقى إجمالي اليورو هو النتيجة الأصلية المعتمدة."
+    },
+    {
+      "type": "heading",
+      "text": "#8. Ferrari 250 GTO 3851GT, 1962"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: $38,115,000. المنشأ: إيطاليا. أساس المقارنة: نتيجة مزاد 2014. [المصدر · www.classic-car-auctions.info](https://www.classic-car-auctions.info/records/1962-ferrari-250-gto-bianco-speciale-sold/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "باعت بونهامز الهيكل 3851 في كويل لودج عام 2014. وتاريخ سباقاته وإصلاحاته يخص هذه السيارة وحدها، ولا يصح دمجه بتاريخ سيارات GTO الأخرى في القائمة. يفسر الإنتاج المحدود والمكانة التنافسية الطلب العام على الطراز، بينما يساعد سجل الملكية والحالة في فهم اختلاف أسعار النسخ الفردية."
+    },
+    {
+      "type": "heading",
+      "text": "#7. Ferrari 250 GTO 3729GT, Bianco Speciale, 1962"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: $38,500,000. المنشأ: إيطاليا. أساس المقارنة: نتيجة مزاد 2026. [المصدر · classicmotorsports.com](https://classicmotorsports.com/news/who-took-delivery-of-bianco-speciale-david-sk-lee-did/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "بيعت Bianco Speciale البيضاء في مزاد ميكوم بكيسيمي في يناير 2026. وحددت تقارير لاحقة الجامع ديفيد إس كيه لي عند تسلمها. يمنحها لون المصنع الأبيض هوية بصرية مميزة، لكن اللون وحده لا يفسر مكانة GTO بين المقتنيات. المقارنة هنا بنتيجة مزاد موثقة، لا بثمن خاص متداول لهيكل آخر."
+    },
+    {
+      "type": "heading",
+      "text": "#6. Ferrari Luce Tailor Made, chassis 0, 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: $40,000,000. المنشأ: إيطاليا. أساس المقارنة: نتيجة مزاد 2026, خيري. [المصدر · backoffice.rmsothebys.com](https://backoffice.rmsothebys.com/stories/first-ferrari-ev-sells-for-40-million-becoming-the-most-expensive-new-car-ever-sold-at-auction/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "كانت أول سيارة إنتاج من Luce قطعة مزاد خيري يعود ريعها إلى مبادرات تعليمية عبر مؤسسة فيراري. تسجل RM أربعين مليون دولار، وهو مبلغ يتجاوز سعر الإنتاج العادي بكثير. تستحق النتيجة إدراجها بوصفها مزادا منشورا، لكن رمزية أول هيكل والتخصيص والتبرع تجعلها مختلفة تحليليا عن شراء سيارة من صالة عرض أو مقارنة سوقية تقليدية."
+    },
+    {
+      "type": "heading",
+      "text": "#5. Shelby Cobra Daytona Coupe CSX2300, 1964"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: $42,905,000. المنشأ: الولايات المتحدة. أساس المقارنة: نتيجة مزاد 2026. [المصدر · www.goodingco.com](https://www.goodingco.com/press/article/43-million-shelby-cobra-daytona-coupe-comes-out-on-top-at-2026-car-week-across-all-auction-sales-becomes-highest-grossing-american-car-of-all-time)"
+    },
+    {
+      "type": "paragraph",
+      "text": "أكدت غودينغ كريستيز أن دايتونا كوبيه كان أعلى قطعة لديها في بيبل بيتش عام 2026، مسجلا رقما قياسيا لسيارة أمريكية. تنبع أهمية كوبرا المغلقة من تصميمها التنافسي المتخصص ومحدودية نسخها، لا من تجهيزات الترف. يشمل الإجمالي المنشور رسوم المزاد، ولذلك يصلح للمقارنة مع النتائج الأخرى التي تتضمن عمولة المشتري."
+    },
+    {
+      "type": "heading",
+      "text": "#4. Ferrari 250 GTO 3413GT, 1962"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: $48,405,000. المنشأ: إيطاليا. أساس المقارنة: نتيجة مزاد 2018. [المصدر · rmsothebys.com](https://rmsothebys.com/auctions/mo18/lots/r0117-1962-ferrari-250-gto-by-scaglietti/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تحدد RM الهيكل 3413 بوصفه ثالث سيارة GTO صنعت، وتوثق تحديث هيكله في عصر السباقات إلى التصميم اللاحق الأكثر هجومية. ويبين ذلك أن الأصالة أعقد من عدم تغيير أي شيء؛ فقد يكون التعديل التنافسي التاريخي مهما بحد ذاته. تظل نتيجة مونتيري عام 2018 صفقة لهذا الهيكل، لا قائمة أسعار لجميع سيارات GTO الباقية."
+    },
+    {
+      "type": "heading",
+      "text": "#3. Ferrari 330 LM / 250 GTO 3765, 1962"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: $51,705,000. المنشأ: إيطاليا. أساس المقارنة: نتيجة مزاد 2023. [المصدر · rmsothebys.com](https://rmsothebys.com/GTO/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "يحمل الهيكل 3765 ميزة غير معتادة، إذ تسابق به فريق سكوديريا فيراري نفسه. يوثق كتالوج RM نتيجته في نوربورغرينغ ومشاركته في لومان عام 1962. وتفسر بدايته بمحرك أكبر تسمية 330 LM / 250 GTO المركبة. اعتبار الاسم خطأ أو تبسيطه بصمت إلى GTO عادية يحذف جزءا مهما من هويته التاريخية."
+    },
+    {
+      "type": "heading",
+      "text": "#2. Mercedes-Benz W196 R Stromlinienwagen, 1954"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: ~$53,900,000. المنشأ: ألمانيا. أساس المقارنة: نتيجة مزاد 2025; €51,155,000. [المصدر · rmsothebys.com](https://rmsothebys.com/auctions/tt25/lots/r0001-1954-mercedesbenz-w-196-r-stromlinienwagen/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تجمع W196 R الانسيابية التي بيعت في شتوتغارت في فبراير 2025 بين إرث الجائزة الكبرى وهيكل يغطي العجلات. استفاد متحف إنديانابوليس من المزاد. وتختلف هويتها وشكلها عن مرسيدس التي بيعت في غودوود عام 2013. إجمالي اليورو المنشور دقيق، أما مبلغ الدولار فمقرب تجنبا للإيحاء بدقة صرف ليست جزءا من الصفقة الأصلية."
+    },
+    {
+      "type": "heading",
+      "text": "#1. Mercedes-Benz 300 SLR Uhlenhaut Coupé, 1955"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر بالدولار الأمريكي: ~$142,300,000. المنشأ: ألمانيا. أساس المقارنة: نتيجة مزاد 2022; €135,000,000. [المصدر · group.mercedes-benz.com](https://group.mercedes-benz.com/company/news/uhlenhaut-coupe.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تؤكد مرسيدس بنز أن البيع جرى في متحفها يوم 5 مايو 2022 بالتعاون مع RM Sotheby’s. كان مزادا بالدعوة، لا صفقة خاصة تفاوضية غير معلنة. غادرت واحدة من سيارتي Uhlenhaut Coupé مجموعة المصنع، مع تخصيص العائد لتأسيس صندوق مرسيدس بنز. تفسر الندرة القصوى والتاريخ الهندسي والإتاحة الاستثنائية لسيارة محفوظة لدى المصنع ابتعاد النتيجة عن بقية القائمة."
+    },
+    {
+      "type": "heading",
+      "text": "لماذا قد يتجاوز التاريخ أهمية الأداء؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "سيارة السباق جسم مادي له سجل ملازم. تحدد وثائق المصنع وصور العصر واستمرارية الملكية وهوية الهيكل ما يمكن قوله بمسؤولية. ولا تكتسب سيارة مرممة شبيهة بصريا التاريخ نفسه بصورة تلقائية."
+    },
+    {
+      "type": "paragraph",
+      "text": "للندرة مستويات متعددة. فقد ينتج المصنع عددا قليلا من طراز ما، ثم تتميز نسخة محددة بانتصار كبير أو هيكل غير معتاد أو بقائها طويلا لدى المصنع. لذلك تصنف القائمة السيارات الفردية بدلا من تعيين سعر واحد لشعار كامل."
+    },
+    {
+      "type": "subheading",
+      "text": "ما الذي لا تضمنه الأرقام؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "لا تضمن النتائج عوائد استثمارية. فالتخزين والصيانة والتأمين ورسوم المعاملات وصعوبة العثور على مشتر آخر تقع خارج السعر الرئيسي. ويضيف المزاد الخيري دافعا قد لا يتكرر عند إعادة البيع."
+    },
+    {
+      "type": "paragraph",
+      "text": "للمزيد حول الفرق بين القطعة وسجلها، اقرأ [مبيعات الكتب البارزة](/articles/most-expensive-books-sale-records/) و[مزادات الخيول القياسية](/articles/most-expensive-horses-auction-records/). وتقدم قصة [هيرميس](/articles/hermes-history-harness-maker-luxury-birkin/) منظورا آخر للحرفة والندرة."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر · fe1.rmsothebys.com",
+      "url": "https://fe1.rmsothebys.com/stories/all/years-of-firsts-and-milestones/"
+    },
+    {
+      "label": "المصدر · www.classic-car-auctions.info",
+      "url": "https://www.classic-car-auctions.info/news/press-releases/2015-rm-sothebys-annual-results-overview-press-release/"
+    },
+    {
+      "label": "المصدر · www.hagerty.co.uk",
+      "url": "https://www.hagerty.co.uk/articles/auction-analysis-top-sales-and-july-round-up/"
+    },
+    {
+      "label": "المصدر · backoffice.rmsothebys.com",
+      "url": "https://backoffice.rmsothebys.com/auctions/mo26/lots/r0170-1996-mclaren-f1-gtr/"
+    },
+    {
+      "label": "المصدر · conseilmaisonsdevente.fr",
+      "url": "https://conseilmaisonsdevente.fr/sites/default/files/communique_de_presse_artcurial_salon_retromobile_-_05.02.2016.pdf"
+    },
+    {
+      "label": "المصدر · backoffice.rmsothebys.com",
+      "url": "https://backoffice.rmsothebys.com/media-center/press-releases/rm-sotheby-s-paris-sale-generates-69-073-275-to-become-europe-s-highest-ever-grossing-sale-in-collector-car-auction-history/"
+    },
+    {
+      "label": "المصدر · www.classic-car-auctions.info",
+      "url": "https://www.classic-car-auctions.info/records/1962-ferrari-250-gto-bianco-speciale-sold/"
+    },
+    {
+      "label": "المصدر · classicmotorsports.com",
+      "url": "https://classicmotorsports.com/news/who-took-delivery-of-bianco-speciale-david-sk-lee-did/"
+    },
+    {
+      "label": "المصدر · backoffice.rmsothebys.com",
+      "url": "https://backoffice.rmsothebys.com/stories/first-ferrari-ev-sells-for-40-million-becoming-the-most-expensive-new-car-ever-sold-at-auction/"
+    },
+    {
+      "label": "المصدر · www.goodingco.com",
+      "url": "https://www.goodingco.com/press/article/43-million-shelby-cobra-daytona-coupe-comes-out-on-top-at-2026-car-week-across-all-auction-sales-becomes-highest-grossing-american-car-of-all-time"
+    },
+    {
+      "label": "المصدر · rmsothebys.com",
+      "url": "https://rmsothebys.com/auctions/mo18/lots/r0117-1962-ferrari-250-gto-by-scaglietti/"
+    },
+    {
+      "label": "المصدر · rmsothebys.com",
+      "url": "https://rmsothebys.com/GTO/"
+    },
+    {
+      "label": "المصدر · rmsothebys.com",
+      "url": "https://rmsothebys.com/auctions/tt25/lots/r0001-1954-mercedesbenz-w-196-r-stromlinienwagen/"
+    },
+    {
+      "label": "المصدر · group.mercedes-benz.com",
+      "url": "https://group.mercedes-benz.com/company/news/uhlenhaut-coupe.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "ما أغلى سيارة في هذا الترتيب؟",
+      "answer": "مرسيدس بنز 300 SLR Uhlenhaut Coupé موديل 1955، التي بيعت مقابل 135 مليون يورو في مايو 2022، نحو 142.3 مليون دولار آنذاك."
+    },
+    {
+      "question": "هل هذه أسعار السيارات عند طرحها جديدة؟",
+      "answer": "لا، إنها نتائج مزادات معلنة لسيارات فردية، مع تحديد القطع الخيرية بوضوح."
+    },
+    {
+      "question": "لماذا تتكرر فيراري 250 GTO؟",
+      "answer": "لأن كل هيكل مستقل وله سجل ملكية وحالة وتاريخ ونتيجة بيع مختلفة."
+    },
+    {
+      "question": "هل عدلتم الدولار بحسب التضخم؟",
+      "answer": "لا، نستخدم إجماليات اسمية أو مقابلات دولارية معاصرة مقربة مع الاحتفاظ بالعملة الأصلية."
+    }
+  ],
+  "readingTimeMinutes": 10
+}

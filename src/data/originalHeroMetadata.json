@@ -898,5 +898,30 @@
     "width": 1280,
     "height": 720,
     "type": "image/jpeg"
+  },
+  "/articles/most-expensive-cat-breeds-prices.jpg": {
+    "width": 1280,
+    "height": 655,
+    "type": "image/jpeg"
+  },
+  "/articles/most-expensive-books-sale-records.jpg": {
+    "width": 1280,
+    "height": 655,
+    "type": "image/jpeg"
+  },
+  "/articles/most-expensive-cars-auction-records.jpg": {
+    "width": 1280,
+    "height": 655,
+    "type": "image/jpeg"
+  },
+  "/articles/most-expensive-horses-auction-records.jpg": {
+    "width": 1280,
+    "height": 655,
+    "type": "image/jpeg"
+  },
+  "/articles/most-expensive-fruits-prices-records.jpg": {
+    "width": 1280,
+    "height": 655,
+    "type": "image/jpeg"
   }
 }

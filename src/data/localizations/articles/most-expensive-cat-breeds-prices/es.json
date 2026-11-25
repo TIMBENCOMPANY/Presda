@@ -1,0 +1,462 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/most-expensive-cat-breeds-prices/",
+  "path": "/es/articles/most-expensive-cat-breeds-prices/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-25",
+    "terminologyChecked": true
+  },
+  "title": "15 RAZAS DE GATOS COSTOSAS: PRECIOS PUBLICADOS",
+  "seoTitle": "15 razas de gatos caras: ofertas y estimaciones verificadas",
+  "seoTitleAbsolute": true,
+  "description": "Compara 15 razas con ofertas identificadas y estimaciones señaladas: precios en USD, orígenes, cuidados y reglas transparentes de clasificación.",
+  "excerpt": "Compara 15 razas con ofertas identificadas y estimaciones señaladas: precios en USD, orígenes, cuidados y reglas transparentes de clasificación.",
+  "headlineHighlights": {
+    "red": "15 RAZAS DE GATOS",
+    "gold": "PRECIOS PUBLICADOS"
+  },
+  "keywords": [
+    "15 RAZAS DE GATOS",
+    "PRECIOS PUBLICADOS"
+  ],
+  "searchIntent": "Compara 15 razas con ofertas identificadas y estimaciones señaladas: precios en USD, orígenes, cuidados y reglas transparentes de clasificación.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "image": {
+    "src": "/articles/most-expensive-cat-breeds-prices.jpg",
+    "alt": "Ilustración compuesta suministrada de gatos con distintos pelajes",
+    "width": 1280,
+    "height": 655
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un Savannah HP F1 tiene aquí una referencia publicada de 25.000 dólares, mientras varias razas domésticas presentan ofertas prémium de unos pocos miles. Son anuncios documentados y estimaciones identificadas, no ventas récord verificadas ni un ranking auditado de todos los criadores del mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción cambia el relato. Los gatos son compañeros vivos: interesa saber qué incluye el precio, qué generación y contrato describe y si el animal encaja en el hogar. Esta cuenta atrás de quince razas se comprobó el 25 de noviembre de 2026."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo comparamos los precios"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ordenamos del 15 al 1 con una referencia publicada en USD para cada raza. En una franja cerrada usamos el extremo superior; en una oferta fija, el total base. Los 4.000 dólares del británico proceden de una estimación abierta de mercado; el Toyger usa una guía revisada por un veterinario. Los empates siguen el nombre inglés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es una comparación transparente de ejemplos prémium, no una encuesta nacional representativa ni una demostración de los quince máximos mundiales. Excluimos derechos de cría, suplementos opcionales, transporte e impuestos. Depósitos, precios de exposición, felinos salvajes y la etiqueta comercial Ashera no constituyen récords domésticos equivalentes."
+    },
+    {
+      "type": "heading",
+      "text": "Comparación de los quince ejemplos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Todos los importes son USD. Mantenemos visibles franjas y estimaciones. Un anuncio, incluso marcado vendido, no verifica independientemente una transacción completada."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[LUXURY25_589]]",
+      "caption": "Precios seleccionados de gatitos de compañía hacia el puesto 1; ofertas y estimaciones, no récords de venta",
+      "headings": [
+        "Puesto",
+        "Raza o generación",
+        "Ejemplo publicado USD",
+        "Tipo de evidencia"
+      ],
+      "rows": [
+        [
+          "15",
+          "Devon Rex",
+          "$1,600–$2,200",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "14",
+          "Sagrado de Birmania",
+          "$2,500",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "13",
+          "Persa",
+          "$2,500",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "12",
+          "Donskoy",
+          "$3,000",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "11",
+          "Lykoi",
+          "$3,000",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "10",
+          "Sphynx",
+          "$3,000",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "9",
+          "Bengalí",
+          "$3,000–$3,500",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "8",
+          "Cornish Rex",
+          "$2,500–$3,500",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "7",
+          "Toyger",
+          "$2,500–$3,500",
+          "Estimación publicada, no venta"
+        ],
+        [
+          "6",
+          "Ragdoll",
+          "$3,600",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "5",
+          "Siberiano",
+          "$3,600",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "4",
+          "Británico de pelo corto",
+          "~$2,000–$4,000+",
+          "Estimación de mercado del criador; referencia $4,000"
+        ],
+        [
+          "3",
+          "Azul ruso",
+          "$5,200",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "2",
+          "Maine Coon",
+          "$5,500–$7,500",
+          "Oferta publicada de gatito de compañía"
+        ],
+        [
+          "1",
+          "Savannah, HP F1",
+          "$25,000",
+          "Oferta publicada de gatito de compañía"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "#15. Devon Rex"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $1,600–$2,200 USD. Origen: Inglaterra. Referencia: Oferta publicada de gatito de compañía. [Fuente · tdcattery.com](https://tdcattery.com/adoption)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las orejas grandes y el pelo corto ondulado hacen reconocible al Devon Rex. T&D Cattery publica esta franja con vacunas y revisiones, pero excluye la esterilización. Dos precios aparentemente similares no contienen necesariamente el mismo paquete. Su apariencia singular no elimina la necesidad de compañía, atención veterinaria corriente y un hogar adecuado."
+    },
+    {
+      "type": "heading",
+      "text": "#14. Sagrado de Birmania"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $2,500 USD. Origen: Francia, con vínculos históricos birmanos. Referencia: Oferta publicada de gatito de compañía. [Fuente · www.de-ambarino.com](https://www.de-ambarino.com/kitteninfo.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "DeAmbarino anuncia 2.500 dólares para sus gatitos de compañía. El patrón de puntas, los ojos azules y las patas blancas explican su atractivo. Las leyendas de templos no sustituyen una historia documentada; CFA describe el desarrollo de la raza en Francia. Contrato, socialización y cuidados futuros importan más que una promesa romántica."
+    },
+    {
+      "type": "heading",
+      "text": "#13. Persa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $2,500 USD. Origen: Ascendencia persa, desarrollo mediante cría europea. Referencia: Oferta publicada de gatito de compañía. [Fuente · www.asfcattery.com](https://www.asfcattery.com/available-kittens)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ASF Cattery distingue 2.500 dólares como mascota y 3.500 con derechos de cría. Usamos el primero. El largo pelaje del persa convierte el aseo en parte central de la decisión. Una ficha marcada como vendida documenta aquí un precio solicitado publicado, no una prueba independiente de que se pagó exactamente esa cantidad."
+    },
+    {
+      "type": "heading",
+      "text": "#12. Donskoy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $3,000 USD. Origen: Rusia. Referencia: Oferta publicada de gatito de compañía. [Fuente · lykoicattery.com](https://lykoicattery.com/adoption/availablekittens/cost)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tarifa base publicada agrupa Donskoy, Sphynx y Lykoi en un paquete de garantía concreto. TICA sitúa el origen del Donskoy en Rostov del Don en 1987. Su falta de pelo no prueba un origen egipcio ni identidad con el Sphynx canadiense. Es una oferta de un vendedor, no una media de raza ni una garantía médica de PRESDA."
+    },
+    {
+      "type": "heading",
+      "text": "#11. Lykoi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $3,000 USD. Origen: Estados Unidos. Referencia: Oferta publicada de gatito de compañía. [Fuente · lykoicattery.com](https://lykoicattery.com/adoption/availablekittens/cost)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El pelaje ralo y ruano del Lykoi explica su apodo de gato lobo. Los 3.000 dólares son la oferta base como mascota; el vendedor añade suplementos por ciertos rasgos oculares que excluimos. Un aspecto inusual puede generar demanda por escasez, pero la decisión debe centrarse en documentación y bienestar del individuo."
+    },
+    {
+      "type": "heading",
+      "text": "#10. Sphynx"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $3,000 USD. Origen: Canadá. Referencia: Oferta publicada de gatito de compañía. [Fuente · lykoicattery.com](https://lykoicattery.com/adoption/availablekittens/cost)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Sphynx se vincula al desarrollo canadiense, no al antiguo Egipto. Su piel casi desnuda cambia las necesidades de temperatura, cuidado cutáneo y exposición solar. El precio base elegido corresponde al mismo paquete que Lykoi y Donskoy del vendedor. La falta de pelo nunca debe presentarse como garantía de ausencia de síntomas alérgicos."
+    },
+    {
+      "type": "heading",
+      "text": "#9. Bengalí"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $3,000–$3,500 USD. Origen: Estados Unidos. Referencia: Oferta publicada de gatito de compañía. [Fuente · www.majesticgembengals.com](https://www.majesticgembengals.com/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Majestic Gem separa el rango de mascota de otro superior para exposición y cría. Usamos el primero. El bengalí destaca por el pelo moteado o marmolado y un temperamento activo. Su ascendencia de gato leopardo asiático obliga a comprobar generación y normas locales. No debe asignarse a una mascota de generación lejana el precio de un híbrido temprano."
+    },
+    {
+      "type": "heading",
+      "text": "#8. Cornish Rex"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $2,500–$3,500 USD. Origen: Inglaterra. Referencia: Oferta publicada de gatito de compañía. [Fuente · www.orexcattery.com](https://www.orexcattery.com/adoption-process)"
+    },
+    {
+      "type": "paragraph",
+      "text": "O’Rex publica esta franja y relaciona sus tarifas con tipo, rareza, cuidados y socialización. El pelo ondulado y la silueta esbelta distinguen al Cornish del Devon pese al nombre Rex compartido. El precio incluye documentos y servicios concretos. Compararlos resulta más útil que asumir que todos los gatitos rizados se venden bajo condiciones idénticas."
+    },
+    {
+      "type": "heading",
+      "text": "#7. Toyger"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $2,500–$3,500 USD. Origen: Estados Unidos. Referencia: Estimación publicada, no venta. [Fuente · www.chewy.com](https://www.chewy.com/education/cat-breeds/toyger)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es una estimación publicada, no una oferta de criador ni una venta verificada. El perfil de Chewy revisado por un veterinario separa la franja habitual de los ejemplares de exposición más caros, que excluimos. El Toyger evoca las rayas del tigre en un gato doméstico; no es un tigre de mascota."
+    },
+    {
+      "type": "heading",
+      "text": "#6. Ragdoll"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $3,600 USD. Origen: Estados Unidos. Referencia: Oferta publicada de gatito de compañía. [Fuente · www.sunshineragdolls.com](https://www.sunshineragdolls.com/_files/ugd/7c8ef2_208470117ff44c9eaa547f3e41d7f3a1.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El documento 2025/26 de Sunshine Ragdolls fija 3.600 dólares como mascota y separa primera elección, exposición y cría. CFA sitúa su desarrollo en el trabajo de Ann Baker en California durante los sesenta. Ojos azules, coloración de puntas y gran tamaño lo caracterizan, sin garantizar el temperamento de cada individuo."
+    },
+    {
+      "type": "heading",
+      "text": "#5. Siberiano"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $3,600 USD. Origen: Rusia. Referencia: Oferta publicada de gatito de compañía. [Fuente · meowoff.us](https://meowoff.us/siberian-kittens-for-sale/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cifra elegida es el precio completo anunciado para Mikhey en MeoWoff, no la reserva menor ni un techo de raza. El cuerpo robusto y el pelo denso caracterizan al siberiano ruso. Los anuncios cambian con las reservas. Conviene conservar fecha, identidad y saldo total para no confundir un depósito con el coste completo."
+    },
+    {
+      "type": "heading",
+      "text": "#4. Británico de pelo corto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$2,000–$4,000+ USD. Origen: Reino Unido. Referencia: Estimación de mercado del criador; referencia $4,000. [Fuente · tlcbrits.com](https://tlcbrits.com/faqs)"
+    },
+    {
+      "type": "paragraph",
+      "text": "TLC Brits describe una franja del mercado estadounidense y sitúa sus gatitos en el centro. Los 4.000 dólares son solo una referencia numérica para ordenar, no su precio individual ni un máximo. El pelo denso y la cabeza redonda atraen demanda, mientras color y pedigree modifican las ofertas. El signo más impide interpretarlo como techo medido."
+    },
+    {
+      "type": "heading",
+      "text": "#3. Azul ruso"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $5,200 USD. Origen: Rusia. Referencia: Oferta publicada de gatito de compañía. [Fuente · www.archangelcat.com](https://www.archangelcat.com/russianbluekittenpricing)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Archangel Cat anuncia 250 dólares de reserva y 4.950 de saldo: 5.200 de base. Excluimos el suplemento opcional de primera elección. El pelo doble azul grisáceo y los ojos verdes del adulto distinguen la raza. Este precio no demuestra una media nacional; detallar pagos evita un titular que confunda la reserva con el total."
+    },
+    {
+      "type": "heading",
+      "text": "#2. Maine Coon"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $5,500–$7,500 USD. Origen: Estados Unidos. Referencia: Oferta publicada de gatito de compañía. [Fuente · www.eurocoonsmainecooncattery.com](https://www.eurocoonsmainecooncattery.com/maine-coon-kittens-for-sale/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "EuroCoons publica una franja de 5.500 a 7.500 dólares y pide confirmar la disponibilidad individual. Es un ejemplo de vendedor prémium, no el precio habitual de todos los Maine Coon. Gran tamaño, pelo abundante y orejas pobladas atraen miradas. El tamaño no permite descuidar pruebas veterinarias, socialización ni presupuesto para un adulto grande."
+    },
+    {
+      "type": "heading",
+      "text": "#1. Savannah, HP F1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $25,000 USD. Origen: Estados Unidos. Referencia: Oferta publicada de gatito de compañía. [Fuente · www.royalsavannahs.com](https://www.royalsavannahs.com/pages/faqs)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Royal Savannahs publica 25.000 dólares para su referencia de compañía HP F1 y mucho menos para generaciones posteriores. No es el precio de todos los Savannah. TICA advierte que la ascendencia de serval afecta la legalidad en algunos lugares. La generación debe figurar junto a la pregunta de si el animal es legal y adecuado para ese hogar."
+    },
+    {
+      "type": "heading",
+      "text": "Qué debería justificar un precio prémium"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un gatito caro no es automáticamente mejor compañero. Solicita contrato completo, pruebas pertinentes, vacunaciones, pedigree y detalle de inclusiones. Un precio alto sin identidad clara ni cuidados verificables no sustituye esos documentos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia debe venir de registros, no de relatos comerciales. Las páginas CFA del [birmano](https://cfa.org/breed/birman/) y el [Ragdoll](https://cfa.org/breed/ragdoll/), junto a TICA sobre [Donskoy](https://tica.org/breed/donskoy/) y [Savannah](https://tica.org/breed/savannah/), separan desarrollo documentado y suposiciones visuales."
+    },
+    {
+      "type": "subheading",
+      "text": "Presupuestar al individuo, no su puesto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comida, aseo, seguro o fondo de emergencia, veterinario y espacio continúan después de la compra. Poco pelo no garantiza ausencia de alergia. Bienestar y compatibilidad deben guiar la elección; rescate y adopción de adultos son alternativas, no versiones inferiores de una clasificación de precios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lee otra relación entre dinero y animales en los [récords de caballos](/articles/most-expensive-horses-auction-records/). La [comparación de frutas](/articles/most-expensive-fruits-prices-records/) explica por qué importan las unidades, mientras [Félicette](/articles/felicette-french-cat-space-tragic-end/) ofrece otra perspectiva sobre responsabilidad humana."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · tdcattery.com",
+      "url": "https://tdcattery.com/adoption"
+    },
+    {
+      "label": "Fuente · www.de-ambarino.com",
+      "url": "https://www.de-ambarino.com/kitteninfo.html"
+    },
+    {
+      "label": "Fuente · www.asfcattery.com",
+      "url": "https://www.asfcattery.com/available-kittens"
+    },
+    {
+      "label": "Fuente · lykoicattery.com",
+      "url": "https://lykoicattery.com/adoption/availablekittens/cost"
+    },
+    {
+      "label": "Fuente · www.majesticgembengals.com",
+      "url": "https://www.majesticgembengals.com/"
+    },
+    {
+      "label": "Fuente · www.orexcattery.com",
+      "url": "https://www.orexcattery.com/adoption-process"
+    },
+    {
+      "label": "Fuente · www.chewy.com",
+      "url": "https://www.chewy.com/education/cat-breeds/toyger"
+    },
+    {
+      "label": "Fuente · www.sunshineragdolls.com",
+      "url": "https://www.sunshineragdolls.com/_files/ugd/7c8ef2_208470117ff44c9eaa547f3e41d7f3a1.pdf"
+    },
+    {
+      "label": "Fuente · meowoff.us",
+      "url": "https://meowoff.us/siberian-kittens-for-sale/"
+    },
+    {
+      "label": "Fuente · tlcbrits.com",
+      "url": "https://tlcbrits.com/faqs"
+    },
+    {
+      "label": "Fuente · www.archangelcat.com",
+      "url": "https://www.archangelcat.com/russianbluekittenpricing"
+    },
+    {
+      "label": "Fuente · www.eurocoonsmainecooncattery.com",
+      "url": "https://www.eurocoonsmainecooncattery.com/maine-coon-kittens-for-sale/"
+    },
+    {
+      "label": "Fuente · www.royalsavannahs.com",
+      "url": "https://www.royalsavannahs.com/pages/faqs"
+    },
+    {
+      "label": "Fuente · cfa.org",
+      "url": "https://cfa.org/breed/birman/"
+    },
+    {
+      "label": "Fuente · cfa.org",
+      "url": "https://cfa.org/breed/ragdoll/"
+    },
+    {
+      "label": "Fuente · tica.org",
+      "url": "https://tica.org/breed/donskoy/"
+    },
+    {
+      "label": "Fuente · tica.org",
+      "url": "https://tica.org/breed/savannah/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuál es el ejemplo más caro?",
+      "answer": "La referencia de Royal Savannahs de 25.000 dólares para un HP F1 de compañía. Las generaciones posteriores tienen otros precios y pueden existir restricciones legales."
+    },
+    {
+      "question": "¿Son ventas completadas verificadas?",
+      "answer": "No. Son ofertas, orientaciones de vendedores y estimaciones identificadas comprobadas el 25 de noviembre de 2026."
+    },
+    {
+      "question": "¿Por qué se excluye Ashera?",
+      "answer": "Una etiqueta comercial y relatos de precios excepcionales sin respaldo no constituyen un récord comparable de raza doméstica documentada."
+    },
+    {
+      "question": "¿El precio más alto garantiza mejor salud?",
+      "answer": "No. Los registros veterinarios, pruebas apropiadas, cuidados y compatibilidad individual importan más que el precio."
+    }
+  ],
+  "readingTimeMinutes": 9
+}

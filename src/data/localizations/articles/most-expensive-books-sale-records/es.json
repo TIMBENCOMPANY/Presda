@@ -1,0 +1,462 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/most-expensive-books-sale-records/",
+  "path": "/es/articles/most-expensive-books-sale-records/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-25",
+    "terminologyChecked": true
+  },
+  "title": "15 DE LOS LIBROS MÁS CAROS JAMÁS VENDIDOS",
+  "seoTitle": "15 ventas de libros entre las más caras: precios verificados",
+  "seoTitleAbsolute": true,
+  "description": "Quince ventas históricas de libros y manuscritos, del Códice Sassoon a Audubon, con precios en dólares, procedencia y tipos de transacción.",
+  "excerpt": "Quince ventas históricas de libros y manuscritos, del Códice Sassoon a Audubon, con precios en dólares, procedencia y tipos de transacción.",
+  "headlineHighlights": {
+    "red": "LIBROS MÁS CAROS",
+    "gold": "JAMÁS VENDIDOS"
+  },
+  "keywords": [
+    "LIBROS MÁS CAROS",
+    "JAMÁS VENDIDOS"
+  ],
+  "searchIntent": "Quince ventas históricas de libros y manuscritos, del Códice Sassoon a Audubon, con precios en dólares, procedencia y tipos de transacción.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "image": {
+    "src": "/articles/most-expensive-books-sale-records.jpg",
+    "alt": "Ilustración suministrada de libros raros y páginas iluminadas en una vitrina",
+    "width": 1280,
+    "height": 655
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Los 38,1 millones de dólares del Códice Sassoon encabezan esta cuenta atrás de quince ventas excepcionales. Son precios de objetos concretos: un manuscrito, un ejemplar anotado o un conjunto de volúmenes. No son precios de la obra literaria en abstracto, y un título famoso no convierte todas sus ediciones en piezas valiosas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La selección atraviesa tradiciones religiosas, técnicas de impresión e idiomas. Un pequeño evangelio, un conjunto xilográfico chino y una enorme obra de historia natural comparten tabla gracias a un método financiero explícito. Investigación comprobada el 25 de noviembre de 2026."
+    },
+    {
+      "type": "heading",
+      "text": "Qué cuenta como venta de un libro"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clasificamos quince ventas monetarias documentadas de libros impresos y manuscritos de libros por precio nominal en dólares, del puesto 15 al 1. Las compras privadas divulgadas están identificadas. Incluimos comisiones cuando se publican y conservamos la moneda original con una equivalencia contemporánea aproximada, sin ajuste por inflación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada obra recibe una posición para el ejemplar seleccionado. Admitimos conjuntos y grupos de volúmenes supervivientes. Excluimos cartas sueltas, documentos constitucionales en una hoja, folios iluminados individuales, rollos, números de cómics, valoraciones y transferencias fiscales. Es una selección documentada, no una base mundial exhaustiva de transacciones."
+    },
+    {
+      "type": "heading",
+      "text": "Comparación de las quince ventas seleccionadas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El precio pertenece al ejemplar y a la operación indicados. No confundas martillo con total incluidas comisiones, ni compra privada divulgada con subasta."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[LUXURY25_590]]",
+      "caption": "Ventas seleccionadas por precio nominal en USD; conversiones aproximadas con moneda original",
+      "headings": [
+        "Puesto",
+        "Libro o manuscrito",
+        "Precio USD",
+        "Tipo de operación"
+      ],
+      "rows": [
+        [
+          "15",
+          "Majzor Luzzatto de las grandes festividades",
+          "$8,307,000",
+          "2021 resultado de subasta"
+        ],
+        [
+          "14",
+          "Corán sobre papel chino, siglo XV",
+          "~$8,760,000",
+          "2020; £7,016,250 resultado de subasta"
+        ],
+        [
+          "13",
+          "Yongle Dadian, dos volúmenes manuscritos",
+          "~$9,190,000",
+          "2020; €8,128,000 resultado de subasta"
+        ],
+        [
+          "12",
+          "Talmud de Babilonia de Bomberg",
+          "$9,322,000",
+          "2015 resultado de subasta"
+        ],
+        [
+          "11",
+          "Acts of Congress de George Washington",
+          "$9,826,500",
+          "2012 resultado de subasta"
+        ],
+        [
+          "10",
+          "Primer Folio de Shakespeare, ejemplar de Mills College",
+          "$9,978,000",
+          "2020 resultado de subasta"
+        ],
+        [
+          "9",
+          "The Birds of America, ejemplar Hesketh",
+          "~$11,365,000",
+          "2010; £7,321,250 resultado de subasta"
+        ],
+        [
+          "8",
+          "Evangeliario de Enrique el León",
+          "~$11,700,000",
+          "1983; £8,140,000 resultado de subasta"
+        ],
+        [
+          "7",
+          "Libro de oraciones Rothschild",
+          "$13,605,000",
+          "2014 resultado de subasta"
+        ],
+        [
+          "6",
+          "Bay Psalm Book, ejemplar de Old South Church",
+          "$14,165,000",
+          "2013 resultado de subasta"
+        ],
+        [
+          "5",
+          "Evangelio de san Cutberto",
+          "~$14,300,000",
+          "Compra institucional de 2012; £9,000,000"
+        ],
+        [
+          "4",
+          "Nuevo Libro de Tang anotado, edición Song del Sur",
+          "~$17,250,000",
+          "2018; CNY 110,400,000 resultado de subasta"
+        ],
+        [
+          "3",
+          "Códice Leicester de Leonardo da Vinci",
+          "$30,802,500",
+          "1994 resultado de subasta"
+        ],
+        [
+          "2",
+          "Manuscrito de imprenta del Libro de Mormón",
+          "$35,000,000",
+          "Compra privada divulgada de 2017"
+        ],
+        [
+          "1",
+          "Códice Sassoon 1053",
+          "$38,100,000",
+          "2023 resultado de subasta"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "#15. Majzor Luzzatto de las grandes festividades"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $8,307,000 USD. Origen: Alemania. Referencia: 2021 resultado de subasta. [Fuente · moked.it](https://moked.it/international/my-ancestors-magnificent-mahzor-why-its-sale-will-benefit-culture-as-a-whole/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este libro de oraciones judío iluminado se produjo en el sur de Alemania entre finales del siglo XIII y principios del XIV. El texto y las anotaciones conservan prácticas religiosas y movimientos entre comunidades. La venta de 2021 planteó además el acceso al patrimonio: un manuscrito puede ser un activo de una institución y, al mismo tiempo, memoria colectiva."
+    },
+    {
+      "type": "heading",
+      "text": "#14. Corán sobre papel chino, siglo XV"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$8,760,000 USD. Origen: Irán. Referencia: 2020; £7,016,250 resultado de subasta. [Fuente · www.thenationalnews.com](https://www.thenationalnews.com/arts/a-rare-look-inside-an-exceptional-15th-century-quran-1.1039840)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El manuscrito une caligrafía del ámbito persa y papel chino coloreado y decorado con oro. Su valor reside en la evidencia material de tradiciones artísticas conectadas y en su significado religioso. Christie’s lo vendió en junio de 2020. [La prensa también planteó dudas de procedencia](https://www.theartnewspaper.com/2020/07/06/quran-quietly-sells-for-record-pound7m-despite-questions-over-its-provenance): un precio alto no resuelve por sí solo la historia de propiedad ni sus cuestiones éticas."
+    },
+    {
+      "type": "heading",
+      "text": "#13. Yongle Dadian, dos volúmenes manuscritos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$9,190,000 USD. Origen: China. Referencia: 2020; €8,128,000 resultado de subasta. [Fuente · magazine.interencheres.com](https://magazine.interencheres.com/art-mobilier/top-20-des-oeuvres-les-plus-cheres-vendues-en-2020-sur-interencheres/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos dos volúmenes pertenecen a la transmisión manuscrita del siglo XVI de la enorme enciclopedia china, no a una enciclopedia completa adquirida por ese precio. Beaussant-Lefèvre los vendió en París el 7 de julio de 2020. Su importancia procede de sobrevivir dentro de un proyecto disperso: una pequeña parte puede conservar conocimientos perdidos en el resto."
+    },
+    {
+      "type": "heading",
+      "text": "#12. Talmud de Babilonia de Bomberg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $9,322,000 USD. Origen: Italia. Referencia: 2015 resultado de subasta. [Fuente · antiquesandthearts.com](https://antiquesandthearts.com/sixteenth-century-talmud-setsnew-world-auction-record-for-judaica/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El conjunto Valmadonna reúne tratados de las primeras dos ediciones venecianas de Daniel Bomberg. Es un lote de varios volúmenes, no un solo libro moderno. La importancia de la impresión, su conservación y su procedencia explican el interés. La venta de 2015 muestra cómo la organización editorial de un texto puede convertirse en un objeto cultural tan significativo como un autógrafo de autor."
+    },
+    {
+      "type": "heading",
+      "text": "#11. Acts of Congress de George Washington"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $9,826,500 USD. Origen: Estados Unidos. Referencia: 2012 resultado de subasta. [Fuente · www.christies.com](https://www.christies.com/presscenter/pdf/2012/GWactsofcongress_NewYork_22June.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El volumen de 1789 contiene la Constitución y la Carta de Derechos, con anotaciones de Washington. El precio corresponde al ejemplar de trabajo del primer presidente, no a cualquier copia. Su adquisición para Mount Vernon demuestra el peso de la asociación personal: las marcas marginales permiten estudiar cómo un lector histórico entendía los poderes y obligaciones del cargo."
+    },
+    {
+      "type": "heading",
+      "text": "#10. Primer Folio de Shakespeare, ejemplar de Mills College"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $9,978,000 USD. Origen: Inglaterra. Referencia: 2020 resultado de subasta. [Fuente · press.christies.com](https://press.christies.com/wp-content/uploads/2023/09/6c7fecf02a9aab7e0a5b8107eb8c97af.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Publicado en Londres en 1623, el Primer Folio reunió las obras teatrales de Shakespeare después de su muerte. El ejemplar completo de Mills College se vendió en Christie’s en octubre de 2020. Importancia bibliográfica e integridad actúan juntas: una hoja ausente, sustituida o restaurada puede cambiar el objeto. El récord no se aplica por igual a todos los ejemplares."
+    },
+    {
+      "type": "heading",
+      "text": "#9. The Birds of America, ejemplar Hesketh"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$11,365,000 USD. Origen: Gran Bretaña y Estados Unidos. Referencia: 2010; £7,321,250 resultado de subasta. [Fuente · www.guinnessworldrecords.com](https://www.guinnessworldrecords.com/world-records/684321-most-expensive-natural-history-book-sold-at-auction)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las monumentales láminas de Audubon se publicaron entre 1827 y 1838 y se reunieron en grandes volúmenes. El ejemplar Hesketh se vendió en Sotheby’s Londres en diciembre de 2010. El formato, el coloreado manual y la integridad del conjunto explican su valor. Otras copias tienen historias distintas; aquí reservamos una sola posición a la obra."
+    },
+    {
+      "type": "heading",
+      "text": "#8. Evangeliario de Enrique el León"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$11,700,000 USD. Origen: Alemania. Referencia: 1983; £8,140,000 resultado de subasta. [Fuente · www.upi.com](https://www.upi.com/amp/Archives/1983/12/18/West-Germany-takes-biggest-auction-prize/6490440571600/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Producido en la Alemania del siglo XII para Enrique el León, este evangeliario iluminado une texto sagrado, mecenazgo e imagen política. Un consorcio alemán lo adquirió en Sotheby’s en diciembre de 1983. Su importe nominal es menor que varios récords modernos, pero la fecha importa económicamente. No lo actualizamos por inflación porque cambiaría el criterio anunciado."
+    },
+    {
+      "type": "heading",
+      "text": "#7. Libro de oraciones Rothschild"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $13,605,000 USD. Origen: Flandes. Referencia: 2014 resultado de subasta. [Fuente · www.christies.com](https://www.christies.com/en/auction/auction-2819-hgk)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este libro de horas de principios del siglo XVI representa la miniatura de tradición ganto-brujense. Christie’s registra 13.605.000 dólares en enero de 2014. La venta anterior de 1999 es una transacción diferente que suele confundirse con esa cifra. Separarlas protege la cronología y recuerda que la procedencia puede incluir restitución además de coleccionismo."
+    },
+    {
+      "type": "heading",
+      "text": "#6. Bay Psalm Book, ejemplar de Old South Church"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $14,165,000 USD. Origen: Estados Unidos. Referencia: 2013 resultado de subasta. [Fuente · www.sothebys.com](https://www.sothebys.com/en/buy/auction/2021/the-passion-of-american-collectors-property-of-barbara-and-ira-lipman-highly-important-printed-and-manuscript-americana/psalms-the-bay-psalm-book-the-unique-surviving?locale=en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Impreso en Cambridge, Massachusetts, en 1640, este salterio marca un hito temprano de la imprenta en la Norteamérica británica. El ejemplar de Old South Church se vendió a David Rubenstein en 2013. Su importancia es histórica y bibliográfica, más que decorativa. Un pequeño libro religioso funcional puede superar a un volumen lujoso cuando coinciden escasez e historia de la impresión."
+    },
+    {
+      "type": "heading",
+      "text": "#5. Evangelio de san Cutberto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$14,300,000 USD. Origen: Inglaterra. Referencia: Compra institucional de 2012; £9,000,000. [Fuente · assets.publishing.service.gov.uk](https://assets.publishing.service.gov.uk/media/5a7c708740f0b626628ac11f/0243.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La British Library adquirió este pequeño Evangelio de Juan altomedieval tras una campaña de nueve millones de libras y anunció la compra en abril de 2012. Su encuadernación temprana excepcionalmente conservada testimonia la fabricación del libro. Es una compra institucional divulgada, no una subasta; identificarla por separado es fundamental para comparar con rigor."
+    },
+    {
+      "type": "heading",
+      "text": "#4. Nuevo Libro de Tang anotado, edición Song del Sur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$17,250,000 USD. Origen: China. Referencia: 2018; CNY 110,400,000 resultado de subasta. [Fuente · www.cguardian.com](https://www.cguardian.com/zxzx/jdxw/gsxw/2018/06/9952.shtml)"
+    },
+    {
+      "type": "paragraph",
+      "text": "China Guardian distingue en junio de 2018 entre 96 millones de yuanes de martillo y 110,4 millones con comisión. El conjunto xilográfico de época Song reúne 51 libros físicos y 160 juan, no el texto completo de 200. Los aproximadamente 17,25 millones de dólares siguen el [comunicado internacional contemporáneo](https://artdaily.com/news/105932/China-Guardian-Spring-Auctions-2018-conclude-in-Beijing-with-remarkable-results-). Impresión temprana, erudición y supervivencia excepcional explican el interés."
+    },
+    {
+      "type": "heading",
+      "text": "#3. Códice Leicester de Leonardo da Vinci"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $30,802,500 USD. Origen: Italia. Referencia: 1994 resultado de subasta. [Fuente · www.guinnessworldrecords.com](https://www.guinnessworldrecords.com/world-records/most-expensive-manuscript-that-is-illustrated)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cuaderno científico de Leonardo conserva observaciones y dibujos autógrafos sobre el mundo físico. Bill Gates lo adquirió en Christie’s en noviembre de 1994. No es una primera edición impresa, sino evidencia directa de una mente trabajando. Algunos rankings ajustados por inflación lo sitúan primero; nuestra clasificación nominal evita mezclar ambos cálculos."
+    },
+    {
+      "type": "heading",
+      "text": "#2. Manuscrito de imprenta del Libro de Mormón"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $35,000,000 USD. Origen: Estados Unidos. Referencia: Compra privada divulgada de 2017. [Fuente · www.churchofjesuschrist.org](https://www.churchofjesuschrist.org/church/news/church-buys-printers-manuscript-of-book-of-mormon-from-community-of-christ?_r=1&lang=eng)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El manuscrito utilizado para preparar la primera impresión se compró a Community of Christ en septiembre de 2017. El anuncio del comprador identifica 35 millones de dólares, también registrados en las cuentas auditadas del vendedor. Es una divulgación inusualmente sólida para una operación privada. Su importancia religiosa y textual no significa que las copias impresas corrientes compartan ese valor."
+    },
+    {
+      "type": "heading",
+      "text": "#1. Códice Sassoon 1053"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $38,100,000 USD. Origen: Mediterráneo oriental u Oriente Medio; lugar exacto incierto. Referencia: 2023 resultado de subasta. [Fuente · anumuseum.org.il](https://anumuseum.org.il/codex-sassoon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta Biblia hebrea casi completa data aproximadamente de los siglos IX o X. Alfred H. Moses la adquirió en Sotheby’s en mayo de 2023 y la donó a ANU, el Museo del Pueblo Judío. El museo confirma los 38,1 millones de dólares. Su antigüedad, extensión conservada e importancia cultural la convierten en la mayor venta nominal de esta selección definida."
+    },
+    {
+      "type": "heading",
+      "text": "Qué compran realmente los coleccionistas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estado y la integridad importan porque un libro es una secuencia de componentes físicos. Una portada reemplazada, un cuadernillo ausente, una encuadernación posterior o un facsímil pueden alterar la descripción. El récord de un ejemplar completo no se traslada automáticamente a otro."
+    },
+    {
+      "type": "paragraph",
+      "text": "La procedencia aporta evidencias de uso: marcas, anotaciones y archivos institucionales convierten el texto en testigo histórico. Pero el precio no resuelve la restitución ni el acceso. Sigue siendo necesario saber quién poseía el objeto, cómo circuló y si puede estudiarse."
+    },
+    {
+      "type": "subheading",
+      "text": "Precio, importancia y acceso público"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un récord mide una transacción, no toda la importancia de los libros de una civilización. Muchos manuscritos esenciales permanecen en colecciones públicas sin precio de venta significativo. Su ausencia de la tabla no reduce su valor cultural."
+    },
+    {
+      "type": "paragraph",
+      "text": "Explora un legado literario con [Carlo Collodi y Pinocho](/articles/carlo-collodi-200-birthday-pinocchio-1826-2026/). Compara otros mercados sensibles a la procedencia en los [récords de coches](/articles/most-expensive-cars-auction-records/) y las [subastas de caballos](/articles/most-expensive-horses-auction-records/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · moked.it",
+      "url": "https://moked.it/international/my-ancestors-magnificent-mahzor-why-its-sale-will-benefit-culture-as-a-whole/"
+    },
+    {
+      "label": "Fuente · www.thenationalnews.com",
+      "url": "https://www.thenationalnews.com/arts/a-rare-look-inside-an-exceptional-15th-century-quran-1.1039840"
+    },
+    {
+      "label": "Fuente · magazine.interencheres.com",
+      "url": "https://magazine.interencheres.com/art-mobilier/top-20-des-oeuvres-les-plus-cheres-vendues-en-2020-sur-interencheres/"
+    },
+    {
+      "label": "Fuente · antiquesandthearts.com",
+      "url": "https://antiquesandthearts.com/sixteenth-century-talmud-setsnew-world-auction-record-for-judaica/"
+    },
+    {
+      "label": "Fuente · www.christies.com",
+      "url": "https://www.christies.com/presscenter/pdf/2012/GWactsofcongress_NewYork_22June.pdf"
+    },
+    {
+      "label": "Fuente · press.christies.com",
+      "url": "https://press.christies.com/wp-content/uploads/2023/09/6c7fecf02a9aab7e0a5b8107eb8c97af.pdf"
+    },
+    {
+      "label": "Fuente · www.guinnessworldrecords.com",
+      "url": "https://www.guinnessworldrecords.com/world-records/684321-most-expensive-natural-history-book-sold-at-auction"
+    },
+    {
+      "label": "Fuente · www.upi.com",
+      "url": "https://www.upi.com/amp/Archives/1983/12/18/West-Germany-takes-biggest-auction-prize/6490440571600/"
+    },
+    {
+      "label": "Fuente · www.christies.com",
+      "url": "https://www.christies.com/en/auction/auction-2819-hgk"
+    },
+    {
+      "label": "Fuente · www.sothebys.com",
+      "url": "https://www.sothebys.com/en/buy/auction/2021/the-passion-of-american-collectors-property-of-barbara-and-ira-lipman-highly-important-printed-and-manuscript-americana/psalms-the-bay-psalm-book-the-unique-surviving?locale=en"
+    },
+    {
+      "label": "Fuente · assets.publishing.service.gov.uk",
+      "url": "https://assets.publishing.service.gov.uk/media/5a7c708740f0b626628ac11f/0243.pdf"
+    },
+    {
+      "label": "Fuente · www.cguardian.com",
+      "url": "https://www.cguardian.com/zxzx/jdxw/gsxw/2018/06/9952.shtml"
+    },
+    {
+      "label": "Fuente · www.guinnessworldrecords.com",
+      "url": "https://www.guinnessworldrecords.com/world-records/most-expensive-manuscript-that-is-illustrated"
+    },
+    {
+      "label": "Fuente · www.churchofjesuschrist.org",
+      "url": "https://www.churchofjesuschrist.org/church/news/church-buys-printers-manuscript-of-book-of-mormon-from-community-of-christ?_r=1&lang=eng"
+    },
+    {
+      "label": "Fuente · anumuseum.org.il",
+      "url": "https://anumuseum.org.il/codex-sassoon/"
+    },
+    {
+      "label": "Fuente · www.theartnewspaper.com",
+      "url": "https://www.theartnewspaper.com/2020/07/06/quran-quietly-sells-for-record-pound7m-despite-questions-over-its-provenance"
+    },
+    {
+      "label": "Fuente · artdaily.com",
+      "url": "https://artdaily.com/news/105932/China-Guardian-Spring-Auctions-2018-conclude-in-Beijing-with-remarkable-results-"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué libro tiene el precio más alto aquí?",
+      "answer": "El Códice Sassoon, vendido en Sotheby’s en mayo de 2023 por 38,1 millones de dólares y donado después a ANU."
+    },
+    {
+      "question": "¿Por qué no aparece la Constitución estadounidense?",
+      "answer": "El famoso ejemplar subastado es un documento en una hoja, fuera del ámbito de libros y manuscritos de libros."
+    },
+    {
+      "question": "¿Por qué incluir el manuscrito del Libro de Mormón?",
+      "answer": "Su compra privada de 35 millones de dólares se divulgó públicamente y la tabla la identifica como tal."
+    },
+    {
+      "question": "¿Los precios están ajustados por inflación?",
+      "answer": "No. Usamos precios nominales y equivalencias contemporáneas aproximadas, conservando las divisas originales."
+    }
+  ],
+  "readingTimeMinutes": 10
+}

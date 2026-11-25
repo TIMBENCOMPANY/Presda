@@ -1,0 +1,450 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/most-expensive-cars-auction-records/",
+  "path": "/es/articles/most-expensive-cars-auction-records/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-25",
+    "terminologyChecked": true
+  },
+  "title": "LOS 15 COCHES MÁS CAROS VENDIDOS EN SUBASTA",
+  "seoTitle": "15 coches más caros en subasta: ventas verificadas",
+  "seoTitleAbsolute": true,
+  "description": "De los Ferrari de competición al Mercedes Uhlenhaut, compara 15 ventas documentadas con divisas originales, comisiones y lotes benéficos explicados.",
+  "excerpt": "De los Ferrari de competición al Mercedes Uhlenhaut, compara 15 ventas documentadas con divisas originales, comisiones y lotes benéficos explicados.",
+  "headlineHighlights": {
+    "red": "15 COCHES MÁS CAROS",
+    "gold": "EN SUBASTA"
+  },
+  "keywords": [
+    "15 COCHES MÁS CAROS",
+    "EN SUBASTA"
+  ],
+  "searchIntent": "De los Ferrari de competición al Mercedes Uhlenhaut, compara 15 ventas documentadas con divisas originales, comisiones y lotes benéficos explicados.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "image": {
+    "src": "/articles/most-expensive-cars-auction-records.jpg",
+    "alt": "Ilustración suministrada de Bugatti, Ferrari y Rolls-Royce frente a una gran residencia",
+    "width": 1280,
+    "height": 655
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El Mercedes-Benz 300 SLR Uhlenhaut Coupé encabeza esta selección con una venta confirmada de 135 millones de euros, unos 142,3 millones de dólares de entonces. Lo decisivo supera el dinero: muchos líderes son máquinas históricas de competición cuya trayectoria individual pesa más que una ficha técnica."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuenta atrás compara 15 de los resultados de subasta más altos documentados que encontramos, comprobados el 25 de noviembre de 2026. Incluye ventas importantes de 2026, identifica distintos chasis del mismo modelo y explica por qué una puja benéfica no equivale a un precio minorista corriente."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo funciona la clasificación"
+    },
+    {
+      "type": "paragraph",
+      "text": "El orden va del puesto 15 al 1 según el total nominal en dólares publicado al venderse, con comisión del comprador cuando la fuente la incluye. Las transacciones extranjeras conservan su moneda y una equivalencia contemporánea redondeada. No ajustamos por inflación ni aplicamos tipos de cambio actuales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clasificamos subastas, incluida la de Mercedes por invitación y los lotes benéficos identificados. Excluimos operaciones privadas confidenciales, estimaciones, precios solicitados y rumores. Cada chasis aparece una vez; los distintos GTO son coches separados. La cobertura depende de resultados divulgados, no del acceso a todas las colecciones."
+    },
+    {
+      "type": "heading",
+      "text": "Comparación de precios"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consulta las cantidades originales en la columna de referencia junto a los dólares aproximados. Un mismo modelo puede ocupar varias posiciones porque se vendieron ejemplares diferentes."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[LUXURY25_591]]",
+      "caption": "Totales documentados seleccionados, ascendiendo al puesto 1; USD nominales en la fecha de venta",
+      "headings": [
+        "Puesto",
+        "Automóvil individual",
+        "Total USD",
+        "Referencia de venta"
+      ],
+      "rows": [
+        [
+          "15",
+          "Ferrari 275 GTB/C Speciale, 1964",
+          "$26,400,000",
+          "2014 resultado de subasta"
+        ],
+        [
+          "14",
+          "Ferrari 275 GTB/4*S NART Spider, 1967",
+          "$27,500,000",
+          "2013 resultado de subasta"
+        ],
+        [
+          "13",
+          "Ferrari 290 MM, 1956",
+          "$28,050,000",
+          "2015 resultado de subasta"
+        ],
+        [
+          "12",
+          "Mercedes-Benz W196 R, 1954, open-wheel",
+          "~$29,650,095",
+          "2013; £19,601,500 resultado de subasta"
+        ],
+        [
+          "11",
+          "McLaren F1 GTR 10R, 1996",
+          "$34,655,000",
+          "2026 resultado de subasta"
+        ],
+        [
+          "10",
+          "Ferrari 335 S, 1957",
+          "~$35,711,359",
+          "2016; €32,075,200 resultado de subasta"
+        ],
+        [
+          "9",
+          "Ferrari 250 LM 5893, 1964",
+          "~$36,300,000",
+          "2025; €34,880,000 resultado de subasta"
+        ],
+        [
+          "8",
+          "Ferrari 250 GTO 3851GT, 1962",
+          "$38,115,000",
+          "2014 resultado de subasta"
+        ],
+        [
+          "7",
+          "Ferrari 250 GTO 3729GT, Bianco Speciale, 1962",
+          "$38,500,000",
+          "2026 resultado de subasta"
+        ],
+        [
+          "6",
+          "Ferrari Luce Tailor Made, chassis 0, 2026",
+          "$40,000,000",
+          "2026, benéfica resultado de subasta"
+        ],
+        [
+          "5",
+          "Shelby Cobra Daytona Coupe CSX2300, 1964",
+          "$42,905,000",
+          "2026 resultado de subasta"
+        ],
+        [
+          "4",
+          "Ferrari 250 GTO 3413GT, 1962",
+          "$48,405,000",
+          "2018 resultado de subasta"
+        ],
+        [
+          "3",
+          "Ferrari 330 LM / 250 GTO 3765, 1962",
+          "$51,705,000",
+          "2023 resultado de subasta"
+        ],
+        [
+          "2",
+          "Mercedes-Benz W196 R Stromlinienwagen, 1954",
+          "~$53,900,000",
+          "2025; €51,155,000 resultado de subasta"
+        ],
+        [
+          "1",
+          "Mercedes-Benz 300 SLR Uhlenhaut Coupé, 1955",
+          "~$142,300,000",
+          "2022; €135,000,000 resultado de subasta"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "#15. Ferrari 275 GTB/C Speciale, 1964"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $26,400,000 USD. Origen: Italia. Referencia: 2014 resultado de subasta. [Fuente · fe1.rmsothebys.com](https://fe1.rmsothebys.com/stories/all/years-of-firsts-and-milestones/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El puesto quince corresponde a un Ferrari de competición especializado, no a un 275 GTB corriente. Su desarrollo ligero y su escasez explican la importancia de la denominación Speciale. RM sitúa la venta en Monterey en 2014. Compararlo con un automóvil de carretera de la misma familia borraría las diferencias técnicas que valoraban los compradores."
+    },
+    {
+      "type": "heading",
+      "text": "#14. Ferrari 275 GTB/4*S NART Spider, 1967"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $27,500,000 USD. Origen: Italia. Referencia: 2013 resultado de subasta. [Fuente · fe1.rmsothebys.com](https://fe1.rmsothebys.com/stories/all/years-of-firsts-and-milestones/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El NART Spider reunía carrocería abierta, un V12 de cuatro árboles de levas y gran rareza. La larga propiedad de la familia Eddie Smith añadía una historia personal. RM anunció el resultado de Monterey en agosto de 2013, con ingresos destinados a causas benéficas. Ese componente debe acompañar al precio y no confundirse con una valoración universal del modelo."
+    },
+    {
+      "type": "heading",
+      "text": "#13. Ferrari 290 MM, 1956"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $28,050,000 USD. Origen: Italia. Referencia: 2015 resultado de subasta. [Fuente · www.classic-car-auctions.info](https://www.classic-car-auctions.info/news/press-releases/2015-rm-sothebys-annual-results-overview-press-release/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este Ferrari pertenece a la época en que la resistencia definía al fabricante. El resultado procede de la subasta Driven by Disruptions de Nueva York, no del lanzamiento de un coche nuevo. El balance anual de RM Sotheby’s lo identifica como su mayor venta de 2015. Se pagaba por una máquina histórica documentada, no por una relación entre potencia y dinero."
+    },
+    {
+      "type": "heading",
+      "text": "#12. Mercedes-Benz W196 R, 1954, open-wheel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$29,650,095 USD. Origen: Alemania. Referencia: 2013; £19,601,500 resultado de subasta. [Fuente · www.hagerty.co.uk](https://www.hagerty.co.uk/articles/auction-analysis-top-sales-and-july-round-up/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El W196 R de ruedas descubiertas vendido por Bonhams en Goodwood es distinto del Mercedes carenado que aparece más arriba. Su vínculo con Juan Manuel Fangio lo conecta con la historia de los grandes premios. El importe en libras incluye la comisión del comprador; los dólares son la conversión contemporánea publicada por Hagerty, no únicamente el precio de martillo."
+    },
+    {
+      "type": "heading",
+      "text": "#11. McLaren F1 GTR 10R, 1996"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $34,655,000 USD. Origen: Reino Unido. Referencia: 2026 resultado de subasta. [Fuente · backoffice.rmsothebys.com](https://backoffice.rmsothebys.com/auctions/mo26/lots/r0170-1996-mclaren-f1-gtr/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El chasis 10R, conocido como Pop Art F1 por su decoración roja y amarilla, añadió un gran resultado en 2026. RM documenta su historia en fábrica, su posterior propiedad por Nick Mason de Pink Floyd y su conversión para carretera. Esos detalles distinguen este GTR de un F1 convencional y combinan competición, imagen reconocible y procedencia documentada."
+    },
+    {
+      "type": "heading",
+      "text": "#10. Ferrari 335 S, 1957"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$35,711,359 USD. Origen: Italia. Referencia: 2016; €32,075,200 resultado de subasta. [Fuente · conseilmaisonsdevente.fr](https://conseilmaisonsdevente.fr/sites/default/files/communique_de_presse_artcurial_salon_retromobile_-_05.02.2016.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El comunicado contemporáneo de Artcurial publica el total en euros y su equivalente en dólares para el chasis 0674, procedente de la colección Pierre Bardinon. Representa la importancia de los Ferrari de competición con motor delantero. Su puesto muestra por qué hay que fijar la conversión al momento de la venta: otro tipo de cambio alteraría la posición sin una nueva transacción."
+    },
+    {
+      "type": "heading",
+      "text": "#9. Ferrari 250 LM 5893, 1964"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$36,300,000 USD. Origen: Italia. Referencia: 2025; €34,880,000 resultado de subasta. [Fuente · backoffice.rmsothebys.com](https://backoffice.rmsothebys.com/media-center/press-releases/rm-sotheby-s-paris-sale-generates-69-073-275-to-become-europe-s-highest-ever-grossing-sale-in-collector-car-auction-history/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es el automóvil del NART con el que Masten Gregory y Jochen Rindt ganaron Le Mans en 1965. El comunicado de RM en París confirma el precio en euros y la procedencia del museo de Indianapolis. Una victoria histórica no puede recrearse restaurando otro ejemplar. La cantidad en dólares es aproximada; el total en euros constituye el resultado de referencia."
+    },
+    {
+      "type": "heading",
+      "text": "#8. Ferrari 250 GTO 3851GT, 1962"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $38,115,000 USD. Origen: Italia. Referencia: 2014 resultado de subasta. [Fuente · www.classic-car-auctions.info](https://www.classic-car-auctions.info/records/1962-ferrari-250-gto-bianco-speciale-sold/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bonhams vendió el chasis 3851 en Quail Lodge en 2014. Su trayectoria deportiva y sus reparaciones corresponden a ese ejemplar y no deben mezclarse con las de los otros GTO. La producción reducida y el prestigio competitivo explican la demanda general; la procedencia y el estado ayudan a entender las diferencias entre automóviles."
+    },
+    {
+      "type": "heading",
+      "text": "#7. Ferrari 250 GTO 3729GT, Bianco Speciale, 1962"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $38,500,000 USD. Origen: Italia. Referencia: 2026 resultado de subasta. [Fuente · classicmotorsports.com](https://classicmotorsports.com/news/who-took-delivery-of-bianco-speciale-david-sk-lee-did/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Bianco Speciale blanco se vendió en Mecum Kissimmee en enero de 2026. Un reportaje posterior identificó al coleccionista David SK Lee al recibirlo. Su color blanco de fábrica aporta una identidad visual singular, aunque no explica por sí solo el prestigio del GTO. Aquí cuenta la venta documentada y no un precio privado atribuido a otro chasis."
+    },
+    {
+      "type": "heading",
+      "text": "#6. Ferrari Luce Tailor Made, chassis 0, 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $40,000,000 USD. Origen: Italia. Referencia: 2026, benéfica resultado de subasta. [Fuente · backoffice.rmsothebys.com](https://backoffice.rmsothebys.com/stories/first-ferrari-ev-sells-for-40-million-becoming-the-most-expensive-new-car-ever-sold-at-auction/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El primer Luce de producción fue un lote benéfico destinado a iniciativas educativas de la Ferrari Foundation. RM registra 40 millones de dólares, muy por encima del precio de serie. Es un resultado válido, pero excepcional: el simbolismo del primer chasis, la personalización y la donación lo distinguen de una compra normal en concesionario y de una referencia ordinaria de mercado."
+    },
+    {
+      "type": "heading",
+      "text": "#5. Shelby Cobra Daytona Coupe CSX2300, 1964"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $42,905,000 USD. Origen: Estados Unidos. Referencia: 2026 resultado de subasta. [Fuente · www.goodingco.com](https://www.goodingco.com/press/article/43-million-shelby-cobra-daytona-coupe-comes-out-on-top-at-2026-car-week-across-all-auction-sales-becomes-highest-grossing-american-car-of-all-time)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gooding Christie’s confirmó el Daytona Coupe como su lote principal en Pebble Beach en 2026, con récord para un automóvil estadounidense. La importancia de este Cobra cerrado reside en su diseño de competición y su reducida producción, no en equipamiento de lujo. El total publicado incluye comisiones y permite compararlo con los demás resultados completos."
+    },
+    {
+      "type": "heading",
+      "text": "#4. Ferrari 250 GTO 3413GT, 1962"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $48,405,000 USD. Origen: Italia. Referencia: 2018 resultado de subasta. [Fuente · rmsothebys.com](https://rmsothebys.com/auctions/mo18/lots/r0117-1962-ferrari-250-gto-by-scaglietti/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "RM identifica el chasis 3413 como el tercer GTO construido y documenta su transformación de época a la carrocería posterior. La originalidad es más compleja que no cambiar nunca nada: una modificación histórica de competición puede tener valor propio. El resultado de Monterey de 2018 corresponde a ese chasis y no fija el precio de todos los GTO supervivientes."
+    },
+    {
+      "type": "heading",
+      "text": "#3. Ferrari 330 LM / 250 GTO 3765, 1962"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: $51,705,000 USD. Origen: Italia. Referencia: 2023 resultado de subasta. [Fuente · rmsothebys.com](https://rmsothebys.com/GTO/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El chasis 3765 destaca por haber competido con la propia Scuderia Ferrari. El catálogo documenta su resultado en Nürburgring y su participación en Le Mans en 1962. Su origen con motor de mayor cilindrada explica la denominación conjunta 330 LM / 250 GTO. Simplificarla como un GTO corriente eliminaría una parte importante de su identidad."
+    },
+    {
+      "type": "heading",
+      "text": "#2. Mercedes-Benz W196 R Stromlinienwagen, 1954"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$53,900,000 USD. Origen: Alemania. Referencia: 2025; €51,155,000 resultado de subasta. [Fuente · rmsothebys.com](https://rmsothebys.com/auctions/tt25/lots/r0001-1954-mercedesbenz-w-196-r-stromlinienwagen/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El W196 R carenado vendido en Stuttgart en febrero de 2025 combina historia de grandes premios con una llamativa carrocería envolvente. La venta benefició al museo de Indianapolis. Su identidad y su forma lo distinguen del Mercedes de Goodwood de 2013. Los euros son el resultado exacto; los dólares están redondeados para evitar una falsa precisión cambiaria."
+    },
+    {
+      "type": "heading",
+      "text": "#1. Mercedes-Benz 300 SLR Uhlenhaut Coupé, 1955"
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio: ~$142,300,000 USD. Origen: Alemania. Referencia: 2022; €135,000,000 resultado de subasta. [Fuente · group.mercedes-benz.com](https://group.mercedes-benz.com/company/news/uhlenhaut-coupe.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mercedes-Benz confirma que la venta tuvo lugar el 5 de mayo de 2022 en su museo con RM Sotheby’s. Fue una subasta por invitación, no una transacción privada negociada y secreta. Uno de los dos Uhlenhaut Coupé abandonó la colección del fabricante para financiar el Mercedes-Benz Fund. Escasez extrema, historia técnica y disponibilidad excepcional explican la distancia respecto al resto."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué la historia puede superar a las prestaciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un coche de competición es un objeto unido a un expediente. Documentación de fábrica, fotografías de época, continuidad de propietarios e identidad del chasis determinan qué puede afirmarse. Una restauración visualmente parecida no adquiere automáticamente el mismo pasado."
+    },
+    {
+      "type": "paragraph",
+      "text": "La escasez funciona en varios niveles. Puede haber pocos ejemplares de un modelo, pero uno destacar por una gran victoria, una carrocería peculiar o su larga conservación en fábrica. Por eso clasificamos vehículos individuales en vez de asignar un único precio a una insignia."
+    },
+    {
+      "type": "subheading",
+      "text": "Lo que las cifras no prometen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas ventas no garantizan rentabilidad. Almacenamiento, mantenimiento, seguro, comisiones y dificultad para encontrar otro comprador quedan fuera del precio principal. Una subasta benéfica añade una motivación que podría no repetirse en la reventa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción entre objeto y procedencia también aparece en las [ventas de libros](/articles/most-expensive-books-sale-records/) y los [récords de caballos](/articles/most-expensive-horses-auction-records/). La historia de [Hermès](/articles/hermes-history-harness-maker-luxury-birkin/) ofrece otra perspectiva sobre artesanía y escasez."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente · fe1.rmsothebys.com",
+      "url": "https://fe1.rmsothebys.com/stories/all/years-of-firsts-and-milestones/"
+    },
+    {
+      "label": "Fuente · www.classic-car-auctions.info",
+      "url": "https://www.classic-car-auctions.info/news/press-releases/2015-rm-sothebys-annual-results-overview-press-release/"
+    },
+    {
+      "label": "Fuente · www.hagerty.co.uk",
+      "url": "https://www.hagerty.co.uk/articles/auction-analysis-top-sales-and-july-round-up/"
+    },
+    {
+      "label": "Fuente · backoffice.rmsothebys.com",
+      "url": "https://backoffice.rmsothebys.com/auctions/mo26/lots/r0170-1996-mclaren-f1-gtr/"
+    },
+    {
+      "label": "Fuente · conseilmaisonsdevente.fr",
+      "url": "https://conseilmaisonsdevente.fr/sites/default/files/communique_de_presse_artcurial_salon_retromobile_-_05.02.2016.pdf"
+    },
+    {
+      "label": "Fuente · backoffice.rmsothebys.com",
+      "url": "https://backoffice.rmsothebys.com/media-center/press-releases/rm-sotheby-s-paris-sale-generates-69-073-275-to-become-europe-s-highest-ever-grossing-sale-in-collector-car-auction-history/"
+    },
+    {
+      "label": "Fuente · www.classic-car-auctions.info",
+      "url": "https://www.classic-car-auctions.info/records/1962-ferrari-250-gto-bianco-speciale-sold/"
+    },
+    {
+      "label": "Fuente · classicmotorsports.com",
+      "url": "https://classicmotorsports.com/news/who-took-delivery-of-bianco-speciale-david-sk-lee-did/"
+    },
+    {
+      "label": "Fuente · backoffice.rmsothebys.com",
+      "url": "https://backoffice.rmsothebys.com/stories/first-ferrari-ev-sells-for-40-million-becoming-the-most-expensive-new-car-ever-sold-at-auction/"
+    },
+    {
+      "label": "Fuente · www.goodingco.com",
+      "url": "https://www.goodingco.com/press/article/43-million-shelby-cobra-daytona-coupe-comes-out-on-top-at-2026-car-week-across-all-auction-sales-becomes-highest-grossing-american-car-of-all-time"
+    },
+    {
+      "label": "Fuente · rmsothebys.com",
+      "url": "https://rmsothebys.com/auctions/mo18/lots/r0117-1962-ferrari-250-gto-by-scaglietti/"
+    },
+    {
+      "label": "Fuente · rmsothebys.com",
+      "url": "https://rmsothebys.com/GTO/"
+    },
+    {
+      "label": "Fuente · rmsothebys.com",
+      "url": "https://rmsothebys.com/auctions/tt25/lots/r0001-1954-mercedesbenz-w-196-r-stromlinienwagen/"
+    },
+    {
+      "label": "Fuente · group.mercedes-benz.com",
+      "url": "https://group.mercedes-benz.com/company/news/uhlenhaut-coupe.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué coche es el más caro de la clasificación?",
+      "answer": "El Mercedes-Benz 300 SLR Uhlenhaut Coupé de 1955, subastado por 135 millones de euros en mayo de 2022, unos 142,3 millones de dólares entonces."
+    },
+    {
+      "question": "¿Son precios originales de coches nuevos?",
+      "answer": "No. Son resultados publicados de subastas de coches individuales, con los lotes benéficos señalados."
+    },
+    {
+      "question": "¿Por qué figuran varios Ferrari 250 GTO?",
+      "answer": "Cada chasis tiene una procedencia, un estado, una historia y un resultado propios."
+    },
+    {
+      "question": "¿Se ajustan los dólares por inflación?",
+      "answer": "No. Son totales nominales o equivalencias contemporáneas redondeadas, con la moneda original indicada."
+    }
+  ],
+  "readingTimeMinutes": 10
+}
