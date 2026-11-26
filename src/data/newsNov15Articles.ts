@@ -1,6 +1,600 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "599",
+    "slug": "thanksgiving-history-november-26-1789-national-holiday",
+    "title": "THANKSGIVING: THE STORY BEHIND AMERICA’S NATIONAL HOLIDAY",
+    "seoTitle": "Thanksgiving History: Why November 26, 1789 Matters",
+    "seoTitleAbsolute": true,
+    "metaDescription": "From Washington’s November 26, 1789 observance to the fourth Thursday rule, explore Thanksgiving’s history, Wampanoag perspectives and enduring myths.",
+    "excerpt": "From Washington’s November 26, 1789 observance to the fourth Thursday rule, explore Thanksgiving’s history, Wampanoag perspectives and enduring myths.",
+    "category": "World",
+    "schemaType": "Article",
+    "date": "2026-11-26",
+    "lastUpdated": "2026-11-26",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/thanksgiving-history-november-26-1789-national-holiday.jpg",
+    "coverAlt": "Illustration of a Thanksgiving gathering with English settlers and Indigenous people beside a table",
+    "headlineHighlights": {
+      "red": "THANKSGIVING",
+      "gold": "NATIONAL HOLIDAY"
+    },
+    "tags": [
+      "Thanksgiving",
+      "George Washington",
+      "Wampanoag",
+      "On This Day"
+    ],
+    "content": [
+      "Thanksgiving became a national observance under the new United States Constitution on November 26, 1789, following a proclamation by George Washington. That date did not create today’s permanently recurring federal holiday. The familiar fourth Thursday of November was fixed by legislation in 1941, after generations of changing presidential and state observances. [National Archives: Congress establishes Thanksgiving](https://www.archives.gov/legislative/features/thanksgiving) [George Washington’s Mount Vernon: Thanksgiving and the 1789 proclamation](https://www.mountvernon.org/george-washington/the-first-president/thanksgiving)",
+      "The November 26 anniversary is therefore a useful place to begin a more complicated story. Thanksgiving combines harvest traditions, public religion, national politics, family customs and Indigenous memories that do not fit a single reassuring scene. Its history becomes clearer when the 1621 gathering at Plymouth, Washington’s proclamation and the modern holiday are treated as separate events.",
+      "## What happened on November 26, 1789?",
+      "Washington issued his proclamation on October 3, responding to a congressional request for a national day of thanksgiving. It recommended November 26 as a day of gratitude and prayer. The original document links that gratitude to independence, peace and the establishment of government, especially the recently adopted national Constitution. It was an act of public nation-building as well as religious expression. [National Archives: Washington’s original proclamation](https://www.archives.gov/files/historical-docs/doc-content/images/washington-thanksgiving-proclamation.pdf)",
+      "[[DAY26_599]]",
+      "Its wording also asked for forgiveness of national and other transgressions and for the promotion of useful knowledge and good government. Those concerns are easily lost when the proclamation is reduced to a ceremonial endorsement of a meal. The document describes obligations and aspirations for the new republic, not a prescribed menu or a permanent annual calendar. [National Archives: Washington’s original proclamation](https://www.archives.gov/files/historical-docs/doc-content/images/washington-thanksgiving-proclamation.pdf)",
+      "## Plymouth in 1621: a harvest gathering, not a federal holiday",
+      "More than a century and a half earlier, English colonists and Wampanoag people gathered after the Plymouth harvest. Edward Winslow’s surviving account describes three days of entertainment and food, with Ousamequin, often called Massasoit, and about ninety men. His men provided five deer; the colonists had obtained fowl. These details support a real encounter while leaving much about its organization and atmosphere unknown. [Plimoth Patuxet Museums: Edward Winslow’s eyewitness account](https://plimoth.org/yath/unit-4/eye-witness-account-of-the-1621-harvest-celebration)",
+      "### What the evidence can and cannot tell us",
+      "Winslow did not provide the exact calendar date, a guest list covering everyone present or a complete menu. Wild turkey is plausible in that environment, but the recorded word fowl cannot establish every bird served. Modern cranberry sauce, neatly arranged place settings and pumpkin pie should not be projected backward simply because they appear in later paintings or generated images. [Plimoth Patuxet Museums: Edward Winslow’s eyewitness account](https://plimoth.org/yath/unit-4/eye-witness-account-of-the-1621-harvest-celebration)",
+      "The Smithsonian places the gathering in the context of an agreement between the English settlers and the Wampanoag nation. That political relationship matters. Indigenous participants were members of established communities making decisions about diplomacy and security, not supporting characters who appeared only to help create an American holiday. The English settlement occupied Patuxet, a place with a history before the colonists’ arrival. [Smithsonian National Museum of the American Indian: Thanksgiving timeline](https://americanindian.si.edu/nk360/Thanksgiving/timeline.html)",
+      "### Why the first Thanksgiving label misleads",
+      "Giving thanks for food, survival or military events was not invented in Plymouth. The phrase first Thanksgiving compresses several different practices into a modern national origin story. The harvest gathering, colonial religious days of thanksgiving and the much later federal observance are related through memory, but they are not one uninterrupted institution founded at a dinner table. [Smithsonian National Museum of the American Indian: Thanksgiving timeline](https://americanindian.si.edu/nk360/Thanksgiving/timeline.html)",
+      "## How an annual national tradition took shape",
+      "After Washington, presidential Thanksgiving dates were not uniform. Lincoln’s proclamation of October 3, 1863, during the Civil War, recommended the last Thursday of November. The National Archives identifies this as the beginning of a regular annual presidential practice. A holiday often presented as timeless was still being standardized while the country was fighting over its future. [National Archives: Congress establishes Thanksgiving](https://www.archives.gov/legislative/features/thanksgiving)",
+      "Writer and magazine editor Sarah Josepha Hale had long advocated a shared national Thanksgiving. Her September 28, 1863 letter to Lincoln survives at the Library of Congress. It argues for a common observance across the states. The letter demonstrates an organized campaign, but the broader history should not be reduced to a lone person instantly inventing a holiday through one persuasive message. [Library of Congress: Sarah Josepha Hale’s September 28, 1863 letter](https://www.loc.gov/static/classroom-materials/thanksgiving/documents/sarah_hale.pdf)",
+      "### The calendar controversy and the 1941 law",
+      "In 1939, November’s final Thursday fell on the thirtieth. Roosevelt moved his observance to the preceding Thursday, hoping a longer Christmas shopping season would help the economy. States divided over the change. The episode connected the holiday’s civic symbolism to retail calendars and demonstrated that presidential recommendation did not automatically produce nationwide agreement. [National Archives: Congress establishes Thanksgiving](https://www.archives.gov/legislative/features/thanksgiving)",
+      "Congress eventually settled on the fourth Thursday rather than the last Thursday. Roosevelt signed the resolution on December 26, 1941. The distinction matters in a November with five Thursdays: fourth and last are not interchangeable. Nor does the law make November 26 the holiday’s fixed date. That anniversary belongs to Washington’s particular observance in 1789. [National Archives: Congress establishes Thanksgiving](https://www.archives.gov/legislative/features/thanksgiving)",
+      "## The Indigenous history beyond the feast",
+      "The harvest encounter did not guarantee enduring equality or peace. The Smithsonian’s chronology follows the subsequent colonial expansion and violence instead of stopping at the celebratory meal. Reading the later history alongside the 1621 account changes the meaning of the familiar picture: a moment of cooperation cannot stand as proof that the larger relationship was fair or harmless. [Smithsonian National Museum of the American Indian: Thanksgiving timeline](https://americanindian.si.edu/nk360/Thanksgiving/timeline.html)",
+      "The Wampanoag are living peoples, not a vanished population confined to an origin myth. Historical writing should name them and recognize different perspectives within and beyond their communities. It is possible to describe gratitude and family gatherings without turning a simplified colonial story into a universal account of what the day means to everyone. [Smithsonian National Museum of the American Indian: Thanksgiving timeline](https://americanindian.si.edu/nk360/Thanksgiving/timeline.html) [Pilgrim Hall Museum: National Day of Mourning](https://www.pilgrimhall.org/thanksgiving-national-day-of-mourning/national-day-of-mourning/)",
+      "### The National Day of Mourning",
+      "Pilgrim Hall Museum traces the Plymouth observance to 1970. Wamsutta Frank James, an Aquinnah Wampanoag speaker, rejected an effort to control the historical message of his planned commemorative speech and spoke on Cole’s Hill instead. The annual gathering honors ancestors and draws attention to Indigenous struggles. It is part of Thanksgiving’s history, not an unrelated modern interruption. [Pilgrim Hall Museum: National Day of Mourning](https://www.pilgrimhall.org/thanksgiving-national-day-of-mourning/national-day-of-mourning/)",
+      "## A short timeline of a changing holiday",
+      "Autumn 1621: a documented harvest gathering at Plymouth. November 26, 1789: Washington’s recommended national thanksgiving. October 3, 1863: Lincoln’s proclamation begins a regular annual presidential pattern. December 26, 1941: federal law establishes the fourth Thursday. In 1970, the National Day of Mourning adds an enduring public challenge to the holiday’s conventional story. [National Archives: Congress establishes Thanksgiving](https://www.archives.gov/legislative/features/thanksgiving) [Plimoth Patuxet Museums: Edward Winslow’s eyewitness account](https://plimoth.org/yath/unit-4/eye-witness-account-of-the-1621-harvest-celebration) [Pilgrim Hall Museum: National Day of Mourning](https://www.pilgrimhall.org/thanksgiving-national-day-of-mourning/national-day-of-mourning/)",
+      "## Reading Thanksgiving without confusing memory and evidence",
+      "The supplied hero is an AI-generated illustration, not an eyewitness record. Its clothing, food and people must not be used as historical proof. To examine a contemporary account, read Winslow’s text; to understand the federal holiday, read the proclamations and legislation. These sources answer different questions, and acknowledging their limits makes the story more useful rather than less engaging.",
+      "For the later transformation of the holiday into an urban spectacle, see PRESDA’s [history and current report on Macy’s parade](/articles/macys-100th-thanksgiving-day-parade-2026/). Our [Casablanca anniversary](/articles/casablanca-film-premiere-november-26-1942/) explores another November 26 cultural milestone. Thanksgiving itself endures because people continue to give it meaning, even as the historical record resists a single uncomplicated origin."
+    ],
+    "references": [
+      {
+        "name": "National Archives: Congress establishes Thanksgiving",
+        "url": "https://www.archives.gov/legislative/features/thanksgiving"
+      },
+      {
+        "name": "George Washington’s Mount Vernon: Thanksgiving and the 1789 proclamation",
+        "url": "https://www.mountvernon.org/george-washington/the-first-president/thanksgiving"
+      },
+      {
+        "name": "Plimoth Patuxet Museums: Edward Winslow’s eyewitness account",
+        "url": "https://plimoth.org/yath/unit-4/eye-witness-account-of-the-1621-harvest-celebration"
+      },
+      {
+        "name": "Smithsonian National Museum of the American Indian: Thanksgiving timeline",
+        "url": "https://americanindian.si.edu/nk360/Thanksgiving/timeline.html"
+      },
+      {
+        "name": "Pilgrim Hall Museum: National Day of Mourning",
+        "url": "https://www.pilgrimhall.org/thanksgiving-national-day-of-mourning/national-day-of-mourning/"
+      },
+      {
+        "name": "Library of Congress: Sarah Josepha Hale’s September 28, 1863 letter",
+        "url": "https://www.loc.gov/static/classroom-materials/thanksgiving/documents/sarah_hale.pdf"
+      },
+      {
+        "name": "National Archives: Washington’s original proclamation",
+        "url": "https://www.archives.gov/files/historical-docs/doc-content/images/washington-thanksgiving-proclamation.pdf"
+      }
+    ],
+    "relatedSlugs": [
+      "macys-100th-thanksgiving-day-parade-2026",
+      "casablanca-film-premiere-november-26-1942",
+      "fourth-crusade-siege-zara-zadar-1202"
+    ],
+    "faq": [
+      {
+        "question": "Is Thanksgiving always on November 26?",
+        "answer": "No. Federal Thanksgiving falls on the fourth Thursday in November. Washington’s 1789 observance was November 26, which is why the date matters historically."
+      },
+      {
+        "question": "Was the 1621 gathering America’s first national Thanksgiving?",
+        "answer": "No. It was a harvest celebration in a colonial setting. Its later status as a national origin story should not be confused with federal holiday legislation."
+      },
+      {
+        "question": "Is the modern menu documented in 1621?",
+        "answer": "Not as a complete menu. Winslow records fowl and five deer, but does not establish today’s turkey, cranberry sauce and pie meal."
+      },
+      {
+        "question": "Why do some people observe a National Day of Mourning?",
+        "answer": "The Plymouth observance, begun in 1970, honors Indigenous ancestors and challenges narratives that omit dispossession, violence and continuing Native life."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "600",
+    "slug": "concorde-final-flight-november-26-2003",
+    "title": "CONCORDE: THE FINAL FLIGHT OF A SUPERSONIC LEGEND",
+    "seoTitle": "Concorde’s Final Flight: November 26, 2003 Explained",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Why Concorde’s final flight on November 26, 2003 differed from its last passenger service, and what its retirement reveals about aviation’s economics.",
+    "excerpt": "Why Concorde’s final flight on November 26, 2003 differed from its last passenger service, and what its retirement reveals about aviation’s economics.",
+    "category": "Business",
+    "schemaType": "Article",
+    "date": "2026-11-26",
+    "lastUpdated": "2026-11-26",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/concorde-final-flight-november-26-2003.jpg",
+    "coverAlt": "Illustration of a British Airways Concorde on an airport apron at night",
+    "headlineHighlights": {
+      "red": "CONCORDE",
+      "gold": "SUPERSONIC LEGEND"
+    },
+    "tags": [
+      "Concorde",
+      "British Airways",
+      "Aviation history",
+      "On This Day"
+    ],
+    "content": [
+      "The last flight of any Concorde took place on November 26, 2003. British Airways G-BOAF, known as Alpha Foxtrot, departed London Heathrow and landed at Filton, near Bristol, where it had been built. This was the aircraft’s journey into preservation, not the final scheduled passenger service, which British Airways had operated a month earlier. [Aerospace Bristol: the last Concorde](https://aerospacebristol.org/last-concorde) [British Airways: Concorde history and specifications](https://www.britishairways.com/en-us/information/about-ba/history-and-heritage/celebrating-concorde)",
+      "That distinction changes the anniversary. October 24 marked the end of a commercial product: a supersonic seat sold to a traveler. November 26 marked the end of a flying aircraft type. Between the two lay a carefully managed transition from airline operation to museum object, with the last landing returning a remarkable machine to its industrial birthplace.",
+      "## What happened on the final flight?",
+      "Aerospace Bristol records a route from Heathrow over the Bay of Biscay, followed by a flight above the Clifton Suspension Bridge and a landing at Filton. Captain Les Brodie commanded the flight. The final journey connected the aircraft’s international identity with the city whose workforce had helped build the British Concordes. It was a farewell with a specific destination, not an unplanned grounding. [Aerospace Bristol: anniversary of the final flight](https://aerospacebristol.org/news/2024/11/25/aerospace-bristol-commemorates-the-21st-anniversary-of-concordes-final-flight)",
+      "[[DAY26_600]]",
+      "G-BOAF was Concorde 216, the last example built as well as the last to fly. It is now the central exhibit at Aerospace Bristol. Its later move into a purpose-built hangar in 2017 happened on the ground. A museum relocation, however spectacular, must not be mistaken for a return to flight. [Aerospace Bristol: the last Concorde](https://aerospacebristol.org/last-concorde)",
+      "## The two dates often confused",
+      "British Airways identifies October 24, 2003 as the date of its last scheduled commercial Concorde flight, BA002 from New York JFK to Heathrow, flown by G-BOAG. That aircraft is preserved at Seattle’s Museum of Flight. Alpha Foxtrot’s November journey came after the commercial farewell and involved a different registration. Substituting one for the other creates a plausible but incorrect account. [British Airways: Concorde history and specifications](https://www.britishairways.com/en-us/information/about-ba/history-and-heritage/celebrating-concorde) [The Museum of Flight: Concorde aircraft history](https://www.museumofflight.org/Exhibits-and-Events/Aircraft/concorde)",
+      "### Service retirement did not mean every aircraft stopped that day",
+      "Aircraft being retired can still need positioning flights to their final homes. Those movements do not reopen the route network or restore ticket sales. Concorde’s last weeks illustrate why historians distinguish the last revenue service, the last operation by a particular airline and the final flight of the entire type. Each describes a different milestone.",
+      "## How Concorde changed the passenger experience",
+      "The Anglo-French aircraft turned speed into its defining proposition. British Airways’ published specification describes a 100-seat cabin, cruise at approximately Mach 2 and operation at altitudes up to 60,000 feet. Four Rolls-Royce/SNECMA Olympus engines powered a slender fuselage and delta wing. These were specifications of an integrated design, not independent features that could simply be attached to a conventional airliner. [British Airways: Concorde history and specifications](https://www.britishairways.com/en-us/information/about-ba/history-and-heritage/celebrating-concorde)",
+      "The airline’s configuration had forty seats in the forward cabin and sixty behind. The business proposition depended on time saved and a distinctive service rather than the huge capacity of a widebody. The passenger cabin could feel exclusive without being physically spacious. Fast transport and generous floor area were different forms of luxury. [British Airways: Concorde history and specifications](https://www.britishairways.com/en-us/information/about-ba/history-and-heritage/celebrating-concorde)",
+      "### A technical achievement with a limited production run",
+      "The Museum of Flight records twenty Concordes built between 1969 and 1979, including development aircraft. French prototype 001 first flew in March 1969; British prototype 002 followed a month later. Twenty built does not mean twenty aircraft available for regular airline schedules. A programme’s prototypes, test aircraft and operational fleet serve different purposes. [The Museum of Flight: Concorde aircraft history](https://www.museumofflight.org/Exhibits-and-Events/Aircraft/concorde)",
+      "Commercial service began on January 21, 1976. The inaugural British Airways route was Heathrow to Bahrain, while Air France began Paris to Rio de Janeiro via Dakar. The later association with New York is so strong that it can obscure those initial destinations. Concorde entered service as a joint industrial project seeking an international market, not as a machine designed only for one famous city pair. [British Airways: Concorde history and specifications](https://www.britishairways.com/en-us/information/about-ba/history-and-heritage/celebrating-concorde) [Brooklands Museum: Concorde timeline](https://www.brooklandsmuseum.com/discover/concorde/the-concorde-story/concorde-timeline/)",
+      "## Why a celebrated aircraft stopped making commercial sense",
+      "The most useful account is the airline’s contemporary statement rather than a retrospective slogan about failure. In its April 10, 2003 announcement, filed with the US Securities and Exchange Commission, British Airways cited declining passenger revenue and rising maintenance costs. Discussions with Airbus had identified the need for a more extensive maintenance programme in coming years. [British Airways, April 10, 2003: retirement announcement filed with the SEC](https://www.sec.gov/Archives/edgar/data/809023/000080902303000016/wellingtonconcorde.htm)",
+      "The carrier said it could not justify that investment against weaker demand for premium travel. This was a forward-looking decision about future spending and future revenue. It does not prove that every past flight lost money, nor that the engineering lacked value. Development cost, an individual service’s operating result and the business case for extending an aging fleet are different financial questions. [British Airways, April 10, 2003: retirement announcement filed with the SEC](https://www.sec.gov/Archives/edgar/data/809023/000080902303000016/wellingtonconcorde.htm)",
+      "### Reputation could not replace a sustainable network",
+      "A prestigious product still needs customers, support capacity and a viable maintenance plan. The retirement statement shows these pressures converging. Speed remained the aircraft’s attraction, but that attraction did not automatically guarantee the revenue needed for its next phase. The contemporary filing is more informative than invented lifetime profit totals or an unsupported claim that one event alone ended the programme. [British Airways, April 10, 2003: retirement announcement filed with the SEC](https://www.sec.gov/Archives/edgar/data/809023/000080902303000016/wellingtonconcorde.htm)",
+      "## The 2000 accident and the return to service",
+      "On July 25, 2000, an Air France Concorde crashed near Gonesse shortly after takeoff from Paris Charles de Gaulle. The BEA investigation documents a chain involving runway debris, tire damage, fuel leakage and fire. It was a catastrophic event, killing 109 people aboard and four on the ground, and requires a precise technical account rather than a simplistic explanation based on the aircraft’s age. [BEA: final investigation report, Air France Concorde accident](https://bea.aero/fileadmin/uploads/tx_elydbrapports/f-sc000725a.pdf)",
+      "The aircraft’s story did not end on that date. Aerospace Bristol records the resumption of commercial service on November 7, 2001. The return followed modification and recertification work. Retirement two years later should therefore be explained as a later decision in a changed commercial environment, while recognizing the accident’s profound place in the programme’s final years. [Aerospace Bristol: the last Concorde](https://aerospacebristol.org/last-concorde)",
+      "## Timeline: from partnership to preservation",
+      "March and April 1969 brought the first flights of the French and British prototypes. January 21, 1976 brought commercial service. July 25, 2000 brought the fatal accident; November 7, 2001 the return of services. British Airways’ commercial farewell came on October 24, 2003, followed by G-BOAF’s final landing at Filton on November 26. [Aerospace Bristol: the last Concorde](https://aerospacebristol.org/last-concorde) [British Airways: Concorde history and specifications](https://www.britishairways.com/en-us/information/about-ba/history-and-heritage/celebrating-concorde) [The Museum of Flight: Concorde aircraft history](https://www.museumofflight.org/Exhibits-and-Events/Aircraft/concorde) [Brooklands Museum: Concorde timeline](https://www.brooklandsmuseum.com/discover/concorde/the-concorde-story/concorde-timeline/) [BEA: final investigation report, Air France Concorde accident](https://bea.aero/fileadmin/uploads/tx_elydbrapports/f-sc000725a.pdf)",
+      "## What remains after the final landing",
+      "A preserved Concorde offers something a speed figure cannot: a chance to see the physical compromises of supersonic travel. The cabin, engines, wing and cockpit belonged to a particular industrial system. Interpreting that system alongside the business records gives a fuller picture than treating the aircraft as either an uncomplicated triumph or a commercial joke.",
+      "The supplied night scene is an AI-generated illustration, not a photograph of the daytime farewell. For the earlier pursuit of flight, explore PRESDA’s [1783 balloon anniversary](/articles/first-free-human-balloon-flight-paris-1783/) and [history of airplanes](/articles/airplanes-wright-brothers-modern-aviation/). Our [Astérix satellite feature](/articles/asterix-satellite-france-november-26-1965/) examines another November 26 milestone where technical capability and national ambition became inseparable."
+    ],
+    "references": [
+      {
+        "name": "Aerospace Bristol: the last Concorde",
+        "url": "https://aerospacebristol.org/last-concorde"
+      },
+      {
+        "name": "Aerospace Bristol: anniversary of the final flight",
+        "url": "https://aerospacebristol.org/news/2024/11/25/aerospace-bristol-commemorates-the-21st-anniversary-of-concordes-final-flight"
+      },
+      {
+        "name": "British Airways: Concorde history and specifications",
+        "url": "https://www.britishairways.com/en-us/information/about-ba/history-and-heritage/celebrating-concorde"
+      },
+      {
+        "name": "British Airways, April 10, 2003: retirement announcement filed with the SEC",
+        "url": "https://www.sec.gov/Archives/edgar/data/809023/000080902303000016/wellingtonconcorde.htm"
+      },
+      {
+        "name": "The Museum of Flight: Concorde aircraft history",
+        "url": "https://www.museumofflight.org/Exhibits-and-Events/Aircraft/concorde"
+      },
+      {
+        "name": "Brooklands Museum: Concorde timeline",
+        "url": "https://www.brooklandsmuseum.com/discover/concorde/the-concorde-story/concorde-timeline/"
+      },
+      {
+        "name": "BEA: final investigation report, Air France Concorde accident",
+        "url": "https://bea.aero/fileadmin/uploads/tx_elydbrapports/f-sc000725a.pdf"
+      }
+    ],
+    "relatedSlugs": [
+      "airplanes-wright-brothers-modern-aviation",
+      "first-free-human-balloon-flight-paris-1783",
+      "asterix-satellite-france-november-26-1965"
+    ],
+    "faq": [
+      {
+        "question": "Was November 26 Concorde’s last passenger service?",
+        "answer": "No. British Airways ended scheduled commercial service on October 24, 2003. November 26 was the final flight of any Concorde, to Filton."
+      },
+      {
+        "question": "Which aircraft made the last flight?",
+        "answer": "British Airways G-BOAF, known as Alpha Foxtrot and also as Concorde 216. It is preserved at Aerospace Bristol."
+      },
+      {
+        "question": "Did the 2000 accident immediately end Concorde?",
+        "answer": "No. Commercial services resumed in November 2001. Retirement in 2003 also reflected demand, revenue and rising maintenance requirements."
+      },
+      {
+        "question": "Was Concorde the first aircraft to fly supersonically?",
+        "answer": "No. Its achievement was sustained supersonic passenger transport. Earlier research and military aircraft had already exceeded the speed of sound."
+      }
+    ],
+    "readingTime": "7 min read"
+  },
+  {
+    "id": "601",
+    "slug": "tutankhamun-tomb-november-26-1922-discovery",
+    "title": "TUTANKHAMUN: THE GOLDEN TOMB THAT ASTONISHED THE WORLD",
+    "seoTitle": "Tutankhamun’s Tomb: What Happened on November 26, 1922",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Inside the November 26, 1922 glimpse of Tutankhamun’s tomb: the discovery timeline, Egyptian workforce, golden mask, conservation and curse myth.",
+    "excerpt": "Inside the November 26, 1922 glimpse of Tutankhamun’s tomb: the discovery timeline, Egyptian workforce, golden mask, conservation and curse myth.",
+    "category": "History",
+    "schemaType": "Article",
+    "date": "2026-11-26",
+    "lastUpdated": "2026-11-26",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/tutankhamun-tomb-november-26-1922-discovery.jpg",
+    "coverAlt": "Historical illustration of Tutankhamun’s golden funerary mask with shrines behind it",
+    "headlineHighlights": {
+      "red": "TUTANKHAMUN",
+      "gold": "GOLDEN TOMB"
+    },
+    "tags": [
+      "Tutankhamun",
+      "Ancient Egypt",
+      "Howard Carter",
+      "On This Day"
+    ],
+    "content": [
+      "On November 26, 1922, Howard Carter peered through a small opening into the antechamber of Tutankhamun’s tomb in Egypt’s Valley of the Kings. The celebrated glimpse of gilded objects was not the discovery of the entrance stairway, and it was not the opening of the burial chamber. Those events occurred on November 4, 1922 and February 16, 1923 respectively. [Griffith Institute: first excavation season, 1922–1923](https://tutankhamun.griffith.ox.ac.uk/seasons/1st-season-1922-1923)",
+      "Separating those dates does not diminish the drama. It restores the discovery’s true scale: a brief first view followed by years of recording, conservation and removal. The golden mask that now dominates popular images of Tutankhamun was not waiting in plain sight on that November afternoon. An archaeological discovery is a process, not a single picture.",
+      "## What Carter actually opened on November 26",
+      "The Griffith Institute’s reconstruction of the first season describes the clearing of ancient workmen’s huts near the tomb of Ramesses VI. A stairway appeared on November 4. After the arrival of Carter’s patron, Lord Carnarvon, the team cleared the entrance and passage. On November 26, a second sealed doorway separated the excavators from the antechamber. [Griffith Institute: first excavation season, 1922–1923](https://tutankhamun.griffith.ox.ac.uk/seasons/1st-season-1922-1923)",
+      "[[DAY26_601]]",
+      "Carter’s pocket diary records the opening of the second doorway at about four in the afternoon. The brevity of that entry contrasts with the more elaborate narrative that made the scene famous. The diary, excavation journal and later recollections are related sources, but they are not interchangeable transcripts of a conversation. The contemporary record should anchor the anniversary. [Griffith Institute: Carter’s November 26–27 diary page](https://tutankhamun.griffith.ox.ac.uk/index.php/journals-and-diaries/howard-carters-diary-1922-taa-i221/taa-i221189)",
+      "### The first view was not the golden mask",
+      "Beyond the breach were furnishings, chariots, containers and statues. The burial chamber remained behind another doorway. The famous funerary mask is catalogued as object 256.a in records from the 1925–1926 season. Combining the mask, coffin opening and first antechamber glimpse into one night may produce a spectacular scene, but it compresses years of work into a false chronology. [Griffith Institute: first excavation season, 1922–1923](https://tutankhamun.griffith.ox.ac.uk/seasons/1st-season-1922-1923) [Griffith Institute: the gold mask, object 256.a](https://tutankhamun.griffith.ox.ac.uk/object-records/256a)",
+      "## Why this particular tomb mattered",
+      "Egypt’s Ministry of Tourism and Antiquities identifies KV62 as the tomb of an Eighteenth Dynasty king and emphasizes its exceptional relative preservation. Compared with other royal tombs in the Valley of the Kings, it is modest in size and decoration. Its global fame comes primarily from the survival of burial equipment on a scale rarely available to archaeologists in that cemetery. [Egypt’s Ministry of Tourism and Antiquities: tomb of Tutankhamun](https://egymonuments.gov.eg/monuments/tomb-of-tutankhamun/)",
+      "The objects mattered together, not just as individual valuables. Furniture, vessels, clothing and ceremonial equipment offered evidence of a royal burial’s material world. Their positions and relationships could reveal information that a detached masterpiece in a display case cannot. Recording how an object was found was therefore part of preserving what it could tell historians. [Metropolitan Museum of Art: Harry Burton, the pharaoh’s photographer](https://www.metmuseum.org/it/essays/harry-burton-18791940-the-pharaohs-photographer)",
+      "### Relatively intact does not mean untouched",
+      "The Metropolitan Museum’s account makes clear that ancient robbers had entered the tomb. It survived with extraordinary contents despite those intrusions. Calling it entirely unlooted or sealed forever erases the physical evidence. The real question is why so much remained, and how earlier disturbance can be distinguished from the original burial arrangement. [Metropolitan Museum of Art: Harry Burton, the pharaoh’s photographer](https://www.metmuseum.org/it/essays/harry-burton-18791940-the-pharaohs-photographer)",
+      "## The Egyptian workforce behind the famous names",
+      "The standard story foregrounds Carter and Carnarvon, but the Griffith Institute documents a large Egyptian workforce whose skilled labor made the excavation possible. Clearing, carrying, guarding and handling fragile finds were essential parts of the work. An account that credits only the person who looked through a doorway mistakes a memorable moment for the whole achievement. [Griffith Institute: the Egyptian workforce](https://tutankhamun.griffith.ox.ac.uk/stories/egyptian-workforce)",
+      "The archive also cautions against reading a photograph of an Egyptian boy wearing a pectoral as automatic proof of a particular discovery story. Images have their own production context. Recognizing Egyptian participation does not require converting every later anecdote into a verified fact; it requires taking the documented workforce seriously and acknowledging where individual contributions were poorly recorded. [Griffith Institute: the Egyptian workforce](https://tutankhamun.griffith.ox.ac.uk/stories/egyptian-workforce)",
+      "### Photography created a record beyond the spectacle",
+      "Harry Burton, lent by the Metropolitan Museum’s expedition, photographed the excavation and objects systematically. The museum describes years of detailed recording that preserved stages of the work. These photographs are historical documents, with dates and contexts. They are different from modern colorizations, dramatizations and AI-generated interiors, even when all are visually persuasive. [Metropolitan Museum of Art: Harry Burton, the pharaoh’s photographer](https://www.metmuseum.org/it/essays/harry-burton-18791940-the-pharaohs-photographer)",
+      "## Why clearing the tomb took years",
+      "Opening a sealed room was only the beginning. The team had to document objects, assess their condition, stabilize vulnerable materials and prepare them for transport. Fragility could be hidden by the apparent solidity of gold or wood. Moving a decorated object quickly might preserve its outline while destroying textiles, surface details or evidence of its original arrangement. [Metropolitan Museum of Art: Harry Burton, the pharaoh’s photographer](https://www.metmuseum.org/it/essays/harry-burton-18791940-the-pharaohs-photographer)",
+      "The archive separates seasons, rooms, object cards and conservation notes for a reason. A single famous artifact belongs to a much larger system of records. The mask’s number, 256.a, links it to that system rather than making it a free-floating image of ancient wealth. Following these records is a practical way to study how archaeological knowledge is produced. [Griffith Institute: the gold mask, object 256.a](https://tutankhamun.griffith.ox.ac.uk/object-records/256a)",
+      "## The curse: a powerful story without demonstrated supernatural evidence",
+      "Lord Carnarvon died on April 5, 1923, after the burial chamber had been formally opened. That death became central to the curse narrative. A temporal sequence, however, is not evidence that a tomb caused a death by supernatural means. Publicity can connect selected events while ignoring the many people who continued to live for decades. [Griffith Institute: first excavation season, 1922–1923](https://tutankhamun.griffith.ox.ac.uk/seasons/1st-season-1922-1923)",
+      "A 2002 BMJ historical cohort study examined survival among people associated with the opening. It found no significant mortality association with the supposed exposure. This was a limited historical study, not proof that every excavation environment is harmless. It addressed a specific legend and found no support for its predicted pattern, a more defensible conclusion than repeating a list of ominous coincidences. [BMJ, 2002: historical cohort study of the mummy’s curse](https://pubmed.ncbi.nlm.nih.gov/12493675/)",
+      "## The continuing challenge is conservation",
+      "The tomb’s real modern risks are measurable. Getty’s scientific programme examined humidity, temperature, dust, carbon dioxide and air exchange. Its research also investigated brown spots on the paintings, already visible in early documentation. Conservation requires distinguishing active deterioration from older marks rather than assuming that every visible feature is a new threat. [Getty: scientific investigation of the tomb’s environment](https://www.getty.edu/projects/conservation-management-tomb-tutankhamen/scientific-investigation-to-understand-issues-in-the-tomb/)",
+      "Getty and Egyptian authorities completed a major conservation project announced in 2019, including painting treatment, presentation improvements and environmental management. Visitor access and preservation have to be considered together in a confined space. Keeping a famous tomb available to future generations is a less sensational story than a curse, but a much more consequential one. [Getty Conservation Institute: completed tomb conservation project](https://www.getty.edu/news/getty-conservation-institute-completes-work-at-tomb-king-tutankhamen-egypt/)",
+      "## A discovery timeline with the dates kept separate",
+      "November 4, 1922: the first stairway step emerges. November 26: the antechamber is first viewed through the second doorway. February 16, 1923: the burial chamber is formally opened. April 5: Carnarvon dies. The 1925–1926 season documents the mask. Subsequent seasons continue the excavation and conservation rather than repeating the original discovery. [Griffith Institute: first excavation season, 1922–1923](https://tutankhamun.griffith.ox.ac.uk/seasons/1st-season-1922-1923) [Griffith Institute: the gold mask, object 256.a](https://tutankhamun.griffith.ox.ac.uk/object-records/256a)",
+      "## How to look at the golden tomb today",
+      "The supplied hero is an AI-generated illustration, not an excavation photograph or a faithful reconstruction of Carter’s first view. For documentary evidence, use the Griffith Institute’s object records and Burton photographs. A caption that identifies the difference protects the reader from mistaking a compelling visual for a primary source.",
+      "PRESDA’s features on [Maya discoveries](/articles/guatemala-el-mirador-maya-stucco-heads-2026/), [Inca mummy research](/articles/inca-mummies-coca-alcohol-harmine-sacrifice-study-2026/) and [Lucy’s fossil discovery](/articles/lucy-fossil-discovery-1974-human-evolution/) explore the same larger question: how surviving material becomes evidence. Tutankhamun’s lasting importance lies not simply in gold, but in the patient work of connecting objects, people and records."
+    ],
+    "references": [
+      {
+        "name": "Griffith Institute: first excavation season, 1922–1923",
+        "url": "https://tutankhamun.griffith.ox.ac.uk/seasons/1st-season-1922-1923"
+      },
+      {
+        "name": "Griffith Institute: Carter’s November 26–27 diary page",
+        "url": "https://tutankhamun.griffith.ox.ac.uk/index.php/journals-and-diaries/howard-carters-diary-1922-taa-i221/taa-i221189"
+      },
+      {
+        "name": "Griffith Institute: the Egyptian workforce",
+        "url": "https://tutankhamun.griffith.ox.ac.uk/stories/egyptian-workforce"
+      },
+      {
+        "name": "Egypt’s Ministry of Tourism and Antiquities: tomb of Tutankhamun",
+        "url": "https://egymonuments.gov.eg/monuments/tomb-of-tutankhamun/"
+      },
+      {
+        "name": "Metropolitan Museum of Art: Harry Burton, the pharaoh’s photographer",
+        "url": "https://www.metmuseum.org/it/essays/harry-burton-18791940-the-pharaohs-photographer"
+      },
+      {
+        "name": "Griffith Institute: the gold mask, object 256.a",
+        "url": "https://tutankhamun.griffith.ox.ac.uk/object-records/256a"
+      },
+      {
+        "name": "BMJ, 2002: historical cohort study of the mummy’s curse",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12493675/"
+      },
+      {
+        "name": "Getty Conservation Institute: completed tomb conservation project",
+        "url": "https://www.getty.edu/news/getty-conservation-institute-completes-work-at-tomb-king-tutankhamen-egypt/"
+      },
+      {
+        "name": "Getty: scientific investigation of the tomb’s environment",
+        "url": "https://www.getty.edu/projects/conservation-management-tomb-tutankhamen/scientific-investigation-to-understand-issues-in-the-tomb/"
+      }
+    ],
+    "relatedSlugs": [
+      "guatemala-el-mirador-maya-stucco-heads-2026",
+      "inca-mummies-coca-alcohol-harmine-sacrifice-study-2026",
+      "lucy-fossil-discovery-1974-human-evolution"
+    ],
+    "faq": [
+      {
+        "question": "Was Tutankhamun’s tomb discovered on November 26?",
+        "answer": "The stairway was found on November 4, 1922. November 26 marks Carter’s first view through the second doorway into the antechamber."
+      },
+      {
+        "question": "Did Carter see the gold mask that day?",
+        "answer": "No. The mask belonged to the king’s burial equipment deeper inside. Its archive record belongs to the 1925–1926 season."
+      },
+      {
+        "question": "Was the tomb completely untouched?",
+        "answer": "No. It was unusually well preserved but had suffered ancient intrusions and theft. Relatively intact does not mean never entered."
+      },
+      {
+        "question": "Is there evidence for a supernatural curse?",
+        "answer": "No reliable evidence establishes one. A 2002 historical cohort study found no significant mortality association among the people it examined."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "602",
+    "slug": "casablanca-film-premiere-november-26-1942",
+    "title": "CASABLANCA: THE FILM THAT BECAME A HOLLYWOOD LEGEND",
+    "seoTitle": "Casablanca: The November 26, 1942 Premiere and Its Legacy",
+    "seoTitleAbsolute": true,
+    "metaDescription": "How Casablanca’s November 26, 1942 New York opening became a cinema milestone, with its wartime context, Oscar history, enduring romance and production myths.",
+    "excerpt": "How Casablanca’s November 26, 1942 New York opening became a cinema milestone, with its wartime context, Oscar history, enduring romance and production myths.",
+    "category": "Lifestyle",
+    "schemaType": "Article",
+    "date": "2026-11-26",
+    "lastUpdated": "2026-11-26",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/casablanca-film-premiere-november-26-1942.jpg",
+    "coverAlt": "Black-and-white illustration inspired by Bogart and Bergman in a Casablanca-style café",
+    "headlineHighlights": {
+      "red": "CASABLANCA",
+      "gold": "HOLLYWOOD LEGEND"
+    },
+    "tags": [
+      "Casablanca",
+      "Cinema history",
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "On This Day"
+    ],
+    "content": [
+      "Casablanca opened in New York on November 26, 1942, before its national US release on January 23, 1943. Directed by Michael Curtiz and produced by Hal B. Wallis for Warner Bros., it turned a wartime story of refugees, romance and political commitment into one of Hollywood’s most durable films. The anniversary belongs to the New York opening, not the later nationwide release. [American Film Institute Catalog: Casablanca, credits and production records](https://catalog.afi.com/Film/27175-CASABLANCA) [Library of Congress: November 26, Rick’s Place](https://www.loc.gov/item/today-in-history/november-26)",
+      "Its survival as a classic is not simply a story of famous stars and quotable dialogue. The film places a private emotional wound inside a public emergency. Rick Blaine can keep his distance from politics only until people he knows need him to act. That tension gives the romance consequences beyond the choice of a partner.",
+      "## Why November 26, 1942 mattered",
+      "The film reached New York shortly after the Allied landings in North Africa. The Library of Congress connects its reception to Operation Torch and the sudden prominence of Casablanca in wartime news. When national distribution followed in January, the actual city was again central to events through the Casablanca Conference. Release history and military history intersected, without making the fictional plot a report of those operations. [Library of Congress: November 26, Rick’s Place](https://www.loc.gov/item/today-in-history/november-26)",
+      "[[DAY26_602]]",
+      "The story had been developed and filmed before that publicity moment. Its setting offered a dramatic crossroads for people trying to escape Nazi-controlled Europe. The real news sharpened the relevance of an already constructed narrative. Saying the invasion created the entire film would reverse the production chronology. [American Film Institute Catalog: Casablanca, credits and production records](https://catalog.afi.com/Film/27175-CASABLANCA)",
+      "## A café built around people who cannot leave",
+      "Humphrey Bogart plays Rick, the American owner of a nightclub in French-controlled Morocco. Ingrid Bergman’s Ilsa arrives with her husband, Resistance figure Victor Laszlo, played by Paul Henreid. Their need to escape collides with Rick’s memories of Paris. Claude Rains’ police captain Renault makes every personal decision part of a landscape of official discretion and compromised authority. [American Film Institute Catalog: Casablanca, credits and production records](https://catalog.afi.com/Film/27175-CASABLANCA)",
+      "The café works because it concentrates different motives in one room. A traveler needs documents; an official wants leverage; a performer continues working; a former lover wants an explanation. That architecture gives the film more range than a love triangle alone. The public room allows romance, comedy and danger to interrupt one another without feeling like separate stories.",
+      "### Romance becomes a question of responsibility",
+      "Rick’s apparent detachment is tested rather than merely admired. The final choice asks what a person owes to others during a political catastrophe. The film’s continuing appeal comes partly from its refusal to make emotional fulfillment the only measure of a good decision. Sacrifice has meaning because the personal attachment is convincing. [BFI programme notes: Casablanca](https://bfidatadigipres.github.io/sight%20and%20sound%20greatest%20films%20of%20all%20time%202022%3Cbr%3E63%3D/2023/02/06/casablanca/)",
+      "## The craft behind the legend",
+      "The AFI Catalog credits Julius J. Epstein, Philip G. Epstein and Howard Koch with the screenplay, adapted from the unproduced play Everybody Comes to Rick’s by Murray Burnett and Joan Alison. Curtiz’s direction and Wallis’ production brought these contributions into a studio system. The result was collaborative, even when later accounts favored a single inspired author or star. [American Film Institute Catalog: Casablanca, credits and production records](https://catalog.afi.com/Film/27175-CASABLANCA)",
+      "Arthur Edeson’s black-and-white cinematography gives faces, doorways and gathering places distinct dramatic functions. The restricted world of the café can feel intimate in one scene and threatening in the next. Lighting and framing help transform a largely studio-created setting into a place that seems to extend beyond the visible walls. This is constructed atmosphere, not evidence of documentary location shooting. [American Film Institute Catalog: Casablanca, credits and production records](https://catalog.afi.com/Film/27175-CASABLANCA)",
+      "### Music carries memory and politics",
+      "Dooley Wilson’s Sam connects the present café to Rick and Ilsa’s earlier life through As Time Goes By, written by Herman Hupfeld. The song was not newly invented for Casablanca. The film also uses the confrontation around La Marseillaise to make political allegiance audible. Music changes the meaning of the room, from private recollection to a collective declaration. [American Film Institute Catalog: Casablanca, credits and production records](https://catalog.afi.com/Film/27175-CASABLANCA) [Library of Congress: Casablanca, National Film Registry essay by Jay Carr](https://www.loc.gov/static/programs/national-film-preservation-board/documents/casablanca1.pdf)",
+      "Wilson’s singing and screen presence should not be reduced to a famous misquotation. Sam has work, judgment and relationships within the story. Rewatching with attention to the café’s staff rather than only its romantic leads reveals how much the setting depends on people whose lives continue around Rick’s crisis.",
+      "## Refugees on screen and in the production’s world",
+      "The Library of Congress essay discusses the European émigrés in the cast, including performers whose lives had been changed by fascism and exile. Their presence does not make every scene autobiographical, and not every extra can be assigned a refugee biography. It does give the production a historical context deeper than the costumes of a wartime thriller. [Library of Congress: Casablanca, National Film Registry essay by Jay Carr](https://www.loc.gov/static/programs/national-film-preservation-board/documents/casablanca1.pdf)",
+      "The real city must still be distinguished from Hollywood’s version. The film primarily follows European and American characters within a colonial setting. It is not a comprehensive account of Moroccan society or the experiences of local people. Admiring its dramatic force does not require treating the café’s perspective as the whole history of Casablanca. [Library of Congress: November 26, Rick’s Place](https://www.loc.gov/item/today-in-history/november-26) [Library of Congress: Casablanca, National Film Registry essay by Jay Carr](https://www.loc.gov/static/programs/national-film-preservation-board/documents/casablanca1.pdf)",
+      "## What the Oscars actually recognized",
+      "At the March 2, 1944 Academy Awards, honoring the 1943 release season, Casablanca won three awards from eight nominations: Picture, Directing for Curtiz and Screenplay for the Epstein brothers and Koch. Bogart was nominated for Actor, and Rains for Supporting Actor, but neither won for this film. Bergman was nominated that year for For Whom the Bell Tolls, not Casablanca. [Academy of Motion Picture Arts and Sciences: the 1944 Oscars](https://www.oscars.org/oscars/ceremonies/1944)",
+      "The dates explain a common puzzle. A movie associated with 1942 could win at the ceremony for the following release season because New York opening, national release and awards eligibility are not identical milestones. The Academy’s record is more reliable than labeling every date as the premiere. [American Film Institute Catalog: Casablanca, credits and production records](https://catalog.afi.com/Film/27175-CASABLANCA) [Academy of Motion Picture Arts and Sciences: the 1944 Oscars](https://www.oscars.org/oscars/ceremonies/1944)",
+      "### Preservation is different from an award ranking",
+      "Casablanca entered the National Film Registry in 1989, among its inaugural selections. That designation recognizes cultural, historical or aesthetic significance and preservation value, not an objective scientific verdict that one film outranks every other. Its later revival history, including the Brattle Theatre’s long association with Bogart audiences, shows how repeated viewing helped sustain its reputation. [Harvard Gazette: Bogie, Bergman and the Brattle](https://news.harvard.edu/gazette/story/2017/02/bogie-bergman-and-the-brattle/) [Library of Congress: National Film Registry history of Casablanca](https://blogs.loc.gov/now-see-hear/2018/11/reading-the-film-registry-casablanca-1942/)",
+      "## Myths that grew around the film",
+      "The phrase Play it again, Sam is never spoken in the film. The Library of Congress and BFI both identify the familiar wording as a misquotation. Its persistence demonstrates how cultural memory can replace dialogue with a shorter, more portable phrase. A correction need not diminish the film; it helps separate the work from the stories accumulated around it. [Library of Congress: Casablanca, National Film Registry essay by Jay Carr](https://www.loc.gov/static/programs/national-film-preservation-board/documents/casablanca1.pdf) [BFI programme notes: Casablanca](https://bfidatadigipres.github.io/sight%20and%20sound%20greatest%20films%20of%20all%20time%202022%3Cbr%3E63%3D/2023/02/06/casablanca/)",
+      "Stories about a completely unknown ending also need care. AFI’s production notes point to early scripts and the original play when discussing the eventual choice. Revisions and uncertainty over how to make an ending convincing are not the same as having no intended outcome at all. Later interviews and publicity can exaggerate creative disorder into an origin myth. [American Film Institute Catalog: Casablanca, credits and production records](https://catalog.afi.com/Film/27175-CASABLANCA)",
+      "## Timeline: opening, awards and afterlife",
+      "AFI dates production to May 25–August 3, 1942. The New York opening followed on November 26, national US release on January 23, 1943, and the three Oscar wins on March 2, 1944. Selection for the National Film Registry came in 1989. Each milestone describes a different stage in the making of a classic. [American Film Institute Catalog: Casablanca, credits and production records](https://catalog.afi.com/Film/27175-CASABLANCA) [Academy of Motion Picture Arts and Sciences: the 1944 Oscars](https://www.oscars.org/oscars/ceremonies/1944) [Library of Congress: National Film Registry history of Casablanca](https://blogs.loc.gov/now-see-hear/2018/11/reading-the-film-registry-casablanca-1942/)",
+      "## A classic worth watching beyond its quotations",
+      "The supplied hero is an AI-generated interpretation, not an authenticated still or studio photograph. The film itself, its credits and archival production records provide evidence for its history. Keeping that distinction clear allows the image to introduce the subject without impersonating an original artifact.",
+      "For related stories about performance and cultural memory, read PRESDA’s [John Travolta feature](/articles/john-travolta-stella-della-mole-torino-film-festival-2026/) and [Carlo Collodi anniversary](/articles/carlo-collodi-200-birthday-pinocchio-1826-2026/). Our [Thanksgiving history](/articles/thanksgiving-history-november-26-1789-national-holiday/) explores another November 26 connection where popular memory and the documented record do not always coincide."
+    ],
+    "references": [
+      {
+        "name": "American Film Institute Catalog: Casablanca, credits and production records",
+        "url": "https://catalog.afi.com/Film/27175-CASABLANCA"
+      },
+      {
+        "name": "Library of Congress: November 26, Rick’s Place",
+        "url": "https://www.loc.gov/item/today-in-history/november-26"
+      },
+      {
+        "name": "Academy of Motion Picture Arts and Sciences: the 1944 Oscars",
+        "url": "https://www.oscars.org/oscars/ceremonies/1944"
+      },
+      {
+        "name": "Library of Congress: Casablanca, National Film Registry essay by Jay Carr",
+        "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/casablanca1.pdf"
+      },
+      {
+        "name": "Library of Congress: celebrating Casablanca",
+        "url": "https://blogs.loc.gov/now-see-hear/2022/03/national-film-registry-celebrating-casablanca-1942/"
+      },
+      {
+        "name": "BFI programme notes: Casablanca",
+        "url": "https://bfidatadigipres.github.io/sight%20and%20sound%20greatest%20films%20of%20all%20time%202022%3Cbr%3E63%3D/2023/02/06/casablanca/"
+      },
+      {
+        "name": "Harvard Gazette: Bogie, Bergman and the Brattle",
+        "url": "https://news.harvard.edu/gazette/story/2017/02/bogie-bergman-and-the-brattle/"
+      },
+      {
+        "name": "Library of Congress: National Film Registry history of Casablanca",
+        "url": "https://blogs.loc.gov/now-see-hear/2018/11/reading-the-film-registry-casablanca-1942/"
+      }
+    ],
+    "relatedSlugs": [
+      "john-travolta-stella-della-mole-torino-film-festival-2026",
+      "carlo-collodi-200-birthday-pinocchio-1826-2026",
+      "thanksgiving-history-november-26-1789-national-holiday"
+    ],
+    "faq": [
+      {
+        "question": "Did Casablanca open in 1942 or 1943?",
+        "answer": "It opened in New York on November 26, 1942, followed by national US release on January 23, 1943. Both dates have specific meanings."
+      },
+      {
+        "question": "Which Oscars did it win?",
+        "answer": "At the March 2, 1944 ceremony, it won Best Picture, Directing and Screenplay. Bogart was nominated for Actor but did not win for Casablanca."
+      },
+      {
+        "question": "Was it filmed in Morocco?",
+        "answer": "It was principally a Hollywood studio production. Its fictional Casablanca should not be mistaken for documentary footage of wartime Morocco."
+      },
+      {
+        "question": "Does anyone say Play it again, Sam?",
+        "answer": "No. That familiar phrase is a misquotation, not dialogue spoken in the film."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "603",
+    "slug": "asterix-satellite-france-november-26-1965",
+    "title": "ASTÉRIX: THE SATELLITE THAT MADE FRANCE A SPACE POWER",
+    "seoTitle": "Astérix Satellite: France’s Independent Launch in 1965",
+    "seoTitleAbsolute": true,
+    "metaDescription": "On November 26, 1965, Diamant launched Astérix from Algeria. Discover France’s independent orbital milestone, the silent satellite and its European legacy.",
+    "excerpt": "On November 26, 1965, Diamant launched Astérix from Algeria. Discover France’s independent orbital milestone, the silent satellite and its European legacy.",
+    "category": "Science",
+    "schemaType": "Article",
+    "date": "2026-11-26",
+    "lastUpdated": "2026-11-26",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/asterix-satellite-france-november-26-1965.jpg",
+    "coverAlt": "Illustration of a French Diamant-inspired rocket lifting off beside a French flag",
+    "headlineHighlights": {
+      "red": "ASTÉRIX",
+      "gold": "SPACE POWER"
+    },
+    "tags": [
+      "Astérix satellite",
+      "Diamant",
+      "CNES",
+      "Space history",
+      "On This Day"
+    ],
+    "content": [
+      "On November 26, 1965, a Diamant-A rocket launched the satellite A-1, nicknamed Astérix, from Hammaguir in Algeria. France became the third country, after the Soviet Union and the United States, to place a satellite in orbit with its own launcher. The precise achievement was independent launch capability, not being only the third nation to possess a satellite. [CNES: sixty years of French space history](https://cnes.fr/histoire) [CNES: when Diamant launched Astérix, technical and institutional history](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)",
+      "The distinction is the heart of the anniversary. A country can design a satellite yet depend on another country to carry it into orbit. In 1965, France demonstrated that it could supply the launcher as well as the payload. The small object at the top of Diamant represented a much larger industrial and political system beneath it.",
+      "## What Astérix was designed to prove",
+      "CNES describes A-1 as a technological capsule built by Matra under a military contract. It did not carry a scientific experiment programme. Its principal job was to demonstrate that Diamant could inject a payload into orbit. The Guiana Space Centre gives its mass as approximately forty-two kilograms, tiny beside many later spacecraft but sufficient for this specific test. [CNES: when Diamant launched Astérix, technical and institutional history](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais) [Guiana Space Centre: Diamant programme](https://centrespatialguyanais.cnes.fr/fr/diamant)",
+      "[[DAY26_603]]",
+      "That limited objective should not be confused with a lack of significance. A successful launcher must complete a sequence of propulsion, guidance, staging and payload delivery. Sending even a modest demonstrator to orbit validates capabilities that a ground test or a short upward rocket flight cannot establish on its own. The mission was deliberately about the transport system.",
+      "### Reaching space and entering orbit are not the same",
+      "A sounding rocket can rise above the atmosphere and fall back. An orbital launch must also provide the motion needed for a satellite to keep falling around Earth rather than returning immediately to the ground. Astérix’s importance therefore cannot be measured from a dramatic launch photograph alone. Its destination and trajectory made the demonstration meaningful.",
+      "## Why France’s third-place claim needs a qualifier",
+      "The Canadian Space Agency records the launch of Alouette-1 on September 29, 1962. Canada had designed and built that scientific satellite, which flew on a Thor-Agena rocket. This earlier achievement is compatible with France’s 1965 milestone because the two claims measure different things: building a satellite and independently launching one. [Canadian Space Agency: Alouette I and II](https://www.asc-csa.gc.ca/eng/satellites/alouette.asp)",
+      "Describing France simply as the third country in space can erase that distinction. The more accurate formulation is the third country to orbit a satellite with a nationally developed launcher. It identifies the accomplishment without denying the work of other space programmes or turning every possible first into the same contest. [CNES: sixty years of French space history](https://cnes.fr/histoire) [Canadian Space Agency: Alouette I and II](https://www.asc-csa.gc.ca/eng/satellites/alouette.asp)",
+      "## Diamant’s military roots and the civil space agency",
+      "The launcher grew from the Pierres précieuses programme, a sequence of French experimental vehicles developed in the early 1960s. CNES’ historical account places it within the military-led effort to establish independent strategic capability under Charles de Gaulle. The orbital success emerged from accumulated testing and industrial coordination, rather than a rocket suddenly invented for one celebratory launch. [CNES: Diamant and Astérix, the emergence of French space capability](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)",
+      "CNES was established by law in December 1961 and began its activities in 1962. The agency’s history distinguishes its coordinating role from the military and industrial organizations already active in rockets. In the Astérix mission, CNES contributed orbital tracking expertise. It is inaccurate to credit a single institution with every part of the programme. [CNES: sixty years of French space history](https://cnes.fr/histoire) [CNES: when Diamant launched Astérix, technical and institutional history](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)",
+      "### Three stages, one orbital objective",
+      "Diamant-A used a liquid-propellant first stage and solid-propellant upper stages. Different stages performed successive parts of the acceleration task. Its design drew on work already done in experimental rockets. The Guiana Space Centre describes an approximately nineteen-meter launcher, a compact vehicle compared with the heavy launchers associated with later space programmes. [Guiana Space Centre: Diamant programme](https://centrespatialguyanais.cnes.fr/fr/diamant)",
+      "The satellite and the launch vehicle also need separate names. Astérix was the payload’s nickname; Diamant was the rocket. The supplied illustration places a large Astérix inscription on the vehicle, but that artistic choice is not evidence of the historical paint scheme or the satellite’s external position. The actual mission should be understood from technical records. [CNES: when Diamant launched Astérix, technical and institutional history](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)",
+      "## Hammaguir, not Kourou",
+      "The first launch took place in Algeria, which had become independent in 1962. CNES explains that the arrangements following the Évian agreements allowed French activity at the Saharan range to continue until 1967. Calling the 1965 site French territory would confuse operation of a facility with the sovereignty of the country in which it stood. [CNES: Diamant and Astérix, the emergence of French space capability](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)",
+      "Kourou in French Guiana belongs to the later chapter. CNES selected a replacement launch location and developed the Guiana Space Centre. Diamant subsequently flew there from 1970. Moving the launch base was an institutional and geographic change, not merely shifting the same photograph to a new caption. Astérix’s November 26 mission remained a Hammaguir launch. [CNES: sixty years of French space history](https://cnes.fr/histoire) [Guiana Space Centre: Diamant programme](https://centrespatialguyanais.cnes.fr/fr/diamant)",
+      "## A silent satellite and a successful launch",
+      "CNES attributes Astérix’s inability to transmit to antenna damage during fairing separation. The protective fairing and the satellite’s communications equipment had different functions, and a problem in one phase did not prevent the vehicle from reaching its principal orbital objective. Ground tracking confirmed the payload’s path even though the intended radio performance was compromised. [CNES: when Diamant launched Astérix, technical and institutional history](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais) [CNES: Diamant and Astérix, the emergence of French space capability](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)",
+      "The episode is a useful lesson in defining success. A scientific observatory that cannot return measurements may lose its primary purpose. A launch demonstrator can establish orbital delivery while suffering a payload-system defect. Neither pretending everything worked perfectly nor calling the mission a total failure reflects the objective CNES describes. [CNES: when Diamant launched Astérix, technical and institutional history](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)",
+      "### Science followed a distinct path",
+      "CNES notes that France’s scientific satellite FR-1 reached orbit in December 1965 using an American rocket, shortly after Astérix. Independent launch ambition and international cooperation were therefore already coexisting. Using a foreign vehicle for a particular scientific mission did not cancel the national launcher achievement; the missions were designed to answer different needs. [CNES: Diamant and Astérix, the emergence of French space capability](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)",
+      "## From Diamant to a European approach",
+      "The Guiana Space Centre records ten successes in twelve launches across the Diamant programme. Those totals describe the programme as a whole, not twelve Astérix missions. They also show that the first orbital success began a sequence of operations rather than completing every launcher problem for all time. Reliability was built through repeated work. [Guiana Space Centre: Diamant programme](https://centrespatialguyanais.cnes.fr/fr/diamant)",
+      "The European Ariane programme took the ambition into a different institutional framework. ESA dates Ariane 1’s first launch from Kourou to December 24, 1979. French experience was important, but Ariane was a European collaboration rather than simply Diamant renamed. Shared industrial contributions and common decisions changed the scale of the undertaking. [CNES: Ariane 1 to 4](https://cnes.fr/projets/ariane/en-details) [European Space Agency: forty years of Ariane](https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/40-years-of-ariane)",
+      "## Timeline of an independent launch capability",
+      "December 1961: CNES is legally established. Its activities begin in 1962. November 26, 1965: Diamant-A launches Astérix from Hammaguir. Diamant later operates from Kourou, beginning in 1970. December 24, 1979: Ariane 1 makes its first launch, carrying the independent-access ambition into a European programme. [CNES: sixty years of French space history](https://cnes.fr/histoire) [CNES: when Diamant launched Astérix, technical and institutional history](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais) [Guiana Space Centre: Diamant programme](https://centrespatialguyanais.cnes.fr/fr/diamant) [European Space Agency: forty years of Ariane](https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/40-years-of-ariane)",
+      "## Reading the anniversary beyond the launch image",
+      "The supplied hero is an AI-generated illustration, not a 1965 archival photograph or an engineering diagram. Its dramatic exhaust, lettering and proportions cannot establish the historical configuration. The CNES histories include authenticated archival material for readers who want to compare the actual vehicle and payload with their later cultural representations.",
+      "For another national engineering project, see PRESDA’s [Concorde history](/articles/concorde-final-flight-november-26-2003/). Our [1783 balloon flight feature](/articles/first-free-human-balloon-flight-paris-1783/) explores an earlier boundary crossed above France, while [Webb’s stellar-merger observations](/articles/webb-bao-giant-star-companion-merger-andromeda/) illustrate how scientific missions differ from a launcher test. Astérix’s achievement was precise: France had demonstrated a route of its own into orbit."
+    ],
+    "references": [
+      {
+        "name": "CNES: sixty years of French space history",
+        "url": "https://cnes.fr/histoire"
+      },
+      {
+        "name": "CNES: when Diamant launched Astérix, technical and institutional history",
+        "url": "https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais"
+      },
+      {
+        "name": "CNES: Diamant and Astérix, the emergence of French space capability",
+        "url": "https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix"
+      },
+      {
+        "name": "Guiana Space Centre: Diamant programme",
+        "url": "https://centrespatialguyanais.cnes.fr/fr/diamant"
+      },
+      {
+        "name": "Canadian Space Agency: Alouette I and II",
+        "url": "https://www.asc-csa.gc.ca/eng/satellites/alouette.asp"
+      },
+      {
+        "name": "CNES: Ariane 1 to 4",
+        "url": "https://cnes.fr/projets/ariane/en-details"
+      },
+      {
+        "name": "European Space Agency: forty years of Ariane",
+        "url": "https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/40-years-of-ariane"
+      },
+      {
+        "name": "Cité des sciences: the first French satellite launch",
+        "url": "https://www.cite-sciences.fr/archives/francais/ala_cite/expositions/cosmomania/evenements/asterix-1er-satellite-francais.php"
+      }
+    ],
+    "relatedSlugs": [
+      "webb-bao-giant-star-companion-merger-andromeda",
+      "concorde-final-flight-november-26-2003",
+      "first-free-human-balloon-flight-paris-1783"
+    ],
+    "faq": [
+      {
+        "question": "Was France only the third country to have a satellite?",
+        "answer": "No. It was the third to put a satellite in orbit using its own launcher. Other countries had already built or operated satellites launched by foreign rockets."
+      },
+      {
+        "question": "Was Astérix launched from Kourou?",
+        "answer": "No. It launched from Hammaguir in Algeria. Diamant later operated from the Guiana Space Centre."
+      },
+      {
+        "question": "Did Astérix carry a scientific observatory?",
+        "answer": "No. A-1 was a technological demonstrator intended to validate the launcher’s ability to place a payload in orbit."
+      },
+      {
+        "question": "Did the antenna problem make the launch a failure?",
+        "answer": "CNES says the antenna damage prevented transmission, but the satellite reached orbit and could be tracked. That met the central launch-demonstration objective."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
     "id": "594",
     "slug": "barreleye-fish-transparent-head-rotating-eyes",
     "title": "THE BARRELEYE: THE FISH WITH A TRANSPARENT HEAD",

@@ -1,0 +1,250 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/asterix-satellite-france-november-26-1965/",
+  "path": "/ar/articles/asterix-satellite-france-november-26-1965/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-26",
+    "terminologyChecked": true
+  },
+  "title": "أستيريكس: القمر الذي جعل فرنسا قوة فضائية",
+  "seoTitle": "أستيريكس: إطلاق فرنسا المستقل في 26 نوفمبر 1965",
+  "seoTitleAbsolute": true,
+  "description": "أطلق ديامان القمر أستيريكس من حماقير بالجزائر في 26 نوفمبر 1965. قصة القدرة المدارية الفرنسية والقمر الصامت والإرث الأوروبي.",
+  "excerpt": "أطلق ديامان القمر أستيريكس من حماقير بالجزائر في 26 نوفمبر 1965. قصة القدرة المدارية الفرنسية والقمر الصامت والإرث الأوروبي.",
+  "headlineHighlights": {
+    "red": "أستيريكس",
+    "gold": "قوة فضائية"
+  },
+  "keywords": [
+    "أستيريكس",
+    "قوة فضائية"
+  ],
+  "searchIntent": "أطلق ديامان القمر أستيريكس من حماقير بالجزائر في 26 نوفمبر 1965. قصة القدرة المدارية الفرنسية والقمر الصامت والإرث الأوروبي.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "image": {
+    "src": "/articles/asterix-satellite-france-november-26-1965.jpg",
+    "alt": "رسم لصاروخ مستوحى من ديامان ينطلق قرب العلم الفرنسي",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "في 26 نوفمبر 1965 أطلق صاروخ ديامان A القمر A-1 الملقب أستيريكس من حماقير بالجزائر. أصبحت فرنسا ثالث دولة بعد الاتحاد السوفيتي والولايات المتحدة تضع قمرا في المدار بصاروخها الخاص. يتعلق الإنجاز بقدرة الإطلاق المستقلة، لا بكونها ثالث دولة تمتلك قمرا صناعيا فقط. [المصدر · cnes.fr](https://cnes.fr/histoire) [المصدر · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)"
+    },
+    {
+      "type": "paragraph",
+      "text": "هذا التفريق أساس الذكرى. فقد تصمم دولة قمرا ثم تعتمد على غيرها لحمله إلى المدار. أثبتت فرنسا قدرتها على توفير الصاروخ والحمولة معا. ومثل الجسم الصغير أعلى ديامان منظومة صناعية وسياسية أوسع بكثير من حجمه."
+    },
+    {
+      "type": "heading",
+      "text": "ماذا كان على أستيريكس إثباته؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يصف CNES القمر بكبسولة تقنية صنعتها ماترا بعقد عسكري، دون برنامج تجارب علمية. كان هدفه التحقق من قدرة ديامان على إدخال حمولة في المدار. ويحدد مركز غويانا الفضائي كتلته بنحو 42 كيلوغراما، وهي صغيرة مقارنة بمركبات لاحقة لكنها كافية لهذه المهمة. [المصدر · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais) [المصدر · centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr/fr/diamant)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[DAY26_603]]",
+      "caption": "مهمة 1965 والمعنى الدقيق للإنجاز الفرنسي",
+      "headings": [
+        "المعلومة",
+        "التفصيل الموثق"
+      ],
+      "rows": [
+        [
+          "تاريخ الإطلاق",
+          "26 نوفمبر 1965"
+        ],
+        [
+          "الموقع",
+          "حماقير في الجزائر"
+        ],
+        [
+          "الصاروخ والحمولة",
+          "ديامان A والقمر A-1 الملقب أستيريكس"
+        ],
+        [
+          "كتلة القمر",
+          "نحو 42 كغ وفق مركز غويانا الفضائي"
+        ],
+        [
+          "الإنجاز",
+          "ثالث دولة تضع قمرا في المدار بصاروخها الخاص"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "لا يقلل الهدف المحدد من أهمية الإنجاز. يجب أن تتكامل عمليات الدفع والتوجيه وفصل المراحل وإيصال الحمولة. وتثبت عملية مدارية ناجحة قدرات لا يكفي لاختبارها تشغيل أرضي أو صعود رأسي قصير. كان الامتحان أساسا لمنظومة النقل الفضائي."
+    },
+    {
+      "type": "subheading",
+      "text": "بلوغ الفضاء ليس دخول المدار"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يرتفع صاروخ سبر فوق الغلاف الجوي ثم يعود. أما المدار فيتطلب حركة تسمح للقمر بالاستمرار في السقوط حول الأرض بدلا من الرجوع مباشرة إلى سطحها. لذلك لا يثبت مشهد الإقلاع وحده النجاح؛ فالمسار النهائي جزء أساسي من تعريف المهمة."
+    },
+    {
+      "type": "heading",
+      "text": "ما المقصود بالمركز الثالث؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "توثق وكالة الفضاء الكندية إطلاق ألويت 1 في 29 سبتمبر 1962. صممت كندا القمر العلمي وبنته، ثم حمله صاروخ ثور أغينا. لا يتناقض ذلك مع إنجاز فرنسا اللاحق، لأن بناء قمر وإطلاقه باستقلال قدرتان مختلفتان. [المصدر · www.asc-csa.gc.ca](https://www.asc-csa.gc.ca/eng/satellites/alouette.asp)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ولهذا قد يضلل تعبير ثالث دولة في الفضاء. الأدق هو ثالث دولة تضع قمرا في المدار بصاروخ وطني. تحدد العبارة الإنجاز دون محو مساهمات برامج أخرى أو جمع كل أنواع الأسبقية في ترتيب واحد. [المصدر · cnes.fr](https://cnes.fr/histoire) [المصدر · www.asc-csa.gc.ca](https://www.asc-csa.gc.ca/eng/satellites/alouette.asp)"
+    },
+    {
+      "type": "heading",
+      "text": "الجذور العسكرية والوكالة المدنية"
+    },
+    {
+      "type": "paragraph",
+      "text": "نشأ ديامان من برنامج الأحجار الكريمة، وهو سلسلة مركبات تجريبية فرنسية طورت في أوائل الستينيات. يضع تاريخ CNES البرنامج ضمن سعي عسكري إلى الاستقلال الاستراتيجي في عهد ديغول. نتج النجاح عن اختبارات وخبرة وتنسيق، لا عن اختراع صاروخ فجأة من أجل يوم احتفالي. [المصدر · cnes.fr](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)"
+    },
+    {
+      "type": "paragraph",
+      "text": "أنشئ CNES قانونيا في ديسمبر 1961 وبدأ نشاطه في 1962، ضمن بيئة تضم جهات عسكرية وعلمية وصناعية سابقة له. وفي مهمة أستيريكس قدم خبرة التتبع المداري. لذلك لا يصح منح مؤسسة واحدة الفضل في كل مكونات البرنامج ووظائفه. [المصدر · cnes.fr](https://cnes.fr/histoire) [المصدر · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)"
+    },
+    {
+      "type": "subheading",
+      "text": "ثلاث مراحل لمهمة مدارية"
+    },
+    {
+      "type": "paragraph",
+      "text": "استخدم ديامان A مرحلة أولى بوقود سائل ومراحل عليا بوقود صلب، تنفذ كل منها جزءا من التسارع. يصف مركز غويانا مركبة تقارب 19 مترا، استفادت من العمل على الصواريخ التجريبية. وكانت مدمجة مقارنة بالقاذفات الكبيرة التي ظهرت في برامج لاحقة. [المصدر · centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr/fr/diamant)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ويجب فصل الاسمين: أستيريكس لقب الحمولة، وديامان اسم الصاروخ. لا تثبت الكتابة الكبيرة في الرسم المقدم طلاء المركبة الحقيقي أو موضع القمر ظاهرا خارجها. فالاختيار الفني المعاصر لا يعوض الوثيقة الهندسية للمهمة. [المصدر · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)"
+    },
+    {
+      "type": "heading",
+      "text": "حماقير وليست كورو"
+    },
+    {
+      "type": "paragraph",
+      "text": "جرى الإطلاق في الجزائر التي استقلت عام 1962. يشرح CNES أن الترتيبات اللاحقة لاتفاقيات إيفيان سمحت باستمرار النشاط الفرنسي في الموقع الصحراوي حتى 1967. ولا يعني تشغيل منشأة أن الدولة المضيفة بقيت أرضا فرنسية. [المصدر · cnes.fr](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تنتمي كورو إلى الفصل التالي. اختير موقع جديد في غويانا الفرنسية وطورت منشآته، ثم بدأ ديامان العمل منه في 1970. كان الانتقال جغرافيا ومؤسسيا، وليس تبديل اسم تحت الصورة نفسها. وتبقى مهمة 26 نوفمبر 1965 مرتبطة بحماقير. [المصدر · cnes.fr](https://cnes.fr/histoire) [المصدر · centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr/fr/diamant)"
+    },
+    {
+      "type": "heading",
+      "text": "قمر صامت وإطلاق ناجح"
+    },
+    {
+      "type": "paragraph",
+      "text": "يرجع CNES تعذر إرسال القمر إلى تلف الهوائيات عند فصل الغطاء الواقي. عطل ذلك وظيفة الاتصال دون منع الوصول إلى المدار، وأكد التتبع الأرضي المسار. فالغطاء والهوائيات والإدخال المداري وظائف مختلفة يجب ألا تدمج في حكم واحد مبسط. [المصدر · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais) [المصدر · cnes.fr](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)"
+    },
+    {
+      "type": "paragraph",
+      "text": "يوضح الحدث ضرورة تعريف النجاح مسبقا. قد يفقد مرصد علمي غرضه إذا لم يرسل قياسات، بينما يثبت نموذج إطلاق قدرته رغم عيب في نظام الحمولة. ولا يطابق هدف المهمة القول إن كل شيء عمل تماما أو وصفها بأنها فشل شامل. [المصدر · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)"
+    },
+    {
+      "type": "subheading",
+      "text": "مسار علمي مواز"
+    },
+    {
+      "type": "paragraph",
+      "text": "يشير CNES إلى وصول القمر العلمي FR-1 إلى المدار في ديسمبر 1965 على صاروخ أمريكي، بعد أستيريكس بوقت قصير. كانت الاستقلالية والتعاون تتعايشان بالفعل. ولا يلغي اختيار مركبة أجنبية لتجربة معينة إنجاز القاذف الوطني؛ فلكل مهمة حاجات مختلفة. [المصدر · cnes.fr](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)"
+    },
+    {
+      "type": "heading",
+      "text": "من ديامان إلى التعاون الأوروبي"
+    },
+    {
+      "type": "paragraph",
+      "text": "يسجل مركز غويانا عشرة نجاحات من اثني عشر إطلاقا لبرنامج ديامان كله، وليس اثنتي عشرة مهمة لأستيريكس. ويبين العدد أن النجاح الأول بدأ سلسلة تشغيلية، ولم ينه كل مشكلات القاذفات. تتطور الموثوقية عبر الاختبار والعمل المتكرر. [المصدر · centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr/fr/diamant)"
+    },
+    {
+      "type": "paragraph",
+      "text": "نقلت أريان الطموح إلى إطار أوروبي. وتؤرخ ESA أول إطلاق لأريان 1 من كورو في 24 ديسمبر 1979. كانت الخبرة الفرنسية مهمة، لكن أريان ليست مجرد ديامان باسم جديد، إذ وسعت المساهمات الصناعية والقرارات المشتركة حجم المشروع وطبيعته. [المصدر · cnes.fr](https://cnes.fr/projets/ariane/en-details) [المصدر · www.esa.int](https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/40-years-of-ariane)"
+    },
+    {
+      "type": "heading",
+      "text": "تسلسل زمني للقدرة المستقلة"
+    },
+    {
+      "type": "paragraph",
+      "text": "ديسمبر 1961: إنشاء CNES قانونيا، ثم بدء نشاطه في 1962. و26 نوفمبر 1965: إطلاق أستيريكس من حماقير. ومنذ 1970: تشغيل ديامان في كورو. وفي 24 ديسمبر 1979: أول إطلاق لأريان 1 ضمن مسار أوروبي للوصول المستقل إلى المدار. [المصدر · cnes.fr](https://cnes.fr/histoire) [المصدر · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais) [المصدر · centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr/fr/diamant) [المصدر · www.esa.int](https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/40-years-of-ariane)"
+    },
+    {
+      "type": "heading",
+      "text": "قراءة الإنجاز أبعد من صورة الإقلاع"
+    },
+    {
+      "type": "paragraph",
+      "text": "الصورة الرئيسية رسم مولد بالذكاء الاصطناعي، وليست وثيقة لعام 1965 أو مخططا هندسيا. لا تثبت النسب والكتابات واللهب في الرسم تفاصيل التكوين الحقيقي. وتتيح مصادر CNES أرشيفا أصليا للمقارنة بين المركبة التاريخية وتمثيلاتها اللاحقة."
+    },
+    {
+      "type": "paragraph",
+      "text": "اقرأ [قصة كونكورد](/articles/concorde-final-flight-november-26-2003/) و[رحلة بالون 1783](/articles/first-free-human-balloon-flight-paris-1783/) و[رصد ويب للاندماج النجمي](/articles/webb-bao-giant-star-companion-merger-andromeda/). تذكرنا مهمة أستيريكس بإنجاز محدد: إثبات طريق فرنسي إلى المدار، يختلف هدفه عن الرصد العلمي."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر · cnes.fr",
+      "url": "https://cnes.fr/histoire"
+    },
+    {
+      "label": "المصدر · cnes.fr",
+      "url": "https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais"
+    },
+    {
+      "label": "المصدر · cnes.fr",
+      "url": "https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix"
+    },
+    {
+      "label": "المصدر · centrespatialguyanais.cnes.fr",
+      "url": "https://centrespatialguyanais.cnes.fr/fr/diamant"
+    },
+    {
+      "label": "المصدر · www.asc-csa.gc.ca",
+      "url": "https://www.asc-csa.gc.ca/eng/satellites/alouette.asp"
+    },
+    {
+      "label": "المصدر · cnes.fr",
+      "url": "https://cnes.fr/projets/ariane/en-details"
+    },
+    {
+      "label": "المصدر · www.esa.int",
+      "url": "https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/40-years-of-ariane"
+    },
+    {
+      "label": "المصدر · www.cite-sciences.fr",
+      "url": "https://www.cite-sciences.fr/archives/francais/ala_cite/expositions/cosmomania/evenements/asterix-1er-satellite-francais.php"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل كانت فرنسا ثالث دولة تمتلك قمرا صناعيا؟",
+      "answer": "لا. كانت الثالثة التي وضعته في المدار بصاروخها الخاص. سبق لدول أخرى امتلاك أقمار أطلقتها صواريخ أجنبية."
+    },
+    {
+      "question": "هل أطلق أستيريكس من كورو؟",
+      "answer": "لا. انطلق من حماقير بالجزائر، ثم انتقل تشغيل ديامان لاحقا إلى مركز غويانا الفضائي."
+    },
+    {
+      "question": "هل كان مرصدا علميا؟",
+      "answer": "لا. كان A-1 نموذجا تقنيا لإثبات قدرة الصاروخ على إدخال حمولة في المدار."
+    },
+    {
+      "question": "هل جعل تلف الهوائيات الإطلاق فاشلا؟",
+      "answer": "يقول CNES إن الضرر منع الإرسال، لكن القمر بلغ المدار وأمكن تتبعه، فتحقق هدف الإطلاق الأساسي."
+    }
+  ],
+  "readingTimeMinutes": 6
+}

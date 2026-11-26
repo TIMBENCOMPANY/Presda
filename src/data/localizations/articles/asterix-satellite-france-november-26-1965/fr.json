@@ -1,0 +1,250 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/asterix-satellite-france-november-26-1965/",
+  "path": "/fr/articles/asterix-satellite-france-november-26-1965/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex direct translation and editorial review",
+    "reviewedAt": "2026-11-26",
+    "terminologyChecked": true
+  },
+  "title": "ASTÉRIX : LE SATELLITE QUI FIT DE LA FRANCE UNE PUISSANCE SPATIALE",
+  "seoTitle": "Astérix : le lancement français du 26 novembre 1965",
+  "seoTitleAbsolute": true,
+  "description": "Le 26 novembre 1965, Diamant lance Astérix depuis Hammaguir. Retour sur l’accès autonome à l’orbite, le satellite muet et son héritage européen.",
+  "excerpt": "Le 26 novembre 1965, Diamant lance Astérix depuis Hammaguir. Retour sur l’accès autonome à l’orbite, le satellite muet et son héritage européen.",
+  "headlineHighlights": {
+    "red": "ASTÉRIX",
+    "gold": "PUISSANCE SPATIALE"
+  },
+  "keywords": [
+    "ASTÉRIX",
+    "PUISSANCE SPATIALE"
+  ],
+  "searchIntent": "Le 26 novembre 1965, Diamant lance Astérix depuis Hammaguir. Retour sur l’accès autonome à l’orbite, le satellite muet et son héritage européen.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "image": {
+    "src": "/articles/asterix-satellite-france-november-26-1965.jpg",
+    "alt": "Illustration d’une fusée inspirée de Diamant au décollage près d’un drapeau français",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le 26 novembre 1965, une fusée Diamant-A lance depuis Hammaguir, en Algérie, le satellite A-1, surnommé Astérix. La France devient le troisième pays, après l’Union soviétique et les États-Unis, à placer un satellite en orbite avec son propre lanceur. Le jalon concerne donc l’accès autonome à l’orbite, pas le simple fait de posséder un satellite. [Source · cnes.fr](https://cnes.fr/histoire) [Source · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette nuance est au cœur de l’anniversaire. Concevoir un satellite peut laisser un pays dépendant d’un autre pour le lancer. La France démontre alors sa capacité à fournir le véhicule autant que la charge utile. Le petit engin au sommet de Diamant représente un système industriel et politique beaucoup plus vaste."
+    },
+    {
+      "type": "heading",
+      "text": "Ce qu’Astérix devait démontrer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le CNES décrit A-1 comme une capsule technologique construite par Matra sur contrat militaire. Il ne transporte pas de programme d’expériences scientifiques. Sa mission principale consiste à valider la mise en orbite par Diamant. Le Centre spatial guyanais lui attribue une masse d’environ quarante-deux kilogrammes, suffisante pour cet objectif précis. [Source · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais) [Source · centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr/fr/diamant)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[DAY26_603]]",
+      "caption": "La mission de 1965 et la portée précise du succès français",
+      "headings": [
+        "Repère",
+        "Détail vérifié"
+      ],
+      "rows": [
+        [
+          "Date",
+          "26 novembre 1965"
+        ],
+        [
+          "Base",
+          "Hammaguir, en Algérie"
+        ],
+        [
+          "Lanceur et charge utile",
+          "Diamant-A ; A-1, surnommé Astérix"
+        ],
+        [
+          "Masse du satellite",
+          "Environ 42 kg selon le Centre spatial guyanais"
+        ],
+        [
+          "Portée du succès",
+          "Troisième pays à satelliser avec son propre lanceur"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Un objectif limité peut avoir une portée considérable. Propulsion, guidage, séparation des étages et livraison de la charge doivent s’enchaîner correctement. Mettre un petit démonstrateur en orbite valide des capacités qu’un essai au sol ou une simple montée verticale ne suffit pas à établir. La mission porte d’abord sur le transport spatial."
+    },
+    {
+      "type": "subheading",
+      "text": "Atteindre l’espace n’est pas entrer en orbite"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une fusée-sonde peut dépasser l’atmosphère puis retomber. Une satellisation exige aussi le mouvement permettant de continuer à tomber autour de la Terre. La photographie d’un décollage ne démontre donc pas à elle seule la réussite orbitale. C’est la trajectoire obtenue, et non seulement l’altitude atteinte, qui définit ce succès."
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi préciser troisième puissance"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Agence spatiale canadienne rappelle le lancement d’Alouette-1 le 29 septembre 1962. Le Canada avait conçu et construit ce satellite scientifique, envoyé par une fusée Thor-Agena. Ce succès antérieur ne contredit pas celui de la France : fabrication d’un satellite et lancement autonome ne mesurent pas la même capacité. [Source · www.asc-csa.gc.ca](https://www.asc-csa.gc.ca/eng/satellites/alouette.asp)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dire seulement troisième pays dans l’espace efface cette différence. La formule troisième pays à satelliser avec son propre lanceur décrit plus justement l’événement. Elle reconnaît la réussite sans nier les programmes d’autres pays ni confondre toutes les catégories de premières spatiales. [Source · cnes.fr](https://cnes.fr/histoire) [Source · www.asc-csa.gc.ca](https://www.asc-csa.gc.ca/eng/satellites/alouette.asp)"
+    },
+    {
+      "type": "heading",
+      "text": "Des racines militaires et une agence civile"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diamant résulte du programme Pierres précieuses, ensemble de véhicules expérimentaux développés au début des années 1960. Le récit historique du CNES le replace dans l’effort militaire d’indépendance stratégique voulu sous de Gaulle. L’orbite de 1965 conclut une accumulation d’essais et de coordination industrielle, pas une improvisation pour un seul tir. [Source · cnes.fr](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le CNES est créé par la loi en décembre 1961 et commence ses activités en 1962. Il doit trouver sa place auprès d’acteurs militaires, techniques et scientifiques préexistants. Il apporte notamment ses compétences de suivi orbital à Astérix. Attribuer toutes les fonctions à une institution unique simplifierait abusivement l’organisation. [Source · cnes.fr](https://cnes.fr/histoire) [Source · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)"
+    },
+    {
+      "type": "subheading",
+      "text": "Trois étages pour une même trajectoire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diamant-A utilise un premier étage à ergols liquides et des étages supérieurs à propergol solide. Chacun assure une phase de l’accélération. Le véhicule d’environ dix-neuf mètres, décrit par le Centre spatial guyanais, reprend des acquis expérimentaux. Il demeure compact à côté des grands lanceurs que l’histoire spatiale associera aux décennies suivantes. [Source · centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr/fr/diamant)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il faut également distinguer les noms : Astérix désigne la charge utile, Diamant le lanceur. L’inscription imposante de l’illustration fournie ne prouve ni la décoration historique du véhicule ni la place visible du satellite. Une décision graphique contemporaine ne remplace pas les dossiers techniques de la mission. [Source · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)"
+    },
+    {
+      "type": "heading",
+      "text": "Hammaguir n’est pas Kourou"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le tir a lieu en Algérie, indépendante depuis 1962. Le CNES rappelle que les dispositions suivant les accords d’Évian permettent la poursuite des activités françaises sur le champ de tir jusqu’en 1967. Exploiter une installation ne signifie pas que le pays qui l’accueille reste un territoire français. [Source · cnes.fr](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kourou appartient à l’étape suivante. Un nouveau site est choisi en Guyane française et le Centre spatial guyanais se développe. Diamant y vole à partir de 1970. Ce déplacement traduit une évolution géographique et institutionnelle ; le lancement d’Astérix demeure celui d’Hammaguir, le 26 novembre 1965. [Source · cnes.fr](https://cnes.fr/histoire) [Source · centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr/fr/diamant)"
+    },
+    {
+      "type": "heading",
+      "text": "Un satellite muet, mais une satellisation réussie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le CNES attribue le silence d’Astérix à des antennes endommagées pendant le largage de la coiffe. Ce défaut compromet les transmissions sans empêcher l’objectif orbital principal. Le suivi depuis le sol confirme la trajectoire. Coiffe protectrice, système radio et insertion orbitale correspondent à des fonctions distinctes. [Source · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais) [Source · cnes.fr](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’épisode rappelle l’importance de définir la réussite. Un observatoire muet pourrait perdre sa mission essentielle ; un démonstrateur de lancement peut prouver l’injection orbitale malgré un défaut de la charge utile. Affirmer que tout a parfaitement fonctionné ou parler d’échec total ne correspond pas à l’objectif décrit par le CNES. [Source · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais)"
+    },
+    {
+      "type": "subheading",
+      "text": "La science emprunte aussi d’autres voies"
+    },
+    {
+      "type": "paragraph",
+      "text": "En décembre 1965, peu après Astérix, le satellite scientifique FR-1 est lancé par une fusée américaine. Le CNES souligne ainsi une coexistence déjà réelle entre autonomie et coopération. Utiliser un véhicule étranger pour une expérience n’annule pas la capacité nationale : les deux missions répondent à des besoins différents. [Source · cnes.fr](https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix)"
+    },
+    {
+      "type": "heading",
+      "text": "De Diamant à une ambition européenne"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Centre spatial guyanais recense dix succès sur douze tirs pour le programme Diamant. Ce total ne correspond pas à douze missions Astérix. Il montre aussi qu’un premier succès inaugure une suite d’opérations sans résoudre définitivement chaque problème. La fiabilité se construit par le travail répété. [Source · centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr/fr/diamant)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ariane reprend l’ambition dans une autre organisation. L’ESA date le premier lancement d’Ariane 1 à Kourou du 24 décembre 1979. L’expérience française compte, mais la coopération européenne ne constitue pas un simple changement de nom de Diamant. Les contributions industrielles et les décisions partagées modifient l’échelle du projet. [Source · cnes.fr](https://cnes.fr/projets/ariane/en-details) [Source · www.esa.int](https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/40-years-of-ariane)"
+    },
+    {
+      "type": "heading",
+      "text": "Chronologie de l’accès autonome"
+    },
+    {
+      "type": "paragraph",
+      "text": "Décembre 1961 : création légale du CNES, dont les activités commencent en 1962. Le 26 novembre 1965 : lancement d’Astérix par Diamant-A. À partir de 1970 : exploitation de Diamant à Kourou. Le 24 décembre 1979 : premier lancement d’Ariane 1, qui inscrit l’accès indépendant dans un programme européen. [Source · cnes.fr](https://cnes.fr/histoire) [Source · cnes.fr](https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais) [Source · centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr/fr/diamant) [Source · www.esa.int](https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/40-years-of-ariane)"
+    },
+    {
+      "type": "heading",
+      "text": "Lire l’anniversaire au-delà de l’image"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le visuel fourni est une illustration générée par IA. Il ne documente ni les proportions exactes ni les inscriptions ou l’échappement du véhicule réel. Les récits du CNES renvoient à de véritables archives permettant de comparer engin historique et représentations ultérieures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Retrouvez [l’histoire de Concorde](/articles/concorde-final-flight-november-26-2003/), [le vol en ballon de 1783](/articles/first-free-human-balloon-flight-paris-1783/) et [les observations stellaires de Webb](/articles/webb-bao-giant-star-companion-merger-andromeda/). Astérix rappelle une réussite précise : démontrer une voie française vers l’orbite, distincte d’une mission scientifique d’observation."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source · cnes.fr",
+      "url": "https://cnes.fr/histoire"
+    },
+    {
+      "label": "Source · cnes.fr",
+      "url": "https://cnes.fr/actualites/y-50-ans-diamant-lancait-asterix-premier-satellite-francais"
+    },
+    {
+      "label": "Source · cnes.fr",
+      "url": "https://cnes.fr/actualites/y-60-ans-lavenement-de-france-spatiale-diamant-asterix"
+    },
+    {
+      "label": "Source · centrespatialguyanais.cnes.fr",
+      "url": "https://centrespatialguyanais.cnes.fr/fr/diamant"
+    },
+    {
+      "label": "Source · www.asc-csa.gc.ca",
+      "url": "https://www.asc-csa.gc.ca/eng/satellites/alouette.asp"
+    },
+    {
+      "label": "Source · cnes.fr",
+      "url": "https://cnes.fr/projets/ariane/en-details"
+    },
+    {
+      "label": "Source · www.esa.int",
+      "url": "https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/40-years-of-ariane"
+    },
+    {
+      "label": "Source · www.cite-sciences.fr",
+      "url": "https://www.cite-sciences.fr/archives/francais/ala_cite/expositions/cosmomania/evenements/asterix-1er-satellite-francais.php"
+    }
+  ],
+  "faq": [
+    {
+      "question": "La France était-elle le troisième pays à posséder un satellite ?",
+      "answer": "Non. Elle devenait le troisième à mettre un satellite en orbite avec son propre lanceur. D’autres pays avaient déjà des satellites lancés par des fusées étrangères."
+    },
+    {
+      "question": "Astérix est-il parti de Kourou ?",
+      "answer": "Non. Il a décollé d’Hammaguir, en Algérie. Diamant a ensuite été exploité depuis le Centre spatial guyanais."
+    },
+    {
+      "question": "Était-ce un observatoire scientifique ?",
+      "answer": "Non. A-1 était un démonstrateur technologique destiné à valider la capacité de mise en orbite du lanceur."
+    },
+    {
+      "question": "Les antennes endommagées annulaient-elles le succès ?",
+      "answer": "Selon le CNES, le satellite était muet mais avait atteint l’orbite et pouvait être suivi. L’objectif principal de démonstration du lancement était rempli."
+    }
+  ],
+  "readingTimeMinutes": 7
+}

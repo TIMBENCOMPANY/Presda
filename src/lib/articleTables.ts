@@ -8,6 +8,166 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[DAY26_599]]": {
+    "caption": "The dates that explain the holiday, from primary records and museum histories",
+    "headers": [
+      "Date",
+      "Historical significance"
+    ],
+    "rows": [
+      [
+        "Autumn 1621",
+        "A harvest gathering at Plymouth, not a dated federal holiday"
+      ],
+      [
+        "November 26, 1789",
+        "Washington’s recommended national day of thanksgiving"
+      ],
+      [
+        "October 3, 1863",
+        "Lincoln proclaims an observance for the last Thursday of November"
+      ],
+      [
+        "December 26, 1941",
+        "Legislation fixes federal Thanksgiving on the fourth Thursday"
+      ],
+      [
+        "1970",
+        "The National Day of Mourning begins in Plymouth"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[DAY26_600]]": {
+    "caption": "Concorde’s final chapter and British Airways configuration",
+    "headers": [
+      "Key fact",
+      "Verified detail"
+    ],
+    "rows": [
+      [
+        "Final flight of any Concorde",
+        "G-BOAF, Heathrow to Filton, November 26, 2003"
+      ],
+      [
+        "Last scheduled BA commercial flight",
+        "JFK to Heathrow, October 24, 2003"
+      ],
+      [
+        "BA seating",
+        "100 passengers"
+      ],
+      [
+        "Cruise",
+        "Around Mach 2, at up to 60,000 feet"
+      ],
+      [
+        "Aircraft built",
+        "20, including development aircraft"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[DAY26_601]]": {
+    "caption": "Separate stages of the discovery, according to the Griffith Institute archive",
+    "headers": [
+      "Date or record",
+      "What it establishes"
+    ],
+    "rows": [
+      [
+        "November 4, 1922",
+        "The entrance stairway emerges"
+      ],
+      [
+        "November 26, 1922",
+        "Carter looks through the second doorway into the antechamber"
+      ],
+      [
+        "February 16, 1923",
+        "Formal opening of the burial chamber"
+      ],
+      [
+        "1925–1926 season",
+        "The golden mask is documented as object 256.a"
+      ],
+      [
+        "KV62",
+        "The tomb’s designation in the Valley of the Kings"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[DAY26_602]]": {
+    "caption": "The film’s release dates, credits and awards, checked against AFI and the Academy",
+    "headers": [
+      "Key fact",
+      "Verified detail"
+    ],
+    "rows": [
+      [
+        "New York opening",
+        "November 26, 1942"
+      ],
+      [
+        "National US release",
+        "January 23, 1943"
+      ],
+      [
+        "Director and producer",
+        "Michael Curtiz; Hal B. Wallis"
+      ],
+      [
+        "Running time",
+        "103 minutes in the AFI Catalog"
+      ],
+      [
+        "1944 Academy Awards",
+        "Eight nominations and three wins"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[DAY26_603]]": {
+    "caption": "The 1965 mission and the precise meaning of France’s milestone",
+    "headers": [
+      "Key fact",
+      "Verified detail"
+    ],
+    "rows": [
+      [
+        "Launch date",
+        "November 26, 1965"
+      ],
+      [
+        "Launch site",
+        "Hammaguir, Algeria"
+      ],
+      [
+        "Launcher and payload",
+        "Diamant-A; A-1, nicknamed Astérix"
+      ],
+      [
+        "Satellite mass",
+        "About 42 kg, according to the Guiana Space Centre"
+      ],
+      [
+        "Milestone",
+        "Third country to orbit a satellite with its own launcher"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[NEWS26_594]]": {
     "caption": "Barreleye facts from MBARI and Monterey Bay Aquarium; observation counts belong to MBARI, not the world population",
     "headers": [
