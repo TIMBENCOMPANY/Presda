@@ -8,6 +8,38 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[SPORTING26_604]]": {
+    "caption": "The verified essentials behind Sporting’s 1906 display",
+    "headers": [
+      "Question",
+      "Verified detail"
+    ],
+    "rows": [
+      [
+        "When and where?",
+        "November 25, 2026, Estádio José Alvalade, Lisbon"
+      ],
+      [
+        "Which match?",
+        "Sporting CP 2–2 Manchester United, Champions League league phase"
+      ],
+      [
+        "Why 1906?",
+        "Sporting’s founding year; the club turned 120 on July 1, 2026"
+      ],
+      [
+        "Why number 28?",
+        "Ronaldo’s Sporting first-team shirt in 2002/03"
+      ],
+      [
+        "Which players are corroborated?",
+        "Cristiano Ronaldo, Bruno Fernandes, Nani and Sebastián Coates"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[DAY26_599]]": {
     "caption": "The dates that explain the holiday, from primary records and museum histories",
     "headers": [

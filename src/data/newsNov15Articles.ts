@@ -1,6 +1,151 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "604",
+    "slug": "sporting-cp-1906-tifo-cristiano-ronaldo-club-legends",
+    "title": "Sporting CP Fans Honour Cristiano Ronaldo and Club Legends With a Spectacular Tifo",
+    "seoTitle": "Sporting CP’s 1906 Tifo: Ronaldo, Number 28 and Club Legends",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Sporting’s 1906 tifo before the November 25, 2026 Manchester United match celebrates Ronaldo’s number 28 and 120 years of club history. Here is what it means.",
+    "excerpt": "Sporting’s 1906 tifo before the November 25, 2026 Manchester United match celebrates Ronaldo’s number 28 and 120 years of club history. Here is what it means.",
+    "category": "Sport",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-26",
+    "lastUpdated": "2026-11-26",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/sporting-cp-1906-tifo-cristiano-ronaldo-club-legends.jpg",
+    "coverAlt": "AI-enhanced supplied image of Sporting CP’s green and gold 1906 tifo, with Ronaldo’s number 28 among club legends",
+    "headlineHighlights": {
+      "red": "Cristiano Ronaldo",
+      "gold": "Spectacular Tifo"
+    },
+    "tags": [
+      "Sporting CP",
+      "Cristiano Ronaldo",
+      "1906 tifo",
+      "Manchester United",
+      "Champions League"
+    ],
+    "content": [
+      "Sporting CP supporters turned their club’s founding year into a spectacular backdrop before facing Manchester United at Estádio José Alvalade in Lisbon on November 25, 2026. A vast green banner carried gold “1906” numerals above generations of footballers, with Cristiano Ronaldo and his Sporting number 28 at its centre. The Champions League match ended 2–2. [Manchester United, November 25, 2026: Sporting 2 United 2](https://www.manutd.com/en/news/match-report-sporting-lisbon-manchester-united-25-november-2026) [Football Insider via Yahoo Sports, November 26, 2026: Ronaldo, Nani and Fernandes honoured](https://uk.sports.yahoo.com/news/leny-yoro-rages-teammates-four-072500892.html)",
+      "The display connected a global star with the institution that helped launch him. Ronaldo’s image was part of a collective tribute, alongside figures whose importance to Sporting was built through different careers. Its unifying subject was the club’s 120-year identity, rather than the achievements of one individual.",
+      "## What happened at Alvalade?",
+      "The banner appeared before the league-phase encounter on matchday five. Bruno Fernandes scored twice for United and Luis Suárez twice for Sporting. Fernandes was therefore both an opponent in the present and a figure honoured in the home crowd’s account of its past. [Manchester United, November 25, 2026: Sporting 2 United 2](https://www.manutd.com/en/news/match-report-sporting-lisbon-manchester-united-25-november-2026) [UEFA: Sporting CP v Manchester United, matchday five facts](https://www.uefa.com/uefachampionsleague/news/02ab-221de4aaea34-0edfa4e86b5b-1000--champions-league-matchday-5-sporting-cp-vs-manchester-un/) [Manchester United: Fernandes and the pre-match banner](https://www.manutd.com/en/news/what-we-noticed-man-utd-game-away-sporting-nov-2026)",
+      "[[SPORTING26_604]]",
+      "## What does the 1906 tifo mean?",
+      "Sporting’s own anniversary announcement supplies the essential explanation: the club was founded in 1906 and marked 120 years on July 1, 2026. November 25 was not its birthday. The tifo belonged to an anniversary year already reflected in the club’s commemorative activities. [Sporting CP, June 23, 2026: the 120th anniversary](https://www.sporting.pt/pt/noticias/clube/noticias/2026-06-23/camisola-de-aniversario-120-anos-com-nova-identidade)",
+      "The composition made that history legible at stadium scale. The founding year dominated; the players stood beneath it. Read as a visual statement, this places the institution above any single career. That is an interpretation of the design, not a quotation from its creators or an independently verified account of their intentions.",
+      "### A supporters’ display, not a transfer announcement",
+      "A tifo is a large coordinated supporters’ display, often using banners or cards. This one honoured football memory. Neither the banner nor the reporting cited here establishes a Ronaldo return to Sporting, a new playing agreement or his presence at the match. A tribute should not be turned into a transfer story.",
+      "## Why Ronaldo’s number 28 matters",
+      "The number is a precise historical detail, not an alternative rendering of CR7. Sporting’s museum announced on February 17, 2014 that it had received a number 28 shirt worn by Ronaldo in the senior team during 2002/03. The club’s own record anchors the symbolism in an actual shirt from his early career. [Sporting CP, February 17, 2014: Ronaldo’s number 28 in the museum](https://www.sporting.pt/pt/node/10785)",
+      "Before the number 7 became inseparable from his international image, 28 represented the young Sporting player. Placing that version of Ronaldo in the display brings the story back to development, opportunity and an identity that preceded worldwide fame. The claim is about his Sporting past; it does not establish that the club has retired the number.",
+      "### A short senior chapter with a lasting place in the club",
+      "Ronaldo made his first-team debut against Internazionale on August 14, 2002. His 2002/03 senior season produced 31 official appearances and five goals, according to A Bola’s account of Sporting’s anniversary tribute. Those are all-competition figures, not a league-only record. [A Bola, August 14, 2025: Ronaldo’s Sporting debut](https://www.abola.pt/noticias/sporting-recorda-estreia-de-cristiano-ronaldo-2025081414334868066)",
+      "His move to Manchester United in 2003 made this fixture an especially resonant setting for the tribute. The contrast between a brief senior spell and his enduring visibility at Sporting explains why appearances alone cannot measure a player’s place in a club’s memory. [Football Insider via Yahoo Sports, November 26, 2026: Ronaldo, Nani and Fernandes honoured](https://uk.sports.yahoo.com/news/leny-yoro-rages-teammates-four-072500892.html)",
+      "## Which club legends are represented?",
+      "Contemporary reporting corroborates four names: Ronaldo, Bruno Fernandes, Nani and Sebastián Coates. Football Insider’s report, carried by Yahoo Sports, identifies the three Sporting-to-United players and reproduces an eyewitness account of the banner. FútbolUy separately identifies Coates alongside Ronaldo and Fernandes. United’s own coverage also confirms Fernandes in the display. [FútbolUy, November 25, 2026: Coates in the giant banner](https://www.montevideo.com.uy/Deportes/Champions-Hinchas-del-Sporting-homenajearon-a-Sebastian-Coates-en-un-telon-gigante-uc983506) [Football Insider via Yahoo Sports, November 26, 2026: Ronaldo, Nani and Fernandes honoured](https://uk.sports.yahoo.com/news/leny-yoro-rages-teammates-four-072500892.html) [Manchester United: Fernandes and the pre-match banner](https://www.manutd.com/en/news/what-we-noticed-man-utd-game-away-sporting-nov-2026)",
+      "### Fernandes and Nani: shared history across two clubs",
+      "Nani followed the Sporting-to-United route in 2007; Fernandes did so in January 2020. Their inclusion gives the opponent a role in the story without surrendering Sporting’s ownership of its memories. For Fernandes, being recognised before competing against his former club made that relationship visible within the same evening. [Football Insider via Yahoo Sports, November 26, 2026: Ronaldo, Nani and Fernandes honoured](https://uk.sports.yahoo.com/news/leny-yoro-rages-teammates-four-072500892.html) [Manchester United: Fernandes and the pre-match banner](https://www.manutd.com/en/news/what-we-noticed-man-utd-game-away-sporting-nov-2026)",
+      "### Coates: service and belonging",
+      "Coates offers another kind of connection. The Uruguayan defender played for Sporting from 2016 to 2024 and was part of its league-winning teams in 2021 and 2024. His place in the banner recognises a sustained Sporting chapter, rather than the route to Manchester. He and Fernandes should not be described as Sporting academy graduates simply because both became important players there. [FútbolUy, November 25, 2026: Coates in the giant banner](https://www.montevideo.com.uy/Deportes/Champions-Hinchas-del-Sporting-homenajearon-a-Sebastian-Coates-en-un-telon-gigante-uc983506)",
+      "The remaining portraits require care. PRESDA has not verified an official complete left-to-right identification key. Fan suggestions and an AI-enhanced image are insufficient to settle every face. The names above are corroborated; the wider historical figures discussed below provide context and are not presented as additional confirmed portrait identifications.",
+      "## Beyond Ronaldo: understanding 120 years of Sporting",
+      "An anniversary spanning twelve decades cannot be reduced to the export of modern stars. Sporting’s historical vocabulary includes the Cinco Violinos, the celebrated attacking line of Jesus Correia, Vasques, Peyroteo, Travassos and Albano. The club continues to invoke that group when explaining its football heritage. [Sporting CP, July 31, 2025: the Cinco Violinos](https://www.sporting.pt/pt/noticias/opiniao/2025-07-31/nova-epoca-novas-lendas)",
+      "That older collective identity helps explain the appeal of a multi-generation display. A famous individual can draw worldwide attention to a banner, while the club’s meaning to supporters reaches across teams and eras. The tifo invites a second look beyond its most internationally recognisable figure.",
+      "### The European triumph that links Sporting and United",
+      "The clubs’ shared history also predates Ronaldo. In the 1963/64 European Cup Winners’ Cup, Sporting recovered from a 4–1 defeat at Old Trafford by winning 5–0 at home, progressing 6–4 on aggregate. UEFA’s matchday background records that extraordinary reversal. [UEFA: Sporting CP v Manchester United, matchday five facts](https://www.uefa.com/uefachampionsleague/news/02ab-221de4aaea34-0edfa4e86b5b-1000--champions-league-matchday-5-sporting-cp-vs-manchester-un/)",
+      "Sporting went on to lift the trophy. After a 3–3 final against MTK Budapest in Brussels, João Morais scored directly from a corner in the replay in Antwerp on May 15, 1964, securing a 1–0 victory. The United connection therefore includes European competition and collective achievement, not only later transfers. [UEFA: Sporting’s 1964 Cup Winners’ Cup triumph](https://pt.uefa.com/news-media/news/025d-0f84321e454b-2f7e791310e4-1000--1963-64-morais-resolve-para-o-sporting/)",
+      "## An academy legacy larger than one superstar",
+      "Sporting’s academy history deserves the same precision as the shirt number. The modern Alcochete campus opened in 2002, but the club’s development work did not begin with that building. Its official twentieth-anniversary reflection stresses the longer project and the contribution of talent development associated with Aurélio Pereira. The institution helped produce careers before the campus existed. [Sporting CP, June 23, 2022: twenty years of the academy](https://backoffice.sporting.pt/pt/noticias/opiniao/2022-06-23/20o-aniversario-academia-cristiano-ronaldo)",
+      "The name Academia Cristiano Ronaldo is itself part of the club’s continuing relationship with its former player. Another tangible tribute came in 2023, when Ronaldo’s name was placed at Gate 7 at José Alvalade following members’ approval. The banner joins a landscape of recognition that includes facilities, museum objects and the stadium itself. [Sporting CP, June 23, 2022: twenty years of the academy](https://backoffice.sporting.pt/pt/noticias/opiniao/2022-06-23/20o-aniversario-academia-cristiano-ronaldo) [A Bola, October 27, 2023: Ronaldo honoured at Gate 7](https://www.abola.pt/noticias/cristiano-ronaldo-ja-esta-identificado-na-porta-7-do-estadio-jose-alvalade-2023102720501691468)",
+      "For a comparison with another player whose influence became part of a club’s identity, read PRESDA’s [Johan Cruyff profile](/articles/johan-cruyff-man-changed-football-forever/). Our [feature on Ronaldo’s Shanghai museum statue](/articles/cristiano-ronaldo-seven-metre-statue-cr7-museum-shanghai-2026/) explores a different form of commemoration, while [the psychology of football fandom](/articles/football-fans-psychology-passion-rivalry-violence/) examines the bonds behind collective displays.",
+      "## How to read the image responsibly",
+      "The supplied hero has been AI-enhanced and is labelled accordingly. It is useful for illustrating the subject, but altered pixels cannot authenticate a portrait, a shirt detail or an event date. This article’s factual account comes from match records, Sporting’s historical material and dated reporting.",
+      "No verified production budget, dimensions, preparation time or complete official portrait key was available in the sources reviewed. Those gaps need not diminish the display. Its documented achievement is already substantial: it brought Sporting’s founding year, Ronaldo’s early shirt and several generations of club memory into one shared scene before a European match."
+    ],
+    "references": [
+      {
+        "name": "Manchester United, November 25, 2026: Sporting 2 United 2",
+        "url": "https://www.manutd.com/en/news/match-report-sporting-lisbon-manchester-united-25-november-2026"
+      },
+      {
+        "name": "UEFA: Sporting CP v Manchester United, matchday five facts",
+        "url": "https://www.uefa.com/uefachampionsleague/news/02ab-221de4aaea34-0edfa4e86b5b-1000--champions-league-matchday-5-sporting-cp-vs-manchester-un/"
+      },
+      {
+        "name": "Sporting CP, June 23, 2026: the 120th anniversary",
+        "url": "https://www.sporting.pt/pt/noticias/clube/noticias/2026-06-23/camisola-de-aniversario-120-anos-com-nova-identidade"
+      },
+      {
+        "name": "Sporting CP, February 17, 2014: Ronaldo’s number 28 in the museum",
+        "url": "https://www.sporting.pt/pt/node/10785"
+      },
+      {
+        "name": "FútbolUy, November 25, 2026: Coates in the giant banner",
+        "url": "https://www.montevideo.com.uy/Deportes/Champions-Hinchas-del-Sporting-homenajearon-a-Sebastian-Coates-en-un-telon-gigante-uc983506"
+      },
+      {
+        "name": "Football Insider via Yahoo Sports, November 26, 2026: Ronaldo, Nani and Fernandes honoured",
+        "url": "https://uk.sports.yahoo.com/news/leny-yoro-rages-teammates-four-072500892.html"
+      },
+      {
+        "name": "Manchester United: Fernandes and the pre-match banner",
+        "url": "https://www.manutd.com/en/news/what-we-noticed-man-utd-game-away-sporting-nov-2026"
+      },
+      {
+        "name": "A Bola, August 14, 2025: Ronaldo’s Sporting debut",
+        "url": "https://www.abola.pt/noticias/sporting-recorda-estreia-de-cristiano-ronaldo-2025081414334868066"
+      },
+      {
+        "name": "UEFA: Sporting’s 1964 Cup Winners’ Cup triumph",
+        "url": "https://pt.uefa.com/news-media/news/025d-0f84321e454b-2f7e791310e4-1000--1963-64-morais-resolve-para-o-sporting/"
+      },
+      {
+        "name": "Sporting CP, July 31, 2025: the Cinco Violinos",
+        "url": "https://www.sporting.pt/pt/noticias/opiniao/2025-07-31/nova-epoca-novas-lendas"
+      },
+      {
+        "name": "Sporting CP, June 23, 2022: twenty years of the academy",
+        "url": "https://backoffice.sporting.pt/pt/noticias/opiniao/2022-06-23/20o-aniversario-academia-cristiano-ronaldo"
+      },
+      {
+        "name": "A Bola, October 27, 2023: Ronaldo honoured at Gate 7",
+        "url": "https://www.abola.pt/noticias/cristiano-ronaldo-ja-esta-identificado-na-porta-7-do-estadio-jose-alvalade-2023102720501691468"
+      }
+    ],
+    "relatedSlugs": [
+      "cristiano-ronaldo-seven-metre-statue-cr7-museum-shanghai-2026",
+      "johan-cruyff-man-changed-football-forever",
+      "football-fans-psychology-passion-rivalry-violence"
+    ],
+    "faq": [
+      {
+        "question": "When did Sporting fans unveil the 1906 tifo?",
+        "answer": "Before Sporting CP’s Champions League match against Manchester United in Lisbon on November 25, 2026. The match finished 2–2."
+      },
+      {
+        "question": "Why does the banner say 1906?",
+        "answer": "Sporting was founded in 1906 and celebrated its 120th anniversary on July 1, 2026. The November display belongs to that anniversary year."
+      },
+      {
+        "question": "Why is Cristiano Ronaldo shown with number 28?",
+        "answer": "He wore number 28 for Sporting’s senior team in 2002/03, before his move to Manchester United and his association with number 7. Sporting’s museum documented that shirt in 2014."
+      },
+      {
+        "question": "Who are the legends in the tifo?",
+        "answer": "Contemporary reporting corroborates Ronaldo, Bruno Fernandes, Nani and Sebastián Coates. PRESDA has not verified an official complete portrait key and does not label the remaining figures by guesswork."
+      },
+      {
+        "question": "Is the hero an unaltered documentary photograph?",
+        "answer": "No. It is the supplied AI-enhanced image and is labelled accordingly. Match details and player identifications are checked against external sources."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
     "id": "599",
     "slug": "thanksgiving-history-november-26-1789-national-holiday",
     "title": "THANKSGIVING: THE STORY BEHIND AMERICA’S NATIONAL HOLIDAY",

@@ -7726,6 +7726,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/sporting-cp-1906-tifo-cristiano-ronaldo-club-legends/",
+    "path": "/ar/articles/sporting-cp-1906-tifo-cristiano-ronaldo-club-legends/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/sporting-cp-1906-tifo-cristiano-ronaldo-club-legends/",
+    "path": "/es/articles/sporting-cp-1906-tifo-cristiano-ronaldo-club-legends/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/sporting-cp-1906-tifo-cristiano-ronaldo-club-legends/",
+    "path": "/fr/articles/sporting-cp-1906-tifo-cristiano-ronaldo-club-legends/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/stephen-hawking-black-holes-cosmology/",
     "path": "/ar/articles/stephen-hawking-black-holes-cosmology/"
   },
