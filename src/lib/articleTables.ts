@@ -8,6 +8,194 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[LEGACY27_610]]": {
+    "caption": "The essential facts",
+    "headers": [
+      "Question",
+      "Verified context"
+    ],
+    "rows": [
+      [
+        "Who donated?",
+        "Actress Francia Raisa"
+      ],
+      [
+        "Who received the kidney?",
+        "Selena Gomez"
+      ],
+      [
+        "When was the transplant?",
+        "Summer 2017"
+      ],
+      [
+        "When was it disclosed?",
+        "September 14, 2017"
+      ],
+      [
+        "Why was it needed?",
+        "Kidney disease associated with lupus"
+      ],
+      [
+        "What followed?",
+        "The women discussed their experiences in a joint TODAY interview"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[LEGACY27_611]]": {
+    "caption": "A campaign with distinct milestones",
+    "headers": [
+      "Date",
+      "Development"
+    ],
+    "rows": [
+      [
+        "March 2020",
+        "Partnership with food redistribution charity FareShare"
+      ],
+      [
+        "June 15, 2020",
+        "Public appeal to MPs over holiday food provision"
+      ],
+      [
+        "June 16, 2020",
+        "Government announces £120m Covid Summer Food Fund for England"
+      ],
+      [
+        "Summer 2020",
+        "Support for around 1.3m eligible children, using six weeks of provision"
+      ],
+      [
+        "September 2020",
+        "Child food poverty task force brings businesses and charities together"
+      ],
+      [
+        "October 2020",
+        "MBE recognition for services to vulnerable children"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[LEGACY27_612]]": {
+    "caption": "Bambali: completed facilities and an announced investment",
+    "headers": [
+      "Date",
+      "Documented development"
+    ],
+    "rows": [
+      [
+        "2019",
+        "Secondary school funding reported by CNN"
+      ],
+      [
+        "2019",
+        "Hospital construction begins, according to contemporary reporting"
+      ],
+      [
+        "June 20, 2021",
+        "Hospital inaugurated; reported cost about CFA350m"
+      ],
+      [
+        "October 17, 2022",
+        "Mané receives the inaugural Socrates Award"
+      ],
+      [
+        "September 19, 2026",
+        "Groundbreaking for SM10 Agro; announced investment CFA11.7bn"
+      ],
+      [
+        "Project status distinction",
+        "A launch and investment announcement do not establish completed production or jobs"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[LEGACY27_613]]": {
+    "caption": "Two careers that overlapped",
+    "headers": [
+      "Year",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "1992",
+        "Joins Manchester United from Leeds"
+      ],
+      [
+        "1995",
+        "Appears in Le bonheur est dans le pré while still playing"
+      ],
+      [
+        "1997",
+        "Retires from football at 30, with four Premier League titles at United"
+      ],
+      [
+        "1998",
+        "Plays the French ambassador in Elizabeth"
+      ],
+      [
+        "2009",
+        "Looking for Eric screens in competition at Cannes"
+      ],
+      [
+        "2014",
+        "The Salvation screens out of competition at Cannes"
+      ],
+      [
+        "2020",
+        "Stars in television drama Dérapages"
+      ],
+      [
+        "2026",
+        "Cantona documentary presented in Cannes Special Screenings"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[LEGACY27_614]]": {
+    "caption": "The record across two sports",
+    "headers": [
+      "Year",
+      "Verified milestone"
+    ],
+    "rows": [
+      [
+        "1998",
+        "World Cup winner with France"
+      ],
+      [
+        "2000",
+        "European champion with France"
+      ],
+      [
+        "2013",
+        "French FFSA GT champion with Morgan Moullin-Traffort"
+      ],
+      [
+        "2014 Le Mans",
+        "29th overall, ninth in LMGTE Am, Ferrari 458 Italia GT2"
+      ],
+      [
+        "2016 Le Mans",
+        "12th overall, ninth in LMP2, Ligier JS P2-Nissan"
+      ],
+      [
+        "2017 Le Mans",
+        "Retirement in a Ligier JS P217-Gibson"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[STARS27_605]]": {
     "caption": "Tevez’s farewell: confirmed information and open details",
     "headers": [

@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/selena-gomez-francia-raisa-kidney-donation-2017.jpg","/articles/marcus-rashford-childhood-poverty-child-hunger-campaign.jpg","/articles/sadio-mane-bambali-school-hospital-community.jpg","/articles/eric-cantona-football-cinema-acting-career.jpg","/articles/fabien-barthez-world-cup-gt-racing-le-mans.jpg"].includes(source)) return { creditText: "AI-generated editorial illustration supplied for PRESDA" };
   if (["/articles/lionel-messi-carlos-tevez-farewell-match-bombonera-2026.jpg","/articles/marrakech-film-festival-jeff-goldblum-tribute-2026.jpg","/articles/hailey-bieber-30th-birthday-justin-bahamas-2026.jpg","/articles/shah-rukh-khan-king-december-24-2026-release.jpg","/articles/kanye-west-bianca-censori-reported-december-vow-renewal-2026.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/sporting-cp-1906-tifo-cristiano-ronaldo-club-legends.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/thanksgiving-history-november-26-1789-national-holiday.jpg","/articles/concorde-final-flight-november-26-2003.jpg","/articles/tutankhamun-tomb-november-26-1922-discovery.jpg","/articles/casablanca-film-premiere-november-26-1942.jpg","/articles/asterix-satellite-france-november-26-1965.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
