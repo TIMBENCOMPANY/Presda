@@ -1,6 +1,539 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "605",
+    "slug": "lionel-messi-carlos-tevez-farewell-match-bombonera-2026",
+    "title": "Lionel Messi Confirmed for Carlos Tevez’s Farewell Match at La Bombonera",
+    "seoTitle": "Messi Confirmed for Tevez’s December 20 Farewell Match",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Organisers have announced Messi for Carlos Tevez’s December 20, 2026 testimonial at La Bombonera. What is confirmed, why it matters and what remains open.",
+    "excerpt": "Organisers have announced Messi for Carlos Tevez’s December 20, 2026 testimonial at La Bombonera. What is confirmed, why it matters and what remains open.",
+    "category": "Sport",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/lionel-messi-carlos-tevez-farewell-match-bombonera-2026.jpg",
+    "coverAlt": "Supplied editorial image of Lionel Messi and Carlos Tevez in Argentina training attire",
+    "headlineHighlights": {
+      "red": "Lionel Messi",
+      "gold": "Carlos Tevez’s Farewell"
+    },
+    "tags": [
+      "Lionel Messi",
+      "Carlos Tevez",
+      "La Bombonera",
+      "Boca Juniors"
+    ],
+    "content": [
+      "Lionel Messi has been announced for Carlos Tevez’s farewell match at La Bombonera on December 20, 2026, adding Argentina’s most celebrated contemporary footballer to a reunion built around one of Boca Juniors’ defining figures. DeporTV reported the organisers’ confirmation on November 26, following an announcement through the event’s official channels. [DeporTV, November 26, 2026: organisers confirm Messi](https://deportv.gob.ar/futbol/oficial-messi-despedida-tevez-bombonera-nid:19230) [Adiós Apache Oficial: Messi announcement](https://www.instagram.com/p/DgNZt_sRJmY/)",
+      "The distinction matters: this is a scheduled testimonial for Tevez, not another Argentina international and not Messi’s own farewell. Its appeal lies in bringing different chapters of Tevez’s career into the stadium most closely associated with his bond with Boca supporters.",
+      "## What has been confirmed?",
+      "The organiser’s announcement places Messi among the guests for the December 20 event in Buenos Aires. DeporTV also lists Leandro Paredes, Martín Palermo, Rio Ferdinand, Gianluigi Buffon and Sergio Agüero among the names already attached to the occasion. Announced participation is the accurate description before a future match has taken place. [DeporTV, November 26, 2026: organisers confirm Messi](https://deportv.gob.ar/futbol/oficial-messi-despedida-tevez-bombonera-nid:19230)",
+      "[[STARS27_605]]",
+      "## Why Messi’s presence changes the occasion",
+      "Messi and Tevez shared Argentina dressing rooms, including at the 2006 and 2010 World Cups. Their reunion therefore carries a national-team connection into a club setting. FIFA’s historical profile records those two World Cup appearances for Tevez, while the forthcoming event is organised around his own career. [FIFA: Tevez’s Argentina and club career](https://inside.fifa.com/es/news/feliz-cumpleanos-2757489-x2690)",
+      "It also creates a contrast in the way football remembers its stars. Messi’s presence will draw attention beyond Boca’s following, but the testimonial’s subject remains Tevez. A guest’s fame does not change who is being honoured, and the match should not be presented as a competitive return for either man.",
+      "### An earlier invitation, followed by an announcement",
+      "In an interview published by Rio Ferdinand’s official channel on October 29, Tevez discussed the farewell and invited his former Manchester United teammate. That earlier conversation established the reunion’s ambition. The subsequent organisers’ announcement about Messi is the more specific development behind the current news. [Rio Ferdinand Presents, October 29, 2026: Tevez discusses the farewell](https://www.youtube.com/watch?v=ziiG4y0AM3I)",
+      "## Why La Bombonera is the meaningful setting",
+      "For Tevez, Boca was both a starting point and a destination to which he returned. Juventus’ contemporary account of his 2015 departure described his move back to his homeland for a second spell at Boca, after two seasons in Turin. That record helps explain why a farewell in Buenos Aires is more than a convenient venue choice. [Juventus, July 2015: return to Boca Juniors](https://www.juventus.com/en/news/articles/muchas-gracias-carlos)",
+      "The occasion is a chance for supporters to recognise a career that repeatedly crossed borders without losing its Argentine reference point. A testimonial can place a former club teammate beside an international colleague, allowing relationships normally separated by club calendars to share the same pitch.",
+      "### A career connecting South America and Europe",
+      "Tevez’s route included Boca, Corinthians, West Ham, Manchester United, Manchester City and Juventus. FIFA’s career retrospective traces his successes across Argentina, Brazil, England and Italy. That breadth gives the guest list its logic: it reflects professional relationships accumulated in different leagues rather than a single championship squad. [FIFA: Tevez’s Argentina and club career](https://inside.fifa.com/es/news/feliz-cumpleanos-2757489-x2690)",
+      "Palermo represents Boca’s history; Ferdinand evokes Manchester United; Buffon recalls Juventus; Agüero brings another Manchester and Argentina connection. Those associations explain the reunion without requiring speculation about teams, playing minutes or how the organisers will divide the participants. The final sporting format must come from the event itself. [DeporTV, November 26, 2026: organisers confirm Messi](https://deportv.gob.ar/futbol/oficial-messi-despedida-tevez-bombonera-nid:19230) [AS, November 26, 2026: testimonial participants](https://en.as.com/soccer/messi-latest-high-profile-name-added-to-carlos-tevez-farewell-match-f202611-n/)",
+      "## A farewell is different from a retirement announcement",
+      "Tevez’s retirement is not new. Juventus marked his announcement on June 4, 2022. The December 2026 testimonial is a later public celebration of that playing career. Confusing the two dates would wrongly imply that he is ending an uninterrupted professional playing spell now. [Juventus, June 4, 2022: Tevez’s retirement](https://www.juventus.com/en/news/articles/suerte-carlitos)",
+      "These events belong to a different tradition from a league fixture. Competitive stakes give way to recognition, shared memories and the chance to applaud a player in person. That does not make a testimonial insignificant, but it does change what the score, line-ups and individual performances can reasonably tell us.",
+      "### What about Cristiano Ronaldo?",
+      "Interest in a possible appearance by Ronaldo has accompanied discussion of the event. This report does not treat that interest, an invitation or social-media requests as confirmation. Messi’s announcement should not be stretched into a promise of a Messi–Ronaldo encounter. Each participant requires their own clear announcement. [AS, November 26, 2026: testimonial participants](https://en.as.com/soccer/messi-latest-high-profile-name-added-to-carlos-tevez-farewell-match-f202611-n/)",
+      "## What supporters still need to check",
+      "This article does not establish verified ticket prices, a kick-off time or a worldwide television schedule. Supporters should use the organiser’s official channels for those practical announcements and distinguish dated updates from older provisional plans. A confirmed guest does not authenticate a ticket seller or an unofficial broadcast link. [Adiós Apache Oficial: Messi announcement](https://www.instagram.com/p/DgNZt_sRJmY/)",
+      "For readers following the different meanings of football farewells, PRESDA’s [Messi profile](/articles/lionel-messi-last-dance-argentina-farewell/) provides related context. Our [report on Sporting’s tribute to Ronaldo and club legends](/articles/sporting-cp-1906-tifo-cristiano-ronaldo-club-legends/) explores another form of supporter recognition, while [Pelé’s career](/articles/pele-boy-football-first-global-superstar/) offers a longer view of global football fame.",
+      "## The story to watch on December 20",
+      "The strongest account of this event begins with Tevez, rather than a speculative superstar showdown. Messi’s announced presence gives the farewell international reach, but its emotional centre is a former player’s relationship with Boca and the teammates who accompanied him elsewhere. That is already a substantial occasion without inventing a final guest list or writing the ceremony before it happens."
+    ],
+    "references": [
+      {
+        "name": "DeporTV, November 26, 2026: organisers confirm Messi",
+        "url": "https://deportv.gob.ar/futbol/oficial-messi-despedida-tevez-bombonera-nid:19230"
+      },
+      {
+        "name": "Adiós Apache Oficial: Messi announcement",
+        "url": "https://www.instagram.com/p/DgNZt_sRJmY/"
+      },
+      {
+        "name": "Rio Ferdinand Presents, October 29, 2026: Tevez discusses the farewell",
+        "url": "https://www.youtube.com/watch?v=ziiG4y0AM3I"
+      },
+      {
+        "name": "Juventus, June 4, 2022: Tevez’s retirement",
+        "url": "https://www.juventus.com/en/news/articles/suerte-carlitos"
+      },
+      {
+        "name": "Juventus, July 2015: return to Boca Juniors",
+        "url": "https://www.juventus.com/en/news/articles/muchas-gracias-carlos"
+      },
+      {
+        "name": "FIFA: Tevez’s Argentina and club career",
+        "url": "https://inside.fifa.com/es/news/feliz-cumpleanos-2757489-x2690"
+      },
+      {
+        "name": "AS, November 26, 2026: testimonial participants",
+        "url": "https://en.as.com/soccer/messi-latest-high-profile-name-added-to-carlos-tevez-farewell-match-f202611-n/"
+      }
+    ],
+    "relatedSlugs": [
+      "lionel-messi-last-dance-argentina-farewell",
+      "sporting-cp-1906-tifo-cristiano-ronaldo-club-legends",
+      "pele-boy-football-first-global-superstar"
+    ],
+    "faq": [
+      {
+        "question": "Will Messi play at Tevez’s farewell?",
+        "answer": "The organisers have announced his participation, as reported by DeporTV on November 26. The match remains a future event."
+      },
+      {
+        "question": "When and where is the farewell match?",
+        "answer": "December 20, 2026, at La Bombonera in Buenos Aires."
+      },
+      {
+        "question": "Is this Messi’s own farewell?",
+        "answer": "No. The testimonial honours Carlos Tevez. Messi is an announced guest."
+      },
+      {
+        "question": "Is Cristiano Ronaldo confirmed?",
+        "answer": "This report does not establish his participation. An invitation or discussion of a possible appearance is not a confirmed announcement."
+      }
+    ],
+    "readingTime": "6 min read"
+  },
+  {
+    "id": "606",
+    "slug": "marrakech-film-festival-jeff-goldblum-tribute-2026",
+    "title": "Marrakech Film Festival Honours Jeff Goldblum With a Career Tribute",
+    "seoTitle": "Jeff Goldblum Honoured at Marrakech Film Festival 2026",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Jeff Goldblum received a career tribute at Marrakech on November 21, 2026, with Tilda Swinton presenting the honour. The ceremony and the career behind it.",
+    "excerpt": "Jeff Goldblum received a career tribute at Marrakech on November 21, 2026, with Tilda Swinton presenting the honour. The ceremony and the career behind it.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/marrakech-film-festival-jeff-goldblum-tribute-2026.jpg",
+    "coverAlt": "Supplied portrait of Jeff Goldblum in a dark evening jacket and white bow tie",
+    "headlineHighlights": {
+      "red": "Jeff Goldblum",
+      "gold": "Career Tribute"
+    },
+    "tags": [
+      "Jeff Goldblum",
+      "Marrakech Film Festival",
+      "Tilda Swinton",
+      "Cinema"
+    ],
+    "content": [
+      "Jeff Goldblum received a career tribute at the Marrakech International Film Festival on November 21, 2026, with Tilda Swinton presenting the honorary Étoile d’or. The ceremony, reported by Morocco’s public broadcaster SNRT, recognised an actor whose distinctive presence has travelled between major studio films, ensemble cinema and music. [SNRT News, November 21, 2026: Goldblum receives the tribute](https://www.snrtnews.com/fr/article/jeff-goldblum-au-fifm-un-hommage-place-sous-le-signe-de-lemotion-162700)",
+      "The honour belongs to the festival’s tribute programme, which celebrates established bodies of work. It is different from a competitive award for a newly selected film. That distinction gives the evening its meaning: Marrakech was looking across a career, rather than judging a single performance against that year’s entries.",
+      "## When and where the tribute took place",
+      "The festival’s official programme placed Goldblum’s tribute on Saturday, November 21, at the Palais des Congrès. The 23rd edition runs from November 20 to 28, 2026. The published schedule establishes the planned event; SNRT’s subsequent account confirms that the ceremony took place. [Festival: official 2026 programme](https://marrakech-festival.com/wp-content/uploads/2026/11/Marrakech-Festival-2026-Program.pdf) [SNRT News, November 21, 2026: Goldblum receives the tribute](https://www.snrtnews.com/fr/article/jeff-goldblum-au-fifm-un-hommage-place-sous-le-signe-de-lemotion-162700)",
+      "[[STARS27_606]]",
+      "## Tilda Swinton presents a personal recognition",
+      "SNRT identifies Swinton as the presenter and recalls their shared screen connection through Wes Anderson’s The Grand Budapest Hotel. A tribute introduced by a fellow performer brings a different perspective from a competition verdict: it can address a working relationship and the qualities that remain recognisable across roles. [SNRT News, November 21, 2026: Goldblum receives the tribute](https://www.snrtnews.com/fr/article/jeff-goldblum-au-fifm-un-hommage-place-sous-le-signe-de-lemotion-162700)",
+      "Goldblum’s appeal is not easily reduced to a single genre. His career moves between nervous intelligence, eccentric authority and comedy, often making a supporting character memorable without requiring the entire film to revolve around him. That is an editorial reading of his work, rather than a claim about the festival jury’s reasoning.",
+      "### Honorary recognition and the competition prize",
+      "The name Étoile d’or requires context. Goldblum’s honour is attached to a career tribute. It should not be reported as the festival selecting one of his films as the winner of the 2026 competition. Marrakech’s programme separates tributes from competition screenings and the closing awards ceremony. [Marrakech International Film Festival: 2026 tributes](https://marrakech-festival.com/en/tributes/) [Festival: official 2026 programme](https://marrakech-festival.com/wp-content/uploads/2026/11/Marrakech-Festival-2026-Program.pdf)",
+      "## A career that crosses different kinds of cinema",
+      "The range is visible in Goldblum’s documented credits. His agency biography includes The Fly, Jurassic Park, Independence Day, The Big Chill, The Grand Budapest Hotel and Thor: Ragnarok. These titles connect intimate character work, science-fiction anxiety, large-scale spectacle and carefully composed ensemble filmmaking. [CAA: Jeff Goldblum’s career biography](https://www.caa.com/caaspeakers/jeff-goldblum/)",
+      "An actor’s recognisable manner can sometimes obscure the differences between those settings. The demands of a creature transformation, a blockbuster scientist and an ensemble role are not interchangeable. Looking across them makes a career tribute more useful than a simple list of familiar lines or internet moments.",
+      "### Recognition beyond the blockbuster image",
+      "The tribute offers an opportunity to revisit films in relation to one another. Viewers who know Goldblum mainly through a franchise can discover a broader body of work; those familiar with his ensemble performances can see how the same screen personality functions within a very different scale of production. The value lies in that comparison, not in declaring every role identical.",
+      "## The musician alongside the actor",
+      "Music is a documented part of the story, rather than a decorative addition to his biography. Universal Music announced Goldblum’s signing to Decca in May 2018 and described his longstanding work with the Mildred Snitzer Orchestra. His jazz activity therefore has an institutional history of its own. [Universal Music Canada, May 30, 2018: Goldblum signs with Decca](https://www.universalmusic.ca/2018/05/30/hollywood-icon-jeff-goldblum-signs-legendary-label-decca-records/)",
+      "The festival itself lists him as both actor and musician. That description broadens the frame without requiring a claim that he performed a concert during the tribute. Recognition of a musical career and evidence of a particular live performance are different things; the sources used here establish the former. [Marrakech International Film Festival: 2026 tributes](https://marrakech-festival.com/en/tributes/)",
+      "## Why Marrakech’s choice matters",
+      "Goldblum is one of three artists honoured in the festival’s official 2026 tribute announcement, alongside John Turturro and Moroccan actor and musician Younès Mégri. The selection places internationally familiar US cinema beside a Moroccan artistic career, rather than presenting the festival solely as a destination for visiting Hollywood stars. [Festival: official tribute announcement](https://marrakech-festival.com/wp-content/uploads/2026/11/FIFM26-CP-HOMMAGES-ENG.pdf)",
+      "That balance is central to reading the programme. An international festival can introduce audiences to work they have not seen while also returning established figures to public view. The honour is not simply a red-carpet appearance: it belongs to a curated account of cinema and the people who make it.",
+      "### A tribute within an ongoing festival",
+      "As of this article’s November 27 publication, the edition is still in progress and is scheduled to end on November 28. Goldblum’s November 21 ceremony has already happened; the closing programme belongs to a later point in the festival. Keeping those dates separate avoids turning a tribute report into an unsupported account of the final awards. [Festival: official 2026 programme](https://marrakech-festival.com/wp-content/uploads/2026/11/Marrakech-Festival-2026-Program.pdf)",
+      "For another recent career honour, read PRESDA’s [report on John Travolta at the Torino Film Festival](/articles/john-travolta-stella-della-mole-torino-film-festival-2026/). Our [Casablanca feature](/articles/casablanca-film-premiere-november-26-1942/) examines how cinema becomes cultural memory, while [Morocco’s history](/articles/morocco-history-dynasties-kingdom-independence/) offers wider national context.",
+      "## The image and the record",
+      "The supplied hero is retained as an editorial portrait. Its appearance is not used to authenticate the date, venue or presentation of the honour. Those details come from the official programme and dated reporting. No acceptance speech is reconstructed here, and no quotation is attributed to Goldblum or Swinton without a verified text.",
+      "The result is a clearer account of what Marrakech recognised: not a new competitive victory, but a body of work whose familiar surface opens onto an unusually varied career. The ceremony gives audiences a reason to look again, beyond the most instantly recognisable image of the actor."
+    ],
+    "references": [
+      {
+        "name": "Marrakech International Film Festival: 2026 tributes",
+        "url": "https://marrakech-festival.com/en/tributes/"
+      },
+      {
+        "name": "Festival: official 2026 programme",
+        "url": "https://marrakech-festival.com/wp-content/uploads/2026/11/Marrakech-Festival-2026-Program.pdf"
+      },
+      {
+        "name": "SNRT News, November 21, 2026: Goldblum receives the tribute",
+        "url": "https://www.snrtnews.com/fr/article/jeff-goldblum-au-fifm-un-hommage-place-sous-le-signe-de-lemotion-162700"
+      },
+      {
+        "name": "Festival: official tribute announcement",
+        "url": "https://marrakech-festival.com/wp-content/uploads/2026/11/FIFM26-CP-HOMMAGES-ENG.pdf"
+      },
+      {
+        "name": "CAA: Jeff Goldblum’s career biography",
+        "url": "https://www.caa.com/caaspeakers/jeff-goldblum/"
+      },
+      {
+        "name": "Universal Music Canada, May 30, 2018: Goldblum signs with Decca",
+        "url": "https://www.universalmusic.ca/2018/05/30/hollywood-icon-jeff-goldblum-signs-legendary-label-decca-records/"
+      }
+    ],
+    "relatedSlugs": [
+      "john-travolta-stella-della-mole-torino-film-festival-2026",
+      "casablanca-film-premiere-november-26-1942",
+      "morocco-history-dynasties-kingdom-independence"
+    ],
+    "faq": [
+      {
+        "question": "When was Jeff Goldblum honoured in Marrakech?",
+        "answer": "On November 21, 2026, during the festival’s 23rd edition."
+      },
+      {
+        "question": "Who presented the honour?",
+        "answer": "Tilda Swinton presented the honorary Étoile d’or, according to SNRT News’s dated ceremony report."
+      },
+      {
+        "question": "Was this the festival’s competitive best-film prize?",
+        "answer": "No. Goldblum received a career tribute. It should not be confused with the Étoile d’or awarded to a competition film."
+      },
+      {
+        "question": "Who else received a tribute in 2026?",
+        "answer": "The festival’s official list also names John Turturro and Moroccan artist Younès Mégri."
+      }
+    ],
+    "readingTime": "6 min read"
+  },
+  {
+    "id": "607",
+    "slug": "hailey-bieber-30th-birthday-justin-bahamas-2026",
+    "title": "Hailey Bieber Celebrates Her 30th Birthday With Justin in the Bahamas",
+    "seoTitle": "Hailey Bieber’s 30th Birthday With Justin in the Bahamas",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Hailey Bieber turned 30 on November 22, 2026 and shared Bahamas celebration photos with Justin two days later. The verified timeline and context behind the trip.",
+    "excerpt": "Hailey Bieber turned 30 on November 22, 2026 and shared Bahamas celebration photos with Justin two days later. The verified timeline and context behind the trip.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/hailey-bieber-30th-birthday-justin-bahamas-2026.jpg",
+    "coverAlt": "Supplied image of Justin and Hailey Bieber embracing beside the sea",
+    "headlineHighlights": {
+      "red": "Hailey Bieber",
+      "gold": "30th Birthday"
+    },
+    "tags": [
+      "Hailey Bieber",
+      "Justin Bieber",
+      "Bahamas",
+      "rhode"
+    ],
+    "content": [
+      "Hailey Bieber marked her 30th birthday with a Bahamas getaway alongside Justin Bieber, sharing images of the celebration after turning 30 on November 22, 2026. Coverage of her November 24 Instagram carousel describes affectionate photographs of the couple, including a kiss beneath fireworks. [Parade, November 2026: Hailey’s birthday photos](https://parade.com/celebrities/hailey-bieber-celebrates-30th-birthday-gold-bikini-justin-bieber-fireworks-lavish-bahamas-yacht-trip-photos) [ELLE: November 24, 2026 birthday-trip entry](https://www.elle.com/culture/celebrities/a41591571/justin-bieber-hailey-bieber-relationship-timeline/)",
+      "The dates separate the occasion from its public release. November 22 was the birthday; November 24 was the day the carousel appeared. The photographs provide a glimpse of the celebration chosen for public view, rather than a complete itinerary or a record of every private moment.",
+      "## What the birthday photographs show",
+      "Parade’s account describes Justin and Hailey together against a nighttime backdrop, with fireworks in one image and a yacht outing among the other scenes. ELLE’s dated timeline independently identifies the trip as a Bahamas birthday getaway and records the November 24 post. [Parade, November 2026: Hailey’s birthday photos](https://parade.com/celebrities/hailey-bieber-celebrates-30th-birthday-gold-bikini-justin-bieber-fireworks-lavish-bahamas-yacht-trip-photos) [ELLE: November 24, 2026 birthday-trip entry](https://www.elle.com/culture/celebrities/a41591571/justin-bieber-hailey-bieber-relationship-timeline/)",
+      "[[STARS27_607]]",
+      "## Why the timing needs to stay precise",
+      "The birthday belongs to 2026, when Hailey turned 30. Reporting that the images appeared two days later does not establish the exact time each photograph was taken. A carousel can gather moments from a trip rather than document a single continuous evening.",
+      "The distinction is useful in celebrity reporting because photographs often circulate without their original captions. A repost may be new while the image is older. Here, the birthday and publication dates are supported by the coverage; the article does not invent a precise sailing route, venue booking or timetable.",
+      "### What the destination does and does not establish",
+      "The Bahamas is the destination identified in the reports. That does not authenticate a specific private island, resort or yacht name. Nor do sea views alone prove where an individual image was taken. The travel claim rests on dated reporting of the birthday trip, not geographic guesswork from the supplied hero. [Parade, November 2026: Hailey’s birthday photos](https://parade.com/celebrities/hailey-bieber-celebrates-30th-birthday-gold-bikini-justin-bieber-fireworks-lavish-bahamas-yacht-trip-photos) [ELLE: November 24, 2026 birthday-trip entry](https://www.elle.com/culture/celebrities/a41591571/justin-bieber-hailey-bieber-relationship-timeline/)",
+      "## A shared celebration within a longer relationship",
+      "The birthday pictures sit within a relationship whose major milestones have already been public. Justin and Hailey married in a New York courthouse in September 2018 and held a larger ceremony in South Carolina in September 2019, as documented in Entertainment Tonight’s timeline. These were separate stages of their wedding story. [Entertainment Tonight: the couple’s relationship timeline](https://www.etonline.com/justin-bieber-and-hailey-biebers-complete-relationship-timeline-from-meeting-in-2009-to-her-105699)",
+      "Justin’s official documentary series later included an episode about the South Carolina ceremony. That first-party material offers a useful contrast with a birthday carousel: a produced account of an earlier milestone and a small selection of recent images serve different purposes. Neither gives unrestricted access to the couple’s private life. [Justin Bieber’s official channel: the South Carolina wedding](https://www.youtube.com/watch?v=G-4tJ63X5vo)",
+      "### Affectionate images are not a complete relationship diagnosis",
+      "The photographs show the couple presenting a celebration together. That is sufficient for a report about the birthday. It does not justify claims about every aspect of their marriage, private disagreements or the intentions of people who are not speaking in the record. A pleasant public moment can be reported without turning it into proof for a broader narrative.",
+      "## Thirty as a professional milestone, too",
+      "Hailey reaches this birthday with a business identity extending beyond her marriage to a musician. She founded rhode, whose acquisition by e.l.f. Beauty was announced in May 2025. The company’s own announcement is a firmer basis for discussing that commercial chapter than an estimated celebrity net-worth ranking. [e.l.f. Beauty, May 28, 2025: rhode acquisition agreement](https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/05-28-2025-210536607?pubdate=20250529)",
+      "The announced transaction comprised $800 million in consideration payable at closing, in cash and stock, and up to $200 million in additional earnout linked to future growth. Calling it a deal worth up to $1 billion is different from saying Hailey personally received $1 billion. The announcement does not establish her individual proceeds. [e.l.f. Beauty, May 28, 2025: rhode acquisition agreement](https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/05-28-2025-210536607?pubdate=20250529)",
+      "### The founder’s role continued after the deal",
+      "In its September 2025 Sephora launch announcement, e.l.f. identified Hailey as rhode’s founder, chief creative officer and head of innovation, as well as a strategic adviser to e.l.f. Beauty. That documents an ongoing role, rather than a simple story of selling a brand and walking away. It is historical business context, not a claim about a new birthday transaction. [e.l.f. Beauty, September 4, 2025: rhode at Sephora](https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/09-04-2025-153709225)",
+      "This matters to the profile around the celebration. The public figure in the photographs is also a founder associated with product development and a larger retail business. A birthday report can acknowledge that without converting promotional sales figures into an unsupported estimate of personal wealth.",
+      "## The difference between a trip and a luxury-price story",
+      "The available images establish a visual setting, not a verified holiday bill. No cost for the getaway, yacht rental, accommodation or gifts is established here. Descriptions such as extravagant or lavish can easily imply financial knowledge a photograph cannot provide.",
+      "The more useful account keeps the sequence clear: a November 22 milestone, a Bahamas celebration reported in the following days, and photographs shared on November 24. That gives readers a reliable understanding of the news while leaving private logistics where the evidence leaves them.",
+      "For another recent celebrity milestone, see PRESDA’s [Miley Cyrus and Maxx Morando wedding report](/articles/miley-cyrus-maxx-morando-palm-springs-wedding-2026/). Our [Paparazzi section](/category/paparazzi/) follows entertainment news with the same distinction between public announcements, attributed reporting and unsupported speculation.",
+      "## A birthday recorded on the couple’s terms",
+      "The supplied hero is preserved as an editorial image. Its visible setting is not used to prove a particular date or private location. The story rests on the dated birthday coverage and the publicly described post.",
+      "What remains is a recognisable milestone: Hailey celebrating 30 with Justin, while a few shared photographs carry the occasion to a much wider audience. The images tell that story well enough without inventing a guest list, a price tag or a conclusion about the couple’s entire marriage."
+    ],
+    "references": [
+      {
+        "name": "Parade, November 2026: Hailey’s birthday photos",
+        "url": "https://parade.com/celebrities/hailey-bieber-celebrates-30th-birthday-gold-bikini-justin-bieber-fireworks-lavish-bahamas-yacht-trip-photos"
+      },
+      {
+        "name": "ELLE: November 24, 2026 birthday-trip entry",
+        "url": "https://www.elle.com/culture/celebrities/a41591571/justin-bieber-hailey-bieber-relationship-timeline/"
+      },
+      {
+        "name": "e.l.f. Beauty, May 28, 2025: rhode acquisition agreement",
+        "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/05-28-2025-210536607?pubdate=20250529"
+      },
+      {
+        "name": "e.l.f. Beauty, September 4, 2025: rhode at Sephora",
+        "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2025/09-04-2025-153709225"
+      },
+      {
+        "name": "Entertainment Tonight: the couple’s relationship timeline",
+        "url": "https://www.etonline.com/justin-bieber-and-hailey-biebers-complete-relationship-timeline-from-meeting-in-2009-to-her-105699"
+      },
+      {
+        "name": "Justin Bieber’s official channel: the South Carolina wedding",
+        "url": "https://www.youtube.com/watch?v=G-4tJ63X5vo"
+      }
+    ],
+    "relatedSlugs": [
+      "miley-cyrus-maxx-morando-palm-springs-wedding-2026",
+      "rihanna-asap-rocky-beverly-hills-outing-november-2026"
+    ],
+    "faq": [
+      {
+        "question": "When did Hailey Bieber turn 30?",
+        "answer": "On November 22, 2026. The birthday photos were shared on November 24, according to coverage of her post."
+      },
+      {
+        "question": "Where did she celebrate with Justin?",
+        "answer": "ELLE and Parade identify the trip as a Bahamas getaway. This article does not identify a private property or exact island."
+      },
+      {
+        "question": "Were the photos posted on her birthday?",
+        "answer": "The carousel discussed here was posted two days later, on November 24. Posting time and the time each image was taken are not the same."
+      },
+      {
+        "question": "Did Hailey personally receive $1 billion from rhode’s sale?",
+        "answer": "The acquisition announcement described a company deal with $800 million payable at closing and up to $200 million in contingent earnout. Those figures are not a statement of her personal proceeds or net worth."
+      }
+    ],
+    "readingTime": "6 min read"
+  },
+  {
+    "id": "608",
+    "slug": "shah-rukh-khan-king-december-24-2026-release",
+    "title": "Shah Rukh Khan’s King Set for December 24 Cinema Release",
+    "seoTitle": "Shah Rukh Khan’s King: December 24, 2026 Release Explained",
+    "seoTitleAbsolute": true,
+    "metaDescription": "King is scheduled for cinemas on December 24, 2026. The official date, Siddharth Anand’s role, the reported cast and what is confirmed before Shah Rukh Khan’s film.",
+    "excerpt": "King is scheduled for cinemas on December 24, 2026. The official date, Siddharth Anand’s role, the reported cast and what is confirmed before Shah Rukh Khan’s film.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/shah-rukh-khan-king-december-24-2026-release.jpg",
+    "coverAlt": "Supplied promotional-style image of Shah Rukh Khan with silver hair and a bruised screen character",
+    "headlineHighlights": {
+      "red": "Shah Rukh Khan",
+      "gold": "King"
+    },
+    "tags": [
+      "Shah Rukh Khan",
+      "King",
+      "Siddharth Anand",
+      "Red Chillies Entertainment"
+    ],
+    "content": [
+      "Shah Rukh Khan’s King is scheduled to reach cinemas on December 24, 2026, according to the film’s official Red Chillies Entertainment page. Directed by Siddharth Anand, the production is being presented as a new action-led screen chapter for the star. It has not yet had its scheduled theatrical release as of November 27. [Red Chillies Entertainment: King’s official film page](https://www.redchillies.com/movies/king) [Red Chillies, November 2, 2025: title and creative team](https://www.redchillies.com/news/marflix-pictures-and-red-chillies-entertainment-revealed-the-title-of-their-film-king-in-grand-style-on-shah-rukh-khans-birthday-with-an-action-packed-glimpse-unveiled-b)",
+      "That future tense is important. Posters, title footage and a date announcement establish a campaign, not a completed public release or a box-office result. The story is the approach of a major film, with a firm published date and a creative team that can be checked against the studio’s own material.",
+      "## The official release date is December 24",
+      "Red Chillies lists December 24, 2026, on the film page. Its official YouTube date-announcement video, published on January 24, 2026, also identifies that day. References to a Christmas release describe the surrounding season; the precise announced date is Christmas Eve. [Red Chillies Entertainment: King’s official film page](https://www.redchillies.com/movies/king) [Red Chillies, January 24, 2026: release-date announcement](https://www.youtube.com/watch?v=M3mfut2RdHk)",
+      "[[STARS27_608]]",
+      "## Siddharth Anand is the credited director",
+      "The current official film page names Anand as director. Red Chillies’ November 2, 2025 title announcement also identifies the project as his second collaboration with Khan after Pathaan. Those current credits should take precedence over articles describing an earlier development arrangement. [Red Chillies Entertainment: King’s official film page](https://www.redchillies.com/movies/king) [Red Chillies, November 2, 2025: title and creative team](https://www.redchillies.com/news/marflix-pictures-and-red-chillies-entertainment-revealed-the-title-of-their-film-king-in-grand-style-on-shah-rukh-khans-birthday-with-an-action-packed-glimpse-unveiled-b)",
+      "Anand’s presence gives the campaign an immediate creative connection that audiences can recognise. It does not establish that King shares a story universe with Pathaan. A returning director and star are a collaboration, not automatic evidence of a sequel or franchise crossover.",
+      "### Red Chillies and Marflix are producing",
+      "The official title announcement names Red Chillies Entertainment and Marflix Pictures as the producers. The distinction between star, director and production companies matters when following announcements: each has a different role, and a widely shared promotional image does not itself establish every credit. [Red Chillies, November 2, 2025: title and creative team](https://www.redchillies.com/news/marflix-pictures-and-red-chillies-entertainment-revealed-the-title-of-their-film-king-in-grand-style-on-shah-rukh-khans-birthday-with-an-action-packed-glimpse-unveiled-b)",
+      "## What the campaign actually reveals",
+      "The studio describes King as an action entertainer and its title reveal foregrounds a silver-haired look for Khan. That is verified information about the promotional presentation, not an independently reviewed account of the finished film. The supplied hero is used in that editorial context. [Red Chillies, November 2, 2025: title and creative team](https://www.redchillies.com/news/marflix-pictures-and-red-chillies-entertainment-revealed-the-title-of-their-film-king-in-grand-style-on-shah-rukh-khans-birthday-with-an-action-packed-glimpse-unveiled-b)",
+      "Character makeup and staged damage should not be converted into reports of a real injury. Equally, a dramatic pose does not establish the full plot, a particular scene’s ending or the fate of another character. Promotional material is designed to create questions as well as answer them.",
+      "### The reported ensemble adds another point of interest",
+      "The Indian Express’s November coverage lists Suhana Khan, Deepika Padukone, Abhishek Bachchan and other performers in the ensemble. These are attributed casting reports; the official film page reviewed here foregrounds Khan and Anand. The distinction avoids presenting a secondary-source cast list as if every detail came from the same studio announcement. [The Indian Express, November 2026: the campaign and ensemble](https://indianexpress.com/article/entertainment/bollywood/shah-rukh-khan-61st-birthday-king-display-mumbai-sea-link-teaser-mannat-10946189/)",
+      "Suhana’s participation gives the campaign an additional family and generational dimension. That does not mean the film’s characters reproduce their real-life relationship. Performer biographies and fictional relationships are different kinds of information, and the script should not be invented from casting alone.",
+      "## Why the word return needs context",
+      "Khan did not disappear from cinema after one distant hit. Red Chillies’ catalogue records Jawan’s September 2023 release and Dunki’s December 2023 release. King is a new scheduled leading vehicle, rather than evidence that all professional activity stopped between those films and this one. [Red Chillies: Jawan’s September 2023 release](https://www.redchillies.com/news/jawan-prevue-out-now-srks-most-ambitious-films-prevue-takes-the-internet-by-storm) [Red Chillies: Dunki film page](https://www.redchillies.com/movies/dunki)",
+      "The distinction also keeps the emphasis on what changes: a new production, an action-focused campaign and another collaboration with Anand. A career can continue through acting, production and promotion even when the next major theatrical role is still ahead.",
+      "### A star with a studio role",
+      "Red Chillies’ corporate history identifies Shah Rukh Khan and Gauri Khan as its founders in 2002 and describes a business spanning film production, distribution and visual effects. That institutional background helps explain why his screen career and the company’s activity are related without being identical. [Red Chillies: the studio’s history](https://www.redchillies.com/ourstory)",
+      "For audiences, the central attraction is still the performance. For the production, a cinema release also involves scheduling, delivery and distribution. Announcing a date is one stage of that process, and it is more precise than treating promotional excitement as a financial result.",
+      "## What is not established before release",
+      "This report does not present a verified final budget, running time, certification, opening-weekend forecast or streaming date. Those details require their own reliable announcements or records. A large star and a holiday release do not make a projected collection a fact.",
+      "Nor is this a review. No claim is made that PRESDA has seen the completed film, assessed its final action sequences or confirmed the audience response. The meaningful information now is the official date, the credited creative team and the clearly attributed parts of the campaign.",
+      "Readers interested in how film careers are recognised can explore [Jeff Goldblum’s Marrakech tribute](/articles/marrakech-film-festival-jeff-goldblum-tribute-2026/) and [John Travolta’s Torino honour](/articles/john-travolta-stella-della-mole-torino-film-festival-2026/). Our [Casablanca feature](/articles/casablanca-film-premiere-november-26-1942/) examines the longer distance between a film’s opening and the reputation it eventually acquires.",
+      "## The next confirmed milestone",
+      "For now, December 24 is the date to watch in the official release plan. King’s campaign has established its star, director and production identity; its finished reception still belongs to the future. Keeping those stages separate allows anticipation without turning advertising into a verdict."
+    ],
+    "references": [
+      {
+        "name": "Red Chillies Entertainment: King’s official film page",
+        "url": "https://www.redchillies.com/movies/king"
+      },
+      {
+        "name": "Red Chillies, January 24, 2026: release-date announcement",
+        "url": "https://www.youtube.com/watch?v=M3mfut2RdHk"
+      },
+      {
+        "name": "Red Chillies, November 2, 2025: title and creative team",
+        "url": "https://www.redchillies.com/news/marflix-pictures-and-red-chillies-entertainment-revealed-the-title-of-their-film-king-in-grand-style-on-shah-rukh-khans-birthday-with-an-action-packed-glimpse-unveiled-b"
+      },
+      {
+        "name": "The Indian Express, November 2026: the campaign and ensemble",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/shah-rukh-khan-61st-birthday-king-display-mumbai-sea-link-teaser-mannat-10946189/"
+      },
+      {
+        "name": "Red Chillies: the studio’s history",
+        "url": "https://www.redchillies.com/ourstory"
+      },
+      {
+        "name": "Red Chillies: Jawan’s September 2023 release",
+        "url": "https://www.redchillies.com/news/jawan-prevue-out-now-srks-most-ambitious-films-prevue-takes-the-internet-by-storm"
+      },
+      {
+        "name": "Red Chillies: Dunki film page",
+        "url": "https://www.redchillies.com/movies/dunki"
+      }
+    ],
+    "relatedSlugs": [
+      "marrakech-film-festival-jeff-goldblum-tribute-2026",
+      "casablanca-film-premiere-november-26-1942",
+      "john-travolta-stella-della-mole-torino-film-festival-2026"
+    ],
+    "faq": [
+      {
+        "question": "When is King scheduled to release?",
+        "answer": "The official Red Chillies film page lists December 24, 2026, for the cinema release. It is a future date as of this report."
+      },
+      {
+        "question": "Who directs King?",
+        "answer": "The current official credit names Siddharth Anand. Older development reports should not replace that credit."
+      },
+      {
+        "question": "Is King already in cinemas?",
+        "answer": "Not as of this article’s November 27, 2026 publication. Promotional footage is not the completed theatrical release."
+      },
+      {
+        "question": "Is there a confirmed streaming date here?",
+        "answer": "No. The sources used here establish a cinema date, not a verified streaming premiere or platform agreement."
+      }
+    ],
+    "readingTime": "6 min read"
+  },
+  {
+    "id": "609",
+    "slug": "kanye-west-bianca-censori-reported-december-vow-renewal-2026",
+    "title": "Kanye West and Bianca Censori Reportedly Plan a December Vow Renewal",
+    "seoTitle": "Kanye West and Bianca Censori: Reported December Vow Renewal",
+    "seoTitleAbsolute": true,
+    "metaDescription": "A radio caller identifying herself as Bianca Censori’s relative prompted reports of a December 2026 vow renewal with Ye. What is reported and still unconfirmed.",
+    "excerpt": "A radio caller identifying herself as Bianca Censori’s relative prompted reports of a December 2026 vow renewal with Ye. What is reported and still unconfirmed.",
+    "category": "Paparazzi",
+    "schemaType": "NewsArticle",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/kanye-west-bianca-censori-reported-december-vow-renewal-2026.jpg",
+    "coverAlt": "Supplied editorial portrait of Kanye West and Bianca Censori in dark clothing",
+    "headlineHighlights": {
+      "red": "Kanye West",
+      "gold": "Vow Renewal"
+    },
+    "tags": [
+      "Kanye West",
+      "Ye",
+      "Bianca Censori",
+      "Vow renewal"
+    ],
+    "content": [
+      "Kanye West and Bianca Censori are reportedly considering a December 2026 vow renewal, following a radio caller’s claim that relatives were preparing to travel for a celebration. The caller, identified as Kelly, described herself as connected to Censori’s family. Reports of her comments do not amount to a direct announcement by the couple. [Us Weekly, November 27, 2026: attributed vow-renewal report](https://www.usmagazine.com/celebrity-news/news/kanye-west-bianca-censori-reportedly-renewing-wedding-vows/) [Nine, November 26, 2026: the radio caller’s account](https://www.nine.com.au/entertainment/celebrity/kanye-west-aussie-wife-bianca-censori-wedding-plans-revealed-20261127-p61hnd.html)",
+      "The clearest headline is therefore about a reported vow renewal, not a confirmed second wedding. No exact ceremony date or venue has been verified in the sources used for this article, and the existence of several reports should not be mistaken for several independent confirmations.",
+      "## Where the story originated",
+      "Us Weekly’s November 27 account and Nine’s coverage identify the Australian radio programme Fifi, Fev & Nick as the source of the claim. Kelly said she was a first cousin of Censori’s mother and described family travel for a December celebration. Her stated connection is part of the report; it has not been independently authenticated by PRESDA. [Us Weekly, November 27, 2026: attributed vow-renewal report](https://www.usmagazine.com/celebrity-news/news/kanye-west-bianca-censori-reportedly-renewing-wedding-vows/) [Nine, November 26, 2026: the radio caller’s account](https://www.nine.com.au/entertainment/celebrity/kanye-west-aussie-wife-bianca-censori-wedding-plans-revealed-20261127-p61hnd.html)",
+      "[[STARS27_609]]",
+      "## What was claimed, and what was not",
+      "The account describes an already married couple planning to repeat their vows. That is narrower than the suggestion that they are entering a new marriage. The caller also said she had not been invited. Those details place limits on how much first-hand knowledge can reasonably be assumed from the conversation. [Us Weekly, November 27, 2026: attributed vow-renewal report](https://www.usmagazine.com/celebrity-news/news/kanye-west-bianca-censori-reportedly-renewing-wedding-vows/)",
+      "The reports differ on the precise day of the broadcast. This article therefore identifies the dated November 26–27 coverage without assigning an unverified broadcast date. The month mentioned for the possible ceremony is December; the uncertainty belongs to the underlying plan as well as its practical details.",
+      "### The couple have not supplied a verified public plan here",
+      "Us Weekly said it had sought comment from West’s representative. That is the magazine’s reporting step, not evidence that PRESDA spoke to the couple. The reviewed sources do not establish a direct statement announcing a ceremony, its location or a final guest list. [Us Weekly, November 27, 2026: attributed vow-renewal report](https://www.usmagazine.com/celebrity-news/news/kanye-west-bianca-censori-reportedly-renewing-wedding-vows/)",
+      "Without that next layer of evidence, the appropriate verbs remain reported and claimed. A relative’s account may be newsworthy, but it should not be rewritten as a signed invitation or a completed event. The distinction should survive the headline, summary, table and translated editions.",
+      "## Why vow renewal is the more accurate description",
+      "The coverage places West and Censori’s original marriage in December 2022. Contemporary reporting in early 2023 already described a private ceremony, although public information at that stage was limited. The current story concerns a possible later celebration, not a newly established relationship. [Us Weekly, November 27, 2026: attributed vow-renewal report](https://www.usmagazine.com/celebrity-news/news/kanye-west-bianca-censori-reportedly-renewing-wedding-vows/) [Associated Press, January 25, 2023: contemporary relationship reporting](https://apnews.com/article/5aef8f0edc3b919f3131fae3a6137b88)",
+      "A vow renewal is ordinarily a ceremony in which a married couple repeats commitments. Using that description does not establish a divorce, remarriage or change in legal status. Nothing in the radio account is a basis for reporting those developments, and this article makes no such claim.",
+      "### A private first ceremony does not prove a later one",
+      "It is easy to build an appealing narrative around a small original ceremony followed by a larger gathering. But a plausible sequence is not evidence that the second event is booked. The reported December plan needs its own confirmation, separate from the history of the marriage.",
+      "## Repetition is not independent confirmation",
+      "The reviewed articles trace the new claim back to the same radio conversation. A later article may add context or repeat a passage, but that does not mean a second family member has corroborated the plan. Readers should be able to follow the attribution to its origin rather than encounter an expanding circle of anonymous certainty. [Nine, November 26, 2026: the radio caller’s account](https://www.nine.com.au/entertainment/celebrity/kanye-west-aussie-wife-bianca-censori-wedding-plans-revealed-20261127-p61hnd.html) [AOL, November 27, 2026: report and limits on confirmation](https://www.aol.com/articles/kanye-west-bianca-censori-reportedly-015103000.html)",
+      "That also applies to fan-circulated invitations or save-the-date images. AOL’s account notes unauthenticated material being shared online. This article does not reproduce it or adopt an exact date and location from it. A polished graphic can circulate widely without an authenticated connection to the people named. [AOL, November 27, 2026: report and limits on confirmation](https://www.aol.com/articles/kanye-west-bianca-censori-reportedly-015103000.html)",
+      "## What could establish the next stage of the story?",
+      "A direct public announcement, a verifiable statement from a representative or reliable reporting based on an authenticated invitation could clarify the plan. Until then, the useful update is limited: a caller claimed there would be a December vow renewal, outlets reported it, and the central practical details remain unverified.",
+      "Nor can a reported celebration settle broader questions about a private relationship. It does not prove a reconciliation, a particular motive or an account of earlier disagreements. Those claims would require separate evidence and are not necessary to explain the current news.",
+      "For another public celebrity milestone, see PRESDA’s [Hailey Bieber birthday report](/articles/hailey-bieber-30th-birthday-justin-bahamas-2026/). Our [Miley Cyrus wedding coverage](/articles/miley-cyrus-maxx-morando-palm-springs-wedding-2026/) and [Paparazzi section](/category/paparazzi/) provide related reading, with each story retaining its own evidence and level of confirmation.",
+      "## A portrait is not ceremony evidence",
+      "The supplied image of West and Censori is retained as an editorial portrait. It does not document a vow renewal, identify a venue or authenticate a wedding date. No event photographer, invitation designer or attendee is invented to fill those gaps.",
+      "The responsible conclusion remains provisional. There is a specific, attributable report worth explaining, but not yet a verified public ceremony to announce as fact. Keeping that boundary visible is more informative than allowing the phrase second wedding to imply certainty the record does not provide."
+    ],
+    "references": [
+      {
+        "name": "Us Weekly, November 27, 2026: attributed vow-renewal report",
+        "url": "https://www.usmagazine.com/celebrity-news/news/kanye-west-bianca-censori-reportedly-renewing-wedding-vows/"
+      },
+      {
+        "name": "Nine, November 26, 2026: the radio caller’s account",
+        "url": "https://www.nine.com.au/entertainment/celebrity/kanye-west-aussie-wife-bianca-censori-wedding-plans-revealed-20261127-p61hnd.html"
+      },
+      {
+        "name": "AOL, November 27, 2026: report and limits on confirmation",
+        "url": "https://www.aol.com/articles/kanye-west-bianca-censori-reportedly-015103000.html"
+      },
+      {
+        "name": "Associated Press, January 25, 2023: contemporary relationship reporting",
+        "url": "https://apnews.com/article/5aef8f0edc3b919f3131fae3a6137b88"
+      }
+    ],
+    "relatedSlugs": [
+      "hailey-bieber-30th-birthday-justin-bahamas-2026",
+      "miley-cyrus-maxx-morando-palm-springs-wedding-2026"
+    ],
+    "faq": [
+      {
+        "question": "Are Kanye West and Bianca Censori confirmed to be having another wedding?",
+        "answer": "No direct announcement by the couple is established here. The reports concern a possible vow renewal described by a radio caller claiming a family connection."
+      },
+      {
+        "question": "When is the reported ceremony?",
+        "answer": "The caller’s account points to December 2026. No exact date or venue has been verified for this article."
+      },
+      {
+        "question": "Why call it a vow renewal rather than a second wedding?",
+        "answer": "The account describes an already married couple repeating their vows. It does not establish a new marriage, divorce or remarriage."
+      },
+      {
+        "question": "Do several articles independently confirm the plan?",
+        "answer": "Not necessarily. The reviewed reports trace back to the same radio claim. Repetition is not independent confirmation."
+      }
+    ],
+    "readingTime": "6 min read"
+  },
+  {
     "id": "604",
     "slug": "sporting-cp-1906-tifo-cristiano-ronaldo-club-legends",
     "title": "Sporting CP Fans Honour Cristiano Ronaldo and Club Legends With a Spectacular Tifo",

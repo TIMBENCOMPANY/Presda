@@ -101,6 +101,7 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (["/articles/lionel-messi-carlos-tevez-farewell-match-bombonera-2026.jpg","/articles/marrakech-film-festival-jeff-goldblum-tribute-2026.jpg","/articles/hailey-bieber-30th-birthday-justin-bahamas-2026.jpg","/articles/shah-rukh-khan-king-december-24-2026-release.jpg","/articles/kanye-west-bianca-censori-reported-december-vow-renewal-2026.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/sporting-cp-1906-tifo-cristiano-ronaldo-club-legends.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/thanksgiving-history-november-26-1789-national-holiday.jpg","/articles/concorde-final-flight-november-26-2003.jpg","/articles/tutankhamun-tomb-november-26-1922-discovery.jpg","/articles/casablanca-film-premiere-november-26-1942.jpg","/articles/asterix-satellite-france-november-26-1965.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   if (["/articles/barreleye-fish-transparent-head-rotating-eyes.jpg","/articles/john-travolta-stella-della-mole-torino-film-festival-2026.jpg","/articles/hippos-saudi-arabia-mundafan-lake-125000-years.jpg","/articles/macys-100th-thanksgiving-day-parade-2026.jpg","/articles/xiaomi-europe-electric-car-market-2027.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

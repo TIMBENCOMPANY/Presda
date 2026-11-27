@@ -8,6 +8,166 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[STARS27_605]]": {
+    "caption": "Tevez’s farewell: confirmed information and open details",
+    "headers": [
+      "Item",
+      "Status as of November 27, 2026"
+    ],
+    "rows": [
+      [
+        "Event",
+        "Carlos Tevez’s farewell testimonial"
+      ],
+      [
+        "Date and venue",
+        "December 20, 2026, La Bombonera, Buenos Aires"
+      ],
+      [
+        "Lionel Messi",
+        "Announced by the organisers, reported by DeporTV"
+      ],
+      [
+        "Other announced names",
+        "Leandro Paredes, Martín Palermo, Rio Ferdinand, Buffon and Sergio Agüero"
+      ],
+      [
+        "Practical details",
+        "No independently verified ticket prices, kick-off or global TV schedule in this report"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[STARS27_606]]": {
+    "caption": "Jeff Goldblum’s Marrakech honour: the essential distinctions",
+    "headers": [
+      "Detail",
+      "Verified information"
+    ],
+    "rows": [
+      [
+        "Festival",
+        "23rd Marrakech International Film Festival, November 20–28, 2026"
+      ],
+      [
+        "Tribute ceremony",
+        "November 21, 2026"
+      ],
+      [
+        "Presenter",
+        "Tilda Swinton, according to SNRT News"
+      ],
+      [
+        "Recognition",
+        "Career tribute and honorary Étoile d’or"
+      ],
+      [
+        "Other tribute recipients",
+        "John Turturro and Younès Mégri"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[STARS27_607]]": {
+    "caption": "Hailey Bieber’s birthday: dates and context",
+    "headers": [
+      "Detail",
+      "Verified information"
+    ],
+    "rows": [
+      [
+        "Birthday",
+        "November 22, 2026, her 30th"
+      ],
+      [
+        "Photos shared",
+        "November 24, according to dated coverage"
+      ],
+      [
+        "Destination",
+        "The Bahamas, as reported by ELLE and Parade"
+      ],
+      [
+        "Justin Bieber",
+        "Appears with Hailey in the shared celebration photos"
+      ],
+      [
+        "Business context",
+        "rhode founder; acquisition figures refer to the company, not her personal fortune"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[STARS27_608]]": {
+    "caption": "King: confirmed production details and reported casting",
+    "headers": [
+      "Question",
+      "Current information"
+    ],
+    "rows": [
+      [
+        "Release date",
+        "December 24, 2026, listed by Red Chillies"
+      ],
+      [
+        "Lead actor",
+        "Shah Rukh Khan"
+      ],
+      [
+        "Director",
+        "Siddharth Anand"
+      ],
+      [
+        "Production",
+        "Red Chillies Entertainment and Marflix Pictures"
+      ],
+      [
+        "Wider cast",
+        "Suhana Khan, Deepika Padukone and Abhishek Bachchan among names reported by The Indian Express"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[STARS27_609]]": {
+    "caption": "The reported vow renewal: claim versus confirmation",
+    "headers": [
+      "Question",
+      "What the sources establish"
+    ],
+    "rows": [
+      [
+        "Origin of the story",
+        "A caller named Kelly on Fifi, Fev & Nick"
+      ],
+      [
+        "Claimed connection",
+        "She described herself as a relative of Censori"
+      ],
+      [
+        "Claimed timing",
+        "December 2026, not independently confirmed here"
+      ],
+      [
+        "Public confirmation",
+        "No direct announcement by the couple established in the reviewed sources"
+      ],
+      [
+        "Exact date and venue",
+        "Not verified; fan-circulated material is insufficient"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[SPORTING26_604]]": {
     "caption": "The verified essentials behind Sporting’s 1906 display",
     "headers": [
