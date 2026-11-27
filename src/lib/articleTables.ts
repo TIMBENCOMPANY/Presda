@@ -8,6 +8,198 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[VENTURES27_615]]": {
+    "caption": "The verified route from grass to ice",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "2019",
+        "Retires from professional football at the end of the season"
+      ],
+      [
+        "October 13, 2019",
+        "Competitive ice hockey debut for Guildford Phoenix"
+      ],
+      [
+        "2021/22",
+        "Helps Guildford to a treble"
+      ],
+      [
+        "2022/23",
+        "Joins Chelmsford Chieftains; Oxford City Stars follow"
+      ],
+      [
+        "November 2023",
+        "Late appearance for Belfast in a 5–1 win over Glasgow Clan"
+      ],
+      [
+        "August 19, 2024",
+        "Belfast announce his third short-term loan spell"
+      ],
+      [
+        "December 5, 2025",
+        "England Ice Hockey reports his signing for Haringey Huskies"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[VENTURES27_616]]": {
+    "caption": "Ownership milestones, with the transaction type kept clear",
+    "headers": [
+      "Date",
+      "Verified development"
+    ],
+    "rows": [
+      [
+        "September 3, 2018",
+        "Valladolid announces Ronaldo’s purchase of 51% of its shares"
+      ],
+      [
+        "December 18, 2021",
+        "Cruzeiro agreement announced for 90% of the SAF, with a R$400m investment plan"
+      ],
+      [
+        "April 8, 2022",
+        "Definitive Cruzeiro SAF contract signed"
+      ],
+      [
+        "2022 season",
+        "Cruzeiro wins Série B and returns to Brazil’s top division"
+      ],
+      [
+        "April 29, 2024",
+        "Agreement to sell Cruzeiro control to Pedro Lourenço’s investment vehicle"
+      ],
+      [
+        "May 23, 2025",
+        "Valladolid announces majority-share transfer agreement, subject to regulatory approval"
+      ],
+      [
+        "Subsequent club statement",
+        "Ignite Sports Spain and Ben Oldman identified as holders of a combined 87.62%"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[VENTURES27_617]]": {
+    "caption": "The business and sporting milestones are different records",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "2007",
+        "Manor House Stables opens for business in Cheshire"
+      ],
+      [
+        "2011",
+        "Brown Panther wins the King George V Handicap at Royal Ascot"
+      ],
+      [
+        "2013",
+        "Owen retires from professional football"
+      ],
+      [
+        "September 14, 2014",
+        "Brown Panther wins the Group 1 Irish St Leger"
+      ],
+      [
+        "March 28, 2015",
+        "Dubai Gold Cup victory; advertised first prize US$600,000 before distributions and costs"
+      ],
+      [
+        "March 2022",
+        "Hugo Palmer moves his training operation to Manor House"
+      ],
+      [
+        "Role distinction",
+        "Owen is an owner and breeder; Dascombe and Palmer are the relevant professional trainers"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[VENTURES27_618]]": {
+    "caption": "A dated expansion record, not a personal wealth estimate",
+    "headers": [
+      "Date",
+      "Documented milestone"
+    ],
+    "rows": [
+      [
+        "January 6, 2018",
+        "Podolski-linked döner opening in Cologne with partners"
+      ],
+      [
+        "2022",
+        "Brand says it opened its model to franchise partners"
+      ],
+      [
+        "2024",
+        "Berlin opening receives contemporary reporting"
+      ],
+      [
+        "May 2025",
+        "First Polish restaurant opens in Zabrze, according to Pyszne.pl"
+      ],
+      [
+        "October 28, 2025",
+        "Polish delivery partnership begins, according to the November release"
+      ],
+      [
+        "November 5, 2025",
+        "Partner release reports 34 outlets in more than 20 cities; a historical snapshot"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[VENTURES27_619]]": {
+    "caption": "The public chronology, with conflicting early dates attributed",
+    "headers": [
+      "Date",
+      "What the source establishes"
+    ],
+    "rows": [
+      [
+        "2008",
+        "The Standard’s 2015 account traces the early venture to this year"
+      ],
+      [
+        "2013",
+        "The company’s current timeline labels this its foundation year"
+      ],
+      [
+        "2015",
+        "Flamini’s business involvement is publicly reported while he is at Arsenal"
+      ],
+      [
+        "February 22, 2016",
+        "Company announcement reports acquisition of Segetis"
+      ],
+      [
+        "May 5, 2022",
+        "€15m Series A announced, led by Sofinnova with Sparta participation; Flamini appointed CEO"
+      ],
+      [
+        "Current company presentation",
+        "Flamini and Pasquale Granata named as co-founders; RE:CHEMISTRY markets plant-based ingredients"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[LEGACY27_610]]": {
     "caption": "The essential facts",
     "headers": [

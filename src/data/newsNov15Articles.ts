@@ -1,6 +1,610 @@
 import type { Article } from "@/data/articles";
 export const newsNov15Articles: Article[] = [
   {
+    "id": "615",
+    "slug": "petr-cech-football-goalkeeper-ice-hockey-career",
+    "title": "Petr Čech: From Football Goalkeeper to Ice Hockey Goaltender",
+    "seoTitle": "Petr Čech’s Ice Hockey Career: Guildford to Belfast",
+    "seoTitleAbsolute": true,
+    "metaDescription": "How Petr Čech moved from Premier League goalkeeping to competitive ice hockey, from his 2019 Guildford debut to Belfast Giants loans and Haringey.",
+    "excerpt": "How Petr Čech moved from Premier League goalkeeping to competitive ice hockey, from his 2019 Guildford debut to Belfast Giants loans and Haringey.",
+    "category": "Sport",
+    "schemaType": "Article",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/petr-cech-football-goalkeeper-ice-hockey-career.jpg",
+    "coverAlt": "AI-generated editorial illustration of Petr Čech as a hockey goaltender beside an imagined football scene",
+    "headlineHighlights": {
+      "red": "Petr Čech",
+      "gold": "Ice Hockey"
+    },
+    "tags": [
+      "Petr Čech",
+      "Ice hockey",
+      "Guildford Phoenix",
+      "Belfast Giants"
+    ],
+    "content": [
+      "Petr Čech’s first competitive ice hockey match ended in a scene football supporters could recognise: a goalkeeper facing a decisive shootout. On October 13, 2019, months after the end of his professional football career, he helped Guildford Phoenix win against a Swindon side and was named man of the match. The setting was new; the responsibility of protecting a goal was familiar. [The Standard, October 13, 2019: Guildford debut](https://www.standard.co.uk/sport/chelsea-legend-petr-cech-stars-ice-hockey-debut-for-guildford-phoenix-a4260471.html)",
+      "It was the beginning of a genuine second sporting chapter. Čech went on to play for several British hockey clubs, contribute to a Guildford treble and make a brief professional appearance with Belfast Giants. The career is remarkable precisely when its scale is kept clear: lower-tier competitive hockey and later Elite League opportunities, rather than an invented move into the NHL. [Chelmsford Chieftains: 2022/23 signing and Guildford treble](https://www.chelmsfordchieftains.com/News/NewsReport/1) [Belfast Giants, November 26, 2023: report of professional debut](https://www.belfastgiants.com/news/five-star-giants-break-losing-streak-with-victory-over-clan) [England Ice Hockey, December 5, 2025: Haringey signing](https://englandicehockey.com/ex-chelsea-and-arsenal-goalkeeper-petr-cech-finds-new-home-in-nihl/)",
+      "## How did Petr Čech become an ice hockey player?",
+      "Čech retired from professional football at the end of the 2018/19 season, then joined Guildford in October. England Ice Hockey’s account explains that he had played hockey as a youngster before focusing on football. His move was therefore a return to an early interest, undertaken after a career that had required years of specialisation in another sport. [England Ice Hockey, December 5, 2025: Haringey signing](https://englandicehockey.com/ex-chelsea-and-arsenal-goalkeeper-petr-cech-finds-new-home-in-nihl/) [Premier League, January 15, 2019: retirement announcement](https://www.premierleague.com/en/news/975480)",
+      "[[VENTURES27_615]]",
+      "## The football record he carried onto the ice",
+      "The Premier League credits Čech with 202 clean sheets in 443 appearances for Chelsea and Arsenal. He won four league titles with Chelsea and four Golden Glove awards across the two clubs. Those figures explain why a match in British hockey attracted an audience extending far beyond the local rink. They do not, by themselves, explain how to stop a puck. [Premier League: Petr Čech’s Hall of Fame record](https://www.premierleague.com/en/events/hall-of-fame/inductees/petr-cech)",
+      "The change required a different relationship with space and movement. A football goalkeeper moves across grass and judges a ball arriving through a large penalty area. A hockey goaltender must position and recover on skates, with different equipment, traffic and rebound situations. The shared job description created a connection, but the practical work still had to be learned.",
+      "### An experienced competitor, a learner in another discipline",
+      "The most interesting part of the transition is that both identities could exist together. Čech could bring the concentration and preparation of an elite footballer while accepting instruction in a different sporting environment. His established reputation gave the experiment visibility. It could not make the unfamiliar movements disappear.",
+      "That helps explain why the Guildford debut mattered beyond its result. It gave a famous former player an ordinary sporting test: train, join an existing team and perform when selected. The shootout provided a memorable ending, but the willingness to enter competition was the more lasting decision.",
+      "## Guildford was more than a one-match appearance",
+      "The October 2019 debut is sometimes remembered as a celebrity novelty. The subsequent record shows a longer commitment. Chelmsford’s own announcement for the 2022/23 season describes Čech arriving after a successful Guildford campaign in which the Phoenix won a treble. The achievement belonged to that team and its level of competition. [Chelmsford Chieftains: 2022/23 signing and Guildford treble](https://www.chelmsfordchieftains.com/News/NewsReport/1)",
+      "A treble should therefore be reported without borrowing the prestige of a different league. Its importance lies in Čech participating in a continuing club project, with teammates and seasonal objectives, rather than merely posing in hockey equipment. The period also makes clear that his second career cannot be reduced to the first viral video.",
+      "### Chelmsford and Oxford extended the route",
+      "Chelmsford Chieftains and Oxford City Stars followed Guildford in his British hockey story. England Ice Hockey’s later profile records that sequence. Moving between these clubs placed him within the sport’s own network of selection, training and team needs, where his football identity was useful publicity but not the only reason a goalkeeper was required. [Chelmsford Chieftains: 2022/23 signing and Guildford treble](https://www.chelmsfordchieftains.com/News/NewsReport/1) [England Ice Hockey, December 5, 2025: Haringey signing](https://englandicehockey.com/ex-chelsea-and-arsenal-goalkeeper-petr-cech-finds-new-home-in-nihl/)",
+      "It is more accurate to describe these as stages in a club career than as an uninterrupted climb towards global hockey stardom. Team roles and opportunities vary. A short-term requirement for experienced cover is a different proposition from being signed as a permanent first-choice player in a top league.",
+      "## What happened with Belfast Giants?",
+      "Belfast’s report, published on November 26, 2023, describes a late appearance in a 5–1 victory over Glasgow Clan. Čech replaced Tyler Beskorowany near the end; the starting netminder was credited with the win. The occasion marked Čech’s professional debut, but it was a brief contribution to a match the Giants were already winning. [Belfast Giants, November 26, 2023: report of professional debut](https://www.belfastgiants.com/news/five-star-giants-break-losing-streak-with-victory-over-clan)",
+      "That context gives the moment its proper meaning. He had reached the ice in Britain’s Elite League, a substantial step from the Guildford debut four years earlier. It was not a full-game shutout or proof that he had displaced the team’s established goalkeepers. An unusual achievement does not need an inflated match description.",
+      "### Loans were part of the story",
+      "On August 19, 2024, the Giants announced another short-term loan while Jackson Whistle was on international duty. The club identified it as Čech’s third loan spell, following two during the previous season. The announcement shows a practical relationship built around temporary squad needs and a player who could contribute to the group’s preparation. [Belfast Giants, August 19, 2024: third loan spell](https://www.belfastgiants.com/news/petr-cech-returns-2024-25)",
+      "Head coach Adam Keefe’s assessment in that announcement emphasised Čech’s work on the ice and value around the squad. That is a more revealing measure of the later chapter than fame alone: a coaching staff was discussing what he brought to a hockey team, not simply recalling his football honours. [Belfast Giants, August 19, 2024: third loan spell](https://www.belfastgiants.com/news/petr-cech-returns-2024-25)",
+      "## Haringey and the value of a dated career record",
+      "England Ice Hockey reported his signing for Haringey Huskies on December 5, 2025. Its account linked the move with player-coach James Pentecost, a former Chelmsford teammate. The connection illustrates how relationships formed in the second sport could create further opportunities within it. [England Ice Hockey, December 5, 2025: Haringey signing](https://englandicehockey.com/ex-chelsea-and-arsenal-goalkeeper-petr-cech-finds-new-home-in-nihl/)",
+      "This is a dated milestone, rather than a promise about future selections or a permanent description of his playing status. For an evergreen profile, the sequence of documented commitments is more useful than treating every signing announcement as the beginning of an unlimited new professional contract.",
+      "## Why the distinction between the leagues matters",
+      "The Elite Ice Hockey League is a British competition. It is not the North American NHL, and an appearance in one should not be described as participation in the other. Likewise, Čech’s first competitive game in 2019 and the professional debut identified by Belfast in 2023 are separate milestones, both worth recognising.",
+      "The comparison with [Fabien Barthez’s racing career](/articles/fabien-barthez-world-cup-gt-racing-le-mans/) is instructive. In both cases, the later sport has its own classifications and standards. [Eric Cantona’s work in cinema](/articles/eric-cantona-football-cinema-acting-career/) offers another kind of reinvention, where a recognisable name enters a profession that asks different things of it.",
+      "## A second sporting life with its own meaning",
+      "The supplied hero is an AI-generated editorial illustration combining football and hockey imagery. It does not document a particular appearance, an authenticated uniform or a match result. The evidence is in club reports, the league record and contemporary coverage of his debut.",
+      "Čech’s hockey story is ultimately about remaining willing to compete after already achieving distinction elsewhere. A decisive shootout, a team treble, a late Elite League appearance and further club commitments form a real record. They show the value of starting again without requiring the second career to match the first in fame."
+    ],
+    "references": [
+      {
+        "name": "Premier League: Petr Čech’s Hall of Fame record",
+        "url": "https://www.premierleague.com/en/events/hall-of-fame/inductees/petr-cech"
+      },
+      {
+        "name": "The Standard, October 13, 2019: Guildford debut",
+        "url": "https://www.standard.co.uk/sport/chelsea-legend-petr-cech-stars-ice-hockey-debut-for-guildford-phoenix-a4260471.html"
+      },
+      {
+        "name": "Chelmsford Chieftains: 2022/23 signing and Guildford treble",
+        "url": "https://www.chelmsfordchieftains.com/News/NewsReport/1"
+      },
+      {
+        "name": "Belfast Giants, November 26, 2023: report of professional debut",
+        "url": "https://www.belfastgiants.com/news/five-star-giants-break-losing-streak-with-victory-over-clan"
+      },
+      {
+        "name": "Belfast Giants, August 19, 2024: third loan spell",
+        "url": "https://www.belfastgiants.com/news/petr-cech-returns-2024-25"
+      },
+      {
+        "name": "England Ice Hockey, December 5, 2025: Haringey signing",
+        "url": "https://englandicehockey.com/ex-chelsea-and-arsenal-goalkeeper-petr-cech-finds-new-home-in-nihl/"
+      },
+      {
+        "name": "Premier League, January 15, 2019: retirement announcement",
+        "url": "https://www.premierleague.com/en/news/975480"
+      }
+    ],
+    "relatedSlugs": [
+      "fabien-barthez-world-cup-gt-racing-le-mans",
+      "eric-cantona-football-cinema-acting-career",
+      "michael-owen-horse-racing-manor-house-stables"
+    ],
+    "faq": [
+      {
+        "question": "Did Petr Čech really play competitive ice hockey?",
+        "answer": "Yes. He debuted for Guildford Phoenix on October 13, 2019 and later played for other British clubs, including an Elite League appearance with Belfast Giants."
+      },
+      {
+        "question": "Was the 2019 match his professional Elite League debut?",
+        "answer": "No. It was his competitive debut with Guildford. Belfast’s club record identifies his professional debut in November 2023."
+      },
+      {
+        "question": "Did he become an NHL player?",
+        "answer": "No. The documented career is in British ice hockey. The Elite Ice Hockey League is distinct from the North American NHL."
+      },
+      {
+        "question": "What was his Premier League clean-sheet record?",
+        "answer": "The Premier League records 202 clean sheets in 443 appearances, across Chelsea and Arsenal."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "616",
+    "slug": "ronaldo-nazario-club-owner-valladolid-cruzeiro-history",
+    "title": "Ronaldo Nazário: From Football Legend to Club Owner",
+    "seoTitle": "Ronaldo Nazário’s Club Ownership: Valladolid and Cruzeiro",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Ronaldo’s ownership years at Valladolid and Cruzeiro, from 51% and 90% stakes to the 2024 and 2025 exits. The deals, investment plans and sporting outcomes.",
+    "excerpt": "Ronaldo’s ownership years at Valladolid and Cruzeiro, from 51% and 90% stakes to the 2024 and 2025 exits. The deals, investment plans and sporting outcomes.",
+    "category": "Business",
+    "schemaType": "Article",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/ronaldo-nazario-club-owner-valladolid-cruzeiro-history.jpg",
+    "coverAlt": "AI-generated editorial illustration imagining Ronaldo Nazário in a football stadium directors’ area",
+    "headlineHighlights": {
+      "red": "Ronaldo Nazário",
+      "gold": "Club Owner"
+    },
+    "tags": [
+      "Ronaldo Nazário",
+      "Real Valladolid",
+      "Cruzeiro SAF",
+      "Football ownership"
+    ],
+    "content": [
+      "On September 3, 2018, Ronaldo Nazário crossed a boundary within the sport that had made him famous. Real Valladolid announced that the former Brazil striker had purchased 51% of its shares from Carlos Suárez. He was becoming a controlling shareholder, with responsibilities that extended beyond a result on the pitch to budgets, appointments and the direction of an institution. [Real Valladolid, September 3, 2018: 51% acquisition](https://www.realvalladolid.es/noticias/ronaldo-nazrio-nuevo-accionista-mayoritario-del-real-valladolid)",
+      "The venture later expanded to Cruzeiro, the Brazilian club associated with his early playing career. It also ended in changes of control: a Cruzeiro sale agreement in April 2024 and a Valladolid transfer agreement announced in May 2025. An evergreen account must include those exits, rather than preserve a dated picture of Ronaldo as the incumbent owner of both clubs. [Globo, April 29, 2024: Cruzeiro sale agreement](https://ge.globo.com/google/amp/futebol/times/cruzeiro/noticia/2024/04/29/ronaldo-assina-acordo-com-empresario-e-cruzeiro-e-a-primeira-saf-revendida-no-brasil.ghtml) [Real Valladolid, May 23, 2025: ownership transfer agreement](https://www.realvalladolid.es/noticias/comunicado-oficial-real-valladolid-club-de-futbol)",
+      "## What did Ronaldo actually buy?",
+      "At Valladolid, the original transaction was a 51% shareholding in the Spanish club. At Cruzeiro, his investment structure took control of 90% of the SAF, the football company, while the association retained 10%. These were ownership interests in specific organisations, not interchangeable purchases of everything associated with a club’s name and history. [Real Valladolid, September 3, 2018: 51% acquisition](https://www.realvalladolid.es/noticias/ronaldo-nazrio-nuevo-accionista-mayoritario-del-real-valladolid) [Globo, April 14, 2022: club confirms contract signed April 8](https://ge.globo.com/futebol/times/cruzeiro/noticia/2022/04/14/ronaldo-assina-contrato-e-oficializa-compra-da-saf-do-cruzeiro-honrado-por-liderar-o-processo.ghtml) [Globo, April 30, 2024: investment structure and farewell](https://ge.globo.com/futebol/times/cruzeiro/noticia/2024/04/30/ronaldo-se-despede-do-cruzeiro-nas-redes-sociais.ghtml)",
+      "[[VENTURES27_616]]",
+      "## Valladolid: a famous name meets a club’s operating reality",
+      "The 2018 announcement gave Valladolid a globally recognised investor. It did not give the club the sporting resources of every team Ronaldo had played for. A shareholder still had to work within the institution’s income, costs and competitive position. The relevant change was control of decisions and exposure to their consequences, rather than the transfer of a player’s achievements into a balance sheet.",
+      "The timing also matters. Valladolid had already won promotion before the September takeover. That earlier achievement should not be credited to his ownership. The project began with a newly promoted club and the question of how to build continuity in the top division, rather than with a promotion he had personally delivered. [Real Valladolid, September 3, 2018: 51% acquisition](https://www.realvalladolid.es/noticias/ronaldo-nazrio-nuevo-accionista-mayoritario-del-real-valladolid)",
+      "### Promotion and relegation changed the business environment",
+      "The subsequent sporting sequence was unstable: relegation in 2021, promotion in 2022, relegation in 2023, promotion in 2024 and another drop in 2025. That record, summarised by El País, is an essential counterweight to a simple story of a football legend buying a club and automatically making it successful. [El País, April 24, 2025: Valladolid’s promotion and relegation sequence](https://elpais.com/deportes/futbol/2025-04-24/el-entierro-anunciado-del-real-valladolid-del-ausente-ronaldo.html)",
+      "Movement between divisions affects the conditions in which a club plans. Expectations, squad decisions and the visibility offered to sponsors all depend partly on sporting status. An owner must therefore make decisions before the next season’s results are known. Famous judgement as a player cannot remove that uncertainty.",
+      "## Cruzeiro was a different kind of ownership challenge",
+      "The agreement announced on December 18, 2021 concerned 90% of Cruzeiro’s new football company and an investment plan of R$400 million. The club confirmed in an April 14 report that the definitive contract had been signed on April 8, 2022. Keeping the announcement and the signed contract separate avoids compressing a developing transaction into one unexplained date. [Globo, December 18, 2021: Cruzeiro agreement and investment plan](https://ge.globo.com/google/amp/futebol/times/cruzeiro/noticia/ronaldo-fenomeno-confirma-compra-do-cruzeiro.ghtml) [Globo, April 14, 2022: club confirms contract signed April 8](https://ge.globo.com/futebol/times/cruzeiro/noticia/2022/04/14/ronaldo-assina-contrato-e-oficializa-compra-da-saf-do-cruzeiro-honrado-por-liderar-o-processo.ghtml)",
+      "The distinction between the football company and the association is equally important. Cruzeiro’s continuing association retained a 10% interest. Ronaldo’s control was exercised through a corporate structure, rather than through personal ownership of the club’s supporters or an erasure of its existing identity. The structure brought investment and governance questions into a new form. [Globo, April 14, 2022: club confirms contract signed April 8](https://ge.globo.com/futebol/times/cruzeiro/noticia/2022/04/14/ronaldo-assina-contrato-e-oficializa-compra-da-saf-do-cruzeiro-honrado-por-liderar-o-processo.ghtml) [Globo, April 30, 2024: investment structure and farewell](https://ge.globo.com/futebol/times/cruzeiro/noticia/2024/04/30/ronaldo-se-despede-do-cruzeiro-nas-redes-sociais.ghtml)",
+      "### What the R$400 million figure meant",
+      "The announced R$400 million was an investment plan, not evidence that the full sum arrived as one immediate payment. Globo’s later account described a smaller initial contribution and subsequent financing. The number indicates the scale of the proposal; it does not establish the exact amount of personal cash Ronaldo ultimately put in. [Globo, April 30, 2024: investment structure and farewell](https://ge.globo.com/futebol/times/cruzeiro/noticia/2024/04/30/ronaldo-se-despede-do-cruzeiro-nas-redes-sociais.ghtml)",
+      "That difference is central to business reporting. A purchase price, a commitment to provide capital, a loan and revenue generated by the business are different flows of money. Treating them as one figure can create an imaginary fortune or a misleading impression that every promised real was already sitting in the club’s account.",
+      "## The 2022 return to the top division was a real achievement",
+      "Cruzeiro won Brazil’s Série B in 2022 and returned to the top division. The competition record provides a clear sporting milestone during the ownership period. It was a success for the team and its working organisation, rather than a result to be attributed exclusively to the person holding the controlling shares. [CBF: 2022 Brazilian Série B competition record](https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-b/2022)",
+      "That outcome also distinguishes the Brazilian project from Valladolid’s repeated changes of division. Two clubs under the same famous investor did not follow the same path. Ownership supplied a framework in which professionals worked; it did not make sporting outcomes uniform or guarantee that recovery would continue without further decisions.",
+      "## How Ronaldo’s Cruzeiro ownership ended",
+      "On April 29, 2024, Globo reported the agreement transferring control to an investment vehicle connected with businessman Pedro Lourenço. The transaction concerned the structure holding Ronaldo’s 90% interest in the SAF. It marked a change in the project’s controlling investor, not a new sale of the remaining association’s identity. [Globo, April 29, 2024: Cruzeiro sale agreement](https://ge.globo.com/google/amp/futebol/times/cruzeiro/noticia/2024/04/29/ronaldo-assina-acordo-com-empresario-e-cruzeiro-e-a-primeira-saf-revendida-no-brasil.ghtml)",
+      "The exit belongs in the story as much as the initial rescue narrative. It shows that a celebrity investor can enter, reorganise and later transfer control. Publicly reported transaction amounts should not be converted into a personal profit calculation without the actual terms, capital contributions and obligations of the companies involved.",
+      "## Valladolid’s 2025 transfer also requires two stages of evidence",
+      "Valladolid’s statement of May 23, 2025 announced an agreement to transfer the majority shareholding to a North American investment group backed by a European fund. The statement explicitly made the operation subject to authorisation from Spain’s Consejo Superior de Deportes. It was an agreement announcement, not a claim that every regulatory step had already finished that day. [Real Valladolid, May 23, 2025: ownership transfer agreement](https://www.realvalladolid.es/noticias/comunicado-oficial-real-valladolid-club-de-futbol)",
+      "Subsequent club communications identify Ignite Sports Spain and Ben Oldman Loan Partners as holders of a combined 87.62% of the shares. This later primary evidence confirms the changed ownership setting. The historical account should therefore speak of Ronaldo’s ownership years and transfer of control, rather than keep describing him as the current controlling shareholder. [Real Valladolid: subsequent statement identifying new principal shareholders](https://www.realvalladolid.es/noticias/comunicado-oficial_extraordinaria-accionistas)",
+      "## Why share ownership is different from personal wealth",
+      "A controlling stake can provide authority without turning the club’s income into the owner’s disposable money. Payroll, debt, investment requirements and the rights of other stakeholders remain part of the organisation. Nor does an undisclosed sale price become verifiable because a large number is repeated in headlines.",
+      "The same care applies to [Mathieu Flamini’s green-chemistry business](/articles/mathieu-flamini-arsenal-green-chemistry-gfbiochemicals/) and [Lukas Podolski’s restaurant network](/articles/lukas-podolski-mangal-doner-business/). A market opportunity, a network’s activity and an individual’s net worth are different subjects. This feature makes no unsupported estimate of Ronaldo’s personal fortune or profit on either club.",
+      "## A business career with results, responsibility and exits",
+      "The supplied stadium image is an AI-generated editorial illustration. It is not evidence of a particular board meeting, deal or present club position. The documented story rests on acquisition announcements, signed-transaction reporting, competition records and the clubs’ later ownership communications.",
+      "Ronaldo’s years as a club investor demonstrate both the access fame can create and the limits of sporting reputation as a business guarantee. The meaningful record includes control, an investment plan, a Brazilian promotion, repeated Spanish instability and two exits. It is a richer story than either an effortless success myth or a calculation of wealth built from unverified sale prices."
+    ],
+    "references": [
+      {
+        "name": "Real Valladolid, September 3, 2018: 51% acquisition",
+        "url": "https://www.realvalladolid.es/noticias/ronaldo-nazrio-nuevo-accionista-mayoritario-del-real-valladolid"
+      },
+      {
+        "name": "Globo, December 18, 2021: Cruzeiro agreement and investment plan",
+        "url": "https://ge.globo.com/google/amp/futebol/times/cruzeiro/noticia/ronaldo-fenomeno-confirma-compra-do-cruzeiro.ghtml"
+      },
+      {
+        "name": "Globo, April 14, 2022: club confirms contract signed April 8",
+        "url": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2022/04/14/ronaldo-assina-contrato-e-oficializa-compra-da-saf-do-cruzeiro-honrado-por-liderar-o-processo.ghtml"
+      },
+      {
+        "name": "CBF: 2022 Brazilian Série B competition record",
+        "url": "https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-b/2022"
+      },
+      {
+        "name": "Globo, April 29, 2024: Cruzeiro sale agreement",
+        "url": "https://ge.globo.com/google/amp/futebol/times/cruzeiro/noticia/2024/04/29/ronaldo-assina-acordo-com-empresario-e-cruzeiro-e-a-primeira-saf-revendida-no-brasil.ghtml"
+      },
+      {
+        "name": "Real Valladolid, May 23, 2025: ownership transfer agreement",
+        "url": "https://www.realvalladolid.es/noticias/comunicado-oficial-real-valladolid-club-de-futbol"
+      },
+      {
+        "name": "Real Valladolid: subsequent statement identifying new principal shareholders",
+        "url": "https://www.realvalladolid.es/noticias/comunicado-oficial_extraordinaria-accionistas"
+      },
+      {
+        "name": "El País, April 24, 2025: Valladolid’s promotion and relegation sequence",
+        "url": "https://elpais.com/deportes/futbol/2025-04-24/el-entierro-anunciado-del-real-valladolid-del-ausente-ronaldo.html"
+      },
+      {
+        "name": "Globo, April 30, 2024: investment structure and farewell",
+        "url": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2024/04/30/ronaldo-se-despede-do-cruzeiro-nas-redes-sociais.ghtml"
+      }
+    ],
+    "relatedSlugs": [
+      "david-beckham-billion-dollar-fortune-business-empire",
+      "mathieu-flamini-arsenal-green-chemistry-gfbiochemicals",
+      "lukas-podolski-mangal-doner-business"
+    ],
+    "faq": [
+      {
+        "question": "Which clubs did Ronaldo Nazário control?",
+        "answer": "He became Valladolid’s majority shareholder in 2018 and acquired control of 90% of Cruzeiro SAF through his investment structure. The ownership story includes later exits."
+      },
+      {
+        "question": "Does the article describe him as their current controlling owner?",
+        "answer": "No. The Cruzeiro sale agreement was announced in April 2024 and the Valladolid transfer agreement in May 2025. Later Valladolid communications identify new principal shareholders."
+      },
+      {
+        "question": "Was the R$400m Cruzeiro figure an immediate cash payment?",
+        "answer": "It was announced as an investment plan. Later reporting described a smaller initial contribution and subsequent funding, so it should not be treated as an immediate single cheque."
+      },
+      {
+        "question": "Can his profit be calculated from the headline deal figures?",
+        "answer": "Not reliably. A profit calculation would require verified purchase and sale terms, capital contributions, debts, fees and the relevant holding-company accounts."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "617",
+    "slug": "michael-owen-horse-racing-manor-house-stables",
+    "title": "Michael Owen’s Second Career in the Business of Horse Racing",
+    "seoTitle": "Michael Owen’s Horse Racing Business at Manor House Stables",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Inside Michael Owen’s horse racing business: Manor House’s 2007 opening, Brown Panther’s major wins, Hugo Palmer and the costs behind prize money.",
+    "excerpt": "Inside Michael Owen’s horse racing business: Manor House’s 2007 opening, Brown Panther’s major wins, Hugo Palmer and the costs behind prize money.",
+    "category": "Business",
+    "schemaType": "Article",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/michael-owen-horse-racing-manor-house-stables.jpg",
+    "coverAlt": "AI-generated editorial illustration imagining Michael Owen with a horse at a racing stable",
+    "headlineHighlights": {
+      "red": "Michael Owen",
+      "gold": "Horse Racing"
+    },
+    "tags": [
+      "Michael Owen",
+      "Manor House Stables",
+      "Brown Panther",
+      "Horse racing"
+    ],
+    "content": [
+      "Michael Owen’s second career was already under way while he was still scoring goals. Manor House Stables opened for business in Cheshire in 2007, six years before his retirement from professional football. The racing venture developed into an organisation with trainers, staff and owners of its own, rather than an activity invented to fill a sudden gap after his final match. [Thoroughbred Daily News, May 16, 2017: Manor House’s 2007 opening](https://www.thoroughbreddailynews.com/early-season-momentum-for-manor-house/) [UEFA, March 19, 2013: football retirement announcement](https://www.uefa.com/news-media/news/0253-0d7eec952d11-f14e65b31545-1000--owen-set-to-retire-at-the-end-of-the-season/)",
+      "Its best-known horse, Brown Panther, gave the project a sporting identity beyond Owen’s fame. A Royal Ascot winner in 2011, the homebred went on to win the Irish St Leger and Dubai Gold Cup. Those results are real. So is the distinction between the man investing in horses, the professionals training and riding them, and the business that provides their daily environment. [Tom Dascombe: Brown Panther’s 2011 Royal Ascot win](https://current.tomdascomberacing.com/multiple-royal-ascot-winners/) [Irishracing, September 14, 2014: Irish St Leger result](https://www.irishracing.com/news/Brown-Panther-mauls-his-rivals-in-St-Leger/79973) [Godolphin race record, March 28, 2015: Dubai Gold Cup and prize fund](https://www.godolphin.com/runners-and-results/racecard/622037)",
+      "## What does Michael Owen do in horse racing?",
+      "Owen’s central roles are owner, breeder and the figure behind Manor House Stables. He should not be described as the licensed trainer of every horse based there. Brown Panther’s major wins came with Tom Dascombe training and Richard Kingscote riding. Hugo Palmer moved his operation to Manor House in March 2022, beginning a later chapter in the yard’s history. [Irishracing, September 14, 2014: Irish St Leger result](https://www.irishracing.com/news/Brown-Panther-mauls-his-rivals-in-St-Leger/79973) [Sporting Life, April 25, 2022: Hugo Palmer’s move to Manor House](https://www.sportinglife.com/racing/news/manor-house-stables-palmer-and-owen-ready-for-chester/200280)",
+      "[[VENTURES27_617]]",
+      "## A parallel venture before retirement",
+      "Thoroughbred Daily News’s 2017 account dates the opening to 2007 and identifies Owen and Betfair co-founder Andrew Black as the owners behind the enterprise. That establishes a business partnership, not a claim that Owen personally financed every horse or owned the operation alone. The division of responsibility was part of the project from its development into a professional racing yard. [Thoroughbred Daily News, May 16, 2017: Manor House’s 2007 opening](https://www.thoroughbreddailynews.com/early-season-momentum-for-manor-house/)",
+      "Football retirement changed the time available to him, but it did not create the interest. UEFA recorded his retirement announcement in March 2013, for the end of that season. By then, Brown Panther had already delivered a Royal Ascot success. The two careers overlapped before racing became the more enduring competitive focus. [Tom Dascombe: Brown Panther’s 2011 Royal Ascot win](https://current.tomdascomberacing.com/multiple-royal-ascot-winners/) [UEFA, March 19, 2013: football retirement announcement](https://www.uefa.com/news-media/news/0253-0d7eec952d11-f14e65b31545-1000--owen-set-to-retire-at-the-end-of-the-season/)",
+      "### Three roles that are easy to confuse",
+      "An owner has a financial interest in a horse. A breeder is credited with producing it. A trainer prepares horses professionally and makes the day-to-day sporting programme with a specialist team. The same person can be connected with more than one part of racing, but the titles are not interchangeable.",
+      "The Emirates Racing Authority’s record is useful here: it lists Brown Panther’s owner as A Black & Owen Promotions Ltd and breeder as Owen Promotions Ltd. The result belongs to a documented ownership structure, not simply to a celebrity’s name on a photograph. It also credits the trainer and jockey for the relevant race. [Emirates Racing Authority: Brown Panther’s owner, breeder and 2015 result](https://emiratesracing.com/horses/2066571)",
+      "## Brown Panther made the venture visible",
+      "The King George V Handicap victory at Royal Ascot in 2011 provided an early landmark. Dascombe’s own retrospective includes Brown Panther among the yard’s notable winners at the meeting. It was an important success, but it was a handicap, not the Ascot Gold Cup or a Group 1 race. Naming the event accurately preserves the horse’s actual progression. [Tom Dascombe: Brown Panther’s 2011 Royal Ascot win](https://current.tomdascomberacing.com/multiple-royal-ascot-winners/)",
+      "The Group 1 breakthrough came in the Irish St Leger on September 14, 2014. Irishracing’s contemporary report identifies Owen, Dascombe and Kingscote in their separate roles. The result gave the operation a win at the highest race classification, with a horse bred within Owen’s own racing interests. [Irishracing, September 14, 2014: Irish St Leger result](https://www.irishracing.com/news/Brown-Panther-mauls-his-rivals-in-St-Leger/79973)",
+      "### Dubai added a significant international result",
+      "On March 28, 2015, Brown Panther won the Group 2 Dubai Gold Cup at Meydan. Godolphin’s race record lists an advertised first prize of US$600,000 and records the winning connections. The Emirates Racing Authority separately confirms the win, trainer, jockey and ownership entry. [Godolphin race record, March 28, 2015: Dubai Gold Cup and prize fund](https://www.godolphin.com/runners-and-results/racecard/622037) [Emirates Racing Authority: Brown Panther’s owner, breeder and 2015 result](https://emiratesracing.com/horses/2066571)",
+      "The dollar figure is a race prize, not Owen’s personal net profit. Shares, distributions and the costs of keeping a horse in training stand between a published first prize and any owner’s final return. A major win can be commercially important without proving that a whole stable, or an owner’s lifetime involvement, is profitable.",
+      "## The business is larger than one horse’s prize money",
+      "Manor House is a training environment, while ownership and breeding create another set of financial interests around the horses. Those layers should be kept distinct. A yard can provide services to owners whose horses are trained there without the proprietor personally owning every runner. Manor House’s own winners gallery names a range of different owners. [Manor House: winners and their different owners](https://www.manorhousestables.com/winners-gallery/)",
+      "The BHA’s owners’ toolkit explains that training charges vary and that owners also face race-related costs such as transport and staff expenses. Those obligations help explain why a large prize is only one part of the economics. This article does not invent a current Manor House daily rate, annual profit or valuation. [British Horseracing Authority: owners’ costs and prize money](https://www.britishhorseracing.com/regulation/ownership/owners-toolkit/)",
+      "## Hugo Palmer’s arrival changed the training chapter",
+      "Palmer’s move from Newmarket in March 2022 brought a different trainer and team into the Cheshire base. Sporting Life’s April report describes the new partnership preparing for Chester, a nearby racecourse with obvious local importance. Manor House’s current website continues to present Palmer and Owen together. [Sporting Life, April 25, 2022: Hugo Palmer’s move to Manor House](https://www.sportinglife.com/racing/news/manor-house-stables-palmer-and-owen-ready-for-chester/200280) [Manor House Stables: current operation](https://www.manorhousestables.com/)",
+      "The appointment also requires care when reading promotional lists of winners. A trainer’s achievements before moving to a yard are part of that trainer’s career. They do not automatically become wins earned at the new property or by its owner. Brown Panther belongs to the earlier Dascombe chapter; Palmer’s later work needs its own dates and results.",
+      "## Ownership is a long sequence of decisions",
+      "The appeal of breeding is that a horse can connect years of decisions, from pedigree and early development to a racing programme. The uncertainty is that those decisions concern a living athlete. Sporting ability, soundness and the right opportunity cannot be guaranteed by a famous owner or an impressive facility.",
+      "The operation consequently depends on specialist work that is often less visible than race day: care, exercise, veterinary input, transport and the judgement of staff who see the horses regularly. The business story is not simply a comparison between football earnings and prize money. It is about maintaining an organisation capable of preparing horses and serving owners over time.",
+      "## Why a successful horse does not establish a personal fortune",
+      "Prize money is an outcome from competition. A sale price is a transaction in an asset. The valuation of a racing business is another question, and an individual’s net worth another again. None can be calculated responsibly by adding the largest visible numbers attached to the horse’s name.",
+      "That principle also explains the methodology behind [PRESDA’s guide to expensive horse sales](/articles/most-expensive-horses-auction-records/): the type of price and the evidence matter. Owen’s profile is built around documented results and roles, with no invented fortune or suggestion that the business offers guaranteed returns.",
+      "## A second career that became a continuing enterprise",
+      "The supplied image is an AI-generated editorial illustration of an imagined stable scene. The horse is not authenticated as Brown Panther or another identified runner. It provides a visual theme, while the factual record comes from racing organisations, contemporary reports and the stable’s own materials.",
+      "Like [Petr Čech’s hockey career](/articles/petr-cech-football-goalkeeper-ice-hockey-career/) and [Fabien Barthez’s move into racing cars](/articles/fabien-barthez-world-cup-gt-racing-le-mans/), Owen’s later chapter becomes more interesting when judged on its own terms. Here those terms are a working yard, shared ownership, specialist training and horses whose results created a story beyond the footballer who helped make it possible."
+    ],
+    "references": [
+      {
+        "name": "Thoroughbred Daily News, May 16, 2017: Manor House’s 2007 opening",
+        "url": "https://www.thoroughbreddailynews.com/early-season-momentum-for-manor-house/"
+      },
+      {
+        "name": "Tom Dascombe: Brown Panther’s 2011 Royal Ascot win",
+        "url": "https://current.tomdascomberacing.com/multiple-royal-ascot-winners/"
+      },
+      {
+        "name": "Irishracing, September 14, 2014: Irish St Leger result",
+        "url": "https://www.irishracing.com/news/Brown-Panther-mauls-his-rivals-in-St-Leger/79973"
+      },
+      {
+        "name": "Godolphin race record, March 28, 2015: Dubai Gold Cup and prize fund",
+        "url": "https://www.godolphin.com/runners-and-results/racecard/622037"
+      },
+      {
+        "name": "Emirates Racing Authority: Brown Panther’s owner, breeder and 2015 result",
+        "url": "https://emiratesracing.com/horses/2066571"
+      },
+      {
+        "name": "Sporting Life, April 25, 2022: Hugo Palmer’s move to Manor House",
+        "url": "https://www.sportinglife.com/racing/news/manor-house-stables-palmer-and-owen-ready-for-chester/200280"
+      },
+      {
+        "name": "Manor House Stables: current operation",
+        "url": "https://www.manorhousestables.com/"
+      },
+      {
+        "name": "British Horseracing Authority: owners’ costs and prize money",
+        "url": "https://www.britishhorseracing.com/regulation/ownership/owners-toolkit/"
+      },
+      {
+        "name": "UEFA, March 19, 2013: football retirement announcement",
+        "url": "https://www.uefa.com/news-media/news/0253-0d7eec952d11-f14e65b31545-1000--owen-set-to-retire-at-the-end-of-the-season/"
+      },
+      {
+        "name": "Manor House: winners and their different owners",
+        "url": "https://www.manorhousestables.com/winners-gallery/"
+      }
+    ],
+    "relatedSlugs": [
+      "most-expensive-horses-auction-records",
+      "petr-cech-football-goalkeeper-ice-hockey-career",
+      "fabien-barthez-world-cup-gt-racing-le-mans"
+    ],
+    "faq": [
+      {
+        "question": "Is Michael Owen a racehorse trainer?",
+        "answer": "His documented business roles are owner, breeder and the figure behind Manor House Stables. Tom Dascombe trained Brown Panther; Hugo Palmer moved to the yard in 2022."
+      },
+      {
+        "question": "Did the racing business begin after football retirement?",
+        "answer": "No. Manor House opened in 2007, while Owen was still playing. He retired from professional football in 2013."
+      },
+      {
+        "question": "What was Brown Panther’s biggest top-level win?",
+        "answer": "The 2014 Irish St Leger was his Group 1 success. Other notable wins included Royal Ascot’s King George V Handicap and the Dubai Gold Cup."
+      },
+      {
+        "question": "Was the US$600,000 Dubai first prize Owen’s personal profit?",
+        "answer": "No. It was the advertised winner’s prize for the race, before the relevant distributions and ownership costs, not a personal net-income figure."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "618",
+    "slug": "lukas-podolski-mangal-doner-business",
+    "title": "How Lukas Podolski Helped Build the Mangal Döner Business",
+    "seoTitle": "Lukas Podolski’s Mangal Döner Business and Franchise Growth",
+    "seoTitleAbsolute": true,
+    "metaDescription": "From a Cologne opening in 2018 to franchising and Poland: how Lukas Podolski’s Mangal partnership grew, with dated figures and no invented fortune.",
+    "excerpt": "From a Cologne opening in 2018 to franchising and Poland: how Lukas Podolski’s Mangal partnership grew, with dated figures and no invented fortune.",
+    "category": "Business",
+    "schemaType": "Article",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/lukas-podolski-mangal-doner-business.jpg",
+    "coverAlt": "AI-generated editorial illustration imagining Lukas Podolski beside a döner counter",
+    "headlineHighlights": {
+      "red": "Lukas Podolski",
+      "gold": "Mangal Döner"
+    },
+    "tags": [
+      "Lukas Podolski",
+      "Mangal Döner",
+      "Franchising",
+      "Restaurant business"
+    ],
+    "content": [
+      "A footballer’s name can fill the pavement outside a new restaurant. The more difficult business question is whether customers will return when the cameras and the player have gone. Lukas Podolski’s involvement with Mangal Döner developed around that challenge: using a recognisable sporting identity to draw attention, then building a food business that could operate across locations and partners.",
+      "The documented starting point for the Podolski-linked project is Cologne in January 2018. Sky’s contemporary coverage named three partners: Podolski, Metin Dağ and Salih Dağ. SID reported the opening on January 6. This was a shared venture in an established food culture, not evidence that the footballer invented the döner or created every part of the operation himself. [Sky Sport, January 4, 2018: opening and three partners](https://sport.sky.de/fussball/artikel/podolski-macht-doenerladen-auf/11194967/34240) [SID Sportnews, January 6, 2018: Cologne opening footage and report](https://www.youtube.com/watch?v=MAiZOLGq20E)",
+      "## What business did Podolski help build?",
+      "Mangal x LP10 became a branded restaurant network with a franchise model. Its own franchise page says that it opened the system to partners in 2022. The shift matters because expansion through franchisees is different from one individual personally owning and running every shop. A common name can connect businesses with distinct operators and responsibilities. [Mangal x LP10: franchise model and 2022 opening to partners](https://mangal-lp10.de/franchise/)",
+      "[[VENTURES27_618]]",
+      "## Why Cologne made sense as a starting point",
+      "The opening brought Podolski’s public identity into a familiar setting: a city with which he had a strong football association and a food format aimed at everyday customers. The proposition was accessible without requiring diners to understand a celebrity investment story. They could judge a meal, a price, a queue and the service in front of them.",
+      "Cologne’s city portal describes Mangal as a döner business with Podolski involved behind the scenes, alongside his separate connection with Ice Cream United. It also identifies restaurants beyond the first Cologne address. That local account places the venture in the city’s actual food scene, rather than treating a footballer’s image as the whole product. [Cologne city portal: Mangal’s restaurants and franchise format](https://www.koeln.de/leben/ll/imbisse-und-fast-food-in-koeln/mangal-doener/)",
+      "### The partners belong in the story",
+      "The opening coverage identifies the Dağ partners alongside Podolski. Their presence prevents a familiar distortion in celebrity business profiles, where the best-known participant absorbs the work of everyone else. The public figure supplies recognition; building a restaurant operation also requires people who understand premises, supply, staff and service. [Sky Sport, January 4, 2018: opening and three partners](https://sport.sky.de/fussball/artikel/podolski-macht-doenerladen-auf/11194967/34240)",
+      "This distinction does not diminish Podolski’s role. It explains a way sporting reputation can be used commercially: not as a substitute for an operating business, but as one contribution to a partnership. The company’s later franchise materials put the combination of brand and system at the centre of the offer. [Mangal x LP10: franchise model and 2022 opening to partners](https://mangal-lp10.de/franchise/)",
+      "## From an opening event to a repeatable format",
+      "A single restaurant can depend heavily on the judgement of the people present every day. A network has to reproduce a recognisable experience across different teams and locations. For a döner business, that makes preparation, supply, service speed and consistency important parts of the proposition, alongside the brand on the sign.",
+      "These are operating requirements rather than a claim that every branch performs equally well. A famous name raises expectations and can make a disappointing visit more visible. The repeat purchase is therefore a useful test of the model: a diner has to find enough value in the experience to come back without an opening-day appearance by the footballer.",
+      "### What changed with franchising in 2022?",
+      "The brand’s franchise page dates its opening to partners to 2022. That provides a concrete expansion milestone. It describes an opportunity to join a system, rather than simply buy a meal from a celebrity-owned counter. The relationship brings the brand’s requirements into contact with another operator’s investment and daily management. [Mangal x LP10: franchise model and 2022 opening to partners](https://mangal-lp10.de/franchise/)",
+      "Franchising also changes how scale should be read. More outlets can mean a larger network without implying that all the property, equipment, revenue or profit belongs personally to Podolski. The economics of the brand and those of an individual franchise outlet are related but separate questions.",
+      "## Berlin and Poland show the move beyond the first market",
+      "Tagesspiegel’s 2024 opening report from Berlin described Podolski and business partner Metin Dağ taking the concept into another major city. It is evidence of expansion at that time, not a guarantee that a particular address remains open indefinitely. Restaurant networks change, and an evergreen account needs to keep opening coverage attached to its date. [Tagesspiegel, 2024: Berlin opening with business partner Metin Dağ](https://www.tagesspiegel.de/berlin/ich-bin-von-meinem-doner-uberzeugt-rund-300-menschen-stehen-schlange-vor-podolskis-kreuzberger-kebab-bude-11305564.html)",
+      "The Polish step is documented by a commercial partner. Pyszne.pl’s November 5, 2025 announcement says that the first Polish restaurant opened in Zabrze in May 2025. It also reported a delivery partnership beginning on October 28. Those are two different developments: entering a market with a physical restaurant and adding a distribution channel for orders. [Just Eat Takeaway/Pyszne.pl, November 5, 2025: Poland expansion, delivery and dated network count](https://newsroom.justeattakeaway.com/pl-PL/256677-lukas-podolski-podpisuje-kontrakt-z-pyszne-pl-mangal-doner-od-teraz-w-dostawie-na-wylacznosc/)",
+      "## How big was the business in the dated announcement?",
+      "The same partner release reported 34 outlets in more than 20 cities. That is a useful historical snapshot, explicitly attributed to the November 2025 announcement. It is not presented here as an independently audited current count, a statement that Podolski personally owned every outlet or a measure of his personal wealth. [Just Eat Takeaway/Pyszne.pl, November 5, 2025: Poland expansion, delivery and dated network count](https://newsroom.justeattakeaway.com/pl-PL/256677-lukas-podolski-podpisuje-kontrakt-z-pyszne-pl-mangal-doner-od-teraz-w-dostawie-na-wylacznosc/)",
+      "The distinction makes the number more informative, not less. A dated footprint shows the distance travelled from the initial Cologne project. It does not answer every question about current openings, closures or the financial results of individual franchisees. Those require different records and a defined reporting period.",
+      "## Delivery adds reach and a different operating challenge",
+      "The Pyszne.pl partnership is an example of how expansion can happen without another shop opening on the same day. Delivery makes the restaurant accessible to customers who do not enter the premises. It also adds a handover between kitchen, packaging, platform and courier that has to work for the food to arrive as expected. [Just Eat Takeaway/Pyszne.pl, November 5, 2025: Poland expansion, delivery and dated network count](https://newsroom.justeattakeaway.com/pl-PL/256677-lukas-podolski-podpisuje-kontrakt-z-pyszne-pl-mangal-doner-od-teraz-w-dostawie-na-wylacznosc/)",
+      "That is a different task from attracting supporters to an opening. The customer is evaluating a meal and a service at home. The business value of celebrity visibility therefore has to be supported by everyday execution, whether the order is eaten at the counter or delivered through another company’s app.",
+      "## Why the word “empire” needs a financial definition",
+      "The network can reasonably be described as an expanding business venture. It should not become an unsupported estimate of a fortune. Sales across franchise restaurants are not automatically the brand company’s revenue, and company revenue is not the same as the personal profit of one partner.",
+      "This feature therefore gives the verified opening dates, named partners and dated network figure, while making no invented claim about annual profit, ownership percentages in every outlet or Podolski’s net worth. The same discipline applies to [Ronaldo’s club ownership](/articles/ronaldo-nazario-club-owner-valladolid-cruzeiro-history/) and [Mathieu Flamini’s chemistry venture](/articles/mathieu-flamini-arsenal-green-chemistry-gfbiochemicals/).",
+      "## A food business that has to work after the applause",
+      "The supplied hero is an AI-generated editorial illustration. It is not a photograph of a verified branch, an actual opening or Podolski serving customers on a particular day. The underlying evidence comes from contemporary reporting, the brand’s franchise materials and a dated partner announcement.",
+      "The lasting business story is the movement from a shared Cologne opening to a model designed for different operators and markets. Podolski’s name helps the audience notice it. The commercial test is whether the partnership, the system and the people making the food can turn that attention into a dependable reason to order again."
+    ],
+    "references": [
+      {
+        "name": "Sky Sport, January 4, 2018: opening and three partners",
+        "url": "https://sport.sky.de/fussball/artikel/podolski-macht-doenerladen-auf/11194967/34240"
+      },
+      {
+        "name": "SID Sportnews, January 6, 2018: Cologne opening footage and report",
+        "url": "https://www.youtube.com/watch?v=MAiZOLGq20E"
+      },
+      {
+        "name": "Mangal x LP10: franchise model and 2022 opening to partners",
+        "url": "https://mangal-lp10.de/franchise/"
+      },
+      {
+        "name": "Just Eat Takeaway/Pyszne.pl, November 5, 2025: Poland expansion, delivery and dated network count",
+        "url": "https://newsroom.justeattakeaway.com/pl-PL/256677-lukas-podolski-podpisuje-kontrakt-z-pyszne-pl-mangal-doner-od-teraz-w-dostawie-na-wylacznosc/"
+      },
+      {
+        "name": "Cologne city portal: Mangal’s restaurants and franchise format",
+        "url": "https://www.koeln.de/leben/ll/imbisse-und-fast-food-in-koeln/mangal-doener/"
+      },
+      {
+        "name": "Mangal x LP10: brand and restaurant network",
+        "url": "https://mangal-lp10.de/"
+      },
+      {
+        "name": "Tagesspiegel, 2024: Berlin opening with business partner Metin Dağ",
+        "url": "https://www.tagesspiegel.de/berlin/ich-bin-von-meinem-doner-uberzeugt-rund-300-menschen-stehen-schlange-vor-podolskis-kreuzberger-kebab-bude-11305564.html"
+      }
+    ],
+    "relatedSlugs": [
+      "ronaldo-nazario-club-owner-valladolid-cruzeiro-history",
+      "mathieu-flamini-arsenal-green-chemistry-gfbiochemicals",
+      "david-beckham-billion-dollar-fortune-business-empire"
+    ],
+    "faq": [
+      {
+        "question": "When did Podolski’s döner venture open?",
+        "answer": "The Cologne opening associated with Podolski and his partners took place on January 6, 2018, documented by contemporary reporting."
+      },
+      {
+        "question": "Who were the partners?",
+        "answer": "Sky’s opening coverage named Podolski, Metin Dağ and Salih Dağ. The story is a partnership, not a claim that Podolski built every part alone."
+      },
+      {
+        "question": "When did the brand open to franchising?",
+        "answer": "Its own franchise page says it opened the model to franchise partners in 2022."
+      },
+      {
+        "question": "How large was the network in the cited 2025 announcement?",
+        "answer": "The November 5, 2025 Pyszne.pl release reported 34 outlets in more than 20 cities. That is a dated partner statement, not a verified current total or personal wealth figure."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
+    "id": "619",
+    "slug": "mathieu-flamini-arsenal-green-chemistry-gfbiochemicals",
+    "title": "Mathieu Flamini: From Arsenal to Green Chemistry",
+    "seoTitle": "Mathieu Flamini’s Green Chemistry Business, Explained",
+    "seoTitleAbsolute": true,
+    "metaDescription": "Inside GFBiochemicals: Mathieu Flamini’s partnership with Pasquale Granata, levulinate ingredients and the verified €15m funding round, beyond wealth myths.",
+    "excerpt": "Inside GFBiochemicals: Mathieu Flamini’s partnership with Pasquale Granata, levulinate ingredients and the verified €15m funding round, beyond wealth myths.",
+    "category": "Business",
+    "schemaType": "Article",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27",
+    "author": "PRESDA Editorial",
+    "status": "published",
+    "heroPreserveAspect": true,
+    "coverImage": "/articles/mathieu-flamini-arsenal-green-chemistry-gfbiochemicals.jpg",
+    "coverAlt": "AI-generated editorial illustration imagining Mathieu Flamini in a chemistry production setting",
+    "headlineHighlights": {
+      "red": "Mathieu Flamini",
+      "gold": "Green Chemistry"
+    },
+    "tags": [
+      "Mathieu Flamini",
+      "GFBiochemicals",
+      "Green chemistry",
+      "Levulinates"
+    ],
+    "content": [
+      "Mathieu Flamini’s business story became public while he was still an Arsenal midfielder. In 2015, reporting revealed a venture developed with Pasquale Granata around bio-based chemicals. It was an unusual parallel career: not a restaurant or a product carrying a footballer’s signature, but an attempt to sell industrial ingredients to companies making other products. [The Standard, December 1, 2015: early venture account](https://app.standard.co.uk/sport/football/arsenal-midfielder-mathieu-flamini-proud-and-excited-about-ps200m-gf-biochemicals-business-project-a3127046.html)",
+      "The enterprise is GFBiochemicals, whose current presentation identifies Flamini as co-founder and chief executive. The most useful verified financial milestone is a €15 million Series A announced in May 2022. That is money raised by a company for its development, not proof of a personal fortune. Understanding the chemistry and the commercial model produces a better story than repeating wealth rankings. [GFBiochemicals: current company history and leadership](https://www.gfbiochemicals.com/company) [Sofinnova Partners, May 5, 2022: €15m Series A and CEO appointment](https://sofinnovapartners.com/news/gfbiochemicals-raises-eur15m-series-a-advance-mission-end-chemical)",
+      "## What does GFBiochemicals actually do?",
+      "The company develops levulinate technologies and derivatives, using bio-based chemistry for ingredients intended to replace selected petrochemical components. Its RE:CHEMISTRY brand markets products for uses including coatings, cleaning formulations and personal care. These are business-to-business ingredients: the customer may be a manufacturer whose finished product carries an entirely different brand. [GFBiochemicals: current company history and leadership](https://www.gfbiochemicals.com/company) [RE:CHEMISTRY: products and application markets](https://www.re-chemistry.com/)",
+      "[[VENTURES27_619]]",
+      "## The early timeline has two dates that should not be blurred",
+      "The Standard’s December 2015 account traced the venture with Granata to 2008. That was the year Flamini agreed to leave Arsenal for AC Milan, a move documented by UEFA. The business interest therefore overlapped his playing career, rather than appearing only after his retirement. [The Standard, December 1, 2015: early venture account](https://app.standard.co.uk/sport/football/arsenal-midfielder-mathieu-flamini-proud-and-excited-about-ps200m-gf-biochemicals-business-project-a3127046.html) [UEFA, May 5, 2008: Arsenal to AC Milan move](https://www.uefa.com/news-media/news/01cd-0e6f5d30af66-746fbfcba603-1000--flamini-agrees-to-milan-move/)",
+      "The company’s current timeline, however, labels 2013 as its foundation year. This feature retains both attributions. It does not turn the difference into an invented legal incorporation date or claim that the sources provide an explanation they do not. The secure narrative is that the work preceded its public football-news profile in 2015. [GFBiochemicals: current company history and leadership](https://www.gfbiochemicals.com/company) [The Standard, December 1, 2015: early venture account](https://app.standard.co.uk/sport/football/arsenal-midfielder-mathieu-flamini-proud-and-excited-about-ps200m-gf-biochemicals-business-project-a3127046.html)",
+      "### The co-founder and the specialist organisation",
+      "Granata belongs in the account alongside Flamini. The company is presented as a joint entrepreneurial undertaking, supported by research, development and industrial work. Describing a footballer as its co-founder does not mean that he personally invented every process or performed every experiment. [GFBiochemicals: current company history and leadership](https://www.gfbiochemicals.com/company)",
+      "That division of roles is central to the business. A public-facing founder can attract attention and build relationships, while scientific and operational teams have to make the proposition work. The commercial product is an ingredient with a specified application, not the fame of the person introducing the company.",
+      "## From a molecule to products another manufacturer can use",
+      "Levulinic chemistry offers a platform from which different ingredients can be developed. RE:CHEMISTRY’s own product presentation includes ethyl and butyl levulinate, alongside other derivatives. The brand describes uses across several industrial markets. These descriptions establish what the company is offering; they should not be rewritten as independent proof that every application performs identically. [RE:CHEMISTRY: products and application markets](https://www.re-chemistry.com/)",
+      "For a potential industrial customer, the practical questions are concrete. Does the ingredient perform the required function? Can it fit into the formulation, the production process and the supply chain at an acceptable cost? Those questions help explain why industrial chemistry is a different entrepreneurial task from launching a consumer product to an existing fan base.",
+      "### Why the Segetis step mattered",
+      "In February 2016, a GFBiochemicals announcement carried by Biomass Magazine reported the acquisition of Segetis. The move placed the business story in the context of expansion through another chemistry company, rather than only through publicity surrounding Flamini’s football career. The announcement is a dated corporate source, not a disclosed calculation of the acquisition’s eventual profitability. [GFBiochemicals announcement carried by Biomass Magazine, February 22, 2016: Segetis acquisition](https://biomassmagazine.com/articles/gfbiochemicals-acquires-segetis-enters-us-market-12941)",
+      "The strategic idea is understandable: a platform molecule becomes more commercially useful when it connects with ingredients and applications customers can adopt. Owning or developing technology is one step; turning it into a reliable offering for manufacturers is another. The later product range gives that distinction a visible form.",
+      "## The verified €15 million funding round",
+      "On May 5, 2022, Sofinnova Partners announced a €15 million Series A led by its firm, with participation from Sparta Capital. The same release identified Flamini as newly appointed CEO. It is a clear, dated milestone linking external investment with a new leadership phase. [Sofinnova Partners, May 5, 2022: €15m Series A and CEO appointment](https://sofinnovapartners.com/news/gfbiochemicals-raises-eur15m-series-a-advance-mission-end-chemical)",
+      "The announced uses included research and development, strategic partnerships, manufacturing development and commercial hiring. These were plans for the funding, not a declaration that every future facility or sales target had already been achieved. The money was raised for the business’s next stage, and the release did not establish Flamini’s personal bank balance. [Sofinnova Partners, May 5, 2022: €15m Series A and CEO appointment](https://sofinnovapartners.com/news/gfbiochemicals-raises-eur15m-series-a-advance-mission-end-chemical)",
+      "## Market size is not company value or personal wealth",
+      "The most persistent distortion of Flamini’s story has been the conversion of a large market opportunity into a personal fortune. beIN Sports reported his explanation that the widely repeated €30 billion figure described the market the technology aimed to address, not money he held. That clarification should not be lost when the story is retold. [beIN Sports: Flamini explains market size versus personal wealth](https://www.beinsports.com/en-mena/football/articles/flamini-i-dont-have-e30billion-in-my-bank-a-1)",
+      "A market is the wider opportunity in which many businesses may compete. A company’s revenue is its own activity; valuation concerns what investors or buyers might pay for it; a founder’s wealth depends on their interests and other assets and liabilities. A funding round supplies another measure again. None of those numbers can simply stand in for all the others.",
+      "## What “green chemistry” does and does not establish",
+      "The US Environmental Protection Agency describes green chemistry as designing chemical products and processes to reduce or eliminate hazardous substances across their life cycle. Its principles include renewable feedstocks, safer chemistry, waste prevention and energy efficiency. That framework is broader than the single fact that an ingredient has a plant-based origin. [US Environmental Protection Agency: principles of green chemistry](https://www.epa.gov/greenchemistry/basics-green-chemistry)",
+      "This matters when reporting company claims. Feedstock origin, safety in a particular application and environmental performance over a product’s life are related but distinct questions. This feature therefore attributes the company’s product goals and does not claim that every molecule is harmless, every process carbon-neutral or the entire petroleum industry already replaced.",
+      "## A commercial challenge beyond celebrity recognition",
+      "Flamini’s later role involves building an organisation that must satisfy industrial customers. A founder’s visibility can open a conversation; continued business requires an offering the customer can use. Performance, availability, price and the ability to support adoption become part of the practical test.",
+      "That gives the story a different shape from [Lukas Podolski’s restaurant network](/articles/lukas-podolski-mangal-doner-business/) or [Ronaldo’s club ownership](/articles/ronaldo-nazario-club-owner-valladolid-cruzeiro-history/). Each involves translating sporting reputation into another setting, but the operating model and the evidence of success differ. There is no useful single league table of wealth to be manufactured from them.",
+      "## A second career best judged by its actual work",
+      "The supplied hero is an AI-generated editorial illustration. Its laboratory and equipment are imagined, not photographs of an authenticated GFBiochemicals facility or a particular experiment. The factual account comes from the company’s current materials, dated investor announcements, contemporary reporting and an independent public framework for green chemistry.",
+      "Flamini’s business career is substantial enough without an invented billionaire label. It includes a co-founder partnership, a documented product focus, a corporate acquisition announcement, external funding and a chief executive role. The enduring question is how that organisation turns chemistry into products manufacturers adopt, not how large a fortune can be inferred from the biggest number in a headline."
+    ],
+    "references": [
+      {
+        "name": "GFBiochemicals: current company history and leadership",
+        "url": "https://www.gfbiochemicals.com/company"
+      },
+      {
+        "name": "Sofinnova Partners, May 5, 2022: €15m Series A and CEO appointment",
+        "url": "https://sofinnovapartners.com/news/gfbiochemicals-raises-eur15m-series-a-advance-mission-end-chemical"
+      },
+      {
+        "name": "The Standard, December 1, 2015: early venture account",
+        "url": "https://app.standard.co.uk/sport/football/arsenal-midfielder-mathieu-flamini-proud-and-excited-about-ps200m-gf-biochemicals-business-project-a3127046.html"
+      },
+      {
+        "name": "GFBiochemicals announcement carried by Biomass Magazine, February 22, 2016: Segetis acquisition",
+        "url": "https://biomassmagazine.com/articles/gfbiochemicals-acquires-segetis-enters-us-market-12941"
+      },
+      {
+        "name": "RE:CHEMISTRY: products and application markets",
+        "url": "https://www.re-chemistry.com/"
+      },
+      {
+        "name": "US Environmental Protection Agency: principles of green chemistry",
+        "url": "https://www.epa.gov/greenchemistry/basics-green-chemistry"
+      },
+      {
+        "name": "beIN Sports: Flamini explains market size versus personal wealth",
+        "url": "https://www.beinsports.com/en-mena/football/articles/flamini-i-dont-have-e30billion-in-my-bank-a-1"
+      },
+      {
+        "name": "UEFA, May 5, 2008: Arsenal to AC Milan move",
+        "url": "https://www.uefa.com/news-media/news/01cd-0e6f5d30af66-746fbfcba603-1000--flamini-agrees-to-milan-move/"
+      }
+    ],
+    "relatedSlugs": [
+      "ronaldo-nazario-club-owner-valladolid-cruzeiro-history",
+      "lukas-podolski-mangal-doner-business",
+      "michael-owen-horse-racing-manor-house-stables"
+    ],
+    "faq": [
+      {
+        "question": "What is Mathieu Flamini’s company?",
+        "answer": "GFBiochemicals, co-founded with Pasquale Granata. Its products use levulinate technologies and derivatives, marketed through RE:CHEMISTRY."
+      },
+      {
+        "question": "What funding amount is verified?",
+        "answer": "A €15m Series A announced on May 5, 2022, led by Sofinnova Partners with Sparta Capital participating. It was company funding, not personal income."
+      },
+      {
+        "question": "Was GFBiochemicals founded in 2008 or 2013?",
+        "answer": "The Standard’s 2015 account used 2008; the current company timeline labels 2013 as its foundation. This feature preserves the attributions rather than inventing a legal explanation for the difference."
+      },
+      {
+        "question": "Does the business establish that Flamini is a billionaire?",
+        "answer": "The sources used here do not establish a personal net-worth figure. Market size, company funding, company valuation and an individual’s wealth are different measures."
+      }
+    ],
+    "readingTime": "8 min read"
+  },
+  {
     "id": "610",
     "slug": "selena-gomez-francia-raisa-kidney-donation-2017",
     "title": "Selena Gomez and Francia Raisa: The Kidney Donation Behind Their Story",
