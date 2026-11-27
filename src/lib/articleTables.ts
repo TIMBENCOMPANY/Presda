@@ -8,6 +8,266 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[PATHS27_620]]": {
+    "caption": "From playing championships to building a racing organization",
+    "headers": [
+      "Date",
+      "Verified milestone"
+    ],
+    "rows": [
+      [
+        "1991–1993 and 1996–1998",
+        "Six NBA titles with the Chicago Bulls"
+      ],
+      [
+        "September 21, 2020",
+        "Jordan and Denny Hamlin announce a Cup team for 2021"
+      ],
+      [
+        "October 22, 2020",
+        "23XI Racing name and No. 23 announced"
+      ],
+      [
+        "October 4, 2021",
+        "Bubba Wallace delivers the team’s first Cup victory at Talladega"
+      ],
+      [
+        "August 3, 2023",
+        "Hornets majority sale completed; Jordan retains a minority interest at the sale"
+      ],
+      [
+        "2024",
+        "Airspeed headquarters and Reddick’s regular-season title"
+      ],
+      [
+        "December 11, 2025",
+        "NASCAR and plaintiff teams announce settlement"
+      ],
+      [
+        "February 15, 2026",
+        "Tyler Reddick wins 23XI’s first Daytona 500"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[PATHS27_621]]": {
+    "caption": "The football career and the businesses overlap",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "1996",
+        "Joins Barcelona’s youth system"
+      ],
+      [
+        "2002",
+        "First-team debut for Barcelona"
+      ],
+      [
+        "1990s to 2010",
+        "Father’s vineyard project develops into a winery open to the public"
+      ],
+      [
+        "July 11, 2010",
+        "Scores Spain’s World Cup final winner"
+      ],
+      [
+        "2018",
+        "Leaves Barcelona for Vissel Kobe"
+      ],
+      [
+        "2023",
+        "Reported winery balance-sheet restructuring"
+      ],
+      [
+        "October 8, 2024",
+        "Announces retirement as a player"
+      ],
+      [
+        "April 11, 2025",
+        "Helsingør announces approval of NSN ownership structure"
+      ],
+      [
+        "November 21, 2025",
+        "NSN and Stoneweg announce cycling joint venture for 2026"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[PATHS27_622]]": {
+    "caption": "A comeback built over decades, not one overnight reversal",
+    "headers": [
+      "Date",
+      "Verified event"
+    ],
+    "rows": [
+      [
+        "1993 ceremony",
+        "Best actor nomination for the 1992 film Chaplin"
+      ],
+      [
+        "August 1999",
+        "Three-year prison sentence after probation violations"
+      ],
+      [
+        "August 2000",
+        "Released following an appellate ruling on time credit"
+      ],
+      [
+        "April 2001",
+        "Removed from Ally McBeal after another arrest"
+      ],
+      [
+        "2003",
+        "Gothika; later public accounts place sustained sobriety from this period"
+      ],
+      [
+        "2005",
+        "Kiss Kiss, Bang Bang"
+      ],
+      [
+        "2008–2009",
+        "Iron Man and Tropic Thunder released; supporting Oscar nomination at the 2009 ceremony"
+      ],
+      [
+        "December 24, 2015",
+        "California Governor Jerry Brown grants a pardon"
+      ],
+      [
+        "2019",
+        "Avengers: Endgame"
+      ],
+      [
+        "2022",
+        "Sr. documentary"
+      ],
+      [
+        "March 10, 2024",
+        "First Oscar, supporting actor for Oppenheimer"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[PATHS27_623]]": {
+    "caption": "Four careers with different milestones",
+    "headers": [
+      "Date",
+      "Milestone"
+    ],
+    "rows": [
+      [
+        "July 30, 1947",
+        "Born in Austria; grows up in Thal near Graz"
+      ],
+      [
+        "1967",
+        "Wins Mr. Universe at twenty"
+      ],
+      [
+        "1968",
+        "Moves to the United States"
+      ],
+      [
+        "1970–1975 and 1980",
+        "Seven Mr. Olympia titles"
+      ],
+      [
+        "1970",
+        "Hercules in New York"
+      ],
+      [
+        "1976–1977",
+        "Stay Hungry and Golden Globe acting-debut recognition"
+      ],
+      [
+        "1982 and 1984",
+        "Conan the Barbarian and The Terminator"
+      ],
+      [
+        "1983",
+        "Becomes a US citizen"
+      ],
+      [
+        "1988–1991",
+        "Twins, Total Recall, Kindergarten Cop and Terminator 2 era"
+      ],
+      [
+        "October 7 and November 17, 2003",
+        "Wins recall election, then takes office as California governor"
+      ],
+      [
+        "2006",
+        "Re-elected; signs AB 32"
+      ],
+      [
+        "2011–2012",
+        "Leaves office; USC institute follows"
+      ],
+      [
+        "2023",
+        "FUBAR brings a television-series lead role"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[PATHS27_624]]": {
+    "caption": "Documented milestones and what the numbers measure",
+    "headers": [
+      "Date",
+      "Record and scope"
+    ],
+    "rows": [
+      [
+        "1997",
+        "Shakira establishes Fundación Pies Descalzos in Colombia"
+      ],
+      [
+        "2003",
+        "Becomes a UNICEF Goodwill Ambassador"
+      ],
+      [
+        "October 2009",
+        "UNHCR documents a cooperation agreement on displaced children’s education"
+      ],
+      [
+        "September 2023",
+        "Nuevo Bosque school opens in Barranquilla with multiple partners"
+      ],
+      [
+        "May 2024",
+        "Villas de Aranjuez public-school opening reported in Cartagena"
+      ],
+      [
+        "2024 activity report",
+        "28,157 project participants across 24 municipalities; separately lists 6,700 pupils in supported foundation-named schools"
+      ],
+      [
+        "2024 activity report",
+        "690 teachers participated in foundation training"
+      ],
+      [
+        "2025 institutional history",
+        "Foundation reports seven school deliveries in La Guajira and Tibú"
+      ],
+      [
+        "March 2026 government report",
+        "Tibú delivery recorded, with capacity for 1,000 students in one school shift"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[VENTURES27_615]]": {
     "caption": "The verified route from grass to ice",
     "headers": [
