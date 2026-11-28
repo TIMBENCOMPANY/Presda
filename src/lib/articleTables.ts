@@ -8,6 +8,198 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[STORIES28_625]]": {
+    "caption": "A commitment measured over time",
+    "headers": [
+      "Date",
+      "Documented milestone"
+    ],
+    "rows": [
+      [
+        "2002",
+        "First Make-A-Wish wish, according to Guinness"
+      ],
+      [
+        "August 2015",
+        "Make-A-Wish and WWE celebrate 500 wishes"
+      ],
+      [
+        "July 19, 2022",
+        "Date attached to the Guinness record of 650"
+      ],
+      [
+        "September 20, 2022",
+        "Guinness publishes its record announcement"
+      ],
+      [
+        "June 24, 2026",
+        "Guinness ICON profile reaffirms the dated 650 milestone"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[STORIES28_626]]": {
+    "caption": "The tennis-to-business chronology",
+    "headers": [
+      "Date",
+      "Verified development"
+    ],
+    "rows": [
+      [
+        "January 2010",
+        "On founded, years before Federer joins"
+      ],
+      [
+        "November 25, 2019",
+        "Entrepreneurial relationship and co-ownership announced"
+      ],
+      [
+        "July 6, 2020",
+        "THE ROGER Centre Court 0-Series unveiled"
+      ],
+      [
+        "September 2021",
+        "On prices its New York IPO"
+      ],
+      [
+        "September 2022",
+        "Federer announces retirement from tour competition"
+      ],
+      [
+        "March 2023",
+        "On announces Świątek and Shelton partnerships"
+      ],
+      [
+        "November 10, 2026",
+        "Company reports CHF 931.4 million third-quarter net sales"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[STORIES28_627]]": {
+    "caption": "The dates behind the age discussion",
+    "headers": [
+      "Date",
+      "Fact"
+    ],
+    "rows": [
+      [
+        "September 30, 1964",
+        "Bellucci’s birth date, recorded by Guinness"
+      ],
+      [
+        "December 4, 2014",
+        "Sony announces her casting in Spectre"
+      ],
+      [
+        "December 8, 2014",
+        "Announced start of principal photography; Bellucci is 50"
+      ],
+      [
+        "October 23, 2015",
+        "CNN airs her discussion of a mature Bond woman"
+      ],
+      [
+        "October 26, 2015",
+        "London world premiere; Bellucci is 51"
+      ],
+      [
+        "November 28, 2026",
+        "Variety reports her Marrakech reflections on the role"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[STORIES28_628]]": {
+    "caption": "Flight, investigations and remembrance",
+    "headers": [
+      "Date",
+      "Documented event"
+    ],
+    "rows": [
+      [
+        "February 15, 1977",
+        "First Air New Zealand Antarctic sightseeing flight"
+      ],
+      [
+        "November 28, 1979",
+        "TE901 crashes; 237 passengers and 20 crew die"
+      ],
+      [
+        "June 1980",
+        "Chippindale accident report released"
+      ],
+      [
+        "July 7, 1980",
+        "Royal Commission public hearings begin"
+      ],
+      [
+        "April 27, 1981",
+        "Mahon report publicly released"
+      ],
+      [
+        "October 20, 1983",
+        "Privy Council dismisses Mahon’s appeal on challenged findings"
+      ],
+      [
+        "November 28, 2019",
+        "Government and airline apology at the 40th anniversary"
+      ],
+      [
+        "November 28, 2026",
+        "47th anniversary of the disaster"
+      ],
+      [
+        "December 13, 2026",
+        "Memorial unveiling scheduled, according to the November 27 update"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
+  "[[STORIES28_629]]": {
+    "caption": "From television partnership to a whiskey company",
+    "headers": [
+      "Date",
+      "Documented development"
+    ],
+    "rows": [
+      [
+        "September 10, 2009",
+        "The Vampire Diaries debuts on The CW"
+      ],
+      [
+        "May 2021",
+        "Brother’s Bond launches, according to the brand"
+      ],
+      [
+        "2024",
+        "Brand says select expressions begin using regenerative grain"
+      ],
+      [
+        "February 20, 2025",
+        "029 Group reports a USD 7.5 million financing round"
+      ],
+      [
+        "September 2026",
+        "Hanna interview discusses travel retail and product development"
+      ],
+      [
+        "October 21, 2026",
+        "AWA announces membership and co-founder CEO Hanna’s board appointment"
+      ]
+    ],
+    "minWidthClass": "min-w-[400px]",
+    "boldColumnIndex": 0,
+    "rowKeyIndex": 0
+  },
   "[[PATHS27_620]]": {
     "caption": "From playing championships to building a racing organization",
     "headers": [
